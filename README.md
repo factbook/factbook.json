@@ -1,6 +1,6 @@
 # `factbook.json` - World Factbook Country Profiles in JSON
 
-### What's the World Factbook?
+What's the World Factbook?
 
 The World Factbook [1][2] published by the Central Intelligence Agency (CIA)
 offers free country profiles in the public domain (that is, no copyright(s), no rights reserved).
@@ -8,9 +8,8 @@ offers free country profiles in the public domain (that is, no copyright(s), no 
 - [1] [The World Factbook](https://www.cia.gov/library/publications/the-world-factbook/)
 - [2] [Wikipedia Article: The World Factbook](http://en.wikipedia.org/wiki/The_World_Factbook)
 
-### Example
 
-`at.json` - Austria (`at`)
+Example: `at.json` - Austria (`at`)
 
 ```json
 {
