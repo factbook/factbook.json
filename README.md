@@ -1,6 +1,4 @@
-# factbook.json
-
-World Factbook Country Profiles in JSON
+# `factbook.json` - World Factbook Country Profiles in JSON
 
 ### What's the World Factbook?
 
