@@ -11,7 +11,7 @@ offers free country profiles in the public domain (that is, no copyright(s), no 
 
 ### Examples
 
-Europe/Austria (`at.json`): 
+Europe/Austria - `at.json`: 
 
 ```json
 {
