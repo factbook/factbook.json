@@ -14,7 +14,7 @@ offers free country profiles in the public domain (that is, no copyright(s), no 
 
 `at.json` - Austria (`at`)
 
-~~~
+```json
 {
   "intro": {
     "background": {
@@ -64,7 +64,7 @@ offers free country profiles in the public domain (that is, no copyright(s), no 
       "text": "oil, coal, lignite, timber, iron ore, copper, zinc, antimony, magnesite, tungsten, graphite, salt, hydropower"
     },
     ...
-~~~
+```
 
 
 ## Build Your Own Up-to-Date Country Profiles
