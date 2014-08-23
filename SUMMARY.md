@@ -1,6 +1,6 @@
 ## World Factbook Summary -  1 Supra / 196 Countries / 1 World
 
-#### Europe - 1 Supra / 49 Countries
+#### Europe (1 / 49)
 
 `eu` European Union
 
@@ -55,7 +55,7 @@
 `va` Vatican City
 
 
-#### South America - 12 Countries
+#### South America (12)
 
 `ar` Argentina
 `bo` Bolivia
@@ -71,14 +71,14 @@
 `ve` Venezuela
 
 
-#### North America - 3 Countries
+#### North America (3)
 
 `ca` Canada
 `mx` México
 `us` United States
 
 
-#### Central America - 7 Countries
+#### Central America (7)
 
 `bz` Belize
 `cr` Costa Rica
@@ -89,7 +89,7 @@
 `pa` Panamá
 
 
-#### Caribbean - 13 Countries
+#### Caribbean (13)
 
 `ag` Antigua and Barbuda
 `bs` Bahamas
@@ -106,7 +106,7 @@
 `tt` Trinidad and Tobago
 
 
-#### Africa - 54 Countries
+#### Africa (54)
 
 `dz` Algeria
 `ao` Angola
@@ -165,7 +165,7 @@
 
 
 
-#### Middle East - 14 Countries
+#### Middle East (14)
 
 `bh` Bahrain
 `ir` Iran
@@ -183,7 +183,7 @@
 `ye` Yemen
 
 
-#### Asia - 30 Countries
+#### Asia (30)
 
 `af` Afghanistan
 `bd` Bangladesh
@@ -217,7 +217,7 @@
 `vn` Vietnam
 
 
-#### Pacific - 14 Countries
+#### Pacific (14)
 
 `au` Australia
 `fj` Fiji

@@ -67,7 +67,7 @@ Europe/Austria - `at.json`:
 
 ## World Factbook Summary -  1 Supra / 196 Countries / 1 World
 
-#### Europe - 1 Supra / 49 Countries
+#### Europe (1 / 49)
 
 `eu` European Union
 
@@ -122,7 +122,7 @@ Europe/Austria - `at.json`:
 `va` Vatican City
 
 
-#### South America - 12 Countries
+#### South America (12)
 
 `ar` Argentina
 `bo` Bolivia
@@ -138,14 +138,14 @@ Europe/Austria - `at.json`:
 `ve` Venezuela
 
 
-#### North America - 3 Countries
+#### North America (3)
 
 `ca` Canada
 `mx` México
 `us` United States
 
 
-#### Central America - 7 Countries
+#### Central America (7)
 
 `bz` Belize
 `cr` Costa Rica
@@ -156,7 +156,7 @@ Europe/Austria - `at.json`:
 `pa` Panamá
 
 
-#### Caribbean - 13 Countries
+#### Caribbean (13)
 
 `ag` Antigua and Barbuda
 `bs` Bahamas
@@ -173,7 +173,7 @@ Europe/Austria - `at.json`:
 `tt` Trinidad and Tobago
 
 
-#### Africa - 54 Countries
+#### Africa (54)
 
 `dz` Algeria
 `ao` Angola
@@ -232,7 +232,7 @@ Europe/Austria - `at.json`:
 
 
 
-#### Middle East - 14 Countries
+#### Middle East (14)
 
 `bh` Bahrain
 `ir` Iran
@@ -250,7 +250,7 @@ Europe/Austria - `at.json`:
 `ye` Yemen
 
 
-#### Asia - 30 Countries
+#### Asia (30)
 
 `af` Afghanistan
 `bd` Bangladesh
@@ -284,7 +284,7 @@ Europe/Austria - `at.json`:
 `vn` Vietnam
 
 
-#### Pacific - 14 Countries
+#### Pacific (14)
 
 `au` Australia
 `fj` Fiji
