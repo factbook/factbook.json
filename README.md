@@ -304,7 +304,7 @@ Europe/Austria - `at.json`:
 
 ## Build Your Own Up-to-Date Country Profiles
 
-See the [`factbook`](https://github.com/worlddb/factbook.ruby)
+See the [`factbook`](https://github.com/worlddb/factbook)
 command line tool and scripts for details.
 
 
