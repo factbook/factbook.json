@@ -1,0 +1,936 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "The principalities of Wallachia and Moldavia - for centuries under the suzerainty of the Turkish Ottoman Empire - secured their autonomy in 1856; they were de facto linked in 1859 and formally united in 1862 under the new name of Romania. The country gained recognition of its independence in 1878. It joined the Allied Powers in World War I and acquired new territories - most notably Transylvania - following the conflict. In 1940, Romania allied with the Axis powers and participated in the 1941 German invasion of the USSR. Three years later, overrun by the Soviets, Romania signed an armistice. The post-war Soviet occupation led to the formation of a communist \"people's republic\" in 1947 and the abdication of the king. The decades-long rule of dictator Nicolae CEAUSESCU, who took power in 1965, and his Securitate police state became increasingly oppressive and draconian through the 1980s. CEAUSESCU was overthrown and executed in late 1989. Former communists dominated the government until 1996 when they were swept from power. Romania joined NATO in 2004 and the EU in 2007."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Southeastern Europe, bordering the Black Sea, between Bulgaria and Ukraine"
+    },
+    "Geographic coordinates": {
+      "text": "46 00 N, 25 00 E"
+    },
+    "Map references": {
+      "text": "Europe"
+    },
+    "Area": {
+      "total": {
+        "text": "238,391 sq km"
+      },
+      "land": {
+        "text": "229,891 sq km"
+      },
+      "water": {
+        "text": "8,500 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Oregon"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "2,844 km"
+      },
+      "border countries (5)": {
+        "text": "Bulgaria 605 km, Hungary 424 km, Moldova 683 km, Serbia 531 km, Ukraine 601 km"
+      }
+    },
+    "Coastline": {
+      "text": "225 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200-m depth or to the depth of exploitation"
+      }
+    },
+    "Climate": {
+      "text": "temperate; cold, cloudy winters with frequent snow and fog; sunny summers with frequent showers and thunderstorms"
+    },
+    "Terrain": {
+      "text": "central Transylvanian Basin is separated from the Moldavian Plateau on the east by the Eastern Carpathian Mountains and separated from the Walachian Plain on the south by the Transylvanian Alps"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Black Sea 0 m"
+      },
+      "highest point": {
+        "text": "Moldoveanu 2,544 m"
+      }
+    },
+    "Natural resources": {
+      "text": "petroleum (reserves declining), timber, natural gas, coal, iron ore, salt, arable land, hydropower"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "60.7% ++ arable land 39.1%; permanent crops 1.9%; permanent pasture 19.7%"
+      },
+      "forest": {
+        "text": "28.7%"
+      },
+      "other": {
+        "text": "10.6% (2011 est.)"
+      }
+    },
+    "Irrigated land": {
+      "text": "6,153 sq km (2007)"
+    },
+    "Total renewable water resources": {
+      "text": "211.9 cu km (2011)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "6.88  cu km/yr (22%/61%/17%)"
+      },
+      "per capita": {
+        "text": "320.8  cu m/yr (2009)"
+      }
+    },
+    "Natural hazards": {
+      "text": "earthquakes, most severe in south and southwest; geologic structure and climate promote landslides"
+    },
+    "Environment - current issues": {
+      "text": "soil erosion and degradation; water pollution; air pollution in south from industrial effluents; contamination of Danube delta wetlands"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Air Pollution, Air Pollution-Persistent Organic Pollutants, Antarctic-Environmental Protocol, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "controls most easily traversable land route between the Balkans, Moldova, and Ukraine"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": {
+        "text": "Romanian(s)"
+      },
+      "adjective": {
+        "text": "Romanian"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Romanian 83.4%, Hungarian 6.1%, Roma 3.1%, Ukrainian 0.3%, German 0.2%, other 0.7%, unspecified 6.1% (2011 est.)"
+    },
+    "Languages": {
+      "text": "Romanian (official) 85.4%, Hungarian 6.3%, Romany (Gypsy) 1.2%, other 1%, unspecified 6.1% (2011 est.)"
+    },
+    "Religions": {
+      "text": "Eastern Orthodox (including all sub-denominations) 81.9%, Protestant (various denominations including Reformed and Pentecostal) 6.4%, Roman Catholic 4.3%, other (includes Muslim) 0.9%, none or atheist 0.2%, unspecified 6.3% (2011 est.)"
+    },
+    "Population": {
+      "text": "21,666,350 (July 2015 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "14.49% (male 1,612,090/female 1,526,432)"
+      },
+      "15-24 years": {
+        "text": "10.94% (male 1,215,309/female 1,154,618)"
+      },
+      "25-54 years": {
+        "text": "45.92% (male 5,030,926/female 4,919,140)"
+      },
+      "55-64 years": {
+        "text": "12.92% (male 1,308,475/female 1,491,858)"
+      },
+      "65 years and over": {
+        "text": "15.73% (male 1,376,634/female 2,030,868) (2015 est.)"
+      },
+      "population pyramid": {
+        "text": null
+      }
+    },
+    "Dependency ratios": {
+      "total dependency ratio": {
+        "text": "48.9%"
+      },
+      "youth dependency ratio": {
+        "text": "23.1%"
+      },
+      "elderly dependency ratio": {
+        "text": "25.8%"
+      },
+      "potential support ratio": {
+        "text": "3.9% (2015 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "40.2 years"
+      },
+      "male": {
+        "text": "38.8 years"
+      },
+      "female": {
+        "text": "41.7 years (2015 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "-0.3% (2015 est.)"
+    },
+    "Birth rate": {
+      "text": "9.14 births/1,000 population (2015 est.)"
+    },
+    "Death rate": {
+      "text": "11.9 deaths/1,000 population (2015 est.)"
+    },
+    "Net migration rate": {
+      "text": "-0.24 migrant(s)/1,000 population (2015 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "54.6% of total population (2015)"
+      },
+      "rate of urbanization": {
+        "text": "0.01% annual rate of change (2010-15 est.)"
+      }
+    },
+    "Major urban areas - population": {
+      "text": "BUCHAREST (capital) 1.868 million (2015)"
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.06 male(s)/female"
+      },
+      "0-14 years": {
+        "text": "1.06 male(s)/female"
+      },
+      "15-24 years": {
+        "text": "1.05 male(s)/female"
+      },
+      "25-54 years": {
+        "text": "1.02 male(s)/female"
+      },
+      "55-64 years": {
+        "text": "0.88 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.68 male(s)/female"
+      },
+      "total population": {
+        "text": "0.95 male(s)/female (2015 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "9.89 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "11.23 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "8.47 deaths/1,000 live births (2015 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "74.92 years"
+      },
+      "male": {
+        "text": "71.46 years"
+      },
+      "female": {
+        "text": "78.59 years (2015 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.33 children born/woman (2015 est.)"
+    },
+    "Contraceptive prevalence rate": {
+      "text": "69.8%",
+      "note": {
+        "text": "percent of women aged 18-49 (2005)"
+      }
+    },
+    "Health expenditures": {
+      "text": "5.3% of GDP (2013)"
+    },
+    "Physicians density": {
+      "text": "2.45 physicians/1,000 population (2012)"
+    },
+    "Hospital bed density": {
+      "text": "6.1 beds/1,000 population (2011)"
+    },
+    "Drinking water source": {
+      "improved": {
+        "text": " ++ urban: 100% of population ++ rural: 100% of population ++ total: 100% of population"
+      },
+      "unimproved": {
+        "text": " ++ urban: 0% of population ++ rural: 0% of population ++ total: 0% of population (2015 est.)"
+      }
+    },
+    "Sanitation facility access": {
+      "improved": {
+        "text": " ++ urban: 92.2% of population ++ rural: 63.3% of population ++ total: 79.1% of population"
+      },
+      "unimproved": {
+        "text": " ++ urban: 7.8% of population ++ rural: 36.7% of population ++ total: 20.9% of population (2015 est.)"
+      }
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.11% (2013 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "16,200 (2013 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "500 (2013 est.)"
+    },
+    "Obesity - adult prevalence rate": {
+      "text": "23.4% (2014)"
+    },
+    "Education expenditures": {
+      "text": "3.1% of GDP (2011)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "98.8%"
+      },
+      "male": {
+        "text": "99.1%"
+      },
+      "female": {
+        "text": "98.5% (2015 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "14 years"
+      },
+      "male": {
+        "text": "14 years"
+      },
+      "female": {
+        "text": "15 years (2011)"
+      }
+    },
+    "Child labor - children ages 5-14": {
+      "total number": {
+        "text": "26,658"
+      },
+      "percentage": {
+        "text": "1% (2000 est.)"
+      }
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": {
+        "text": "22.7%"
+      },
+      "male": {
+        "text": "22.3%"
+      },
+      "female": {
+        "text": "23.2% (2012 est.)"
+      }
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "none"
+      },
+      "conventional short form": {
+        "text": "Romania"
+      },
+      "local long form": {
+        "text": "none"
+      },
+      "local short form": {
+        "text": "Romania"
+      }
+    },
+    "Government type": {
+      "text": "republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Bucharest"
+      },
+      "geographic coordinates": {
+        "text": "44 26 N, 26 06 E"
+      },
+      "time difference": {
+        "text": "UTC+2 (7 hours ahead of Washington, DC, during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
+      }
+    },
+    "Administrative divisions": {
+      "text": "41 counties (judete, singular - judet) and 1 municipality* (municipiu); Alba, Arad, Arges, Bacau, Bihor, Bistrita-Nasaud, Botosani, Braila, Brasov, Bucuresti (Bucharest)*, Buzau, Calarasi, Caras-Severin, Cluj, Constanta, Covasna, Dambovita, Dolj, Galati, Gorj, Giurgiu, Harghita, Hunedoara, Ialomita, Iasi, Ilfov, Maramures, Mehedinti, Mures, Neamt, Olt, Prahova, Salaj, Satu Mare, Sibiu, Suceava, Teleorman, Timis, Tulcea, Vaslui, Valcea, Vrancea"
+    },
+    "Independence": {
+      "text": "9 May 1877 (independence proclaimed from the Ottoman Empire; independence recognized on 13 July 1878 by the Treaty of Berlin); 26 March 1881 (kingdom proclaimed); 30 December 1947 (republic proclaimed)"
+    },
+    "National holiday": {
+      "text": "Unification Day (of Romania and Transylvania), 1 December (1918)"
+    },
+    "Constitution": {
+      "text": "several previous; latest adopted 21 November 1991, approved by referendum and effective 8 December 1991; amended 2003 (2014)"
+    },
+    "Legal system": {
+      "text": "civil law system"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Klaus IOHANNIS (since 21 December 2014)"
+      },
+      "head of government": {
+        "text": "Prime Minister Victor-Viorel PONTA (since 7 May 2012); Deputy Prime Minister Gabriel OPREA (since 5 March 2014)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers appointed by the prime minister"
+      },
+      "elections/appointments": {
+        "text": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 2 November 2014 with a runoff on 16 November 2014 (next to be held on 16 November 2019); prime minister appointed by the president with consent of Parliament"
+      },
+      "election results": {
+        "text": "Klaus IOHANNIS elected president; percent of vote in runoff - Klaus IOHANNIS (PNL) 54.4%, Victor PONTA (PSD) 45.6%"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "bicameral Parliament or Parlament consists of the Senate or Senat (176 seats; 137 members directly elected in single-seat constituencies by absolute majority vote and 39 directly elected in single-seat constituencies by proportional representation vote; members serve 4-year terms) and the Chamber of Deputies or Camera Deputatilor (412 seats; 315 members directly elected in single-seat constituencies by absolute majority vote and 97 directly elected in single-seat constituencies by proportional representation vote; members serve 4-year terms); note - in the Chamber of Deputies, seats are reserved for minority parties that receive at least 10 percent of total valid votes cast"
+      },
+      "elections": {
+        "text": "Senate - last held on 9 December 2012 (next to be held by December 2016); Chamber of Deputies - last held on 9 December 2012 (next to be held by December 2016)"
+      },
+      "election results": {
+        "text": "Senate - percent of vote by alliance/party - USL 60.1%, ARD 16.7%, PP-DD 14.6%, UDMR 5.3%, other 3.3%; seats by alliance/party - USL 122, ARD 24, PP-DD 21, UDMR 9; Chamber of Deputies - percent of vote by alliance/party - USL 58.6%, ARD 16.5%, PP-DD 14%, UDMR 5.2%, ethnic minorities 2.6%, other 3.1%; seats by alliance/party - USL 273, ARD 56, PP-DD 47, UDMR 18, ethnic minorities 18"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "High Court of Cassation and Justice (consists of 111 judges organized into civil, penal, commercial, contentious administrative and fiscal business, and joint sections); Supreme Constitutional Court (consists of 9 members)"
+      },
+      "judge selection and term of office": {
+        "text": "High Court of Cassation and Justice judges appointed by the president upon nomination by the Superior Council of Magistracy, a 19-member body of judges, prosecutors, and law specialists; judges appointed for 6-year renewable terms; Constitutional Court members - 6 elected by Parliament and 3 appointed by the president; members serve 9-year, non-renewable terms"
+      },
+      "subordinate courts": {
+        "text": "Courts of Appeal; regional tribunals; first instance courts; military and arbitration courts"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "Christian-Democratic National Peasants' Party or PNT-CD [Aurelian PAVELESCU] ++ Conservative Party or PC [Daniel CONSTANTIN] (formerly Humanist Party or PUR) ++ Democratic Union of Hungarians in Romania or UDMR [Hunor KELEMEN] ++ National Liberal Party or PNL [Alina GORGIU and Vasile BLAGA co-presidents] - combined with former PDL and FC ++ National Union for Romania's Progress or UNPR [Gabriel OPREA] ++ New Republic Party or NR [Mihail NEAMTU] ++ People's Party - Dan Diaconescu or PP-DD [Marin DIACONESCU] ++ Popular Movement Party or PMP [Eugen TOMAC] ++ Social Democratic Party or PSD [Victor-Viorel PONTA] (formerly Party of Social Democracy in Romania or PDSR)"
+    },
+    "Political pressure groups and leaders": {
+      "other": {
+        "text": "various human rights and professional associations"
+      }
+    },
+    "International organization participation": {
+      "text": "Australia Group, BIS, BSEC, CBSS (observer), CD, CE, CEI, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, G-9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MONUSCO, NATO, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador George Cristian MAIOR (since 17 September 2015)"
+      },
+      "chancery": {
+        "text": "1607 23rd Street NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 332-4846, 4848, 4851, 4852"
+      },
+      "FAX": {
+        "text": "[1] (202) 232-4748"
+      },
+      "consulate(s) general": {
+        "text": "Chicago, Los Angeles, New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Hans G. KLEMM (since 21 September 2015)"
+      },
+      "embassy": {
+        "text": "Bulevardul Dr. Liviu Librescu 4-6, District 1, Bucharest, 015118"
+      },
+      "mailing address": {
+        "text": "American Embassy Bucharest, US Department of State, 5260 Bucharest Place, Washington, DC 20521-5260 (pouch)"
+      },
+      "telephone": {
+        "text": "[40] (21) 200-3300"
+      },
+      "FAX": {
+        "text": "[40] (21) 200-3442"
+      }
+    },
+    "Flag description": {
+      "text": "three equal vertical bands of blue (hoist side), yellow, and red; modeled after the flag of France, the colors are those of the principalities of Walachia (red and yellow) and Moldavia (red and blue), which united in 1862 to form Romania; the national coat of arms that used to be centered in the yellow band has been removed",
+      "note": {
+        "text": "now similar to the flag of Chad, whose blue band is darker; also resembles the flags of Andorra and Moldova"
+      }
+    },
+    "National symbol(s)": {
+      "text": "golden eagle; national colors: blue, yellow, red"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Desteapta-te romane!\" (Wake up, Romanian!)"
+      },
+      "lyrics/music": {
+        "text": "Andrei MURESIANU/Anton PANN"
+      },
+      "note": {
+        "text": "adopted 1990; the anthem was written during the 1848 Revolution"
+      }
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Romania, which joined the EU on 1 January 2007, began the transition from Communism in 1989 with a largely obsolete industrial base and a pattern of output unsuited to the country's needs. Romania's macroeconomic gains have only recently started to spur creation of a middle class and to address Romania's widespread poverty. Corruption and red tape continue to permeate the business environment. In the aftermath of the global financial crisis, Romania signed on to a $26 billion emergency assistance package from the IMF, the EU, and other international lenders, but GDP contracted until 2011. In March 2011, Romania and the IMF/EU/World Bank signed a 24-month precautionary stand-by agreement, worth $6.6 billion, to promote fiscal discipline, encourage progress on structural reforms, and strengthen financial sector stability. In September 2013, Romanian authorities and the IMF/EU agreed to a follow-on precautionary two-year stand-by agreement, worth $5.4 billion, to continue with reforms, although Bucharest has announced that it does not intend to draw funds under the agreement. Economic growth rebounded in 2013, driven by strong industrial exports and an excellent agricultural harvest, and the current account deficit was reduced substantially. The economy closed out 2014 with 2.8% growth, down from the 3.5% posted in 2013. Industry outperformed other sectors of the economy. Exports remained the engine of economic growth, led by trade with the EU, which accounts for roughly 70% of Romania trade. In 2014, the Government of Romania succeeded in meeting its annual target for the budget deficit, the external deficit remained low, and inflation was the lowest since 1989, allowing a gradual loosening of the monetary policy throughout the year. However, progress on structural reforms has been uneven and the economy still is vulnerable to external shocks. An ageing population, weak domestic demand, tax evasion, and insufficient health-care represent the top vulnerabilities."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$392.8 billion (2014 est.) ++ $381.7 billion (2013 est.) ++ $369.2 billion (2012 est.)",
+      "note": {
+        "text": "data are in 2014 US dollars"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$200 billion (2014 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "2.9% (2014 est.) ++ 3.4% (2013 est.) ++ 0.6% (2012 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$19,700 (2014 est.) ++ $19,200 (2013 est.) ++ $18,500 (2012 est.)",
+      "note": {
+        "text": "data are in 2014 US dollars"
+      }
+    },
+    "Gross national saving": {
+      "text": "22.5% of GDP (2014 est.) ++ 23.7% of GDP (2013 est.) ++ 22.5% of GDP (2012 est.)"
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "69.3%"
+      },
+      "government consumption": {
+        "text": "7.6%"
+      },
+      "investment in fixed capital": {
+        "text": "23%"
+      },
+      "investment in inventories": {
+        "text": "0.6%"
+      },
+      "exports of goods and services": {
+        "text": "41.1%"
+      },
+      "imports of goods and services": {
+        "text": "-40.9% ++  (2014 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "5.4%"
+      },
+      "industry": {
+        "text": "27.3%"
+      },
+      "services": {
+        "text": "67.3% (2014 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "wheat, corn, barley, sugar beets, sunflower seed, potatoes, grapes; eggs, sheep"
+    },
+    "Industries": {
+      "text": "electric machinery and equipment, textiles and footwear, light machinery, auto assembly, mining, timber, construction materials, metallurgy, chemicals, food processing, petroleum refining"
+    },
+    "Industrial production growth rate": {
+      "text": "3.6% (2014 est.)"
+    },
+    "Labor force": {
+      "text": "9.172 million (2014 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "27.9%"
+      },
+      "industry": {
+        "text": "28.2%"
+      },
+      "services": {
+        "text": "43.9% (2013)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "6.4% (2014 est.) ++ 7.2% (2013 est.)"
+    },
+    "Population below poverty line": {
+      "text": "22.6% (2011 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "14.5%"
+      },
+      "highest 10%": {
+        "text": "7.7% (2013 est.)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "27.3 (2012) ++ 24.2 (2010)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$63.85 billion"
+      },
+      "expenditures": {
+        "text": "$67.58 billion (2014 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "32.1% of GDP (2014 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-1.9% of GDP (2014 est.)"
+    },
+    "Public debt": {
+      "text": "39.6% of GDP (2014 est.) ++ 38% of GDP (2013 est.)",
+      "note": {
+        "text": "defined by the EU's Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year in the following categories of government liabilities: currency and deposits, securities other than shares excluding financial derivatives, and loans; general government sector comprises the subsectors: central government, state government, local government, and social security funds"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "1.1% (2014 est.) ++ 4% (2013 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "2.75% (31 December 2014) ++ 4% (31 December 2013)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "8.45% (31 December 2014 est.) ++ 10.52% (31 December 2013 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$32.05 billion (31 December 2014 est.) ++ $30.82 billion (31 December 2013 est.)"
+    },
+    "Stock of broad money": {
+      "text": "$70.61 billion (31 December 2014 est.) ++ $74.11 billion (31 December 2013 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$80.6 billion (31 December 2014 est.) ++ $81.58 billion (31 December 2013 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$37.26 billion (31 December 2014 est.) ++ $43.67 billion (31 December 2013) ++ $31.71 billion (31 December 2012 est.)"
+    },
+    "Current account balance": {
+      "text": "-$921 million (2014 est.) ++ -$2.059 billion (2013 est.)"
+    },
+    "Exports": {
+      "text": "$69.25 billion (2014 est.) ++ $58.29 billion (2013 est.)"
+    },
+    "Exports - commodities": {
+      "text": "machinery and equipment, metals and metal products, textiles and footwear, chemicals, agricultural products, minerals and fuels"
+    },
+    "Exports - partners": {
+      "text": "Germany 19.6%, Italy 12.1%, France 6.9%, Hungary 5.2%, Turkey 4.6%, UK 4.2% (2014)"
+    },
+    "Imports": {
+      "text": "$77.23 billion (2014 est.) ++ $65.58 billion (2013 est.)"
+    },
+    "Imports - commodities": {
+      "text": "machinery and equipment, chemicals, fuels and minerals, metals, textile and products, agricultural products"
+    },
+    "Imports - partners": {
+      "text": "Germany 19.2%, Italy 10.9%, Hungary 7.9%, France 5.7%, Poland 4.7% (2014)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$42.96 billion (31 December 2014 est.) ++ $48.82 billion (31 December 2013 est.)"
+    },
+    "Debt - external": {
+      "text": "$114.1 billion (31 December 2014 est.) ++ $129.3 billion (31 December 2013 est.)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$87.24 billion (31 December 2014 est.) ++ $83.62 billion (31 December 2013 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$2.697 billion (31 December 2014 est.) ++ $2.327 billion (31 December 2013 est.)"
+    },
+    "Exchange rates": {
+      "text": "lei (RON) per US dollar - ++ 3.3492 (2014 est.) ++ 3.3279 (2013 est.) ++ 3.47 (2012 est.) ++ 3.0486 (2011 est.) ++ 3.1779 (2010 est.)"
+    }
+  },
+  "Energy": {
+    "Electricity - production": {
+      "text": "55.78 billion kWh (2013 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "49.69 billion kWh (2013 est.)"
+    },
+    "Electricity - exports": {
+      "text": "2.466 billion kWh (2013 est.)"
+    },
+    "Electricity - imports": {
+      "text": "450 million kWh (2013 est.)"
+    },
+    "Electricity - installed generating capacity": {
+      "text": "24 million kW (2013 est.)"
+    },
+    "Electricity - from fossil fuels": {
+      "text": "50% of total installed capacity (2013 est.)"
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "5.8% of total installed capacity (2013 est.)"
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "29.7% of total installed capacity (2013 est.)"
+    },
+    "Electricity - from other renewable sources": {
+      "text": "14.5% of total installed capacity (2013 est.)"
+    },
+    "Crude oil - production": {
+      "text": "92,390 bbl/day (2013 est.)"
+    },
+    "Crude oil - exports": {
+      "text": "1,604 bbl/day (2010 est.)"
+    },
+    "Crude oil - imports": {
+      "text": "122,000 bbl/day (2010 est.)"
+    },
+    "Crude oil - proved reserves": {
+      "text": "600 million bbl (1 January 2014 est.)"
+    },
+    "Refined petroleum products - production": {
+      "text": "218,700 bbl/day (2010 est.)"
+    },
+    "Refined petroleum products - consumption": {
+      "text": "215,300 bbl/day (2013 est.)"
+    },
+    "Refined petroleum products - exports": {
+      "text": "75,480 bbl/day (2010 est.)"
+    },
+    "Refined petroleum products - imports": {
+      "text": "44,070 bbl/day (2010 est.)"
+    },
+    "Natural gas - production": {
+      "text": "11.4 billion cu m (2014 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "12.1 billion cu m (2014 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "241.7 million cu m (2014 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "801 million cu m (2014 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "105.5 billion cu m (1 January 2014 est.)"
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "86.06 million Mt (2012 est.)"
+    }
+  },
+  "Communications": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "4.6 million"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "21 (2014 est.)"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "22.9 million"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "105 (2014 est.)"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "the telecommunications sector is being expanded and modernized; domestic and international service improving rapidly, especially mobile-cellular services"
+      },
+      "domestic": {
+        "text": "more than 90% of telephone network is automatic; fixed-line teledensity exceeds 20 telephones per 100 persons; mobile-cellular teledensity roughly 110 telephones per 100 persons"
+      },
+      "international": {
+        "text": "country code - 40; the Black Sea Fiber Optic System provides connectivity to Bulgaria and Turkey; satellite earth stations - 10; digital, international, direct-dial exchanges operate in Bucharest (2011)"
+      }
+    },
+    "Broadcast media": {
+      "text": "a mixture of public and private TV stations; the public broadcaster operates multiple stations; roughly 100 private national, regional, and local stations; more than 75% of households are connected to multi-channel cable or satellite TV systems that provide access to Romanian, European, and international stations; state-owned public radio broadcaster operates 4 national networks and regional and local stations; more than 100 private radio stations (2008)"
+    },
+    "Radio broadcast stations": {
+      "text": "698 (station frequency type NA) (2006)"
+    },
+    "Television broadcast stations": {
+      "text": "623 (plus 200 repeaters) (2006)"
+    },
+    "Internet country code": {
+      "text": ".ro"
+    },
+    "Internet users": {
+      "total": {
+        "text": "11.2 million"
+      },
+      "percent of population": {
+        "text": "51.7% (2014 est.)"
+      }
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "45 (2013)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "26"
+      },
+      "over 3,047 m": {
+        "text": "4"
+      },
+      "2,438 to 3,047 m": {
+        "text": "10"
+      },
+      "1,524 to 2,437 m": {
+        "text": "11"
+      },
+      "under 914 m": {
+        "text": "1 (2013)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "19"
+      },
+      "914 to 1,523 m": {
+        "text": "5"
+      },
+      "under 914 m": {
+        "text": " ++ 14 (2013)"
+      }
+    },
+    "Heliports": {
+      "text": "2 (2013)"
+    },
+    "Pipelines": {
+      "text": "gas 3,726 km; oil 2,451 km (2013)"
+    },
+    "Railways": {
+      "total": {
+        "text": "11,268 km"
+      },
+      "broad gauge": {
+        "text": "60 km 1.524-m gauge"
+      },
+      "standard gauge": {
+        "text": "10,781 km 1.435-m gauge (3,292 km electrified)"
+      },
+      "narrow gauge": {
+        "text": "427 km 0.760-m gauge (2014)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "84,185 km"
+      },
+      "paved": {
+        "text": "49,873 km (includes 337 km of expressways)"
+      },
+      "unpaved": {
+        "text": "34,312 km (2012)"
+      }
+    },
+    "Waterways": {
+      "text": "1,731 km (includes 1,075 km on the Danube River, 524 km on secondary branches, and 132 km on canals) (2010)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "5"
+      },
+      "by type": {
+        "text": "cargo 1, passenger/cargo 2, petroleum tanker 1, roll on/roll off 1"
+      },
+      "foreign-owned": {
+        "text": "1 (Russia 1)"
+      },
+      "registered in other countries": {
+        "text": "31 (Georgia 7, Liberia 3, Malta 7, Marshall Islands 2, Moldova 2, Panama 3, Russia 1, Saint Vincent and the Grenadines 1, Sierra Leone 2, Tanzania 1, Togo 1, unknown 1) (2010)"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Constanta, Midia"
+      },
+      "river port(s)": {
+        "text": "Braila, Galati (Galatz), Mancanului (Giurgiu), Tulcea (Danube River)"
+      }
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Land Forces, Naval Forces (Fortele Naval, FN), Romanian Air Force (Fortele Aeriene Romane, FAR) (2013)"
+    },
+    "Military service age and obligation": {
+      "text": "conscription ended 2006; 18 years of age for male and female voluntary service; all military inductees (including women) contract for an initial 5-year term of service, with subsequent successive 3-year terms until age 36 (2015)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "5,601,234"
+      },
+      "females age 16-49": {
+        "text": "5,428,939 (2010 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "4,550,409"
+      },
+      "females age 16-49": {
+        "text": "4,507,880 (2010 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "117,798"
+      },
+      "female": {
+        "text": "111,607 (2010 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "1.42% of GDP (2014 est.) ++ 1.3% of GDP (2013) ++ 1.29% of GDP (2012) ++ 1.3% of GDP (2011) ++ 1.29% of GDP (2010)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "the ICJ ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; Romania opposes Ukraine's reopening of a navigation canal from the Danube border through Ukraine to the Black Sea"
+    },
+    "Refugees and internally displaced persons": {
+      "stateless persons": {
+        "text": "299 (2014)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "major transshipment point for Southwest Asian heroin transiting the Balkan route and small amounts of Latin American cocaine bound for Western Europe; although not a significant financial center, role as a narcotics conduit leaves it vulnerable to laundering, which occurs via the banking system, currency exchange houses, and casinos"
+    }
+  }
+}
