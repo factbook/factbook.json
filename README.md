@@ -56,7 +56,8 @@ Europe/Austria - `au.json`:
     },
     "Climate": {
       "text": "temperate; continental, cloudy; cold winters with frequent rain and
-               some snow in lowlands and snow in mountains; moderate summers with occasional showers"
+               some snow in lowlands and snow in mountains;
+               moderate summers with occasional showers"
     },
     "Elevation extremes": {
       "lowest point": {
