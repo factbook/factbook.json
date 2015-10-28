@@ -11,59 +11,68 @@ offers free country profiles in the public domain (that is, no copyright(s), no 
 
 ## Examples
 
-Europe/Austria - `at.json`: 
+Europe/Austria - `au.json`: 
 
 ```json
 {
-  "intro": {
-    "background": {
+  "Introduction": {
+    "Background": {
       "text": "Once the center of power for the large Austro-Hungarian Empire,
-               Austria was reduced to a small republic after its defeat in World War ..."
+               Austria was reduced to a small republic after its defeat in World War..."
     }
   },
-  "geo": {
-    "location": {
+  "Geography": {
+    "Location": {
       "text": "Central Europe, north of Italy and Slovenia"
     },
-    "geographic_coordinates": {
+    "Geographic coordinates": {
       "text": "47 20 N, 13 20 E"
     },
-    "map_references": {
+    "Map references": {
       "text": "Europe"
     },
-    "area": {
-      "total": "83,871 sq km",
-      "land": "82,445 sq km",
-      "water": "1,426 sq km"
+    "Area": {
+      "total": {
+        "text": "83,871 sq km"
+      },
+      "land": {
+        "text": "82,445 sq km"
+      },
+      "water": {
+        "text": "1,426 sq km"
+      }
     },
-    "area_comparative": {
-      "text": "slightly smaller than Maine"
+    "Area - comparative": {
+      "text": "about the size of South Carolina...",
     },
-    "land_boundaries": {
-      "total": "2,562 km",
-      "border_countries": "Czech Republic 362 km, Germany 784 km, Hungary 366 km, Italy 430 km, Liechtenstein 35 km, Slovakia 91 km, Slovenia 330 km, Switzerland 164 km"
+    "Land boundaries": {
+      "total": {
+        "text": "2,524 km"
+      },
+      "border countries": {
+        "text": "Czech Republic 402 km, Germany 801 km, Hungary 321 km, Italy 404 km,
+                 Liechtenstein 34 km, Slovakia 105 km, Slovenia 299 km, Switzerland 158 km"
+      }
     },
-    "coastline": {
-      "text": "0 km (landlocked)"
+    "Climate": {
+      "text": "temperate; continental, cloudy; cold winters with frequent rain and
+               some snow in lowlands and snow in mountains; moderate summers with occasional showers"
     },
-    "maritime_claims": {
-      "text": "none (landlocked)"
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Neusiedler See 115 m"
+      },
+      "highest point": {
+        "text": "Grossglockner 3,798 m"
+      }
     },
-    "climate": {
-      "text": "temperate; continental, cloudy; cold winters with frequent rain and some snow in lowlands and snow in mountains; moderate summers with occasional showers"
-    },
-    "terrain": {
-      "text": "in the west and south mostly mountains (Alps); along the eastern and northern margins mostly flat or gently sloping"
-    },
-    "elevation_extremes": {
-      "lowest_point": "Neusiedler See 115 m",
-      "highest_point": "Grossglockner 3,798 m"
-    },
-    "natural_resources": {
-      "text": "oil, coal, lignite, timber, iron ore, copper, zinc, antimony, magnesite, tungsten, graphite, salt, hydropower"
+    "Natural resources": {
+      "text": "oil, coal, lignite, timber, iron ore, copper, zinc, antimony,
+               magnesite, tungsten, graphite, salt, hydropower"
     },
     ...
 ```
+
 
 ## The World Factbook Summary (267 Entries)
 
