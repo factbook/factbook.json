@@ -38,7 +38,7 @@
       "total": {
         "text": "16,145 km"
       },
-      "border countries (10)": {
+      "border countries": {
         "text": "Argentina 1,263 km, Bolivia 3,403 km, Colombia 1,790 km, French Guiana 649 km, Guyana 1,308 km, Paraguay 1,371 km, Peru 2,659 km, Suriname 515 km, Uruguay 1,050 km, Venezuela 2,137 km"
       }
     },
@@ -412,6 +412,17 @@
     "International law organization participation": {
       "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
     },
+    "Citizenship": {
+      "birthright citizenship": {
+        "text": "yes"
+      },
+      "dual citizenship recognized": {
+        "text": "yes"
+      },
+      "residency requirement for naturalization": {
+        "text": "4 years"
+      }
+    },
     "Suffrage": {
       "text": "voluntary between 16 to 18 years of age and over 70; compulsory between 18 to 70 years of age; note - military conscripts by law cannot vote"
     },
@@ -448,13 +459,13 @@
     },
     "Judicial branch": {
       "highest court(s)": {
-        "text": "Supreme Federal Court (consists of 11 justices)"
+        "text": "Supreme Federal Court or Supremo Tribunal Federal (consists of 11 justices)"
       },
       "judge selection and term of office": {
-        "text": "justices appointed by the president and approved by the Federal Senate; justices appointed to serve until mandatory retirement at age 70"
+        "text": "justices appointed by the president and approved by the Federal Senate; justices appointed to serve until mandatory retirement at age 75"
       },
       "subordinate courts": {
-        "text": "Federal Appeals Court, Superior Court of Justice, Superior Electoral Court, regional federal courts; state court system"
+        "text": "Tribunal of the Union, Federal Appeals Court, Superior Court of Justice, Superior Electoral Court, regional federal courts; state court system"
       }
     },
     "Political parties and leaders": {
@@ -507,7 +518,10 @@
       }
     },
     "Flag description": {
-      "text": "green with a large yellow diamond in the center bearing a blue celestial globe with 27 white five-pointed stars; the globe has a white equatorial band with the motto ORDEM E PROGRESSO (Order and Progress); the current flag was inspired by the banner of the former Empire of Brazil (1822-1889); on the imperial flag, the green represented the House of Braganza of Pedro I, the first Emperor of Brazil, while the yellow stood for the Habsburg Family of his wife; on the modern flag the green represents the forests of the country and the yellow rhombus its mineral wealth; the blue circle and stars, which replaced the coat of arms of the original flag, depict the sky over Rio de Janeiro on the morning of 15 November 1889 - the day the Republic of Brazil was declared; the number of stars has changed with the creation of new states and has risen from an original 21 to the current 27 (one for each state and the Federal District)"
+      "text": "green with a large yellow diamond in the center bearing a blue celestial globe with 27 white five-pointed stars; the globe has a white equatorial band with the motto ORDEM E PROGRESSO (Order and Progress); the current flag was inspired by the banner of the former Empire of Brazil (1822-1889); on the imperial flag, the green represented the House of Braganza of Pedro I, the first Emperor of Brazil, while the yellow stood for the Habsburg Family of his wife; on the modern flag the green represents the forests of the country and the yellow rhombus its mineral wealth (the diamond shape roughly mirrors that of the country); the blue circle and stars, which replaced the coat of arms of the original flag, depict the sky over Rio de Janeiro on the morning of 15 November 1889 - the day the Republic of Brazil was declared; the number of stars has changed with the creation of new states and has risen from an original 21 to the current 27 (one for each state and the Federal District)",
+      "note": {
+        "text": "one of several flags where a prominent component of the design reflects the shape of the country; other such flags are those of Bosnia and Herzegovina, Eritrea, and Vanuatu"
+      }
     },
     "National symbol(s)": {
       "text": "Southern Cross constellation; national colors: green, yellow, blue"
@@ -526,7 +540,7 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Characterized by large and well-developed agricultural, mining, manufacturing, and service sectors, and a rapidly expanding middle class, Brazil's economy outweighs that of all other South American countries, and Brazil is expanding its presence in world markets. Since 2003, Brazil has steadily improved its macroeconomic stability, building up foreign reserves, and reducing its debt profile by shifting its debt burden toward real denominated and domestically held instruments. Since 2008, Brazil became a net external creditor and all three of the major ratings agencies awarded investment grade status to its debt. After strong growth in 2007 and 2008, the onset of the global financial crisis hit Brazil in 2008. Brazil experienced two quarters of recession, as global demand for Brazil's commodity-based exports dwindled and external credit dried up. However, Brazil was one of the first emerging markets to begin a recovery. In 2010, consumer and investor confidence revived and GDP growth reached 7.5%, the highest growth rate in the past 25 years. After reaching historic lows of 4.5% in early 2014, the unemployment rate remains low, but is rising.  Brazil's traditionally high level of income inequality has declined for each of the last 15 years. GDP growth has slowed since 2011, due to several factors, including: overdependence on exports of raw commodities, low productivity, high operational costs, persistently high inflation, and low levels of investment. Brazil’s fiscal and current account balances have eroded during the past four years as the government attempted to boost economic growth through targeted tax cuts for industry and incentives to spur household consumption. After winning re-election in October 2014 by a historically narrow margin, President Dilma ROUSSEFF appointed a new economic team led by Finance Minister Joaquim LEVY, who introduced a fiscal austerity package intended to restore the primary account surplus to 1.2% of GDP and preserve the country’s investment-grade sovereign credit rating.  Brazil seeks to strengthen its workforce and its economy over the long run by imposing local content and technology transfer requirements on foreign businesses, by investing in education through social programs such as Bolsa Familia and the Brazil Science Mobility Program, and by investing in research in the areas of space, nanotechnology, healthcare, and energy."
+      "text": "Characterized by large and well-developed agricultural, mining, manufacturing, and service sectors, and a rapidly expanding middle class, Brazil's economy outweighs that of all other South American countries, and Brazil is expanding its presence in world markets. Since 2003, Brazil has steadily improved its macroeconomic stability, building up foreign reserves, and reducing its debt profile by shifting its debt burden toward real denominated and domestically held instruments. Since 2008, Brazil became a net external creditor and all three of the major ratings agencies awarded investment grade status to its debt. ++  ++ After strong growth in 2007 and 2008, the onset of the global financial crisis hit Brazil in 2008. Brazil experienced two quarters of recession, as global demand for Brazil's commodity-based exports dwindled and external credit dried up. However, Brazil was one of the first emerging markets to begin a recovery. In 2010, consumer and investor confidence revived and GDP growth reached 7.5%, the highest growth rate in the past 25 years. GDP growth has slowed since 2011, due to several factors, including: overdependence on exports of raw commodities, low productivity, high operational costs, persistently high inflation, and low levels of investment. After reaching historic lows of 4.5% in early 2014, the unemployment rate remains low, but is rising. Brazil's traditionally high level of income inequality has declined for each of the last 15 years. ++  ++ Brazil’s fiscal and current account balances have eroded during the past four years as the government attempted to boost economic growth through targeted tax cuts for industry and incentives to spur household consumption. After winning reelection in October 2014 by a historically narrow margin, President Dilma ROUSSEFF appointed a new economic team led by Finance Minister Joaquim LEVY, who introduced a fiscal austerity package intended to restore the primary account surplus to 1.2% of GDP and preserve the country's investment-grade sovereign credit rating. ++  ++ Brazil seeks to strengthen its workforce and its economy over the long run by imposing local content and technology transfer requirements on foreign businesses, by investing in education through social programs such as Bolsa Familia and the Brazil Science Mobility Program, and by investing in research in the areas of space, nanotechnology, healthcare, and energy."
     },
     "GDP (purchasing power parity)": {
       "text": "$3.264 trillion (2014 est.) ++ $3.259 trillion (2013 est.) ++ $3.172 trillion (2012 est.)",
@@ -689,7 +703,7 @@
       "text": "$381 billion (31 December 2014 est.) ++ $358.8 billion (31 December 2013 est.)"
     },
     "Debt - external": {
-      "text": "$535.4 billion (31 December 2014 est.) ++ $482.8 billion (31 December 2013 est.)"
+      "text": "$712.5 billion (31 December 2014 est.) ++ $482.8 billion (31 December 2013 est.)"
     },
     "Stock of direct foreign investment - at home": {
       "text": "$728.5 billion (31 December 2014 est.) ++ $668.5 billion (31 December 2013 est.)"
@@ -703,10 +717,10 @@
   },
   "Energy": {
     "Electricity - production": {
-      "text": "530.4 billion kWh (2011 est.)"
+      "text": "537.6 billion kWh (2012 est.)"
     },
     "Electricity - consumption": {
-      "text": "478.8 billion kWh (2011 est.)"
+      "text": "483.5 billion kWh (2012 est.)"
     },
     "Electricity - exports": {
       "text": "467 million kWh (2013 est.)"
@@ -715,55 +729,55 @@
       "text": "40.33 billion kWh (2013 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "119.1 million kW (2011 est.)"
+      "text": "121.7 million kW (2012 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "18.8% of total installed capacity (2011 est.)"
+      "text": "18.7% of total installed capacity (2012 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "1.6% of total installed capacity (2011 est.)"
+      "text": "1.5% of total installed capacity (2012 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "69.3% of total installed capacity (2011 est.)"
+      "text": "69.3% of total installed capacity (2012 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "10.4% of total installed capacity (2011 est.)"
+      "text": "10.5% of total installed capacity (2012 est.)"
     },
     "Crude oil - production": {
-      "text": "2.641 million bbl/day (2013 est.)"
+      "text": "2.255 million bbl/day (2014 est.)"
     },
     "Crude oil - exports": {
-      "text": "619,100 bbl/day (2010 est.)"
+      "text": "533,300 bbl/day (2012 est.)"
     },
     "Crude oil - imports": {
-      "text": "343,600 bbl/day (2010 est.)"
+      "text": "344,900 bbl/day (2012 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "13.22 billion bbl (1 January 2014 est.)"
+      "text": "15.31 billion bbl (1 January 2015 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "2.108 million bbl/day (2010 est.)"
+      "text": "2.554 million bbl/day (2012 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "3.097 million bbl/day (2013 est.)"
+      "text": "3.003 million bbl/day (2013 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "158,400 bbl/day (2010 est.)"
+      "text": "174,700 bbl/day (2012 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "457,400 bbl/day (2010 est.)"
+      "text": "537,300 bbl/day (2012 est.)"
     },
     "Natural gas - production": {
-      "text": "21.3 billion cu m (2013 est.)"
+      "text": "21.08 billion cu m (2013 est.)"
     },
     "Natural gas - consumption": {
-      "text": "37.6 billion cu m (2013 est.)"
+      "text": "38.4 billion cu m (2013 est.)"
     },
     "Natural gas - exports": {
-      "text": "460 million cu m (2012 est.)"
+      "text": "100 million cu m (2014 est.)"
     },
     "Natural gas - imports": {
-      "text": "13.85 billion cu m (2012 est.)"
+      "text": "19 billion cu m (2014 est.)"
     },
     "Natural gas - proved reserves": {
       "text": "388.7 billion cu m (1 January 2014 est.)"

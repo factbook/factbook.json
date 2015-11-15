@@ -38,7 +38,7 @@
       "total": {
         "text": "5,244 km"
       },
-      "border countries (6)": {
+      "border countries": {
         "text": "Botswana 1,969 km, Lesotho 1,106 km, Mozambique 496 km, Namibia 1,005 km, Swaziland 438 km, Zimbabwe 230 km"
       }
     },
@@ -406,6 +406,17 @@
     "International law organization participation": {
       "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
     },
+    "Citizenship": {
+      "birthright citizenship": {
+        "text": ""
+      },
+      "dual citizenship recognized": {
+        "text": "yes, but requires prior permission of the government"
+      },
+      "residency requirement for naturalization": {
+        "text": ""
+      }
+    },
     "Suffrage": {
       "text": "18 years of age; universal"
     },
@@ -423,7 +434,7 @@
         "text": "president indirectly elected by the National Assembly for a 5-year term (eligible for a second term); election last held on 21 May 2014 (next to be held in May 2019)"
       },
       "election results": {
-        "text": "Jacob ZUMA (AFC) reelected president by the National Assembly unopposed"
+        "text": "Jacob ZUMA (ANC) reelected president by the National Assembly unopposed"
       }
     },
     "Legislative branch": {
@@ -434,7 +445,7 @@
         "text": "National Assembly and National Council of Provinces - last held on 7 May 2014 (next to be held in 2019)"
       },
       "election results": {
-        "text": "National Council of Provinces - percent of vote by party - NA; seats by party - NA; National Assembly - percent of vote by party - ANC 62.2%, DA 22.2%, EFF 6.4%, IFP 2.4%, NFP 1.6%, other 5.2%; seats by party - ANC 249, DA 89, EFF 25, IFP 10, NFP 6, other 21"
+        "text": "National Council of Provinces - percent of vote by party - NA; seats by party - ANC 60, DA 20, EFF 7, IFP 1, NFP 1, UDM 1; National Assembly - percent of vote by party - ANC 62.2%, DA 22.2%, EFF 6.4%, IFP 2.4%, NFP 1.6%, UDM 1.0%, other 4.2%; seats by party - ANC 249, DA 89, EFF 25, IFP 10, NFP 6, UDM 4, other 21"
       }
     },
     "Judicial branch": {
@@ -442,14 +453,14 @@
         "text": "Supreme Court of Appeals (consists of the court president, deputy president, and 21 judges); Constitutional Court (consists of the chief and deputy chief justices and 9 judges)"
       },
       "judge selection and term of office": {
-        "text": "Supreme Court of Appeals president and vice-president appointed by the national president after consultation with the Judicial Services Commission (JSC), a 23-member body chaired by the chief jusice and includes other judges and judicial executives, members of parliament, practicing lawyers and advocates, a teacher of law, and several members designated by the national president; other Supreme Court judges appointed by the national president on the advice of the JSC and hold office until discharged from active service by terms of an Act of Parliament; Constitutional Court chief and deputy chief justices appointed by the national president after consultation with the JSC and with heads of the National Assembly; other Constitutional Court judges appointed by the national president after consultation with the chief justice and leaders of the National Assembly; Constitutional Court judges appointed for 12-year non-renewable terms or until age 70"
+        "text": "Supreme Court of Appeals president and vice-president appointed by the national president after consultation with the Judicial Services Commission (JSC), a 23-member body chaired by the chief justice and includes other judges and judicial executives, members of parliament, practicing lawyers and advocates, a teacher of law, and several members designated by the national president; other Supreme Court judges appointed by the national president on the advice of the JSC and hold office until discharged from active service by terms of an Act of Parliament; Constitutional Court chief and deputy chief justices appointed by the national president after consultation with the JSC and with heads of the National Assembly; other Constitutional Court judges appointed by the national president after consultation with the chief justice and leaders of the National Assembly; Constitutional Court judges appointed for 12-year non-renewable terms or until age 70"
       },
       "subordinate courts": {
         "text": "High Courts; Magistrates' Courts; labor courts; land claims courts"
       }
     },
     "Political parties and leaders": {
-      "text": "African Christian Democratic Party or ACDP [Kenneth MESHOE] ++ African National Congress or ANC [Jacob ZUMA] ++ Congress of the People or COPE [Mosiuoa LEKOTA] ++ Democratic Alliance or DA [Helen ZILLE] ++ Economic Freedom Fighters or EFF [Julius MALEMA] ++ Freedom Front Plus or FF+ [Pieter MULDER] ++ Inkatha Freedom Party or IFP [Mangosuthu BUTHELEZI] ++ National Freedom Party or NFP [Zanele kaMAGWAZA-MSIBI] ++ Pan-Africanist Congress of Azania or PAC [Alton MPHETHI] ++ United Christian Democratic Party or UCDP [Isaac Sipho MFUNDISI] ++ United Democratic Movement or UDM [Bantu HOLOMISA]"
+      "text": "African Christian Democratic Party or ACDP [Kenneth MESHOE] ++ African National Congress or ANC [Jacob ZUMA] ++ Congress of the People or COPE [Mosiuoa LEKOTA] ++ Democratic Alliance or DA [Mmusi MAIMANE] ++ Economic Freedom Fighters or EFF [Julius MALEMA] ++ Freedom Front Plus or FF+ [Pieter MULDER] ++ Inkatha Freedom Party or IFP [Mangosuthu BUTHELEZI] ++ National Freedom Party or NFP [Zanele kaMAGWAZA-MSIBI] ++ Pan-Africanist Congress of Azania or PAC ++ United Christian Democratic Party or UCDP [Isaac Sipho MFUNDISI] ++ United Democratic Movement or UDM [Bantu HOLOMISA]"
     },
     "Political pressure groups and leaders": {
       "text": "Congress of South African Trade Unions or COSATU [Zwelinzima VAVI, general secretary] ++ South African Communist Party or SACP [Blade NZIMANDE, general secretary] ++ South African National Civic Organization or SANCO [Richard MDAKANE, national president]",
@@ -680,7 +691,7 @@
       "text": "$50.55 billion (31 December 2014 est.) ++ $49.69 billion (31 December 2013 est.)"
     },
     "Debt - external": {
-      "text": "$143 billion (31 December 2014 est.) ++ $142.2 billion (31 December 2013 est.)"
+      "text": "$145.1 billion (31 December 2014 est.) ++ $137.1 billion (31 December 2013 est.)"
     },
     "Stock of direct foreign investment - at home": {
       "text": "$177.5 billion (31 December 2014 est.) ++ $171.6 billion (31 December 2013 est.)"
@@ -694,10 +705,10 @@
   },
   "Energy": {
     "Electricity - production": {
-      "text": "257.9 billion kWh (2012 est.)"
+      "text": "239 billion kWh (2012 est.)"
     },
     "Electricity - consumption": {
-      "text": "234.2 billion kWh (2012 est.)"
+      "text": "211.6 billion kWh (2012 est.)"
     },
     "Electricity - exports": {
       "text": "13.93 billion kWh (2013 est.)"
@@ -721,40 +732,40 @@
       "text": "0.7% of total installed capacity (2013 est.)"
     },
     "Crude oil - production": {
-      "text": "168,700 bbl/day (2013 est.)"
+      "text": "3,000 bbl/day (2014 est.)"
     },
     "Crude oil - exports": {
-      "text": "0 bbl/day (2010 est.)"
+      "text": "0 bbl/day (2012 est.)"
     },
     "Crude oil - imports": {
       "text": "414,000 bbl/day (2013 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "15 million bbl (1 January 2014 est.)"
+      "text": "15 million bbl (1 January 2015 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "437,600 bbl/day (2010 est.)"
+      "text": "456,500 bbl/day (2012 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "604,000 bbl/day (2013 est.)"
+      "text": "612,000 bbl/day (2013 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "80,460 bbl/day (2010 est.)"
+      "text": "81,660 bbl/day (2012 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "79,010 bbl/day (2010 est.)"
+      "text": "137,900 bbl/day (2012 est.)"
     },
     "Natural gas - production": {
-      "text": "1.187 billion cu m (2012 est.)"
+      "text": "1.17 billion cu m (2013 est.)"
     },
     "Natural gas - consumption": {
-      "text": "4.637 billion cu m (2012 est.)"
+      "text": "4.889 billion cu m (2013 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2012 est.)"
+      "text": "0 cu m (2013 est.)"
     },
     "Natural gas - imports": {
-      "text": "3.45 billion cu m (2012 est.)"
+      "text": "3.771 billion cu m (2013 est.)"
     },
     "Natural gas - proved reserves": {
       "text": "15.01 billion cu m (1 January 2012 est.)"
