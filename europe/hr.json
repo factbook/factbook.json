@@ -53,12 +53,12 @@
     "Terrain": {
       "text": "geographically diverse; flat plains along Hungarian border, low mountains and highlands near Adriatic coastline and islands"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Adriatic Sea 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "331 m"
       },
-      "highest point": {
-        "text": "Dinara 1,831 m"
+      "elevation extremes": {
+        "text": "lowest point: Adriatic Sea 0 m ++ highest point: Dinara 1,831 m"
       }
     },
     "Natural resources": {
@@ -76,10 +76,10 @@
       }
     },
     "Irrigated land": {
-      "text": "36.27 sq km (2010)"
+      "text": "240 sq km (2012)"
     },
-    "Total renewable water resources": {
-      "text": "105.5 cu km (2011)"
+    "Population - distribution": {
+      "text": "more of the population lives in the northern half of the country, with approximately a quarter of the populace residing in and around the capital of Zagreb; many of the islands are sparsely populated"
     },
     "Natural hazards": {
       "text": "destructive earthquakes"
@@ -100,6 +100,9 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "4,313,707 (July 2016 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "Croat(s), Croatian(s)"
@@ -117,27 +120,21 @@
     "Religions": {
       "text": "Roman Catholic 86.3%, Orthodox 4.4%, Muslim 1.5%, other 1.5%, unspecified 2.5%, not religious or atheist 3.8% (2011 est.)"
     },
-    "Population": {
-      "text": "4,464,844 (July 2015 est.)"
-    },
     "Age structure": {
       "0-14 years": {
-        "text": "14.42% (male 330,355/female 313,312)"
+        "text": "14.22% (male 315,971/female 297,339)"
       },
       "15-24 years": {
-        "text": "11.92% (male 272,249/female 259,935)"
+        "text": "11.4% (male 252,285/female 239,634)"
       },
       "25-54 years": {
-        "text": "40.88% (male 903,896/female 921,337)"
+        "text": "40.75% (male 878,971/female 878,707)"
       },
       "55-64 years": {
-        "text": "14.55% (male 314,697/female 335,007)"
+        "text": "14.83% (male 312,621/female 326,929)"
       },
       "65 years and over": {
-        "text": "18.23% (male 331,889/female 482,167) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "18.81% (male 320,418/female 490,832) (2016 est.)"
       }
     },
     "Dependency ratios": {
@@ -156,26 +153,29 @@
     },
     "Median age": {
       "total": {
-        "text": "42.63 years"
+        "text": "42.7 years"
       },
       "male": {
-        "text": "40.5 years"
+        "text": "40.8 years"
       },
       "female": {
-        "text": "44.1 years (2015 est.)"
+        "text": "44.8 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "-0.13% (2015 est.)"
+      "text": "-0.5% (2016 est.)"
     },
     "Birth rate": {
-      "text": "9.45 births/1,000 population (2015 est.)"
+      "text": "9 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "12.18 deaths/1,000 population (2015 est.)"
+      "text": "12.1 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "1.39 migrant(s)/1,000 population (2015 est.)"
+      "text": "-1.9 migrant(s)/1,000 population (2016 est.)"
+    },
+    "Population distribution": {
+      "text": "more of the population lives in the northern half of the country, with approximately a quarter of the populace residing in and around the capital of Zagreb; many of the islands are sparsely populated"
     },
     "Urbanization": {
       "urban population": {
@@ -193,60 +193,63 @@
         "text": "1.06 male(s)/female"
       },
       "0-14 years": {
-        "text": "1.05 male(s)/female"
+        "text": "1.06 male(s)/female"
       },
       "15-24 years": {
         "text": "1.05 male(s)/female"
       },
       "25-54 years": {
-        "text": "0.98 male(s)/female"
+        "text": "1 male(s)/female"
       },
       "55-64 years": {
-        "text": "0.94 male(s)/female"
+        "text": "0.96 male(s)/female"
       },
       "65 years and over": {
         "text": "0.69 male(s)/female"
       },
       "total population": {
-        "text": "0.93 male(s)/female (2015 est.)"
+        "text": "0.93 male(s)/female (2016 est.)"
       }
+    },
+    "Mother's mean age at first birth": {
+      "text": "28 (2013 est.)"
     },
     "Maternal mortality rate": {
       "text": "8 deaths/100,000 live births (2015 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "5.77 deaths/1,000 live births"
+        "text": "9.5 deaths/1,000 live births"
       },
       "male": {
-        "text": "5.91 deaths/1,000 live births"
+        "text": "9.2 deaths/1,000 live births"
       },
       "female": {
-        "text": "5.62 deaths/1,000 live births (2015 est.)"
+        "text": "9.8 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "76.61 years"
+        "text": "75.9 years"
       },
       "male": {
-        "text": "73.02 years"
+        "text": "72.7 years"
       },
       "female": {
-        "text": "80.4 years (2015 est.)"
+        "text": "79.2 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "1.46 children born/woman (2015 est.)"
+      "text": "1.39 children born/woman (2016 est.)"
     },
     "Health expenditures": {
-      "text": "7.3% of GDP (2013)"
+      "text": "7.8% of GDP (2014)"
     },
     "Physicians density": {
       "text": "2.84 physicians/1,000 population (2011)"
     },
     "Hospital bed density": {
-      "text": "5.9 beds/1,000 population (2012)"
+      "text": "5.9 beds/1,000 population (2014)"
     },
     "Drinking water source": {
       "improved": {
@@ -278,10 +281,7 @@
         "text": "intermediate"
       },
       "vectorborne diseases": {
-        "text": "tickborne encephalitis"
-      },
-      "note": {
-        "text": "highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2013)"
+        "text": "tickborne encephalitis (2016)"
       }
     },
     "Obesity - adult prevalence rate": {
@@ -309,21 +309,21 @@
         "text": "15 years"
       },
       "male": {
-        "text": "14 years"
+        "text": "15 years"
       },
       "female": {
-        "text": "15 years (2012)"
+        "text": "16 years (2014)"
       }
     },
     "Unemployment, youth ages 15-24": {
       "total": {
-        "text": "43.1%"
+        "text": "45.5%"
       },
       "male": {
-        "text": "42.3%"
+        "text": "44.9%"
       },
       "female": {
-        "text": "44.3% (2012 est.)"
+        "text": "46.4% (2014 est.)"
       }
     }
   },
@@ -343,10 +343,13 @@
       },
       "former": {
         "text": "People's Republic of Croatia, Socialist Republic of Croatia"
+      },
+      "etymology": {
+        "text": "name derives from the Croats, a Slavic tribe who migrated to the Balkans in the 7th century A.D."
       }
     },
     "Government type": {
-      "text": "parliamentary democracy"
+      "text": "parliamentary republic"
     },
     "Capital": {
       "name": {
@@ -372,7 +375,7 @@
       "text": "Independence Day, 8 October (1991) and Statehood Day, 25 June (1991); note - 25 June 1991 was the day the Croatian parliament voted for independence; following a three-month moratorium to allow the European Community to solve the Yugoslav crisis peacefully, parliament adopted a decision on 8 October 1991 to sever constitutional relations with Yugoslavia"
     },
     "Constitution": {
-      "text": "several previous; latest adopted 22 December 1990; amended several times, last in 2014 (2015)"
+      "text": "several previous; latest adopted 22 December 1990; amended several times, last in 2014 (2016)"
     },
     "Legal system": {
       "text": "civil law system influenced by legal heritage of Austria-Hungary; note - Croatian law was fully harmonized with the European Community acquis as of the June 2010 completion of EU accession negotiations"
@@ -381,8 +384,11 @@
       "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
     },
     "Citizenship": {
-      "birthright citizenship": {
-        "text": "no, unless at least one parent is a citizen of Croatia"
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Croatia"
       },
       "dual citizenship recognized": {
         "text": "yes"
@@ -399,16 +405,16 @@
         "text": "President Kolinda GRABAR-KITAROVIC (since 19 February 2015)"
       },
       "head of government": {
-        "text": "Prime Minister Zoran MILANOVIC (since 23 December 2011); First Deputy Prime Minister Vesna PUSIC (since 16 November 2012)"
+        "text": "Prime Minister Andrej PLENKOVIC (since 19 October 2016); Deputy Prime Ministers Davor Ivo STIER, Damir KRSTICEVIC, Martina DALIC, Ivan KOVACIC (since 19 October 2016)"
       },
       "cabinet": {
         "text": "Council of Ministers named by the prime minister and approved by the Assembly"
       },
       "elections/appointments": {
-        "text": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 10 January 2010 (next to be held in December 2014); the leader of the majority party or majority coalition usually appointed prime minister by the president and approved by the Assembly"
+        "text": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 December 2014 and 11 January 2015 (next to be held in 2019); the leader of the majority party or majority coalition usually appointed prime minister by the president and approved by the Assembly"
       },
       "election results": {
-        "text": "Kolinda GRABAR-KITAROVIC elected president; percent of vote in the second round - Kolinda GRABAR-KITAROVIC (HDZ) 50.7%, Ivo JOSIPOVIC 49.3%"
+        "text": "Kolinda GRABAR-KITAROVIC elected president; percent of vote in the second round - Kolinda GRABAR-KITAROVIC (HDZ) 50.7%, Ivo JOSIPOVIC (Forward Croatia Progressive Alliance) 49.3%"
       }
     },
     "Legislative branch": {
@@ -416,13 +422,10 @@
         "text": "unicameral Assembly or Hrvatski Sabor (151 seats; members directly elected by party-list proportional representation vote using the D'Hondt method with a 5% threshold: 14 seats in each of 10 districts; 8 seats in a single nationwide district for minorities; 3 seats in a single special district for the Croatian diaspora, members elected for 4-year terms)"
       },
       "elections": {
-        "text": "last held on 8 November 2015 (next to be held in 2019)"
+        "text": "last held on 11 September 2016 (next to be held in September 2020) - Assembly voted on 20 June 2016 to dissolve on 15 July 2016, resulting in snap elections"
       },
       "election results": {
-        "text": "percent of vote by party/coalition - NA; number of seats by party/coalition - Patriotic Coalition 59, Croatia is Growing 56, Bridge of Independent Lists 19, Our Own Right 3, Labor and Solidarity Coalition 2, HDSSB 2, Human Blockade 1, Successful Croatia 1, minorities 8 (includes SDSS 3)"
-      },
-      "note": {
-        "text": "seats by party as of 3 April 2015 - SDP 56, HDZ 41, HNS 11, HDSSB 7, HSU 4, Croatian Laborists - Labor Party 3, Reformists 3, SDSS 3, HGS 2, IDS 2, BDSH 1, DC 1, HSS 1, HSP AS 1, ORaH 1, New Wave 1, independent 13"
+        "text": "percent of vote by party/coalition - NA; number of seats by party/coalition - HDZ coalition 61, People's Coalition 54, Most-NL 13, Only Option 8, minorities 8 (includes SDSS 3), other 7"
       }
     },
     "Judicial branch": {
@@ -437,7 +440,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Bosniak Democratic Party of Croatia or BDSH [Medzad HODZIC] ++ Bridge of Independent Lists or Most [Bozo PETROV] ++ Croatian Civic Party or HGS [Zeljko KERUM] ++ Croatian Democratic Congress of Slavonia and Baranja or HDSSB [Dragan VULIN] ++ Croatian Democratic Union or HDZ [Tomislav KARAMARKO] ++ Croatia is Growing [Zoran MILANOVIC] (coalition including SDP, HNS, Croatian Laborists - Labor Party, HSU) ++ Croatian Laborists - Labor Party [Nansi TIRELI] ++ Croatian Party of Rights - dr. Ante Starcevic or HSP AS [Ivan TEPES] ++ Croatian Peasant Party or HSS [Branko HRG] ++ Croatian Pensioner Party or HSU [Silvano HRELJA] ++ Croatian People's Party - Liberal Democrats or HNS [Vesna PUSIC] ++ Democratic Centre or DC [Vesna SKARE-OZBOLT] ++ Forward Croatia! - Progressive Alliance [Ivo JOSIPOVIC] ++ Human Blockade [Ivan SINCIC] ++ Independent Democratic Serb Party or SDSS [Vojislav STANIMIROVIC] ++ Istrian Democratic Assembly or IDS [Boris MILETIC] ++ Labor and Solidarity Coalition (includes New Wave) ++ New Wave [Liubo JURCIC] ++ Our Own Right (coalition includes IDS) ++ Patriotic Coalition [Tomislav KARAMARKO] (including HDZ, HSP AS, HSS) ++ People's Party - Reformists Party [Radimir CACIC] ++ Social Democratic Party of Croatia or SDP [Zoran MILANOVIC] ++ Successful Croatia [Radimir CACIC and Ivo JOSIPOVIC] (coalition including People's Party - Reformists, Forward Croatia! - Progressive Alliance) ++ Sustainable Development for Croatia or ORaH [Mirela HOLY]"
+      "text": "Bloc of Pensioners Together or BUZ [Milivoj SPIKA] ++ Bridge of Independent Lists or Most-NL [Bozo PETROV] ++ Croatian Christian Democratic Party or HDS [Goran DODIG] ++ Croatian Democratic Congress of Slavonia and Baranja or HDSSB [Dragan VULIN] ++ Croatian Democratic Union or HDZ [Andrej PLENKOVIC] ++ Croatian Laborists - Labor Party or HL [Tomislav KONCEVSKI] ++ Croatian Party of Rights - dr. Ante Starcevic or HSP AS [Ivan TEPES] ++ Croatian Peasant Party or HSS [Kreso BELJAK] ++ Croatian Pensioner Party or HSU [Silvano HRELJA] ++ Croatian People's Party - Liberal Democrats or HNS [Ivan VRDOLJAK] ++ Croatian Social Liberal Party or HSLS [Darinko KOSOR] ++ Forward Croatia Progressive Alliance [Ivo JOSIPOVIC] ++ HDZ Coalition [Andrej PLENKOVIC] (includes HDZ, HSLS, HDS) ++ Human Blockade [Ivan SINCIC] ++ Independent Democratic Serb Party or SDSS [Vojislav STANIMIROVIC] ++ Independent List of Stipe Petrina or NLSP [Stipe PETRINA] ++ Istrian Democratic Assembly or IDS [Boris MILETIC] ++ Istrian Democrats [Damir KAJIN] ++ Let's Change Croatia or PH [Ivan LOVRINOVIC] ++ Milan Bandic 365 - Party of Labor and Solidarity or BM365-SRS [Milan BANDIC] ++ Movement for Successful Croatia or HRAST [Ladislav ILCIC] ++ People's Coalition [Zoran MILANOVIC] (includes SDP, HNS, HSU, HSS] ++ People's Party - Reformists Party [Radimir CACIC] ++ Social Democratic Party of Croatia or SDP [Zoran MILANOVIC] ++ The Only Option Coalition (includes Human Blockade, PH, Always Frankers, Youth Action, Alphabet of Democracy)"
     },
     "Political pressure groups and leaders": {
       "other": {
@@ -466,7 +469,7 @@
     },
     "Diplomatic representation from the US": {
       "chief of mission": {
-        "text": "Ambassador Kenneth MERTEN (since 3 October 2012)"
+        "text": "Ambassador Julieta Valls NOYES (since 5 October 2015)"
       },
       "embassy": {
         "text": "2 Thomas Jefferson Street, 10010 Zagreb"
@@ -482,7 +485,7 @@
       }
     },
     "Flag description": {
-      "text": "three equal horizontal bands of red (top), white, and blue - the Pan-Slav colors - superimposed by the Croatian coat of arms; the coat of arms consists of one main shield (a checkerboard of 13 red and 12 silver (white) fields) surmounted by five smaller shields that form a crown over the main shield; the five small shields represent five historic regions, they are (from left to right): Croatia, Dubrovnik, Dalmatia, Istria, and Slavonia",
+      "text": "three equal horizontal bands of red (top), white, and blue - the Pan-Slav colors - superimposed by the Croatian coat of arms; the coat of arms consists of one main shield (a checkerboard of 13 red and 12 silver (white) fields) surmounted by five smaller shields that form a crown over the main shield; the five small shields represent five historic regions (from left to right): Croatia, Dubrovnik, Dalmatia, Istria, and Slavonia",
       "note": {
         "text": "the Pan-Slav colors were inspired by the 19th-century flag of Russia"
       }
@@ -504,47 +507,47 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Though still one of the wealthiest of the former Yugoslav republics, Croatia's economy suffered badly during the 1991-95 war. The country's output during that time collapsed, and Croatia missed the early waves of investment in Central and Eastern Europe that followed the fall of the Berlin Wall. Between 2000 and 2007, however, Croatia's economic fortunes began to improve with moderate but steady GDP growth between 4% and 6% led by a rebound in tourism and credit-driven consumer spending. Inflation over the same period remained tame and the currency, the kuna, stable. Croatia experienced an abrupt slowdown in the economy in 2008 and has yet to recover; economic growth was stagnant or negative in each year since 2009. Difficult problems still remain, including a stubbornly high unemployment rate, uneven regional development, and a challenging investment climate. Croatia continues to face reduced foreign investment. On 1 July 2013 Croatia joined the EU, following a decade-long application process. Croatia will be a member of the European Exchange Rate Mechanism until it meets the criteria for joining the Economic and Monetary Union and adopts the euro as its currency. EU accession has increased pressure on the government to reduce Croatia’s relatively high public debt, which triggered the EU’s excessive deficit procedure for fiscal consolidation. Zagreb has cut spending since 2012, and the government also raised additional revenues through more stringent tax collection and by raising the Value Added Tax. The government has also sought to accelerate privatization of non-strategic assets, with mixed success."
+      "text": "Though still one of the wealthiest of the former Yugoslav republics, Croatia's economy suffered badly during the 1991-95 war. The country's output during that time collapsed, and Croatia missed the early waves of investment in Central and Eastern Europe that followed the fall of the Berlin Wall. Between 2000 and 2007, however, Croatia's economic fortunes began to improve with moderate but steady GDP growth between 4% and 6% led by a rebound in tourism and credit-driven consumer spending. Inflation over the same period remained tame and the currency, the kuna, stable. ++  ++ Croatia experienced an abrupt slowdown in the economy in 2008 and has yet to recover; economic growth was stagnant or negative in each year since 2009. Difficult problems still remain including a stubbornly high unemployment rate, uneven regional development, and a challenging investment climate. Croatia continues to face reduced foreign investment. ++  ++ On 1 July 2013, Croatia joined the EU, following a decade-long application process. Croatia will be a member of the European Exchange Rate Mechanism until it meets the criteria for joining the Economic and Monetary Union and adopts the euro as its currency. EU accession has increased pressure on the government to reduce Croatia’s relatively high public debt, which triggered the EU’s excessive deficit procedure for fiscal consolidation. Zagreb has cut spending since 2012, and the government also raised additional revenues through more stringent tax collection and by raising the value-added tax. The government has also sought to accelerate privatization of non-strategic assets, with mixed success."
     },
     "GDP (purchasing power parity)": {
-      "text": "$88.73 billion (2014 est.) ++ $89.05 billion (2013 est.) ++ $90.01 billion (2012 est.)",
+      "text": "$91.28 billion (2015 est.) ++ $89.8 billion (2014 est.) ++ $90.13 billion (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$57.07 billion (2014 est.)"
+      "text": "$48.85 billion (2015 est.)"
     },
     "GDP - real growth rate": {
-      "text": "-0.4% (2014 est.) ++ -1.1% (2013 est.) ++ -2.2% (2012 est.)"
+      "text": "1.6% (2015 est.) ++ -0.4% (2014 est.) ++ -1.1% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$20,900 (2014 est.) ++ $21,000 (2013 est.) ++ $21,200 (2012 est.)",
+      "text": "$21,600 (2015 est.) ++ $21,200 (2014 est.) ++ $21,200 (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "Gross national saving": {
-      "text": "18.9% of GDP (2014 est.) ++ 19.9% of GDP (2013 est.) ++ 19.1% of GDP (2012 est.)"
+      "text": "23.5% of GDP (2015 est.) ++ 19% of GDP (2014 est.) ++ 19.9% of GDP (2013 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "59.9%"
+        "text": "59.3%"
       },
       "government consumption": {
-        "text": "19.8%"
+        "text": "19.7%"
       },
       "investment in fixed capital": {
         "text": "19.1%"
       },
       "investment in inventories": {
-        "text": "-0.9%"
+        "text": "-0.8%"
       },
       "exports of goods and services": {
-        "text": "46.3%"
+        "text": "49.4%"
       },
       "imports of goods and services": {
-        "text": "-44.2% ++  (2014 est.)"
+        "text": "-46.6% (2015 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
@@ -552,10 +555,10 @@
         "text": "4.3%"
       },
       "industry": {
-        "text": "26.3%"
+        "text": "26.2%"
       },
       "services": {
-        "text": "69.4% (2014 est.)"
+        "text": "69.5% (2015 est.)"
       }
     },
     "Agriculture - products": {
@@ -565,10 +568,10 @@
       "text": "chemicals and plastics, machine tools, fabricated metal, electronics, pig iron and rolled steel products, aluminum, paper, wood products, construction materials, textiles, shipbuilding, petroleum and petroleum refining, food and beverages, tourism"
     },
     "Industrial production growth rate": {
-      "text": "-0.5% (2014 est.)"
+      "text": "1.9% (2015 est.)"
     },
     "Labor force": {
-      "text": "1.703 million (2014 est.)"
+      "text": "1.677 million (2015 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -582,7 +585,7 @@
       }
     },
     "Unemployment rate": {
-      "text": "20.3% (2014 est.) ++ 20.3% (2013 est.)"
+      "text": "17.1% (2015 est.) ++ 19.3% (2014 est.)"
     },
     "Population below poverty line": {
       "text": "19.5% (2014 est.)"
@@ -600,83 +603,88 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$19.85 billion"
+        "text": "$21.3 billion"
       },
       "expenditures": {
-        "text": "$22.3 billion (2014 est.)"
+        "text": "$22.86 billion (2015 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "34.8% of GDP (2014 est.)"
+      "text": "43.6% of GDP (2015 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-4.3% of GDP (2014 est.)"
+      "text": "-3.2% of GDP (2015 est.)"
     },
     "Public debt": {
-      "text": "85.1% of GDP (2014 est.) ++ 80.8% of GDP (2013 est.)"
+      "text": "86.7% of GDP (2015 est.) ++ 86.5% of GDP (2014 est.)"
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Inflation rate (consumer prices)": {
-      "text": "-0.2% (2014 est.) ++ 2.2% (2013 est.)"
+      "text": "-0.5% (2015 est.) ++ -0.2% (2014 est.)"
     },
     "Central bank discount rate": {
       "text": "7% (31 December 2013) ++ 7% (31 December 2012)"
     },
     "Commercial bank prime lending rate": {
-      "text": "7.8% (31 December 2014 est.) ++ 9.25% (31 December 2013 est.)"
+      "text": "5.83% (31 December 2015 est.) ++ 6.28% (31 December 2014 est.)"
     },
     "Stock of narrow money": {
-      "text": "$10.07 billion (31 December 2014 est.) ++ $10.43 billion (31 December 2013 est.)"
+      "text": "$10.11 billion (31 December 2015 est.) ++ $10.07 billion (31 December 2014 est.)"
     },
     "Stock of broad money": {
       "text": "$49.38 billion (31 December 2014 est.) ++ $49.24 billion (31 December 2013 est.)"
     },
     "Stock of domestic credit": {
-      "text": "$44.45 billion (31 December 2014 est.) ++ $49.24 billion (31 December 2013 est.)"
+      "text": "$42.41 billion (31 December 2015 est.) ++ $46.9 billion (31 December 2014 est.)"
     },
     "Market value of publicly traded shares": {
-      "text": "$36.29 billion (31 December 2014 est.) ++ $33.75 billion (31 December 2013) ++ $33.44 billion (31 December 2012 est.)"
+      "text": "$36.29 billion (31 December 2014 est.) ++ $33.75 billion (31 December 2013 est.) ++ $33.44 billion (31 December 2012 est.)"
     },
     "Current account balance": {
-      "text": "$380 million (2014 est.) ++ $453 million (2013 est.)"
+      "text": "$2.551 billion (2015 est.) ++ $489 million (2014 est.)"
     },
     "Exports": {
-      "text": "$12.95 billion (2014 est.) ++ $11.84 billion (2013 est.)"
+      "text": "$11.91 billion (2015 est.) ++ $12.95 billion (2014 est.)"
     },
     "Exports - commodities": {
       "text": "transport equipment, machinery, textiles, chemicals, foodstuffs, fuels"
     },
     "Exports - partners": {
-      "text": "Italy 13.7%, Bosnia and Herzegovina 12%, Slovenia 11.2%, Germany 11.1%, Austria 6%, Serbia 5% (2014)"
+      "text": "Italy 13.4%, Slovenia 12.5%, Germany 11.4%, Bosnia and Herzegovina 9.9%, Austria 6.6%, Serbia 4.9% (2015)"
     },
     "Imports": {
-      "text": "$21.39 billion (2014 est.) ++ $20.57 billion (2013 est.)"
+      "text": "$19.28 billion (2015 est.) ++ $21.39 billion (2014 est.)"
     },
     "Imports - commodities": {
       "text": "machinery, transport and electrical equipment; chemicals, fuels and lubricants; foodstuffs"
     },
     "Imports - partners": {
-      "text": "Germany 15.1%, Italy 14.1%, Slovenia 10.7%, Austria 8.6%, Hungary 6.5%, Russia 5% (2014)"
+      "text": "Germany 15.5%, Italy 13.1%, Slovenia 10.7%, Austria 9.2%, Hungary 7.8% (2015)"
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$16.87 billion (31 December 2014 est.) ++ $16.09 billion (31 December 2013 est.)"
+      "text": "$14.97 billion (31 December 2015 est.) ++ $15.42 billion (31 December 2014 est.)"
     },
     "Debt - external": {
-      "text": "$62.09 billion (31 December 2014 est.) ++ $61.04 billion (31 December 2013 est.)"
+      "text": "$50.88 billion (31 December 2015 est.) ++ $56.6 billion (31 December 2014 est.)"
     },
     "Stock of direct foreign investment - at home": {
-      "text": "$40.19 billion (31 December 2014 est.) ++ $36.36 billion (31 December 2013 est.)"
+      "text": "$39.74 billion (31 December 2015 est.) ++ $39.59 billion (31 December 2014 est.)"
     },
     "Stock of direct foreign investment - abroad": {
-      "text": "$7.792 billion (31 December 2014 est.) ++ $5.699 billion (31 December 2013 est.)"
+      "text": "$8.05 billion (31 December 2015 est.) ++ $8.077 billion (31 December 2014 est.)"
     },
     "Exchange rates": {
-      "text": "kuna (HRK) per US dollar - ++ 5.7482 (2014 est.) ++ 5.7482 (2013 est.) ++ 5.85 (2012 est.) ++ 5.3439 (2011 est.) ++ 5.498 (2010 est.)"
+      "text": "kuna (HRK) per US dollar - ++ 6.8583 (2015 est.) ++ 5.7482 (2014 est.) ++ 5.7482 (2013 est.) ++ 5.85 (2012 est.) ++ 5.3439 (2011 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
+    },
     "Electricity - production": {
       "text": "13.38 billion kWh (2014 est.)"
     },
@@ -750,18 +758,18 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "1.57 million"
+        "text": "1,476,506"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "35 (2014 est.)"
+        "text": "33 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "4.5 million"
+        "text": "4.416 million"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "100 (2014 est.)"
+        "text": "99 (July 2015 est.)"
       }
     },
     "Telephone system": {
@@ -769,34 +777,45 @@
         "text": "the telecommunications network has improved steadily since the mid-1990s, covering much of what were once inaccessible areas; local lines are digital"
       },
       "domestic": {
-        "text": "fixed-line teledensity holding steady at about 40 per 100 persons; mobile-cellular telephone subscriptions exceed the population"
+        "text": "fixed-line teledensity has droped somewhat to about 35 per 100 persons; mobile-cellular telephone subscriptions now even with the population"
       },
       "international": {
-        "text": "country code - 385; digital international service is provided through the main switch in Zagreb; Croatia participates in the Trans-Asia-Europe (TEL) fiber-optic project, which consists of 2 fiber-optic trunk connections with Slovenia and a fiber-optic trunk line from Rijeka to Split and Dubrovnik; the ADRIA-1 submarine cable provides connectivity to Albania and Greece (2011)"
+        "text": "country code - 385; digital international service is provided through the main switch in Zagreb; Croatia participates in the Trans-Asia-Europe fiber-optic project, which consists of 2 fiber-optic trunk connections with Slovenia and a fiber-optic trunk line from Rijeka to Split and Dubrovnik; the ADRIA-1 submarine cable provides connectivity to Albania and Greece (2015)"
       }
     },
     "Broadcast media": {
       "text": "the national state-owned public broadcaster, Croatian Radiotelevision, operates 4 terrestrial TV networks, a satellite channel that rebroadcasts programs for Croatians living abroad, and 6 regional TV centers; 2 private broadcasters operate national terrestrial networks; roughly 25 privately owned regional TV stations; multi-channel cable and satellite TV subscription services are available; state-owned public broadcaster operates 3 national radio networks and 9 regional radio stations; 2 privately owned national radio networks and more than 170 regional, county, city, and community radio stations (2012)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM 16, FM 98, shortwave 5 (1999)"
-    },
-    "Television broadcast stations": {
-      "text": "36 (plus 321 repeaters) (1995)"
     },
     "Internet country code": {
       "text": ".hr"
     },
     "Internet users": {
       "total": {
-        "text": "2.9 million"
+        "text": "3.117 million"
       },
       "percent of population": {
-        "text": "65.1% (2014 est.)"
+        "text": "69.8% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "3"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "46"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "1,782,666"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "775,320 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "9A (2016)"
+    },
     "Airports": {
       "text": "69 (2013)"
     },
@@ -831,7 +850,7 @@
         "text": "6"
       },
       "under 914 m": {
-        "text": " ++ 38 (2013)"
+        "text": "38 (2013)"
       }
     },
     "Heliports": {
@@ -882,39 +901,15 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "Armed Forces of the Republic of Croatia (Oruzane Snage Republike Hrvatske, OSRH) consists of five major commands directly subordinate to a General Staff: Ground Forces (Hrvatska Kopnena Vojska, HKoV), Naval Forces (Hrvatska Ratna Mornarica, HRM; includes coast guard), Air Force and Air Defense Command (Hrvatsko Ratno Zrakoplovstvo I Protuzracna Obrana), Joint Education and Training Command, Logistics Command; Military Police Force supports each of the three Croatian military forces (2012)"
     },
     "Military service age and obligation": {
       "text": "18-27 years of age for voluntary military service; 6-month service obligation (2012)"
     },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "1,016,234"
-      },
-      "females age 16-49": {
-        "text": "1,017,355 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "770,710"
-      },
-      "females age 16-49": {
-        "text": "839,732 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "28,334"
-      },
-      "female": {
-        "text": "27,015 (2010 est.)"
-      }
-    },
     "Military expenditures": {
-      "text": "1.7% of GDP (2012) ++ 1.77% of GDP (2011) ++ 1.7% of GDP (2010)"
+      "text": "1.38% of GDP (2015) ++ 1.41% of GDP (2014) ++ 1.47% of GDP (2013) ++ 1.7% of GDP (2012) ++ 1.77% of GDP (2011)"
     }
   },
   "Transnational Issues": {
@@ -923,10 +918,10 @@
     },
     "Refugees and internally displaced persons": {
       "stateless persons": {
-        "text": "2,886 (2014)"
+        "text": "2,873 (2015)"
       },
       "note": {
-        "text": "354,446 estimated refugee and migrant arrivals (November 2015)"
+        "text": "658,036 estimated refugee and migrant arrivals (2015 - March 2016)"
       }
     },
     "Illicit drugs": {

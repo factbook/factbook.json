@@ -48,12 +48,12 @@
     "Terrain": {
       "text": "rugged volcanic formation; rocky coastline with cliffs"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Pacific Ocean 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "NA"
       },
-      "highest point": {
-        "text": "Big Ridge 347 m"
+      "elevation extremes": {
+        "text": "lowest point: Pacific Ocean 0 m ++ highest point: Big Ridge 347 m"
       }
     },
     "Natural resources": {
@@ -74,7 +74,7 @@
       }
     },
     "Irrigated land": {
-      "text": "NA"
+      "text": "0 sq km (2012)"
     },
     "Natural hazards": {
       "text": "typhoons (especially November to March)"
@@ -87,6 +87,9 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "54 (July 2016 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "Pitcairn Islander(s)"
@@ -103,9 +106,6 @@
     },
     "Religions": {
       "text": "Seventh-Day Adventist 100%"
-    },
-    "Population": {
-      "text": "48 (July 2014 est.)"
     },
     "Population growth rate": {
       "text": "0% (2014 est.)"
@@ -163,13 +163,16 @@
       },
       "conventional short form": {
         "text": "Pitcairn Islands"
+      },
+      "etymology": {
+        "text": "named after Midshipman Robert PITCAIRN who first sighted the island in 1767"
       }
     },
     "Dependency status": {
       "text": "overseas territory of the UK"
     },
     "Government type": {
-      "text": "NA"
+      "text": "parliamentary democracy (Island Council); overseas territory of the UK"
     },
     "Capital": {
       "name": {
@@ -192,10 +195,13 @@
       "text": "Birthday of Queen ELIZABETH II, second Saturday in June (1926); Discovery Day, 2 July (1767)"
     },
     "Constitution": {
-      "text": "several previous; latest drafted 10 February 2010, presented 17 February 2010, effective 4 March 2010 (2015)"
+      "text": "several previous; latest drafted 10 February 2010, presented 17 February 2010, effective 4 March 2010 (2016)"
     },
     "Legal system": {
       "text": "local island by-laws"
+    },
+    "Citizenship": {
+      "text": "see United Kingdom"
     },
     "Suffrage": {
       "text": "18 years of age; universal with three years residency"
@@ -230,7 +236,7 @@
     },
     "Judicial branch": {
       "highest resident court(s)": {
-        "text": "Pitcairn Court of Appeal (consists of the court president, 2 judges, and the Supreme Court chief justice (ex-officio member); Pitcairn Supreme Court (consists of the chief justice and 2 judges); note - appeals beyond the Pitcairn Court of Appeal are heard by the Judicial Committee of the Privy Council (in London); the Court of Appeal was established in 2000 by an Order in Council"
+        "text": "Pitcairn Court of Appeal (consists of the court president, 2 judges, and the Supreme Court chief justice (ex-officio member); Pitcairn Supreme Court (consists of the chief justice and 2 judges); note - appeals beyond the Pitcairn Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)"
       },
       "judge selection and term of office": {
         "text": "all judges of both courts appointed by the governor of the Pitcairn Islands on the instructions of the Queen of England through the Secretary of State; all judges appointed until retirement, normally at age 75"
@@ -265,7 +271,7 @@
         "text": "unknown/Frederick M. LEHMAN"
       },
       "note": {
-        "text": "serves as a local anthem; as a territory of the United Kingdom, \"God Save the Queen\" is official (see United Kingdom)"
+        "text": "serves as a local anthem; as a territory of the UK, \"God Save the Queen\" is official (see United Kingdom)"
       }
     }
   },
@@ -314,7 +320,7 @@
       "text": "fuel oil, machinery, building materials, flour, sugar, other foodstuffs"
     },
     "Exchange rates": {
-      "text": "New Zealand dollars (NZD) per US dollar - ++ 1.2039 (2014) ++ 1.2187 (2013) ++ 1.23 (2012) ++ 1.263 (2011) ++ 1.3874 (2010)"
+      "text": "New Zealand dollars (NZD) per US dollar - ++ 1.4279 (2015) ++ 1.2187 (2013) ++ 1.2187 (2013) ++ 1.23 (2012) ++ 1.263 (2011)"
     }
   },
   "Communications": {
@@ -332,11 +338,16 @@
     "Broadcast media": {
       "text": "satellite TV from Fiji-based Sky Pacific offering a wide range of international channels"
     },
-    "Radio broadcast stations": {
-      "text": "AM 1, FM 0, shortwave 0 (15 ham radio operators (VP6)) (2004)"
-    },
     "Internet country code": {
       "text": ".pn"
+    },
+    "Internet users": {
+      "total": {
+        "text": "54"
+      },
+      "percent of population": {
+        "text": "100% (July 2015 est.)"
+      }
     },
     "Communications - note": {
       "text": "satellite-based local phone service and broadband Internet connections available in all homes"
@@ -349,7 +360,7 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military - note": {
       "text": "defense is the responsibility of the UK"
     }

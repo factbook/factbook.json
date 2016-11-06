@@ -56,12 +56,12 @@
     "Terrain": {
       "text": "mostly flat or gently rolling lowlands; mountains in west"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "reclaimed bay of Lake Hammarsjon, near Kristianstad -2.4 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "320 m"
       },
-      "highest point": {
-        "text": "Kebnekaise 2,111 m"
+      "elevation extremes": {
+        "text": "lowest point: reclaimed bay of Lake Hammarsjon, near Kristianstad -2.4 m ++ highest point: Kebnekaise 2,111 m"
       }
     },
     "Natural resources": {
@@ -79,18 +79,10 @@
       }
     },
     "Irrigated land": {
-      "text": "1,597 sq km (2007)"
+      "text": "1,640 sq km (2012)"
     },
-    "Total renewable water resources": {
-      "text": "174 cu km (2011)"
-    },
-    "Freshwater withdrawal (domestic/industrial/agricultural)": {
-      "total": {
-        "text": "2.62  cu km/yr (37%/59%/4%)"
-      },
-      "per capita": {
-        "text": "285.6  cu m/yr (2007)"
-      }
+    "Population - distribution": {
+      "text": "most Swedes live in the south where there the climate is more mild and there is better connectivity to mainland Europe; population clusters are found all along the Baltic coast in the east; the interior areas of the north remain sparsely populated"
     },
     "Natural hazards": {
       "text": "ice floes in the surrounding waters, especially in the Gulf of Bothnia, can interfere with maritime traffic"
@@ -111,6 +103,9 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "9,880,604 (July 2016 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "Swede(s)"
@@ -128,27 +123,21 @@
     "Religions": {
       "text": "Lutheran 87%, other (includes Roman Catholic, Orthodox, Baptist, Muslim, Jewish, and Buddhist) 13%"
     },
-    "Population": {
-      "text": "9,801,616 (July 2015 est.)"
-    },
     "Age structure": {
       "0-14 years": {
-        "text": "17.12% (male 863,125/female 814,803)"
+        "text": "17.28% (male 878,463/female 829,266)"
       },
       "15-24 years": {
-        "text": "11.97% (male 603,615/female 569,289)"
+        "text": "11.63% (male 591,495/female 557,229)"
       },
       "25-54 years": {
-        "text": "39.3% (male 1,957,869/female 1,894,064)"
+        "text": "39.38% (male 1,976,752/female 1,914,623)"
       },
       "55-64 years": {
-        "text": "11.63% (male 571,318/female 568,293)"
+        "text": "11.58% (male 574,175/female 570,424)"
       },
       "65 years and over": {
-        "text": "19.99% (male 900,070/female 1,059,170) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "20.12% (male 915,861/female 1,072,316) (2016 est.)"
       }
     },
     "Dependency ratios": {
@@ -173,20 +162,23 @@
         "text": "40.2 years"
       },
       "female": {
-        "text": "42.2 years (2015 est.)"
+        "text": "42.2 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "0.8% (2015 est.)"
+      "text": "0.81% (2016 est.)"
     },
     "Birth rate": {
-      "text": "11.99 births/1,000 population (2015 est.)"
+      "text": "12 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "9.4 deaths/1,000 population (2015 est.)"
+      "text": "9.4 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "5.42 migrant(s)/1,000 population (2015 est.)"
+      "text": "5.4 migrant(s)/1,000 population (2016 est.)"
+    },
+    "Population distribution": {
+      "text": "most Swedes live in the south where there the climate is more mild and there is better connectivity to mainland Europe; population clusters are found all along the Baltic coast in the east; the interior areas of the north remain sparsely populated"
     },
     "Urbanization": {
       "urban population": {
@@ -219,8 +211,11 @@
         "text": "0.85 male(s)/female"
       },
       "total population": {
-        "text": "1 male(s)/female (2015 est.)"
+        "text": "1 male(s)/female (2016 est.)"
       }
+    },
+    "Mother's mean age at first birth": {
+      "text": "28.9 (2010 est.)"
     },
     "Maternal mortality rate": {
       "text": "4 deaths/100,000 live births (2015 est.)"
@@ -230,28 +225,28 @@
         "text": "2.6 deaths/1,000 live births"
       },
       "male": {
-        "text": "2.87 deaths/1,000 live births"
+        "text": "2.9 deaths/1,000 live births"
       },
       "female": {
-        "text": "2.31 deaths/1,000 live births (2015 est.)"
+        "text": "2.3 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "81.98 years"
+        "text": "82.1 years"
       },
       "male": {
-        "text": "80.09 years"
+        "text": "80.2 years"
       },
       "female": {
-        "text": "83.99 years (2015 est.)"
+        "text": "84.1 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "1.88 children born/woman (2015 est.)"
+      "text": "1.88 children born/woman (2016 est.)"
     },
     "Health expenditures": {
-      "text": "9.7% of GDP (2013)"
+      "text": "11.9% of GDP (2014)"
     },
     "Physicians density": {
       "text": "3.93 physicians/1,000 population (2011)"
@@ -288,28 +283,28 @@
       "text": "22% (2014)"
     },
     "Education expenditures": {
-      "text": "6.8% of GDP (2011)"
+      "text": "7.7% of GDP (2013)"
     },
     "School life expectancy (primary to tertiary education)": {
       "total": {
-        "text": "16 years"
+        "text": "18 years"
       },
       "male": {
-        "text": "15 years"
+        "text": "17 years"
       },
       "female": {
-        "text": "17 years (2012)"
+        "text": "20 years (2014)"
       }
     },
     "Unemployment, youth ages 15-24": {
       "total": {
-        "text": "23.7%"
+        "text": "22.9%"
       },
       "male": {
-        "text": "25%"
+        "text": "24.2%"
       },
       "female": {
-        "text": "22.3% (2012 est.)"
+        "text": "21.5% (2014 est.)"
       }
     }
   },
@@ -326,10 +321,13 @@
       },
       "local short form": {
         "text": "Sverige"
+      },
+      "etymology": {
+        "text": "name ultimately derives from the North Germanic Svear tribe, which inhabited central Sweden and is first mentioned in the first centuries A.D."
       }
     },
     "Government type": {
-      "text": "constitutional monarchy"
+      "text": "parliamentary constitutional monarchy"
     },
     "Capital": {
       "name": {
@@ -349,13 +347,13 @@
       "text": "21 counties (lan, singular and plural); Blekinge, Dalarna, Gavleborg, Gotland, Halland, Jamtland, Jonkoping, Kalmar, Kronoberg, Norrbotten, Orebro, Ostergotland, Skane, Sodermanland, Stockholm, Uppsala, Varmland, Vasterbotten, Vasternorrland, Vastmanland, Vastra Gotaland"
     },
     "Independence": {
-      "text": "6 June 1523 (Gustav VASA elected king)"
+      "text": "6 June 1523 (Gustav VASA elected king of Sweden marking the abolishment of the Kalmar Union between Denmark, Norway, and Sweden)"
     },
     "National holiday": {
       "text": "National Day, 6 June (1983); note - from 1916 to 1982 this date was celebrated as Swedish Flag Day"
     },
     "Constitution": {
-      "text": "several previous; latest adopted 1 January 1975; amended several times, last in 2012 (2015)"
+      "text": "several previous; latest adopted 1 January 1975; amended several times, last in 2014 (Riksdag Act) (2016)"
     },
     "Legal system": {
       "text": "civil law system influenced by Roman-Germanic law and customary law"
@@ -364,14 +362,17 @@
       "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
     },
     "Citizenship": {
-      "birthright citizenship": {
-        "text": ""
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "the father must be a citizen of Sweden; in the case of a child born out of wedlock, the mother must be a citizen of Sweden and the father unknown"
       },
       "dual citizenship recognized": {
-        "text": "yes"
+        "text": "no, unless the other citizenship was acquired involuntarily"
       },
       "residency requirement for naturalization": {
-        "text": ""
+        "text": "5 years"
       }
     },
     "Suffrage": {
@@ -382,7 +383,7 @@
         "text": "King CARL XVI GUSTAF (since 19 September 1973); Heir Apparent Princess VICTORIA Ingrid Alice Desiree, daughter of the monarch (born 14 July 1977)"
       },
       "head of government": {
-        "text": "Prime Minister Stefan LOFVEN (since 3 October 2014); Deputy Prime Minister Asa ROMSON (since 3 October 2014)"
+        "text": "Prime Minister Stefan LOFVEN (since 3 October 2014); Deputy Prime Minister Isabella LOVIN (since 25 May 2016)"
       },
       "cabinet": {
         "text": "Cabinet appointed by the prime minister"
@@ -404,7 +405,7 @@
     },
     "Judicial branch": {
       "highest court(s)": {
-        "text": "Supreme Court of Sweden (consists of 16 justices including the court chairman; Supreme Administrative Court (consists of 18 justices including the court president)"
+        "text": "Supreme Court of Sweden (consists of 16 justices including the court chairman); Supreme Administrative Court (consists of 18 justices including the court president)"
       },
       "judge selection and term of office": {
         "text": "Supreme Court and Supreme Administrative Court justices nominated by the Board of Judges, a 9-member nominating body consisting of high-level judges, prosecutors, and members of Parliament; justices appointed by the Government; following a probationary period, justices' appointments are permanent"
@@ -414,10 +415,10 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Center Party (Centerpartiet) or C [Annie LOOF] ++ Christian Democrats (Kristdemokraterna) or KD [Goran HAGGLUND] ++ Green Party (Miljopartiet de Grona) or MP [spokespersons Asa ROMSON and Gustav FRIDOLIN] ++ Left Party (Vansterpartiet) (formerly Communist Party) or V [Jonas SJOSTEDT] ++ Liberal People's Party (Folkpartiet) or FP [Jan BJORKLUND] ++ Moderate Party (Moderaterna) or M [Anna KINBERG BATRA] ++ Social Democratic Party (Socialdemokraterna) or SAP [Stefan LOFVEN] ++ Sweden Democrats (Sverigedemokraterna) or SD [Jimmie AKESSON]"
+      "text": "Center Party (Centerpartiet) or C [Annie LOOF] ++ Christian Democrats (Kristdemokraterna) or KD [Ebba Busch THOR] ++ Green Party (Miljopartiet de Grona) or MP [Asa ROMSON and Gustav FRIDOLIN] ++ Left Party (Vansterpartiet) (formerly Communist Party) or V [Jonas SJOSTEDT] ++ Liberal Party (Liberalerna) or L [Jan BJORKLUND] ++ Moderate Party (Moderaterna) or M [Anna KINBERG BATRA] ++ Swedish Social Democratic Party (Socialdemokraterna) or SAP [Stefan LOFVEN] ++ Sweden Democrats (Sverigedemokraterna) or SD [Jimmie AKESSON]"
     },
     "Political pressure groups and leaders": {
-      "text": "Swedish Confederation of Professional Associations or SACO ++ Swedish Confederation of Professional Employees or TCO ++ Swedish Trade Union Confederation (Landsorganisationen) or LO [Wanja LUNDBY-WEDIN]",
+      "text": "Swedish Confederation of Professional Associations or SACO [Goran ARRIUS] ++ Swedish Confederation of Professional Employees or TCO [Eva NORDMARK] ++ Swedish Trade Union Confederation (Landsorganisationen) or LO [Karl-Petter THORWALDSSON]",
       "other": {
         "text": "environmental groups; media"
       }
@@ -437,11 +438,14 @@
       },
       "FAX": {
         "text": "[1] (202) 467-2699"
+      },
+      "consulate(s) general": {
+        "text": "New York"
       }
     },
     "Diplomatic representation from the US": {
       "chief of mission": {
-        "text": "Ambassador Mark Francis BRZEZINSKI (since 14 November 2011)"
+        "text": "Ambassador Azita RAJI (since 15 March 2016)"
       },
       "embassy": {
         "text": "Dag Hammarskjolds Vag 31, SE-11589 Stockholm"
@@ -476,47 +480,47 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Aided by peace and neutrality for the whole of the 20th century, Sweden has achieved an enviable standard of living under a mixed system of high-tech capitalism and extensive welfare benefits. Sweden remains outside the Eurozone because of concerns over its impact on the country’s economy, welfare system, and sovereignty. Timber, hydropower, and iron ore constitute the resource base of an economy heavily oriented toward foreign trade. Privately owned firms account for vast majority of industrial output. Agriculture accounts for less than 1% of GDP. Economic growth slowed in 2013, as a result of continued economic weakness in the EU - Sweden’s main export market; however, Sweden’s economy experienced modest growth in 2014, with an adjusted real GDP growth that averaged 2.1%. Sweden’s economy is expected to grow modestly in 2015, although the country continues to struggle with deflationary pressure."
+      "text": "Sweden has achieved an enviable standard of living with its combination of free-market capitalism and extensive welfare benefits. Sweden remains outside the euro zone largely out of concern that joining the European Economic and Monetary Union would diminish the country’s sovereignty over its welfare system. Timber, hydropower, and iron ore constitute the resource base of an economy heavily oriented toward foreign trade. ++  ++ Economic growth slowed in 2013, as a result of continued economic weakness in Sweden’s European trading partners; Sweden’s economy experienced modest growth in 2014-15, with real GDP growth above 2%, but continues to struggle with deflationary pressure."
     },
     "GDP (purchasing power parity)": {
-      "text": "$450.5 billion (2014 est.) ++ $440.5 billion (2013 est.) ++ $434.9 billion (2012 est.)",
+      "text": "$474.8 billion (2015 est.) ++ $455.7 billion (2014 est.) ++ $445.6 billion (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$570.6 billion (2014 est.)"
+      "text": "$493 billion (2015 est.)"
     },
     "GDP - real growth rate": {
-      "text": "2.3% (2014 est.) ++ 1.3% (2013 est.) ++ -0.3% (2012 est.)"
+      "text": "4.2% (2015 est.) ++ 2.3% (2014 est.) ++ 1.2% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$46,200 (2014 est.) ++ $45,200 (2013 est.) ++ $44,600 (2012 est.)",
+      "text": "$48,200 (2015 est.) ++ $46,800 (2014 est.) ++ $46,200 (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "Gross national saving": {
-      "text": "29.7% of GDP (2014 est.) ++ 28.8% of GDP (2013 est.) ++ 29.2% of GDP (2012 est.)"
+      "text": "29.8% of GDP (2015 est.) ++ 28.4% of GDP (2014 est.) ++ 27.8% of GDP (2013 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "46.3%"
+        "text": "45.2%"
       },
       "government consumption": {
-        "text": "26.3%"
+        "text": "26%"
       },
       "investment in fixed capital": {
-        "text": "23.5%"
+        "text": "24.2%"
       },
       "investment in inventories": {
         "text": "0.3%"
       },
       "exports of goods and services": {
-        "text": "44.5%"
+        "text": "45.1%"
       },
       "imports of goods and services": {
-        "text": "-40.8% ++  (2014 est.)"
+        "text": "-40.9% (2015 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
@@ -524,10 +528,10 @@
         "text": "1.8%"
       },
       "industry": {
-        "text": "33.3%"
+        "text": "33.8%"
       },
       "services": {
-        "text": "64.9% (2014 est.)"
+        "text": "64.4% (2015 est.)"
       }
     },
     "Agriculture - products": {
@@ -537,10 +541,10 @@
       "text": "iron and steel, precision equipment (bearings, radio and telephone parts, armaments), wood pulp and paper products, processed foods, motor vehicles"
     },
     "Industrial production growth rate": {
-      "text": "2.4% (2014 est.)"
+      "text": "4.8% (2015 est.)"
     },
     "Labor force": {
-      "text": "5.182 million (2014 est.)"
+      "text": "5.224 million (2015 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -554,7 +558,7 @@
       }
     },
     "Unemployment rate": {
-      "text": "7.9% (2014 est.) ++ 8% (2013 est.)"
+      "text": "7.4% (2015 est.) ++ 7.9% (2014 est.)"
     },
     "Population below poverty line": {
       "text": "14% (2011 est.)"
@@ -572,20 +576,20 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$291 billion"
+        "text": "$248.5 billion"
       },
       "expenditures": {
-        "text": "$301.7 billion (2014 est.)"
+        "text": "$248.5 billion (2015 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "51% of GDP (2014 est.)"
+      "text": "50.4% of GDP (2015 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-1.9% of GDP (2014 est.)"
+      "text": "0% of GDP (2015 est.)"
     },
     "Public debt": {
-      "text": "43.8% of GDP (2014 est.) ++ 38.8% of GDP (2013 est.)",
+      "text": "43.2% of GDP (2015 est.) ++ 44.7% of GDP (2014 est.)",
       "note": {
         "text": "data cover general government debt, and includes debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intra-governmental debt; intra-governmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions"
       }
@@ -594,7 +598,7 @@
       "text": "calendar year"
     },
     "Inflation rate (consumer prices)": {
-      "text": "0.2% (2014 est.) ++ 0.4% (2013 est.)"
+      "text": "0.7% (2015 est.) ++ 0.2% (2014 est.)"
     },
     "Central bank discount rate": {
       "text": "0% (31 December 2014) ++ 1% (31 December 2013)",
@@ -603,58 +607,63 @@
       }
     },
     "Commercial bank prime lending rate": {
-      "text": "2.53% (31 December 2014 est.) ++ 3.23% (31 December 2013 est.)"
+      "text": "1.96% (31 December 2015 est.) ++ 2.53% (31 December 2014 est.)"
     },
     "Stock of narrow money": {
-      "text": "$258.7 billion (31 December 2014 est.) ++ $287.1 billion (31 December 2013 est.)"
+      "text": "$271 billion (31 December 2015 est.) ++ $258.9 billion (31 December 2014 est.)"
     },
     "Stock of broad money": {
-      "text": "$336.8 billion (31 December 2014 est.) ++ $371.6 billion (31 December 2013 est.)"
+      "text": "$326.9 billion (31 December 2015 est.) ++ $322.1 billion (31 December 2014 est.)"
     },
     "Stock of domestic credit": {
-      "text": "$788.4 billion (31 December 2014 est.) ++ $875.4 billion (31 December 2013 est.)"
+      "text": "$749.3 billion (31 December 2015 est.) ++ $788.6 billion (31 December 2014 est.)"
     },
     "Market value of publicly traded shares": {
-      "text": "$560.5 billion (31 December 2012 est.) ++ $470.1 billion (31 December 2011) ++ $581.2 billion (31 December 2010 est.)"
+      "text": "$560.5 billion (31 December 2012 est.) ++ $470.1 billion (31 December 2011 est.) ++ $581.2 billion (31 December 2010 est.)"
     },
     "Current account balance": {
-      "text": "$35.39 billion (2014 est.) ++ $38.79 billion (2013 est.)"
+      "text": "$25.86 billion (2015 est.) ++ $26.51 billion (2014 est.)"
     },
     "Exports": {
-      "text": "$178.8 billion (2014 est.) ++ $181.1 billion (2013 est.)"
+      "text": "$151.1 billion (2015 est.) ++ $179.6 billion (2014 est.)"
     },
     "Exports - commodities": {
       "text": "machinery 35%, motor vehicles, paper products, pulp and wood, iron and steel products, chemicals (2012 est.)"
     },
     "Exports - partners": {
-      "text": "Norway 10.4%, Germany 10.4%, UK 7.4%, Finland 7.3%, Denmark 7.2%, US 6%, Netherlands 5.3%, Belgium 4.6%, France 4.6% (2014)"
+      "text": "Norway 10.3%, Germany 10.3%, US 7.7%, UK 7.2%, Denmark 6.8%, Finland 6.7%, Netherlands 5.2%, Belgium 4.4%, France 4.2% (2015)"
     },
     "Imports": {
-      "text": "$161.4 billion (2014 est.) ++ $160.1 billion (2013 est.)"
+      "text": "$137.3 billion (2015 est.) ++ $160.6 billion (2014 est.)"
     },
     "Imports - commodities": {
       "text": "machinery, petroleum and petroleum products, chemicals, motor vehicles, iron and steel; foodstuffs, clothing"
     },
     "Imports - partners": {
-      "text": "Germany 17.4%, Netherlands 7.7%, Norway 7.6%, Denmark 7.4%, UK 6.2%, China 5.3%, Russia 5.2%, Finland 5.1%, France 4.4% (2014)"
+      "text": "Germany 17.9%, Netherlands 8.1%, Norway 7.8%, Denmark 7.7%, China 6%, UK 5.5%, Finland 4.6%, France 4.3%, Belgium 4.3% (2015)"
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$62.5 billion (31 December 2014 est.) ++ $65.38 billion (31 December 2013 est.)"
+      "text": "$58.11 billion (31 December 2015 est.) ++ $62.5 billion (31 December 2014 est.)"
     },
     "Debt - external": {
-      "text": "$62.5 billion (31 December 2014 est.) ++ $65.38 billion (31 December 2013 est.)"
+      "text": "$1.01 trillion (31 December 2014 est.) ++ $1.107 trillion (31 December 2013 est.)"
     },
     "Stock of direct foreign investment - at home": {
-      "text": "$429 billion (31 December 2014 est.) ++ $523 billion (31 December 2013 est.)"
+      "text": "$380.9 billion (31 December 2015 est.) ++ $418.9 billion (31 December 2014 est.)"
     },
     "Stock of direct foreign investment - abroad": {
-      "text": "$487.4 billion (31 December 2014 est.) ++ $553.3 billion (31 December 2013 est.)"
+      "text": "$445 billion (31 December 2015 est.) ++ $481.6 billion (31 December 2014 est.)"
     },
     "Exchange rates": {
-      "text": "Swedish kronor (SEK) per US dollar - ++ 6.8612 (2014 est.) ++ 6.8612 (2013 est.) ++ 6.77 (2012 est.) ++ 6.4918 (2011 est.) ++ 7.2075 (2010 est.)"
+      "text": "Swedish kronor (SEK) per US dollar - ++ 8.4335 (2015 est.) ++ 6.8612 (2014 est.) ++ 6.8612 (2013 est.) ++ 6.77 (2012 est.) ++ 6.4918 (2011 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
+    },
     "Electricity - production": {
       "text": "161 billion kWh (2012 est.)"
     },
@@ -728,18 +737,18 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "3.82 million"
+        "text": "3,554,665"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "39 (2014 est.)"
+        "text": "36 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "12.3 million"
+        "text": "12.639 million"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "127 (2014 est.)"
+        "text": "129 (July 2015 est.)"
       }
     },
     "Telephone system": {
@@ -750,31 +759,42 @@
         "text": "coaxial and multiconductor cables carry most of the voice traffic; parallel microwave radio relay systems carry some additional telephone channels"
       },
       "international": {
-        "text": "country code - 46; submarine cables provide links to other Nordic countries and Europe; satellite earth stations - 1 Intelsat (Atlantic Ocean), 1 Eutelsat, and 1 Inmarsat (Atlantic and Indian Ocean regions); note - Sweden shares the Inmarsat earth station with the other Nordic countries (Denmark, Finland, Iceland, and Norway) (2011)"
+        "text": "country code - 46; submarine cables provide links to other Nordic countries and Europe; satellite earth stations - 1 Intelsat (Atlantic Ocean), 1 Eutelsat, and 1 Inmarsat (Atlantic and Indian Ocean regions); note - Sweden shares the Inmarsat earth station with the other Nordic countries (Denmark, Finland, Iceland, and Norway) (2015)"
       }
     },
     "Broadcast media": {
       "text": "publicly owned TV broadcaster operates 2 terrestrial networks plus regional stations; multiple privately owned TV broadcasters operating nationally, regionally, and locally; about 50 local TV stations; widespread access to pan-Nordic and international broadcasters through multi-channel cable and satellite TV; publicly owned radio broadcaster operates 3 national stations and a network of 25 regional channels; roughly 100 privately owned local radio stations with some consolidating into near national networks; an estimated 900 community and neighborhood radio stations broadcast intermittently (2008)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM 1, FM 124, shortwave 0 (2008)"
-    },
-    "Television broadcast stations": {
-      "text": "252 (2008)"
     },
     "Internet country code": {
       "text": ".se"
     },
     "Internet users": {
       "total": {
-        "text": "8.7 million"
+        "text": "8.881 million"
       },
       "percent of population": {
-        "text": "89.1% (2014 est.)"
+        "text": "90.6% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "8"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "219"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "11,623,930"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "0 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "SE (2016)"
+    },
     "Airports": {
       "text": "231 (2013)"
     },
@@ -806,7 +826,7 @@
         "text": "5"
       },
       "under 914 m": {
-        "text": " ++ 77 (2013)"
+        "text": "77 (2013)"
       }
     },
     "Heliports": {
@@ -866,39 +886,15 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "Swedish Armed Forces (Forsvarsmakten): Army (Armen), Royal Swedish Navy (Marinen), Swedish Air Force (Svenska Flygvapnet) (2010)"
     },
     "Military service age and obligation": {
       "text": "18-47 years of age for male and female voluntary military service; Swedish citizenship required; service obligation: 7.5 months (Army), 7-15 months (Navy), 8-12 months (Air Force); the Swedish Parliament has abolished compulsory military service, with exclusively voluntary recruitment as of July 2010; conscription remains an option in emergencies; after completing initial service, soldiers have a reserve commitment until age 47 (2013)"
     },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "2,065,691"
-      },
-      "females age 16-49": {
-        "text": "1,996,764 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "1,709,055"
-      },
-      "females age 16-49": {
-        "text": "1,650,432 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "54,960"
-      },
-      "female": {
-        "text": "52,275 (2010 est.)"
-      }
-    },
     "Military expenditures": {
-      "text": "1.18% of GDP (2012) ++ 1.17% of GDP (2011) ++ 1.18% of GDP (2010)"
+      "text": "1.1% of GDP (2015) ++ 1.1% of GDP (2014) ++ 1.1% of GDP (2013) ++ 1.18% of GDP (2012) ++ 1.17% of GDP (2011)"
     }
   },
   "Transnational Issues": {
@@ -907,10 +903,10 @@
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
-        "text": "34,285 (Syria); 24,184 (Iraq); 21,189 (Somalia); 14,107 (Eritrea); 12,090 (Afghanistan) (2014)"
+        "text": "52,707 (Syria); 23,886 (Iraq); 21,501 (Somalia); 20,203 (Eritrea); 13,064 (Afghanistan) (2015)"
       },
       "stateless persons": {
-        "text": "27,167 (2014); note - the majority of stateless people come from the Middle East and Somalia"
+        "text": "31,062 (2015); note - the majority of stateless people are from the Middle East and Somalia"
       }
     }
   }

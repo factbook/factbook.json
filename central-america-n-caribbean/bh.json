@@ -53,12 +53,12 @@
     "Terrain": {
       "text": "flat, swampy coastal plain; low mountains in south"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Caribbean Sea 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "173 m"
       },
-      "highest point": {
-        "text": "Doyle's Delight 1,160 m"
+      "elevation extremes": {
+        "text": "lowest point: Caribbean Sea 0 m ++ highest point: Doyle's Delight 1,160 m"
       }
     },
     "Natural resources": {
@@ -76,18 +76,10 @@
       }
     },
     "Irrigated land": {
-      "text": "30 sq km (2003)"
+      "text": "35 sq km (2012)"
     },
-    "Total renewable water resources": {
-      "text": "18.55 cu km (2011)"
-    },
-    "Freshwater withdrawal (domestic/industrial/agricultural)": {
-      "total": {
-        "text": "0.22  cu km/yr (4%/49%/46%)"
-      },
-      "per capita": {
-        "text": "845.2  cu m/yr (2000)"
-      }
+    "Population - distribution": {
+      "text": "approximately 25 to 30% of the population lives in the former capital, Belize City; over half of the overall population is rural; population density is slightly higher in the north and east"
     },
     "Natural hazards": {
       "text": "frequent, devastating hurricanes (June to November) and coastal flooding (especially in south)"
@@ -108,6 +100,9 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "353,858 (July 2016 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "Belizean(s)"
@@ -134,27 +129,21 @@
     "Demographic profile": {
       "text": "Migration continues to transform Belize's population. About 16% of Belizeans live abroad, while immigrants constitute approximately 15% of Belize's population. Belizeans seeking job and educational opportunities have preferred to emigrate to the United States rather than former colonizer Great Britain because of the United States' closer proximity and stronger trade ties with Belize. Belizeans also emigrate to Canada, Mexico, and English-speaking Caribbean countries. The emigration of a large share of Creoles (Afro-Belizeans) and the influx of Central American immigrants, mainly Guatemalans, Salvadorans, and Hondurans, has changed Belize's ethnic composition. Mestizos have become the largest ethnic group, and Belize now has more native Spanish speakers than English or Creole speakers, despite English being the official language. In addition, Central American immigrants are establishing new communities in rural areas, which contrasts with the urbanization trend seen in neighboring countries. Recently, Chinese, European, and North American immigrants have become more frequent. Immigration accounts for an increasing share of Belize's population growth rate, which is steadily falling due to fertility decline. Belize's declining birth rate and its increased life expectancy are creating an aging population. As the elderly population grows and nuclear families replace extended households, Belize's government will be challenged to balance a rising demand for pensions, social services, and healthcare for its senior citizens with the need to reduce poverty and social inequality and to improve sanitation."
     },
-    "Population": {
-      "text": "347,369 (July 2015 est.)"
-    },
     "Age structure": {
       "0-14 years": {
-        "text": "34.87% (male 61,822/female 59,312)"
+        "text": "34.41% (male 62,139/female 59,611)"
       },
       "15-24 years": {
-        "text": "20.86% (male 36,897/female 35,547)"
+        "text": "20.71% (male 37,333/female 35,960)"
       },
       "25-54 years": {
-        "text": "35.88% (male 63,048/female 61,587)"
+        "text": "36.26% (male 64,968/female 63,346)"
       },
       "55-64 years": {
-        "text": "4.69% (male 8,072/female 8,224)"
+        "text": "4.84% (male 8,445/female 8,666)"
       },
       "65 years and over": {
-        "text": "3.7% (male 6,056/female 6,804) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "3.78% (male 6,291/female 7,099) (2016 est.)"
       }
     },
     "Dependency ratios": {
@@ -173,26 +162,29 @@
     },
     "Median age": {
       "total": {
-        "text": "22.1 years"
+        "text": "22.4 years"
       },
       "male": {
-        "text": "21.9 years"
+        "text": "22.2 years"
       },
       "female": {
-        "text": "22.3 years (2015 est.)"
+        "text": "22.6 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "1.87% (2015 est.)"
+      "text": "1.84% (2016 est.)"
     },
     "Birth rate": {
-      "text": "24.68 births/1,000 population (2015 est.)"
+      "text": "24.3 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "5.97 deaths/1,000 population (2015 est.)"
+      "text": "6 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "0 migrant(s)/1,000 population (2015 est.)"
+      "text": "0 migrant(s)/1,000 population (2016 est.)"
+    },
+    "Population distribution": {
+      "text": "approximately 25 to 30% of the population lives in the former capital, Belize City; over half of the overall population is rural; population density is slightly higher in the north and east"
     },
     "Urbanization": {
       "urban population": {
@@ -216,16 +208,16 @@
         "text": "1.04 male(s)/female"
       },
       "25-54 years": {
-        "text": "1.02 male(s)/female"
+        "text": "1.03 male(s)/female"
       },
       "55-64 years": {
-        "text": "0.98 male(s)/female"
+        "text": "0.97 male(s)/female"
       },
       "65 years and over": {
         "text": "0.89 male(s)/female"
       },
       "total population": {
-        "text": "1.03 male(s)/female (2015 est.)"
+        "text": "1.03 male(s)/female (2016 est.)"
       }
     },
     "Maternal mortality rate": {
@@ -233,34 +225,34 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "19.82 deaths/1,000 live births"
+        "text": "19.3 deaths/1,000 live births"
       },
       "male": {
-        "text": "22.08 deaths/1,000 live births"
+        "text": "21.6 deaths/1,000 live births"
       },
       "female": {
-        "text": "17.44 deaths/1,000 live births (2015 est.)"
+        "text": "16.9 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "68.59 years"
+        "text": "68.7 years"
       },
       "male": {
-        "text": "67.01 years"
+        "text": "67.2 years"
       },
       "female": {
-        "text": "70.25 years (2015 est.)"
+        "text": "70.4 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "2.95 children born/woman (2015 est.)"
+      "text": "2.9 children born/woman (2016 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "55.2% (2011)"
     },
     "Health expenditures": {
-      "text": "5.4% of GDP (2013)"
+      "text": "5.8% of GDP (2014)"
     },
     "Physicians density": {
       "text": "0.83 physicians/1,000 population (2009)"
@@ -285,13 +277,13 @@
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "1.18% (2014 est.)"
+      "text": "1.52% (2015 est.)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
-      "text": "2,700 (2014 est.)"
+      "text": "3,600 (2015 est.)"
     },
     "HIV/AIDS - deaths": {
-      "text": "100 (2014 est.)"
+      "text": "100 (2015 est.)"
     },
     "Major infectious diseases": {
       "degree of risk": {
@@ -301,7 +293,10 @@
         "text": "bacterial diarrhea, hepatitis A, and typhoid fever"
       },
       "vectorborne diseases": {
-        "text": "dengue fever and malaria (2013)"
+        "text": "dengue fever and malaria"
+      },
+      "note": {
+        "text": "active local transmission of Zika virus by Aedes species mosquitoes has been identified in this country (as of August 2016); it poses an important risk (a large number of cases possible) among US citizens if bitten by an infective mosquito; other less common ways to get Zika are through sex, via blood transfusion, or during pregnancy, in which the pregnant woman passes Zika virus to her fetus (2016)"
       }
     },
     "Obesity - adult prevalence rate": {
@@ -311,17 +306,17 @@
       "text": "6.2% (2011)"
     },
     "Education expenditures": {
-      "text": "6.6% of GDP (2010)"
+      "text": "6.2% of GDP (2013)"
     },
     "School life expectancy (primary to tertiary education)": {
       "total": {
-        "text": "14 years"
+        "text": "13 years"
       },
       "male": {
         "text": "13 years"
       },
       "female": {
-        "text": "14 years (2013)"
+        "text": "13 years (2013)"
       }
     },
     "Child labor - children ages 5-14": {
@@ -334,13 +329,13 @@
     },
     "Unemployment, youth ages 15-24": {
       "total": {
-        "text": "19.5%"
+        "text": "25%"
       },
       "male": {
-        "text": "13.8%"
+        "text": "18%"
       },
       "female": {
-        "text": "28.8% (2005 est.)"
+        "text": "35.6% (2012 est.)"
       }
     }
   },
@@ -354,10 +349,13 @@
       },
       "former": {
         "text": "British Honduras"
+      },
+      "etymology": {
+        "text": "may be named for the Belize River, whose name possibly derives from the Maya word \"belix,\" meaning \"muddy-watered\""
       }
     },
     "Government type": {
-      "text": "parliamentary democracy and a Commonwealth realm"
+      "text": "parliamentary democracy (National Assembly) under a constitutional monarchy; a Commonwealth realm"
     },
     "Capital": {
       "name": {
@@ -380,7 +378,7 @@
       "text": "Battle of St. George's Caye Day (National Day), September 10, 1798; Independence Day, 21 September (1981)"
     },
     "Constitution": {
-      "text": "previous 1954, 1963 (preindependence); latest signed and entered into force 21 September 1981; amended several times, last in 2012 (2015)"
+      "text": "previous 1954, 1963 (preindependence); latest signed and entered into force 21 September 1981; amended several times, last in 2012 (2016)"
     },
     "Legal system": {
       "text": "English common law"
@@ -389,7 +387,10 @@
       "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
     },
     "Citizenship": {
-      "birthright citizenship": {
+      "citizenship by birth": {
+        "text": "yes"
+      },
+      "citizenship by descent": {
         "text": "yes"
       },
       "dual citizenship recognized": {
@@ -435,11 +436,11 @@
         "text": "Court of Appeal president and justices appointed by the governor general upon advice of the prime minister after consultation with the National Assembly opposition leader; justices' tenures vary by terms of appointment; Supreme Court chief justice appointed by the governor-general upon the advice of the prime minister and the National Assembly opposition leader; other judges appointed by the governor-general upon the advice of the Judicial and Legal Services Section of the Public Services Commission and with the concurrence of the prime minister after consultation with the National Assembly opposition leader; judges can be appointed beyond age 65 but must retire by age 75; in 2013, the Supreme Court chief justice overturned a constitutional amendment that had restricted Court of Appeal judge appointments to as short as 1 year"
       },
       "subordinate courts": {
-        "text": "Summary Jurisdiction Courts (criminal) and District Courts (civil)"
+        "text": "Summary Jurisdiction Courts (criminal) and district courts (civil)"
       }
     },
     "Political parties and leaders": {
-      "text": "People's National Party or PNP [Wil MAHEIA] ++ People's United Party or PUP [John BRICENO] ++ United Democratic Party or UDP [Francis FONSECA] ++ Vision Inspired by the People or VIP [Paul MORGAN]"
+      "text": "Belize Progressive Party or BPP [Patrick ROGERS] (formed in 2015 from a merger of the People's National Party, elements of the VIP, and other smaller political groups) ++ People's United Party or PUP [vacant] ++ United Democratic Party or UDP [Dean Oliver BARROW]"
     },
     "Political pressure groups and leaders": {
       "text": "National Trade Union Congress of Belize or NTUC/B [Marvin MORA]"
@@ -504,58 +505,58 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Tourism is the number one foreign exchange earner in this small economy, followed by exports of crude oil, marine products, sugar, citrus, and bananas. The government's expansionary monetary and fiscal policies, initiated in September 1998, led to GDP growth averaging nearly 4% in 1999-2007. Oil discoveries in 2006 bolstered this growth and oil exploration continues, but production has fallen in recent years and future oil revenues remain uncertain. Growth slipped to 0% in 2009, due to the global economic slowdown, natural disasters, and a temporary drop in the price of oil, but growth grew to 2.5% in 2014. Although Belize has the third highest per capita income in Central America, the average income figure masks a huge income disparity between rich and poor, and a key government objective remains reducing poverty and inequality with the help of international donors. High unemployment, a growing trade deficit and heavy foreign debt burden continue to be major concerns."
+      "text": "Tourism is the number one foreign exchange earner in this small economy, followed by exports of crude oil, marine products, sugar, citrus, and bananas. ++  ++ The government's expansionary monetary and fiscal policies, initiated in September 1998, led to GDP growth averaging nearly 4% in 1999-2007. Oil discoveries in 2006 bolstered this growth and oil exploration continues, but production has fallen in recent years and future oil revenues remain uncertain. Growth slipped to 0% in 2009, due to the global economic slowdown, natural disasters, and a temporary drop in the price of oil, but growth grew to 2.2% in 2015. ++  ++ Although Belize has the third highest per capita income in Central America, the average income figure masks a huge income disparity between rich and poor, and a key government objective remains reducing poverty and inequality with the help of international donors. High unemployment, a growing trade deficit and heavy foreign debt burden continue to be major concerns."
     },
     "GDP (purchasing power parity)": {
-      "text": "$2.975 billion (2014 est.) ++ $2.872 billion (2013 est.) ++ $2.829 billion (2012 est.)",
+      "text": "$3.048 billion (2015 est.) ++ $3.017 billion (2014 est.) ++ $2.898 billion (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$1.699 billion (2014 est.)"
+      "text": "$1.753 billion (2015 est.)"
     },
     "GDP - real growth rate": {
-      "text": "3.6% (2014 est.) ++ 1.5% (2013 est.) ++ 3.8% (2012 est.)"
+      "text": "1% (2015 est.) ++ 4.1% (2014 est.) ++ 1.3% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$8,300 (2014 est.) ++ $8,000 (2013 est.) ++ $7,900 (2012 est.)",
+      "text": "$8,300 (2015 est.) ++ $8,400 (2014 est.) ++ $8,300 (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "Gross national saving": {
-      "text": "8.5% of GDP (2014 est.) ++ 11% of GDP (2013 est.) ++ 12.5% of GDP (2012 est.)"
+      "text": "13.7% of GDP (2015 est.) ++ 11.5% of GDP (2014 est.) ++ 10.6% of GDP (2013 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "69.5%"
+        "text": "70.9%"
       },
       "government consumption": {
         "text": "17.2%"
       },
       "investment in fixed capital": {
-        "text": "17.3%"
+        "text": "20%"
       },
       "investment in inventories": {
-        "text": "0.7%"
+        "text": "0.4%"
       },
       "exports of goods and services": {
-        "text": "58.8%"
+        "text": "54.6%"
       },
       "imports of goods and services": {
-        "text": "-63.5% ++  (2014 est.)"
+        "text": "-63.1% (2015 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "13.1%"
+        "text": "12.7%"
       },
       "industry": {
-        "text": "16%"
+        "text": "15.5%"
       },
       "services": {
-        "text": "70.9% (2014 est.)"
+        "text": "71.8% (2015 est.)"
       }
     },
     "Agriculture - products": {
@@ -565,7 +566,7 @@
       "text": "garment production, food processing, tourism, construction, oil"
     },
     "Industrial production growth rate": {
-      "text": "-1.5% (2014 est.)"
+      "text": "0.4% (2015 est.)"
     },
     "Labor force": {
       "text": "120,500",
@@ -603,74 +604,79 @@
         "text": "$500 million"
       },
       "expenditures": {
-        "text": "$550 million (2014 est.)"
+        "text": "$650 million (2015 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "29.4% of GDP (2014 est.)"
+      "text": "28.4% of GDP (2015 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-2.9% of GDP (2014 est.)"
+      "text": "-8.5% of GDP (2015 est.)"
     },
     "Public debt": {
-      "text": "77.6% of GDP (2014 est.) ++ 78.5% of GDP (2013 est.)"
+      "text": "82.4% of GDP (2015 est.) ++ 76.5% of GDP (2014 est.)"
     },
     "Fiscal year": {
       "text": "1 April - 31 March"
     },
     "Inflation rate (consumer prices)": {
-      "text": "1.2% (2014 est.) ++ 0.5% (2013 est.)"
+      "text": "-0.9% (2015 est.) ++ 1.2% (2014 est.)"
     },
     "Central bank discount rate": {
       "text": "18% (31 December 2010) ++ 12% (31 December 2009)"
     },
     "Commercial bank prime lending rate": {
-      "text": "10.8% (31 December 2014 est.) ++ 11.57% (31 December 2013 est.)"
+      "text": "10.32% (31 December 2015 est.) ++ 10.82% (31 December 2014 est.)"
     },
     "Stock of narrow money": {
-      "text": "$657 million (31 December 2014 est.) ++ $561 million (31 December 2013 est.)"
+      "text": "$764.3 million (31 December 2015 est.) ++ $656.9 million (31 December 2014 est.)"
     },
     "Stock of broad money": {
-      "text": "$1.372 billion (31 December 2014 est.) ++ $1.239 billion (31 December 2013 est.)"
+      "text": "$1.539 billion (31 December 2015 est.) ++ $1.336 billion (31 December 2014 est.)"
     },
     "Stock of domestic credit": {
-      "text": "$1 billion (31 December 2014 est.) ++ $947.5 million (31 December 2013 est.)"
+      "text": "$1.174 billion (31 December 2015 est.) ++ $979.5 million (31 December 2014 est.)"
     },
     "Market value of publicly traded shares": {
       "text": "$NA"
     },
     "Current account balance": {
-      "text": "-$130 million (2014 est.) ++ -$72 million (2013 est.)"
+      "text": "-$172 million (2015 est.) ++ -$128 million (2014 est.)"
     },
     "Exports": {
-      "text": "$588.6 million (2014 est.) ++ $608 million (2013 est.)"
+      "text": "$537.9 million (2015 est.) ++ $588.6 million (2014 est.)"
     },
     "Exports - commodities": {
       "text": "sugar, bananas, citrus, clothing, fish products, molasses, wood, crude oil"
     },
     "Exports - partners": {
-      "text": "UK 20.5%, US 20.5%, Mexico 6%, Nigeria 5.7%, Cote d'Ivoire 4.8%, Netherlands 4.6%, Trinidad and Tobago 4.1% (2014)"
+      "text": "UK 30.8%, US 18.7%, Nigeria 6.7%, Trinidad and Tobago 4.8%, Ireland 4.2%, Jamaica 4.2% (2015)"
     },
     "Imports": {
-      "text": "$925.5 million (2014 est.) ++ $876 million (2013 est.)"
+      "text": "$961.3 million (2015 est.) ++ $925.5 million (2014 est.)"
     },
     "Imports - commodities": {
       "text": "machinery and transport equipment, manufactured goods; fuels, chemicals, pharmaceuticals; food, beverages, tobacco"
     },
     "Imports - partners": {
-      "text": "US 21.8%, Mexico 10.8%, Cuba 9.6%, China 8.8%, Guatemala 8.5%, Trinidad and Tobago 5.2%, Spain 4.6% (2014)"
+      "text": "US 26.6%, Mexico 11.7%, Cuba 10.2%, Guatemala 9%, China 7.5%, Trinidad and Tobago 5.6% (2015)"
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$486.9 million (31 December 2014 est.) ++ $402.8 million (31 December 2013 est.)"
+      "text": "$437.2 million (31 December 2015 est.) ++ $486.9 million (31 December 2014 est.)"
     },
     "Debt - external": {
-      "text": "$1.348 billion (31 December 2014 est.) ++ $1.249 billion (31 December 2013 est.)"
+      "text": "$1.309 billion (31 December 2015 est.) ++ $1.288 billion (31 December 2014 est.)"
     },
     "Exchange rates": {
-      "text": "Belizean dollars (BZD) per US dollar - ++ 2 (2014 est.) ++ 2 (2013 est.) ++ 2 (2012 est.) ++ 2 (2011 est.) ++ 2 (2010 est.)"
+      "text": "Belizean dollars (BZD) per US dollar - ++ 2 (2015 est.) ++ 2 (2014 est.) ++ 2 (2013 est.) ++ 2 (2012 est.) ++ 2 (2011 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
+    },
     "Electricity - production": {
       "text": "423 million kWh (2012 est.)"
     },
@@ -744,18 +750,18 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "22,700"
+        "text": "21,000"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "7 (2014 est.)"
+        "text": "6 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "172,300"
+        "text": "170,000"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "51 (2014 est.)"
+        "text": "49 (July 2015 est.)"
       }
     },
     "Telephone system": {
@@ -763,34 +769,45 @@
         "text": "above-average system; trunk network depends primarily on microwave radio relay"
       },
       "domestic": {
-        "text": "fixed-line teledensity of slightly less than 10 per 100 persons; mobile-cellular teledensity approaching 70 per 100 persons"
+        "text": "fixed-line teledensity of only about 6 per 100 persons; mobile-cellular teledensity approaching 50 per 100 persons"
       },
       "international": {
-        "text": "country code - 501; landing point for the Americas Region Caribbean Ring System (ARCOS-1) fiber-optic telecommunications submarine cable that provides links to South and Central America, parts of the Caribbean, and the US; satellite earth station - 8 (Intelsat - 2, unknown - 6) (2011)"
+        "text": "country code - 501; landing point for the Americas Region Caribbean Ring System (ARCOS-1) fiber-optic telecommunications submarine cable that provides links to South and Central America, parts of the Caribbean, and the US; satellite earth station - 8 (Intelsat - 2, unknown - 6) (2015)"
       }
     },
     "Broadcast media": {
       "text": "8 privately owned TV stations; multi-channel cable TV provides access to foreign stations; about 25 radio stations broadcasting on roughly 50 different frequencies; state-run radio was privatized in 1998 (2007)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM 1, FM 16, shortwave 0 (2006)"
-    },
-    "Television broadcast stations": {
-      "text": "7 (2008)"
     },
     "Internet country code": {
       "text": ".bz"
     },
     "Internet users": {
       "total": {
-        "text": "91,200"
+        "text": "144,000"
       },
       "percent of population": {
-        "text": "26.8% (2014 est.)"
+        "text": "41.6% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "2"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "28"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "935,603"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "2,463,420 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "V3 (2016)"
+    },
     "Airports": {
       "text": "47 (2013)"
     },
@@ -819,7 +836,7 @@
         "text": "11"
       },
       "under 914 m": {
-        "text": " ++ 29 (2013)"
+        "text": "29 (2013)"
       }
     },
     "Roadways": {
@@ -853,36 +870,12 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "Belize Defense Force (BDF): Army, BDF Air Wing (includes Special Boat Unit), BDF Volunteer Guard (2011)"
     },
     "Military service age and obligation": {
       "text": "18 years of age for voluntary military service; laws allow for conscription only if volunteers are insufficient; conscription has never been implemented; volunteers typically outnumber available positions by 3:1; initial service obligation 12 years (2012)"
-    },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "81,284"
-      },
-      "females age 16-49": {
-        "text": "79,185 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "59,431"
-      },
-      "females age 16-49": {
-        "text": "57,221 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "3,723"
-      },
-      "female": {
-        "text": "3,584 (2010 est.)"
-      }
     },
     "Military expenditures": {
       "text": "NA% (2012) ++ 1.08% of GDP (2011) ++ NA% (2010)"
@@ -894,10 +887,10 @@
     },
     "Trafficking in persons": {
       "current situation": {
-        "text": "Belize is a source, destination, and transit country for men, women, and children subjected to forced labor and sex trafficking; the coerced prostitution of children, often by their parents, for school fees, money, and gifts is common; child sex tourism, involving primarily US citizens, is on the rise; women from Belize and other Central American countries are forced into prostitution in bars, nightclubs, and brothels; workers from Central America, Mexico, and Asia may fall victim to forced labor, especially in the agricultural and fishing sectors"
+        "text": "Belize is a source, destination, and transit country for men, women, and children subjected to forced labor and sex trafficking; the coerced prostitution of women and children by family members has not led to arrests; child sex tourism, involving primarily US citizens, is on the rise; sex trafficking and forced labor of Belizean and foreign women and LGBT individuals occurs in bars, nightclubs, brothels, and domestic service; workers from Central America, Mexico, and Asia may fall victim to forced labor in restaurants, shops, agriculture, and fishing"
       },
       "tier rating": {
-        "text": "Tier 2 Watch List – Belize does not comply fully with the minimum standards for the elimination of human trafficking; however, it is making significant efforts to do so; the government made its first arrest under its 2013 trafficking law, but weak law enforcement efforts resulted in no prosecutions being initiated; authorities did not systematically identify trafficking victims, leaving them vulnerable to being jailed or deported for immigration violations; the government made minimal efforts to prevent trafficking, failing to implement an anti-trafficking strategic plan or to conduct public awareness campaigns (2014)"
+        "text": "Tier 3 – Belize does not comply fully with the minimum standards for the elimination of human trafficking and is not making significant efforts to do so; authorities did not initiate any new trafficking investigations of prosecutions, and cases from previous years remain pending; law enforcement efforts to use informal means to identify and refer victims were ineffective and draft procedures for referring victims to services are still not finalized; trafficking victims were more commonly arrested, detained, or deported based on immigration violations than provided with assistance; the government did not make progress in implementing the 2012-2014 anti-trafficking national strategic plan (2015)"
       }
     },
     "Illicit drugs": {

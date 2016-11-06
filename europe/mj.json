@@ -53,12 +53,12 @@
     "Terrain": {
       "text": "highly indented coastline with narrow coastal plain backed by rugged high limestone mountains and plateaus"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Adriatic Sea 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "1,086 m"
       },
-      "highest point": {
-        "text": "Bobotov Kuk 2,522 m"
+      "elevation extremes": {
+        "text": "lowest point: Adriatic Sea 0 m ++ highest point: Bobotov Kuk 2,522 m"
       }
     },
     "Natural resources": {
@@ -76,7 +76,10 @@
       }
     },
     "Irrigated land": {
-      "text": "24.12 sq km (2010)"
+      "text": "24 sq km (2012)"
+    },
+    "Population - distribution": {
+      "text": "highest population density is concentrated in the south, southwest; the extreme eastern border is the least populated area"
     },
     "Natural hazards": {
       "text": "destructive earthquakes"
@@ -97,6 +100,9 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "644,578 (July 2016 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "Montenegrin(s)"
@@ -114,27 +120,21 @@
     "Religions": {
       "text": "Orthodox 72.1%, Muslim 19.1%, Catholic 3.4%, atheist 1.2%, other 1.5%, unspecified 2.6% (2011 est.)"
     },
-    "Population": {
-      "text": "647,073 (July 2015 est.)"
-    },
     "Age structure": {
       "0-14 years": {
-        "text": "15.18% (male 48,138/female 50,095)"
+        "text": "15.13% (male 47,983/female 49,527)"
       },
       "15-24 years": {
-        "text": "10.27% (male 30,681/female 35,776)"
+        "text": "9.92% (male 29,003/female 34,907)"
       },
       "25-54 years": {
-        "text": "47.02% (male 164,104/female 140,142)"
+        "text": "46.83% (male 163,055/female 138,792)"
       },
       "55-64 years": {
-        "text": "13.12% (male 42,354/female 42,542)"
+        "text": "13.37% (male 42,998/female 43,168)"
       },
       "65 years and over": {
-        "text": "14.41% (male 37,040/female 56,201) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "14.76% (male 38,014/female 57,131) (2016 est.)"
       }
     },
     "Dependency ratios": {
@@ -153,23 +153,26 @@
     },
     "Median age": {
       "total": {
-        "text": "39.7 years"
+        "text": "40.2 years"
       },
       "male": {
-        "text": "38.7 years"
+        "text": "39.3 years"
       },
       "female": {
-        "text": "40.9 years (2015 est.)"
+        "text": "41.3 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "-0.42% (2015 est.)"
+      "text": "-0.35% (2016 est.)"
     },
     "Birth rate": {
-      "text": "10.42 births/1,000 population (2015 est.)"
+      "text": "10.2 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "9.43 deaths/1,000 population (2015 est.)"
+      "text": "9.6 deaths/1,000 population (2016 est.)"
+    },
+    "Population distribution": {
+      "text": "highest population density is concentrated in the south, southwest; the extreme eastern border is the least populated area"
     },
     "Urbanization": {
       "urban population": {
@@ -187,10 +190,10 @@
         "text": "1.06 male(s)/female"
       },
       "0-14 years": {
-        "text": "0.96 male(s)/female"
+        "text": "0.97 male(s)/female"
       },
       "15-24 years": {
-        "text": "0.86 male(s)/female"
+        "text": "0.83 male(s)/female"
       },
       "25-54 years": {
         "text": "1.17 male(s)/female"
@@ -202,8 +205,11 @@
         "text": "0.66 male(s)/female"
       },
       "total population": {
-        "text": "0.99 male(s)/female (2015 est.)"
+        "text": "0.99 male(s)/female (2016 est.)"
       }
+    },
+    "Mother's mean age at first birth": {
+      "text": "26.3 (2010 est.)"
     },
     "Maternal mortality rate": {
       "text": "7 deaths/100,000 live births (2015 est.)"
@@ -212,7 +218,7 @@
       "text": "39.4% (2005/06)"
     },
     "Health expenditures": {
-      "text": "6.5% of GDP (2013)"
+      "text": "6.4% of GDP (2014)"
     },
     "Physicians density": {
       "text": "2.11 physicians/1,000 population (2013)"
@@ -230,7 +236,7 @@
     },
     "Sanitation facility access": {
       "improved": {
-        "text": " ++ urban: 90.8% of population ++ rural: 92.2% of population ++ total: 95.9% of population"
+        "text": " ++ urban: 98% of population ++ rural: 92.2% of population ++ total: 95.9% of population"
       },
       "unimproved": {
         "text": " ++ urban: 2% of population ++ rural: 7.8% of population ++ total: 4.1% of population (2015 est.)"
@@ -253,7 +259,7 @@
         "text": "bacterial diarrhea"
       },
       "vectorborne diseases": {
-        "text": "Crimean-Congo hemorrhagic fever (2013)"
+        "text": "Crimean-Congo hemorrhagic fever (2016)"
       }
     },
     "Obesity - adult prevalence rate": {
@@ -326,10 +332,13 @@
       },
       "former": {
         "text": "People's Republic of Montenegro, Socialist Republic of Montenegro, Republic of Montenegro"
+      },
+      "etymology": {
+        "text": "the country's name locally as well as in most Western European languages means \"black mountain\" and refers to the dark coniferous forests on Mount Lovcen and the surrounding area"
       }
     },
     "Government type": {
-      "text": "republic"
+      "text": "parliamentary republic"
     },
     "Capital": {
       "name": {
@@ -355,13 +364,27 @@
       "text": "National Day, 13 July (1878, the day the Berlin Congress recognized Montenegro as the 27th independent state in the world, and 1941, the day the Montenegrins staged an uprising against Nazi occupiers and sided with the partisan Communist movement)"
     },
     "Constitution": {
-      "text": "several previous; latest adopted 22 October 2007; amended 2013, 2014 (2015)"
+      "text": "several previous; latest adopted 22 October 2007; amended 2013, 2014 (2016)"
     },
     "Legal system": {
       "text": "civil law"
     },
     "International law organization participation": {
       "text": "has not submitted an ICJ jurisdiction declaration; accepts ICC jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Montenegro"
+      },
+      "dual citizenship recognized": {
+        "text": "no"
+      },
+      "residency requirement for naturalization": {
+        "text": "10 years"
+      }
     },
     "Suffrage": {
       "text": "18 years of age; universal"
@@ -388,18 +411,15 @@
         "text": "unicameral Assembly or Skupstina (81 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)"
       },
       "elections": {
-        "text": "last held on 14 October 2012 (next to be held in October 2016)"
+        "text": "last held on 16 October 2016 (next to be held by October 2020)"
       },
       "election results": {
-        "text": "percent of vote by party/coalition - Coalition for European Montenegro 45.6%, Democratic Front 22.8%, SNP 11.1%, Positive Montenegro 8.2%, Bosniak Party 4.2%, other (including Albanian and Croatian minority parties) 8.1%; seats by party - Coalition for European Montenegro 39, Democratic Front 20, SNP 9, Positive Montenegro 7, Bosniak Party 3, Albanian and Croatian minority parties 3"
-      },
-      "note": {
-        "text": "seats by party/coaltion as of May 2015 - Coalition for European Montenegro 39, Democratic Front 20, SNP 9, Positive Montenegro 5, Bosniak Party 3, Albanian and Croatian minority parties 3, independent 2"
+        "text": "percent of vote by party/coalition - DPS 41.4%, DF 20.3%, Key Coalition, 11.1%, DCG 10.0%, SDP 5.2%, SD 3.3%, BS, 3.2%, Albanians Decisively 1.3%, HGI .5%, other 3.7%; seats by party/coalition - DPS 36, DF 18, Key Coalition 9, DCG 8, SDP 4, SD 2, BS 2, Albanians Decisively 1, HGI 1"
       }
     },
     "Judicial branch": {
       "highest court(s)": {
-        "text": "Supreme Court or Vrhovni Sud (consists of the court president, deputy president and 15 judges); Constitutional Court or Ustavni Sud (consists of the court president and 7 judges)"
+        "text": "Supreme Court or Vrhovni Sud (consists of the court president, deputy president, and 15 judges); Constitutional Court or Ustavni Sud (consists of the court president and 7 judges)"
       },
       "judge selection and term of office": {
         "text": "Supreme Court president proposed by general session of the Supreme Court and elected by the Judicial Council, a 9-member body consisting of judges, lawyers designated by the Assembly, and the minister of judicial affairs; Supreme Court president elected for a single renewable, 5-year term; other judges elected by the Judicial Council for life; Constitutional Court judges - 2 proposed by the president of Montenegro and 5 by the Assembly, and elected by the Assembly; court president elected from among the court members; court president elected for 3 years, other judges 9 years"
@@ -409,13 +429,13 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Albanian Coalition (includes Democratic League in Montenegro or DSCG [Mehmet BARDHI], Democratic Party [Fatmir GJEKA], and Albanian Alternative or AA [Gjergj CAMAJ]) ++ Bosniak Party or BS [Rafet HUSOVIC] ++ Coalition for European Montenegro [Milo DJUKANOVIC] (includes Democratic Party of Socialists or DPS [Milo DJUKANOVIC], Liberal Party of Montenegro or LP [Andrija POPOVIC], and Social Democratic Party or SDP [Ranko KRIVOKAPIC]) ++ Coalition FORCA for Unity (includes FORCA [Nazif CUNGU] and Civic Initiative [Vaselj SINISTAJ]) ++ Croatian Civic Initiative or HGI [Marija VUCINOVIC] ++ Democratic Front or DF [Miodrag LEKIC] (includes New Serb Democracy or NOVA [Andrija MANDIC] and Movement for Change or PZP [Nebojsa MEDOJEVIC]) ++ Positive Montenegro [Darko PAJOVIC] ++ Socialist People's Party or SNP [Srdan MILIC]"
+      "text": "Albanians Decisively [Genci NIMANBEGU] (includes FORCA, AA, DUA) ++ Albanian Alternative or AA [Nik DJELOSAJ] ++ Bosniak Party or BS [Rafet HUSOVIC] ++ Croatian Civic Initiative or HGI [Marija VUCINOVIC] ++ Democratic Alliance or DEMOS [Miodrag LEKIC] ++ Democratic Front or DF [collective leadership] (includes NOVA, PZP, DNP, RP) ++ Democratic Montenegro or DCG [Aleksa BECIC] ++ Democratic Party of Socialists or DPS [Milo DJUKANOVIC] ++ Democratic Union of Albanians or DUA [Mehmet ZENKA] ++ Key Coalition [Miodrag LEKIC] (includes DEMOS, SNP, URA] ++ Movement for Change or PZP [Nebojsa MEDOJEVIC] ++ New Democratic Power or FORCA [Nazif CUNGU] ++ New Serb Democracy or NOVA [Andrija MANDIC] ++ Social Democratic Party or SDP [Ranko KRIVOKAPIC] ++ Social Democrats or SD [Ivan BRAJOVIC] ++ Socialist People's Party or SNP [Srdjan MILIC] ++ United Reform Action or URA [Zarko RAKCEVIC] ++ Workers' Party or RP [Janko VUCINIC]"
     },
     "Political pressure groups and leaders": {
       "text": "NA"
     },
     "International organization participation": {
-      "text": "CE, CEI, EAPC, EBRD, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, OAS (observer), OIF (observer), OPCW, OSCE, PCA, PFP, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
+      "text": "CE, CEI, EAPC, EBRD, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, OAS (observer), OIF (observer), OPCW, OSCE, PCA, PFP, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
     },
     "Diplomatic representation in the US": {
       "chief of mission": {
@@ -452,7 +472,7 @@
       }
     },
     "Flag description": {
-      "text": "a red field bordered by a narrow golden-yellow stripe with the Montenegrin coat of arms centered; the arms consist of a double-headed golden eagle - symbolizing the unity of church and state - surmounted by a crown; the eagle holds a golden scepter in its right claw and a blue orb in its left; the breast shield over the eagle shows a golden lion passant on a green field in front of a blue sky; the lion is symbol of episcopal authority and harkens back to the three and a half centuries that Montenegro was ruled as a theocracy"
+      "text": "a red field bordered by a narrow golden-yellow stripe with the Montenegrin coat of arms centered; the arms consist of a double-headed golden eagle - symbolizing the unity of church and state - surmounted by a crown; the eagle holds a golden scepter in its right claw and a blue orb in its left; the breast shield over the eagle shows a golden lion passant on a green field in front of a blue sky; the lion is a symbol of episcopal authority and harkens back to the three and a half centuries when Montenegro was ruled as a theocracy"
     },
     "National symbol(s)": {
       "text": "double-headed eagle; national colors: red, gold"
@@ -471,28 +491,28 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Montenegro's economy is transitioning to a market system. From the beginning of the privatization process in 1999 through to 2015, around 85% of Montenegrin state-owned companies have been privatized, including 100% of banking, telecommunications, and oil distribution. The government recognizes the need to remove impediments in order to remain competitive and open the economy to foreign investors. The biggest foreign investors in Montenegro are Italy, Norway, Austria, Russia, Hungary and Great Britain. Net foreign direct investment in 2014 reached $483 million and investment per capita is one of the highest in Europe. Montenegro uses the Euro as its domestic currency, though it is not an official member of the Euro-zone. In January 2007, Montenegro joined the World Bank and IMF, and in December 2011, the World Trade Organization. Montenegro began negotiations to join the EC in June, 2012, having met the conditions set down by the European Council, which called on Montenegro to take steps to fight corruption and organized crime. Tourism brings in twice as many visitors as Montenegro’s total population every year. Several new luxury tourism complexes are in various states of development along the coast, and a number are being offered in connection with nearby boating and yachting facilities. Montenegro is currently planning major overhauls of its road, rail networks, and possible expansions of its air transportation system. In 2014, the Government of Montenegro selected two Chinese companies to construct a 41 km-long section of the country’s highway system. Construction will cost around $1.1 billion. Montenegro first instituted value added tax (VAT) in April 2003, and introduced differentiated VAT rates of 17% and 7% (for tourism) in January 2006. In May 2013, the Montenegrin Government raised the higher level VAT rate to 19%."
+      "text": "Montenegro's economy is transitioning to a market system. From the beginning of the privatization process in 1999 through 2015, around 85% of Montenegrin state-owned companies have been privatized, including 100% of banking, telecommunications, and oil distribution. Tourism brings in twice as many visitors as Montenegro’s total population every year. Several new luxury tourism complexes are in various stages of development along the coast, and a number are being offered in connection with nearby boating and yachting facilities. ++  ++ Montenegro uses the euro as its domestic currency, though it is not an official member of the euro zone. In January 2007, Montenegro joined the World Bank and IMF, and in December 2011, the WTO. Montenegro began negotiations to join the EC in June, 2012, having met the conditions set down by the European Council, which called on Montenegro to take steps to fight corruption and organized crime. ++  ++ The government recognizes the need to remove impediments in order to remain competitive and open the economy to foreign investors. The biggest foreign investors in Montenegro are Italy, Norway, Austria, Russia, Hungary and the UK. Net foreign direct investment in 2014 reached $483 million and investment per capita is one of the highest in Europe. ++  ++ Montenegro is currently planning major overhauls of its road and rail networks, and possible expansions of its air transportation system. In 2014, the Government of Montenegro selected two Chinese companies to construct a 41 km-long section of the country’s highway system. Construction will cost around $1.1 billion. Montenegro first instituted a value-added tax (VAT) in April 2003, and introduced differentiated VAT rates of 17% and 7% (for tourism) in January 2006. In May 2013, the Montenegrin Government raised the higher level VAT rate to 19%."
     },
     "GDP (purchasing power parity)": {
-      "text": "$9.428 billion (2014 est.) ++ $9.289 billion (2013 est.) ++ $8.989 billion (2012 est.)",
+      "text": "$9.969 billion (2015 est.) ++ $9.662 billion (2014 est.) ++ $9.493 billion (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$4.551 billion (2014 est.)"
+      "text": "$3.989 billion (2015 est.)"
     },
     "GDP - real growth rate": {
-      "text": "1.5% (2014 est.) ++ 3.3% (2013 est.) ++ -2.5% (2012 est.)"
+      "text": "3.2% (2015 est.) ++ 1.8% (2014 est.) ++ 3.5% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$15,100 (2014 est.) ++ $14,900 (2013 est.) ++ $14,400 (2012 est.)",
+      "text": "$16,000 (2015 est.) ++ $15,500 (2014 est.) ++ $15,300 (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "Gross national saving": {
-      "text": "3.6% of GDP (2014 est.) ++ 4.3% of GDP (2013 est.) ++ 0.9% of GDP (2012 est.)"
+      "text": "5.1% of GDP (2015 est.) ++ 4.6% of GDP (2014 est.) ++ 5.1% of GDP (2013 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
@@ -511,7 +531,7 @@
         "text": "42.1%"
       },
       "imports of goods and services": {
-        "text": "-64.5% ++  (2013 est.)"
+        "text": "-64.5% (2013 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
@@ -566,22 +586,22 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "34.3% of GDP (2014 est.)"
+      "text": "38.6% of GDP (2014 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-1.5% of GDP (2014 est.)"
+      "text": "-1.7% of GDP (2014 est.)"
     },
     "Public debt": {
       "text": "59.5% of GDP (31 December 2014 est.) ++ 57.9% of GDP (2013 est.)",
       "note": {
-        "text": "data cover general government debt, and includes debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intra-governmental debt; intra-governmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions"
+        "text": "data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intra-governmental debt; intra-governmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions"
       }
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Inflation rate (consumer prices)": {
-      "text": "-0.7% (2014 est.) ++ 2.2% (2013 est.)"
+      "text": "1.6% (2015 est.) ++ -0.7% (2014 est.)"
     },
     "Commercial bank prime lending rate": {
       "text": "9.22% (31 December 2014 est.) ++ 9.36% (31 December 2013 est.)"
@@ -596,10 +616,10 @@
       "text": "$2.63 billion (31 December 2014 est.) ++ $2.682 billion (31 December 2013 est.)"
     },
     "Market value of publicly traded shares": {
-      "text": "$7.532 billion (31 December 2014 est.) ++ $3.827 billion (31 December 2012) ++ $3.322 billion (31 December 2011 est.)"
+      "text": "$7.532 billion (31 December 2014 est.) ++ $3.827 billion (31 December 2012 est.) ++ $3.322 billion (31 December 2011 est.)"
     },
     "Current account balance": {
-      "text": "-$699 million (2014 est.) ++ -$646 million (2013 est.)"
+      "text": "-$387 million (2015 est.) ++ -$699 million (2014 est.)"
     },
     "Exports": {
       "text": "$370.2 million (2014 est.) ++ $489.2 million (2012 est.)"
@@ -626,10 +646,15 @@
       "text": "$133 million (31 December 2014 est.)"
     },
     "Exchange rates": {
-      "text": "euros (EUR) per US dollar - ++ 0.7489 (2014 est.) ++ 0.7634 (2013 est.) ++ 0.78 (2012 est.) ++ 0.7185 (2011 est.) ++ 0.755 (2010 est.)"
+      "text": "euros (EUR) per US dollar - ++ 0.885 (2015 est.) ++ 0.7525 (2014 est.) ++ 0.7634 (2013 est.) ++ 0.78 (2012 est.) ++ 0.7185 (2011 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
+    },
     "Electricity - production": {
       "text": "3.809 billion kWh (2013 est.)"
     },
@@ -703,18 +728,18 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "160,000"
+        "text": "154,448"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "25 (2014 est.)"
+        "text": "24 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "1 million"
+        "text": "1.008 million"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "156 (2014 est.)"
+        "text": "156 (July 2015 est.)"
       }
     },
     "Telephone system": {
@@ -725,31 +750,42 @@
         "text": "GSM mobile-cellular service, available through multiple providers with national coverage, is growing"
       },
       "international": {
-        "text": "country code - 382; 2 international switches connect the national system (2011)"
+        "text": "country code - 382; 2 international switches connect the national system (2015)"
       }
     },
     "Broadcast media": {
       "text": "state-funded national radio-TV broadcaster operates 2 terrestrial TV networks, 1 satellite TV channel, and 2 radio networks; 4 public TV stations and some 20 private TV stations; 14 local public radio stations and more than 40 private radio stations (2007)"
-    },
-    "Radio broadcast stations": {
-      "text": "31 (station frequency types NA) (2004)"
-    },
-    "Television broadcast stations": {
-      "text": "13 (2004)"
     },
     "Internet country code": {
       "text": ".me"
     },
     "Internet users": {
       "total": {
-        "text": "381,700"
+        "text": "418,000"
       },
       "percent of population": {
-        "text": "58.7% (2014 est.)"
+        "text": "64.6% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "1"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "6"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "526,980"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "0 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "4O (2016)"
+    },
     "Airports": {
       "text": "5 (2013)"
     },
@@ -809,31 +845,15 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "Armed Forces of the Republic of Montenegro: Army of Montenegro (includes Montenegrin Navy (Mornarica Crne Gore, MCG)), Air Force (2011)"
     },
     "Military service age and obligation": {
       "text": "18 is the legal minimum age for voluntary military service; no conscription (2012)"
     },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "149,159"
-      },
-      "females age 16-49": {
-        "text": "131,823 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "3,120"
-      },
-      "female": {
-        "text": "3,677 (2010 est.)"
-      }
-    },
     "Military expenditures": {
-      "text": "1.74% of GDP (2014) ++ 1.59% of GDP (2013) ++ 1.69% of GDP (2012) ++ 1.75% of GDP (2011) ++ 1.81% of GDP (2010)"
+      "text": "1.65% of GDP (2015) ++ 1.74% of GDP (2014) ++ 1.59% of GDP (2013) ++ 1.69% of GDP (2012) ++ 1.75% of GDP (2011)"
     }
   },
   "Transnational Issues": {
@@ -841,11 +861,8 @@
       "text": "none"
     },
     "Refugees and internally displaced persons": {
-      "refugees (country of origin)": {
-        "text": "5,633 (Serbia and Kosovo) (2014)"
-      },
       "stateless persons": {
-        "text": "3,296 (2014)"
+        "text": "3,262 (2015)"
       }
     }
   }

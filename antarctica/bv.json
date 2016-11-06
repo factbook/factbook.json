@@ -45,12 +45,12 @@
     "Terrain": {
       "text": "volcanic; coast is mostly inaccessible"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "South Atlantic Ocean 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "NA"
       },
-      "highest point": {
-        "text": "Olav Peak 935 m"
+      "elevation extremes": {
+        "text": "lowest point: South Atlantic Ocean 0 m ++ highest point: Olav Peak 935 m"
       }
     },
     "Natural resources": {
@@ -89,6 +89,9 @@
       },
       "conventional short form": {
         "text": "Bouvet Island"
+      },
+      "etymology": {
+        "text": "named after the French naval officer Jean-Baptiste Charles BOUVET who discovered the island in 1739"
       }
     },
     "Dependency status": {
@@ -111,7 +114,7 @@
       "text": ".bv"
     },
     "Communications - note": {
-      "text": "has an automatic meteorological station"
+      "text": "has an automated meteorological station"
     }
   },
   "Transportation": {
@@ -119,7 +122,7 @@
       "text": "none; offshore anchorage only"
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military - note": {
       "text": "defense is the responsibility of Norway"
     }

@@ -51,12 +51,12 @@
     "Terrain": {
       "text": "mostly barren rock"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Atlantic Ocean 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "NA"
       },
-      "highest point": {
-        "text": "Morne de la Grande Montagne 240 m"
+      "elevation extremes": {
+        "text": "lowest point: Atlantic Ocean 0 m ++ highest point: Morne de la Grande Montagne 240 m"
       }
     },
     "Natural resources": {
@@ -74,7 +74,10 @@
       }
     },
     "Irrigated land": {
-      "text": "NA"
+      "text": "0 sq km (2012)"
+    },
+    "Population - distribution": {
+      "text": "most of the population is found on Saint Pierre Island; a small settlement is located on the north end of Miquelon Island"
     },
     "Natural hazards": {
       "text": "persistent fog throughout the year can be a maritime hazard"
@@ -83,10 +86,13 @@
       "text": "recent test drilling for oil in waters around Saint Pierre and Miquelon may bring future development that would impact the environment"
     },
     "Geography - note": {
-      "text": "vegetation scanty"
+      "text": "vegetation scanty; the islands are actually part of the northern Appalachians along with Newfoundland"
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "5,595 (July 2016 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "Frenchman(men), Frenchwoman(women)"
@@ -104,51 +110,48 @@
     "Religions": {
       "text": "Roman Catholic 99%, other 1%"
     },
-    "Population": {
-      "text": "5,657 (July 2015 est.)"
-    },
     "Age structure": {
       "0-14 years": {
-        "text": "15.96% (male 465/female 438)"
+        "text": "15.57% (male 449/female 422)"
       },
       "15-24 years": {
-        "text": "8.75% (male 256/female 239)"
+        "text": "9.06% (male 263/female 244)"
       },
       "25-54 years": {
-        "text": "42.87% (male 1,199/female 1,226)"
+        "text": "42.29% (male 1,165/female 1,201)"
       },
       "55-64 years": {
-        "text": "13.68% (male 404/female 370)"
+        "text": "13.6% (male 399/female 362)"
       },
       "65 years and over": {
-        "text": "18.74% (male 443/female 617) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "19.48% (male 456/female 634) (2016 est.)"
       }
     },
     "Median age": {
       "total": {
-        "text": "45.2 years"
+        "text": "45.9 years"
       },
       "male": {
-        "text": "44.8 years"
+        "text": "45.4 years"
       },
       "female": {
-        "text": "45.6 years (2015 est.)"
+        "text": "46.3 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "-1.08% (2015 est.)"
+      "text": "-1.09% (2016 est.)"
     },
     "Birth rate": {
-      "text": "7.42 births/1,000 population (2015 est.)"
+      "text": "7.2 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "9.72 deaths/1,000 population (2015 est.)"
+      "text": "9.8 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "-8.49 migrant(s)/1,000 population (2015 est.)"
+      "text": "-8.2 migrant(s)/1,000 population (2016 est.)"
+    },
+    "Population distribution": {
+      "text": "most of the population is found on Saint Pierre Island; a small settlement is located on the north end of Miquelon Island"
     },
     "Urbanization": {
       "urban population": {
@@ -169,45 +172,45 @@
         "text": "1.06 male(s)/female"
       },
       "15-24 years": {
-        "text": "1.07 male(s)/female"
+        "text": "1.08 male(s)/female"
       },
       "25-54 years": {
-        "text": "0.98 male(s)/female"
+        "text": "0.97 male(s)/female"
       },
       "55-64 years": {
-        "text": "1.09 male(s)/female"
+        "text": "1.1 male(s)/female"
       },
       "65 years and over": {
         "text": "0.72 male(s)/female"
       },
       "total population": {
-        "text": "0.96 male(s)/female (2015 est.)"
+        "text": "0.95 male(s)/female (2016 est.)"
       }
     },
     "Infant mortality rate": {
       "total": {
-        "text": "6.78 deaths/1,000 live births"
+        "text": "6.6 deaths/1,000 live births"
       },
       "male": {
-        "text": "7.87 deaths/1,000 live births"
+        "text": "7.7 deaths/1,000 live births"
       },
       "female": {
-        "text": "5.63 deaths/1,000 live births (2015 est.)"
+        "text": "5.5 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "80.39 years"
+        "text": "80.5 years"
       },
       "male": {
-        "text": "78.06 years"
+        "text": "78.2 years"
       },
       "female": {
-        "text": "82.85 years (2015 est.)"
+        "text": "83 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "1.56 children born/woman (2015 est.)"
+      "text": "1.57 children born/woman (2016 est.)"
     },
     "HIV/AIDS - adult prevalence rate": {
       "text": "NA"
@@ -232,13 +235,16 @@
       },
       "local short form": {
         "text": "Saint-Pierre et Miquelon"
+      },
+      "etymology": {
+        "text": "Saint-Pierre is named after Saint PETER, the patron saint of fishermen; Miquelon may be a corruption of the Basque name Mikelon"
       }
     },
     "Dependency status": {
       "text": "self-governing territorial overseas collectivity of France"
     },
     "Government type": {
-      "text": "parliamentary representative democracy"
+      "text": "parliamentary democracy (Territorial Council); overseas collectivity of France"
     },
     "Capital": {
       "name": {
@@ -269,6 +275,9 @@
     "Legal system": {
       "text": "French civil law"
     },
+    "Citizenship": {
+      "text": "see France"
+    },
     "Suffrage": {
       "text": "18 years of age; universal"
     },
@@ -291,7 +300,7 @@
         "text": "unicameral Territorial Council or Conseil Territorial (19 seats - 15 from Saint Pierre and 4 from Miquelon; members directly elected in single-seat constituencies by absolute majority vote to serve 6-year terms)"
       },
       "note": {
-        "text": "Saint Pierre and Miquelon elect one member to the French Senate; elections last held on 28 September 2014 (next to be held not later than September 2017); results - percent of vote by party - NA; seats by party - AD 1 (affiliated with UMP); Saint Pierre and Miquelon also elects one member to the French National Assembly; elections last held on 17 June 2012 (next to be held by June 2017); results - percent of vote by party - NA; seats by party - Ensemble pour l'Avenir 1 (affiliated with PRG)"
+        "text": "Saint Pierre and Miquelon elect 1 member to the French Senate; elections last held on 28 September 2014 (next to be held not later than September 2017); results - percent of vote by party - NA; seats by party - AD 1 (affiliated with UMP); Saint Pierre and Miquelon also elects 1 member to the French National Assembly; elections last held on 17 June 2012 (next to be held by June 2017); results - percent of vote by party - NA; seats by party - Ensemble pour l'Avenir 1 (affiliated with PRG)"
       },
       "elections": {
         "text": "elections last held on 18 March 2012 (next to be held in March 2018)"
@@ -312,7 +321,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Archipelago Tomorrow or AD [Stephane ARTANO] (affiliated with UMP) ++ Ensemble pour l'Avenir [Annick GIRARDIN] (affiliated with PRG)"
+      "text": "Archipelago Tomorrow or AD [Stephane ARTANO] (affiliated with UMP) ++ Togerther for the Future (Ensemble pour l'Avenir) [Annick GIRARDIN] (affiliated with PRG)"
     },
     "Political pressure groups and leaders": {
       "text": "NA"
@@ -343,7 +352,7 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "The inhabitants have traditionally earned their livelihood by fishing and by servicing fishing fleets operating off the coast of Newfoundland. The economy has been declining, however, because of disputes with Canada over fishing quotas and a steady decline in the number of ships stopping at Saint Pierre. In 1992, an arbitration panel awarded the islands an exclusive economic zone of 12,348 sq km to settle a longstanding territorial dispute with Canada, although it represents only 25% of what France had sought. France heavily subsidizes the islands to the great betterment of living standards. The government hopes an expansion of tourism will boost economic prospects. Fish farming, crab fishing, and agriculture are being developed to diversify the local economy. Recent test drilling for oil may pave the way for development of the energy sector."
+      "text": "The inhabitants have traditionally earned their livelihood by fishing and by servicing fishing fleets operating off the coast of Newfoundland. The economy has been declining, however, because of disputes with Canada over fishing quotas and a steady decline in the number of ships stopping at Saint Pierre. ++  ++ In 1992, an arbitration panel awarded the islands an exclusive economic zone of 12,348 sq km to settle a longstanding territorial dispute with Canada, although it represents only 25% of what France had sought. France heavily subsidizes the islands to the great betterment of living standards. ++  ++ The government hopes an expansion of tourism will boost economic prospects. Fish farming, crab fishing, and agriculture are being developed to diversify the local economy. Recent test drilling for oil may pave the way for development of the energy sector."
     },
     "GDP (purchasing power parity)": {
       "text": "$215.3 million (2006 est.)",
@@ -444,7 +453,7 @@
       "text": "$NA"
     },
     "Exchange rates": {
-      "text": "euros (EUR) per US dollar - ++ 0.7489 (2014 est.) ++ 0.7634 (2013 est.) ++ 0.78 (2012 est.) ++ 0.7185 (2011 est.) ++ 0.755 (2010 est.)"
+      "text": "euros (EUR) per US dollar - ++ 0.885 (2015 est.) ++ 0.7525 (2014 est.) ++ 0.7634 (2013 est.) ++ 0.7752 (2012 est.) ++ 0.7185 (2011 est.)"
     }
   },
   "Energy": {
@@ -524,7 +533,7 @@
         "text": "4,800"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "81 (2014 est.)"
+        "text": "80 (July 2010 est.)"
       }
     },
     "Telephone system": {
@@ -538,14 +547,16 @@
     "Broadcast media": {
       "text": "2 TV stations with a third repeater station, all part of the French Overseas Network; radio stations on St. Pierre and on Miquelon are part of the French Overseas Network (2007)"
     },
-    "Radio broadcast stations": {
-      "text": "AM 1, FM 4, shortwave 0 (1998)"
-    },
-    "Television broadcast stations": {
-      "text": "0 (2 repeaters rebroadcast programs from France, Canada, and the US) (1997)"
-    },
     "Internet country code": {
       "text": ".pm"
+    },
+    "Internet users": {
+      "total": {
+        "text": "4,500"
+      },
+      "percent of population": {
+        "text": "79.5% (July 2015 est.)"
+      }
     }
   },
   "Transportation": {
@@ -580,23 +591,7 @@
       }
     }
   },
-  "Military": {
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "1,064"
-      },
-      "females age 16-49": {
-        "text": "1,069 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "34"
-      },
-      "female": {
-        "text": "32 (2010 est.)"
-      }
-    },
+  "Military and Security": {
     "Military - note": {
       "text": "defense is the responsibility of France"
     }

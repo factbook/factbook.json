@@ -26,10 +26,7 @@
       }
     },
     "Area - comparative": {
-      "text": "slightly larger than Pennsylvania; slightly smaller than New York state",
-      "Area comparison map": {
-        "text": null
-      }
+      "text": "slightly larger than Pennsylvania; slightly smaller than New York state"
     },
     "Land boundaries": {
       "total": {
@@ -59,12 +56,12 @@
     "Terrain": {
       "text": "extensive Atlantic coastal plains rising to central interior mountains; narrow Pacific coastal plain interrupted by volcanoes"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Pacific Ocean 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "298 m"
       },
-      "highest point": {
-        "text": "Mogoton 2,438 m"
+      "elevation extremes": {
+        "text": "lowest point: Pacific Ocean 0 m ++ highest point: Mogoton 2,438 m"
       }
     },
     "Natural resources": {
@@ -82,18 +79,10 @@
       }
     },
     "Irrigated land": {
-      "text": "942.4 sq km (2003)"
+      "text": "1,990 sq km (2012)"
     },
-    "Total renewable water resources": {
-      "text": "196.6 cu km (2011)"
-    },
-    "Freshwater withdrawal (domestic/industrial/agricultural)": {
-      "total": {
-        "text": "1.39  cu km/yr (23%/4%/73%)"
-      },
-      "per capita": {
-        "text": "265.9  cu m/yr (2008)"
-      }
+    "Population - distribution": {
+      "text": "the overwhelming majority of the population resides in the western half of the country, with much of the urban growth centered in the capital city of Managua; coastal areas also show large population clusters"
     },
     "Natural hazards": {
       "text": "destructive earthquakes; volcanoes; landslides; extremely susceptible to hurricanes",
@@ -117,6 +106,9 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "5,966,798 (July 2016 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "Nicaraguan(s)"
@@ -140,27 +132,21 @@
     "Demographic profile": {
       "text": "Despite being one of the poorest countries in Latin America, Nicaragua has improved its access to potable water and sanitation and has ameliorated its life expectancy, infant and child mortality, and immunization rates. However, income distribution is very uneven, and the poor, agriculturalists, and indigenous people continue to have less access to healthcare services. Nicaragua's total fertility rate has fallen from around 6 children per woman in 1980 to just above replacement level today, but the high birth rate among adolescents perpetuates a cycle of poverty and low educational attainment. Nicaraguans emigrate primarily to Costa Rica and to a lesser extent the United States. Nicaraguan men have been migrating seasonally to Costa Rica to harvest bananas and coffee since the early 20th century. Political turmoil, civil war, and natural disasters from the 1970s through the 1990s dramatically increased the flow of refugees and permanent migrants seeking jobs, higher wages, and better social and healthcare benefits. Since 2000, Nicaraguan emigration to Costa Rica has slowed and stabilized. Today roughly 300,000 Nicaraguans are permanent residents of Costa Rica - about 75% of the foreign population - and thousands more migrate seasonally for work, many illegally."
     },
-    "Population": {
-      "text": "5,907,881 (July 2015 est.)"
-    },
     "Age structure": {
       "0-14 years": {
-        "text": "28.57% (male 860,721/female 827,136)"
+        "text": "27.88% (male 848,537/female 815,032)"
       },
       "15-24 years": {
-        "text": "22.16% (male 657,339/female 651,744)"
+        "text": "21.78% (male 653,113/female 646,497)"
       },
       "25-54 years": {
-        "text": "38.69% (male 1,081,081/female 1,204,669)"
+        "text": "39.42% (male 1,113,772/female 1,238,550)"
       },
       "55-64 years": {
-        "text": "5.6% (male 153,711/female 177,334)"
+        "text": "5.79% (male 160,165/female 185,385)"
       },
       "65 years and over": {
-        "text": "4.98% (male 131,965/female 162,181) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "5.12% (male 136,661/female 169,086) (2016 est.)"
       }
     },
     "Dependency ratios": {
@@ -179,26 +165,29 @@
     },
     "Median age": {
       "total": {
-        "text": "24.7 years"
+        "text": "25.2 years"
       },
       "male": {
-        "text": "23.8 years"
+        "text": "24.3 years"
       },
       "female": {
-        "text": "25.5 years (2015 est.)"
+        "text": "26 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "1% (2015 est.)"
+      "text": "0.99% (2016 est.)"
     },
     "Birth rate": {
-      "text": "18.03 births/1,000 population (2015 est.)"
+      "text": "17.9 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "5.08 deaths/1,000 population (2015 est.)"
+      "text": "5.1 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "-3 migrant(s)/1,000 population (2015 est.)"
+      "text": "-2.9 migrant(s)/1,000 population (2016 est.)"
+    },
+    "Population distribution": {
+      "text": "the overwhelming majority of the population resides in the western half of the country, with much of the urban growth centered in the capital city of Managua; coastal areas also show large population clusters"
     },
     "Urbanization": {
       "urban population": {
@@ -225,13 +214,19 @@
         "text": "0.9 male(s)/female"
       },
       "55-64 years": {
-        "text": "0.87 male(s)/female"
+        "text": "0.86 male(s)/female"
       },
       "65 years and over": {
         "text": "0.81 male(s)/female"
       },
       "total population": {
-        "text": "0.95 male(s)/female (2015 est.)"
+        "text": "0.95 male(s)/female (2016 est.)"
+      }
+    },
+    "Mother's mean age at first birth": {
+      "text": "19.2",
+      "note": {
+        "text": "median age at first birth among women 25-29 (2011/12 est.)"
       }
     },
     "Maternal mortality rate": {
@@ -239,34 +234,34 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "19.65 deaths/1,000 live births"
+        "text": "19 deaths/1,000 live births"
       },
       "male": {
-        "text": "22.56 deaths/1,000 live births"
+        "text": "21.8 deaths/1,000 live births"
       },
       "female": {
-        "text": "16.59 deaths/1,000 live births (2015 est.)"
+        "text": "16 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "72.98 years"
+        "text": "73.2 years"
       },
       "male": {
-        "text": "70.81 years"
+        "text": "71.1 years"
       },
       "female": {
-        "text": "75.26 years (2015 est.)"
+        "text": "75.5 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "1.94 children born/woman (2015 est.)"
+      "text": "1.92 children born/woman (2016 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "80.4% (2011/12)"
     },
     "Health expenditures": {
-      "text": "8.4% of GDP (2013)"
+      "text": "9% of GDP (2014)"
     },
     "Physicians density": {
       "text": "0.9 physicians/1,000 population (2014)"
@@ -291,13 +286,13 @@
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "0.27% (2014 est.)"
+      "text": "0.27% (2015 est.)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
-      "text": "10,000 (2014 est.)"
+      "text": "9,900 (2015 est.)"
     },
     "HIV/AIDS - deaths": {
-      "text": "400 (2014 est.)"
+      "text": "300 (2015 est.)"
     },
     "Major infectious diseases": {
       "degree of risk": {
@@ -307,7 +302,10 @@
         "text": "bacterial diarrhea, hepatitis A, and typhoid fever"
       },
       "vectorborne diseases": {
-        "text": "dengue fever and malaria (2013)"
+        "text": "dengue fever and malaria"
+      },
+      "note": {
+        "text": "active local transmission of Zika virus by Aedes species mosquitoes has been identified in this country (as of August 2016); it poses an important risk (a large number of cases possible) among US citizens if bitten by an infective mosquito; other less common ways to get Zika are through sex, via blood transfusion, or during pregnancy, in which the pregnant woman passes Zika virus to her fetus (2016)"
       }
     },
     "Obesity - adult prevalence rate": {
@@ -317,7 +315,7 @@
       "text": "5.7% (2007)"
     },
     "Education expenditures": {
-      "text": "4.4% of GDP (2010)"
+      "text": "4.5% of GDP (2010)"
     },
     "Literacy": {
       "definition": {
@@ -341,18 +339,18 @@
         "text": "14%"
       },
       "note": {
-        "text": "data represents children ages 5-17 (2005 est.)"
+        "text": "data represent children ages 5-17 (2005 est.)"
       }
     },
     "Unemployment, youth ages 15-24": {
       "total": {
-        "text": "8.6%"
+        "text": "11.9%"
       },
       "male": {
-        "text": "8.1%"
+        "text": "9.8%"
       },
       "female": {
-        "text": "9.7% (2006 est.)"
+        "text": "15.6% (2010 est.)"
       }
     }
   },
@@ -369,10 +367,13 @@
       },
       "local short form": {
         "text": "Nicaragua"
+      },
+      "etymology": {
+        "text": "Nicarao was the name of the largest indigenous settlement at the time of Spanish arrival; conquistador Gil GONZALEZ Davila, who explored the area (1622-23), combined the name of the community with the Spanish word \"agua\" (water), referring to the two large lakes in the west of the country (Lake Managua and Lake Nicaragua)"
       }
     },
     "Government type": {
-      "text": "republic"
+      "text": "presidential republic"
     },
     "Capital": {
       "name": {
@@ -386,7 +387,7 @@
       }
     },
     "Administrative divisions": {
-      "text": "15 departments (departamentos, singular - departamento) and 2 autonomous regions* (regiones autonomistas, singular - region autonoma); Atlantico Norte*, Atlantico Sur*, Boaco, Carazo, Chinandega, Chontales, Esteli, Granada, Jinotega, Leon, Madriz, Managua, Masaya, Matagalpa, Nueva Segovia, Rio San Juan, Rivas"
+      "text": "15 departments (departamentos, singular - departamento) and 2 autonomous regions* (regiones autonomistas, singular - region autonoma); Boaco, Carazo, Chinandega, Chontales, Costa Caribe Norte*, Costa Caribe Sur*, Esteli, Granada, Jinotega, Leon, Madriz, Managua, Masaya, Matagalpa, Nueva Segovia, Rio San Juan, Rivas"
     },
     "Independence": {
       "text": "15 September 1821 (from Spain)"
@@ -395,7 +396,7 @@
       "text": "Independence Day, 15 September (1821)"
     },
     "Constitution": {
-      "text": "several previous; latest adopted 19 November 1986, effective 9 January 1987; amended several times, last in 2014 (2015)"
+      "text": "several previous; latest adopted 19 November 1986, effective 9 January 1987; amended several times, last in 2014 (2016)"
     },
     "Legal system": {
       "text": "civil law system; Supreme Court may review administrative acts"
@@ -404,14 +405,17 @@
       "text": "accepts compulsory ICJ jurisdiction with reservations; non-party state to the ICCt"
     },
     "Citizenship": {
-      "birthright citizenship": {
+      "citizenship by birth": {
+        "text": "yes"
+      },
+      "citizenship by descent": {
         "text": "yes"
       },
       "dual citizenship recognized": {
-        "text": ""
+        "text": "no, except in cases where bilateral agreements exist"
       },
       "residency requirement for naturalization": {
-        "text": ""
+        "text": "4 years"
       }
     },
     "Suffrage": {
@@ -466,7 +470,7 @@
       "text": "BCIE, CACM, CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, NAM, OAS, OPANAL, OPCW, PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
     },
     "Diplomatic representation in the US": {
-      "chief of mission": {
+      "hief of mission": {
         "text": "Ambassador Francisco Obadiah CAMPBELL Hooker (since 23 June 2010)"
       },
       "chancery": {
@@ -479,7 +483,7 @@
         "text": "[1] (202) 939-6545"
       },
       "consulate(s) general": {
-        "text": "Houston, Los Angeles, Miami, San Francisco"
+        "text": "Houston, Los Angeles, Miami, New York, San Francisco"
       }
     },
     "Diplomatic representation from the US": {
@@ -522,58 +526,58 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Nicaragua, the poorest country in Central America and the second poorest in the Western Hemisphere, has widespread underemployment and poverty. The Dominican Republic-Central America-United States Free Trade Agreement (CAFTA-DR) has been in effect since April 2006 and has expanded export opportunities for many agricultural and manufactured goods. Textiles and agriculture combined account for nearly 50% of Nicaragua's exports. In 2013, the government granted a 50-year concession to a newly formed Chinese-run company to finance and build an inter-oceanic canal and related projects, at an estimated cost of $50 billion. The economy grew 4.7% in 2014, despite a steep decline in coffee export revenues due to a coffee rust fungus."
+      "text": "Nicaragua, the poorest country in Central America and the second poorest in the Western Hemisphere, has widespread underemployment and poverty. Textiles and agriculture combined account for nearly 50% of Nicaragua's exports. ++  ++ The Dominican Republic-Central America-United States Free Trade Agreement (CAFTA-DR) has been in effect since April 2006 and has expanded export opportunities for many Nicaraguan agricultural and manufactured goods. ++  ++ In 2013, the government granted a 50-year concession to a newly formed Chinese-run company to finance and build an inter-oceanic canal and related projects, at an estimated cost of $50 billion. The canal construction has not started."
     },
     "GDP (purchasing power parity)": {
-      "text": "$29.69 billion (2014 est.) ++ $28.35 billion (2013 est.) ++ $27.13 billion (2012 est.)",
+      "text": "$31.63 billion (2015 est.) ++ $30.14 billion (2014 est.) ++ $28.83 billion (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$11.81 billion (2014 est.)"
+      "text": "$12.69 billion (2015 est.)"
     },
     "GDP - real growth rate": {
-      "text": "4.7% (2014 est.) ++ 4.5% (2013 est.) ++ 5.1% (2012 est.)"
+      "text": "4.9% (2015 est.) ++ 4.6% (2014 est.) ++ 4.5% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$4,800 (2014 est.) ++ $4,600 (2013 est.) ++ $4,400 (2012 est.)",
+      "text": "$5,000 (2015 est.) ++ $4,900 (2014 est.) ++ $4,700 (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "Gross national saving": {
-      "text": "19.6% of GDP (2014 est.) ++ 17.6% of GDP (2013 est.) ++ 18% of GDP (2012 est.)"
+      "text": "23.6% of GDP (2015 est.) ++ 19.7% of GDP (2014 est.) ++ 18% of GDP (2013 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "83.6%"
+        "text": "78.9%"
       },
       "government consumption": {
-        "text": "6.7%"
+        "text": "7.2%"
       },
       "investment in fixed capital": {
-        "text": "27.2%"
+        "text": "30.3%"
       },
       "investment in inventories": {
-        "text": "-0.4%"
+        "text": "1.6%"
       },
       "exports of goods and services": {
-        "text": "42.3%"
+        "text": "37.5%"
       },
       "imports of goods and services": {
-        "text": "-59.3% ++  (2014 est.)"
+        "text": "-55.5% (2015 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "18.5%"
+        "text": "17%"
       },
       "industry": {
-        "text": "23.2%"
+        "text": "24.2%"
       },
       "services": {
-        "text": "58.3% (2014 est.)"
+        "text": "58.8% (2015 est.)"
       }
     },
     "Agriculture - products": {
@@ -583,10 +587,10 @@
       "text": "food processing, chemicals, machinery and metal products, knit and woven apparel, petroleum refining and distribution, beverages, footwear, wood, electric wire harness manufacturing, mining"
     },
     "Industrial production growth rate": {
-      "text": "4% (2014 est.)"
+      "text": "6.5% (2015 est.)"
     },
     "Labor force": {
-      "text": "2.946 million (2014 est.)"
+      "text": "2.98 million (2015 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -600,13 +604,13 @@
       }
     },
     "Unemployment rate": {
-      "text": "6% (2014 est.) ++ 6.1% (2013 est.)",
+      "text": "6.1% (2015 est.) ++ 6% (2014 est.)",
       "note": {
         "text": "underemployment was 46.5% in 2008"
       }
     },
     "Population below poverty line": {
-      "text": "42.5% (2009 est.)"
+      "text": "29.6% (2015 est.)"
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
@@ -621,20 +625,20 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$3.009 billion"
+        "text": "$3.382 billion"
       },
       "expenditures": {
-        "text": "$3.262 billion (2014 est.)"
+        "text": "$3.523 billion (2015 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "25.5% of GDP (2014 est.)"
+      "text": "27.7% of GDP (2015 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-2.1% of GDP (2014 est.)"
+      "text": "-1.2% of GDP (2015 est.)"
     },
     "Public debt": {
-      "text": "49.4% of GDP (2014 est.) ++ 53.6% of GDP (2013 est.)",
+      "text": "45.7% of GDP (2015 est.) ++ 49.4% of GDP (2014 est.)",
       "note": {
         "text": "official data; data cover general Government Debt, and includes debt instruments issued (or owned) by Government entities other than the treasury; the data include treasury debt held by foreign entities, as well as intra-governmental debt; intra-governmental debt consists of treasury borrowings from surpluses in the social funds, such as retirement, medical care, and unemployment, debt instruments for the social funds are not sold at public auctions; Nicaragua rebased its GDP figures in 2012, which reduced the figures for debt as a percentage of GDP"
       }
@@ -643,93 +647,107 @@
       "text": "calendar year"
     },
     "Inflation rate (consumer prices)": {
-      "text": "6% (2014 est.) ++ 7.1% (2013 est.)"
+      "text": "4% (2015 est.) ++ 6% (2014 est.)"
     },
     "Central bank discount rate": {
       "text": "3% (31 December 2010)"
     },
     "Commercial bank prime lending rate": {
-      "text": "13.54% (31 December 2014 est.) ++ 14.98% (31 December 2013 est.)"
+      "text": "12.05% (31 December 2015 est.) ++ 13.54% (31 December 2014 est.)"
     },
     "Stock of narrow money": {
-      "text": "$943.8 million (31 December 2014 est.) ++ $846.7 million (31 December 2013 est.)"
+      "text": "$1.093 billion (31 December 2015 est.) ++ $943.8 million (31 December 2014 est.)"
     },
     "Stock of broad money": {
       "text": "$4.453 billion (31 December 2013 est.) ++ $4.136 billion (31 December 2012 est.)"
     },
     "Stock of domestic credit": {
-      "text": "$5.146 billion (31 December 2014 est.) ++ $4.977 billion (31 December 2013 est.)"
+      "text": "$5.677 billion (31 December 2015 est.) ++ $5.146 billion (31 December 2014 est.)"
     },
     "Market value of publicly traded shares": {
       "text": "$NA"
     },
     "Current account balance": {
-      "text": "-$838 million (2014 est.) ++ -$1.2 billion (2013 est.)"
+      "text": "-$1.045 billion (2015 est.) ++ -$913 million (2014 est.)"
     },
     "Exports": {
-      "text": "$3.622 billion (2014 est.) ++ $3.292 billion (2013 est.)"
+      "text": "$3.341 billion (2015 est.) ++ $3.622 billion (2014 est.)"
     },
     "Exports - commodities": {
       "text": "coffee, beef, gold, sugar, peanuts, shrimp and lobster, tobacco, cigars, automobile wiring harnesses, textiles, apparel, cotton"
     },
     "Exports - partners": {
-      "text": "US 52.3%, Mexico 11.8%, Venezuela 6.8%, Canada 5.9% (2014)"
+      "text": "US 56.5%, Mexico 10.7%, Venezuela 5.4%, El Salvador 4.3% (2015)"
     },
     "Imports": {
-      "text": "$6.024 billion (2014 est.) ++ $5.802 billion (2013 est.)"
+      "text": "$6.083 billion (2015 est.) ++ $6.024 billion (2014 est.)"
     },
     "Imports - commodities": {
       "text": "consumer goods, machinery and equipment, raw materials, petroleum products"
     },
     "Imports - partners": {
-      "text": "US 16.2%, Venezuela 15.9%, Mexico 13.6%, China 9.1%, Guatemala 8.2%, Costa Rica 8%, El Salvador 5.4% (2014)"
+      "text": "US 19.9%, Mexico 14.9%, China 10.6%, Venezuela 7%, Costa Rica 7%, El Salvador 5.7%, Guatemala 5.6%, Netherlands Antilles 5.5% (2015)"
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$2.276 billion (31 December 2014 est.) ++ $1.993 billion (31 December 2013 est.)"
+      "text": "$2.492 billion (31 December 2015 est.) ++ $2.276 billion (31 December 2014 est.)"
     },
     "Debt - external": {
-      "text": "$10.19 billion (31 December 2014 est.) ++ $9.631 billion (31 December 2013 est.)"
+      "text": "$10.64 billion (31 December 2015 est.) ++ $10.22 billion (31 December 2014 est.)"
     },
     "Exchange rates": {
-      "text": "cordobas (NIO) per US dollar - ++ 26.01 (2014 est.) ++ 26.01 (2013 est.) ++ 23.55 (2012 est.) ++ 22.424 (2011 est.) ++ 21.356 (2010 est.)"
+      "text": "cordobas (NIO) per US dollar - ++ 27.257 (2015 est.) ++ 25.959 (2014 est.) ++ 26.01 (2013 est.) ++ 23.55 (2012 est.) ++ 22.424 (2011 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "1,400,000"
+      },
+      "electrification - total population": {
+        "text": "78%"
+      },
+      "electrification - urban areas": {
+        "text": "100%"
+      },
+      "electrification - rural areas": {
+        "text": "43% (2013)"
+      }
+    },
     "Electricity - production": {
-      "text": "4.159 billion kWh (2013 est.)"
+      "text": "4.438 billion kWh (2014 est.)"
     },
     "Electricity - consumption": {
-      "text": "3.556 billion kWh (2012 est.)"
+      "text": "4.412 billion kWh (2014 est.)"
     },
     "Electricity - exports": {
-      "text": "16.23 million kWh (2013 est.)"
+      "text": "48.98 million kWh (2014 est.)"
     },
     "Electricity - imports": {
-      "text": "51.97 million kWh (2013 est.)"
+      "text": "22.32 million kWh (2014 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "1.275 million kW (2013 est.)"
+      "text": "1.331 million kW (2015 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "57.6% of total installed capacity (2013 est.)"
+      "text": "54.4% of total installed capacity (2015 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2013 est.)"
+      "text": "0% of total installed capacity (2015 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "8.3% of total installed capacity (2013 est.)"
+      "text": "10.2% of total installed capacity (2015 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "34.1% of total installed capacity (2013 est.)"
+      "text": "35.4% of total installed capacity (2015 est.)"
     },
     "Crude oil - production": {
-      "text": "0 bbl/day (2014 est.)"
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - exports": {
-      "text": "0 bbl/day (2012 est.)"
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - imports": {
-      "text": "12,910 bbl/day (2013 est.)"
+      "text": "13,580 bbl/day (2014 est.)"
     },
     "Crude oil - proved reserves": {
       "text": "0 bbl (1 January 2015 est.)"
@@ -738,28 +756,28 @@
       "text": "10,810 bbl/day (2012 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "30,000 bbl/day (2013 est.)"
+      "text": "28,700 bbl/day (2014 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "396.1 bbl/day (2012 est.)"
+      "text": "396 bbl/day (2014 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "19,760 bbl/day (2012 est.)"
+      "text": "16,500 bbl/day (2014 est.)"
     },
     "Natural gas - production": {
-      "text": "0 cu m (2013 est.)"
+      "text": "0 cu m (2016 est.)"
     },
     "Natural gas - consumption": {
-      "text": "0 cu m (2013 est.)"
+      "text": "0 cu m (2016 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2013 est.)"
+      "text": "0 cu m (2016 est.)"
     },
     "Natural gas - imports": {
-      "text": "0 cu m (2013 est.)"
+      "text": "0 cu m (2016 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "0 cu m (1 January 2014 est.)"
+      "text": "0 cu m (1 January 2015 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
       "text": "5.285 million Mt (2012 est.)"
@@ -768,18 +786,18 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "340,000"
+        "text": "354,017"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "6 (2014 est.)"
+        "text": "6 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "7.1 million"
+        "text": "7.264 million"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "121 (2014 est.)"
+        "text": "123 (July 2015 est.)"
       }
     },
     "Telephone system": {
@@ -787,34 +805,45 @@
         "text": "system being upgraded by foreign investment; nearly all installed telecommunications capacity now uses digital technology, owing to investments since privatization of the formerly state-owned telecommunications company"
       },
       "domestic": {
-        "text": "since privatization, access to fixed-line and mobile-cellular services has improved; fixed-line teledensity roughly 5 per 100 persons; mobile-cellular telephone subscribership has increased to roughly 85 per 100 persons"
+        "text": "since privatization, access to fixed-line and mobile-cellular services has improved; fixed-line teledensity roughly 6 per 100 persons; mobile-cellular telephone subscribership has increased to over 120 per 100 persons"
       },
       "international": {
-        "text": "country code - 505; the Americas Region Caribbean Ring System (ARCOS-1) fiber optic submarine cable provides connectivity to South and Central America, parts of the Caribbean, and the US; satellite earth stations - 1 Intersputnik (Atlantic Ocean region) and 1 Intelsat (Atlantic Ocean) (2011)"
+        "text": "country code - 505; the Americas Region Caribbean Ring System (ARCOS-1) fiber-optic submarine cable provides connectivity to South and Central America, parts of the Caribbean, and the US; satellite earth stations - 1 Intersputnik (Atlantic Ocean region) and 1 Intelsat (Atlantic Ocean) (2015)"
       }
     },
     "Broadcast media": {
-      "text": "multiple privately owned terrestrial TV networks, supplemented by cable TV in most urban areas; of more than 100 radio stations, nearly all are privately owned; Radio Nicaragua is government-owned and Radio Sandino is controlled by the Sandinista National Liberation Front (FSLN) (2007)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM 63, FM 32, shortwave 1 (1998)"
-    },
-    "Television broadcast stations": {
-      "text": "16 (2009)"
+      "text": "multiple terrestrial TV stations, supplemented by cable TV in most urban areas; nearly all are government-owned or affiliated; more than 300 radio stations, both government-affiliated and privately owned (2016)"
     },
     "Internet country code": {
       "text": ".ni"
     },
     "Internet users": {
       "total": {
-        "text": "845,100"
+        "text": "1.164 million"
       },
       "percent of population": {
-        "text": "14.5% (2014 est.)"
+        "text": "19.7% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "1"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "2"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "61,031"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "0 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "YN (2016)"
+    },
     "Airports": {
       "text": "147 (2013)"
     },
@@ -846,7 +875,7 @@
         "text": "15"
       },
       "under 914 m": {
-        "text": " ++ 119 (2013)"
+        "text": "119 (2013)"
       }
     },
     "Pipelines": {
@@ -857,10 +886,10 @@
         "text": "23,897 km"
       },
       "paved": {
-        "text": "3,282 km"
+        "text": "3,346 km"
       },
       "unpaved": {
-        "text": "20,615 km (2012)"
+        "text": "20,551 km (2014)"
       }
     },
     "Waterways": {
@@ -872,36 +901,12 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "National Army of Nicaragua (Ejercito Nacional de Nicaragua, ENN; includes Navy, Air Force) (2013)"
     },
     "Military service age and obligation": {
       "text": "18-30 years of age for voluntary military service; no conscription; tour of duty 18-36 months; requires Nicaraguan nationality and 6th-grade education (2012)"
-    },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "1,452,107"
-      },
-      "females age 16-49": {
-        "text": "1,552,698 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "1,227,757"
-      },
-      "females age 16-49": {
-        "text": "1,335,653 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "69,093"
-      },
-      "female": {
-        "text": "67,522 (2010 est.)"
-      }
     },
     "Military expenditures": {
       "text": "0.63% of GDP (2012) ++ 0.53% of GDP (2011) ++ 0.63% of GDP (2010)"
@@ -909,7 +914,12 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "the 1992 (International Court of Justice) ICJ ruling for El Salvador and Honduras advised a tripartite resolution to establish a maritime boundary in the Gulf of Fonseca, which considers Honduran access to the Pacific; Nicaragua and Costa Rica regularly file border dispute cases over the delimitations of the San Juan River and the northern tip of Calero Island to the ICJ; in 2009, the ICJ ruled that Costa Rican vessels carrying out police activities could not use the river, but official Costa Rican vessels providing essential services to riverside inhabitants and Costa Rican tourists could travel freely on the river; in 2011, the ICJ provisionally ruled that both countries must remove personnel from the disputed area; in 2013, the ICJ rejected Nicaragua's 2012 suit to halt Costa Rica's construction of a highway paralleling the river on the grounds of irreparable environmental damage; in 2013, the ICJ, regarding the disputed territory, ordered that Nicaragua should refrain from dredging or canal construction and refill and repair damage caused by trenches connecting the river to the Caribbean and upheld its 2010 ruling that Nicaragua must remove all personnel; in early 2014, Costa Rica brought Nicaragua to the ICJ over offshore oil concessions in the disputed region"
+      "text": "the 1992 ICJ ruling for El Salvador and Honduras advised a tripartite resolution to establish a maritime boundary in the Gulf of Fonseca, which considers Honduran access to the Pacific; Nicaragua and Costa Rica regularly file border dispute cases over the delimitations of the San Juan River and the northern tip of Calero Island to the ICJ; in 2009, the ICJ ruled that Costa Rican vessels carrying out police activities could not use the river, but official Costa Rican vessels providing essential services to riverside inhabitants and Costa Rican tourists could travel freely on the river; in 2011, the ICJ provisionally ruled that both countries must remove personnel from the disputed area; in 2013, the ICJ rejected Nicaragua's 2012 suit to halt Costa Rica's construction of a highway paralleling the river on the grounds of irreparable environmental damage; in 2013, the ICJ, regarding the disputed territory, ordered that Nicaragua should refrain from dredging or canal construction and refill and repair damage caused by trenches connecting the river to the Caribbean and upheld its 2010 ruling that Nicaragua must remove all personnel; in early 2014, Costa Rica brought Nicaragua to the ICJ over offshore oil concessions in the disputed region"
+    },
+    "Refugees and internally displaced persons": {
+      "stateless persons": {
+        "text": "1 (2015)"
+      }
     },
     "Illicit drugs": {
       "text": "transshipment point for cocaine destined for the US and transshipment point for arms-for-drugs dealing"

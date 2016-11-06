@@ -60,14 +60,14 @@
       "text": "maritime temperate; cool and rainy in north, warmer and drier in south"
     },
     "Terrain": {
-      "text": "mountainous north of the Tagus River, rolling plains in south"
+      "text": "the west-flowing Tagus River divides the country: the north is mountainous toward the interior, while the south is characterized by rolling plains"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Atlantic Ocean 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "372 m"
       },
-      "highest point": {
-        "text": "Ponta do Pico (Pico or Pico Alto) on Ilha do Pico in the Azores 2,351 m"
+      "elevation extremes": {
+        "text": "lowest point: Atlantic Ocean 0 m ++ highest point: Ponta do Pico (Pico or Pico Alto) on Ilha do Pico in the Azores 2,351 m"
       }
     },
     "Natural resources": {
@@ -85,18 +85,10 @@
       }
     },
     "Irrigated land": {
-      "text": "5,837 sq km (2007)"
+      "text": "5,400 sq km (2012)"
     },
-    "Total renewable water resources": {
-      "text": "68.7 cu km (2011)"
-    },
-    "Freshwater withdrawal (domestic/industrial/agricultural)": {
-      "total": {
-        "text": "8.46  cu km/yr (12%/18%/69%)"
-      },
-      "per capita": {
-        "text": "812  cu m/yr (2005)"
-      }
+    "Population - distribution": {
+      "text": "concentrations are primarily along or near the Atlantic coast; both Lisbon and the second largest city, Porto, are coastal cities"
     },
     "Natural hazards": {
       "text": "Azores subject to severe earthquakes",
@@ -120,6 +112,9 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "10,833,816 (July 2016 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "Portuguese (singular and plural)"
@@ -140,27 +135,21 @@
         "text": "represents population 15 years of age and older (2011 est.)"
       }
     },
-    "Population": {
-      "text": "10,825,309 (July 2015 est.)"
-    },
     "Age structure": {
       "0-14 years": {
-        "text": "15.68% (male 884,389/female 812,685)"
+        "text": "15.5% (male 874,807/female 804,483)"
       },
       "15-24 years": {
-        "text": "11.41% (male 655,259/female 580,020)"
+        "text": "11.4% (male 655,234/female 579,669)"
       },
       "25-54 years": {
-        "text": "42.05% (male 2,303,473/female 2,248,914)"
+        "text": "41.88% (male 2,300,872/female 2,236,077)"
       },
       "55-64 years": {
-        "text": "11.97% (male 604,549/female 691,216)"
+        "text": "12.07% (male 610,886/female 697,287)"
       },
       "65 years and over": {
-        "text": "18.89% (male 836,679/female 1,208,125) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "19.15% (male 849,506/female 1,224,995) (2016 est.)"
       }
     },
     "Dependency ratios": {
@@ -179,26 +168,29 @@
     },
     "Median age": {
       "total": {
-        "text": "41.5 years"
+        "text": "41.8 years"
       },
       "male": {
-        "text": "39.4 years"
+        "text": "39.8 years"
       },
       "female": {
-        "text": "43.6 years (2015 est.)"
+        "text": "44 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "0.09% (2015 est.)"
+      "text": "0.07% (2016 est.)"
     },
     "Birth rate": {
-      "text": "9.27 births/1,000 population (2015 est.)"
+      "text": "9.1 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "11.02 deaths/1,000 population (2015 est.)"
+      "text": "11.1 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "2.67 migrant(s)/1,000 population (2015 est.)"
+      "text": "2.6 migrant(s)/1,000 population (2016 est.)"
+    },
+    "Population distribution": {
+      "text": "concentrations are primarily along or near the Atlantic coast; both Lisbon and the second largest city, Porto, are coastal cities"
     },
     "Urbanization": {
       "urban population": {
@@ -222,7 +214,7 @@
         "text": "1.13 male(s)/female"
       },
       "25-54 years": {
-        "text": "1.02 male(s)/female"
+        "text": "1.03 male(s)/female"
       },
       "55-64 years": {
         "text": "0.88 male(s)/female"
@@ -231,42 +223,45 @@
         "text": "0.69 male(s)/female"
       },
       "total population": {
-        "text": "0.95 male(s)/female (2015 est.)"
+        "text": "0.96 male(s)/female (2016 est.)"
       }
+    },
+    "Mother's mean age at first birth": {
+      "text": "29.5 (2012 est.)"
     },
     "Maternal mortality rate": {
       "text": "10 deaths/100,000 live births (2015 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "4.43 deaths/1,000 live births"
+        "text": "4.4 deaths/1,000 live births"
       },
       "male": {
-        "text": "4.86 deaths/1,000 live births"
+        "text": "4.8 deaths/1,000 live births"
       },
       "female": {
-        "text": "3.97 deaths/1,000 live births (2015 est.)"
+        "text": "3.9 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "79.16 years"
+        "text": "79.3 years"
       },
       "male": {
-        "text": "75.92 years"
+        "text": "76.1 years"
       },
       "female": {
-        "text": "82.62 years (2015 est.)"
+        "text": "82.8 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "1.52 children born/woman (2015 est.)"
+      "text": "1.53 children born/woman (2016 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "86.8% (2005/06)"
     },
     "Health expenditures": {
-      "text": "9.7% of GDP (2013)"
+      "text": "9.5% of GDP (2014)"
     },
     "Physicians density": {
       "text": "4.1 physicians/1,000 population (2012)"
@@ -303,7 +298,7 @@
       "text": "22.1% (2014)"
     },
     "Education expenditures": {
-      "text": "5.3% of GDP (2011)"
+      "text": "5.1% of GDP (2011)"
     },
     "Literacy": {
       "definition": {
@@ -321,35 +316,24 @@
     },
     "School life expectancy (primary to tertiary education)": {
       "total": {
-        "text": "16 years"
+        "text": "17 years"
       },
       "male": {
-        "text": "16 years"
+        "text": "17 years"
       },
       "female": {
-        "text": "17 years (2012)"
-      }
-    },
-    "Child labor - children ages 5-14": {
-      "total number": {
-        "text": "36,569"
-      },
-      "percentage": {
-        "text": "3%"
-      },
-      "note": {
-        "text": "data represents children ages 6-14 (2001 est.)"
+        "text": "17 years (2014)"
       }
     },
     "Unemployment, youth ages 15-24": {
       "total": {
-        "text": "37.6%"
+        "text": "34.8%"
       },
       "male": {
-        "text": "36.4%"
+        "text": "34.2%"
       },
       "female": {
-        "text": "39.1% (2012 est.)"
+        "text": "35.4% (2014 est.)"
       }
     }
   },
@@ -366,10 +350,13 @@
       },
       "local short form": {
         "text": "Portugal"
+      },
+      "etymology": {
+        "text": "name derives from the Roman designation \"Portus Cale\" meaning \"Port of Cale\"; Cale was an ancient Celtic town and port in present-day northern Portugal"
       }
     },
     "Government type": {
-      "text": "republic; parliamentary democracy"
+      "text": "semi-presidential republic"
     },
     "Capital": {
       "name": {
@@ -395,7 +382,7 @@
       "text": "Portugal Day (Dia de Portugal), 10 June (1580); note - also called Camoes Day, the day that revered national poet Luis de Camoes (1524-80) died"
     },
     "Constitution": {
-      "text": "several previous; latest adopted 2 April 1976, effective 25 April 1976; amended several times, last in 2005 (2015)"
+      "text": "several previous; latest adopted 2 April 1976, effective 25 April 1976; amended several times, last in 2005 (2016)"
     },
     "Legal system": {
       "text": "civil law system; Constitutional Court review of legislative acts"
@@ -404,14 +391,17 @@
       "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
     },
     "Citizenship": {
-      "birthright citizenship": {
-        "text": ""
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Portugal"
       },
       "dual citizenship recognized": {
         "text": "yes"
       },
       "residency requirement for naturalization": {
-        "text": ""
+        "text": "10 years; 6 years if from a Portuguese speaking country"
       }
     },
     "Suffrage": {
@@ -419,19 +409,19 @@
     },
     "Executive branch": {
       "chief of state": {
-        "text": "President Anibal CAVACO SILVA (since 9 March 2006)"
+        "text": "President Marcelo REBELO DE SOUSA (since 9 March 2016)"
       },
       "head of government": {
-        "text": "Prime Minister Pedro Manuel PASSOS COELHO Mamede (since 21 June 2011); note - on 10 November 2015, a bloc in Parliament composed of the Socialists, the Left Bloc, and the Communists brought down the conservative government of Prime Minister PASSOS COELHO voting against the legislative plan it set forth"
+        "text": "Prime Minister Antonio Luis Santos da COSTA (since 24 November 2015)"
       },
       "cabinet": {
         "text": "Council of Ministers appointed by the president on the recommendation of the prime minister"
       },
       "elections/appointments": {
-        "text": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 23 January 2011 (next to be held in January 2016); following legislative elections which must be held by October 2015, the leader of the majority party or majority coalition usually appointed prime minister by the president"
+        "text": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 24 January 2016 (next to be held in January 2021); following legislative elections which must be held by October 2015, the leader of the majority party or majority coalition usually appointed prime minister by the president"
       },
       "election results": {
-        "text": "Anibal CAVACO SILVA reelected president; percent of vote - Anibal CAVACO SILVA (PPD/PSD) 53%, Manuel ALEGRE (PS) 19.8%, Fernando NOBRE (independent) 14.1%, Francisco LOPES (independent) 7.1%, Manuel COELHO 4.5%, other 1.5%"
+        "text": "Marcelo REBELO DE SOUSA elected president; percent of vote - Marcelo REBELO DE SOUSA (PSD) 52%, Antonio Sampaio da NOVA (independent) 22.9%, Marisa MATISA (BE) 10.1%, Maria de BELEM (independent) 4.2%, other 10.8%"
       },
       "note": {
         "text": "there is also a Council of State that acts as a consultative body to the president"
@@ -445,7 +435,7 @@
         "text": "last held on 4 October 2015 (next to be held by October 2019)"
       },
       "election results": {
-        "text": "percent of vote by party - Portugal Ahead 36.9%, PS 32.3%, B.E. 10.2%, CDU 8.2%, PPD/PSD (Azores and Madeira) 1.5%, PAN 1.4%, other 9.5%; seats by party - Portugal Ahead 102, PS 86, B.E. 19, CDU 17, PPD/PSD (Azores and Madeira) 5, PAN 1"
+        "text": "percent of vote by party - Portugal Ahead Coalition (PAF) 36.9%, PS 32.3%, B.E. 10.2%, CDU 8.2%, PPD/PSD (Azores and Madeira) 1.5%, PAN 1.4%, other 9.5%; seats by party - PAF 102, PS 86, B.E. 19, CDU 17, PPD/PSD (Azores and Madeira) 5, PAN 1"
       }
     },
     "Judicial branch": {
@@ -460,7 +450,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Democratic and Social Center/Popular Party or CDS/PP [Paulo PORTAS] ++ People-Animals-Nature or PAN [Andre SILVA] ++ Portugal Ahead (coalition including PPD/PSD and CDS/PP) [Pedro PASSOS COELHO] ++ Social Democratic Party or PPD/PSD [Pedro PASSOS COELHO] ++ Socialist Party or PS [Antonio COSTA] ++ The Left Bloc or BE [Catarina Soares MARTINS] ++ Unitarian Democratic Coalition or CDU [Jeronimo DE SOUSA] (includes Portuguese Communist Party or PCP and Ecologist Party (\"The Greens\") or PEV)"
+      "text": "Democratic and Social Center/Popular Party or CDS/PP [Paulo PORTAS] ++ Ecologist Party (The Greens) or PEV [Heloisa APOLONIA] ++ Portuguese Communist Party or PCP [Jeronimo DE SOUSA] ++ Portugal Ahead Coalition or PAF (includes PSD and CDS/PP) ++ Social Democratic Party or PPD/PSD [Pedro PASSOS COELHO] ++ Socialist Party or PS [Antonio COSTA] ++ The Left Bloc or BE [Catarina Soares MARTINS] ++ Unitarian Democratic Coalition or CDU [Jeronimo DE SOUSA] (includes Portuguese Communist Party or PCP and Ecologist Party (\"The Greens\") or PEV)"
     },
     "Political pressure groups and leaders": {
       "text": "Armed Forces Officers' Association or AOFA [Colonel Pereira CRACEL] ++ the Desperate Generation (youth movement protesting against low wages, precarious labor conditions, and unemployment) ++ General Workers Union or General Confederation of Portuguese Workers or UGT [Carlos SILVA] ++ Portuguese National Workers' Conference or CGTP [Armenio CARLOS] ++ TugaLeaks (a website that has become a mouthpiece for publicizing diverse protest action)",
@@ -473,7 +463,7 @@
     },
     "Diplomatic representation in the US": {
       "chief of mission": {
-        "text": "Ambassador Nuno Filipe Alves Salvador e BRITO (since 10 February 2011)"
+        "text": "Ambassador Domingos T?eixeira de Abreu Fezas VITAL (since 28 January 2016)"
       },
       "chancery": {
         "text": "2012 Massachusetts Avenue NW, Washington, DC 20036"
@@ -531,58 +521,58 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Portugal has become a diversified and increasingly service-based economy since joining the European Community - the EU's predecessor - in 1986. Over the following two decades, successive governments privatized many state-controlled firms and liberalized key areas of the economy, including the financial and telecommunications sectors. The country joined the Economic and Monetary Union (EMU) in 1999 and began circulating the euro on 1 January 2002 along with 11 other EU members. The economy grew by more than the EU average for much of the 1990s, but the rate of growth slowed in 2001-08. The economy contracted in 2009, and fell again from 2011 to 2014, as the government implemented spending cuts and tax increases to comply with conditions of an EU-IMF financial rescue package, signed in May 2011. A modest recovery began in 2013 and gathered steam in in 2014 due to strong export performance and a rebound in private consumption. Although austerity measures were instituted to reduce the large budget deficit, they contributed to record unemployment and a wave of emigration not seen since the 1960s. A continued reduction in private- and public-sector debt could weigh on consumption and investment in 2015, holding back a stronger recovery. The government of Pedro PASSOS COELHO has passed legislation aimed at reducing labor market rigidity, and, this, along with sustained fiscal discipline, could make Portugal more attractive to foreign direct investment. The government reduced the budget deficit from 11.2% of GDP in 2010 to 4.8% in 2014, a figure that is significantly higher than the EU-IMF target of 4%. The government has pledged to lower the deficit to under 3% of GDP in 2015 in order to comply with EU fiscal obligations, under the excessive deficit procedure. Legislative elections in 2015 could increase the risk of fiscal slippage and undermine investor confidence in Portugal’s economy, which has improved over the course of the EU-IMF program. EU-IMF financing expired in May 2014."
+      "text": "Portugal has become a diversified and increasingly service-based economy since joining the European Community - the EU's predecessor - in 1986. Over the following two decades, successive governments privatized many state-controlled firms and liberalized key areas of the economy, including the financial and telecommunications sectors. The country joined the Economic and Monetary Union in 1999 and began circulating the euro on 1 January 2002 along with 11 other EU members. ++  ++ The economy grew by more than the EU average for much of the 1990s, but the rate of growth slowed in 2001-08. The economy contracted in 2009, and fell again from 2011 to 2014, as the government implemented spending cuts and tax increases to comply with conditions of an EU-IMF financial rescue package, signed in May 2011. A modest recovery began in 2013 and gathered steam in 2014 due to strong export performance and a rebound in private consumption. Although austerity measures were instituted to reduce the large budget deficit, they contributed to record unemployment and a wave of emigration not seen since the 1960s. ++  ++ A continued reduction in private- and public-sector debt could weigh on consumption and investment in 2016, holding back a stronger recovery. The prior center-right government passed legislation aimed at reducing labor market rigidity, and, this, along with sustained fiscal discipline, could make Portugal more attractive to foreign direct investment. Under the center-right government, the budget deficit fell from 11.2% of GDP in 2010 to 3.5% in 2015, reaching the EU-IMF target of 4%, but still above its EU fiscal obligations, under the excessive deficit procedure. EU-IMF financing expired in May 2014. The new center-left Socialist government, however, has signaled that it will unwind spending cuts associated with austerity while remaining within EU fiscal targets."
     },
     "GDP (purchasing power parity)": {
-      "text": "$281.4 billion (2014 est.) ++ $278.9 billion (2013 est.) ++ $283.4 billion (2012 est.)",
+      "text": "$290.3 billion (2015 est.) ++ $286.2 billion (2014 est.) ++ $283.6 billion (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$229.9 billion (2014 est.)"
+      "text": "$199 billion (2015 est.)"
     },
     "GDP - real growth rate": {
-      "text": "0.9% (2014 est.) ++ -1.6% (2013 est.) ++ -4% (2012 est.)"
+      "text": "1.5% (2015 est.) ++ 0.9% (2014 est.) ++ -1.1% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$27,100 (2014 est.) ++ $26,800 (2013 est.) ++ $27,300 (2012 est.)",
+      "text": "$27,900 (2015 est.) ++ $27,500 (2014 est.) ++ $27,100 (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "Gross national saving": {
-      "text": "15.4% of GDP (2014 est.) ++ 15% of GDP (2013 est.) ++ 14.1% of GDP (2012 est.)"
+      "text": "15.7% of GDP (2015 est.) ++ 15.3% of GDP (2014 est.) ++ 15.3% of GDP (2013 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
         "text": "65.9%"
       },
       "government consumption": {
-        "text": "18.5%"
+        "text": "18.1%"
       },
       "investment in fixed capital": {
-        "text": "14.9%"
+        "text": "15%"
       },
       "investment in inventories": {
-        "text": "0.4%"
+        "text": "0.2%"
       },
       "exports of goods and services": {
-        "text": "40%"
+        "text": "40.3%"
       },
       "imports of goods and services": {
-        "text": "-39.7% ++  (2014 est.)"
+        "text": "-39.6% (2015 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "2.3%"
+        "text": "2.4%"
       },
       "industry": {
-        "text": "21.6%"
+        "text": "21.9%"
       },
       "services": {
-        "text": "76.2% (2014 est.)"
+        "text": "75.9% (2015 est.)"
       }
     },
     "Agriculture - products": {
@@ -592,10 +582,10 @@
       "text": "textiles, clothing, footwear, wood and cork, paper and pulp, chemicals, lubricants, automobiles and auto parts, base metals, minerals, porcelain and ceramics, glassware, technology, telecommunications; dairy products, wine, other foodstuffs; ship construction and refurbishment; tourism, plastics, financial services, optics"
     },
     "Industrial production growth rate": {
-      "text": "0.4% (2014 est.)"
+      "text": "1% (2015 est.)"
     },
     "Labor force": {
-      "text": "5.226 million (2014 est.)"
+      "text": "5.195 million (2015 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -609,7 +599,7 @@
       }
     },
     "Unemployment rate": {
-      "text": "13.9% (2014 est.) ++ 16.2% (2013 est.)"
+      "text": "12.4% (2015 est.) ++ 13.9% (2014 est.)"
     },
     "Population below poverty line": {
       "text": "18.7% (2012 est.)"
@@ -627,20 +617,20 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$102.6 billion"
+        "text": "$87.3 billion"
       },
       "expenditures": {
-        "text": "$112.9 billion (2014 est.)"
+        "text": "$96.05 billion (2015 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "44.6% of GDP (2014 est.)"
+      "text": "43.9% of GDP (2015 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-4.5% of GDP (2014 est.)"
+      "text": "-4.4% of GDP (2015 est.)"
     },
     "Public debt": {
-      "text": "130.2% of GDP (2014 est.) ++ 129.7% of GDP (2013 est.)",
+      "text": "129% of GDP (2015 est.) ++ 130.2% of GDP (2014 est.)",
       "note": {
         "text": "data cover general government debt, and includes debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intra-governmental debt; intra-governmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions"
       }
@@ -649,7 +639,7 @@
       "text": "calendar year"
     },
     "Inflation rate (consumer prices)": {
-      "text": "-0.2% (2014 est.) ++ 0.4% (2013 est.)"
+      "text": "0.5% (2015 est.) ++ -0.2% (2014 est.)"
     },
     "Central bank discount rate": {
       "text": "0.05% (31 December 2014) ++ 0.25% (31 December 2013)",
@@ -658,10 +648,10 @@
       }
     },
     "Commercial bank prime lending rate": {
-      "text": "5.3% (31 December 2014 est.) ++ 5.91% (31 December 2013 est.)"
+      "text": "4.49% (31 December 2015 est.) ++ 5.3% (31 December 2014 est.)"
     },
     "Stock of narrow money": {
-      "text": "$66.76 billion (31 December 2014 est.) ++ $69.61 billion (31 December 2013 est.)",
+      "text": "$72.29 billion (31 December 2015 est.) ++ $66.76 billion (31 December 2014 est.)",
       "note": {
         "text": "see entry for the European Union for money supply for the entire euro area; the European Central Bank (ECB) controls monetary policy for the 18 members of the Economic and Monetary Union (EMU); individual members of the EMU do not control the quantity of money circulating within their own borders"
       }
@@ -670,49 +660,54 @@
       "text": "$296.1 billion (31 December 2014 est.) ++ $316.2 billion (31 December 2013 est.)"
     },
     "Stock of domestic credit": {
-      "text": "$366.2 billion (31 December 2014 est.) ++ $442.8 billion (31 December 2013 est.)"
+      "text": "$326.2 billion (31 December 2015 est.) ++ $364.9 billion (31 December 2014 est.)"
     },
     "Market value of publicly traded shares": {
-      "text": "$126.8 billion (31 December 2014 est.) ++ $57.04 billion (31 December 2013) ++ $65.53 billion (31 December 2012 est.)"
+      "text": "$59.84 billion (31 December 2015 est.) ++ $57.77 billion (31 December 2014 est.) ++ $79.18 billion (31 December 2013 est.)"
     },
     "Current account balance": {
-      "text": "$1.268 billion (2014 est.) ++ $3.164 billion (2013 est.)"
+      "text": "$838 million (2015 est.) ++ $145 million (2014 est.)"
     },
     "Exports": {
-      "text": "$62.92 billion (2014 est.) ++ $61.86 billion (2013 est.)"
+      "text": "$54.33 billion (2015 est.) ++ $62.72 billion (2014 est.)"
     },
     "Exports - commodities": {
       "text": "agricultural products, foodstuffs, wine, oil products, chemical products, plastics and rubber, hides, leather, wood and cork, wood pulp and paper, textile materials, clothing, footwear, machinery and tools, base metals"
     },
     "Exports - partners": {
-      "text": "Spain 23.7%, France 11.8%, Germany 11.8%, Angola 6.5%, UK 6.1%, US 4.2%, Netherlands 4% (2014)"
+      "text": "Spain 25%, France 12.1%, Germany 11.8%, UK 6.7%, US 5.2%, Angola 4.2%, Netherlands 4% (2015)"
     },
     "Imports": {
-      "text": "$74.81 billion (2014 est.) ++ $72.49 billion (2013 est.)"
+      "text": "$64.49 billion (2015 est.) ++ $75.29 billion (2014 est.)"
     },
     "Imports - commodities": {
       "text": "agricultural products, chemical products, vehicles and other transport material, optical and precision instruments, computer accessories and parts, semiconductors and related devices, oil products, base metals, food products, textile materials"
     },
     "Imports - partners": {
-      "text": "Spain 32.6%, Germany 12.4%, France 7.1%, Italy 5.3%, Netherlands 5.1% (2014)"
+      "text": "Spain 32.9%, Germany 12.9%, France 7.4%, Italy 5.4%, Netherlands 5.1% (2015)"
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$19.62 billion (31 December 2014 est.) ++ $17.55 billion (31 December 2013 est.)"
+      "text": "$19.4 billion (31 December 2015 est.) ++ $19.62 billion (31 December 2014 est.)"
     },
     "Debt - external": {
-      "text": "$19.62 billion (31 December 2014 est.) ++ $17.55 billion (31 December 2013 est.)"
+      "text": "$493.7 billion (31 December 2014 est.) ++ $531.6 billion (31 December 2013 est.)"
     },
     "Stock of direct foreign investment - at home": {
-      "text": "$157.3 billion (31 December 2014 est.) ++ $146.2 billion (31 December 2013 est.)"
+      "text": "$138.1 billion (31 December 2015 est.) ++ $153.7 billion (31 December 2014 est.)"
     },
     "Stock of direct foreign investment - abroad": {
-      "text": "$99.55 billion (31 December 2014 est.) ++ $99.55 billion (31 December 2013 est.)"
+      "text": "$87.44 billion (31 December 2015 est.) ++ $95.58 billion (31 December 2014 est.)"
     },
     "Exchange rates": {
-      "text": "euros (EUR) per US dollar - ++ 0.7489 (2014 est.) ++ 0.7634 (2013 est.) ++ 0.78 (2012 est.) ++ 0.7185 (2011 est.) ++ 0.755 (2010 est.)"
+      "text": "euros (EUR) per US dollar - ++ 0.885 (2015 est.) ++ 0.7525 (2014 est.) ++ 0.7634 (2013 est.) ++ 0.78 (2012 est.) ++ 0.7185 (2011 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
+    },
     "Electricity - production": {
       "text": "51.67 billion kWh (2013 est.)"
     },
@@ -786,18 +781,18 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "4.59 million"
+        "text": "4,682,997"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "42 (2014 est.)"
+        "text": "43 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "11.9 million"
+        "text": "11.715 million"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "110 (2014 est.)"
+        "text": "108 (July 2015 est.)"
       }
     },
     "Telephone system": {
@@ -808,31 +803,42 @@
         "text": "integrated network of coaxial cables, open-wire, microwave radio relay, and domestic satellite earth stations"
       },
       "international": {
-        "text": "country code - 351; a combination of submarine cables provide connectivity to Europe, North and East Africa, South Africa, the Middle East, Asia, and the US; satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean), NA Eutelsat; tropospheric scatter to Azores (2010)"
+        "text": "country code - 351; a combination of submarine cables provide connectivity to Europe, North and East Africa, South Africa, the Middle East, Asia, and the US; satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean), NA Eutelsat; tropospheric scatter to Azores (2015)"
       }
     },
     "Broadcast media": {
       "text": "Radio e Televisao de Portugal (RTP), the publicly owned TV broadcaster, operates 2 domestic channels and external service channels to Africa; overall, roughly 40 domestic TV stations; viewers have widespread access to international broadcasters with more than half of all households connected to multi-channel cable or satellite TV systems; publicly owned radio operates 3 national networks and provides regional and external services; several privately owned national radio stations and some 300 regional and local commercial radio stations (2008)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM 2, FM 63, shortwave 1 (2008)"
-    },
-    "Television broadcast stations": {
-      "text": "42 (2008)"
     },
     "Internet country code": {
       "text": ".pt"
     },
     "Internet users": {
       "total": {
-        "text": "7.2 million"
+        "text": "7.43 million"
       },
       "percent of population": {
-        "text": "66.1% (2014 est.)"
+        "text": "68.6% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "12"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "122"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "12,635,233"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "343,971,094 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "CR, CS (2016)"
+    },
     "Airports": {
       "text": "64 (2013)"
     },
@@ -864,7 +870,7 @@
         "text": "1"
       },
       "under 914 m": {
-        "text": " ++ 20 (2013)"
+        "text": "20 (2013)"
       }
     },
     "Pipelines": {
@@ -921,36 +927,12 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "Portuguese Army (Exercito Portuguesa), Portuguese Navy (Marinha Portuguesa; includes Marine Corps), Portuguese Air Force (Forca Aerea Portuguesa, FAP) (2013)"
     },
     "Military service age and obligation": {
       "text": "18-30 years of age for voluntary military service; no compulsory military service, but conscription possible if insufficient volunteers available; women serve in the armed forces, on naval ships since 1993, but are prohibited from serving in some combatant specialties; reserve obligation to age 35 (2012)"
-    },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "2,566,264"
-      },
-      "females age 16-49": {
-        "text": "2,458,297 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "2,103,080"
-      },
-      "females age 16-49": {
-        "text": "2,018,004 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "62,208"
-      },
-      "female": {
-        "text": "54,786 (2010 est.)"
-      }
     },
     "Military expenditures": {
       "text": "1.29% of GDP (2014) ++ 1.2% of GDP (2013) ++ 1.78% of GDP (2012)"
@@ -962,7 +944,7 @@
     },
     "Refugees and internally displaced persons": {
       "stateless persons": {
-        "text": "14 (2014)"
+        "text": "14 (2015)"
       }
     },
     "Illicit drugs": {

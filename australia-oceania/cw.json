@@ -51,12 +51,12 @@
     "Terrain": {
       "text": "low coral atolls in north; volcanic, hilly islands in south"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Pacific Ocean 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "NA"
       },
-      "highest point": {
-        "text": "Te Manga 652 m"
+      "elevation extremes": {
+        "text": "lowest point: Pacific Ocean 0 m ++ highest point: Te Manga 652 m"
       }
     },
     "Natural resources": {
@@ -92,6 +92,12 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "9,556 (July 2016 est.)",
+      "note": {
+        "text": "the Cook Islands' Ministry of Finance & Economic Management estimated the resident population to have been 12,000 in December 2015"
+      }
+    },
     "Nationality": {
       "noun": {
         "text": "Cook Islander(s)"
@@ -112,51 +118,42 @@
     "Religions": {
       "text": "Protestant 62.8% (Cook Islands Christian Church 49.1%, Seventh Day Adventist 7.9%, Assemblies of God 3.7%, Apostolic Church 2.1%), Roman Catholic 17%, Mormon 4.4%, other 8%, none 5.6%, no response 2.2% (2011 est.)"
     },
-    "Population": {
-      "text": "9,838",
-      "note": {
-        "text": "the Cook Islands' Ministry of Finance & Economic Management estimated the resident population to have been 13,700 in September 2013 (July 2015 est.)"
-      }
-    },
     "Age structure": {
       "0-14 years": {
-        "text": "22.15% (male 1,154/female 1,025)"
+        "text": "21.61% (male 1,093/female 972)"
       },
       "15-24 years": {
-        "text": "17.64% (male 929/female 806)"
+        "text": "17.2% (male 877/female 767)"
       },
       "25-54 years": {
-        "text": "38.05% (male 1,876/female 1,867)"
+        "text": "38.08% (male 1,822/female 1,817)"
       },
       "55-64 years": {
-        "text": "10.81% (male 569/female 494)"
+        "text": "11.34% (male 584/female 500)"
       },
       "65 years and over": {
-        "text": "11.36% (male 551/female 567) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "11.76% (male 554/female 570) (2016 est.)"
       }
     },
     "Median age": {
       "total": {
-        "text": "35.25 years"
+        "text": "35.9 years"
       },
       "male": {
-        "text": "34.6 years"
+        "text": "35.3 years"
       },
       "female": {
-        "text": "35.7 years (2015 est.)"
+        "text": "36.4 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "-2.95% (2015 est.)"
+      "text": "-2.88% (2016 est.)"
     },
     "Birth rate": {
-      "text": "14.33 births/1,000 population (2015 est.)"
+      "text": "14.1 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "8.03 deaths/1,000 population (2015 est.)"
+      "text": "8.3 deaths/1,000 population (2016 est.)"
     },
     "Urbanization": {
       "urban population": {
@@ -171,51 +168,51 @@
         "text": "1.04 male(s)/female"
       },
       "0-14 years": {
-        "text": "1.13 male(s)/female"
+        "text": "1.12 male(s)/female"
       },
       "15-24 years": {
-        "text": "1.15 male(s)/female"
+        "text": "1.14 male(s)/female"
       },
       "25-54 years": {
-        "text": "1.01 male(s)/female"
+        "text": "1 male(s)/female"
       },
       "55-64 years": {
-        "text": "1.15 male(s)/female"
+        "text": "1.17 male(s)/female"
       },
       "65 years and over": {
         "text": "0.97 male(s)/female"
       },
       "total population": {
-        "text": "1.07 male(s)/female (2015 est.)"
+        "text": "1.07 male(s)/female (2016 est.)"
       }
     },
     "Infant mortality rate": {
       "total": {
-        "text": "13.87 deaths/1,000 live births"
+        "text": "13.5 deaths/1,000 live births"
       },
       "male": {
-        "text": "16.86 deaths/1,000 live births"
+        "text": "16.3 deaths/1,000 live births"
       },
       "female": {
-        "text": "10.73 deaths/1,000 live births (2015 est.)"
+        "text": "10.4 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "75.6 years"
+        "text": "75.8 years"
       },
       "male": {
-        "text": "72.78 years"
+        "text": "73 years"
       },
       "female": {
-        "text": "78.56 years (2015 est.)"
+        "text": "78.8 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "2.23 children born/woman (2015 est.)"
+      "text": "2.21 children born/woman (2016 est.)"
     },
     "Health expenditures": {
-      "text": "3.1% of GDP (2013)"
+      "text": "3.4% of GDP (2014)"
     },
     "Physicians density": {
       "text": "1.33 physicians/1,000 population (2009)"
@@ -249,17 +246,17 @@
       "text": "50% (2014)"
     },
     "Education expenditures": {
-      "text": "3.1% of GDP (2011)"
+      "text": "3.9% of GDP (2014)"
     },
     "School life expectancy (primary to tertiary education)": {
       "total": {
         "text": "15 years"
       },
       "male": {
-        "text": "16 years"
+        "text": "14 years"
       },
       "female": {
-        "text": "15 years (2012)"
+        "text": "17 years (2014)"
       }
     }
   },
@@ -270,13 +267,16 @@
       },
       "conventional short form": {
         "text": "Cook Islands"
+      },
+      "etymology": {
+        "text": "named after Captain James COOK, the British explorer who visited the islands in 1773 and 1777"
       }
     },
     "Dependency status": {
       "text": "self-governing in free association with New Zealand; Cook Islands is fully responsible for internal affairs; New Zealand retains responsibility for external affairs and defense in consultation with the Cook Islands"
     },
     "Government type": {
-      "text": "self-governing parliamentary democracy"
+      "text": "self-governing parliamentary democracy (Parliament of the Cook Islands) in free association with New Zealand"
     },
     "Capital": {
       "name": {
@@ -299,7 +299,7 @@
       "text": "Constitution Day, first Monday in August (1965)"
     },
     "Constitution": {
-      "text": "4 August 1965 (Cook Islands Constitution Act 1964); amended many times, last in 2004 (2015)"
+      "text": "4 August 1965 (Cook Islands Constitution Act 1964); amended many times, last in 2004 (2016)"
     },
     "Legal system": {
       "text": "common law similar to New Zealand common law"
@@ -337,7 +337,7 @@
     },
     "Judicial branch": {
       "highest resident court(s)": {
-        "text": "Court of Appeal (consists of the chief justice and 3 judges of the High Court); High Court (consists of the chief justice and at least 4 judges and organized into civil, criminal, and land divisions); note - appeals beyond the Cook Islands Court of Appeal are brought before the Judicial Committee of the Privy Council (in London)"
+        "text": "Court of Appeal (consists of the chief justice and 3 judges of the High Court); High Court (consists of the chief justice and at least 4 judges and organized into civil, criminal, and land divisions); note - appeals beyond the Cook Islands Court of Appeal are heard by  the Judicial Committee of the Privy Council (in London)"
       },
       "judge selection and term of office": {
         "text": "High Court chief justice appointed by the Queen's Representative on the advice of the Executive Council tendered by the prime minister; other judges appointed by the Queen's Representative, on the advice of the Executive Council tendered by the chief justice, High Court chief justice, and the minister of justice; chief justice and judges appointed for 3-year renewable terms"
@@ -387,16 +387,16 @@
       "text": "Like many other South Pacific island nations, the Cook Islands' economic development is hindered by the isolation of the country from foreign markets, the limited size of domestic markets, lack of natural resources, periodic devastation from natural disasters, and inadequate infrastructure. Agriculture, employing more than one-quarter of the working population, provides the economic base with major exports of copra and citrus fruit. Black pearls are the Cook Islands' leading export. Manufacturing activities are limited to fruit processing, clothing, and handicrafts. Trade deficits are offset by remittances from emigrants and by foreign aid overwhelmingly from New Zealand. In the 1980s and 1990s, the country lived beyond its means, maintaining a bloated public service and accumulating a large foreign debt. Subsequent reforms, including the sale of state assets, the strengthening of economic management, the encouragement of tourism, and a debt restructuring agreement, have rekindled investment and growth."
     },
     "GDP (purchasing power parity)": {
-      "text": "$183.2 million (2005 est.)"
+      "text": "$244.1 million (2010 est.) ++ $183.2 million (2005 est.)"
     },
     "GDP (official exchange rate)": {
-      "text": "$183.2 million (2005 est.)"
+      "text": "$244.1 million (2010 est.)"
     },
     "GDP - real growth rate": {
       "text": "0.1% (2005 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$9,100 (2005 est.)"
+      "text": "$12,300 (2010 est.) ++ $9,100 (2005 est.)"
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -448,17 +448,17 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$70.95 million"
+        "text": "$86.9 million"
       },
       "expenditures": {
-        "text": "$69.05 million (FY05/06)"
+        "text": "$77.9 million (2010)"
       }
     },
     "Taxes and other revenues": {
-      "text": "38.7% of GDP (FY05/06 est.)"
+      "text": "35.6% of GDP (2010 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "1% of GDP (FY05/06 est.)"
+      "text": "3.7% of GDP (2010 est.)"
     },
     "Fiscal year": {
       "text": "1 April - 31 March"
@@ -476,13 +476,13 @@
       "text": "$26.67 million (2005)"
     },
     "Exports": {
-      "text": "$3,000 (2011 est.) ++ $5.222 million (2005 est.)"
+      "text": "$3.125 million (2011 est.) ++ $5.163 million (2010 est.)"
     },
     "Exports - commodities": {
       "text": "copra, papayas, fresh and canned citrus fruit, coffee; fish; pearls and pearl shells; clothing"
     },
     "Imports": {
-      "text": "$83.49 million (2011 est.) ++ $80.55 million (2010 est.)"
+      "text": "$109.3 million (2011 est.) ++ $90.62 million (2010 est.)"
     },
     "Imports - commodities": {
       "text": "foodstuffs, textiles, fuels, timber, capital goods"
@@ -491,7 +491,7 @@
       "text": "$141 million (1996 est.)"
     },
     "Exchange rates": {
-      "text": "NZ dollars (NZD) per US dollar - ++ 1.2039 (2014 est.) ++ 1.2187 (2013 est.) ++ 1.23 (2012 est.) ++ 1.263 (2011 est.) ++ 1.3874 (2010)"
+      "text": "NZ dollars (NZD) per US dollar - ++ 1.4279 (2014 est.) ++ 1.2187 (2013 est.) ++ 1.2187 (2013 est.) ++ 1.23 (2012 est.) ++ 1.263 (2011 est.)"
     }
   },
   "Energy": {
@@ -579,7 +579,7 @@
         "text": "7,800"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "66 (2009)"
+        "text": "66 (July 2015 est.)"
       }
     },
     "Telephone system": {
@@ -596,25 +596,30 @@
     "Broadcast media": {
       "text": "1 privately owned TV station broadcasts from Rarotonga providing a mix of local news and overseas-sourced programs; a satellite program package is available; 6 radio stations broadcast with 1 reportedly reaching all of the islands (2009)"
     },
-    "Radio broadcast stations": {
-      "text": "AM 1, FM 1, shortwave 0 (2004)"
-    },
-    "Television broadcast stations": {
-      "text": "1 (outer islands receive satellite broadcasts) (2004)"
-    },
     "Internet country code": {
       "text": ".ck"
     },
     "Internet users": {
       "total": {
-        "text": "674"
+        "text": "6,000"
       },
       "percent of population": {
-        "text": "6.7% (2014 est.)"
+        "text": "61% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "1"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "1 (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "E5 (2016)"
+    },
     "Airports": {
       "text": "11 (2013)"
     },
@@ -637,7 +642,7 @@
         "text": "7"
       },
       "under 914 m": {
-        "text": " ++ 1 (2013)"
+        "text": "1 (2013)"
       }
     },
     "Roadways": {
@@ -668,25 +673,9 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
-      "text": "no regular military forces; National Police Department (2009)"
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "2,198"
-      },
-      "females age 16-49": {
-        "text": "2,156 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "127"
-      },
-      "female": {
-        "text": "107 (2010 est.)"
-      }
+      "text": "no regular military forces; National Police Department"
     },
     "Military - note": {
       "text": "defense is the responsibility of New Zealand in consultation with the Cook Islands and at its request"

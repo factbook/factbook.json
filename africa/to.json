@@ -53,12 +53,12 @@
     "Terrain": {
       "text": "gently rolling savanna in north; central hills; southern plateau; low coastal plain with extensive lagoons and marshes"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Atlantic Ocean 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "236 m"
       },
-      "highest point": {
-        "text": "Mont Agou 986 m"
+      "elevation extremes": {
+        "text": "lowest point: Atlantic Ocean 0 m ++ highest point: Mont Agou 986 m"
       }
     },
     "Natural resources": {
@@ -76,18 +76,7 @@
       }
     },
     "Irrigated land": {
-      "text": "73 sq km (2003)"
-    },
-    "Total renewable water resources": {
-      "text": "14.7 cu km (2011)"
-    },
-    "Freshwater withdrawal (domestic/industrial/agricultural)": {
-      "total": {
-        "text": "0.17  cu km/yr (63%/3%/34%)"
-      },
-      "per capita": {
-        "text": "33.46  cu m/yr (2005)"
-      }
+      "text": "70 sq km (2012)"
     },
     "Natural hazards": {
       "text": "hot, dry harmattan wind can reduce visibility in north during winter; periodic droughts"
@@ -108,6 +97,12 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "7,756,937",
+      "note": {
+        "text": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2016 est.)"
+      }
+    },
     "Nationality": {
       "noun": {
         "text": "Togolese (singular and plural)"
@@ -125,30 +120,24 @@
     "Religions": {
       "text": "Christian 29%, Muslim 20%, indigenous beliefs 51%"
     },
-    "Population": {
-      "text": "7,552,318",
-      "note": {
-        "text": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2015 est.)"
-      }
+    "Demographic profile": {
+      "text": "Togo’s population is estimated to have grown to four times its size between 1960 and 2010. With nearly 60% of its populace under the age of 25 and a high annual growth rate attributed largely to high fertility, Togo’s population is likely to continue to expand for the foreseeable future. Reducing fertility, boosting job creation, and improving education will be essential to reducing the country’s high poverty rate. In 2008, Togo eliminated primary school enrollment fees, leading to higher enrollment but increased pressure on limited classroom space, teachers, and materials. Togo has a good chance of achieving universal primary education, but educational quality, the underrepresentation of girls, and the low rate of enrollment in secondary and tertiary schools remain concerns. Togo is both a country of emigration and asylum. In the early 1990s, southern Togo suffered from the economic decline of the phosphate sector and ethnic and political repression at the hands of dictator Gnassingbe EYADEMA and his northern, Kabye-dominated administration. The turmoil led 300,000 to 350,000 predominantly southern Togolese to flee to Benin and Ghana, with most not returning home until relative stability was restored in 1997. In 2005, another outflow of 40,000 Togolese to Benin and Ghana occurred when violence broke out between the opposition and security forces over the disputed election of EYADEMA’s son Faure GNASSINGBE to the presidency. About half of the refugees reluctantly returned home in 2006, many still fearing for their safety. Despite ethnic tensions and periods of political unrest, Togo in 2016 was home to more than 18,000 refugees from Ghana."
     },
     "Age structure": {
       "0-14 years": {
-        "text": "40.56% (male 1,536,301/female 1,527,018)"
+        "text": "40.44% (male 1,573,363/female 1,563,267)"
       },
       "15-24 years": {
-        "text": "19.51% (male 735,409/female 738,276)"
+        "text": "19.34% (male 749,002/female 751,571)"
       },
       "25-54 years": {
-        "text": "32.37% (male 1,214,388/female 1,230,218)"
+        "text": "32.58% (male 1,255,524/female 1,271,804)"
       },
       "55-64 years": {
-        "text": "4.24% (male 150,890/female 169,158)"
+        "text": "4.27% (male 156,249/female 175,089)"
       },
       "65 years and over": {
-        "text": "3.32% (male 108,474/female 142,186) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "3.37% (male 112,845/female 148,223) (2016 est.)"
       }
     },
     "Dependency ratios": {
@@ -167,26 +156,26 @@
     },
     "Median age": {
       "total": {
-        "text": "19.6 years"
+        "text": "19.7 years"
       },
       "male": {
         "text": "19.4 years"
       },
       "female": {
-        "text": "19.9 years (2015 est.)"
+        "text": "20 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "2.69% (2015 est.)"
+      "text": "2.66% (2016 est.)"
     },
     "Birth rate": {
-      "text": "34.13 births/1,000 population (2015 est.)"
+      "text": "33.7 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "7.26 deaths/1,000 population (2015 est.)"
+      "text": "7.1 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "0 migrant(s)/1,000 population (2015 est.)"
+      "text": "0 migrant(s)/1,000 population (2016 est.)"
     },
     "Urbanization": {
       "urban population": {
@@ -219,7 +208,13 @@
         "text": "0.76 male(s)/female"
       },
       "total population": {
-        "text": "0.98 male(s)/female (2015 est.)"
+        "text": "0.98 male(s)/female (2016 est.)"
+      }
+    },
+    "Mother's mean age at first birth": {
+      "text": "21",
+      "note": {
+        "text": "median age at first birth among women 25-29 (2013/14 est.)"
       }
     },
     "Maternal mortality rate": {
@@ -227,34 +222,34 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "45.22 deaths/1,000 live births"
+        "text": "43.7 deaths/1,000 live births"
       },
       "male": {
-        "text": "51.76 deaths/1,000 live births"
+        "text": "50.1 deaths/1,000 live births"
       },
       "female": {
-        "text": "38.48 deaths/1,000 live births (2015 est.)"
+        "text": "37 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "64.51 years"
+        "text": "65 years"
       },
       "male": {
-        "text": "61.91 years"
+        "text": "62.3 years"
       },
       "female": {
-        "text": "67.17 years (2015 est.)"
+        "text": "67.7 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "4.48 children born/woman (2015 est.)"
+      "text": "4.43 children born/woman (2016 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "15.2% (2010)"
     },
     "Health expenditures": {
-      "text": "8.6% of GDP (2013)"
+      "text": "5.2% of GDP (2014)"
     },
     "Physicians density": {
       "text": "0.05 physicians/1,000 population (2008)"
@@ -279,13 +274,13 @@
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "2.4% (2014 est.)"
+      "text": "2.4% (2015 est.)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
-      "text": "113,700 (2014 est.)"
+      "text": "106,300 (2015 est.)"
     },
     "HIV/AIDS - deaths": {
-      "text": "4,300 (2014 est.)"
+      "text": "5,100 (2015 est.)"
     },
     "Major infectious diseases": {
       "degree of risk": {
@@ -304,20 +299,17 @@
         "text": "schistosomiasis"
       },
       "animal contact disease": {
-        "text": "rabies"
-      },
-      "note": {
-        "text": "highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2013)"
+        "text": "rabies (2016)"
       }
     },
     "Obesity - adult prevalence rate": {
       "text": "6.4% (2014)"
     },
     "Children under the age of 5 years underweight": {
-      "text": "16.5% (2010)"
+      "text": "16.2% (2014)"
     },
     "Education expenditures": {
-      "text": "4% of GDP (2012)"
+      "text": "4.8% of GDP (2014)"
     },
     "Literacy": {
       "definition": {
@@ -369,10 +361,13 @@
       },
       "former": {
         "text": "French Togoland"
+      },
+      "etymology": {
+        "text": "derived from the Ewe words \"to\" (water) and \"go\" (shore) to give the sense of \"by the water\"; originally, this designation applied to the town of Togo (now Togoville) on the northern shore of Lake Togo, but the name was eventually extended to the entire nation"
       }
     },
     "Government type": {
-      "text": "republic under transition to multiparty democratic rule"
+      "text": "presidential republic"
     },
     "Capital": {
       "name": {
@@ -395,13 +390,27 @@
       "text": "Independence Day, 27 April (1960)"
     },
     "Constitution": {
-      "text": "several previous; latest adopted 27 September 1992, effective 14 October 1992; amended 2002, 2007 (2015)"
+      "text": "several previous; latest adopted 27 September 1992, effective 14 October 1992; amended 2002, 2007 (2016)"
     },
     "Legal system": {
       "text": "customary law system"
     },
     "International law organization participation": {
       "text": "accepts compulsory ICJ jurisdiction with reservations; non-party state to the ICCt"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Togo"
+      },
+      "dual citizenship recognized": {
+        "text": "yes"
+      },
+      "residency requirement for naturalization": {
+        "text": "5 years"
+      }
     },
     "Suffrage": {
       "text": "18 years of age; universal"
@@ -420,7 +429,7 @@
         "text": "president directly elected by simple majority popular vote for a 5-year term (no term limits); election last held on 25 April 2015 (next to be held in 2020); prime minister appointed by the president"
       },
       "election results": {
-        "text": "Faure GNASSINGBE reelected president; percent of vote - Faure GNASSINGBE (UNIR) 58.8%, Jean-Pierre FABRE (ANC) 35.2%, Tchaboure GOGUE 3.1%, other 3.8%"
+        "text": "Faure GNASSINGBE reelected president; percent of vote - Faure GNASSINGBE (UNIR) 58.8%, Jean-Pierre FABRE (ANC) 35.2%, Tchaboure GOGUE 4%, other 2%"
       }
     },
     "Legislative branch": {
@@ -436,17 +445,17 @@
     },
     "Judicial branch": {
       "highest court(s)": {
-        "text": "Supreme Court or Cour Supreme (organized into the Criminal Chamber and the Administrative Chamber, each with a chamber president and advisors); Constitutional Court (consists of 9 judges including the court president)"
+        "text": "Supreme Court or Cour Supreme (organized into criminal and administrative chambers, each with a chamber president and advisors); Constitutional Court (consists of 9 judges including the court president)"
       },
       "judge selection and term of office": {
         "text": "Supreme Court president appointed by decree of the president of the republic upon the proposal of the Supreme Council of the Magistracy, a 9-member judicial, advisory, and disciplinary body; other judge appointments and judge tenure NA; Constitutional Court judges appointed by the National Assembly; judge tenure NA"
       },
       "subordinate courts": {
-        "text": "Court of Assizes (sessions court); appeals courts; tribunals of first instance (divided into civil, commercial, and correctional chambers; Court of State Security; military tribunal"
+        "text": "Court of Assizes (sessions court); Appeal Court; tribunals of first instance (divided into civil, commercial, and correctional chambers; Court of State Security; military tribunal"
       }
     },
     "Political parties and leaders": {
-      "text": "Action Committee for Renewal or CAR [Dodji APEVON] ++ Democratic Convention of African Peoples or CDPA [Leopold GNININVI, Secretary-General] ++ Movement of the Believers of Peace and Equality or MOCEP ++ National Alliance for Change or ANC [Jean-Pierre FABRE] ++ Pan-African Patriotic Convergence or CPP [Edem KODJO] ++ Rainbow Alliance (a coalition including: CAR and CDPA) [Brigitte Adjamagbo JOHNSON] ++ Rally for the Support for Development and Democracy or RSDD [Harry OLYMPIO] ++ Save Togo Collective or CST (a coalition including: ANC and PSR) [Ata Messan Zeus AJAVON ++ Socialist Pact for Renewal or PSR [Abi TCHESSA] ++ Union for Democracy and Social Progress or UDPS [Gagou KOKOU] ++ Union for the Republic or UNIR [Faure GNASSINGBE] (formerly the Rally of the Togolese People party) ++ Union of Forces for Change or UFC [Gilchrist OLYMPIO]"
+      "text": "Action Committee for Renewal or CAR [Dodji APEVON] ++ Democratic Convention of African Peoples or CDPA [Brigitte ADJAMAGBO-JOHNSON] ++ National Alliance for Change or ANC [Jean-Pierre FABRE] ++ Pan-African Patriotic Convergence or CPP [Edem KODJO] ++ Rainbow Alliance (a coalition including CAR and CDPA) [Brigitte ADJAMAGBO-JOHNSON] ++ Save Togo Collective or CST (a coalition including: ANC and PSR) [Ata Messan Zeus AJAVON ++ Socialist Pact for Renewal or PSR [Abi TCHESSA] ++ Union for Democracy and Social Progress or UDPS [Gagou KOKOU] ++ Union of Forces for Change or UFC [Gilchrist OLYMPIO] ++ Union for the Republic or UNIR [Faure GNASSINGBE]"
     },
     "Political pressure groups and leaders": {
       "text": "NA"
@@ -456,7 +465,7 @@
     },
     "Diplomatic representation in the US": {
       "chief of mission": {
-        "text": "Ambassador Limbiye Edawa Kadangha BARIKI (since 14 July 2009)"
+        "text": "Ambassador (vacant); Charge d'Affaires Yokoudema KADOKALIH (since 26 October 2015)"
       },
       "chancery": {
         "text": "2208 Massachusetts Avenue NW, Washington, DC 20008"
@@ -470,13 +479,13 @@
     },
     "Diplomatic representation from the US": {
       "chief of mission": {
-        "text": "Ambassador Robert E. WHITEHEAD (since 7 May 2012)"
+        "text": "Ambassador David R. GILMORE (since December 2015)"
       },
       "embassy": {
         "text": "4332 Blvd. Gnassingbe Eyadema, Cite OUA, Lome"
       },
       "mailing address": {
-        "text": "B. P. 852, Lome; 2300 Lome Place, Washington, DC 20521-2300"
+        "text": "B.P. 852, Lome; 2300 Lome Place, Washington, DC 20521-2300"
       },
       "telephone": {
         "text": "[228] 2261-5470"
@@ -508,58 +517,58 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "This small, sub-Saharan economy depends heavily on both commercial and subsistence agriculture, which provides employment for a significant share of the labor force. Some basic foodstuffs must still be imported. Cocoa, coffee, and cotton generate about 40% of export earnings with cotton being the most important cash crop. Togo is among the world's largest producers of phosphate and seeks to develop its carbonate phosphate reserves. The government's decade-long effort, supported by the World Bank and the IMF, to implement economic reform measures, encourage foreign investment, and bring revenues in line with expenditures has moved slowly. Progress depends on follow through on privatization, increased openness in government financial operations, progress toward legislative elections, and continued support from foreign donors. Foreign direct investment inflows have slowed over recent years. Togo completed its IMF Extended Credit Facility in 2011 and reached a Heavily Indebted Poor Country (HIPC) debt relief completion point in 2010 at which 95% of the country's debt was forgiven. Togo continues to work with the IMF on structural reforms."
+      "text": "This small, sub-Saharan economy depends heavily on both commercial and subsistence agriculture, which provides employment for a significant share of the labor force. Some basic foodstuffs must still be imported. Cocoa, coffee, and cotton generate about 40% of export earnings with cotton being the most important cash crop. Togo is among the world's largest producers of phosphate and seeks to develop its carbonate phosphate reserves. ++  ++ The government's decade-long effort, supported by the World Bank and the IMF, to implement economic reform measures, encourage foreign investment, and bring revenues in line with expenditures has moved slowly. Togo completed its IMF Extended Credit Facility in 2011 and reached a Heavily Indebted Poor Country debt relief completion point in 2010 at which 95% of the country's debt was forgiven. Togo continues to work with the IMF on structural reforms. Progress depends on follow through on privatization, increased openness in government financial operations, progress toward legislative elections, and continued support from foreign donors. ++  ++ Togo’s 2015 economic growth remained steady at 5.4%, largely driven by infusions of foreign aid, infrastructure investment in the port and mineral sectors, and improvements in the business climate. Foreign direct investment inflows have slowed in recent years."
     },
     "GDP (purchasing power parity)": {
-      "text": "$10.16 billion (2014 est.) ++ $9.678 billion (2013 est.) ++ $9.182 billion (2012 est.)",
+      "text": "$10.88 billion (2015 est.) ++ $10.32 billion (2014 est.) ++ $9.795 billion (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$4.594 billion (2014 est.)"
+      "text": "$4.169 billion (2015 est.)"
     },
     "GDP - real growth rate": {
-      "text": "5% (2014 est.) ++ 5.4% (2013 est.) ++ 5.9% (2012 est.)"
+      "text": "5.4% (2015 est.) ++ 5.4% (2014 est.) ++ 5.4% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$1,500 (2014 est.) ++ $1,400 (2013 est.) ++ $1,300 (2012 est.)",
+      "text": "$1,500 (2015 est.) ++ $1,500 (2014 est.) ++ $1,400 (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "Gross national saving": {
-      "text": "10.7% of GDP (2014 est.) ++ 10.5% of GDP (2013 est.) ++ 16.3% of GDP (2012 est.)"
+      "text": "18.2% of GDP (2015 est.) ++ 13.6% of GDP (2014 est.) ++ 10.5% of GDP (2013 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "86.2%"
+        "text": "113.2%"
       },
       "government consumption": {
-        "text": "14.6%"
+        "text": "16.7%"
       },
       "investment in fixed capital": {
-        "text": "21.5%"
+        "text": "21.8%"
       },
       "investment in inventories": {
-        "text": "28.1%"
+        "text": "0%"
       },
       "exports of goods and services": {
-        "text": "50.4%"
+        "text": "54.1%"
       },
       "imports of goods and services": {
-        "text": "-100.8% ++  (2014 est.)"
+        "text": "-105.8% (2015 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "30.4%"
+        "text": "28.5%"
       },
       "industry": {
-        "text": "20.2%"
+        "text": "20.9%"
       },
       "services": {
-        "text": "49.4% (2014 est.)"
+        "text": "50.6% (2015 est.)"
       }
     },
     "Agriculture - products": {
@@ -569,7 +578,7 @@
       "text": "phosphate mining, agricultural processing, cement, handicrafts, textiles, beverages"
     },
     "Industrial production growth rate": {
-      "text": "3.9% (2014 est.)"
+      "text": "9.1% (2015 est.)"
     },
     "Labor force": {
       "text": "2.595 million (2007 est.)"
@@ -601,26 +610,26 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$1.115 billion"
+        "text": "$1.061 billion"
       },
       "expenditures": {
-        "text": "$1.267 billion (2014 est.)"
+        "text": "$1.3 billion (2015 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "24.3% of GDP (2014 est.)"
+      "text": "25.5% of GDP (2015 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-3.3% of GDP (2014 est.)"
+      "text": "-5.7% of GDP (2015 est.)"
     },
     "Public debt": {
-      "text": "47.4% of GDP (2014 est.) ++ 46.8% of GDP (2013 est.)"
+      "text": "67.3% of GDP (2015 est.) ++ 59.6% of GDP (2014 est.)"
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Inflation rate (consumer prices)": {
-      "text": "0.2% (2014 est.) ++ 1.8% (2013 est.)"
+      "text": "1.8% (2015 est.) ++ 0.2% (2014 est.)"
     },
     "Central bank discount rate": {
       "text": "2.5% (31 December 2010) ++ 4.25% (31 December 2009)"
@@ -629,49 +638,63 @@
       "text": "NA%"
     },
     "Stock of narrow money": {
-      "text": "$1.036 billion (31 December 2014 est.) ++ $1.084 billion (31 December 2013 est.)"
+      "text": "$1.14 billion (31 December 2015 est.) ++ $1.036 billion (31 December 2014 est.)"
     },
     "Stock of broad money": {
-      "text": "$2.061 billion (31 December 2014 est.) ++ $2.035 billion (31 December 2013 est.)"
+      "text": "$2.017 billion (31 December 2015 est.) ++ $2.025 billion (31 December 2014 est.)"
     },
     "Stock of domestic credit": {
-      "text": "$1.642 billion (31 December 2014 est.) ++ $1.621 billion (31 December 2013 est.)"
+      "text": "$1.65 billion (31 December 2015 est.) ++ $1.642 billion (31 December 2014 est.)"
     },
     "Market value of publicly traded shares": {
       "text": "$NA"
     },
     "Current account balance": {
-      "text": "-$591 million (2014 est.) ++ -$567 million (2013 est.)"
+      "text": "-$295 million (2015 est.) ++ -$459 million (2014 est.)"
     },
     "Exports": {
-      "text": "$1.809 billion (2014 est.) ++ $1.736 billion (2013 est.)"
+      "text": "$1.246 billion (2015 est.) ++ $1.326 billion (2014 est.)"
     },
     "Exports - commodities": {
       "text": "reexports, cotton, phosphates, coffee, cocoa"
     },
     "Exports - partners": {
-      "text": "Burkina Faso 15.9%, Ghana 12.6%, India 10.5%, Nigeria 9%, Benin 8.5%, Niger 8.3%, Lebanon 4.8%, China 4.3% (2014)"
+      "text": "India 14.6%, Burkina Faso 11.3%, China 11.3%, Benin 9.6%, Ghana 9%, Lebanon 8.3%, Nigeria 6.1%, Niger 5.9% (2015)"
     },
     "Imports": {
-      "text": "$3.004 billion (2014 est.) ++ $2.573 billion (2013 est.)"
+      "text": "$1.881 billion (2015 est.) ++ $2.212 billion (2014 est.)"
     },
     "Imports - commodities": {
       "text": "machinery and equipment, foodstuffs, petroleum products"
     },
     "Imports - partners": {
-      "text": "China 24.8%, Belgium 19.2%, France 7.7%, India 6%, US 5.5%, Netherlands 4.1% (2014)"
+      "text": "China 22.9%, Belgium 20.3%, Netherlands 11.9%, France 6.6%, India 4.8%, Singapore 4.4% (2015)"
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$507 million (31 December 2014 est.) ++ $507.1 million (31 December 2013 est.)"
+      "text": "$574 million (31 December 2015 est.) ++ $507 million (31 December 2014 est.)"
     },
     "Debt - external": {
-      "text": "$984.4 million (31 December 2014 est.) ++ $903.3 million (31 December 2013 est.)"
+      "text": "$1.034 billion (31 December 2015 est.) ++ $995.2 million (31 December 2014 est.)"
     },
     "Exchange rates": {
-      "text": "Communaute Financiere Africaine francs (XOF) per US dollar - ++ 494.42 (2014 est.) ++ 494.42 (2013 est.) ++ 510.53 (2012 est.) ++ 471.87 (2011 est.) ++ 495.28 (2010 est.)"
+      "text": "Communaute Financiere Africaine francs (XOF) per US dollar - ++ 591.45 (2015 est.) ++ 494.42 (2014 est.) ++ 494.42 (2013 est.) ++ 510.53 (2012 est.) ++ 471.87 (2011 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "5,000,000"
+      },
+      "electrification - total population": {
+        "text": "27%"
+      },
+      "electrification - urban areas": {
+        "text": "35%"
+      },
+      "electrification - rural areas": {
+        "text": "21% (2013)"
+      }
+    },
     "Electricity - production": {
       "text": "109 million kWh (2012 est.)"
     },
@@ -745,18 +768,18 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "63,200"
+        "text": "52,690"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "1 (2014 est.)"
+        "text": "1 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "4.8 million"
+        "text": "4.657 million"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "66 (2014 est.)"
+        "text": "62 (July 2015 est.)"
       }
     },
     "Telephone system": {
@@ -764,34 +787,45 @@
         "text": "fair system based on a network of microwave radio relay routes supplemented by open-wire lines and a mobile-cellular system"
       },
       "domestic": {
-        "text": "microwave radio relay and open-wire lines for conventional system; combined fixed-line and mobile-cellular teledensity roughly 50 telephones per 100 persons with mobile-cellular use predominating"
+        "text": "microwave radio relay and open-wire lines for conventional system; combined fixed-line and mobile-cellular teledensity roughly 60 telephones per 100 persons with mobile-cellular use predominating"
       },
       "international": {
-        "text": "country code - 228; satellite earth stations - 1 Intelsat (Atlantic Ocean), 1 Symphonie (2010)"
+        "text": "country code - 228; satellite earth stations - 1 Intelsat (Atlantic Ocean), 1 Symphonie (2015)"
       }
     },
     "Broadcast media": {
       "text": "2 state-owned TV stations with multiple transmission sites; 5 private TV stations broadcast locally; cable TV service is available; state-owned radio network with multiple stations; several dozen private radio stations and a few community radio stations; transmissions of multiple international broadcasters available (2007)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM 2, FM 9, shortwave 4 (1998)"
-    },
-    "Television broadcast stations": {
-      "text": "3 (plus 2 repeaters) (1997)"
     },
     "Internet country code": {
       "text": ".tg"
     },
     "Internet users": {
       "total": {
-        "text": "336,000"
+        "text": "538,000"
       },
       "percent of population": {
-        "text": "4.6% (2014 est.)"
+        "text": "7.1% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "1"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "8"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "769,904"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "0 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "5V (2016)"
+    },
     "Airports": {
       "text": "8 (2013)"
     },
@@ -811,7 +845,7 @@
         "text": "4"
       },
       "under 914 m": {
-        "text": " ++ 2 (2013)"
+        "text": "2 (2013)"
       }
     },
     "Railways": {
@@ -853,39 +887,15 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "Togolese Armed Forces (Forces Armees Togolaise, FAT): Togolese Army (l'Armee de Terre), Togolese Navy (Forces Naval Togolaises), Togolese Air Force (Force Aerienne Togolaise, TAF), National Gendarmerie (2013)"
     },
     "Military service age and obligation": {
       "text": "18 years of age for compulsory and voluntary military service; 2-year service obligation (2012)"
     },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "1,577,572"
-      },
-      "females age 16-49": {
-        "text": "1,589,715 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "1,104,536"
-      },
-      "females age 16-49": {
-        "text": "1,158,061 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "74,036"
-      },
-      "female": {
-        "text": "73,515 (2010 est.)"
-      }
-    },
     "Military expenditures": {
-      "text": "NA% (2012) ++ 1.6% of GDP (2011) ++ NA% (2010)"
+      "text": "NA% (2012) ++ 1.6% of GDP (2011)"
     }
   },
   "Transnational Issues": {
@@ -894,10 +904,7 @@
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
-        "text": "18,444 (Ghana) (2014)"
-      },
-      "IDPs": {
-        "text": "undetermined (2015)"
+        "text": "18,476 (Ghana) (2015)"
       }
     },
     "Illicit drugs": {

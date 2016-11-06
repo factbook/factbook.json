@@ -48,12 +48,12 @@
     "Terrain": {
       "text": "mostly mountains and hills; some moderately sloping plains"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Great Usutu River 21 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "305 m"
       },
-      "highest point": {
-        "text": "Emlembe 1,862 m"
+      "elevation extremes": {
+        "text": "lowest point: Great Usutu River 21 m ++ highest point: Emlembe 1,862 m"
       }
     },
     "Natural resources": {
@@ -71,18 +71,7 @@
       }
     },
     "Irrigated land": {
-      "text": "498.5 sq km (2003)"
-    },
-    "Total renewable water resources": {
-      "text": "4.51 cu km (2011)"
-    },
-    "Freshwater withdrawal (domestic/industrial/agricultural)": {
-      "total": {
-        "text": "1.04  cu km/yr (4%/2%/94%)"
-      },
-      "per capita": {
-        "text": "962.1  cu m/yr (2005)"
-      }
+      "text": "500 sq km (2012)"
     },
     "Natural hazards": {
       "text": "drought"
@@ -103,6 +92,12 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "1,451,428",
+      "note": {
+        "text": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2016 est.)"
+      }
+    },
     "Nationality": {
       "noun": {
         "text": "Swazi(s)"
@@ -120,30 +115,24 @@
     "Religions": {
       "text": "Zionist 40% (a blend of Christianity and indigenous ancestral worship), Roman Catholic 20%, Muslim 10%, other 30% (includes Anglican, Baha'i, Methodist, Mormon, Jewish)"
     },
-    "Population": {
-      "text": "1,435,613",
-      "note": {
-        "text": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2015 est.)"
-      }
+    "Demographic profile": {
+      "text": "Swaziland, a small, predominantly rural, landlocked country surrounded by South Africa and Mozambique, suffers from severe poverty and the world’s highest HIV/AIDS prevalence rate. A weak and deteriorating economy, high unemployment, rapid population growth, and an uneven distribution of resources all combine to worsen already persistent poverty and food insecurity, especially in rural areas. Erratic weather (frequent droughts and intermittent heavy rains and flooding), overuse of small plots, the overgrazing of cattle, and outdated agricultural practices reduce crop yields and further degrade the environment, exacerbating Swaziland’s poverty and subsistence problems. Swaziland’s extremely high HIV/AIDS prevalence rate – more than 28% of adults have the disease – compounds these issues. Agricultural production has declined due to HIV/AIDS, as the illness causes households to lose manpower and to sell livestock and other assets to pay for medicine and funerals. Swazis, mainly men from the country’s rural south, have been migrating to South Africa to work in coal, and later gold, mines since the late 19th century. Although the number of miners abroad has never been high in absolute terms because of Swaziland’s small population, the outflow has had important social and economic repercussions. The peak of mining employment in South Africa occurred during the 1980s. Cross-border movement has accelerated since the 1990s, as increasing unemployment has pushed more Swazis to look for work in South Africa (creating a “brain drain” in the health and educational sectors); southern Swazi men have continued to pursue mining, although the industry has downsized. Women now make up an increasing share of migrants and dominate cross-border trading in handicrafts, using the proceeds to purchase goods back in Swaziland. Much of today’s migration, however, is not work-related but focuses on visits to family and friends, tourism, and shopping."
     },
     "Age structure": {
       "0-14 years": {
-        "text": "35.99% (male 261,213/female 255,489)"
+        "text": "35.5% (male 260,507/female 254,811)"
       },
       "15-24 years": {
-        "text": "22.26% (male 161,626/female 157,990)"
+        "text": "22.19% (male 162,880/female 159,229)"
       },
       "25-54 years": {
-        "text": "33.64% (male 249,233/female 233,703)"
+        "text": "34.12% (male 256,696/female 238,471)"
       },
       "55-64 years": {
-        "text": "4.26% (male 24,229/female 36,968)"
+        "text": "4.28% (male 24,758/female 37,399)"
       },
       "65 years and over": {
-        "text": "3.84% (male 21,582/female 33,580) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "3.9% (male 21,842/female 34,835) (2016 est.)"
       }
     },
     "Dependency ratios": {
@@ -162,26 +151,26 @@
     },
     "Median age": {
       "total": {
-        "text": "21.2 years"
+        "text": "21.4 years"
       },
       "male": {
-        "text": "21 years"
+        "text": "21.2 years"
       },
       "female": {
-        "text": "21.5 years (2015 est.)"
+        "text": "21.7 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "1.11% (2015 est.)"
+      "text": "1.1% (2016 est.)"
     },
     "Birth rate": {
-      "text": "24.67 births/1,000 population (2015 est.)"
+      "text": "24.3 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "13.56 deaths/1,000 population (2015 est.)"
+      "text": "13.4 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "0 migrant(s)/1,000 population (2015 est.)"
+      "text": "0 migrant(s)/1,000 population (2016 est.)"
     },
     "Urbanization": {
       "urban population": {
@@ -205,7 +194,7 @@
         "text": "1.02 male(s)/female"
       },
       "25-54 years": {
-        "text": "1.07 male(s)/female"
+        "text": "1.08 male(s)/female"
       },
       "55-64 years": {
         "text": "0.66 male(s)/female"
@@ -214,7 +203,13 @@
         "text": "0.64 male(s)/female"
       },
       "total population": {
-        "text": "1 male(s)/female (2015 est.)"
+        "text": "1 male(s)/female (2016 est.)"
+      }
+    },
+    "Mother's mean age at first birth": {
+      "text": "19.5",
+      "note": {
+        "text": "median age at first birth among women 25-29 (2006/07 est.)"
       }
     },
     "Maternal mortality rate": {
@@ -222,34 +217,34 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "52.57 deaths/1,000 live births"
+        "text": "50.4 deaths/1,000 live births"
       },
       "male": {
-        "text": "56.49 deaths/1,000 live births"
+        "text": "54.4 deaths/1,000 live births"
       },
       "female": {
-        "text": "48.53 deaths/1,000 live births (2015 est.)"
+        "text": "46.4 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "51.05 years"
-      },
-      "male": {
         "text": "51.6 years"
       },
+      "male": {
+        "text": "52.2 years"
+      },
       "female": {
-        "text": "50.5 years (2015 est.)"
+        "text": "51 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "2.8 children born/woman (2015 est.)"
+      "text": "2.74 children born/woman (2016 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "65.2% (2010)"
     },
     "Health expenditures": {
-      "text": "8.4% of GDP (2013)"
+      "text": "9.3% of GDP (2014)"
     },
     "Physicians density": {
       "text": "0.17 physicians/1,000 population (2009)"
@@ -274,13 +269,13 @@
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "27.73% (2014 est.)"
+      "text": "28.8% (2015 est.)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
-      "text": "214,300 (2014 est.)"
+      "text": "218,600 (2015 est.)"
     },
     "HIV/AIDS - deaths": {
-      "text": "3,500 (2014 est.)"
+      "text": "3,800 (2015 est.)"
     },
     "Major infectious diseases": {
       "degree of risk": {
@@ -293,17 +288,17 @@
         "text": "malaria"
       },
       "water contact disease": {
-        "text": "schistosomiasis (2013)"
+        "text": "schistosomiasis (2016)"
       }
     },
     "Obesity - adult prevalence rate": {
       "text": "14.8% (2014)"
     },
     "Children under the age of 5 years underweight": {
-      "text": "5.8% (2010)"
+      "text": "5.8% (2014)"
     },
     "Education expenditures": {
-      "text": "7.8% of GDP (2011)"
+      "text": "8.6% of GDP (2011)"
     },
     "Literacy": {
       "definition": {
@@ -327,15 +322,7 @@
         "text": "12 years"
       },
       "female": {
-        "text": "11 years (2011)"
-      }
-    },
-    "Child labor - children ages 5-14": {
-      "total number": {
-        "text": "28,043"
-      },
-      "percentage": {
-        "text": "9% (2000 est.)"
+        "text": "11 years (2013)"
       }
     }
   },
@@ -352,14 +339,17 @@
       },
       "local short form": {
         "text": "eSwatini"
+      },
+      "etymology": {
+        "text": "\"Land of the Swazi\" people; the name \"Swazi\" derives from 19th century King MSWATI II, under whose rule Swazi territory was expanded and unified"
       }
     },
     "Government type": {
-      "text": "monarchy"
+      "text": "absolute monarchy"
     },
     "Capital": {
       "name": {
-        "text": "Mbabane; note - Lobamba is the royal and legislative capital"
+        "text": "Mbabane (administrative capital); Lobamba (royal and legislative capital)"
       },
       "geographic coordinates": {
         "text": "26 19 S, 31 08 E"
@@ -378,13 +368,27 @@
       "text": "Independence Day, 6 September (1968)"
     },
     "Constitution": {
-      "text": "previous 1968, 1978; latest signed by the king 26 July 2005, effective 8 February 2006 (2015)"
+      "text": "previous 1968, 1978; latest signed by the king 26 July 2005, effective 8 February 2006 (2016)"
     },
     "Legal system": {
       "text": "mixed legal system of civil, common, and customary law"
     },
     "International law organization participation": {
       "text": "accepts compulsory ICJ jurisdiction with reservations; non-party state to the ICCt"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "both parents must be citizens of Swaziland"
+      },
+      "dual citizenship recognized": {
+        "text": "no"
+      },
+      "residency requirement for naturalization": {
+        "text": "5 years"
+      }
     },
     "Suffrage": {
       "text": "18 years of age"
@@ -419,7 +423,7 @@
         "text": "the Supreme Court of the Judicature comprising the Supreme Court (consists of the chief justice and at least 5 justices) and the High Court (consists of the chief justice - ex officio - and at least 4 justices); note - the Supreme Court has jurisdiction in all constitutional matters"
       },
       "judge selection and term of office": {
-        "text": "justices of the Supreme Court of the Judicature are appointed by the monarch on the advice of the Judicial Service Commission or JCS, a judicial advisory body consisting of the Supreme Court Chief Justice, 4 members appointed by the monarch, and the JCS head; justices of both courts eligible for retirement at age 65 with mandatory retirement at age 75 for Supreme Court justices and at age 70 for High Court justices"
+        "text": "justices of the Supreme Court of the Judicature appointed by the monarch on the advice of the Judicial Service Commission or JCS, a judicial advisory body consisting of the Supreme Court Chief Justice, 4 members appointed by the monarch, and the JCS head; justices of both courts eligible for retirement at age 65 with mandatory retirement at age 75 for Supreme Court justices and at age 70 for High Court justices"
       },
       "subordinate courts": {
         "text": "magistrates' courts; National Swazi Courts for administering customary/traditional laws (jurisdiction restricted to customary law for Swazi citizens)"
@@ -429,7 +433,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "the status of political parties, previously banned, is unclear under the 2006 Constitution; the following are considered political associations: ++ African United Democratic Party or AUDP [Stanley MAUNDZISA, president] ++ Ngwane National Liberatory Congress or NNLC [Alvit DLAMINI, president] ++ People's United Democratic Movement or PUDEMO [Mario MASUKU, president]"
+      "text": "the status of political parties, previously banned, is unclear under the 2006 Constitution; the following are considered political associations: ++ African United Democratic Party or AUDP [Stanley MAUNDZISA] ++ Ngwane National Liberatory Congress or NNLC [Alvit DLAMINI] ++ People's United Democratic Movement or PUDEMO [Mario MASUKU] ++ Swaziland Democratic Party ro SWADEPA [Jan SITHOLE]"
     },
     "Political pressure groups and leaders": {
       "text": "Swaziland Democracy Campaign ++ Swaziland Federation of Trade Unions ++ Swaziland Solidarity Network or SSN"
@@ -453,19 +457,19 @@
     },
     "Diplomatic representation from the US": {
       "chief of mission": {
-        "text": "Ambassador Makila JAMES (since 20 September 2012)"
+        "text": "Ambassador Lisa PETERSON (since January 2016)"
       },
       "embassy": {
-        "text": "7th Floor, Central Bank Building, Mahlokohla St., Mbabane"
+        "text": "corner of MR 103 and Cultural Center Drive, Ezulwini"
       },
       "mailing address": {
-        "text": "P. O. Box 199, Mbabane"
+        "text": "P.O. Box D202, The Gables, H106"
       },
       "telephone": {
-        "text": "[268] 404-6441"
+        "text": "[268] 2417-9000"
       },
       "FAX": {
-        "text": "[268] 404-5959"
+        "text": "[268] 2416-3344"
       }
     },
     "Flag description": {
@@ -488,58 +492,58 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Surrounded by South Africa, except for a short border with Mozambique, Swaziland depends heavily on South Africa for more than 90% of its imports and for 60% of its exports. Swaziland's currency is pegged to the South African rand, effectively relinquishing Swaziland's monetary policy to South Africa. The government is heavily dependent on customs duties from the Southern African Customs Union, and worker remittances from South Africa supplement domestically earned income. Swaziland’s GDP per capita makes it a lower middle income country, but its income distribution is highly skewed, with an estimated 20% of the population controlling 80% of the nation’s wealth. Subsistence agriculture employs approximately 70% of the population. The manufacturing sector diversified in the 1980s and 1990s, but manufacturing has grown little in the last decade. Sugar and wood pulp had been major foreign exchange earners until the wood pulp producer closed in January 2010, and sugar is now the main export earner. Mining has declined in importance in recent years. Coal, gold, diamond, and quarry stone mines are small-scale, and the only iron ore mine closed in 2014. With an estimated 40% unemployment rate, Swaziland's need to increase the number and size of small and medium enterprises and to attract foreign direct investment is acute. Overgrazing, soil depletion, drought, and floods are persistent problems. On 1 January 2015, Swaziland lost its eligibility for benefits under the African Growth and Opportunity Act (AGOA), threatening the remaining 12,000 jobs in the textile and apparel sector, after 3,000 jobs were lost since the 2014 announcement of the loss of AGOA. As of 2013 more than one-quarter of the adult population was infected by HIV/AIDS; Swaziland has the world’s highest HIV prevalence rate."
+      "text": "Surrounded by South Africa, except for a short border with Mozambique, Swaziland depends on South Africa for 60% of its exports and for more than 90% of its imports. Swaziland's currency is pegged to the South African rand, effectively relinquishing Swaziland's monetary policy to South Africa. The government is heavily dependent on customs duties from the Southern African Customs Union (SACU), and worker remittances from South Africa supplement domestically earned income. Swaziland’s GDP per capita makes it a lower middle income country, but its income distribution is highly skewed, with an estimated 20% of the population controlling 80% of the nation’s wealth. As of 2014, more than one-quarter of the adult population was infected by HIV/AIDS; Swaziland has the world’s highest HIV prevalence rate. ++  ++ Subsistence agriculture employs approximately 70% of the population. The manufacturing sector diversified in the 1980s and 1990s, but manufacturing has grown little in the last decade. Sugar and wood pulp had been major foreign exchange earners until the wood pulp producer closed in January 2010, and sugar is now the main export earner. Mining has declined in importance in recent years. Coal, gold, diamond, and quarry stone mines are small scale, and the only iron ore mine closed in 2014. ++  ++ With an estimated 40% unemployment rate, Swaziland's need to increase the number and size of small and medium enterprises and to attract foreign direct investment is acute. Overgrazing, soil depletion, drought, and floods are persistent problems. On 1 January 2015, Swaziland lost its eligibility for benefits under the US African Growth and Opportunity Act, resulting in the loss of thousands of jobs. ++  ++ The IMF forecasted that Swaziland’s economy will grow at a slower pace in 2016/2017 because of a region-wide drought, which is likely to hurt Swaziland’s revenue from sugar exports and other agricultural products, and a decline in the tourism and transport sectors. Swaziland’s revenue from SACU receipts and remittances from Swazi citizens abroad will also decline in 2016/2017, making it harder to maintain fiscal balance."
     },
     "GDP (purchasing power parity)": {
-      "text": "$10.56 billion (2014 est.) ++ $10.31 billion (2013 est.) ++ $10.01 billion (2012 est.)",
+      "text": "$10.87 billion (2015 est.) ++ $10.69 billion (2014 est.) ++ $10.43 billion (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$4.416 billion (2014 est.)"
+      "text": "$4.025 billion (2015 est.)"
     },
     "GDP - real growth rate": {
-      "text": "2.5% (2014 est.) ++ 2.9% (2013 est.) ++ 3% (2012 est.)"
+      "text": "1.7% (2015 est.) ++ 2.5% (2014 est.) ++ 2.9% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$9,600 (2014 est.) ++ $9,300 (2013 est.) ++ $9,100 (2012 est.)",
+      "text": "$9,700 (2015 est.) ++ $9,700 (2014 est.) ++ $9,500 (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "Gross national saving": {
-      "text": "12.2% of GDP (2014 est.) ++ 12.9% of GDP (2013 est.) ++ 8.6% of GDP (2012 est.)"
+      "text": "18.1% of GDP (2015 est.) ++ 12.4% of GDP (2014 est.) ++ 12.7% of GDP (2013 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "75.5%"
+        "text": "79.1%"
       },
       "government consumption": {
-        "text": "24.1%"
+        "text": "20.4%"
       },
       "investment in fixed capital": {
-        "text": "12.6%"
+        "text": "10.3%"
       },
       "investment in inventories": {
-        "text": "0%"
+        "text": "-0.1%"
       },
       "exports of goods and services": {
-        "text": "55.1%"
+        "text": "37.1%"
       },
       "imports of goods and services": {
-        "text": "-67.3% ++  (2014 est.)"
+        "text": "-46.9% (2015 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "11.9%"
+        "text": "6.6%"
       },
       "industry": {
-        "text": "46.8%"
+        "text": "43.9%"
       },
       "services": {
-        "text": "41.3% (2014 est.)"
+        "text": "49.6% (2015 est.)"
       }
     },
     "Agriculture - products": {
@@ -549,7 +553,7 @@
       "text": "coal, forestry, sugar, soft drink concentrates, textiles and apparel"
     },
     "Industrial production growth rate": {
-      "text": "2.1% (2014 est.)"
+      "text": "1.1% (2015 est.)"
     },
     "Labor force": {
       "text": "446,100 (2013 est.)"
@@ -584,62 +588,62 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$1.364 billion"
+        "text": "$1.121 billion"
       },
       "expenditures": {
-        "text": "$1.447 billion (2014 est.)"
+        "text": "$1.387 billion (2015 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "30.9% of GDP (2014 est.)"
+      "text": "27.8% of GDP (2015 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-1.9% of GDP (2014 est.)"
+      "text": "-6.6% of GDP (2015 est.)"
     },
     "Fiscal year": {
       "text": "1 April - 31 March"
     },
     "Inflation rate (consumer prices)": {
-      "text": "5.7% (2014 est.) ++ 5.6% (2013 est.)"
+      "text": "5% (2015 est.) ++ 5.7% (2014 est.)"
     },
     "Central bank discount rate": {
       "text": "6.5% (31 December 2010) ++ 6.5% (31 December 2009)"
     },
     "Commercial bank prime lending rate": {
-      "text": "8.63% (31 December 2014 est.) ++ 8.5% (31 December 2013 est.)"
+      "text": "9.04% (31 December 2015 est.) ++ 8.63% (31 December 2014 est.)"
     },
     "Stock of narrow money": {
-      "text": "$367.8 million (31 December 2014 est.) ++ $419.6 million (31 December 2013 est.)"
+      "text": "$304.6 million (31 December 2015 est.) ++ $367.8 million (31 December 2014 est.)"
     },
     "Stock of broad money": {
-      "text": "$1.109 billion (31 December 2014 est.) ++ $1.068 billion (31 December 2013 est.)"
+      "text": "$825.6 million (31 December 2015 est.) ++ $1.008 billion (31 December 2014 est.)"
     },
     "Stock of domestic credit": {
-      "text": "$685 million (31 December 2014 est.) ++ $643.9 million (31 December 2013 est.)"
+      "text": "$557.8 million (31 December 2015 est.) ++ $685 million (31 December 2014 est.)"
     },
     "Market value of publicly traded shares": {
       "text": "$NA ++ $203.1 million (31 December 2007) ++ $199.9 million (31 December 2006)"
     },
     "Current account balance": {
-      "text": "$128 million (2014 est.) ++ $239 million (2013 est.)"
+      "text": "$370 million (2015 est.) ++ $145 million (2014 est.)"
     },
     "Exports": {
-      "text": "$1.803 billion (2014 est.) ++ $1.861 billion (2013 est.)"
+      "text": "$1.763 billion (2015 est.) ++ $1.803 billion (2014 est.)"
     },
     "Exports - commodities": {
       "text": "soft drink concentrates, sugar, timber, cotton yarn, refrigerators, citrus and canned fruit"
     },
     "Imports": {
-      "text": "$1.687 billion (2014 est.) ++ $1.692 billion (2013 est.)"
+      "text": "$1.603 billion (2015 est.) ++ $1.687 billion (2014 est.)"
     },
     "Imports - commodities": {
       "text": "motor vehicles, machinery, transport equipment, foodstuffs, petroleum products, chemicals"
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$690.8 million (31 December 2014 est.) ++ $762.5 million (31 December 2013 est.)"
+      "text": "$548 million (31 December 2015 est.) ++ $690.8 million (31 December 2014 est.)"
     },
     "Debt - external": {
-      "text": "$561.3 million (31 December 2014 est.) ++ $463.6 million (31 December 2013 est.)"
+      "text": "$440.1 million (31 December 2015 est.) ++ $438.4 million (31 December 2014 est.)"
     },
     "Stock of direct foreign investment - at home": {
       "text": "$NA"
@@ -648,10 +652,24 @@
       "text": "$NA"
     },
     "Exchange rates": {
-      "text": "emalangeni per US dollar - ++ 10.8469 (2014 est.) ++ 10.8469 (2013 est.) ++ 8.2 (2012 est.) ++ 7.2597 (2011 est.) ++ 7.3212 (2010 est.)"
+      "text": "emalangeni per US dollar - ++ 12.7581 (2015 est.) ++ 10.8469 (2014 est.) ++ 10.8469 (2013 est.) ++ 8.2 (2012 est.) ++ 7.2597 (2011 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "900,000"
+      },
+      "electrification - total population": {
+        "text": "27%"
+      },
+      "electrification - urban areas": {
+        "text": "40%"
+      },
+      "electrification - rural areas": {
+        "text": "24% (2013)"
+      }
+    },
     "Electricity - production": {
       "text": "425 million kWh (2012 est.)"
     },
@@ -725,18 +743,18 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "44,400"
+        "text": "43,000"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "3 (2014 est.)"
+        "text": "3 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "916,800"
+        "text": "941,000"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "65 (2014 est.)"
+        "text": "66 (July 2015 est.)"
       }
     },
     "Telephone system": {
@@ -744,34 +762,45 @@
         "text": "a somewhat modern but not an advanced system"
       },
       "domestic": {
-        "text": "single source for mobile-cellular service with a geographic coverage of about 90% and a rising subscribership base; combined fixed-line and mobile cellular teledensity roughly 60 telephones per 100 persons in 2011; telephone system consists of carrier-equipped, open-wire lines and low-capacity, microwave radio relay"
+        "text": "single source for mobile-cellular service with a geographic coverage of about 90% and a rising subscribership base; combined fixed-line and mobile cellular teledensity roughly 70 telephones per 100 persons in 2015; telephone system consists of carrier-equipped, open-wire lines and low-capacity, microwave radio relay"
       },
       "international": {
-        "text": "country code - 268; satellite earth station - 1 Intelsat (Atlantic Ocean) (2009)"
+        "text": "country code - 268; satellite earth station - 1 Intelsat (Atlantic Ocean) (2015)"
       }
     },
     "Broadcast media": {
       "text": "state-owned TV station; satellite dishes are able to access South African providers; state-owned radio network with 3 channels; 1 private radio station (2007)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM 3, FM 2 (plus 4 repeaters), shortwave 3 (2004)"
-    },
-    "Television broadcast stations": {
-      "text": "12 (includes 7 relay stations) (2004)"
     },
     "Internet country code": {
       "text": ".sz"
     },
     "Internet users": {
       "total": {
-        "text": "337,300"
+        "text": "436,000"
       },
       "percent of population": {
-        "text": "23.8% (2014 est.)"
+        "text": "30.4% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "1"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "1"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "89,791"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "0 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "3D (2016)"
+    },
     "Airports": {
       "text": "14 (2013)"
     },
@@ -794,7 +823,7 @@
         "text": "5"
       },
       "under 914 m": {
-        "text": " ++ 7 (2013)"
+        "text": "7 (2013)"
       }
     },
     "Railways": {
@@ -817,33 +846,12 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "Umbutfo Swaziland Defense Force (USDF): Ground Force (includes Air Wing (no operational aircraft)) (2013)"
     },
     "Military service age and obligation": {
       "text": "18-30 years of age for male and female voluntary military service; no conscription; compulsory HIV testing required, only HIV-negative applicants accepted (2012)"
-    },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "344,038 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "201,853"
-      },
-      "females age 16-49": {
-        "text": "175,477 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "16,168"
-      },
-      "female": {
-        "text": "15,763 (2010 est.)"
-      }
     },
     "Military expenditures": {
       "text": "3.17% of GDP (2012) ++ 3.11% of GDP (2011) ++ 3.17% of GDP (2010)"

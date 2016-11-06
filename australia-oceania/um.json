@@ -174,12 +174,9 @@
     "Terrain": {
       "text": "low and nearly flat sandy coral islands with narrow fringing reefs that have developed at the top of submerged volcanic mountains, which in most cases rise steeply from the ocean floor"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Pacific Ocean 0 m"
-      },
-      "highest point": {
-        "text": "Baker Island, unnamed location - 8 m; Howland Island, unnamed location - 3 m; Jarvis Island, unnamed location - 7 m; Johnston Atoll, Sand Island - 10 m; Kingman Reef, unnamed location - less than 2 m; Midway Islands, unnamed location - 13 m; Palmyra Atoll, unnamed location - 3 m"
+    "Elevation": {
+      "elevation extremes": {
+        "text": "lowest point: Pacific Ocean 0 m ++ highest point: Baker Island, unnamed location - 8 m; Howland Island, unnamed location - 3 m; Jarvis Island, unnamed location - 7 m; Johnston Atoll, Sand Island - 10 m; Kingman Reef, unnamed location - less than 2 m; Midway Islands, unnamed location - 13 m; Palmyra Atoll, unnamed location - 3 m"
       }
     },
     "Natural resources": {
@@ -242,6 +239,9 @@
       "note": {
         "text": "public entry is only by special-use permit from US Fish and Wildlife Service and generally restricted to scientists and educators; visited annually by US Fish and Wildlife Service"
       },
+      "Jarvis Island": {
+        "text": "Millersville settlement on western side of island occasionally used as a weather station from 1935 until World War II, when it was abandoned; reoccupied in 1957 during the International Geophysical Year by scientists who left in 1958; currently unoccupied"
+      },
       "Johnston Atoll": {
         "text": "in previous years, an average of 1,100 US military and civilian contractor personnel were present; as of May 2005, all US Government personnel had left the island"
       },
@@ -260,6 +260,9 @@
       },
       "conventional short form": {
         "text": "Baker Island; Howland Island; Jarvis Island; Johnston Atoll; Kingman Reef; Midway Islands; Palmyra Atoll"
+      },
+      "etymology": {
+        "text": "self-descriptive name specifying the territories' affiliation and location"
       }
     },
     "Dependency status": {
@@ -304,6 +307,16 @@
         "text": "1 - 1,846 m unpaved runway; privately owned (2013)"
       }
     },
+    "Airports - with paved runways": {
+      "2,438 to 3,047 m": {
+        "text": "1 - Johnston Atoll; note - abandoned but usable (2016)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "1,524 to 2,437 m": {
+        "text": "1 - Palmyra Atoll (2016)"
+      }
+    },
     "Ports and terminals": {
       "major seaport(s)": {
         "text": ""
@@ -322,7 +335,7 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military - note": {
       "text": "defense is the responsibility of the US"
     }

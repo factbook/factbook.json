@@ -48,12 +48,12 @@
     "Terrain": {
       "text": "narrow elongated plateau with rolling plains, rounded hills, some mountains"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "junction of the Shire River and international boundary with Mozambique 37 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "779 m"
       },
-      "highest point": {
-        "text": "Sapitwa (Mount Mlanje) 3,002 m"
+      "elevation extremes": {
+        "text": "lowest point: junction of the Shire River and international boundary with Mozambique 37 m ++ highest point: Sapitwa (Mount Mlanje) 3,002 m"
       }
     },
     "Natural resources": {
@@ -71,18 +71,7 @@
       }
     },
     "Irrigated land": {
-      "text": "735 sq km (2006)"
-    },
-    "Total renewable water resources": {
-      "text": "17.28 cu km (2011)"
-    },
-    "Freshwater withdrawal (domestic/industrial/agricultural)": {
-      "total": {
-        "text": "1.36  cu km/yr (11%/4%/86%)"
-      },
-      "per capita": {
-        "text": "99.86  cu m/yr (2005)"
-      }
+      "text": "740 sq km (2012)"
     },
     "Natural hazards": {
       "text": "NA"
@@ -103,6 +92,12 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "18,570,321",
+      "note": {
+        "text": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2016 est.)"
+      }
+    },
     "Nationality": {
       "noun": {
         "text": "Malawian(s)"
@@ -120,30 +115,24 @@
     "Religions": {
       "text": "Christian 82.6%, Muslim 13%, other 1.9%, none 2.5% (2008 est.)"
     },
-    "Population": {
-      "text": "17,964,697",
-      "note": {
-        "text": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2015 est.)"
-      }
+    "Demographic profile": {
+      "text": "Malawi has made great improvements in maternal and child health, but has made less progress in reducing its high fertility rate. In both rural and urban areas, very high proportions of mothers are receiving prenatal care and skilled birth assistance, and most children are being vaccinated. Malawi’s fertility rate, however, has only declined slowly, decreasing from more than 7 children per woman in the 1980s to about 5.5 today. Nonetheless, Malawians prefer smaller families than in the past, and women are increasingly using contraceptives to prevent or space pregnancies. Rapid population growth and high population density is putting pressure on Malawi’s land, water, and forest resources. Reduced plot sizes and increasing vulnerability to climate change, further threaten the sustainability of Malawi’s agriculturally based economy and will worsen food shortages. About 80% of the population is employed in agriculture. Historically, Malawians migrated abroad in search of work, primarily to South Africa and present-day Zimbabwe, but international migration became uncommon after the 1970s, and most migration in recent years has been internal. During the colonial period, Malawians regularly migrated to southern Africa as contract farm laborers, miners, and domestic servants. In the decade and a half after independence in 1964, the Malawian Government sought to transform its economy from one dependent on small-scale farms to one based on estate agriculture. The resulting demand for wage labor induced more than 300,000 Malawians to return home between the mid-1960s and the mid-1970s. In recent times, internal migration has generally been local, motivated more by marriage than economic reasons."
     },
     "Age structure": {
       "0-14 years": {
-        "text": "46.73% (male 4,175,706/female 4,218,955)"
+        "text": "46.53% (male 4,299,076/female 4,341,129)"
       },
       "15-24 years": {
-        "text": "20.38% (male 1,820,047/female 1,841,331)"
+        "text": "20.49% (male 1,889,240/female 1,915,843)"
       },
       "25-54 years": {
-        "text": "27.14% (male 2,418,126/female 2,457,419)"
+        "text": "27.26% (male 2,512,247/female 2,549,766)"
       },
       "55-64 years": {
-        "text": "3.06% (male 262,067/female 287,637)"
+        "text": "3.03% (male 268,691/female 294,713)"
       },
       "65 years and over": {
-        "text": "2.69% (male 213,735/female 269,674) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "2.69% (male 220,608/female 279,008) (2016 est.)"
       }
     },
     "Dependency ratios": {
@@ -162,26 +151,26 @@
     },
     "Median age": {
       "total": {
-        "text": "16.4 years"
+        "text": "16.5 years"
       },
       "male": {
         "text": "16.3 years"
       },
       "female": {
-        "text": "16.5 years (2015 est.)"
+        "text": "16.6 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "3.32% (2015 est.)"
+      "text": "3.32% (2016 est.)"
     },
     "Birth rate": {
-      "text": "41.56 births/1,000 population (2015 est.)"
+      "text": "41.3 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "8.41 deaths/1,000 population (2015 est.)"
+      "text": "8.1 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "0 migrant(s)/1,000 population (2015 est.)"
+      "text": "0 migrant(s)/1,000 population (2016 est.)"
     },
     "Urbanization": {
       "urban population": {
@@ -205,7 +194,7 @@
         "text": "0.99 male(s)/female"
       },
       "25-54 years": {
-        "text": "0.98 male(s)/female"
+        "text": "0.99 male(s)/female"
       },
       "55-64 years": {
         "text": "0.91 male(s)/female"
@@ -214,7 +203,13 @@
         "text": "0.79 male(s)/female"
       },
       "total population": {
-        "text": "0.98 male(s)/female (2015 est.)"
+        "text": "0.98 male(s)/female (2016 est.)"
+      }
+    },
+    "Mother's mean age at first birth": {
+      "text": "18.9",
+      "note": {
+        "text": "median age at first birth among women 25-29 (2010 est.)"
       }
     },
     "Maternal mortality rate": {
@@ -222,34 +217,34 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "46.26 deaths/1,000 live births"
+        "text": "44.8 deaths/1,000 live births"
       },
       "male": {
-        "text": "53.07 deaths/1,000 live births"
+        "text": "51.5 deaths/1,000 live births"
       },
       "female": {
-        "text": "39.35 deaths/1,000 live births (2015 est.)"
+        "text": "38 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "60.66 years"
+        "text": "61.2 years"
       },
       "male": {
-        "text": "58.67 years"
+        "text": "59.2 years"
       },
       "female": {
-        "text": "62.69 years (2015 est.)"
+        "text": "63.2 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "5.6 children born/woman (2015 est.)"
+      "text": "5.54 children born/woman (2016 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "46.1% (2010)"
     },
     "Health expenditures": {
-      "text": "8.3% of GDP (2013)"
+      "text": "11.4% of GDP (2014)"
     },
     "Physicians density": {
       "text": "0.02 physicians/1,000 population (2009)"
@@ -274,13 +269,13 @@
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "10.04% (2014 est.)"
+      "text": "9.11% (2015 est.)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
-      "text": "1,063,900 (2014 est.)"
+      "text": "976,300 (2015 est.)"
     },
     "HIV/AIDS - deaths": {
-      "text": "32,600 (2014 est.)"
+      "text": "26,700 (2015 est.)"
     },
     "Major infectious diseases": {
       "degree of risk": {
@@ -296,17 +291,17 @@
         "text": "schistosomiasis"
       },
       "animal contact disease": {
-        "text": "rabies (2013)"
+        "text": "rabies (2016)"
       }
     },
     "Obesity - adult prevalence rate": {
       "text": "4.3% (2014)"
     },
     "Children under the age of 5 years underweight": {
-      "text": "13.8% (2010)"
+      "text": "16.7% (2014)"
     },
     "Education expenditures": {
-      "text": "5.4% of GDP (2011)"
+      "text": "6.9% of GDP (2014)"
     },
     "Literacy": {
       "definition": {
@@ -340,6 +335,17 @@
       "percentage": {
         "text": "26% (2006 est.)"
       }
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": {
+        "text": "8.6%"
+      },
+      "male": {
+        "text": "9.1%"
+      },
+      "female": {
+        "text": "8.2% (2013 est.)"
+      }
     }
   },
   "Government": {
@@ -358,10 +364,13 @@
       },
       "former": {
         "text": "British Central African Protectorate, Nyasaland Protectorate, Nyasaland"
+      },
+      "etymology": {
+        "text": "named for the East African Maravi kingdom of the 16th century; the word \"maravi\" means \"fire flames\""
       }
     },
     "Government type": {
-      "text": "multiparty democracy"
+      "text": "presidential republic"
     },
     "Capital": {
       "name": {
@@ -384,13 +393,27 @@
       "text": "Independence Day (Republic Day), 6 July (1964)"
     },
     "Constitution": {
-      "text": "previous 1953 (preindependence), 1966; latest drafted January to May 1994, approved 16 May 1994, entered into force 18 May 1995; amended several times, last in 2013 (2015)"
+      "text": "previous 1953 (preindependence), 1966; latest drafted January to May 1994, approved 16 May 1994, entered into force 18 May 1995; amended several times, last in 2013 (2016)"
     },
     "Legal system": {
       "text": "mixed legal system of English common law and customary law; judicial review of legislative acts in the Supreme Court of Appeal"
     },
     "International law organization participation": {
       "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Malawi"
+      },
+      "dual citizenship recognized": {
+        "text": "no"
+      },
+      "residency requirement for naturalization": {
+        "text": "7 years"
+      }
     },
     "Suffrage": {
       "text": "18 years of age; universal"
@@ -435,7 +458,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Alliance for Democracy or AFORD [Godfrey SHAWA] ++ Chipani Cha Fuko or CCP [Davis KATSONGA PHIRI] ++ Democratic Progressive Party or DPP [Peter MUTHARIKA] ++ Malawi Congress Party or MCP [Lazarus CHAKWERA] ++ People's Party or PP [Joyce BANDA] ++ United Democratic Front or UDF [Atupele MULUZI]"
+      "text": "Alliance for Democracy or AFORD [Godfrey SHAWA] ++ Chipani Cha Fuko or CCP [Davis KATSONGA PHIRI]; note - party disbanded in fall of 2015 ++ Democratic Progressive Party or DPP [Peter MUTHARIKA] ++ Malawi Congress Party or MCP [Lazarus CHAKWERA] ++ People's Party or PP [Joyce BANDA] ++ United Democratic Front or UDF [Atupele MULUZI]"
     },
     "Political pressure groups and leaders": {
       "text": "Council for NGOs in Malawi or CONGOMA (human rights, democracy, and development) ++ Human Rights Consultative Committee or HRCC (human rights) ++ Malawi Economic Justice Network or MEJN (pro economic growth, development, government accountability) ++ Malawi Law Society (an umbrella organization of all lawyers in Malawi) ++ Public Affairs Committee or PAC (promotes democracy, development, peace and unity)"
@@ -445,7 +468,7 @@
     },
     "Diplomatic representation in the US": {
       "chief of mission": {
-        "text": "Ambassador Necton Darlington MHURA (since 18 May 2015)"
+        "text": "Ambassador Edward Yakobe SAWERENGERA (since 16 September 2016)"
       },
       "chancery": {
         "text": "2408 Massachusetts Avenue NW, Washington, DC 20008"
@@ -465,7 +488,7 @@
         "text": "16 Jomo Kenyatta Road, Lilongwe 3"
       },
       "mailing address": {
-        "text": "P. O. Box 30016, Lilongwe 3, Malawi"
+        "text": "P.O. Box 30016, Lilongwe 3, Malawi"
       },
       "telephone": {
         "text": "[265] (1) 773-166"
@@ -494,58 +517,58 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Landlocked Malawi ranks among the world's most densely populated and least developed countries. The country’s economic performance has historically been constrained by policy inconsistency, macroeconomic instability, limited connectivity to the region and the world, and poor health and education outcomes that limit labor productivity. The economy is predominately agricultural with about 80% of the population living in rural areas. Agriculture accounts for about one-third of GDP and 90% of export revenues. The performance of the tobacco sector is key to short-term growth as tobacco accounts for more than half of exports. ++  ++ The economy depends on substantial inflows of economic assistance from the IMF, the World Bank, and individual donor nations. In 2006, Malawi was approved for relief under the Heavily Indebted Poor Countries program. Between 2005 and 2009 Malawi’s government exhibited improved financial discipline under the guidance of Finance Minister Goodall GONDWE and signed a three year IMF Poverty Reduction and Growth Facility worth $56 million. The government announced infrastructure projects that could yield improvements, such as a new oil pipeline for better fuel access, and the potential for a waterway link through Mozambican rivers to the ocean for better transportation options. ++  ++ Since 2009, however, Malawi has experienced some setbacks, including a general shortage of foreign exchange, which has damaged its ability to pay for imports, and fuel shortages that hinder transportation and productivity. In October 2013, the African Development Bank, the IMF, several European countries, and the US indefinitely froze $150 million in direct budgetary support in response to a high level corruption scandal, called “Cashgate,” citing a lack of trust in the government’s financial management system and civil service. Most of the frozen donor funds — which accounted for 40% of the budget — have been channeled through non-governmental organizations in the country. The government has failed to address barriers to investment such as unreliable power, water shortages, poor telecommunications infrastructure, and the high costs of services. Investment had fallen continuously for several years, but rose 4 percentage points in 2014 to 17% of GDP. ++  ++ The government faces many challenges, including developing a market economy, improving educational facilities, addressing environmental problems, dealing with HIV/AIDS, and satisfying foreign donors on anti-corruption efforts."
+      "text": "Landlocked Malawi ranks among the world's most densely populated and least developed countries. The country’s economic performance has historically been constrained by policy inconsistency, macroeconomic instability, limited connectivity to the region and the world, and poor health and education outcomes that limit labor productivity. The economy is predominately agricultural with about 80% of the population living in rural areas. Agriculture accounts for about one-third of GDP and 90% of export revenues. The performance of the tobacco sector is key to short-term growth as tobacco accounts for more than half of exports. ++  ++ The economy depends on substantial inflows of economic assistance from the IMF, the World Bank, and individual donor nations. In 2006, Malawi was approved for relief under the Heavily Indebted Poor Countries program. Between 2005 and 2009 Malawi’s government exhibited improved financial discipline under the guidance of Finance Minister Goodall GONDWE and signed a three-year IMF Poverty Reduction and Growth Facility worth $56 million. The government announced infrastructure projects that could yield improvements, such as a new oil pipeline for better fuel access, and the potential for a waterway link through Mozambican rivers to the ocean for better transportation options. ++  ++ Since 2009, however, Malawi has experienced some setbacks, including a general shortage of foreign exchange, which has damaged its ability to pay for imports, and fuel shortages that hinder transportation and productivity. In October 2013, the African Development Bank, the IMF, several European countries, and the US indefinitely froze $150 million in direct budgetary support in response to a high level corruption scandal, called “Cashgate,” citing a lack of trust in the government’s financial management system and civil service. Most of the frozen donor funds — which accounted for 40% of the budget — have been channeled through non-governmental organizations in the country. The government has failed to address barriers to investment such as unreliable power, water shortages, poor telecommunications infrastructure, and the high costs of services. Investment had fallen continuously for several years, but rose 4 percentage points in 2014 to 17% of GDP. ++  ++ The government faces many challenges, including developing a market economy, improving educational facilities, addressing environmental problems, dealing with HIV/AIDS, and satisfying foreign donors on anti-corruption efforts."
     },
     "GDP (purchasing power parity)": {
-      "text": "$19.58 billion (2014 est.) ++ $18.52 billion (2013 est.) ++ $17.61 billion (2012 est.)",
+      "text": "$20.4 billion (2015 est.) ++ $19.82 billion (2014 est.) ++ $18.75 billion (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$6.055 billion (2014 est.)"
+      "text": "$6.408 billion (2015 est.)"
     },
     "GDP - real growth rate": {
-      "text": "5.7% (2014 est.) ++ 5.2% (2013 est.) ++ 1.9% (2012 est.)"
+      "text": "3% (2015 est.) ++ 5.7% (2014 est.) ++ 5.2% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$1,100 (2014 est.) ++ $1,100 (2013 est.) ++ $1,000 (2012 est.)",
+      "text": "$1,100 (2015 est.) ++ $1,100 (2014 est.) ++ $1,100 (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "Gross national saving": {
-      "text": "6% of GDP (2014 est.) ++ 6.6% of GDP (2013 est.) ++ 6.4% of GDP (2012 est.)"
+      "text": "3% of GDP (2015 est.) ++ 3.5% of GDP (2014 est.) ++ 4.1% of GDP (2013 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "77.6%"
+        "text": "75.6%"
       },
       "government consumption": {
-        "text": "17.4%"
+        "text": "17.3%"
       },
       "investment in fixed capital": {
-        "text": "12.5%"
+        "text": "12%"
       },
       "investment in inventories": {
-        "text": "2.9%"
+        "text": "2.8%"
       },
       "exports of goods and services": {
-        "text": "45.8%"
+        "text": "43.5%"
       },
       "imports of goods and services": {
-        "text": "-56.1% ++  (2014 est.)"
+        "text": "-51.2% (2015 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "33.3%"
+        "text": "32.7%"
       },
       "industry": {
-        "text": "17%"
+        "text": "17.2%"
       },
       "services": {
-        "text": "49.6% (2014 est.)"
+        "text": "50.1% (2015 est.)"
       }
     },
     "Agriculture - products": {
@@ -555,7 +578,7 @@
       "text": "tobacco, tea, sugar, sawmill products, cement, consumer goods"
     },
     "Industrial production growth rate": {
-      "text": "4.8% (2014 est.)"
+      "text": "4.1% (2015 est.)"
     },
     "Labor force": {
       "text": "5.747 million (2007 est.)"
@@ -572,7 +595,7 @@
       "text": "NA%"
     },
     "Population below poverty line": {
-      "text": "53% (2004 est.)"
+      "text": "52.4% (2004 est.)"
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
@@ -587,71 +610,71 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$1.204 billion"
+        "text": "$1.26 billion"
       },
       "expenditures": {
-        "text": "$1.523 billion (2014 est.)"
+        "text": "$1.51 billion (2015 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "19.9% of GDP (2014 est.)"
+      "text": "19.6% of GDP (2015 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-5.3% of GDP (2014 est.)"
+      "text": "-3.9% of GDP (2015 est.)"
     },
     "Public debt": {
-      "text": "60.9% of GDP (2014 est.) ++ 54.1% of GDP (2013 est.)"
+      "text": "54.2% of GDP (2015 est.) ++ 58.5% of GDP (2014 est.)"
     },
     "Fiscal year": {
       "text": "1 July - 30 June"
     },
     "Inflation rate (consumer prices)": {
-      "text": "23.8% (2014 est.) ++ 28.3% (2013 est.)"
+      "text": "21.9% (2015 est.) ++ 23.8% (2014 est.)"
     },
     "Central bank discount rate": {
       "text": "15% (31 December 2009) ++ 15% (31 December 2008)"
     },
     "Commercial bank prime lending rate": {
-      "text": "44.29% (31 December 2014 est.) ++ 46% (31 December 2013 est.)"
+      "text": "44.9% (31 December 2015 est.) ++ 44.29% (31 December 2014 est.)"
     },
     "Stock of narrow money": {
-      "text": "$549.8 million (31 December 2014 est.) ++ $454.7 million (31 December 2013 est.)"
+      "text": "$512.3 million (31 December 2015 est.) ++ $567.9 million (31 December 2014 est.)"
     },
     "Stock of broad money": {
       "text": "$1.481 billion (31 December 2014 est.) ++ $1.2 billion (31 December 2013 est.)"
     },
     "Stock of domestic credit": {
-      "text": "$800.2 million (31 December 2014 est.) ++ $969.2 million (31 December 2013 est.)"
+      "text": "$724.5 million (31 December 2015 est.) ++ $826.6 million (31 December 2014 est.)"
     },
     "Market value of publicly traded shares": {
-      "text": "$753.6 million (31 December 2012 est.) ++ $1.384 billion (31 December 2011) ++ $1.363 billion (31 December 2010 est.)"
+      "text": "$753.6 million (31 December 2012 est.) ++ $1.384 billion (31 December 2011 est.) ++ $1.363 billion (31 December 2010 est.)"
     },
     "Current account balance": {
-      "text": "-$216 million (2014 est.) ++ -$68 million (2013 est.)"
+      "text": "-$533 million (2015 est.) ++ -$515 million (2014 est.)"
     },
     "Exports": {
-      "text": "$1.366 billion (2014 est.) ++ $1.28 billion (2013 est.)"
+      "text": "$1.278 billion (2015 est.) ++ $1.528 billion (2014 est.)"
     },
     "Exports - commodities": {
       "text": "tobacco 53%, tea, sugar, cotton, coffee, peanuts, wood products, apparel (2010 est.)"
     },
     "Exports - partners": {
-      "text": "Belgium 12.4%, Zimbabwe 10.4%, South Africa 6.8%, Germany 6.8%, Russia 6.6%, Canada 6.1%, US 6% (2014)"
+      "text": "Belgium 15.8%, Zimbabwe 12%, India 6.9%, South Africa 6.2%, US 6%, Russia 5.6%, Germany 4.6% (2015)"
     },
     "Imports": {
-      "text": "$2.808 billion (2014 est.) ++ $2.718 billion (2013 est.)"
+      "text": "$2.607 billion (2015 est.) ++ $2.744 billion (2014 est.)"
     },
     "Imports - commodities": {
       "text": "food, petroleum products, semi-manufactures, consumer goods, transportation equipment"
     },
     "Imports - partners": {
-      "text": "South Africa 26.2%, India 15.5%, China 10%, Zambia 9.8%, Tanzania 5.4% (2014)"
+      "text": "South Africa 26.4%, China 16.7%, India 12%, Zambia 10.3%, Tanzania 6% (2015)"
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$625.2 million (31 December 2014 est.) ++ $435.9 million (31 December 2013 est.)"
+      "text": "$693.1 million (31 December 2015 est.) ++ $625.2 million (31 December 2014 est.)"
     },
     "Debt - external": {
-      "text": "$1.884 billion (31 December 2014 est.) ++ $1.558 billion (31 December 2013 est.)"
+      "text": "$1.715 billion (31 December 2015 est.) ++ $1.637 billion (31 December 2014 est.)"
     },
     "Stock of direct foreign investment - at home": {
       "text": "$NA"
@@ -660,10 +683,24 @@
       "text": "$NA"
     },
     "Exchange rates": {
-      "text": "Malawian kwachas (MWK) per US dollar - ++ 424.9 (2014 est.) ++ 424.9 (2013 est.) ++ 249.11 (2012 est.) ++ 156.93 (2011 est.) ++ 150.49 (2010 est.)"
+      "text": "Malawian kwachas (MWK) per US dollar - ++ 499.6 (2015 est.) ++ 424.9 (2014 est.) ++ 424.9 (2013 est.) ++ 249.11 (2012 est.) ++ 156.93 (2011 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "14,900,000"
+      },
+      "electrification - total population": {
+        "text": "9%"
+      },
+      "electrification - urban areas": {
+        "text": "32%"
+      },
+      "electrification - rural areas": {
+        "text": "4% (2013)"
+      }
+    },
     "Electricity - production": {
       "text": "2.18 billion kWh (2012 est.)"
     },
@@ -737,53 +774,64 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "64,200"
+        "text": "45,678"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "less than 1 (2014 est.)"
+        "text": "less than 1 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "5.1 million"
+        "text": "6.116 million"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "30 (2014 est.)"
+        "text": "34 (July 2015 est.)"
       }
     },
     "Telephone system": {
       "general assessment": {
-        "text": "rudimentary; privatization of Malawi Telecommunications (MTL), a necessary step in bringing improvement to telecommunications services, completed in 2006"
+        "text": "rudimentary; two fixed-line and two mobile-cellular operators govern the market"
       },
       "domestic": {
-        "text": "limited fixed-line subscribership of about 1 per 100 persons; mobile-cellular services are expanding but network coverage is limited and is based around the main urban areas; mobile-cellular subscribership about 25 per 100 persons"
+        "text": "limited fixed-line subscribership of about 1 per 100 persons; mobile-cellular services are expanding but network coverage is limited and is based around the main urban areas; mobile-cellular subscribership about 30 per 100 persons"
       },
       "international": {
-        "text": "country code - 265; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Atlantic Ocean) (2010)"
+        "text": "country code - 265; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Atlantic Ocean) (2015)"
       }
     },
     "Broadcast media": {
       "text": "radio is the main broadcast medium; privately owned Zodiac radio has the widest national broadcasting reach, followed by state-run radio; about a dozen private and community radio stations broadcast in cities and towns around the country; the largest TV network is government-owned, but two private TV networks now broadcast in urban areas and more plan to begin broadcasting in 2014; relays of multiple international broadcasters are available (2014)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM 9, FM 5 (plus 15 repeater stations), shortwave 2 (plus one shortwave station on standby) (2001)"
-    },
-    "Television broadcast stations": {
-      "text": "1 (2001)"
     },
     "Internet country code": {
       "text": ".mw"
     },
     "Internet users": {
       "total": {
-        "text": "387,500"
+        "text": "1.67 million"
       },
       "percent of population": {
-        "text": "2.2% (2014 est.)"
+        "text": "9.3% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "1"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "2"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "6,010"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "5,467 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "7Q (2016)"
+    },
     "Airports": {
       "text": "32 (2013)"
     },
@@ -812,7 +860,7 @@
         "text": "11"
       },
       "under 914 m": {
-        "text": " ++ 13 (2013)"
+        "text": "13 (2013)"
       }
     },
     "Railways": {
@@ -843,33 +891,12 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "Malawi Defense Forces (MDF): Army (includes Air Wing, Marine Unit) (2012)"
     },
     "Military service age and obligation": {
       "text": "18 years of age for voluntary military service; high school equivalent required for enlisted recruits and college equivalent for officer recruits; initial engagement is 7 years for enlisted personnel and 10 years for officers (2014)"
-    },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "3,514,809 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "2,132,909"
-      },
-      "females age 16-49": {
-        "text": "2,043,925 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "183,683"
-      },
-      "female": {
-        "text": "183,028 (2010 est.)"
-      }
     },
     "Military expenditures": {
       "text": "0.93% of GDP (2012) ++ 0.79% of GDP (2011) ++ 0.93% of GDP (2010)"
@@ -880,6 +907,9 @@
       "text": "dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake"
     },
     "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "11,315 (Democratic Republic of the Congo); 5,260 (Rwanda) (2015); nearly 11,500 (Mozambique) (2016)"
+      },
       "IDPs": {
         "text": "107,000 (floods in 2015) (2015)"
       }

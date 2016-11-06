@@ -54,12 +54,12 @@
     "Terrain": {
       "text": "low coral limestone and sand islands"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Pacific Ocean 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "NA"
       },
-      "highest point": {
-        "text": "unnamed location on Likiep 10 m"
+      "elevation extremes": {
+        "text": "lowest point: Pacific Ocean 0 m ++ highest point: unnamed location on Likiep 10 m"
       }
     },
     "Natural resources": {
@@ -77,7 +77,7 @@
       }
     },
     "Irrigated land": {
-      "text": "0 sq km (2011)"
+      "text": "0 sq km (2012)"
     },
     "Natural hazards": {
       "text": "infrequent typhoons"
@@ -98,6 +98,9 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "73,376 (July 2016 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "Marshallese (singular and plural)"
@@ -118,51 +121,45 @@
     "Religions": {
       "text": "Protestant 54.8%, Assembly of God 25.8%, Roman Catholic 8.4%, Bukot nan Jesus 2.8%, Mormon 2.1%, other Christian 3.6%, other 1%, none 1.5% (1999 census)"
     },
-    "Population": {
-      "text": "72,191 (July 2015 est.)"
-    },
     "Age structure": {
       "0-14 years": {
-        "text": "36.02% (male 13,256/female 12,749)"
+        "text": "35.48% (male 13,273/female 12,758)"
       },
       "15-24 years": {
-        "text": "17.4% (male 6,391/female 6,171)"
+        "text": "17.54% (male 6,545/female 6,326)"
       },
       "25-54 years": {
-        "text": "37.25% (male 13,681/female 13,210)"
+        "text": "37.4% (male 13,966/female 13,475)"
       },
       "55-64 years": {
-        "text": "5.73% (male 2,120/female 2,017)"
+        "text": "5.79% (male 2,160/female 2,086)"
       },
       "65 years and over": {
-        "text": "3.6% (male 1,276/female 1,320) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "3.8% (male 1,370/female 1,417) (2016 est.)"
       }
     },
     "Median age": {
       "total": {
-        "text": "22.6 years"
+        "text": "22.7 years"
       },
       "male": {
-        "text": "22.5 years"
+        "text": "22.6 years"
       },
       "female": {
-        "text": "22.7 years (2015 est.)"
+        "text": "22.8 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "1.66% (2015 est.)"
+      "text": "1.6% (2016 est.)"
     },
     "Birth rate": {
-      "text": "25.6 births/1,000 population (2015 est.)"
+      "text": "25 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "4.21 deaths/1,000 population (2015 est.)"
+      "text": "4.2 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "-4.83 migrant(s)/1,000 population (2015 est.)"
+      "text": "-4.8 migrant(s)/1,000 population (2016 est.)"
     },
     "Urbanization": {
       "urban population": {
@@ -183,51 +180,57 @@
         "text": "1.04 male(s)/female"
       },
       "15-24 years": {
-        "text": "1.04 male(s)/female"
+        "text": "1.03 male(s)/female"
       },
       "25-54 years": {
         "text": "1.04 male(s)/female"
       },
       "55-64 years": {
-        "text": "1.05 male(s)/female"
+        "text": "1.04 male(s)/female"
       },
       "65 years and over": {
         "text": "0.97 male(s)/female"
       },
       "total population": {
-        "text": "1.04 male(s)/female (2015 est.)"
+        "text": "1.04 male(s)/female (2016 est.)"
+      }
+    },
+    "Mother's mean age at first birth": {
+      "text": "20.7",
+      "note": {
+        "text": "median age at first birth among women 25-29 (2007 est.)"
       }
     },
     "Infant mortality rate": {
       "total": {
-        "text": "20.66 deaths/1,000 live births"
+        "text": "20 deaths/1,000 live births"
       },
       "male": {
-        "text": "23.29 deaths/1,000 live births"
+        "text": "22.5 deaths/1,000 live births"
       },
       "female": {
-        "text": "17.9 deaths/1,000 live births (2015 est.)"
+        "text": "17.3 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "72.84 years"
+        "text": "73.1 years"
       },
       "male": {
-        "text": "70.67 years"
+        "text": "70.9 years"
       },
       "female": {
-        "text": "75.13 years (2015 est.)"
+        "text": "75.4 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "3.15 children born/woman (2015 est.)"
+      "text": "3.09 children born/woman (2016 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "44.6% (2007)"
     },
     "Health expenditures": {
-      "text": "16.5% of GDP (2013)"
+      "text": "17.1% of GDP (2014)"
     },
     "Physicians density": {
       "text": "0.44 physicians/1,000 population (2010)"
@@ -260,8 +263,24 @@
     "HIV/AIDS - deaths": {
       "text": "NA"
     },
+    "Major infectious diseases": {
+      "note": {
+        "text": "active local transmission of Zika virus by Aedes species mosquitoes has been identified in this country (as of August 2016); it poses an important risk (a large number of cases possible) among US citizens if bitten by an infective mosquito; other less common ways to get Zika are through sex, via blood transfusion, or during pregnancy, in which the pregnant woman passes Zika virus to her fetus (2016)"
+      }
+    },
     "Obesity - adult prevalence rate": {
       "text": "42.3% (2014)"
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": {
+        "text": "11%"
+      },
+      "male": {
+        "text": "12.2%"
+      },
+      "female": {
+        "text": "8.7% (2010 est.)"
+      }
     }
   },
   "Government": {
@@ -283,14 +302,17 @@
       },
       "former": {
         "text": "Trust Territory of the Pacific Islands, Marshall Islands District"
+      },
+      "etymology": {
+        "text": "named after British Captain John MARSHALL, who charted many of the islands in 1788"
       }
     },
     "Government type": {
-      "text": "constitutional government in free association with the US; the Compact of Free Association entered into force on 21 October 1986 and the Amended Compact entered into force in May 2004"
+      "text": "presidential republic in free association with the US"
     },
     "Capital": {
       "name": {
-        "text": "Majuro"
+        "text": "Majuro; note - the capital is an atoll of 64 islands; governmental buildings are housed on three fused islands: Djarrit, Uliga, and Delap"
       },
       "geographic coordinates": {
         "text": "7 06 N, 171 23 E"
@@ -309,7 +331,7 @@
       "text": "Constitution Day, 1 May (1979)"
     },
     "Constitution": {
-      "text": "effective 1 May 1979; amended several times, last in 1995 (2015)"
+      "text": "effective 1 May 1979; amended several times, last in 1995 (2016)"
     },
     "Legal system": {
       "text": "mixed legal system of US and English common law, customary law, and local statutes"
@@ -317,24 +339,38 @@
     "International law organization participation": {
       "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
     },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of the Marshall Islands"
+      },
+      "dual citizenship recognized": {
+        "text": "no"
+      },
+      "residency requirement for naturalization": {
+        "text": "5 years"
+      }
+    },
     "Suffrage": {
       "text": "18 years of age; universal"
     },
     "Executive branch": {
       "chief of state": {
-        "text": "President Christopher J. LOEAK (since 17 January 2012); note - the president is both chief of state and head of government"
+        "text": "President Hilda C. HEINE (since 28 January 2016); note - the president is both chief of state and head of government"
       },
       "head of government": {
-        "text": "President Christopher J. LOEAK (since 17 January 2012)"
+        "text": "President Hilda C. HEINE (since 28 January 2016)"
       },
       "cabinet": {
         "text": "Cabinet nominated by the president from among members of the Nitijela, appointed by Nitijela speaker"
       },
       "elections/appointments": {
-        "text": "president indirectly elected by the Nitijela from among its members for a 4-year term (no term limits); election last held on 3 January 2012 (next to be held in 2016)"
+        "text": "president indirectly elected by the Nitijela from among its members for a 4-year term (no term limits); election last held on 27 January 2016 (next to be held in 2020)"
       },
       "election results": {
-        "text": "Christopher J. LOEAK elected president; Parliament vote - Christopher J. LOEAK (AKA) 21, Jurelang ZEDKAIA (UDP) 11"
+        "text": "Hilda C. HEINE elected president on 27 January 2016; Parliament vote - Hilda C. HEINE 24, she was the only candidate"
       }
     },
     "Legislative branch": {
@@ -370,7 +406,7 @@
     },
     "Diplomatic representation in the US": {
       "chief of mission": {
-        "text": "Ambassador Charles R. PAUL (since 6 September 2011)"
+        "text": "Ambassador Gerald M. ZACKIOS (since 16 September 2016)"
       },
       "chancery": {
         "text": "2433 Massachusetts Avenue NW, 1st Floor, Washington, DC 20008"
@@ -382,7 +418,7 @@
         "text": "[1] (202) 232-3236"
       },
       "consulate(s) general": {
-        "text": "Honolulu, Springdale (AK)"
+        "text": "Honolulu, Springdale (AR)"
       },
       "consulate(s)": {
         "text": "Agana (Guam)"
@@ -425,24 +461,24 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "US assistance and lease payments for the use of Kwajalein Atoll as a US military base are the mainstay of this small island country. The Marshall Islands received roughly $1 billion in aid from the US during 1986-2001 under the original Compact of Free Association (Compact). In 2002 and 2003, the US and the Marshall Islands renegotiated the Compact's financial package for a 20-year period, from 2004 to 2024. Under the amended Compact, the Marshall Islands will receive roughly $1.5 billion in direct US assistance. Agricultural production, primarily subsistence, is concentrated on small farms; the most important commercial crops are coconuts and breadfruit. Industry is limited to handicrafts, tuna processing, and copra. Tourism holds some potential. The islands and atolls have few natural resources, and imports exceed exports. Under the amended Compact, the US is also funding, jointly with the Marshall Islands, a Trust Fund for the people of the Marshall Islands that will provide an income stream beyond 2024 when direct Compact aid is to end."
+      "text": "US assistance and lease payments for the use of Kwajalein Atoll as a US military base are the mainstay of this small island country. Agricultural production, primarily subsistence, is concentrated on small farms; the most important commercial crops are coconuts and breadfruit. Industry is limited to handicrafts, tuna processing, and copra. Tourism holds some potential. The islands and atolls have few natural resources, and imports exceed exports. ++  ++ The Marshall Islands received roughly $1 billion in aid from the US during 1986-2001 under the original Compact of Free Association (Compact). In 2002 and 2003, the US and the Marshall Islands renegotiated the Compact's financial package for a 20-year period, from 2004 to 2024. Under the amended Compact, the Marshall Islands will receive roughly $1.5 billion in direct US assistance. Under the amended Compact, the US and Marshall Islands are also jointly funding a Trust Fund for the people of the Marshall Islands that will provide an income stream beyond 2024, when direct Compact aid ends."
     },
     "GDP (purchasing power parity)": {
-      "text": "$182 million (2014 est.) ++ $181.1 million (2013 est.) ++ $175.8 million (2012 est.)",
+      "text": "$174 million (2015 est.) ++ $171.6 million (2014 est.) ++ $171 million (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$193 million (2014 est.)"
+      "text": "$185 million (2015 est.)"
     },
     "GDP - real growth rate": {
-      "text": "0.5% (2014 est.) ++ 3% (2013 est.) ++ 4.7% (2012 est.)"
+      "text": "1.4% (2015 est.) ++ 0.4% (2014 est.) ++ -1.1% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$3,300 (2014 est.) ++ $3,300 (2013 est.) ++ $3,200 (2012 est.)",
+      "text": "$3,200 (2015 est.) ++ $3,200 (2014 est.) ++ $3,200 (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP - composition, by sector of origin": {
@@ -502,7 +538,7 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "60.5% of GDP (2013 est.)"
+      "text": "63.8% of GDP (2013 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
       "text": "1.5% of GDP (2013 est.)"
@@ -514,10 +550,10 @@
       "text": "1 October - 30 September"
     },
     "Inflation rate (consumer prices)": {
-      "text": "1.1% (2014 est.) ++ 1.9% (2013 est.)"
+      "text": "-2.2% (2015 est.) ++ 1.1% (2014 est.)"
     },
     "Current account balance": {
-      "text": "-$34 million (2014 est.) ++ -$26 million (2013 est.)"
+      "text": "-$6 million (2015 est.) ++ -$8 million (2014 est.)"
     },
     "Exports": {
       "text": "$53.7 million (2013 est.) ++ $58.1 million (2012)"
@@ -538,21 +574,37 @@
       "text": "the US dollar is used"
     }
   },
+  "Energy": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "30,084"
+      },
+      "electrification - total population": {
+        "text": "59%"
+      },
+      "electrification - urban areas": {
+        "text": "65%"
+      },
+      "electrification - rural areas": {
+        "text": "45% (2012)"
+      }
+    }
+  },
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "2,400"
+        "text": "2,361"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "3 (2014 est.)"
+        "text": "3 (July 2014 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "15,500"
+        "text": "16,000"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "22 (2014 est.)"
+        "text": "21 (July 2015 est.)"
       }
     },
     "Telephone system": {
@@ -569,25 +621,36 @@
     "Broadcast media": {
       "text": "no TV broadcast station; a cable network is available on Majuro with programming via videotape replay and satellite relays; 4 radio broadcast stations; American Armed Forces Radio and Television Service (AFRTS) provides satellite radio and television service to Kwajalein Atoll (2009)"
     },
-    "Radio broadcast stations": {
-      "text": "AM 1, FM 3, shortwave 0 (additionally, the American Armed Forces Radio and Television Service (Central Pacific Network) operates one FM and one AM station on Kwajalein Island) (2005)"
-    },
-    "Television broadcast stations": {
-      "text": "2 (both are US military stations; Marshalls Broadcasting Service, a cable company, operates on Majuro) (2005)"
-    },
     "Internet country code": {
       "text": ".mh"
     },
     "Internet users": {
       "total": {
-        "text": "1,700"
+        "text": "14,000"
       },
       "percent of population": {
-        "text": "2.4% (2014 est.)"
+        "text": "19.3% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "1"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "1"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "86,868"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "0 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "V7 (2016)"
+    },
     "Airports": {
       "text": "15 (2013)"
     },
@@ -610,7 +673,7 @@
         "text": "10"
       },
       "under 914 m": {
-        "text": " ++ 1 (2013)"
+        "text": "1 (2013)"
       }
     },
     "Roadways": {
@@ -641,30 +704,9 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "no regular military forces; Marshall Islands Police (2012)"
-    },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "16,446 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "13,568"
-      },
-      "females age 16-49": {
-        "text": "13,606 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "653"
-      },
-      "female": {
-        "text": "631 (2010 est.)"
-      }
     },
     "Military - note": {
       "text": "defense is the responsibility of the US"
@@ -676,10 +718,10 @@
     },
     "Trafficking in persons": {
       "current situation": {
-        "text": "The Marshall Islands is a source and destination country for Marshallese women and girls and women from East Asia subjected to sex trafficking; Marshallese and foreign women are reportedly forced into prostitution in businesses frequented by crew members of fishing and transshipping vessels; some Chinese women are recruited to the Marshall Islands with promises of legitimate work and are subsequently forced into prostitution"
+        "text": "The Marshall Islands is a source and destination country for Marshallese women and girls and women from East Asia subjected to sex trafficking; Marshallese and foreign women are forced into prostitution in businesses frequented by crew members of fishing and transshipping vessels that dock in Majuro; some Chinese women are recruited to the Marshall Islands with promises of legitimate work and are subsequently forced into prostitution"
       },
       "tier rating": {
-        "text": "Tier 2 Watch List – The Marshall Islands do not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; government officials publically acknowledged the existence of human trafficking and an investigation into women being forced into prostitution was initiated in 2013; the government has not provided evidence of implementing 2011 anti-trafficking legislation or providing training to law enforcement or judges on the law; no trafficking prosecutions have been reported since 2011; in 2013, no proactive efforts were made to identify victims among vulnerable groups, such as women in prostitution or foreign men in the fishing industry; several public awareness campaigns were conducted in 2013 (2014)"
+        "text": "Tier 3 – The Marshall Islands do not fully comply with the minimum standards for the elimination of trafficking and is not making significant efforts to do so; the government made no anti-trafficking law enforcement efforts, including developing a written plan to combat trafficking; no new trafficking investigations were opened in 2014, and no prosecutions or convictions were made for the fourth consecutive year; no efforts were made to identify trafficking victims, especially among women in prostitution or men working on foreign fishing vessels in Marshallese waters, and no attempt was made to ensure their access to protective services; limited awareness-raising events were conducted by an international organization (2015)"
       }
     }
   }

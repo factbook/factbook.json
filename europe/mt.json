@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "Great Britain formally acquired possession of Malta in 1814. The island staunchly supported the UK through both world wars and remained in the Commonwealth when it became independent in 1964; a decade later it declared itself a republic. Since about the mid-1980s, the island has transformed itself into a freight transshipment point, a financial center, and a tourist destination while its key industries moved toward more service-oriented activities. Malta became an EU member in May 2004 and began using the euro as currency in 2008."
+      "text": "Great Britain formally acquired Malta in 1814. The island staunchly supported the UK through both world wars and remained in the Commonwealth when it became independent in 1964; a decade later it declared itself a republic. Since about the mid-1980s, the island has transformed itself into a freight transshipment point, a financial center, and a tourist destination while its key industries moved toward more service-oriented activities. Malta became an EU member in May 2004 and began using the euro as currency in 2008."
     }
   },
   "Geography": {
@@ -54,12 +54,12 @@
     "Terrain": {
       "text": "mostly low, rocky, flat to dissected plains; many coastal cliffs"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Mediterranean Sea 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "NA"
       },
-      "highest point": {
-        "text": "Ta'Dmejrek 253 m (near Dingli)"
+      "elevation extremes": {
+        "text": "lowest point: Mediterranean Sea 0 m ++ highest point: Ta'Dmejrek 253 m (near Dingli)"
       }
     },
     "Natural resources": {
@@ -77,18 +77,10 @@
       }
     },
     "Irrigated land": {
-      "text": "32 sq km (2007)"
+      "text": "35 sq km (2012)"
     },
-    "Total renewable water resources": {
-      "text": "0.05 cu km (2011)"
-    },
-    "Freshwater withdrawal (domestic/industrial/agricultural)": {
-      "total": {
-        "text": "0.05  cu km/yr (64%/1%/35%)"
-      },
-      "per capita": {
-        "text": "134.1  cu m/yr (2009)"
-      }
+    "Population - distribution": {
+      "text": "most of the population lives on the eastern half of Malta, the largest of the three inhabited islands"
     },
     "Natural hazards": {
       "text": "NA"
@@ -105,10 +97,13 @@
       }
     },
     "Geography - note": {
-      "text": "the country comprises an archipelago, with only the three largest islands (Malta, Ghawdex or Gozo, and Kemmuna or Comino) being inhabited; numerous bays provide good harbors; Malta and Tunisia are discussing the commercial exploitation of the continental shelf between their countries, particularly for oil exploration"
+      "text": "the country comprises an archipelago, with only the three largest islands (Malta, Ghawdex or Gozo, and Kemmuna or Comino) inhabited; numerous bays provide good harbors; Malta and Tunisia are discussing the commercial exploitation of the continental shelf between their countries, particularly for oil exploration"
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "415,196 (July 2016 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "Maltese (singular and plural)"
@@ -126,27 +121,21 @@
     "Religions": {
       "text": "Roman Catholic (official) more than 90% (2011 est.)"
     },
-    "Population": {
-      "text": "413,965 (July 2015 est.)"
-    },
     "Age structure": {
       "0-14 years": {
-        "text": "15.05% (male 31,943/female 30,341)"
+        "text": "15.01% (male 31,978/female 30,361)"
       },
       "15-24 years": {
-        "text": "12.22% (male 26,028/female 24,570)"
+        "text": "11.84% (male 25,276/female 23,890)"
       },
       "25-54 years": {
-        "text": "40.24% (male 85,145/female 81,447)"
+        "text": "40.1% (male 85,151/female 81,346)"
       },
       "55-64 years": {
-        "text": "13.98% (male 28,702/female 29,185)"
+        "text": "13.98% (male 28,797/female 29,251)"
       },
       "65 years and over": {
-        "text": "18.5% (male 34,345/female 42,259) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "19.06% (male 35,614/female 43,532) (2016 est.)"
       }
     },
     "Dependency ratios": {
@@ -165,26 +154,29 @@
     },
     "Median age": {
       "total": {
-        "text": "41.2 years"
+        "text": "41.5 years"
       },
       "male": {
-        "text": "40 years"
+        "text": "40.4 years"
       },
       "female": {
-        "text": "42.4 years (2015 est.)"
+        "text": "42.7 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "0.31% (2015 est.)"
+      "text": "0.29% (2016 est.)"
     },
     "Birth rate": {
-      "text": "10.18 births/1,000 population (2015 est.)"
+      "text": "10.1 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "9.09 deaths/1,000 population (2015 est.)"
+      "text": "9.2 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "1.98 migrant(s)/1,000 population (2015 est.)"
+      "text": "2 migrant(s)/1,000 population (2016 est.)"
+    },
+    "Population distribution": {
+      "text": "most of the population lives on the eastern half of Malta, the largest of the three inhabited islands"
     },
     "Urbanization": {
       "urban population": {
@@ -217,7 +209,13 @@
         "text": "0.81 male(s)/female"
       },
       "total population": {
-        "text": "0.99 male(s)/female (2015 est.)"
+        "text": "0.99 male(s)/female (2016 est.)"
+      }
+    },
+    "Mother's mean age at first birth": {
+      "text": "26.9",
+      "note": {
+        "text": "data refer to the average of the different childbearing ages of first-order births (2010 est.)"
       }
     },
     "Maternal mortality rate": {
@@ -225,31 +223,31 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "3.56 deaths/1,000 live births"
+        "text": "3.5 deaths/1,000 live births"
       },
       "male": {
-        "text": "3.97 deaths/1,000 live births"
+        "text": "3.9 deaths/1,000 live births"
       },
       "female": {
-        "text": "3.14 deaths/1,000 live births (2015 est.)"
+        "text": "3.1 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "80.25 years"
+        "text": "80.4 years"
       },
       "male": {
-        "text": "77.92 years"
+        "text": "78 years"
       },
       "female": {
-        "text": "82.71 years (2015 est.)"
+        "text": "82.8 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "1.54 children born/woman (2015 est.)"
+      "text": "1.55 children born/woman (2016 est.)"
     },
     "Health expenditures": {
-      "text": "8.7% of GDP (2013)"
+      "text": "9.7% of GDP (2014)"
     },
     "Physicians density": {
       "text": "3.49 physicians/1,000 population (2013)"
@@ -286,7 +284,7 @@
       "text": "28.7% (2014)"
     },
     "Education expenditures": {
-      "text": "8% of GDP (2011)"
+      "text": "6.8% of GDP (2012)"
     },
     "Literacy": {
       "definition": {
@@ -304,24 +302,24 @@
     },
     "School life expectancy (primary to tertiary education)": {
       "total": {
-        "text": "14 years"
+        "text": "15 years"
       },
       "male": {
-        "text": "14 years"
+        "text": "15 years"
       },
       "female": {
-        "text": "15 years (2012)"
+        "text": "14 years (2014)"
       }
     },
     "Unemployment, youth ages 15-24": {
       "total": {
-        "text": "14.2%"
+        "text": "11.8%"
       },
       "male": {
-        "text": "14%"
+        "text": "13.8%"
       },
       "female": {
-        "text": "14.5% (2012 est.)"
+        "text": "9.6% (2014 est.)"
       }
     }
   },
@@ -338,10 +336,13 @@
       },
       "local short form": {
         "text": "Malta"
+      },
+      "etymology": {
+        "text": "the ancient Greeks called the island \"Melite\" meaning \"honey-sweet\" from the Greek word \"meli\" meaning \"honey\" and referring to the island's honey production"
       }
     },
     "Government type": {
-      "text": "republic"
+      "text": "parliamentary republic"
     },
     "Capital": {
       "name": {
@@ -367,7 +368,7 @@
       "text": "Independence Day, 21 September (1964); Republic Day, 13 December (1974)"
     },
     "Constitution": {
-      "text": "many previous; latest adopted 21 September 1964; amended many times, last in 2014 (2015)"
+      "text": "many previous; latest adopted 21 September 1964; amended many times, last in 2015 (2016)"
     },
     "Legal system": {
       "text": "mixed legal system of English common law and civil law (based on the Roman and Napoleonic civil codes)"
@@ -376,18 +377,21 @@
       "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
     },
     "Citizenship": {
-      "birthright citizenship": {
-        "text": ""
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Malta"
       },
       "dual citizenship recognized": {
-        "text": "yes"
+        "text": "no"
       },
       "residency requirement for naturalization": {
-        "text": ""
+        "text": "5 years"
       }
     },
     "Suffrage": {
-      "text": "18 years of age (16 in Local Council elections); universal"
+      "text": "18 years of age (16 in local council elections); universal"
     },
     "Executive branch": {
       "chief of state": {
@@ -429,7 +433,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Alternativa Demokratika/Alliance for Social Justice or AD (Green Party) [Arnold CASSOLA] ++ Labor Party or PL [Joseph MUSCAT] ++ Nationalist Party or PN [Simon BUSUTTIL]"
+      "text": "Alternativa Demokratika or AD (Green Party) [Arnold CASSOLA] ++ Labor Party or PL [Joseph MUSCAT] ++ Nationalist Party or PN [Simon BUSUTTIL]"
     },
     "Political pressure groups and leaders": {
       "text": "Alliance of Liberal Democrats Malta (Alleanza Liberali-Demokratika Malta) or ALDM (for divorce, abortion, gay marriage, women's rights) ++ Alliance for Change (Alleanza Bidla) (Euros-septic) ++ Together for a Better Environment (Flimkien Ghal-Ambjent Ahjar) or FAA (pro-environment) ++ ",
@@ -442,7 +446,7 @@
     },
     "Diplomatic representation in the US": {
       "chief of mission": {
-        "text": "Ambassador Marisa Maria Louise MICALLEF (since 22 August 2013)"
+        "text": "Ambassador Pierre Clive AGIUS (since 2 March 2016)"
       },
       "chancery": {
         "text": "2017 Connecticut Avenue NW, Washington, DC 20008"
@@ -456,7 +460,7 @@
     },
     "Diplomatic representation from the US": {
       "chief of mission": {
-        "text": "Ambassador Gina ABERCROMBIE-WINSTANLEY (since 18 April 2012)"
+        "text": "Ambassador G. Kathleen HILL (since 25 February 2016)"
       },
       "embassy": {
         "text": "Ta' Qali National Park, Attard, ATD 4000"
@@ -472,7 +476,7 @@
       }
     },
     "Flag description": {
-      "text": "two equal vertical bands of white (hoist side) and red; in the upper hoist-side corner is a representation of the George Cross, edged in red; according to legend, the colors are taken from the red and white checkered banner of Count Roger of Sicily who removed a bi-colored corner and granted it to Malta in 1091; an uncontested explanation is that the colors are those of the Knights of Saint John who ruled Malta from 1530 to 1798; in 1942, King George VI of the United Kingdom awarded the George Cross to the islanders for their exceptional bravery and gallantry in World War II; since independence in 1964, the George Cross bordered in red has appeared directly on the white field"
+      "text": "two equal vertical bands of white (hoist side) and red; in the upper hoist-side corner is a representation of the George Cross, edged in red; according to legend, the colors are taken from the red and white checkered banner of Count Roger of Sicily who removed a bi-colored corner and granted it to Malta in 1091; an uncontested explanation is that the colors are those of the Knights of Saint John who ruled Malta from 1530 to 1798; in 1942, King George VI of the UK awarded the George Cross to the islanders for their exceptional bravery and gallantry in World War II; since independence in 1964, the George Cross bordered in red has appeared directly on the white field"
     },
     "National symbol(s)": {
       "text": "Maltese eight-pointed cross; national colors: red, white"
@@ -491,58 +495,58 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Malta - the smallest economy in the euro zone - produces only about 20% of its food needs, has limited fresh water supplies, and has few domestic energy sources. Malta's geographic position between Europe and North Africa makes it a target for irregular migration, which has strained Malta's political and economic resources. Malta's fertility rate is below the EU average, and population growth in recent years has largely been from immigration, putting increasing pressure on the pension system. Malta adopted the euro on 1 January 2008. Malta's economy is dependent on foreign trade, manufacturing, and tourism. Malta has weathered the Eurozone crisis better than most EU member states due to a low debt-to-GDP ratio and financially sound banking sector. It has low unemployment relative to other European countries, and growth has recovered since the 2009 recession. In 2014, Malta led the Eurozone in growth, expanding by nearly 3.5%. Also in 2014, the government began promoting public-private partnerships in the healthcare sector to establish Malta as a Mediterranean health hub for medical tourism, reduced residential and commercial energy tariffs by 25%, and implemented a citizenship purchase program to increase government revenue and attract foreign investors. The government has implemented new programs, including free child care, to encourage increased labor participation. The high cost of borrowing and small labor market present potential constraints to future economic growth."
+      "text": "Malta - the smallest economy in the euro zone - produces only about 20% of its food needs, has limited fresh water supplies, and has few domestic energy sources. Malta's economy is dependent on foreign trade, manufacturing, and tourism. Malta joined the EU in 2004 and adopted the euro on 1 January 2008. ++  ++ Malta has weathered the euro-zone crisis better than most EU member states due to a low debt-to-GDP ratio and financially sound banking sector. It has low unemployment relative to other European countries, and growth has recovered since the 2009 recession. In 2014 and 2015, Malta led the euro zone in growth, expanding by nearly 3.5% each year. ++  ++ Malta’s services sector continued to grow in 2015, with noted increases in the financial services and online gaming sectors. Malta continues to enhance its regulation of the financial services sector, and passed additional legislation in 2014 and 2015 to improve anti-money laundering oversight for financial and gaming activities. Expanding EU discussions of anti-tax avoidance measures, including the “Anti-Tax Avoidance Package” submitted in early 2016, have raised concerns among Malta’s financial services and insurance providers about passage of laws governing EU tax practices, which could have a significant impact on those sectors. ++  ++ Malta’s 2015 GDP growth was bolstered by energy infrastructure investments, and revenue growth is expected to continue, supported by a strong labor market and proceeds from a citizenship by investment program equal to roughly 0.9% of GDP. Malta's geographic position between Europe and North Africa makes it a route for irregular migration. Historically, Malta's fertility rate has been below the EU average, and population growth in recent years has been largely from immigration, increasing pressure on the pension system. The government has implemented new programs, including free childcare, to encourage increased labor participation. The high cost of borrowing and small labor market remain potential constraints to future economic growth."
     },
     "GDP (purchasing power parity)": {
-      "text": "$14.12 billion (2014 est.) ++ $13.64 billion (2013 est.) ++ $13.33 billion (2012 est.)",
+      "text": "$15.47 billion (2015 est.) ++ $14.58 billion (2014 est.) ++ $14.09 billion (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$10.51 billion (2014 est.)"
+      "text": "$9.752 billion (2015 est.)"
     },
     "GDP - real growth rate": {
-      "text": "3.5% (2014 est.) ++ 2.4% (2013 est.) ++ 2.5% (2012 est.)"
+      "text": "6.2% (2015 est.) ++ 3.5% (2014 est.) ++ 4.5% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$33,200 (2014 est.) ++ $32,100 (2013 est.) ++ $31,300 (2012 est.)",
+      "text": "$36,100 (2015 est.) ++ $34,300 (2014 est.) ++ $33,500 (2013 est.)",
       "note": {
         "text": "data are in 2012 US dollars"
       }
     },
     "Gross national saving": {
-      "text": "21% of GDP (2014 est.) ++ 21.3% of GDP (2013 est.) ++ 18.9% of GDP (2012 est.)"
+      "text": "34.7% of GDP (2015 est.) ++ 21.8% of GDP (2014 est.) ++ 21.9% of GDP (2013 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "54.9%"
+        "text": "52.9%"
       },
       "government consumption": {
-        "text": "20.3%"
+        "text": "19.3%"
       },
       "investment in fixed capital": {
-        "text": "18.6%"
+        "text": "24.9%"
       },
       "investment in inventories": {
-        "text": "0%"
+        "text": "-0.5%"
       },
       "exports of goods and services": {
-        "text": "149.7%"
+        "text": "141.1%"
       },
       "imports of goods and services": {
-        "text": "-143.5% ++  (2014 est.)"
+        "text": "-137.7% (2015 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "1.7%"
+        "text": "1.4%"
       },
       "industry": {
-        "text": "12.8%"
+        "text": "11.4%"
       },
       "services": {
-        "text": "85.5% (2013 est.)"
+        "text": "87.2% (2015 est.)"
       }
     },
     "Agriculture - products": {
@@ -552,27 +556,27 @@
       "text": "tourism, electronics, ship building and repair, construction, food and beverages, pharmaceuticals, footwear, clothing, tobacco, aviation services, financial services, information technology services"
     },
     "Industrial production growth rate": {
-      "text": "-3.6% (2014)"
+      "text": "5.9% (2015)"
     },
     "Labor force": {
-      "text": "192,700 (2014 est.)"
+      "text": "196,600 (2015 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
-        "text": "1.5%"
+        "text": "1.7%"
       },
       "industry": {
-        "text": "25.7%"
+        "text": "18.3%"
       },
       "services": {
-        "text": "72.8% (2014)"
+        "text": "80% (2015)"
       }
     },
     "Unemployment rate": {
-      "text": "5.9% (2014 est.) ++ 6.4% (2013 est.)"
+      "text": "5.4% (2015 est.) ++ 5.8% (2014 est.)"
     },
     "Population below poverty line": {
-      "text": "15.7% (2013 est.)"
+      "text": "15.9% (2014 est.)"
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
@@ -583,24 +587,24 @@
       }
     },
     "Distribution of family income - Gini index": {
-      "text": "27.9 (2013) ++ 27.1 (2012)"
+      "text": "27.7 (2014) ++ 27.9 (2013)"
     },
     "Budget": {
       "revenues": {
-        "text": "$4.721 billion"
+        "text": "$4.087 billion"
       },
       "expenditures": {
-        "text": "$4.918 billion (2015 est.)"
+        "text": "$4.23 billion (2015 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "44.9% of GDP (2015 est.)"
+      "text": "41.7% of GDP (2015 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-1.9% of GDP (2015 est.)"
+      "text": "-1.5% of GDP (2015 est.)"
     },
     "Public debt": {
-      "text": "68.2% of GDP (2014 est.) ++ 69.6% of GDP (2013 est.)",
+      "text": "63.9% of GDP (2015 est.) ++ 67.1% of GDP (2014 est.)",
       "note": {
         "text": "Malta reports public debt at nominal value outstanding at the end of the year, according to guidelines set out in the Maastricht Treaty for general government gross debt; the data include the following categories of government liabilities (as defined in ESA95): currency and deposits (AF.2), securities other than shares excluding financial derivatives (AF.3, excluding AF.34), and loans (AF.4); general government comprises the central government, state government, local government and social security funds"
       }
@@ -609,75 +613,80 @@
       "text": "calendar year"
     },
     "Inflation rate (consumer prices)": {
-      "text": "0.8% (2014 est.) ++ 1% (2013 est.)"
+      "text": "1.2% (2015 est.) ++ 0.8% (2014 est.)"
     },
     "Central bank discount rate": {
-      "text": "0.05% (31 December 2014) ++ 0.25% (31 December 2013)",
+      "text": "-0.21% (31 December 2015) ++ -0.09% (31 December 2013)",
       "note": {
         "text": "this is the European Central Bank's rate on the marginal lending facility, which offers overnight credit to banks in the euro area"
       }
     },
     "Commercial bank prime lending rate": {
-      "text": "0.3% (31 December 2014 est.) ++ 0.75% (31 December 2013 est.)"
+      "text": "3.4% (31 December 2015 est.) ++ 3.9% (31 December 2014 est.)"
     },
     "Stock of narrow money": {
-      "text": "$5.44 billion (31 December 2014 est.) ++ $5.858 billion (31 December 2013 est.)",
+      "text": "$12.87 billion (31 December 2015 est.) ++ $11.55 billion (31 December 2014 est.)",
       "note": {
-        "text": "see entry for the European Union for money supply for the entire euro area; the European Central Bank (ECB) controls monetary policy for the 18 members of the Economic and Monetary Union (EMU); individual members of the EMU do not control the quantity of money circulating within their own borders"
+        "text": "see entry for the EU for money supply for the entire euro area; the European Central Bank controls monetary policy for the 18 members of the Economic and Monetary Union (EMU); individual members of the EMU do not control the quantity of money circulating within their own borders"
       }
     },
     "Stock of broad money": {
-      "text": "$19.12 billion (31 December 2014 est.) ++ $16.72 billion (31 December 2013 est.)"
+      "text": "$17.65 billion (31 December 2015 est.) ++ $15.97 billion (31 December 2014 est.)"
     },
     "Stock of domestic credit": {
-      "text": "$20.94 billion (31 December 2014 est.) ++ $20.38 billion (31 December 2013 est.)"
+      "text": "$17.58 billion (31 December 2015 est.) ++ $17.63 billion (31 December 2014 est.)"
     },
     "Market value of publicly traded shares": {
-      "text": "$3.631 billion (31 December 2012 est.) ++ $3.424 billion (31 December 2011) ++ $2.399 billion (31 December 2010 est.)"
+      "text": "$4.405 billion (31 December 2015 est.) ++ $3.642 billion (31 December 2014 est.) ++ $4.249 billion (31 December 2013 est.)"
     },
     "Current account balance": {
-      "text": "$348 million (2014 est.) ++ $318 million (2013 est.)"
+      "text": "$962 million (2015 est.) ++ $365 million (2014 est.)"
     },
     "Exports": {
-      "text": "$3.467 billion (2014 est.) ++ $3.801 billion (2013 est.)"
+      "text": "$2.956 billion (2015 est.) ++ $3.48 billion (2014 est.)"
     },
     "Exports - commodities": {
       "text": "machinery and mechanical appliances; mineral fuels, oils and petroleum products; pharmaceutical products; books and newspapers; aircraft/spacecraft and parts; toys, games, and sports equipment"
     },
     "Exports - partners": {
-      "text": "Germany 20.1%, France 12.8%, Italy 9.3%, Libya 6.7%, UK 6.6% (2014)"
+      "text": "Germany 13.3%, France 10.2%, Hong Kong 7.4%, Singapore 7.3%, UK 6.4%, US 5.8%, Italy 5.6%, Japan 4.7% (2015)"
     },
     "Imports": {
-      "text": "$4.921 billion (2014 est.) ++ $5.248 billion (2013 est.)"
+      "text": "$4.603 billion (2015 est.) ++ $4.964 billion (2014 est.)"
     },
     "Imports - commodities": {
       "text": "mineral fuels, oils and products; electrical machinery; aircraft/spacecraft and parts thereof; machinery and mechanical appliances; plastic and other semi-manufactured goods; vehicles and parts"
     },
     "Imports - partners": {
-      "text": "Italy 22.8%, US 8.6%, UK 7.4%, Germany 5.9%, Canada 5.6%, Spain 4.6%, Netherlands 4.5%, France 4.4% (2014)"
+      "text": "Italy 23%, Netherlands 8.4%, UK 7.5%, Germany 6.8%, Canada 6.1%, China 4.1%, France 4% (2015)"
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$619.2 million (31 December 2014 est.) ++ $596.9 million (31 December 2013 est.)"
+      "text": "$571.7 million (31 December 2015 est.) ++ $619.2 million (31 December 2014 est.)"
     },
     "Debt - external": {
-      "text": "$619.2 million (31 December 2014 est.) ++ $596.9 million (31 December 2013 est.)"
+      "text": "$99.02 billion (31 December 2015 est.) ++ $103.8 billion (30 December 2014 est.)"
     },
     "Stock of direct foreign investment - at home": {
-      "text": "$47.34 billion (31 June 2014) ++ $46.35 billion (31 December 2013)"
+      "text": "$164.4 billion (30 June 2015 est.) ++ $158.7 billion (December 31, 2014 est.)"
     },
     "Stock of direct foreign investment - abroad": {
-      "text": "$177.6 billion (31 June 2014 est.) ++ $181.7 billion (31 December 2013)"
+      "text": "$69.09 billion (31 June 2015 est.) ++ $67.32 billion (30 December 2014 est.)"
     },
     "Exchange rates": {
-      "text": "euros (EUR) per US dollar - ++ 0.7489 (2014 est.) ++ 0.7634 (2013 est.) ++ 0.78 (2012 est.) ++ 0.7185 (2011 est.) ++ 0.755 (2010 est.)"
+      "text": "euros (EUR) per US dollar - ++ 0.885 (2015 est.) ++ 0.7525 (2014 est.) ++ 0.7634 (2013 est.) ++ 0.78 (2012 est.) ++ 0.7185 (2011 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
+    },
     "Electricity - production": {
-      "text": "2.17 billion kWh (2014)"
+      "text": "2.17 billion kWh (2014 est.)"
     },
     "Electricity - consumption": {
-      "text": "2.061 billion kWh (2014 est.)"
+      "text": "174,700 kWh (2014 est.)"
     },
     "Electricity - exports": {
       "text": "0 kWh (2013 est.)"
@@ -686,7 +695,7 @@
       "text": "0 kWh (2013 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "653,200 kW (2014 est.)"
+      "text": "620,000 kW (2014 est.)"
     },
     "Electricity - from fossil fuels": {
       "text": "91.7% of total installed capacity (2014 est.)"
@@ -707,10 +716,10 @@
       "text": "0 bbl/day (2014 est.)"
     },
     "Crude oil - imports": {
-      "text": "0 bbl/day (2012 est.)"
+      "text": "0 bbl/day (2014 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2015 est.)"
+      "text": "0 bbl (July 6, 1905 est.)"
     },
     "Refined petroleum products - production": {
       "text": "0 bbl/day (2014 est.)"
@@ -725,13 +734,13 @@
       "text": "36,480 bbl/day (2013 est.)"
     },
     "Natural gas - production": {
-      "text": "0 cu m (2013 est.)"
+      "text": "0 cu m (2014 est.)"
     },
     "Natural gas - consumption": {
-      "text": "0 cu m (2013 est.)"
+      "text": "0 cu m (2014 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2013 est.)"
+      "text": "0 cu m (2014 est.)"
     },
     "Natural gas - imports": {
       "text": "0 cu m (2013 est.)"
@@ -740,24 +749,24 @@
       "text": "0 cu m (1 January 2014 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "1.697 million Mt (2013 est.)"
+      "text": "1.457 million Mt (2014 est.)"
     }
   },
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "230,000"
+        "text": "230,226"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "56 (2014 est.)"
+        "text": "56 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "546,200"
+        "text": "558,000"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "132 (2014 est.)"
+        "text": "135 (July 2015 est.)"
       }
     },
     "Telephone system": {
@@ -765,34 +774,45 @@
         "text": "automatic system featuring submarine cable and microwave radio relay between islands"
       },
       "domestic": {
-        "text": "combined fixed-line and mobile-cellular subscribership exceeds 180 per 100 persons"
+        "text": "combined fixed-line and mobile-cellular subscribership exceeds 190 per 100 persons"
       },
       "international": {
-        "text": "country code - 356; submarine cable connects to Italy; satellite earth station - 1 Intelsat (Atlantic Ocean) (2011)"
+        "text": "country code - 356; submarine cable connects to Italy; satellite earth station - 1 Intelsat (Atlantic Ocean) (2015)"
       }
     },
     "Broadcast media": {
-      "text": "2 publicly owned TV stations, Television Malta (TVM) broadcasting nationally plus an educational channel; several privately owned national television stations, two of which are owned by political parties; Italian and British broadcast programs are available; multi-channel cable and satellite TV services are available; publicly owned radio broadcaster operates 1 station; roughly 20 commercial radio stations (2011)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM 1, FM 18, shortwave 6 (1999)"
-    },
-    "Television broadcast stations": {
-      "text": "6 (2009)"
+      "text": "2 publicly owned TV stations, Television Malta broadcasting nationally plus an educational channel; several privately owned national television stations, two of which are owned by political parties; Italian and British broadcast programs are available; multi-channel cable and satellite TV services are available; publicly owned radio broadcaster operates 3 stations; roughly 20 commercial radio stations (2016)"
     },
     "Internet country code": {
       "text": ".mt"
     },
     "Internet users": {
       "total": {
-        "text": "166,000"
+        "text": "315,000"
       },
       "percent of population": {
-        "text": "40.2% (2014 est.)"
+        "text": "76.2% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "9"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "28"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "1,583,046"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "3.352 million mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "9H (2016)"
+    },
     "Airports": {
       "text": "1 (2013)"
     },
@@ -841,36 +861,12 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "Armed Forces of Malta (AFM; includes land, maritime, and air elements) (2013)"
     },
     "Military service age and obligation": {
       "text": "18 years of age for voluntary military service; no conscription (2014)"
-    },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "95,499"
-      },
-      "females age 16-49": {
-        "text": "90,919 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "79,645"
-      },
-      "females age 16-49": {
-        "text": "75,684 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "2,554"
-      },
-      "female": {
-        "text": "2,385 (2010 est.)"
-      }
     },
     "Military expenditures": {
       "text": "0.61% of GDP (2013) ++ 0.61% of GDP (2012) ++ 0.61% of GDP (2011) ++ 0.61% of GDP (2010)"

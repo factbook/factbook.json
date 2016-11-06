@@ -48,12 +48,12 @@
     "Terrain": {
       "text": "mostly hilly to rugged and mountainous with little flat land"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Caribbean Sea 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "NA"
       },
-      "highest point": {
-        "text": "Crown Mountain 474 m"
+      "elevation extremes": {
+        "text": "lowest point: Caribbean Sea 0 m ++ highest point: Crown Mountain 474 m"
       }
     },
     "Natural resources": {
@@ -71,7 +71,10 @@
       }
     },
     "Irrigated land": {
-      "text": "1 sq km (2011)"
+      "text": "1 sq km (2012)"
+    },
+    "Population - distribution": {
+      "text": "while overall population density throughout the islands is relatively low, concentrations appear around Charlotte Amalie on St. Thomas and Christiansted on St. Croix"
     },
     "Natural hazards": {
       "text": "several hurricanes in recent years; frequent and severe droughts and floods; occasional earthquakes"
@@ -84,6 +87,9 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "102,951 (July 2016 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "Virgin Islander(s) (US citizens)"
@@ -104,27 +110,21 @@
     "Religions": {
       "text": "Protestant 59% (Baptist 42%, Episcopalian 17%), Roman Catholic 34%, other 7%"
     },
-    "Population": {
-      "text": "103,574 (July 2015 est.)"
-    },
     "Age structure": {
       "0-14 years": {
-        "text": "17.47% (male 9,124/female 8,966)"
+        "text": "17.2% (male 8,933/female 8,776)"
       },
       "15-24 years": {
-        "text": "9.87% (male 4,642/female 5,576)"
+        "text": "9.32% (male 4,316/female 5,279)"
       },
       "25-54 years": {
-        "text": "38.71% (male 18,103/female 21,994)"
+        "text": "38.51% (male 17,850/female 21,795)"
       },
       "55-64 years": {
-        "text": "14.49% (male 7,194/female 7,819)"
+        "text": "14.72% (male 7,284/female 7,873)"
       },
       "65 years and over": {
-        "text": "19.46% (male 9,110/female 11,046) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "20.25% (male 9,402/female 11,443) (2016 est.)"
       }
     },
     "Dependency ratios": {
@@ -143,26 +143,29 @@
     },
     "Median age": {
       "total": {
-        "text": "44.9 years"
+        "text": "45.6 years"
       },
       "male": {
-        "text": "45.2 years"
+        "text": "45.9 years"
       },
       "female": {
-        "text": "44.7 years (2015 est.)"
+        "text": "45.3 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "-0.59% (2015 est.)"
+      "text": "-0.62% (2016 est.)"
     },
     "Birth rate": {
-      "text": "10.31 births/1,000 population (2015 est.)"
+      "text": "10.2 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "8.54 deaths/1,000 population (2015 est.)"
+      "text": "8.9 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "-7.67 migrant(s)/1,000 population (2015 est.)"
+      "text": "-7.5 migrant(s)/1,000 population (2016 est.)"
+    },
+    "Population distribution": {
+      "text": "while overall population density throughout the islands is relatively low, concentrations appear around Charlotte Amalie on St. Thomas and Christiansted on St. Croix"
     },
     "Urbanization": {
       "urban population": {
@@ -183,45 +186,45 @@
         "text": "1.02 male(s)/female"
       },
       "15-24 years": {
-        "text": "0.83 male(s)/female"
+        "text": "0.82 male(s)/female"
       },
       "25-54 years": {
         "text": "0.82 male(s)/female"
       },
       "55-64 years": {
-        "text": "0.92 male(s)/female"
+        "text": "0.93 male(s)/female"
       },
       "65 years and over": {
         "text": "0.83 male(s)/female"
       },
       "total population": {
-        "text": "0.87 male(s)/female (2015 est.)"
+        "text": "0.87 male(s)/female (2016 est.)"
       }
     },
     "Infant mortality rate": {
       "total": {
-        "text": "6.64 deaths/1,000 live births"
+        "text": "6.5 deaths/1,000 live births"
       },
       "male": {
-        "text": "7.35 deaths/1,000 live births"
+        "text": "7.2 deaths/1,000 live births"
       },
       "female": {
-        "text": "5.89 deaths/1,000 live births (2015 est.)"
+        "text": "5.8 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "79.89 years"
+        "text": "80 years"
       },
       "male": {
-        "text": "76.84 years"
+        "text": "77 years"
       },
       "female": {
-        "text": "83.11 years (2015 est.)"
+        "text": "83.2 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "1.74 children born/woman (2015 est.)"
+      "text": "1.73 children born/woman (2016 est.)"
     },
     "Drinking water source": {
       "improved": {
@@ -247,6 +250,11 @@
     },
     "HIV/AIDS - deaths": {
       "text": "NA"
+    },
+    "Major infectious diseases": {
+      "note": {
+        "text": "active local transmission of Zika virus by Aedes species mosquitoes has been identified in this country (as of August 2016); it poses an important risk (a large number of cases possible) among US citizens if bitten by an infective mosquito; other less common ways to get Zika are through sex, via blood transfusion, or during pregnancy, in which the pregnant woman passes Zika virus to her fetus (2016)"
+      }
     }
   },
   "Government": {
@@ -262,13 +270,16 @@
       },
       "abbreviation": {
         "text": "USVI"
+      },
+      "note": {
+        "text": "the myriad islets, cays, and rocks surrounding the major islands reminded Christopher COLUMBUS in 1493 of Saint Ursula and her 11,000 virgin followers (Santa Ursula y las Once Mil Virgenes), which over time shortened to the Virgins (las Virgenes)"
       }
     },
     "Dependency status": {
       "text": "organized, unincorporated territory of the US with policy relations between the Virgin Islands and the US under the jurisdiction of the Office of Insular Affairs, US Department of the Interior"
     },
     "Government type": {
-      "text": "NA"
+      "text": "presidential democracy; a self-governing territory of the US"
     },
     "Capital": {
       "name": {
@@ -291,10 +302,13 @@
       "text": "Transfer Day (from Denmark to the US), 31 March (1917)"
     },
     "Constitution": {
-      "text": "22 July 1954 - the Revised Organic Act of the Virgin Islands functions as a constitution for this territory of the US; revised 1962, 2000 (2015)"
+      "text": "22 July 1954 - the Revised Organic Act of the Virgin Islands functions as a constitution for this territory of the US; revised 1962, 2000 (2016)"
     },
     "Legal system": {
       "text": "US common law"
+    },
+    "Citizenship": {
+      "text": "see United States"
     },
     "Suffrage": {
       "text": "18 years of age; universal; note - island residents are US citizens but do not vote in US presidential elections"
@@ -367,16 +381,16 @@
         "text": "multiple/Alton Augustus ADAMS, Sr."
       },
       "note": {
-        "text": "adopted 1963; serves as a local anthem; as a territory of the United States, \"The Star-Spangled Banner\" is official (see United States)"
+        "text": "adopted 1963; serves as a local anthem; as a territory of the US, \"The Star-Spangled Banner\" is official (see United States)"
       }
     }
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Tourism, trade, and other services are the primary economic activities, accounting for nearly 60% of the Virgin Island's GDP and about half of total civilian employment. The islands host nearly 3 million tourists per year, mostly from visiting cruise ships. The islands are vulnerable to damage from storms. The agriculture sector is small, with most food being imported. Industry and government each account for about one-fifth of GDP. Federal programs and grants, totaling $241.4 million in 2013, contributed 19.7% of the territory’s total revenues. The manufacturing sector consists of rum distilling, electronics, pharmaceuticals, and watch assembly. A refinery on St. Croix, one of the world’s largest, processed 350,000 barrels of crude oil a day until it was shut down in February 2012, after operating for 45 years. The economy declined in 2013, due to decreases in exports resulting from the loss of refined oil products. Nevertheless, the economy remains relatively diversified. Along with a vibrant tourism industry, rum exports, trade, and services will be major income sources in future years."
+      "text": "Tourism, trade, and other services are the primary economic activities, accounting for nearly 60% of the Virgin Island's GDP and about half of total civilian employment. The islands host nearly 3 million tourists per year, mostly from visiting cruise ships. The islands are vulnerable to damage from storms. The agriculture sector is small, with most food being imported. Industry and government each account for about one-fifth of GDP. The manufacturing sector consists of rum distilling, electronics, pharmaceuticals, and watch assembly. A refinery on St. Croix, one of the world’s largest, processed 350,000 barrels of crude oil a day until it was shut down in February 2012, after operating for 45 years. ++  ++ Federal programs and grants, totaling $241.4 million in 2013, contributed 19.7% of the territory’s total revenues. The economy declined in 2013, due to decreases in exports resulting from the loss of refined oil products. Nevertheless, the economy remains relatively diversified. Along with a vibrant tourism industry, rum exports, trade, and services will be major income sources in future years."
     },
     "GDP (purchasing power parity)": {
-      "text": "$3.792 billion (2013 est.) ++ $4.143 billion (2012) ++ $4.288 billion (2011)"
+      "text": "$3.792 billion (2013 est.) ++ $4.143 billion (2012 est.) ++ $4.288 billion (2011 est.)"
     },
     "GDP (official exchange rate)": {
       "text": "$5.075 billion (2013)"
@@ -397,11 +411,14 @@
       "investment in fixed assets": {
         "text": "6.1%"
       },
+      "investment in inventories": {
+        "text": "NA%"
+      },
       "exports of goods and services": {
         "text": "69.3%"
       },
       "imports of goods and services": {
-        "text": "69.3% (2013)"
+        "text": "-66.9% (2013)"
       }
     },
     "GDP - composition, by sector of origin": {
@@ -495,6 +512,20 @@
     }
   },
   "Energy": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "10,295"
+      },
+      "electrification - total population": {
+        "text": "91%"
+      },
+      "electrification - urban areas": {
+        "text": "91%"
+      },
+      "electrification - rural areas": {
+        "text": "80% (2012)"
+      }
+    },
     "Electricity - production": {
       "text": "777.9 million kWh (2012 est.)"
     },
@@ -568,18 +599,10 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "76,100"
+        "text": "76,000"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "73 (2014 est.)"
-      }
-    },
-    "Telephones - mobile cellular": {
-      "total": {
-        "text": "80,300"
-      },
-      "subscriptions per 100 inhabitants": {
-        "text": "74 (2005)"
+        "text": "73 (July 2015 est.)"
       }
     },
     "Telephone system": {
@@ -590,27 +613,21 @@
         "text": "full range of services available"
       },
       "international": {
-        "text": "country code - 1-340; submarine cable connections to US, the Caribbean, Central and South America; satellite earth stations - NA (2010)"
+        "text": "country code - 1-340; submarine cable connections to US, the Caribbean, Central and South America; satellite earth stations - NA (2015)"
       }
     },
     "Broadcast media": {
       "text": "about a dozen TV broadcast stations including 1 public TV station; multi-channel cable and satellite TV services are available; 24 radio stations (2009)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM 6, FM 16, shortwave 0 (2005)"
-    },
-    "Television broadcast stations": {
-      "text": "5 (2006)"
     },
     "Internet country code": {
       "text": ".vi"
     },
     "Internet users": {
       "total": {
-        "text": "30,000"
+        "text": "57,000"
       },
       "percent of population": {
-        "text": "28.1% (2009)"
+        "text": "54.8% (July 2015 est.)"
       }
     }
   },
@@ -640,23 +657,7 @@
       }
     }
   },
-  "Military": {
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "17,542"
-      },
-      "females age 16-49": {
-        "text": "20,946 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "744"
-      },
-      "female": {
-        "text": "788 (2010 est.)"
-      }
-    },
+  "Military and Security": {
     "Military - note": {
       "text": "defense is the responsibility of the US"
     }

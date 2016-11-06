@@ -51,12 +51,12 @@
     "Terrain": {
       "text": "sandy beach rises to fertile ring around raised coral reefs with phosphate plateau in center"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Pacific Ocean 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "NA"
       },
-      "highest point": {
-        "text": "unnamed elevation along plateau rim 61 m"
+      "elevation extremes": {
+        "text": "lowest point: Pacific Ocean 0 m ++ highest point: unnamed elevation along plateau rim 61 m"
       }
     },
     "Natural resources": {
@@ -74,7 +74,7 @@
       }
     },
     "Irrigated land": {
-      "text": "NA"
+      "text": "0 sq km (2012)"
     },
     "Natural hazards": {
       "text": "periodic droughts"
@@ -95,6 +95,9 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "9,591 (July 2016 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "Nauruan(s)"
@@ -113,53 +116,47 @@
       }
     },
     "Religions": {
-      "text": "Protestant 60.4% (includes Nauru Congregational 35.7%, Assembly of God 13%, Nauru Independent Church 9.5%, Baptist 1.5%, and Seventh Day Adventist .7%), Roman Catholic 33%, other 3.7%, none 1.8%, unspecified 1.1% (2011 est.)"
-    },
-    "Population": {
-      "text": "9,540 (July 2015 est.)"
+      "text": "Protestant 60.4% (includes Nauru Congregational 35.7%, Assembly of God 13%, Nauru Independent Church 9.5%, Baptist 1.5%, and Seventh Day Adventist 0.7%), Roman Catholic 33%, other 3.7%, none 1.8%, unspecified 1.1% (2011 est.)"
     },
     "Age structure": {
       "0-14 years": {
-        "text": "32.45% (male 1,360/female 1,736)"
+        "text": "31.93% (male 1,336/female 1,726)"
       },
       "15-24 years": {
-        "text": "16.13% (male 785/female 754)"
+        "text": "16.09% (male 779/female 764)"
       },
       "25-54 years": {
-        "text": "43.19% (male 2,059/female 2,061)"
+        "text": "43.33% (male 2,085/female 2,071)"
       },
       "55-64 years": {
-        "text": "6.11% (male 231/female 352)"
+        "text": "6.29% (male 236/female 367)"
       },
       "65 years and over": {
-        "text": "2.12% (male 78/female 124) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "2.37% (male 89/female 138) (2016 est.)"
       }
     },
     "Median age": {
       "total": {
-        "text": "25.7 years"
-      },
-      "male": {
         "text": "26.1 years"
       },
+      "male": {
+        "text": "26.5 years"
+      },
       "female": {
-        "text": "25.3 years (2015 est.)"
+        "text": "25.5 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "0.55% (2015 est.)"
+      "text": "0.52% (2016 est.)"
     },
     "Birth rate": {
-      "text": "24.95 births/1,000 population (2015 est.)"
+      "text": "24.4 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "5.87 deaths/1,000 population (2015 est.)"
+      "text": "5.9 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "-13.63 migrant(s)/1,000 population (2015 est.)"
+      "text": "-13.2 migrant(s)/1,000 population (2016 est.)"
     },
     "Urbanization": {
       "urban population": {
@@ -174,57 +171,66 @@
         "text": "0.83 male(s)/female"
       },
       "0-14 years": {
-        "text": "0.78 male(s)/female"
+        "text": "0.77 male(s)/female"
       },
       "15-24 years": {
-        "text": "1.04 male(s)/female"
+        "text": "1.02 male(s)/female"
       },
       "25-54 years": {
-        "text": "1 male(s)/female"
+        "text": "1.01 male(s)/female"
       },
       "55-64 years": {
-        "text": "0.66 male(s)/female"
+        "text": "0.64 male(s)/female"
       },
       "65 years and over": {
         "text": "0.63 male(s)/female"
       },
       "total population": {
-        "text": "0.9 male(s)/female (2015 est.)"
+        "text": "0.89 male(s)/female (2016 est.)"
+      }
+    },
+    "Mother's mean age at first birth": {
+      "text": "22.1",
+      "note": {
+        "text": "median age at first birth among women 25-29 (2007 est.)"
       }
     },
     "Infant mortality rate": {
       "total": {
-        "text": "8.07 deaths/1,000 live births"
+        "text": "7.9 deaths/1,000 live births"
       },
       "male": {
-        "text": "10.34 deaths/1,000 live births"
+        "text": "10.2 deaths/1,000 live births"
       },
       "female": {
-        "text": "6.17 deaths/1,000 live births (2015 est.)"
+        "text": "6.1 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "66.75 years"
+        "text": "67.1 years"
       },
       "male": {
-        "text": "62.64 years"
+        "text": "63 years"
       },
       "female": {
-        "text": "70.19 years (2015 est.)"
+        "text": "70.5 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "2.88 children born/woman (2015 est.)"
+      "text": "2.84 children born/woman (2016 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "35.6% (2007)"
     },
     "Health expenditures": {
-      "text": "6.3% of GDP (2013)"
+      "text": "3.3% of GDP (2014)"
     },
     "Physicians density": {
       "text": "0.71 physicians/1,000 population (2010)"
+    },
+    "Hospital bed density": {
+      "text": "5 beds/1,000 population (2010)"
     },
     "Drinking water source": {
       "improved": {
@@ -288,10 +294,13 @@
       },
       "former": {
         "text": "Pleasant Island"
+      },
+      "etymology": {
+        "text": "the island name may derive from the Nauruan word \"anaoero\" meaning \"I go to the beach\""
       }
     },
     "Government type": {
-      "text": "republic"
+      "text": "parliamentary republic"
     },
     "Capital": {
       "text": "no official capital; government offices in Yaren District",
@@ -309,7 +318,7 @@
       "text": "Independence Day, 31 January (1968)"
     },
     "Constitution": {
-      "text": "effective 29 January 1968; amended 1968, 2009, 2014 (2015)"
+      "text": "effective 29 January 1968; amended 1968, 2009, 2014 (2016)"
     },
     "Legal system": {
       "text": "mixed legal system of common law based on the English model and customary law"
@@ -342,7 +351,7 @@
         "text": "unicameral parliament (19 seats; members directly elected in multi-seat constituencies by majority vote; members serve 3-year terms)"
       },
       "elections": {
-        "text": "last held on 8 June 2013 (next to be held in 2016)"
+        "text": "last held on 9 July 2016 (next to be held in 2019)"
       },
       "election results": {
         "text": "percent of vote - NA; seats - independent 19"
@@ -383,9 +392,6 @@
       },
       "FAX": {
         "text": "[1] (212) 937-0079"
-      },
-      "consulate(s)": {
-        "text": "Agana (Guam)"
       }
     },
     "Diplomatic representation from the US": {
@@ -411,7 +417,7 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Revenues of this tiny island - a coral atoll with a land area of 21 square kilometers - traditionally have come from exports of phosphates. Few other resources exist, with most necessities being imported, mainly from Australia, its former occupier and later major source of support. Primary reserves of phosphates were exhausted and mining ceased in 2006, but mining of a deeper layer of \"secondary phosphate\" in the interior of the island began the following year. The secondary phosphate deposits may last another 30 years. Earnings from Nauru’s export of phosphate remains an important source of income. The rehabilitation of mined land and the replacement of income from phosphates are serious long-term problems. In anticipation of the exhaustion of Nauru's phosphate deposits, substantial amounts of phosphate income were invested in trust funds to help cushion the transition and provide for Nauru's economic future. Although revenue sources for government are limited, the opening of the Australian Regional Processing Center for asylum seekers since 2012 has sparked growth in the economy. Revenue derived from fishing licenses under the vessel day scheme has also boosted government income. Housing, hospitals, and other capital plant are deteriorating. The cost to Australia of keeping the government and economy afloat continues to climb. Few comprehensive statistics on the Nauru economy exist with estimates of Nauru's GDP varying widely."
+      "text": "Revenues of this tiny island - a coral atoll with a land area of 21 square kilometers - traditionally have come from exports of phosphates. Few other resources exist, with most necessities being imported, mainly from Australia, its former occupier and later major source of support. Primary reserves of phosphates were exhausted and mining ceased in 2006, but mining of a deeper layer of \"secondary phosphate\" in the interior of the island began the following year. The secondary phosphate deposits may last another 30 years. Earnings from Nauru’s export of phosphate remains an important source of income. Few comprehensive statistics on the Nauru economy exist; estimates of Nauru's GDP vary widely. ++  ++ The rehabilitation of mined land and the replacement of income from phosphates are serious long-term problems. In anticipation of the exhaustion of Nauru's phosphate deposits, substantial amounts of phosphate income were invested in trust funds to help cushion the transition and provide for Nauru's economic future. ++  ++ Although revenue sources for government are limited, the opening of the Australian Regional Processing Center for asylum seekers since 2012 has sparked growth in the economy. Revenue derived from fishing licenses under the \"vessel day scheme\" has also boosted government income. Housing, hospitals, and other capital plant are deteriorating. The cost to Australia of keeping the government and economy afloat continues to climb."
     },
     "GDP (purchasing power parity)": {
       "text": "$150.8 million (2015 est.) ++ $139.7 million (2014 est.) ++ $127 million (2013 est.)"
@@ -423,7 +429,10 @@
       "text": "8% (2015 est.) ++ 10% (2014 est.) ++ 4.5% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$14,800 (2015 est.) ++ $13,700 (2014 est.) ++ $12,500 (2013 est.)"
+      "text": "$14,800 (2015 est.) ++ $13,700 (2014 est.) ++ $12,500 (2013 est.)",
+      "note": {
+        "text": "data are in 2015 US dollars"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -497,7 +506,7 @@
       "text": "$33.3 million (2004 est.)"
     },
     "Exchange rates": {
-      "text": "Australian dollars (AUD) per US dollar - ++ 1.1094 (2014 est.) ++ 1.0358 (2013 est.) ++ 0.97 (2012 est.) ++ 0.9695 (2011 est.) ++ 1.0902 (2010)"
+      "text": "Australian dollars (AUD) per US dollar - ++ 1.3291 (2015 est.) ++ 1.1078 (2014 est.) ++ 1.0358 (2013 est.) ++ 0.97 (2012 est.) ++ 0.9695 (2011 est.)"
     }
   },
   "Energy": {
@@ -574,10 +583,10 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "0"
+        "text": "1,900"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "less than 1 (2014 est.)"
+        "text": "14 (July 2009 est.)"
       }
     },
     "Telephones - mobile cellular": {
@@ -585,7 +594,7 @@
         "text": "6,800"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "73 (2012)"
+        "text": "73 (July 2012 est.)"
       }
     },
     "Telephone system": {
@@ -599,17 +608,36 @@
     "Broadcast media": {
       "text": "1 government-owned TV station broadcasting programs from New Zealand sent via satellite or on videotape; 1 government-owned radio station, broadcasting on AM and FM, utilizes Australian and British programs (2009)"
     },
-    "Radio broadcast stations": {
-      "text": "AM 1, FM 0, shortwave 0 (1998)"
-    },
-    "Television broadcast stations": {
-      "text": "1 (1997)"
-    },
     "Internet country code": {
       "text": ".nr"
+    },
+    "Internet users": {
+      "total": {
+        "text": "5,100"
+      },
+      "percent of population": {
+        "text": "53.5% (July 2015 est.)"
+      }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "1"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "5"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "38,858"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "7,793,474 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "C2 (2016)"
+    },
     "Airports": {
       "text": "1 (2013)"
     },
@@ -638,30 +666,9 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "no regular military forces (2012)"
-    },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "2,542 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "1,823"
-      },
-      "females age 16-49": {
-        "text": "2,034 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "74"
-      },
-      "female": {
-        "text": "78 (2010 est.)"
-      }
     },
     "Military - note": {
       "text": "Nauru maintains no defense forces; under an informal agreement, defense is the responsibility of Australia"

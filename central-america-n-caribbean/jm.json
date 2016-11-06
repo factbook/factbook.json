@@ -55,12 +55,12 @@
     "Terrain": {
       "text": "mostly mountains, with narrow, discontinuous coastal plain"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Caribbean Sea 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "18 m"
       },
-      "highest point": {
-        "text": "Blue Mountain Peak 2,256 m"
+      "elevation extremes": {
+        "text": "lowest point: Caribbean Sea 0 m ++ highest point: Blue Mountain Peak 2,256 m"
       }
     },
     "Natural resources": {
@@ -78,18 +78,10 @@
       }
     },
     "Irrigated land": {
-      "text": "252.2 sq km (2003)"
+      "text": "250 sq km (2012)"
     },
-    "Total renewable water resources": {
-      "text": "9.4 cu km (2011)"
-    },
-    "Freshwater withdrawal (domestic/industrial/agricultural)": {
-      "total": {
-        "text": "0.93  cu km/yr (32%/16%/52%)"
-      },
-      "per capita": {
-        "text": "369.9  cu m/yr (2009)"
-      }
+    "Population - distribution": {
+      "text": "population density is high throughout, but increases in and around Kingston, Montego Bay, and Port Esquivel"
     },
     "Natural hazards": {
       "text": "hurricanes (especially July to November)"
@@ -110,6 +102,9 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "2,970,340 (July 2016 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "Jamaican(s)"
@@ -125,29 +120,23 @@
       "text": "English, English patois"
     },
     "Religions": {
-      "text": "Protestant 64.8% (includes Seventh Day Adventist 12.0%, Pentecostal 11.0%, Other Church of God 9.2%, New Testament Church of God 7.2%, Baptist 6.7%, Church of God in Jamaica 4.8%, Church of God of Prophecy 4.5%, Anglican 2.8%, United Church 2.1%, Methodist 1.6%, Revived 1.4%, Brethren .9%, and Moravian .7%), Roman Catholic 2.2%, Jehovah's Witness 1.9%, Rastafarian 1.1%, other 6.5%, none 21.3%, unspecified 2.3% (2011 est.)"
-    },
-    "Population": {
-      "text": "2,950,210 (July 2015 est.)"
+      "text": "Protestant 64.8% (includes Seventh Day Adventist 12.0%, Pentecostal 11.0%, Other Church of God 9.2%, New Testament Church of God 7.2%, Baptist 6.7%, Church of God in Jamaica 4.8%, Church of God of Prophecy 4.5%, Anglican 2.8%, United Church 2.1%, Methodist 1.6%, Revived 1.4%, Brethren 0.9%, and Moravian 0.7%), Roman Catholic 2.2%, Jehovah's Witness 1.9%, Rastafarian 1.1%, other 6.5%, none 21.3%, unspecified 2.3% (2011 est.)"
     },
     "Age structure": {
       "0-14 years": {
-        "text": "27.97% (male 419,725/female 405,573)"
+        "text": "27.56% (male 416,421/female 402,283)"
       },
       "15-24 years": {
-        "text": "21.46% (male 317,873/female 315,163)"
+        "text": "21.13% (male 315,190/female 312,362)"
       },
       "25-54 years": {
-        "text": "37% (male 538,173/female 553,486)"
+        "text": "37.59% (male 551,384/female 565,279)"
       },
       "55-64 years": {
-        "text": "5.69% (male 81,281/female 86,713)"
+        "text": "5.78% (male 82,754/female 88,786)"
       },
       "65 years and over": {
-        "text": "7.87% (male 103,958/female 128,265) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "7.94% (male 105,593/female 130,288) (2016 est.)"
       }
     },
     "Dependency ratios": {
@@ -166,26 +155,29 @@
     },
     "Median age": {
       "total": {
-        "text": "25.3 years"
+        "text": "25.6 years"
       },
       "male": {
-        "text": "24.8 years"
+        "text": "25.1 years"
       },
       "female": {
-        "text": "25.8 years (2015 est.)"
+        "text": "26.1 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "0.68% (2015 est.)"
+      "text": "0.68% (2016 est.)"
     },
     "Birth rate": {
-      "text": "18.16 births/1,000 population (2015 est.)"
+      "text": "18 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "6.7 deaths/1,000 population (2015 est.)"
+      "text": "6.7 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "-4.66 migrant(s)/1,000 population (2015 est.)"
+      "text": "-4.5 migrant(s)/1,000 population (2016 est.)"
+    },
+    "Population distribution": {
+      "text": "population density is high throughout, but increases in and around Kingston, Montego Bay, and Port Esquivel"
     },
     "Urbanization": {
       "urban population": {
@@ -209,16 +201,22 @@
         "text": "1.01 male(s)/female"
       },
       "25-54 years": {
-        "text": "0.97 male(s)/female"
+        "text": "0.98 male(s)/female"
       },
       "55-64 years": {
-        "text": "0.94 male(s)/female"
+        "text": "0.93 male(s)/female"
       },
       "65 years and over": {
         "text": "0.81 male(s)/female"
       },
       "total population": {
-        "text": "0.98 male(s)/female (2015 est.)"
+        "text": "0.98 male(s)/female (2016 est.)"
+      }
+    },
+    "Mother's mean age at first birth": {
+      "text": "21.2",
+      "note": {
+        "text": "median age at first birth among women 25-29 (2008 est.)"
       }
     },
     "Maternal mortality rate": {
@@ -226,34 +224,34 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "13.37 deaths/1,000 live births"
+        "text": "13.1 deaths/1,000 live births"
       },
       "male": {
-        "text": "13.93 deaths/1,000 live births"
+        "text": "13.7 deaths/1,000 live births"
       },
       "female": {
-        "text": "12.78 deaths/1,000 live births (2015 est.)"
+        "text": "12.5 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "73.55 years"
+        "text": "73.6 years"
       },
       "male": {
-        "text": "71.93 years"
+        "text": "72 years"
       },
       "female": {
-        "text": "75.24 years (2015 est.)"
+        "text": "75.3 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "2.01 children born/woman (2015 est.)"
+      "text": "1.99 children born/woman (2016 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "72.5% (2008/09)"
     },
     "Health expenditures": {
-      "text": "5.9% of GDP (2013)"
+      "text": "5.4% of GDP (2014)"
     },
     "Physicians density": {
       "text": "0.41 physicians/1,000 population (2008)"
@@ -278,22 +276,27 @@
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "1.62% (2014 est.)"
+      "text": "1.63% (2015 est.)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
-      "text": "29,400 (2014 est.)"
+      "text": "29,000 (2015 est.)"
     },
     "HIV/AIDS - deaths": {
-      "text": "1,300 (2014 est.)"
+      "text": "1,200 (2015 est.)"
+    },
+    "Major infectious diseases": {
+      "note": {
+        "text": "active local transmission of Zika virus by Aedes species mosquitoes has been identified in this country (as of August 2016); it poses an important risk (a large number of cases possible) among US citizens if bitten by an infective mosquito; other less common ways to get Zika are through sex, via blood transfusion, or during pregnancy, in which the pregnant woman passes Zika virus to her fetus (2016)"
+      }
     },
     "Obesity - adult prevalence rate": {
       "text": "26.8% (2014)"
     },
     "Children under the age of 5 years underweight": {
-      "text": "3.2% (2010)"
+      "text": "2.5% (2012)"
     },
     "Education expenditures": {
-      "text": "6.3% of GDP (2013)"
+      "text": "6% of GDP (2014)"
     },
     "Literacy": {
       "definition": {
@@ -309,17 +312,6 @@
         "text": "93.1% (2015 est.)"
       }
     },
-    "School life expectancy (primary to tertiary education)": {
-      "total": {
-        "text": "12 years"
-      },
-      "male": {
-        "text": "12 years"
-      },
-      "female": {
-        "text": "13 years (2013)"
-      }
-    },
     "Child labor - children ages 5-14": {
       "total number": {
         "text": "38,516"
@@ -330,13 +322,13 @@
     },
     "Unemployment, youth ages 15-24": {
       "total": {
-        "text": "34%"
+        "text": "37.8%"
       },
       "male": {
-        "text": "27.1%"
+        "text": "30%"
       },
       "female": {
-        "text": "42.6% (2012 est.)"
+        "text": "48.1% (2013 est.)"
       }
     }
   },
@@ -347,10 +339,13 @@
       },
       "conventional short form": {
         "text": "Jamaica"
+      },
+      "etymology": {
+        "text": "from the native Taino word \"haymaca\" meaning \"land of wood and water\" or possibly \"land of springs\""
       }
     },
     "Government type": {
-      "text": "constitutional parliamentary democracy and a Commonwealth realm"
+      "text": "parliamentary democracy (Parliament) under a constitutional monarchy; a Commonwealth realm"
     },
     "Capital": {
       "name": {
@@ -373,10 +368,10 @@
       "text": "6 August 1962 (from the UK)"
     },
     "National holiday": {
-      "text": "Independence Day, 6 August (1962)"
+      "text": "Emancipation Day, 1 August (1834); Independence Day, 6 August (1962)"
     },
     "Constitution": {
-      "text": "several previous (preindependence); latest drafted 1961-62, submitted to British Parliament 24 July 1962, entered into force 6 August 1962 (at independence); amended many times, last in 2015 (2015)"
+      "text": "several previous (preindependence); latest drafted 1961-62, submitted to British Parliament 24 July 1962, entered into force 6 August 1962 (at independence); amended many times, last in 2015 (2016)"
     },
     "Legal system": {
       "text": "common law system based on the English model"
@@ -385,14 +380,17 @@
       "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
     },
     "Citizenship": {
-      "birthright citizenship": {
+      "citizenship by birth": {
+        "text": "yes"
+      },
+      "citizenship by descent": {
         "text": "yes"
       },
       "dual citizenship recognized": {
-        "text": ""
+        "text": "yes"
       },
       "residency requirement for naturalization": {
-        "text": ""
+        "text": "4 out of the previous 5 years"
       }
     },
     "Suffrage": {
@@ -403,7 +401,7 @@
         "text": "Queen ELIZABETH II (since 6 February 1952); represented by Governor General Dr. Patrick L. ALLEN (since 26 February 2009)"
       },
       "head of government": {
-        "text": "Prime Minister Portia SIMPSON-MILLER (since 5 January 2012)"
+        "text": "Prime Minister Andrew HOLNESS (since 3 March 2016)"
       },
       "cabinet": {
         "text": "Cabinet appointed by the governor general on the advice of the prime minister"
@@ -425,7 +423,7 @@
     },
     "Judicial branch": {
       "highest resident court(s)": {
-        "text": "Court of Appeal (consists of president of the court and a minimum of 4 judges; Supreme Court (40 judges organized in specialized divisions); note - appeals beyond Jamaica's highest courts are submitted to the Judicial Committee of the Privy Council (in London) rather than to the Caribbean Court of Justice (the appellate court implemented for member states of the Caribbean Community)"
+        "text": "Court of Appeal (consists of president of the court and a minimum of 4 judges; Supreme Court (40 judges organized in specialized divisions); note - appeals beyond Jamaica's highest courts are referred to the Judicial Committee of the Privy Council (in London) rather than to the Caribbean Court of Justice (the appellate court implemented for member states of the Caribbean Community)"
       },
       "judge selection and term of office": {
         "text": "chief justice of the Supreme Court and president of the Court of Appeal appointed by the governor-general on the advice of the prime minister; other judges of both courts appointed by the governor-general on the advice of the Judicial Service Commission; judges of both courts serve till age 70"
@@ -445,7 +443,7 @@
     },
     "Diplomatic representation in the US": {
       "chief of mission": {
-        "text": "Ambassador Ralph THOMAS (since 17 September 2015)"
+        "text": "Ambassador Ralph Samuel THOMAS (since 9 September 2015)"
       },
       "chancery": {
         "text": "1520 New Hampshire Avenue NW, Washington, DC 20036"
@@ -500,58 +498,58 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "The Jamaican economy is heavily dependent on services, which accounts for more than 70% of GDP. The country continues to derive most of its foreign exchange from tourism, remittances, and bauxite/alumina. Remittances and tourism each account for 30% of GDP, while bauxite/alumina exports make up roughly 5% of GDP. The bauxite/alumina sector was most affected by the global downturn while the tourism industry and remittance flow remained resilient. Jamaica's economy faces many challenges to growth: high crime and corruption, large-scale unemployment and underemployment, and a debt-to-GDP ratio of about 130%. The attendant debt servicing cost consumes a large portion of the government's budget, limiting its ability to fund the critical infrastructure and social programs required to drive growth. Jamaica's economic growth rate in the recent past has been stagnant, averaging less than 1% per year for over 20 years. Jamaica's onerous public debt burden is largely the result of government bailouts to ailing sectors of the economy, most notably to the financial sector. In early 2010, the Jamaican Government initiated the Jamaica Debt Exchange to retire high-priced domestic bonds and reduce annual debt servicing. Despite these efforts, debt continued to be a serious concern, forcing the government to negotiate and sign a new IMF agreement in May 2013 to gain access to approximately $1 billion additional funds. As a precursor, the government instigated a second National Debt Exchange in 2012. The IMF deal requires the government to reform its tax system, eliminate discretionary tax exemptions and waivers, and achieve an annual surplus of 7.5%, excluding debt payments, to reduce its debt below 100% of GDP by 2020. The SIMPSON-MILLER administration now faces the difficult prospect of having to achieve fiscal discipline to maintain debt payments while simultaneously attacking a serious crime problem that is hampering economic growth. High unemployment exacerbates the crime problem, including gang violence that is fueled by the drug trade."
+      "text": "The Jamaican economy is heavily dependent on services, which accounts for more than 70% of GDP. The country continues to derive most of its foreign exchange from tourism, remittances, and bauxite/alumina. Remittances and tourism each account for 30% of GDP, while bauxite/alumina exports make up roughly 5% of GDP. The bauxite/alumina sector was most affected by the global downturn while the tourism industry and remittance flow remained resilient. ++  ++ Jamaica's economy faces many challenges to growth: high crime and corruption, large-scale unemployment and underemployment, and a debt-to-GDP ratio of about 130%. The attendant debt servicing cost consumes a large portion of the government's budget, limiting its ability to fund the critical infrastructure and social programs required to drive growth. Jamaica's economic growth rate in the recent past has been stagnant, averaging less than 1% per year for over 20 years. ++  ++ Jamaica's onerous public debt burden is largely the result of government bailouts to ailing sectors of the economy, most notably the financial sector. In early 2010, the Jamaican Government initiated the Jamaica Debt Exchange to retire high-priced domestic bonds and reduce annual debt servicing. Despite these efforts, debt continued to be a serious concern, forcing the government to negotiate and sign a new IMF agreement in May 2013 to gain access to approximately $1 billion in additional funds. As a precursor, the government instigated a second National Debt Exchange in 2012. The IMF deal requires the government to reform its tax system, eliminate discretionary tax exemptions and waivers, and achieve an annual surplus of 7.5%, excluding debt payments, to reduce its debt below 100% of GDP by 2020. The SIMPSON-MILLER administration now faces the difficult prospect of having to achieve fiscal discipline to maintain debt payments while simultaneously attacking a serious crime problem that is hampering economic growth. High unemployment exacerbates the crime problem, including gang violence, which is fueled by the drug trade."
     },
     "GDP (purchasing power parity)": {
-      "text": "$24.1 billion (2014 est.) ++ $24.01 billion (2013 est.) ++ $23.96 billion (2012 est.)",
+      "text": "$24.68 billion (2015 est.) ++ $24.45 billion (2014 est.) ++ $24.33 billion (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$13.71 billion (2014 est.)"
+      "text": "$14.22 billion (2015 est.)"
     },
     "GDP - real growth rate": {
-      "text": "0.4% (2014 est.) ++ 0.2% (2013 est.) ++ -0.5% (2012 est.)"
+      "text": "0.9% (2015 est.) ++ 0.5% (2014 est.) ++ 0.2% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$8,600 (2014 est.) ++ $8,600 (2013 est.) ++ $8,600 (2012 est.)",
+      "text": "$8,800 (2015 est.) ++ $8,700 (2014 est.) ++ $8,700 (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "Gross national saving": {
-      "text": "12.7% of GDP (2014 est.) ++ 12% of GDP (2013 est.) ++ 10.7% of GDP (2012 est.)"
+      "text": "12% of GDP (2015 est.) ++ 14.1% of GDP (2014 est.) ++ 12.2% of GDP (2013 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "85%"
+        "text": "84.8%"
       },
       "government consumption": {
         "text": "14.8%"
       },
       "investment in fixed capital": {
-        "text": "22%"
+        "text": "22.1%"
       },
       "investment in inventories": {
-        "text": "0.5%"
+        "text": "0.4%"
       },
       "exports of goods and services": {
-        "text": "31.2%"
+        "text": "32.9%"
       },
       "imports of goods and services": {
-        "text": "-53.4% ++  (2014 est.)"
+        "text": "-55% (2015 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "6.9%"
+        "text": "6.6%"
       },
       "industry": {
         "text": "21.2%"
       },
       "services": {
-        "text": "72% (2014 est.)"
+        "text": "72.2% (2015 est.)"
       }
     },
     "Agriculture - products": {
@@ -561,10 +559,10 @@
       "text": "tourism, bauxite/alumina, agricultural-processing, light manufactures, rum, cement, metal, paper, chemical products, telecommunications"
     },
     "Industrial production growth rate": {
-      "text": "1.2% (2014 est.)"
+      "text": "2.1% (2015 est.)"
     },
     "Labor force": {
-      "text": "1.304 million (2014 est.)"
+      "text": "1.309 million (2015 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -578,7 +576,7 @@
       }
     },
     "Unemployment rate": {
-      "text": "14.2% (2014 est.) ++ 15.2% (2013 est.)"
+      "text": "14% (2015 est.) ++ 14.2% (2014 est.)"
     },
     "Population below poverty line": {
       "text": "16.5% (2009 est.)"
@@ -596,77 +594,91 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$3.711 billion"
+        "text": "$3.899 billion"
       },
       "expenditures": {
-        "text": "$3.781 billion (2014 est.)"
+        "text": "$3.941 billion (2015 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "27.1% of GDP (2014 est.)"
+      "text": "28% of GDP (2015 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-0.5% of GDP (2014 est.)"
+      "text": "-0.3% of GDP (2015 est.)"
     },
     "Public debt": {
-      "text": "132.8% of GDP (2014 est.) ++ 133% of GDP (2013 est.)"
+      "text": "126.8% of GDP (2015 est.) ++ 129.9% of GDP (2014 est.)"
     },
     "Fiscal year": {
       "text": "1 April - 31 March"
     },
     "Inflation rate (consumer prices)": {
-      "text": "6.7% (2014 est.) ++ 9.4% (2013 est.)"
+      "text": "3.7% (2015 est.) ++ 8.3% (2014 est.)"
     },
     "Central bank discount rate": {
       "text": "2% (31 December 2010)"
     },
     "Commercial bank prime lending rate": {
-      "text": "17.22% (31 December 2014 est.) ++ 17.72% (31 December 2013 est.)"
+      "text": "16.98% (31 December 2015 est.) ++ 17.22% (31 December 2014 est.)"
     },
     "Stock of narrow money": {
-      "text": "$3.156 billion (31 December 2014 est.) ++ $1.905 billion (31 December 2013 est.)"
+      "text": "$3.542 billion (31 December 2015 est.) ++ $3.156 billion (31 December 2014 est.)"
     },
     "Stock of broad money": {
-      "text": "$7.519 billion (31 December 2014 est.) ++ $6.432 billion (31 December 2013 est.)"
+      "text": "$7.847 billion (31 December 2015 est.) ++ $7.519 billion (31 December 2014 est.)"
     },
     "Stock of domestic credit": {
-      "text": "$7.078 billion (31 December 2014 est.) ++ $6.984 billion (31 December 2013 est.)"
+      "text": "$6.881 billion (31 December 2015 est.) ++ $7.078 billion (31 December 2014 est.)"
     },
     "Market value of publicly traded shares": {
-      "text": "$6.39 billion (31 December 2012 est.) ++ $7.223 billion (31 December 2011) ++ $6.626 billion (31 December 2010 est.)"
+      "text": "$6.39 billion (31 December 2012 est.) ++ $7.223 billion (31 December 2011 est.) ++ $6.626 billion (31 December 2010 est.)"
     },
     "Current account balance": {
-      "text": "-$1.013 billion (2014 est.) ++ -$1.239 billion (2013 est.)"
+      "text": "-$484 million (2015 est.) ++ -$1.071 billion (2014 est.)"
     },
     "Exports": {
-      "text": "$1.482 billion (2014 est.) ++ $1.581 billion (2013 est.)"
+      "text": "$1.261 billion (2015 est.) ++ $1.449 billion (2014 est.)"
     },
     "Exports - commodities": {
       "text": "alumina, bauxite, sugar, rum, coffee, yams, beverages, chemicals, apparel, mineral fuels"
     },
     "Exports - partners": {
-      "text": "US 39.5%, Canada 15.3%, Netherlands 5.7%, UK 5.2%, Russia 5.1%, Iceland 4.4% (2014)"
+      "text": "US 24.4%, Canada 16.5%, Russia 9.3%, Netherlands 8.9%, Iceland 7.2%, UK 6.5% (2015)"
     },
     "Imports": {
-      "text": "$5.2 billion (2014 est.) ++ $5.462 billion (2013 est.)"
+      "text": "$4.414 billion (2015 est.) ++ $5.208 billion (2014 est.)"
     },
     "Imports - commodities": {
       "text": "food and other consumer goods, industrial supplies, fuel, parts and accessories of capital goods, machinery and transport equipment, construction materials"
     },
     "Imports - partners": {
-      "text": "US 39.3%, Venezuela 11.5%, Trinidad and Tobago 10.2%, China 6.8% (2014)"
+      "text": "US 32.6%, Venezuela 12.4%, China 12%, Trinidad and Tobago 11.1% (2015)"
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$2.473 billion (31 December 2014 est.) ++ $1.818 billion (31 December 2013 est.)"
+      "text": "$2.914 billion (31 December 2015 est.) ++ $2.473 billion (31 December 2014 est.)"
     },
     "Debt - external": {
-      "text": "$17.3 billion (31 December 2014 est.) ++ $16.57 billion (31 December 2013 est.)"
+      "text": "$16.49 billion (31 December 2015 est.) ++ $17.25 billion (31 December 2014 est.)"
     },
     "Exchange rates": {
-      "text": "Jamaican dollars (JMD) per US dollar - ++ 110.935 (2014 est.) ++ 110.935 (2013 est.) ++ 88.75 (2012 est.) ++ 85.893 (2011 est.) ++ 87.196 (2010 est.)"
+      "text": "Jamaican dollars (JMD) per US dollar - ++ 116.898 (2015 est.) ++ 110.935 (2014 est.) ++ 110.935 (2013 est.) ++ 88.75 (2012 est.) ++ 85.893 (2011 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "200,000"
+      },
+      "electrification - total population": {
+        "text": "93%"
+      },
+      "electrification - urban areas": {
+        "text": "98%"
+      },
+      "electrification - rural areas": {
+        "text": "87% (2013)"
+      }
+    },
     "Electricity - production": {
       "text": "4.041 billion kWh (2012 est.)"
     },
@@ -740,18 +752,18 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "250,000"
+        "text": "252,630"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "9 (2014 est.)"
+        "text": "9 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "2.9 million"
+        "text": "3.137 million"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "98 (2014 est.)"
+        "text": "106 (July 2015 est.)"
       }
     },
     "Telephone system": {
@@ -759,34 +771,45 @@
         "text": "fully automatic domestic telephone network"
       },
       "domestic": {
-        "text": "the 1999 agreement to open the market for telecommunications services resulted in rapid growth in mobile-cellular telephone usage while the number of fixed lines in use has declined; combined mobile-cellular teledensity exceeded 110 per 100 persons in 2011"
+        "text": "the 1999 agreement to open the market for telecommunications services resulted in rapid growth in mobile-cellular telephone usage while the number of fixed lines in use has declined; combined fixed-line and mobile cellular teledensity exceeds 110 per 100 persons"
       },
       "international": {
-        "text": "country code - 1-876; the Fibralink submarine cable network provides enhanced delivery of business and broadband traffic and is linked to the Americas Region Caribbean Ring System (ARCOS-1) submarine cable in the Dominican Republic; the link to ARCOS-1 provides seamless connectivity to US, parts of the Caribbean, Central America, and South America; the ALBA-1 fiber-optic submarine cable links Jamaica, Cuba, and Venezuela; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2010)"
+        "text": "country code - 1-876; the Fibralink submarine cable network provides enhanced delivery of business and broadband traffic and is linked to the Americas Region Caribbean Ring System (ARCOS-1) submarine cable in the Dominican Republic; the link to ARCOS-1 provides seamless connectivity to US, parts of the Caribbean, Central America, and South America; the ALBA-1 fiber-optic submarine cable links Jamaica, Cuba, and Venezuela; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2015)"
       }
     },
     "Broadcast media": {
       "text": "3 free-to-air TV stations, subscription cable services, and roughly 30 radio stations (2013)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM 4, FM 24, shortwave 0 (2008)"
-    },
-    "Television broadcast stations": {
-      "text": "7 (1997)"
     },
     "Internet country code": {
       "text": ".jm"
     },
     "Internet users": {
       "total": {
-        "text": "1.5 million"
+        "text": "1.274 million"
       },
       "percent of population": {
-        "text": "49.8% (2014 est.)"
+        "text": "43.2% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "2"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "5"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "92,836"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "0 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "6Y (2016)"
+    },
     "Airports": {
       "text": "28 (2013)"
     },
@@ -812,7 +835,7 @@
         "text": "1"
       },
       "under 914 m": {
-        "text": " ++ 16 (2013)"
+        "text": "16 (2013)"
       }
     },
     "Roadways": {
@@ -846,36 +869,12 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "Jamaica Defense Force: Ground Forces, Coast Guard, Air Wing (2010)"
     },
     "Military service age and obligation": {
       "text": "17 1/2 is the legal minimum age for voluntary military service; no conscription (2012)"
-    },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "726,263"
-      },
-      "females age 16-49": {
-        "text": "742,958 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "590,673"
-      },
-      "females age 16-49": {
-        "text": "596,414 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "33,369"
-      },
-      "female": {
-        "text": "32,702 (2010 est.)"
-      }
     },
     "Military expenditures": {
       "text": "0.86% of GDP (2012) ++ 0.92% of GDP (2011) ++ 0.86% of GDP (2010)"
@@ -887,10 +886,10 @@
     },
     "Trafficking in persons": {
       "current situation": {
-        "text": "Jamaica is a source, transit, and destination country for children and adults subjected to sex trafficking and forced labor; the exploitation of local children in the sex trade is a serious problem; sex trafficking of children and adults occurs on the street, in night clubs, bars, and private homes; Jamaicans have been subjected to sexual exploitation or forced labor in the Caribbean, Canada, the US, and the UK, while foreigners have endured conditions of forced labor in Jamaica or aboard foreign-flagged fishing vessels operating in Jamaican waters; an alarmingly high number of Jamaican children are reported missing"
+        "text": "Jamaica is a source and destination country for children and adults subjected to sex trafficking and forced labor; sex trafficking of children and adults occurs on the street, in night clubs, bars, massage parlors, and private homes; child sex tourism is a problem in resort areas; Jamaicans have been subjected to sexual exploitation or forced labor in the Caribbean, Canada, the US, and the UK, while foreigners have endured conditions of forced labor in Jamaica or aboard foreign-flagged fishing vessels operating in Jamaican waters; a high number of Jamaican children are reported missing"
       },
       "tier rating": {
-        "text": "Tier 2 Watch List – Jamaica does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; in 2013, the government implemented amendments to strengthen the anti-trafficking law; for the fifth consecutive year, no trafficking offenders or officials complicit in human trafficking were convicted; the lack of victims identified raised concerns that the government did not employ standard operating procedures to guide front-line responders; a government-operated hotline continued to provide specialized assistance to human trafficking victims (2014)"
+        "text": "Tier 2 Watch List – Jamaica does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; in 2014, the government made significant efforts to raise public awareness of human trafficking, and named a national trafficking-in-persons rapporteur – the first in the region; authorities initiated more new trafficking investigations than in 2013 and concluded a trafficking case in the Supreme Court, but chronic delays impeded prosecutions and no offenders were convicted for the sixth consecutive year; more adult trafficking victims were identified than in previous years, but only one child victim was identified, which was exceptionally low relative to the number of vulnerable children (2015)"
       }
     },
     "Illicit drugs": {

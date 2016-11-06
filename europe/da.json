@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "Once the seat of Viking raiders and later a major north European power, Denmark has evolved into a modern, prosperous nation that is participating in the general political and economic integration of Europe. It joined NATO in 1949 and the EEC (now the EU) in 1973. However, the country has opted out of certain elements of the European Union's Maastricht Treaty, including the European Economic and Monetary Union (EMU), European defense cooperation, and issues concerning certain justice and home affairs."
+      "text": "Once the seat of Viking raiders and later a major north European power, Denmark has evolved into a modern, prosperous nation that is participating in the general political and economic integration of Europe. It joined NATO in 1949 and the EEC (now the EU) in 1973. However, the country has opted out of certain elements of the EU's Maastricht Treaty, including the European Economic and Monetary Union, European defense cooperation, and issues concerning certain justice and home affairs."
     }
   },
   "Geography": {
@@ -62,12 +62,12 @@
     "Terrain": {
       "text": "low and flat to gently rolling plains"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Lammefjord -7 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "34 m"
       },
-      "highest point": {
-        "text": "Mollehoj/Ejer Bavnehoj 171 m"
+      "elevation extremes": {
+        "text": "lowest point: Lammefjord -7 m ++ highest point: Mollehoj/Ejer Bavnehoj 171 m"
       }
     },
     "Natural resources": {
@@ -88,18 +88,10 @@
       }
     },
     "Irrigated land": {
-      "text": "4,354 sq km (2007)"
+      "text": "4,350 sq km (2012)"
     },
-    "Total renewable water resources": {
-      "text": "6 cu km (2011)"
-    },
-    "Freshwater withdrawal (domestic/industrial/agricultural)": {
-      "total": {
-        "text": "0.66  cu km/yr (58%/5%/36%)"
-      },
-      "per capita": {
-        "text": "118.4  cu m/yr (2009)"
-      }
+    "Population - distribution": {
+      "text": "with excellent access to the North Sea, Skagerrak, Kattegat, and the Baltic Sea, population centers tend to be along coastal areas, particularly in Copenhagen and the eastern side of the country's mainland"
     },
     "Natural hazards": {
       "text": "flooding is a threat in some areas of the country (e.g., parts of Jutland, along the southern coast of the island of Lolland) that are protected from the sea by a system of dikes"
@@ -120,6 +112,12 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "5,593,785",
+      "note": {
+        "text": "Statistics Denmark estimates the country's total population to be 5,724,456 as of 2016 Q3 (July 2016 est.)"
+      }
+    },
     "Nationality": {
       "noun": {
         "text": "Dane(s)"
@@ -140,27 +138,21 @@
     "Religions": {
       "text": "Evangelical Lutheran (official) 80%, Muslim 4%, other (denominations of less than 1% each, includes Roman Catholic, Jehovah's Witness, Serbian Orthodox Christian, Jewish, Baptist, and Buddhist) 16% (2012 est.)"
     },
-    "Population": {
-      "text": "5,581,503 (July 2015 est.)"
-    },
     "Age structure": {
       "0-14 years": {
-        "text": "16.77% (male 480,267/female 455,946)"
+        "text": "16.58% (male 475,763/female 451,557)"
       },
       "15-24 years": {
-        "text": "13.11% (male 373,547/female 358,150)"
+        "text": "13.12% (male 374,806/female 359,344)"
       },
       "25-54 years": {
-        "text": "39.03% (male 1,085,130/female 1,093,162)"
+        "text": "38.88% (male 1,082,404/female 1,092,672)"
       },
       "55-64 years": {
-        "text": "12.41% (male 344,509/female 348,201)"
+        "text": "12.45% (male 346,371/female 350,093)"
       },
       "65 years and over": {
-        "text": "18.68% (male 466,566/female 576,025) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "18.96% (male 475,330/female 585,445) (2016 est.)"
       }
     },
     "Dependency ratios": {
@@ -179,26 +171,29 @@
     },
     "Median age": {
       "total": {
-        "text": "41.8 years"
+        "text": "42 years"
       },
       "male": {
-        "text": "40.9 years"
+        "text": "41.1 years"
       },
       "female": {
-        "text": "42.8 years (2015 est.)"
+        "text": "43 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "0.22% (2015 est.)"
+      "text": "0.22% (2016 est.)"
     },
     "Birth rate": {
-      "text": "10.27 births/1,000 population (2015 est.)"
+      "text": "10.4 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "10.25 deaths/1,000 population (2015 est.)"
+      "text": "10.3 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "2.2 migrant(s)/1,000 population (2015 est.)"
+      "text": "2.1 migrant(s)/1,000 population (2016 est.)"
+    },
+    "Population distribution": {
+      "text": "with excellent access to the North Sea, Skagerrak, Kattegat, and the Baltic Sea, population centers tend to be along coastal areas, particularly in Copenhagen and the eastern side of the country's mainland"
     },
     "Urbanization": {
       "urban population": {
@@ -231,39 +226,42 @@
         "text": "0.81 male(s)/female"
       },
       "total population": {
-        "text": "0.97 male(s)/female (2015 est.)"
+        "text": "0.97 male(s)/female (2016 est.)"
       }
+    },
+    "Mother's mean age at first birth": {
+      "text": "29.1 (2012 est.)"
     },
     "Maternal mortality rate": {
       "text": "6 deaths/100,000 live births (2015 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "4.05 deaths/1,000 live births"
+        "text": "4 deaths/1,000 live births"
       },
       "male": {
-        "text": "4.12 deaths/1,000 live births"
+        "text": "4.1 deaths/1,000 live births"
       },
       "female": {
-        "text": "3.97 deaths/1,000 live births (2015 est.)"
+        "text": "3.9 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "79.25 years"
+        "text": "79.4 years"
       },
       "male": {
-        "text": "76.82 years"
+        "text": "77 years"
       },
       "female": {
-        "text": "81.81 years (2015 est.)"
+        "text": "82 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "1.73 children born/woman (2015 est.)"
+      "text": "1.73 children born/woman (2016 est.)"
     },
     "Health expenditures": {
-      "text": "10.6% of GDP (2013)"
+      "text": "10.8% of GDP (2014)"
     },
     "Physicians density": {
       "text": "3.49 physicians/1,000 population (2010)"
@@ -300,7 +298,7 @@
       "text": "21% (2014)"
     },
     "Education expenditures": {
-      "text": "8.7% of GDP (2011)"
+      "text": "8.5% of GDP (2011)"
     },
     "School life expectancy (primary to tertiary education)": {
       "total": {
@@ -310,18 +308,18 @@
         "text": "18 years"
       },
       "female": {
-        "text": "19 years (2012)"
+        "text": "20 years (2014)"
       }
     },
     "Unemployment, youth ages 15-24": {
       "total": {
-        "text": "14.2%"
+        "text": "12.6%"
       },
       "male": {
-        "text": "14.8%"
+        "text": "13.7%"
       },
       "female": {
-        "text": "14.1% (2012 est.)"
+        "text": "11.5% (2014 est.)"
       }
     }
   },
@@ -338,10 +336,13 @@
       },
       "local short form": {
         "text": "Danmark"
+      },
+      "etymology": {
+        "text": "the name derives from the words \"Dane(s)\" and \"mark\"; the latter referring to a march (borderland) or forest"
       }
     },
     "Government type": {
-      "text": "constitutional monarchy"
+      "text": "parliamentary constitutional monarchy"
     },
     "Capital": {
       "name": {
@@ -367,13 +368,13 @@
       }
     },
     "Independence": {
-      "text": "ca. 965 (unified and Christianized under HARALD I Gormson); 5 June 1849 (became a constitutional monarchy)"
+      "text": "ca. 965 (unified and Christianized under HARALD I Gormson); 5 June 1849 (became a parliamentary constitutional monarchy)"
     },
     "National holiday": {
-      "text": "none designated; Constitution Day, 5 June (1849) is generally viewed as the National Day"
+      "text": "none designated; Constitution Day, 5 June (1849) is generally viewed as National Day"
     },
     "Constitution": {
-      "text": "several previous; latest adopted 5 June 1953; changed several times, last in 2009 (Danish Act of Succession) (2015)"
+      "text": "several previous; latest adopted 5 June 1953; changed several times, last in 2009 (Danish Act of Succession) (2016)"
     },
     "Legal system": {
       "text": "civil law; judicial review of legislative acts"
@@ -382,14 +383,17 @@
       "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
     },
     "Citizenship": {
-      "birthright citizenship": {
-        "text": ""
-      },
-      "dual citizenship recognized": {
+      "citizenship by birth": {
         "text": "no"
       },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Denmark"
+      },
+      "dual citizenship recognized": {
+        "text": "yes"
+      },
       "residency requirement for naturalization": {
-        "text": ""
+        "text": "7 years"
       }
     },
     "Suffrage": {
@@ -400,7 +404,7 @@
         "text": "Queen MARGRETHE II (since 14 January 1972); Heir Apparent Crown Prince FREDERIK, elder son of the monarch (born on 26 May 1968)"
       },
       "head of government": {
-        "text": "Prime Minister Helle THORNING-SCHMIDT (since 3 October 2011)"
+        "text": "Prime Minister Lars LOEKKE RASMUSSEN (since 28 June 2015)"
       },
       "cabinet": {
         "text": "Council of State appointed by the monarch"
@@ -417,7 +421,7 @@
         "text": "last held on 18 June 2015 (next to be held by June 2019)"
       },
       "election results": {
-        "text": "percent of vote by party - SDP 26.3%, DF 21.1%, V 19.5%, EL 7.8%, LA 7.5%, AP 4.8%, SLP 4.6%, SF 4.2%, C 3.4%, other 0.9%; seats by party - SDP 47, DF 37, V 34, EL 14, LA 13, AP 9, SLP 8, SF 7, C 6; note - does not include the two seats from Greenland and the two seats from the Faroe Islands"
+        "text": "percent of vote by party - SDP 26.3%, DF 21.1%, V 19.5%, EL 7.8%, LA 7.5%, AP 4.8%, SLP 4.6%, SF 4.2%, C 3.4%, other 0.9%; seats by party - SDP 47, DF 37, V 34, EL 14, LA 13, AP 9, SLP 8, SF 7, C 6; note - does not include each of the two seats from Greenland and the Faroe Islands"
       }
     },
     "Judicial branch": {
@@ -432,10 +436,10 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Alternative Party or AP [Uffe ELBAEK] ++ Conservative People's Party or C [Soren PAPE POULSEN] ++ Danish People's Party or DF [Kristian THULESEN DAHL] ++ Liberal Alliance or LA [Anders SAMUELSEN] ++ Liberal Party or V [Lars LOKKE RAMUSSEN] ++ Red-Green Alliance (Unity List) or EL [collective leadership, spokesperson Johanne SCHMIDT-NIELSEN] ++ Social Democratic Party or SDP [Mette FREDERIKSEN] ++ Social Liberal Party or SLP [Morten OSTERGAARD] ++ Socialist People's Party or SF [Pia OLSEN DYHR]"
+      "text": "Alternative Party or AP [Uffe ELBAEK] ++ Conservative People's Party or C [Soren PAPE POULSEN] ++ Danish People's Party or DF [Kristian THULESEN DAHL] ++ Liberal Alliance or LA [Anders SAMUELSEN] ++ Liberal Party or V [Lars LOEKKE RAMUSSEN] ++ Red-Green Alliance (Unity List) or EL [collective leadership, spokesperson Johanne SCHMIDT-NIELSEN] ++ Social Democratic Party or SDP [Mette FREDERIKSEN] ++ Social Liberal Party or SLP [Morten OSTERGAARD] ++ Socialist People's Party or SF [Pia OLSEN DYHR]"
     },
     "Political pressure groups and leaders": {
-      "text": "Confederation of Danish Employers or DA [President Jorn Neergaard LARSEN] ++ Confederation of Danish Industries [CEO Karsten DYBVAD] ++ Confederation of Danish Labor Unions (Landsorganisationen) or LO [President Harald BORSTING] ++ DaneAge Association [President Bjarne HASTRUP] ++ Danish Shipowners' Association [Chairman Carsten MORTENSEN] ++ Danish Bankers Association [CEO Joergen HORWITZ] ++ Danish Society for Nature Conservation [President Ella Maria BISSCHOP-LARSEN]",
+      "text": "Confederation of Danish Employers or DA [CEO Jacob HOLBRAAD] ++ Confederation of Danish Industries or DI [CEO Karsten DYBVAD] ++ Confederation of Danish Labor Unions (Landsorganisationen) or LO [President Lizette RISGAARD] ++ DaneAge Association [President Bjarne HASTRUP] ++ Danish Shipowners' Association [Director General and CEO Anne STEFFENSEN]] ++ Danish Bankers Association [CEO Ulrik NODGAARD] ++ Danish Society for Nature Conservation or DN [President Ella Maria BISSCHOP-LARSEN]",
       "other": {
         "text": "environmental groups; humanitarian relief; development assistance; human rights NGOs"
       }
@@ -500,58 +504,58 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "This thoroughly modern market economy features a high-tech agricultural sector, state-of-the-art industry with world-leading firms in pharmaceuticals, maritime shipping and renewable energy, and a high dependence on foreign trade. Denmark is a member of the European Union (EU); Danish legislation and regulations conform to EU standards on almost all issues. Danes enjoy a high standard of living and the Danish economy is characterized by extensive government welfare measures and an equitable distribution of income. Denmark is a net exporter of food and energy and enjoys a comfortable balance of payments surplus, but depends on imports of raw materials for the manufacturing sector. Within the EU, Denmark is among the strongest supporters of trade liberalization. After a long consumption-driven upswing, Denmark's economy began slowing in 2007 with the end of a housing boom. Housing prices dropped markedly in 2008-09 and, following a short respite in 2010, have since continued to decline. Household indebtedness is still relatively high at more than 275% of gross disposable income in the first half of 2013. The global financial crisis has exacerbated this cyclical slowdown through increased borrowing costs and lower export demand, consumer confidence, and investment. Denmark made a modest recovery in 2010, in part because of increased government spending; however, the country experienced a technical recession in late 2010-early 2011 and has been slow to emerge from it in 2012-14 . Historically low levels of unemployment rose sharply with the recession and have remained at about 6% in 2010-13, based on the national measure, about two-thirds average EU unemployment. An impending decline in the ratio of workers to retirees will be a major long-term issue. Denmark maintained a healthy budget surplus for many years up to 2008, but the budget balance swung into deficit in 2009, where it remains. In spite of the deficits, the new coalition government delivered a modest stimulus to the economy in 2012. Despite previously meeting the criteria to join the European Economic and Monetary Union (EMU), Denmark has negotiated an opt-out with the EU and is not required to adopt the euro."
+      "text": "This thoroughly modern market economy features a high-tech agricultural sector, advanced industry with world-leading firms in pharmaceuticals, maritime shipping and renewable energy, and a high dependence on foreign trade. Denmark is a net exporter of food, oil, and gas and enjoys a comfortable balance of payments surplus, but depends on imports of raw materials for the manufacturing sector. Danes enjoy a high standard of living and the Danish economy is characterized by extensive government welfare measures and an equitable distribution of income. An aging population will be a major long-term issue. ++  ++ Denmark is a member of the EU; Danish legislation and regulations conform to EU standards on almost all issues. Despite previously meeting the criteria to join the European Economic and Monetary Union, Denmark has negotiated an opt-out with the EU and is not required to adopt the euro. Within the EU, Denmark is among the strongest supporters of trade liberalization. ++  ++ After a long consumption-driven upswing, Denmark's economy began slowing in 2007 with the end of a housing boom. Housing prices dropped markedly in 2008-09 but, with significant regional differences, have since recovered. Household indebtedness is still relatively high at more than 305% of net disposable income in 2014, while household net worth - from private pension schemes and other assets - amounted to 546% of net disposable income. ++  ++ The global financial crisis exacerbated this cyclical slowdown by increasing domestic borrowing costs and lowering foreign demand for Danish exports. Denmark maintained a healthy budget surplus for many years up to 2008, but the budget balance swung into deficit in 2009. The structural budget deficit has remained below 1% and is estimated at -0.4% in 2016. Denmark is experiencing a lackluster economic recovery, having still not regained the GDP level of 2008. GDP contracted in 2012 and 2013, followed by real growth of 1.3% in 2014, and 1.2% in 2015. The government projects 1.9% growth in 2016, while private sector estimates are about 1% growth. A historically low level of unemployment rose with the economic downturn but the labor market has strengthened since 2013, and unemployment stood at about 4.5% in early 2016, based on the national measure. Productivity growth was significantly below the OECD average in 2012–2014."
     },
     "GDP (purchasing power parity)": {
-      "text": "$250.7 billion (2014 est.) ++ $248 billion (2013 est.) ++ $249.2 billion (2012 est.)",
+      "text": "$258.8 billion (2015 est.) ++ $256.3 billion (2014 est.) ++ $253.1 billion (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$342.4 billion (2014 est.)"
+      "text": "$295.1 billion (2015 est.)"
     },
     "GDP - real growth rate": {
-      "text": "1.1% (2014 est.) ++ -0.5% (2013 est.) ++ -0.7% (2012 est.)"
+      "text": "1% (2015 est.) ++ 1.3% (2014 est.) ++ -0.2% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$44,600 (2014 est.) ++ $44,100 (2013 est.) ++ $44,400 (2012 est.)",
+      "text": "$45,700 (2015 est.) ++ $45,500 (2014 est.) ++ $45,200 (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "Gross national saving": {
-      "text": "25.7% of GDP (2014 est.) ++ 26% of GDP (2013 est.) ++ 24.6% of GDP (2012 est.)"
+      "text": "26.6% of GDP (2015 est.) ++ 27.6% of GDP (2014 est.) ++ 26.6% of GDP (2013 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "48.6%"
+        "text": "48%"
       },
       "government consumption": {
-        "text": "26.6%"
+        "text": "26.1%"
       },
       "investment in fixed capital": {
-        "text": "18.7%"
+        "text": "19%"
       },
       "investment in inventories": {
-        "text": "0.8%"
+        "text": "0.5%"
       },
       "exports of goods and services": {
-        "text": "53.7%"
+        "text": "53.4%"
       },
       "imports of goods and services": {
-        "text": "-48.3% ++  (2014 est.)"
+        "text": "-47.2% (2015 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "1.4%"
+        "text": "1.1%"
       },
       "industry": {
-        "text": "22.5%"
+        "text": "23.3%"
       },
       "services": {
-        "text": "76.2% (2014 est.)"
+        "text": "75.7% (2015 est.)"
       }
     },
     "Agriculture - products": {
@@ -561,10 +565,10 @@
       "text": "iron, steel, nonferrous metals, chemicals, food processing, machinery and transportation equipment, textiles and clothing, electronics, construction, furniture and other wood products, shipbuilding and refurbishment, windmills, pharmaceuticals, medical equipment"
     },
     "Industrial production growth rate": {
-      "text": "0.5% (2014 est.)"
+      "text": "1.3% (2015 est.)"
     },
     "Labor force": {
-      "text": "2.776 million (2014 est.)"
+      "text": "2.801 million (2015 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -578,7 +582,7 @@
       }
     },
     "Unemployment rate": {
-      "text": "4.9% (2014 est.) ++ 5.6% (2013 est.)"
+      "text": "4.6% (2015 est.) ++ 5% (2014 est.)"
     },
     "Population below poverty line": {
       "text": "13.4% (2011 est.)"
@@ -596,86 +600,91 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$200.3 billion"
+        "text": "$159.3 billion"
       },
       "expenditures": {
-        "text": "$195.8 billion (2014 est.)"
+        "text": "$164.4 billion (2015 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "58.5% of GDP (2014 est.)"
+      "text": "54% of GDP (2015 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "1.3% of GDP (2014 est.)"
+      "text": "-1.7% of GDP (2015 est.)"
     },
     "Public debt": {
-      "text": "45.1% of GDP (2014 est.) ++ 45% of GDP (2013 est.)",
+      "text": "40.2% of GDP (2015 est.) ++ 44.8% of GDP (2014 est.)",
       "note": {
-        "text": "data cover general government debt, and includes debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intra-governmental debt; intra-governmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions"
+        "text": "data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intra-governmental debt; intra-governmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions"
       }
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Inflation rate (consumer prices)": {
-      "text": "0.6% (2014 est.) ++ 0.8% (2013 est.)"
+      "text": "0.5% (2015 est.) ++ 0.6% (2014 est.)"
     },
     "Central bank discount rate": {
       "text": "0.75% (31 December 2011) ++ 0.75% (31 December 2010)"
     },
     "Commercial bank prime lending rate": {
-      "text": "3.62% (31 December 2014 est.) ++ 4.04% (31 December 2013 est.)"
+      "text": "3.42% (31 December 2015 est.) ++ 3.62% (31 December 2014 est.)"
     },
     "Stock of narrow money": {
-      "text": "$154.7 billion (31 December 2014 est.) ++ $162.3 billion (31 December 2013 est.)"
+      "text": "$151.9 billion (31 December 2015 est.) ++ $153.7 billion (31 December 2014 est.)"
     },
     "Stock of broad money": {
       "text": "$181.1 billion (31 December 2014 est.) ++ $189.2 billion (31 December 2013 est.)"
     },
     "Stock of domestic credit": {
-      "text": "$705.9 billion (31 December 2014 est.) ++ $764.9 billion (31 December 2013 est.)"
+      "text": "$632.9 billion (31 December 2015 est.) ++ $702.3 billion (31 December 2014 est.)"
     },
     "Market value of publicly traded shares": {
-      "text": "$224.9 billion (31 December 2012 est.) ++ $179.5 billion (31 December 2011) ++ $231.7 billion (31 December 2010 est.)"
+      "text": "$224.9 billion (31 December 2012 est.) ++ $179.5 billion (31 December 2011 est.) ++ $231.7 billion (31 December 2010 est.)"
     },
     "Current account balance": {
-      "text": "$21.43 billion (2014 est.) ++ $24.21 billion (2013 est.)"
+      "text": "$20.75 billion (2015 est.) ++ $26.71 billion (2014 est.)"
     },
     "Exports": {
-      "text": "$111.4 billion (2014 est.) ++ $111.7 billion (2013 est.)"
+      "text": "$95.97 billion (2015 est.) ++ $111.4 billion (2014 est.)"
     },
     "Exports - commodities": {
       "text": "machinery and instruments, meat and meat products, dairy products, fish, pharmaceuticals, furniture, windmills"
     },
     "Exports - partners": {
-      "text": "Germany 18.6%, Sweden 12.1%, UK 8.1%, US 6.7%, Norway 6.5%, Netherlands 4.4% (2014)"
+      "text": "Germany 17.8%, Sweden 11.6%, US 8.4%, Norway 6.3%, UK 6.3%, Netherlands 4.4%, China 4.2% (2015)"
     },
     "Imports": {
-      "text": "$101.3 billion (2014 est.) ++ $99.79 billion (2013 est.)"
+      "text": "$85.02 billion (2015 est.) ++ $101.3 billion (2014 est.)"
     },
     "Imports - commodities": {
       "text": "machinery and equipment, raw materials and semimanufactures for industry, chemicals, grain and foodstuffs, consumer goods"
     },
     "Imports - partners": {
-      "text": "Germany 21.3%, Sweden 12.8%, Netherlands 8%, Norway 6.3%, China 6.3%, UK 4.9% (2014)"
+      "text": "Germany 20.4%, Sweden 12.3%, Netherlands 8.1%, China 7.3%, Norway 6.1%, UK 4.4% (2015)"
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$75.38 billion (31 December 2014 est.) ++ $88.67 billion (31 December 2013 est.)"
+      "text": "$65.19 billion (31 December 2015 est.) ++ $75.38 billion (31 December 2014 est.)"
     },
     "Debt - external": {
-      "text": "$75.38 billion (31 December 2014 est.) ++ $88.67 billion (31 December 2013 est.)"
+      "text": "$534.6 billion (31 December 2014 est.) ++ $609.8 billion (31 December 2013 est.)"
     },
     "Stock of direct foreign investment - at home": {
-      "text": "$144.5 billion (31 December 2014 est.) ++ $146.3 billion (31 December 2013 est.)"
+      "text": "$133.3 billion (31 December 2015 est.) ++ $145.7 billion (31 December 2014 est.)"
     },
     "Stock of direct foreign investment - abroad": {
-      "text": "$249.8 billion (31 December 2014 est.) ++ $263.4 billion (31 December 2013 est.)"
+      "text": "$239.2 billion (31 December 2015 est.) ++ $250 billion (31 December 2014 est.)"
     },
     "Exchange rates": {
-      "text": "Danish kroner (DKK) per US dollar - ++ 5.6125 (2014 est.) ++ 5.6125 (2013 est.) ++ 5.79 (2012 est.) ++ 5.3687 (2011 est.) ++ 5.6241 (2010 est.)"
+      "text": "Danish kroner (DKK) per US dollar - ++ 6.7236 (2015 est.) ++ 5.6183 (2014 est.) ++ 5.6125 (2013 est.) ++ 5.79 (2012 est.) ++ 5.3687 (2011 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
+    },
     "Electricity - production": {
       "text": "28.93 billion kWh (2012 est.)"
     },
@@ -749,53 +758,64 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "1.88 million"
+        "text": "1,694,051"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "34 (2014 est.)"
+        "text": "30 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "7.1 million"
+        "text": "7.266 million"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "128 (2014 est.)"
+        "text": "130 (July 2015 est.)"
       }
     },
     "Telephone system": {
       "general assessment": {
-        "text": "excellent telephone and telegraph services"
+        "text": "excellent telephone and Internet services"
       },
       "domestic": {
-        "text": "buried and submarine cables and microwave radio relay form trunk network, multiple cellular mobile communications systems"
+        "text": "buried and submarine cables and microwave radio relay form trunk network; multiple mobile-cellular communications systems"
       },
       "international": {
-        "text": "country code - 45; a series of fiber-optic submarine cables link Denmark with Canada, Faroe Islands, Germany, Iceland, Netherlands, Norway, Poland, Russia, Sweden, and UK; satellite earth stations - 18 (6 Intelsat, 10 Eutelsat, 1 Orion, 1 Inmarsat (Blaavand-Atlantic-East)); note - the Nordic countries (Denmark, Finland, Iceland, Norway, and Sweden) share the Danish earth station and the Eik, Norway, station for worldwide Inmarsat access (2011)"
+        "text": "country code - 45; a series of fiber-optic submarine cables link Denmark with Canada, Faroe Islands, Germany, Iceland, Netherlands, Norway, Poland, Russia, Sweden, and UK; satellite earth stations - 18 (6 Intelsat, 10 Eutelsat, 1 Orion, 1 Inmarsat (Blaavand-Atlantic-East)); note - the Nordic countries (Denmark, Finland, Iceland, Norway, and Sweden) share the Danish earth station and the Eik, Norway, station for worldwide Inmarsat access (2015)"
       }
     },
     "Broadcast media": {
-      "text": "strong public-sector TV presence with state-owned Danmarks Radio operating 4 channels and publicly owned TV2 operating roughly a half dozen channels; broadcasts of privately owned stations are available via satellite and cable feed; DR operates 4 nationwide FM radio stations, 15 digital audio broadcasting stations, and about 15 web-based radio stations; approximately 250 commercial and community radio stations (2007)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM 1, FM 355, shortwave 0 (1998)"
-    },
-    "Television broadcast stations": {
-      "text": "172 (2008)"
+      "text": "strong public-sector TV presence with state-owned Danmarks Radio (DR) operating 6 channels and publicly owned TV2 operating roughly a half-dozen channels; broadcasts of privately owned stations are available via satellite and cable feed; DR operates 4 nationwide FM radio stations, 10 digital audio broadcasting stations, and 14 web-based radio stations; in 2010, there were 140 commercial and 187 community (non-commercial) radio stations"
     },
     "Internet country code": {
       "text": ".dk"
     },
     "Internet users": {
       "total": {
-        "text": "5.4 million"
+        "text": "5.377 million"
       },
       "percent of population": {
-        "text": "96.1% (2014 est.)"
+        "text": "96.3% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "10"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "76"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "582,011"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "0 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "OY (2016)"
+    },
     "Airports": {
       "text": "80 (2013)"
     },
@@ -827,7 +847,7 @@
         "text": "5"
       },
       "under 914 m": {
-        "text": " ++ 47 (2013)"
+        "text": "47 (2013)"
       }
     },
     "Pipelines": {
@@ -835,18 +855,18 @@
     },
     "Railways": {
       "total": {
-        "text": "2,414 km"
+        "text": "2,633 km"
       },
       "standard gauge": {
-        "text": "2,414 km 1.435-m gauge (626 km electrified) (2014)"
+        "text": "2,633 km 1.435-m gauge (642 km electrified) (2015)"
       }
     },
     "Roadways": {
       "total": {
-        "text": "73,929 km"
+        "text": "74,497 km"
       },
       "paved": {
-        "text": "73,929 km (includes 1,143 km of expressways) (2012)"
+        "text": "74,497 km (includes 1,188 km of expressways) (2016)"
       }
     },
     "Waterways": {
@@ -881,51 +901,27 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "Defense Command: Army Operational Command, Admiral Danish Fleet, Arctic Command, Tactical Air Command, Home Guard (2010)"
     },
     "Military service age and obligation": {
       "text": "18 years of age for compulsory and voluntary military service; conscripts serve an initial training period that varies from 4 to 12 months according to specialization; reservists are assigned to mobilization units following completion of their conscript service; women eligible to volunteer for military service (2012)"
     },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "1,236,337"
-      },
-      "females age 16-49": {
-        "text": "1,224,182 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "1,014,560"
-      },
-      "females age 16-49": {
-        "text": "1,003,921 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "37,913"
-      },
-      "female": {
-        "text": "35,865 (2010 est.)"
-      }
-    },
     "Military expenditures": {
-      "text": "1.37% of GDP (2013) ++ 1.41% of GDP (2012) ++ 1.35% of GDP (2011) ++ 1.41% of GDP (2010)"
+      "text": "1.2% of GDP (2015) ++ 1.17% of GDP (2014) ++ 1.37% of GDP (2013) ++ 1.41% of GDP (2012) ++ 1.35% of GDP (2011)"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Faroese continue to study proposals for full independence; sovereignty dispute with Canada over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission"
+      "text": "Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; sovereignty dispute with Canada over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission"
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
-        "text": "7,253 (Afghanistan) (2014)"
+        "text": "12,988 (Syria) (2015)"
       },
       "stateless persons": {
-        "text": "4,725 (2014)"
+        "text": "6,580 (2015)"
       }
     }
   }

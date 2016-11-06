@@ -26,10 +26,7 @@
       }
     },
     "Area - comparative": {
-      "text": "slightly less than twice the size of New Jersey",
-      "Area comparison map": {
-        "text": null
-      }
+      "text": "slightly less than twice the size of New Jersey"
     },
     "Land boundaries": {
       "total": {
@@ -51,12 +48,12 @@
     "Terrain": {
       "text": "mostly mountains (Alps in south, Jura in northwest) with a central plateau of rolling hills, plains, and large lakes"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Lake Maggiore 195 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "1,350 m"
       },
-      "highest point": {
-        "text": "Dufourspitze 4,634 m"
+      "elevation extremes": {
+        "text": "lowest point: Lake Maggiore 195 m ++ highest point: Dufourspitze 4,634 m"
       }
     },
     "Natural resources": {
@@ -74,18 +71,10 @@
       }
     },
     "Irrigated land": {
-      "text": "550 sq km (2007)"
+      "text": "630 sq km (2012)"
     },
-    "Total renewable water resources": {
-      "text": "53.5 cu km (2011)"
-    },
-    "Freshwater withdrawal (domestic/industrial/agricultural)": {
-      "total": {
-        "text": "2.61  cu km/yr (39%/58%/3%)"
-      },
-      "per capita": {
-        "text": "360.3  cu m/yr (2010)"
-      }
+    "Population - distribution": {
+      "text": "population distribution corresponds to elevation with the northern and western areas far more heavily populated; the higher Alps of the south limit settlement"
     },
     "Natural hazards": {
       "text": "avalanches, landslides; flash floods"
@@ -106,6 +95,9 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "8,179,294 (July 2016 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "Swiss (singular and plural)"
@@ -118,35 +110,29 @@
       "text": "German 65%, French 18%, Italian 10%, Romansch 1%, other 6%"
     },
     "Languages": {
-      "text": "German (official) 64.9%, French (official) 22.6%, Italian (official) 8.3%, Serbo-Croatian 2.5%, Albanian 2.6%, Portuguese 3.4%, Spanish 2.2%, English 4.6%, Romansch (official) 0.5%, other 5.1%",
+      "text": "German (official) 63.5%, French (official) 22.5%, Italian (official) 8.1%, English 4.4%, Portuguese 3.4%, Albanian 3.1%, Serbo-Croatian 2.5%, Spanish 2.2%, Romansch (official) 0.5%, other 6.6%",
       "note": {
-        "text": "German, French, Italian, and Romansch are all national and official languages; totals more than 100% because some respondents indicated more than one main principal language (2012 est.)"
+        "text": "German, French, Italian, and Romansch are all national and official languages; totals more than 100% because some respondents indicated more than one main language (2013 est.)"
       }
     },
     "Religions": {
-      "text": "Roman Catholic 38.2%, Protestant 26.9%, Muslim 4.9%, other Christian 5.7%, other 1.6%, none 21.4%, unspecified 1.3% (2012 est.)"
-    },
-    "Population": {
-      "text": "8,121,830 (July 2015 est.)"
+      "text": "Roman Catholic 38.2%, Protestant 26.9%, other Christian 5.6%, Muslim 5%, other 1.6%, none 21.4%, unspecified 1.3% (2013 est.)"
     },
     "Age structure": {
       "0-14 years": {
-        "text": "15.09% (male 630,944/female 594,465)"
+        "text": "15.1% (male 635,840/female 599,255)"
       },
       "15-24 years": {
-        "text": "11.29% (male 468,036/female 449,309)"
+        "text": "11.11% (male 463,953/female 444,500)"
       },
       "25-54 years": {
-        "text": "43.67% (male 1,780,039/female 1,766,820)"
+        "text": "43.46% (male 1,783,071/female 1,771,590)"
       },
       "55-64 years": {
-        "text": "12.18% (male 494,285/female 495,107)"
+        "text": "12.37% (male 506,010/female 506,103)"
       },
       "65 years and over": {
-        "text": "17.76% (male 631,204/female 811,621) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "17.96% (male 645,225/female 823,747) (2016 est.)"
       }
     },
     "Dependency ratios": {
@@ -165,26 +151,29 @@
     },
     "Median age": {
       "total": {
-        "text": "42.1 years"
+        "text": "42.2 years"
       },
       "male": {
-        "text": "41.1 years"
+        "text": "41.3 years"
       },
       "female": {
-        "text": "43.1 years (2015 est.)"
+        "text": "43.2 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "0.71% (2015 est.)"
+      "text": "0.7% (2016 est.)"
     },
     "Birth rate": {
-      "text": "10.5 births/1,000 population (2015 est.)"
+      "text": "10.5 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "8.13 deaths/1,000 population (2015 est.)"
+      "text": "8.2 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "4.74 migrant(s)/1,000 population (2015 est.)"
+      "text": "4.7 migrant(s)/1,000 population (2016 est.)"
+    },
+    "Population distribution": {
+      "text": "population distribution corresponds to elevation with the northern and western areas far more heavily populated; the higher Alps of the south limit settlement"
     },
     "Urbanization": {
       "urban population": {
@@ -217,39 +206,42 @@
         "text": "0.78 male(s)/female"
       },
       "total population": {
-        "text": "0.97 male(s)/female (2015 est.)"
+        "text": "0.97 male(s)/female (2016 est.)"
       }
+    },
+    "Mother's mean age at first birth": {
+      "text": "30.4 (2012 est.)"
     },
     "Maternal mortality rate": {
       "text": "5 deaths/100,000 live births (2015 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "3.67 deaths/1,000 live births"
+        "text": "3.6 deaths/1,000 live births"
       },
       "male": {
-        "text": "4.03 deaths/1,000 live births"
+        "text": "4 deaths/1,000 live births"
       },
       "female": {
-        "text": "3.29 deaths/1,000 live births (2015 est.)"
+        "text": "3.3 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "82.5 years"
+        "text": "82.6 years"
       },
       "male": {
-        "text": "80.22 years"
+        "text": "80.3 years"
       },
       "female": {
-        "text": "84.92 years (2015 est.)"
+        "text": "85 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "1.55 children born/woman (2015 est.)"
+      "text": "1.55 children born/woman (2016 est.)"
     },
     "Health expenditures": {
-      "text": "11.5% of GDP (2013)"
+      "text": "11.7% of GDP (2014)"
     },
     "Physicians density": {
       "text": "4.05 physicians/1,000 population (2012)"
@@ -286,7 +278,7 @@
       "text": "21% (2014)"
     },
     "Education expenditures": {
-      "text": "5.3% of GDP (2011)"
+      "text": "5.1% of GDP (2012)"
     },
     "School life expectancy (primary to tertiary education)": {
       "total": {
@@ -296,18 +288,18 @@
         "text": "16 years"
       },
       "female": {
-        "text": "16 years (2012)"
+        "text": "16 years (2014)"
       }
     },
     "Unemployment, youth ages 15-24": {
       "total": {
-        "text": "8.4%"
+        "text": "8.6%"
       },
       "male": {
-        "text": "8.8%"
+        "text": "8.6%"
       },
       "female": {
-        "text": "8.1% (2012 est.)"
+        "text": "8.5% (2014 est.)"
       }
     }
   },
@@ -324,10 +316,13 @@
       },
       "local short form": {
         "text": "Schweiz (German); Suisse (French); Svizzera (Italian); Svizra (Romansh)"
+      },
+      "etymology": {
+        "text": "name derives from the canton of Schwyz, one of the founding cantons of the Old Swiss Confederacy that formed in the 14th century"
       }
     },
     "Government type": {
-      "text": "formally a confederation but similar in structure to a federal republic"
+      "text": "federal republic (formally a confederation)"
     },
     "Capital": {
       "name": {
@@ -356,7 +351,7 @@
       "text": "Founding of the Swiss Confederation in 1291; note - since 1 August 1891 celebrated as Swiss National Day"
     },
     "Constitution": {
-      "text": "previous 1848, 1874; latest adopted by referendum 18 April 1999, effective 1 January 2000; amended many times, last in 2014 (2015)"
+      "text": "previous 1848, 1874; latest adopted by referendum 18 April 1999, effective 1 January 2000; amended many times, last in 2016 (2016)"
     },
     "Legal system": {
       "text": "civil law system; judicial review of legislative acts, except for federal decrees of a general obligatory character"
@@ -365,14 +360,17 @@
       "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
     },
     "Citizenship": {
-      "birthright citizenship": {
-        "text": ""
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Switzerland"
       },
       "dual citizenship recognized": {
         "text": "yes"
       },
       "residency requirement for naturalization": {
-        "text": ""
+        "text": "12 years including at least 3 of the last 5 years prior to application"
       }
     },
     "Suffrage": {
@@ -380,19 +378,19 @@
     },
     "Executive branch": {
       "chief of state": {
-        "text": "President of the Swiss Confederation Simonetta SOMMARUGA (since 1 January 2015); Vice President Johann N. SCHNEIDER-AMMANN (since 1 January 2015; note - the Federal Council, which is comprised of 7 federal councillors, constitutes the federal government of Switzerland; council members rotate in a 1-year term as federal president (chief of state and head of government)"
+        "text": "President of the Swiss Confederation Johann N. SCHNEIDER-AMMANN (since 1 January 2016); Vice President Doris LEUTARD (since 1 January 2016; note - the Federal Council, which is comprised of 7 federal councillors, constitutes the federal government of Switzerland; council members rotate in a 1-year term as federal president (chief of state and head of government)"
       },
       "head of government": {
-        "text": "President of the Swiss Confederation Simonetta SOMMARUGA (since 1 January 2015); Vice President Johann N. SCHNEIDER-AMMANN (since 1 January 2015)"
+        "text": "President of the Swiss Confederation Johann N. SCHNEIDER-AMMANN (since 1 January 2016); Vice President Doris LEUTARD (since 1 January 2016)"
       },
       "cabinet": {
         "text": "Federal Council or Bundesrat (in German), Conseil Federal (in French), Consiglio Federale (in Italian) indirectly elected usually from among its members by the Federal Assembly for a 4-year term"
       },
       "elections/appointments": {
-        "text": "president and vice president indirectly elected by the Federal Assembly from among members of the Federal Council for a 1-year, non-consecutive term; election last held on 3 December 2014 (next to be held in early December 2015)"
+        "text": "president and vice president indirectly elected by the Federal Assembly from among members of the Federal Council for a 1-year, non-consecutive term; election last held on 9 December 2015 (next to be held in early December 2016)"
       },
       "election results": {
-        "text": "Simonetta SOMMARUGA elected president; Federal Assembly vote - 181 of 236; Johann N. SCHNEIDER-AMMANN elected vice president"
+        "text": "Johann N. SCHNEIDER-AMMANN elected president; Federal Assembly vote - 196 of 208; Doris LEUTHARD elected vice president"
       }
     },
     "Legislative branch": {
@@ -400,10 +398,10 @@
         "text": "bicameral Federal Assembly or Bundesversammlung - in German, Assemblee Federale - in French, Assemblea Federale - in Italian consists of the Council of States or Staenderat - in German, Conseil des Etats - in French, Consiglio degli Stati - in Italian (46 seats; members in multi-seat constituencies representing cantons and single-seat constituencies representing half cantons directly elected by simple majority vote; members serve 4-year terms) and the National Council or Nationalrat - in German, Conseil National - in French, Consiglio Nazionale - in Italian (200 seats; 195 members in cantons directly elected by proportional representation vote and 5 in half cantons directly elected by simple majority vote; members serve 4-year terms)"
       },
       "elections": {
-        "text": "Council of States - last held in most cantons on 18 October 2015 (each canton determines when the next election will be held); National Council - last held on 18 October 2015 (next to be held on October 2019)"
+        "text": "Council of States - last held in most cantons on 18 October 2015 (each canton determines when the next election will be held); National Council - last held on 18 October 2015 (next to be held in October 2019)"
       },
       "election results": {
-        "text": "Council of States - percent of vote by party - NA; seats by party (as of 18 October 2015) - FDP 10, CVP 8, SP 7, SVP 6, other 2; National Council - percent of vote by party - SVP 29.4%, SPS 18.8%, FDP 16.4%, CVP 11.6%, Green Party 7.1%, GLP 4.6%, BDP 4.1%, other 8.0%; seats by party - SVP 65, SPS 43, FDP 33, CVP 27, Green Party 11, GLP 7, BDP 7, other 7"
+        "text": "Council of States - percent of vote by party - NA; seats by party (as of 18 October 2015) - Christian Democratic People's Party 13, FDP.The Liberals 13, SDP 12, Swiss People's Party 6, other 2; National Council - percent of vote by party - SVP 29.4%, SPS 18.8%, FDP 16.4%, CVP 11.6%, Green Party 7.1%, GLP 4.6%, BDP 4.1%, other 8.0%; seats by party - SVP 65, SPS 43, FDP 33, CVP 27, Green Party 11, GLP 7, BDP 7, other 7"
       }
     },
     "Judicial branch": {
@@ -418,7 +416,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Christian Democratic People's Party (Christlichdemokratische Volkspartei der Schweiz or CVP, Parti Democrate-Chretien Suisse or PDC, Partito Popolare Democratico Svizzero or PPD, Partida Cristiandemocratica dalla Svizra or PCD) [Christophe DARBELLAY] ++ Conservative Democratic Party (Buergerlich-Demokratische Partei Schweiz or BDP, Parti Bourgeois Democratique Suisse or PBD, Partito Borghese Democratico Svizzero or PBD, Partido burgais democratica Svizera or PBD) [Martin LANDOLT] ++ Free Democratic Party or FDP.The Liberals (FDP.Die Liberalen, PLR.Les Liberaux-Radicaux, PLR.I Liberali, Ils Liberals) [Philipp MUELLER] ++ Green Liberal Party (Grunliberale or GLP, Parti vert liberale or PVL, Partito Verde-Liberale or PVL, Partida Verde Liberale or PVL) [Martin BAEUMLE] ++ Green Party (Gruene Partei der Schweiz or Gruene, Parti Ecologiste Suisse or Les Verts, Partito Ecologista Svizzero or I Verdi, Partida Ecologica Svizra or La Verda) [Adele THORENS and Regula RYTZ] ++ Social Democratic Party (Sozialdemokratische Partei der Schweiz or SPS, Parti Socialiste Suisse or PSS, Partito Socialista Svizzero or PSS, Partida Socialdemocratica de la Svizra or PSS) [Christian LEVRAT] ++ Swiss People's Party (Schweizerische Volkspartei or SVP, Union Democratique du Centre or UDC, Unione Democratica di Centro or UDC, Uniun Democratica dal Center or UDC) [Toni BRUNNER] ++ other minor parties"
+      "text": "Christian Democratic People's Party (Christlichdemokratische Volkspartei der Schweiz or CVP, Parti Democrate-Chretien Suisse or PDC, Partito Popolare Democratico Svizzero or PPD, Partida Cristiandemocratica dalla Svizra or PCD) [Christophe DARBELLAY] ++ Conservative Democratic Party (Buergerlich-Demokratische Partei Schweiz or BDP, Parti Bourgeois Democratique Suisse or PBD, Partito Borghese Democratico Svizzero or PBD, Partido burgais democratica Svizera or PBD) [Martin LANDOLT] ++ Free Democratic Party or FDP.The Liberals (FDP.Die Liberalen, PLR.Les Liberaux-Radicaux, PLR.I Liberali, Ils Liberals) [Philipp MUELLER] ++ Green Liberal Party (Grunliberale or GLP, Parti vert liberale or PVL, Partito Verde-Liberale or PVL, Partida Verde Liberale or PVL) [Martin BAEUMLE] ++ Green Party (Gruene Partei der Schweiz or Gruene, Parti Ecologiste Suisse or Les Verts, Partito Ecologista Svizzero or I Verdi, Partida Ecologica Svizra or La Verda) [Adele THORENS GOUMAZ and Regula RYTZ] ++ Social Democratic Party (Sozialdemokratische Partei der Schweiz or SPS, Parti Socialiste Suisse or PSS, Partito Socialista Svizzero or PSS, Partida Socialdemocratica de la Svizra or PSS) [Christian LEVRAT] ++ Swiss People's Party (Schweizerische Volkspartei or SVP, Union Democratique du Centre or UDC, Unione Democratica di Centro or UDC, Uniun Democratica dal Center or UDC) [Toni BRUNNER] ++ other minor parties"
     },
     "Political pressure groups and leaders": {
       "text": "NA"
@@ -441,9 +439,6 @@
       },
       "consulate(s) general": {
         "text": "Atlanta, Chicago, Los Angeles, New York, San Francisco"
-      },
-      "consulate(s)": {
-        "text": "Boston"
       }
     },
     "Diplomatic representation from the US": {
@@ -481,58 +476,58 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Switzerland is a peaceful, prosperous, and modern market economy with low unemployment, a highly skilled labor force, and a per capita GDP among the highest in the world. Switzerland's economy benefits from a highly developed service sector, led by financial services, and a manufacturing industry that specializes in high-technology, knowledge-based production. Its economic and political stability, transparent legal system, exceptional infrastructure, efficient capital markets, and low corporate tax rates also make Switzerland one of the world's most competitive economies. ++  ++ The Swiss have brought their economic practices largely into conformity with the EU's to enhance their international competitiveness, but some trade protectionism remains, particularly for its small agricultural sector. The fate of the Swiss economy is tightly linked to that of its neighbors in the euro zone, which purchases half of Swiss exports. The global financial crisis of 2008 and resulting economic downturn in 2009 stalled demand for Swiss exports and put Switzerland into a recession. During this period, the Swiss National Bank (SNB) implemented a zero-interest rate policy to boost the economy, as well as to prevent appreciation of the franc, and Switzerland's economy began to recover in 2010. ++  ++ The sovereign debt crises unfolding in neighboring euro-zone countries, however, coupled with ongoing economic instability in Russia and other eastern European economies continue to pose a significant risk to the Swiss economy, driving up demand for the Swiss franc by investors seeking a safe-haven currency. In January 2015, the SNB abandoned the Swiss franc’s peg to the Euro, roiling global currency markets and making active SNB intervention a necessary hallmark of present-day Swiss monetary policy. The independent SNB has upheld its zero interest rate policy and conducted major market interventions to prevent further appreciation of the Swiss franc, but parliamentarians have urged it to do more to weaken the currency. The franc's strength has made Swiss exports less competitive and weakened the country's growth outlook; GDP growth fell below 2% per year from 2011-14. ++  ++ In recent years, Switzerland has responded to increasing pressure from neighboring countries and trading partners to reform its banking secrecy laws, by agreeing to conform to OECD regulations on administrative assistance in tax matters, including tax evasion. The Swiss government has also renegotiated its double taxation agreements with numerous countries, including the US, to incorporate OECD standards, and is openly considering the possibility of imposing taxes on bank deposits held by foreigners."
+      "text": "Switzerland, a country that espouses neutrality, is a prosperous and modern market economy with low unemployment, a highly skilled labor force, and a per capita GDP among the highest in the world. Switzerland's economy benefits from a highly developed service sector, led by financial services, and a manufacturing industry that specializes in high-technology, knowledge-based production. Its economic and political stability, transparent legal system, exceptional infrastructure, efficient capital markets, and low corporate tax rates also make Switzerland one of the world's most competitive economies. ++  ++ The Swiss have brought their economic practices largely into conformity with the EU's to enhance their international competitiveness, but some trade protectionism remains, particularly for its small agricultural sector. The fate of the Swiss economy is tightly linked to that of its neighbors in the euro zone, which purchases half of Swiss exports. The global financial crisis of 2008 and resulting economic downturn in 2009 stalled demand for Swiss exports and put Switzerland into a recession. During this period, the Swiss National Bank (SNB) implemented a zero-interest rate policy to boost the economy, as well as to prevent appreciation of the franc, and Switzerland's economy began to recover in 2010. ++  ++ The sovereign debt crises unfolding in neighboring euro-zone countries, however, coupled with ongoing economic instability in Russia and other eastern European economies continue to pose a significant risk to the Swiss economy, driving up demand for the Swiss franc by investors seeking a safe-haven currency. In January 2015, the SNB abandoned the Swiss franc’s peg to the euro, roiling global currency markets and making active SNB intervention a necessary hallmark of present-day Swiss monetary policy. The independent SNB has upheld its zero interest rate policy and conducted major market interventions to prevent further appreciation of the Swiss franc, but parliamentarians have urged it to do more to weaken the currency. The franc's strength has made Swiss exports less competitive and weakened the country's growth outlook; GDP growth fell below 2% per year from 2011-15. ++  ++ In recent years, Switzerland has responded to increasing pressure from neighboring countries and trading partners to reform its banking secrecy laws, by agreeing to conform to OECD regulations on administrative assistance in tax matters, including tax evasion. The Swiss government has also renegotiated its double taxation agreements with numerous countries, including the US, to incorporate OECD standards, and is openly considering the possibility of imposing taxes on bank deposits held by foreigners."
     },
     "GDP (purchasing power parity)": {
-      "text": "$473.3 billion (2014 est.) ++ $464.6 billion (2013 est.) ++ $456.4 billion (2012 est.)",
+      "text": "$483.1 billion (2015 est.) ++ $479.2 billion (2014 est.) ++ $470.3 billion (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$703.9 billion (2014 est.)"
+      "text": "$664 billion (2015 est.)"
     },
     "GDP - real growth rate": {
-      "text": "1.9% (2014 est.) ++ 1.8% (2013 est.) ++ 1.1% (2012 est.)"
+      "text": "0.8% (2015 est.) ++ 1.9% (2014 est.) ++ 1.8% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$58,100 (2014 est.) ++ $57,100 (2013 est.) ++ $56,100 (2012 est.)",
+      "text": "$58,600 (2015 est.) ++ $58,900 (2014 est.) ++ $58,500 (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "Gross national saving": {
-      "text": "31% of GDP (2014 est.) ++ 33.7% of GDP (2013 est.) ++ 34.4% of GDP (2012 est.)"
+      "text": "33.2% of GDP (2015 est.) ++ 32.2% of GDP (2014 est.) ++ 33.7% of GDP (2013 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "54.2%"
+        "text": "54.5%"
       },
       "government consumption": {
-        "text": "11%"
+        "text": "11.3%"
       },
       "investment in fixed capital": {
-        "text": "23.7%"
+        "text": "23.8%"
       },
       "investment in inventories": {
-        "text": "-0.3%"
+        "text": "-2%"
       },
       "exports of goods and services": {
-        "text": "64.4%"
+        "text": "63.6%"
       },
       "imports of goods and services": {
-        "text": "-53% ++  (2014 est.)"
+        "text": "-51.2% (2015 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "0.8%"
+        "text": "0.7%"
       },
       "industry": {
-        "text": "26.3%"
+        "text": "25.7%"
       },
       "services": {
-        "text": "73% (2014 est.)"
+        "text": "73.6% (2015 est.)"
       }
     },
     "Agriculture - products": {
@@ -542,10 +537,10 @@
       "text": "machinery, chemicals, watches, textiles, precision instruments, tourism, banking, insurance"
     },
     "Industrial production growth rate": {
-      "text": "2% (2014 est.)"
+      "text": "1.9% (2015 est.)"
     },
     "Labor force": {
-      "text": "5.055 million (2014 est.)"
+      "text": "5.105 million (2015 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -559,7 +554,7 @@
       }
     },
     "Unemployment rate": {
-      "text": "3.2% (2014 est.) ++ 3.2% (2013 est.)"
+      "text": "3.2% (2015 est.) ++ 3% (2014 est.)"
     },
     "Population below poverty line": {
       "text": "7.6% (2011 est.)"
@@ -577,23 +572,23 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$231.1 billion"
+        "text": "$230.9 billion"
       },
       "expenditures": {
-        "text": "$229.3 billion"
+        "text": "$229.8 billion"
       },
       "note": {
-        "text": "includes federal, cantonal, and municipal budgets (2014 est.)"
+        "text": "includes federal, cantonal, and municipal budgets (2015 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "32.8% of GDP (2014 est.)"
+      "text": "34.7% of GDP (2015 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "0.3% of GDP (2014 est.)"
+      "text": "0.2% of GDP (2015 est.)"
     },
     "Public debt": {
-      "text": "34.7% of GDP (2014 est.) ++ 33.7% of GDP (2013 est.)",
+      "text": "34.4% of GDP (2015 est.) ++ 34.7% of GDP (2014 est.)",
       "note": {
         "text": "general government gross debt; gross debt consists of all liabilities that require payment or payments of interest and/or principal by the debtor to the creditor at a date or dates in the future; includes debt liabilities in the form of Special Drawing Rights (SDRs), currency and deposits, debt securities, loans, insurance, pensions and standardized guarantee schemes, and other accounts payable; all liabilities in the GFSM 2001 system are debt, except for equity and investment fund shares and financial derivatives and employee stock options"
       }
@@ -602,31 +597,31 @@
       "text": "calendar year"
     },
     "Inflation rate (consumer prices)": {
-      "text": "0% (2014 est.) ++ -0.2% (2013 est.)"
+      "text": "-1.1% (2015 est.) ++ 0% (2014 est.)"
     },
     "Central bank discount rate": {
       "text": "0.5% (31 December 2010) ++ 0.75% (31 December 2009)"
     },
     "Commercial bank prime lending rate": {
-      "text": "2.69% (31 December 2014 est.) ++ 2.69% (31 December 2013 est.)"
+      "text": "2.68% (31 December 2015 est.) ++ 2.69% (31 December 2014 est.)"
     },
     "Stock of narrow money": {
-      "text": "$514.1 billion (31 December 2014 est.) ++ $570.5 billion (31 December 2013 est.)"
+      "text": "$508.2 billion (31 December 2015 est.) ++ $514.1 billion (31 December 2014 est.)"
     },
     "Stock of broad money": {
       "text": "$1.347 trillion (31 December 2014 est.) ++ $1.301 trillion (31 December 2013 est.)"
     },
     "Stock of domestic credit": {
-      "text": "$1.138 trillion (31 December 2014 est.) ++ $1.237 trillion (31 December 2013 est.)"
+      "text": "$1.142 trillion (31 December 2015 est.) ++ $1.138 trillion (31 December 2014 est.)"
     },
     "Market value of publicly traded shares": {
-      "text": "$1.079 trillion (31 December 2012 est.) ++ $932.2 billion (31 December 2011) ++ $1.229 trillion (31 December 2010 est.)"
+      "text": "$1.519 trillion (31 December 2015 est.) ++ $1.495 trillion (31 December 2014 est.) ++ $1.541 trillion (31 December 2013 est.)"
     },
     "Current account balance": {
-      "text": "$51.2 billion (2014 est.) ++ $76.36 billion (2013 est.)"
+      "text": "$75.82 billion (2015 est.) ++ $61.9 billion (2014 est.)"
     },
     "Exports": {
-      "text": "$327.6 billion (2014 est.) ++ $373.5 billion (2013 est.)",
+      "text": "$303.5 billion (2015 est.) ++ $327.7 billion (2014 est.)",
       "note": {
         "text": "trade data exclude trade with Switzerland"
       }
@@ -635,34 +630,39 @@
       "text": "machinery, chemicals, metals, watches, agricultural products"
     },
     "Exports - partners": {
-      "text": "Germany 18.3%, US 13%, France 7.3%, Italy 6.6%, UK 5%, China 4.1% (2014)"
+      "text": "Germany 14.2%, US 10.6%, Hong Kong 8.7%, India 7.3%, China 6.9%, France 6.1%, Italy 5.4%, UK 4.8% (2015)"
     },
     "Imports": {
-      "text": "$272.6 billion (2014 est.) ++ $319.8 billion (2013 est.)"
+      "text": "$247.7 billion (2015 est.) ++ $273.8 billion (2014 est.)"
     },
     "Imports - commodities": {
       "text": "machinery, chemicals, vehicles, metals; agricultural products, textiles"
     },
     "Imports - partners": {
-      "text": "Germany 28%, Italy 9.7%, France 8.1%, US 6.6%, China 6.5%, Austria 4.7% (2014)"
+      "text": "Germany 20.7%, UK 12.8%, US 8.1%, Italy 7.8%, France 6.7%, China 5.1% (2015)"
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$545.5 billion (31 December 2014 est.) ++ $535.9 billion (31 December 2013 est.)"
+      "text": "$602.7 billion (31 December 2015 est.) ++ $545.5 billion (31 December 2014 est.)"
     },
     "Debt - external": {
-      "text": "$545.5 billion (31 December 2014 est.) ++ $535.9 billion (31 December 2013 est.)"
+      "text": "$1.533 trillion (31 December 2014 est.) ++ $1.601 trillion (31 December 2013 est.)"
     },
     "Stock of direct foreign investment - at home": {
-      "text": "$1.107 trillion (31 December 2014 est.) ++ $1.034 trillion (31 December 2013 est.)"
+      "text": "$1.262 trillion (31 December 2015 est.) ++ $1.157 trillion (31 December 2014 est.)"
     },
     "Stock of direct foreign investment - abroad": {
-      "text": "$1.464 trillion (31 December 2014 est.) ++ $1.465 trillion (31 December 2013 est.)"
+      "text": "$1.498 trillion (31 December 2015 est.) ++ $1.426 trillion (31 December 2014 est.)"
     },
     "Exchange rates": {
-      "text": "Swiss francs (CHF) per US dollar - ++ 0.9152 (2014 est.) ++ 0.9152 (2013 est.) ++ 0.94 (2012 est.) ++ 0.8876 (2011 est.) ++ 1.0429 (2010 est.)"
+      "text": "Swiss francs (CHF) per US dollar - ++ 0.9627 (2015 est.) ++ 0.9152 (2014 est.) ++ 0.9152 (2013 est.) ++ 0.94 (2012 est.) ++ 0.8876 (2011 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
+    },
     "Electricity - production": {
       "text": "64.81 billion kWh (2012 est.)"
     },
@@ -736,18 +736,18 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "4.37 million"
+        "text": "4.14 million"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "54 (2014 est.)"
+        "text": "51 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "11.5 million"
+        "text": "11.7 million"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "142 (2014 est.)"
+        "text": "144 (July 2015 est.)"
       }
     },
     "Telephone system": {
@@ -755,34 +755,45 @@
         "text": "highly developed telecommunications infrastructure with excellent domestic and international services"
       },
       "domestic": {
-        "text": "ranked among leading countries for fixed-line teledensity and infrastructure; mobile-cellular subscribership roughly 125 per 100 persons; extensive cable and microwave radio relay networks"
+        "text": "ranked among leading countries for fixed-line teledensity and infrastructure; mobile-cellular subscribership roughly 145 per 100 persons; extensive cable and microwave radio relay networks"
       },
       "international": {
-        "text": "country code - 41; satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian Ocean) (2011)"
+        "text": "country code - 41; satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian Ocean) (2015)"
       }
     },
     "Broadcast media": {
       "text": "the publicly owned radio and TV broadcaster, Swiss Broadcasting Corporation (SRG/SSR), operates 7 national TV networks, 3 broadcasting in German, 2 in Italian, and 2 in French; private commercial TV stations broadcast regionally and locally; TV broadcasts from stations in Germany, Italy, and France are widely available via multi-channel cable and satellite TV services; SRG/SSR operates 18 radio stations that, along with private broadcasters, provide national to local coverage (2009)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM 3, FM 106 (plus many low-power stations), shortwave 3 (2008)"
-    },
-    "Television broadcast stations": {
-      "text": "106 (2007)"
     },
     "Internet country code": {
       "text": ".ch"
     },
     "Internet users": {
       "total": {
-        "text": "7.1 million"
+        "text": "7.145 million"
       },
       "percent of population": {
-        "text": "88.0% (2014 est.)"
+        "text": "88% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "12"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "163"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "26,843,991"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "1,322,379,468 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "HB (2016)"
+    },
     "Airports": {
       "text": "63 (2013)"
     },
@@ -811,7 +822,7 @@
         "text": "23"
       },
       "under 914 m": {
-        "text": " ++ 23 (2013)"
+        "text": "23 (2013)"
       }
     },
     "Heliports": {
@@ -859,36 +870,12 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "Swiss Armed Forces: Land Forces, Swiss Air Force (Schweizer Luftwaffe) (2013)"
     },
     "Military service age and obligation": {
       "text": "19-26 years of age for male compulsory military service; 18 years of age for voluntary male and female military service; every Swiss male has to serve at least 260 days in the armed forces; conscripts receive 18 weeks of mandatory training, followed by seven 3-week intermittent recalls for training during the next 10 years (2012)"
-    },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "1,828,043"
-      },
-      "females age 16-49": {
-        "text": "1,786,552 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "1,493,509"
-      },
-      "females age 16-49": {
-        "text": "1,459,450 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "46,562"
-      },
-      "female": {
-        "text": "42,585 (2010 est.)"
-      }
     },
     "Military expenditures": {
       "text": "0.64% of GDP (2014) ++ 0.69% of GDP (2013) ++ 0.76% of GDP (2012) ++ 0.75% of GDP (2011) ++ 0.76% of GDP (2010)"
@@ -900,10 +887,10 @@
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
-        "text": "16,091 (Eritrea); 5,161 (Syria) (2014)"
+        "text": "21,000 (Eritrea); 8,695 (Syria) (2015)"
       },
       "stateless persons": {
-        "text": "76 (2014)"
+        "text": "69 (2015)"
       }
     },
     "Illicit drugs": {

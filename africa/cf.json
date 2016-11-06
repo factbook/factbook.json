@@ -56,12 +56,12 @@
     "Terrain": {
       "text": "coastal plain, southern basin, central plateau, northern basin"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Atlantic Ocean 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "430 m"
       },
-      "highest point": {
-        "text": "Mount Berongou 903 m"
+      "elevation extremes": {
+        "text": "lowest point: Atlantic Ocean 0 m ++ highest point: Mount Berongou 903 m"
       }
     },
     "Natural resources": {
@@ -79,18 +79,7 @@
       }
     },
     "Irrigated land": {
-      "text": "20 sq km (2003)"
-    },
-    "Total renewable water resources": {
-      "text": "832 cu km (2011)"
-    },
-    "Freshwater withdrawal (domestic/industrial/agricultural)": {
-      "total": {
-        "text": "0.05  cu km/yr (69%/26%/4%)"
-      },
-      "per capita": {
-        "text": "13.99  cu m/yr (2005)"
-      }
+      "text": "20 sq km (2012)"
     },
     "Natural hazards": {
       "text": "seasonal flooding"
@@ -111,6 +100,12 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "4,852,412",
+      "note": {
+        "text": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2016 est.)"
+      }
+    },
     "Nationality": {
       "noun": {
         "text": "Congolese (singular and plural)"
@@ -128,30 +123,21 @@
     "Religions": {
       "text": "Roman Catholic 33.1%, Awakening Churches/Christian Revival 22.3%, Protestant 19.9%, Salutiste 2.2%, Muslim 1.6%, Kimbanguiste 1.5%, other 8.1%, none 11.3% (2010 est.)"
     },
-    "Population": {
-      "text": "4,755,097",
-      "note": {
-        "text": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2015 est.)"
-      }
-    },
     "Age structure": {
       "0-14 years": {
-        "text": "41.33% (male 991,327/female 973,745)"
+        "text": "41.53% (male 1,016,677/female 998,331)"
       },
       "15-24 years": {
-        "text": "17.48% (male 415,282/female 415,817)"
+        "text": "17.26% (male 419,248/female 418,397)"
       },
       "25-54 years": {
-        "text": "34.12% (male 819,204/female 803,062)"
+        "text": "34% (male 831,091/female 818,853)"
       },
       "55-64 years": {
-        "text": "4.08% (male 95,755/female 98,295)"
+        "text": "4.18% (male 101,118/female 101,879)"
       },
       "65 years and over": {
-        "text": "3% (male 62,332/female 80,278) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "3.03% (male 64,519/female 82,299) (2016 est.)"
       }
     },
     "Dependency ratios": {
@@ -170,26 +156,26 @@
     },
     "Median age": {
       "total": {
-        "text": "19.8 years"
+        "text": "19.7 years"
       },
       "male": {
         "text": "19.6 years"
       },
       "female": {
-        "text": "19.9 years (2015 est.)"
+        "text": "19.9 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "2% (2015 est.)"
+      "text": "2.06% (2016 est.)"
     },
     "Birth rate": {
-      "text": "35.85 births/1,000 population (2015 est.)"
+      "text": "35.1 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "10 deaths/1,000 population (2015 est.)"
+      "text": "9.7 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "-5.9 migrant(s)/1,000 population (2015 est.)"
+      "text": "-4.8 migrant(s)/1,000 population (2016 est.)"
     },
     "Urbanization": {
       "urban population": {
@@ -213,16 +199,22 @@
         "text": "1 male(s)/female"
       },
       "25-54 years": {
-        "text": "1.02 male(s)/female"
+        "text": "1.01 male(s)/female"
       },
       "55-64 years": {
-        "text": "0.97 male(s)/female"
+        "text": "0.99 male(s)/female"
       },
       "65 years and over": {
         "text": "0.78 male(s)/female"
       },
       "total population": {
-        "text": "1.01 male(s)/female (2015 est.)"
+        "text": "1.01 male(s)/female (2016 est.)"
+      }
+    },
+    "Mother's mean age at first birth": {
+      "text": "19.8",
+      "note": {
+        "text": "median age at first birth among women 25-29 (2011/12 est.)"
       }
     },
     "Maternal mortality rate": {
@@ -230,40 +222,37 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "57.92 deaths/1,000 live births"
+        "text": "56.4 deaths/1,000 live births"
       },
       "male": {
-        "text": "62.97 deaths/1,000 live births"
+        "text": "61.4 deaths/1,000 live births"
       },
       "female": {
-        "text": "52.71 deaths/1,000 live births (2015 est.)"
+        "text": "51.3 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "58.79 years"
+        "text": "59.3 years"
       },
       "male": {
-        "text": "57.64 years"
+        "text": "58.1 years"
       },
       "female": {
-        "text": "59.98 years (2015 est.)"
+        "text": "60.6 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "4.68 children born/woman (2015 est.)"
+      "text": "4.63 children born/woman (2016 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "44.7% (2011/12)"
     },
     "Health expenditures": {
-      "text": "4.1% of GDP (2013)"
+      "text": "5.2% of GDP (2014)"
     },
     "Physicians density": {
       "text": "0.1 physicians/1,000 population (2007)"
-    },
-    "Hospital bed density": {
-      "text": "1.6 beds/1,000 population (2005)"
     },
     "Drinking water source": {
       "improved": {
@@ -304,14 +293,14 @@
         "text": "rabies"
       },
       "water contact disease": {
-        "text": "schistosomiasis (2013)"
+        "text": "schistosomiasis (2016)"
       }
     },
     "Obesity - adult prevalence rate": {
       "text": "9.7% (2014)"
     },
     "Children under the age of 5 years underweight": {
-      "text": "11.8% (2012)"
+      "text": "12.3% (2015)"
     },
     "Education expenditures": {
       "text": "6.2% of GDP (2010)"
@@ -366,10 +355,13 @@
       },
       "former": {
         "text": "French Congo, Middle Congo, People's Republic of the Congo, Congo/Brazzaville"
+      },
+      "etymology": {
+        "text": "named for the Congo River, which makes up much of the country's eastern border; the river name derives from Kongo, a Bantu kingdom that occupied its mouth at the time of Portuguese discovery in the late 15th century and whose name stems from its people the Bakongo, meaning \"hunters\""
       }
     },
     "Government type": {
-      "text": "republic"
+      "text": "presidential republic"
     },
     "Capital": {
       "name": {
@@ -392,7 +384,7 @@
       "text": "Independence Day, 15 August (1960)"
     },
     "Constitution": {
-      "text": "previous 1992; latest approved by referendum 20 January 2002 (2015)"
+      "text": "previous 1992; latest approved by referendum 20 January 2002; amended 2015; note - the constitutional referendum approved in October 2015 changed the head of government from the president to the prime minister, reduced the presidential term from 7 to 5 years and limited total presidential terms to 3"
     },
     "Legal system": {
       "text": "mixed legal system of French civil law and customary law"
@@ -400,24 +392,38 @@
     "International law organization participation": {
       "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
     },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of the Republic of the Congo"
+      },
+      "dual citizenship recognized": {
+        "text": "no"
+      },
+      "residency requirement for naturalization": {
+        "text": "10 years"
+      }
+    },
     "Suffrage": {
       "text": "18 years of age; universal"
     },
     "Executive branch": {
       "chief of state": {
-        "text": "President Denis SASSOU-Nguesso (since 25 October 1997, following the civil war in which he toppled elected president Pascal LISSOUBA); note - the president is both chief of state and head of government"
+        "text": "President Denis SASSOU-Nguesso (since 25 October 1997)"
       },
       "head of government": {
-        "text": "President Denis SASSOU-Nguesso (since 25 October 1997); note - the position of prime minister was abolished in September 2009"
+        "text": "Prime Minister Clement MOUAMBA (since 23 April 2016); note - a constitutional referendum held in 2015 approved the change of the head of government from the president to the prime minister"
       },
       "cabinet": {
         "text": "Council of Ministers appointed by the president"
       },
       "elections/appointments": {
-        "text": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (eligible for a second term); election last held on 12 July 2009 (next to be held in 2016)"
+        "text": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for 2 additional terms); election last held on 20 March 2016 (next to be held in 2021)"
       },
       "election results": {
-        "text": "Denis SASSOU-Nguesso reelected president; percent of vote - Denis SASSOU-Nguesso (FDU) 78.6%, Joseph Kignoumbi Kia MBOUNGOU (independent) 7.5%, Nicephore Fylla de SAINT-EUDES 7%, other 6.9%"
+        "text": "Denis SASSOU-Nguesso reelected president; percent of vote - Denis SASSOU-Nguesso (PCT) 60.4%, Guy Price Parfait KOLELAS (MCDDI) 15.1%, Jean-Marie MOKOKO (independent) 13.9%, Pascal Tsaty MABIALA (UPADS) 4.4%, other 6.2%"
       }
     },
     "Legislative branch": {
@@ -433,17 +439,17 @@
     },
     "Judicial branch": {
       "highest court(s)": {
-        "text": "Supreme Court or Cour Supreme (consists of NA judges); note - the High Court of Justice, outside the judicial authority, tries cases involving treason by the president of the republic"
+        "text": "Supreme Court or Cour Supreme (consists of NA judges); Constitutional Court (consists of 9 members); note - a High Court of Justice, outside the judicial authority, tries cases involving treason by the president of the republic"
       },
       "judge selection and term of office": {
-        "text": "judges elected by parliament and serve until retirement age"
+        "text": "Supreme Court judges elected by Parliament and serve until age 65; Constitutional Court members appointed by the president of the republic - 3 directly by the president and 6 nominated by Parliament; members appointed for renewable 9-year terms with one-third of the membership renewed every 3 years"
       },
       "subordinate courts": {
-        "text": "courts of appeal; regional and district courts; employment tribunals; juvenile courts"
+        "text": "Court of Audit and Budgetary Discipline; courts of appeal; regional and district courts; employment tribunals; juvenile courts;"
       }
     },
     "Political parties and leaders": {
-      "text": "Action Movement for Renewal or MAR [Roland BOUITI-VIAUDO] ++ Citizen's Rally or RC ++ Congolese Labour Party or PCT [Denis SASSOY-NGUESSO] ++ Congolese Movement for Democracy and Integral Development or MCDDI [Guy Price Parfait KO] ++ Movement for Unity, Solidarity, and Work or MUST [Claudine MUNARI] ++ Pan-African Union for Social Development or UPADS [Pascal Tsaty MABIALA] ++ Party for the Unity of the Republic or PUR ++ Patriotic Union for Democracy and Progress or UPDP [Auguste-Celestin GONGARD NKOUA ++ Prospects and Realities Club or CPR ++ Rally for Democracy and Social Progress or RDPS [Bernard BATCHI] ++ Rally of the Presidential Majority or RMP ++ Republican and Liberal Party or PRL ++ Union for the Republic or UR ++ Union of Democratic Forces ++ Union for Democracy and Republic or UDR ++ United Democratic Forces or FDU [Sebastian EBAO]; many smaller parties"
+      "text": "Action Movement for Renewal or MAR [Roland BOUITI-VIAUDO] ++ Citizen's Rally or RC ++ Congolese Labour Party or PCT [Denis SASSOU-NGUESSO] ++ Congolese Movement for Democracy and Integral Development or MCDDI [Guy Price Parfait KOLELAS] ++ Movement for Unity, Solidarity, and Work or MUST [Claudine MUNARI] ++ Pan-African Union for Social Development or UPADS [Pascal Tsaty MABIALA] ++ Party for the Unity of the Republic or PUR ++ Patriotic Union for Democracy and Progress or UPDP [Auguste-Celestin GONGARD NKOUA ++ Prospects and Realities Club or CPR ++ Rally for Democracy and Social Progress or RDPS [Bernard BATCHI] ++ Rally of the Presidential Majority or RMP ++ Republican and Liberal Party or PRL ++ Union for the Republic or UR ++ Union of Democratic Forces ++ Union for Democracy and Republic or UDR ++ United Democratic Forces or FDU [Sebastian EBAO]; many smaller parties"
     },
     "Political pressure groups and leaders": {
       "text": "Congolese Trade Union Congress or CSC ++ General Union of Congolese Pupils and Students or UGEEC ++ Revolutionary Union of Congolese Women or URFC ++ Union of Congolese Socialist Youth or UJSC"
@@ -502,58 +508,58 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "The economy is a mixture of subsistence farming and hunting, an industrial sector based largely on oil and support services, and government spending. Oil has supplanted forestry as the mainstay of the economy, providing a major share of government revenues and exports. Natural gas is increasingly being converted to electricity rather than being flared, greatly improving energy prospects. New mining projects, particularly iron ore, which entered production in late 2013 may add as much as $1 billion to annual government revenue. Economic reform efforts have been undertaken with the support of international organizations, notably the World Bank and the IMF, including recently concluded Article IV consultations. The current administration faces difficult economic challenges of stimulating recovery and reducing poverty. The recent drop in oil prices has constrained government spending; lower oil prices forced the government to cut more than $1 billion in planned spending. Officially the country became a net external creditor as of 2011, with external debt representing only about 16% of GDP and debt servicing less than 3% of government revenue."
+      "text": "The economy is a mixture of subsistence farming and hunting, an industrial sector based largely on oil and support services, and government spending. Oil has supplanted forestry as the mainstay of the economy, providing a major share of government revenues and exports. Natural gas is increasingly being converted to electricity rather than being flared, greatly improving energy prospects. New mining projects, particularly iron ore, which entered production in late 2013, may add as much as $1 billion to annual government revenue. ++  ++ Economic reform efforts have been undertaken with the support of international organizations, notably the World Bank and the IMF, including the recently concluded Article IV consultations. The current administration faces difficult economic challenges of stimulating recovery and reducing poverty. The recent drop in oil prices has constrained government spending; lower oil prices forced the government to cut more than $1 billion in planned spending. However, the government increased infrastructure spending for the September 2015 All-Africa Games and also ahead of the March 2016 presidential election, putting further pressure on the budget. ++  ++ Officially the country became a net external creditor as of 2011, with external debt representing only about 16% of GDP and debt servicing less than 3% of government revenue."
     },
     "GDP (purchasing power parity)": {
-      "text": "$28.36 billion (2014 est.) ++ $26.54 billion (2013 est.) ++ $25.69 billion (2012 est.)",
+      "text": "$29.37 billion (2015 est.) ++ $28.7 billion (2014 est.) ++ $26.86 billion (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$13.55 billion (2014 est.)"
+      "text": "$8.843 billion (2015 est.)"
     },
     "GDP - real growth rate": {
-      "text": "6.8% (2014 est.) ++ 3.3% (2013 est.) ++ 3.8% (2012 est.)"
+      "text": "2.3% (2015 est.) ++ 6.8% (2014 est.) ++ 3.3% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$6,600 (2014 est.) ++ $6,200 (2013 est.) ++ $6,000 (2012 est.)",
+      "text": "$6,700 (2015 est.) ++ $6,700 (2014 est.) ++ $6,400 (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "Gross national saving": {
-      "text": "32.8% of GDP (2014 est.) ++ 26.5% of GDP (2013 est.) ++ 23.6% of GDP (2012 est.)"
+      "text": "12.4% of GDP (2015 est.) ++ 38.9% of GDP (2014 est.) ++ 32.6% of GDP (2013 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "40.8%"
+        "text": "48.7%"
       },
       "government consumption": {
-        "text": "15.8%"
+        "text": "12%"
       },
       "investment in fixed capital": {
-        "text": "33.8%"
+        "text": "50.5%"
       },
       "investment in inventories": {
-        "text": "0%"
+        "text": "0.1%"
       },
       "exports of goods and services": {
-        "text": "80.1%"
+        "text": "51.9%"
       },
       "imports of goods and services": {
-        "text": "-70.5% ++  (2014 est.)"
+        "text": "-63.2% (2015 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "4.8%"
+        "text": "4.9%"
       },
       "industry": {
-        "text": "69.4%"
+        "text": "69.3%"
       },
       "services": {
-        "text": "25.8% (2014 est.)"
+        "text": "25.8% (2015 est.)"
       }
     },
     "Agriculture - products": {
@@ -563,7 +569,7 @@
       "text": "petroleum extraction, cement, lumber, brewing, sugar, palm oil, soap, flour, cigarettes"
     },
     "Industrial production growth rate": {
-      "text": "5.1% (2014 est.)"
+      "text": "1.4% (2015 est.)"
     },
     "Labor force": {
       "text": "1.807 million (2013 est.)"
@@ -584,77 +590,91 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$5.791 billion"
+        "text": "$3.776 billion"
       },
       "expenditures": {
-        "text": "$6.838 billion (2014 est.)"
+        "text": "$4.687 billion (2015 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "42.7% of GDP (2014 est.)"
+      "text": "42.5% of GDP (2015 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-7.7% of GDP (2014 est.)"
+      "text": "-10.3% of GDP (2015 est.)"
     },
     "Public debt": {
-      "text": "36.5% of GDP (2014 est.) ++ 32.1% of GDP (2013 est.)"
+      "text": "48% of GDP (2015 est.) ++ 36.4% of GDP (2014 est.)"
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Inflation rate (consumer prices)": {
-      "text": "0.9% (2014 est.) ++ 4.6% (2013 est.)"
+      "text": "2% (2015 est.) ++ 0.9% (2014 est.)"
     },
     "Central bank discount rate": {
       "text": "4.25% (31 December 2009) ++ 4.75% (31 December 2008)"
     },
     "Commercial bank prime lending rate": {
-      "text": "14.8% (31 December 2014 est.) ++ 14.8% (31 December 2013 est.)"
+      "text": "14.8% (31 December 2015 est.) ++ 14.8% (31 December 2014 est.)"
     },
     "Stock of narrow money": {
-      "text": "$4.223 billion (31 December 2014 est.) ++ $4.192 billion (31 December 2013 est.)"
+      "text": "$3.131 billion (31 December 2015 est.) ++ $4.036 billion (31 December 2014 est.)"
     },
     "Stock of broad money": {
-      "text": "$5.119 billion (31 December 2013 est.) ++ $4.795 billion (31 December 2012 est.)"
+      "text": "$4.875 billion (31 December 2015 est.) ++ $4.858 billion (31 December 2014 est.)"
     },
     "Stock of domestic credit": {
-      "text": "$44.13 million (31 December 2014 est.) ++ $-1.136 billion (31 December 2013 est.)"
+      "text": "$1.807 billion (31 December 2015 est.) ++ $105.7 million (31 December 2014 est.)"
     },
     "Market value of publicly traded shares": {
       "text": "$NA"
     },
     "Current account balance": {
-      "text": "-$1.273 billion (2014 est.) ++ -$601 million (2013 est.)"
+      "text": "-$1.861 billion (2015 est.) ++ -$442 million (2014 est.)"
     },
     "Exports": {
-      "text": "$9.12 billion (2014 est.) ++ $9.463 billion (2013 est.)"
+      "text": "$5.231 billion (2015 est.) ++ $9.12 billion (2014 est.)"
     },
     "Exports - commodities": {
       "text": "petroleum, lumber, plywood, sugar, cocoa, coffee, diamonds"
     },
     "Exports - partners": {
-      "text": "China 52%, Australia 8.3%, Italy 8.2%, US 4% (2014)"
+      "text": "China 42.1%, Italy 16.9%, US 4.9%, India 4.7%, Portugal 4.2% (2015)"
     },
     "Imports": {
-      "text": "$4.939 billion (2014 est.) ++ $4.789 billion (2013 est.)"
+      "text": "$3.934 billion (2015 est.) ++ $4.939 billion (2014 est.)"
     },
     "Imports - commodities": {
       "text": "capital equipment, construction materials, foodstuffs"
     },
     "Imports - partners": {
-      "text": "Algeria 47.8%, China 10.6%, France 9%, Italy 4.3% (2014)"
+      "text": "China 20.3%, France 14.2%, South Korea 9.8%, US 4.9%, UK 4.4%, Italy 4.1%, India 4.1% (2015)"
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$4.939 billion (31 December 2014 est.) ++ $5.26 billion (31 December 2013 est.)"
+      "text": "$2.244 billion (31 December 2015 est.) ++ $4.939 billion (31 December 2014 est.)"
     },
     "Debt - external": {
-      "text": "$3.763 billion (31 December 2014 est.) ++ $3.452 billion (31 December 2013 est.)"
+      "text": "$4.324 billion (31 December 2015 est.) ++ $3.901 billion (31 December 2014 est.)"
     },
     "Exchange rates": {
-      "text": "Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar - ++ 494.42 (2014 est.) ++ 494.42 (2013 est.) ++ 510.53 (2012 est.) ++ 471.87 (2011 est.) ++ 495.28 (2010 est.)"
+      "text": "Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar - ++ 591.45 (2015 est.) ++ 494.42 (2014 est.) ++ 494.42 (2013 est.) ++ 510.53 (2012 est.) ++ 471.87 (2011 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "2,600,000"
+      },
+      "electrification - total population": {
+        "text": "42%"
+      },
+      "electrification - urban areas": {
+        "text": "62%"
+      },
+      "electrification - rural areas": {
+        "text": "5% (2013)"
+      }
+    },
     "Electricity - production": {
       "text": "1.303 billion kWh (2012 est.)"
     },
@@ -728,18 +748,18 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "16,300"
+        "text": "17,000"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "less than 1 (2014 est.)"
+        "text": "less than 1 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "4.9 million"
+        "text": "5.216 million"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "106 (2014 est.)"
+        "text": "110 (July 2015 est.)"
       }
     },
     "Telephone system": {
@@ -747,34 +767,45 @@
         "text": "primary network consists of microwave radio relay and coaxial cable with services barely adequate for government use; key exchanges are in Brazzaville, Pointe-Noire, and Loubomo; intercity lines frequently out of order"
       },
       "domestic": {
-        "text": "fixed-line infrastructure inadequate, providing less than 1 connection per 100 persons; in the absence of an adequate fixed-line infrastructure, mobile-cellular subscribership has surged to 90 per 100 persons"
+        "text": "fixed-line infrastructure inadequate, providing less than 1 connection per 100 persons; in the absence of an adequate fixed-line infrastructure, mobile-cellular subscribership has surged to 110 per 100 persons"
       },
       "international": {
-        "text": "country code - 242; satellite earth station - 1 Intelsat (Atlantic Ocean) (2011)"
+        "text": "country code - 242; satellite earth station - 1 Intelsat (Atlantic Ocean) (2015)"
       }
     },
     "Broadcast media": {
       "text": "1 state-owned TV and 3 state-owned radio stations; several privately owned TV and radio stations; satellite TV service is available; rebroadcasts of several international broadcasters are available (2007)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM 1, FM 5, shortwave 3 (2001)"
-    },
-    "Television broadcast stations": {
-      "text": "1 (2001)"
     },
     "Internet country code": {
       "text": ".cg"
     },
     "Internet users": {
       "total": {
-        "text": "89,500"
+        "text": "362,000"
       },
       "percent of population": {
-        "text": "1.9% (2014 est.)"
+        "text": "7.6% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "3"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "12"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "657,926"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "2,987,493 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "TN (2016)"
+    },
     "Airports": {
       "text": "27 (2013)"
     },
@@ -803,7 +834,7 @@
         "text": "9"
       },
       "under 914 m": {
-        "text": " ++ 2 (2013)"
+        "text": "2 (2013)"
       }
     },
     "Pipelines": {
@@ -848,36 +879,12 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "Congolese Armed Forces (Forces Armees Congolaises, FAC): Army (Armee de Terre), Navy, Congolese Air Force (Armee de l'Air Congolaise); Gendarmerie; Special Presidential Security Guard (GSSP) (2013)"
     },
     "Military service age and obligation": {
       "text": "18 years of age for voluntary military service; women may serve in the Armed Forces (2012)"
-    },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "928,664"
-      },
-      "females age 16-49": {
-        "text": "914,265 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "577,944"
-      },
-      "females age 16-49": {
-        "text": "566,587 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "50,000"
-      },
-      "female": {
-        "text": "49,641 (2010 est.)"
-      }
     }
   },
   "Transnational Issues": {
@@ -886,10 +893,18 @@
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
-        "text": "23,376 (Democratic Republic of Congo); 9,104 (Rwanda) (2014); 29,884 (Central African Republic) (2015)"
+        "text": "8,549 (Rwanda) (2015); 29,304 (Central African Republic); 12,223 (Democratic Republic of the Congo) (2016)"
       },
       "IDPs": {
-        "text": "7,800 (multiple civil wars since 1992) (2014)"
+        "text": "7,800 (multiple civil wars since 1992) (2015)"
+      }
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "the Republic of the Congo is a source and destination country for children, men, and women, subjected to forced labor and sex trafficking; most trafficking victims are from Benin, the Democratic Republic of the Congo (DRC), and, to a lesser extent, other neighboring countries and are subjected to domestic servitude and market vending by West African and Congolese nationals; adults and children, the majority from the DRC, are also sex trafficked in Congo, mainly Brazzaville; internal trafficking victims, often from rural areas, are exploited as domestic servants or forced to work in quarries, bakeries, fishing, and agriculture"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch List - the Republic of the Congo does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; the country drafted an action plan based on anti-trafficking legislation, which remains pending in the Supreme Court; the government made minimal anti-trafficking law enforcement efforts in 2014, failing to prosecute or convict suspected traffickers from cases dating back to 2010; serious allegations of official complicity continue to be reported; the government lacks a systematic means of identifying victims and relies on NGOs and international organizations to identify victims and NGOs and foster families to provide care to victims; the quality of care varied widely because the foster care system was allegedly undermined by inadequate security and official complicity (2015)"
       }
     }
   }

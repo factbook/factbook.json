@@ -56,12 +56,12 @@
     "Terrain": {
       "text": "mostly flat to undulating plains; mountains in northwest"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Gulf of Guinea 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "250 m"
       },
-      "highest point": {
-        "text": "Monts Nimba 1,752 m"
+      "elevation extremes": {
+        "text": "lowest point: Gulf of Guinea 0 m ++ highest point: Monts Nimba 1,752 m"
       }
     },
     "Natural resources": {
@@ -79,18 +79,7 @@
       }
     },
     "Irrigated land": {
-      "text": "727.5 sq km (2003)"
-    },
-    "Total renewable water resources": {
-      "text": "81.14 cu km (2011)"
-    },
-    "Freshwater withdrawal (domestic/industrial/agricultural)": {
-      "total": {
-        "text": "1.55  cu km/yr (41%/21%/38%)"
-      },
-      "per capita": {
-        "text": "83.07  cu m/yr (2008)"
-      }
+      "text": "730 sq km (2012)"
     },
     "Natural hazards": {
       "text": "coast has heavy surf and no natural harbors; during the rainy season torrential flooding is possible"
@@ -111,6 +100,12 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "23,740,424",
+      "note": {
+        "text": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2016 est.)"
+      }
+    },
     "Nationality": {
       "noun": {
         "text": "Ivoirian(s)"
@@ -120,41 +115,35 @@
       }
     },
     "Ethnic groups": {
-      "text": "Akan 42.1%, Voltaiques or Gur 17.6%, Northern Mandes 16.5%, Krous 11%, Southern Mandes 10%, other 2.8% (includes 130,000 Lebanese and 14,000 French) (1998)"
+      "text": "Akan 32.1%, Voltaique or Gur 15%, Northern Mande 12.4%, Krou 9.8%, Southern Mande 9%, other 21.2% (includes European and Lebanese descent), unspecified 0.5% (2011-12 est.)"
     },
     "Languages": {
       "text": "French (official), 60 native dialects of which Dioula is the most widely spoken"
     },
     "Religions": {
-      "text": "Muslim 38.6%, Christian 32.8%, indigenous 11.9%, none 16.7% (2008 est.)",
+      "text": "Muslim 40.2%, Catholic 19.4%, Evangelical 19.3%, Methodist 2.5%, other Christian 4.5%, animist or no religion 12.8%, other religion/unspecified 1.4% (2011-12 est.)",
       "note": {
-        "text": "the majority of foreigners (migratory workers) are Muslim (70%) and Christian (20%)"
+        "text": "the majority of foreign migrant workers are Muslim (72%) and Christian (18%) (2014 est.)"
       }
     },
-    "Population": {
-      "text": "23,295,302",
-      "note": {
-        "text": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2015 est.)"
-      }
+    "Demographic profile": {
+      "text": "Cote d’Ivoire’s population is likely to continue growing for the foreseeable future because almost 60% of the populace is younger than 25, the total fertility rate is holding steady at about 3.5 children per woman, and contraceptive use is under 20%. The country will need to improve education, health care, and gender equality in order to turn its large and growing youth cohort into human capital. Even prior to 2010 unrest that shuttered schools for months, access to education was poor, especially for women. As of 2015, only 53% of men and 33% of women were literate. The lack of educational attainment contributes to Cote d’Ivoire’s high rates of unskilled labor, adolescent pregnancy, and HIV/AIDS prevalence. Following its independence in 1960, Cote d’Ivoire’s stability and the blossoming of its labor-intensive cocoa and coffee industries in the southwest made it an attractive destination for migrants from other parts of the country and its neighbors, particularly Burkina Faso. The HOUPHOUET-BOIGNY administration continued the French colonial policy of encouraging labor immigration by offering liberal land ownership laws. Foreigners from West Africa, Europe (mainly France), and Lebanon composed about 25% of the population by 1998. Ongoing economic decline since the 1980s and the power struggle after HOUPHOUET-BOIGNY’s death in 1993 ushered in the politics of “Ivoirite,” institutionalizing an Ivoirian identity that further marginalized northern Ivoirians and scapegoated immigrants. The hostile Muslim north-Christian south divide snowballed into a 2002 civil war, pushing tens of thousands of foreign migrants, Liberian refugees, and Ivoirians to flee to war-torn Liberia or other regional countries and more than a million people to be internally displaced. Subsequently, violence following the contested 2010 presidential election prompted some 250,000 people to seek refuge in Liberia and other neighboring countries and again internally displaced as many as a million people. By July 2012, the majority had returned home, but ongoing inter-communal tension and armed conflict continue to force people from their homes."
     },
     "Age structure": {
       "0-14 years": {
-        "text": "37.94% (male 4,456,646/female 4,381,907)"
+        "text": "37.45% (male 4,483,215/female 4,407,595)"
       },
       "15-24 years": {
-        "text": "20.95% (male 2,459,156/female 2,420,284)"
+        "text": "20.93% (male 2,504,188/female 2,463,970)"
       },
       "25-54 years": {
-        "text": "33.53% (male 3,997,615/female 3,812,563)"
+        "text": "34.05% (male 4,133,975/female 3,950,734)"
       },
       "55-64 years": {
-        "text": "4.25% (male 495,177/female 493,854)"
+        "text": "4.15% (male 493,722/female 491,230)"
       },
       "65 years and over": {
-        "text": "3.34% (male 375,276/female 402,824) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "3.42% (male 389,551/female 422,244) (2016 est.)"
       }
     },
     "Dependency ratios": {
@@ -173,26 +162,26 @@
     },
     "Median age": {
       "total": {
-        "text": "20.5 years"
+        "text": "20.7 years"
       },
       "male": {
-        "text": "20.6 years"
+        "text": "20.8 years"
       },
       "female": {
-        "text": "20.4 years (2015 est.)"
+        "text": "20.6 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "1.91% (2015 est.)"
+      "text": "1.88% (2016 est.)"
     },
     "Birth rate": {
-      "text": "28.67 births/1,000 population (2015 est.)"
+      "text": "28.2 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "9.55 deaths/1,000 population (2015 est.)"
+      "text": "9.5 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "0 migrant(s)/1,000 population (2015 est.)"
+      "text": "0 migrant(s)/1,000 population (2016 est.)"
     },
     "Urbanization": {
       "urban population": {
@@ -219,13 +208,19 @@
         "text": "1.05 male(s)/female"
       },
       "55-64 years": {
-        "text": "1 male(s)/female"
+        "text": "1.01 male(s)/female"
       },
       "65 years and over": {
         "text": "0.93 male(s)/female"
       },
       "total population": {
-        "text": "1.02 male(s)/female (2015 est.)"
+        "text": "1.02 male(s)/female (2016 est.)"
+      }
+    },
+    "Mother's mean age at first birth": {
+      "text": "19.8",
+      "note": {
+        "text": "median age at first birth among women 25-29 (2011/12 est.)"
       }
     },
     "Maternal mortality rate": {
@@ -233,34 +228,34 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "58.7 deaths/1,000 live births"
+        "text": "57.2 deaths/1,000 live births"
       },
       "male": {
-        "text": "64.77 deaths/1,000 live births"
+        "text": "63.1 deaths/1,000 live births"
       },
       "female": {
-        "text": "52.44 deaths/1,000 live births (2015 est.)"
+        "text": "51.1 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "58.34 years"
+        "text": "58.7 years"
       },
       "male": {
-        "text": "57.21 years"
+        "text": "57.5 years"
       },
       "female": {
-        "text": "59.51 years (2015 est.)"
+        "text": "59.9 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "3.54 children born/woman (2015 est.)"
+      "text": "3.46 children born/woman (2016 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "18.2% (2011/12)"
     },
     "Health expenditures": {
-      "text": "5.7% of GDP (2013)"
+      "text": "5.7% of GDP (2014)"
     },
     "Physicians density": {
       "text": "0.14 physicians/1,000 population (2008)"
@@ -285,13 +280,13 @@
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "3.46% (2014 est.)"
+      "text": "3.17% (2015 est.)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
-      "text": "460,100 (2014 est.)"
+      "text": "464,700 (2015 est.)"
     },
     "HIV/AIDS - deaths": {
-      "text": "21,800 (2014 est.)"
+      "text": "25,100 (2015 est.)"
     },
     "Major infectious diseases": {
       "degree of risk": {
@@ -310,10 +305,7 @@
         "text": "rabies"
       },
       "respiratory disease": {
-        "text": "meningococcal meningitis"
-      },
-      "note": {
-        "text": "highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2013)"
+        "text": "meningococcal meningitis (2016)"
       }
     },
     "Obesity - adult prevalence rate": {
@@ -323,7 +315,7 @@
       "text": "15.7% (2012)"
     },
     "Education expenditures": {
-      "text": "4.6% of GDP (2008)"
+      "text": "4.7% of GDP (2014)"
     },
     "Literacy": {
       "definition": {
@@ -347,7 +339,7 @@
         "text": "10 years"
       },
       "female": {
-        "text": "8 years (2013)"
+        "text": "8 years (2014)"
       }
     },
     "Child labor - children ages 5-14": {
@@ -378,10 +370,13 @@
       },
       "former": {
         "text": "Ivory Coast"
+      },
+      "etymology": {
+        "text": "name reflects the intense ivory trade that took place in the region from the 15th to 17th centuries"
       }
     },
     "Government type": {
-      "text": "republic; multiparty presidential regime established 1960"
+      "text": "presidential republic"
     },
     "Capital": {
       "name": {
@@ -404,13 +399,27 @@
       "text": "Independence Day, 7 August (1960)"
     },
     "Constitution": {
-      "text": "previous 1960; latest approved by referendum 23 July 2000; amended 2004 (2015)"
+      "text": "previous 1960; latest approved by referendum 23 July 2000; amended 2004, 2012 (2016)"
     },
     "Legal system": {
       "text": "civil law system based on the French civil code; judicial review of legislation held in the Constitutional Chamber of the Supreme Court"
     },
     "International law organization participation": {
       "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Cote d'Ivoire"
+      },
+      "dual citizenship recognized": {
+        "text": "no"
+      },
+      "residency requirement for naturalization": {
+        "text": "5 years"
+      }
     },
     "Suffrage": {
       "text": "18 years of age; universal"
@@ -429,12 +438,12 @@
         "text": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); election last held on 25 October 2015 (next to be held in 2020); prime minister appointed by the president"
       },
       "election results": {
-        "text": "Alassane OUATTARA elected president; percent of vote - Alassane OUATTARA (RDR) 83.7%, Pascal Affi N'GUESSAN (ADF) 9.3%, Konan Bertin KOUADIO (independent) 3.9%"
+        "text": "Alassane OUATTARA elected president; percent of vote - Alassane OUATTARA (RDR) 83.7%, Pascal Affi N'GUESSAN (ADF) 9.3%, Konan Bertin KOUADIO (independent) 3.9%, other 3.1%"
       }
     },
     "Legislative branch": {
       "description": {
-        "text": "unicameral National Assembly or Assemblee Nationale (225 seats; members directly elected in single- and multi-seat constituencies by simple majority vote to serve 5-year terms)"
+        "text": "unicameral National Assembly or Assemblee Nationale (255 seats; members directly elected in single- and multi-seat constituencies by simple majority vote to serve 5-year terms)"
       },
       "elections": {
         "text": "last held on 11 December 2011 (next to be held in 2016)"
@@ -447,7 +456,7 @@
       "highest court(s)": {
         "text": "Supreme Court or Cour Supreme (organized into Judicial, Audit, Constitutional, and Administrative Chambers; consists of the court president, 3 vice-presidents for the Judicial, Audit, and Administrative chambers, and 9 associate justices or magistrates)"
       },
-      "judge selection and term office": {
+      "judge selection and term of office": {
         "text": "judges nominated by the Superior Council of the Magistrature, a 7-member body consisting of the national president (chairman), 3 \"bench\" judges, and 3 public prosecutors; judges appointed for life"
       },
       "subordinate courts": {
@@ -517,58 +526,58 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Cote d'Ivoire is heavily dependent on agriculture and related activities, which engage roughly two-thirds of the population. Cote d'Ivoire is the world's largest producer and exporter of cocoa beans and a significant producer and exporter of coffee and palm oil. Consequently, the economy is highly sensitive to fluctuations in international prices for these products and in climatic conditions. Cocoa, oil, and coffee are the country's top export revenue earners, but the country is also mining gold. The country boasted two offshore oil finds in 2012. Following the end of more than a decade of civil conflict in 2011, Cote d’Ivoire has experienced a boom in foreign investment and economic growth. In June 2012, the IMF and the World Bank announced $4.4 billion in debt relief for Cote d'Ivoire under the Highly Indebted Poor Countries Initiative."
+      "text": "Cote d'Ivoire is heavily dependent on agriculture and related activities, which engage roughly two-thirds of the population. Cote d'Ivoire is the world's largest producer and exporter of cocoa beans and a significant producer and exporter of coffee and palm oil. Consequently, the economy is highly sensitive to fluctuations in international prices for these products and in climatic conditions. Cocoa, oil, and coffee are the country's top export revenue earners, but the country is also mining gold. ++  ++ Following the end of more than a decade of civil conflict in 2011, Cote d’Ivoire has experienced a boom in foreign investment and economic growth. In June 2012, the IMF and the World Bank announced $4.4 billion in debt relief for Cote d'Ivoire under the Highly Indebted Poor Countries Initiative."
     },
     "GDP (purchasing power parity)": {
-      "text": "$71.67 billion (2014 est.) ++ $66.42 billion (2013 est.) ++ $61.1 billion (2012 est.)",
+      "text": "$79.64 billion (2015 est.) ++ $73.37 billion (2014 est.) ++ $67.99 billion (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$33.74 billion (2014 est.)"
+      "text": "$31.42 billion (2015 est.)"
     },
     "GDP - real growth rate": {
-      "text": "7.9% (2014 est.) ++ 8.7% (2013 est.) ++ 10.7% (2012 est.)"
+      "text": "8.5% (2015 est.) ++ 7.9% (2014 est.) ++ 9.3% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$3,100 (2014 est.) ++ $2,900 (2013 est.) ++ $2,600 (2012 est.)",
+      "text": "$3,400 (2015 est.) ++ $3,200 (2014 est.) ++ $3,000 (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "Gross national saving": {
-      "text": "16.1% of GDP (2014 est.) ++ 15.7% of GDP (2013 est.) ++ 15.3% of GDP (2012 est.)"
+      "text": "16.8% of GDP (2015 est.) ++ 19.3% of GDP (2014 est.) ++ 16% of GDP (2013 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "65.4%"
+        "text": "65%"
       },
       "government consumption": {
-        "text": "13.5%"
+        "text": "14.9%"
       },
       "investment in fixed capital": {
-        "text": "16.2%"
+        "text": "16.1%"
       },
       "investment in inventories": {
-        "text": "0.9%"
+        "text": "1%"
       },
       "exports of goods and services": {
-        "text": "43.6%"
+        "text": "45.4%"
       },
       "imports of goods and services": {
-        "text": "-39.6% ++  (2014 est.)"
+        "text": "-42.4% (2015 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "18.3%"
+        "text": "18.9%"
       },
       "industry": {
-        "text": "20.4%"
+        "text": "19.4%"
       },
       "services": {
-        "text": "61.3% (2014 est.)"
+        "text": "61.8% (2015 est.)"
       }
     },
     "Agriculture - products": {
@@ -578,10 +587,10 @@
       "text": "foodstuffs, beverages; wood products, oil refining, gold mining, truck and bus assembly, textiles, fertilizer, building materials, electricity"
     },
     "Industrial production growth rate": {
-      "text": "8.4% (2014 est.)"
+      "text": "8.7% (2015 est.)"
     },
     "Labor force": {
-      "text": "8.119 million (2014 est.)"
+      "text": "8.34 million (2015 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -610,71 +619,71 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$6.661 billion"
+        "text": "$6.621 billion"
       },
       "expenditures": {
-        "text": "$7.427 billion (2014 est.)"
+        "text": "$7.558 billion (2015 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "19.7% of GDP (2014 est.)"
+      "text": "21.2% of GDP (2015 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-2.3% of GDP (2014 est.)"
+      "text": "-3% of GDP (2015 est.)"
     },
     "Public debt": {
-      "text": "45% of GDP (2014 est.) ++ 43.5% of GDP (2013 est.)"
+      "text": "49.1% of GDP (2015 est.) ++ 46.6% of GDP (2014 est.)"
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Inflation rate (consumer prices)": {
-      "text": "0.4% (2014 est.) ++ 2.6% (2013 est.)"
+      "text": "1.2% (2015 est.) ++ 0.4% (2014 est.)"
     },
     "Central bank discount rate": {
       "text": "4.25% (31 December 2010) ++ 4.25% (31 December 2009)"
     },
     "Commercial bank prime lending rate": {
-      "text": "2.5% (31 December 2014 est.) ++ 2.5% (31 December 2013 est.)"
+      "text": "2.5% (31 December 2015 est.) ++ 2.5% (31 December 2014 est.)"
     },
     "Stock of narrow money": {
-      "text": "$7.785 billion (31 December 2014 est.) ++ $7.72 billion (31 December 2013 est.)"
+      "text": "$8.516 billion (31 December 2015 est.) ++ $7.785 billion (31 December 2014 est.)"
     },
     "Stock of broad money": {
       "text": "$12.23 billion (31 December 2014 est.) ++ $11.5 billion (31 December 2013 est.)"
     },
     "Stock of domestic credit": {
-      "text": "$9.138 billion (31 December 2014 est.) ++ $8.693 billion (31 December 2013 est.)"
+      "text": "$9.812 billion (31 December 2015 est.) ++ $9.138 billion (31 December 2014 est.)"
     },
     "Market value of publicly traded shares": {
-      "text": "$7.829 billion (31 December 2012 est.) ++ $6.288 billion (31 December 2011) ++ $7.099 billion (31 December 2010 est.)"
+      "text": "$12.49 billion (31 December 2015 est.) ++ $11.71 billion (31 December 2014 est.) ++ $11.82 billion (31 December 2013 est.)"
     },
     "Current account balance": {
-      "text": "-$221 million (2014 est.) ++ -$423 million (2013 est.)"
+      "text": "-$567 million (2015 est.) ++ $511 million (2014 est.)"
     },
     "Exports": {
-      "text": "$12.78 billion (2014 est.) ++ $13.25 billion (2013 est.)"
+      "text": "$11.98 billion (2015 est.) ++ $13.1 billion (2014 est.)"
     },
     "Exports - commodities": {
       "text": "cocoa, coffee, timber, petroleum, cotton, bananas, pineapples, palm oil, fish"
     },
     "Exports - partners": {
-      "text": "Ghana 9.1%, US 8.5%, Nigeria 7.9%, Netherlands 7.4%, Gabon 5.4%, Germany 5%, France 5%, Belgium 4.3% (2014)"
+      "text": "US 8.5%, Netherlands 6.2%, France 5.6%, Germany 5.6%, Nigeria 5.5%, Burkina Faso 5.5%, Belgium 5.3%, India 4.6%, Ghana 4.4%, Switzerland 4.1% (2015)"
     },
     "Imports": {
-      "text": "$9.935 billion (2014 est.) ++ $12.48 billion (2013 est.)"
+      "text": "$8.609 billion (2015 est.) ++ $9.587 billion (2014 est.)"
     },
     "Imports - commodities": {
       "text": "fuel, capital equipment, foodstuffs"
     },
     "Imports - partners": {
-      "text": "Nigeria 21.8%, France 11.7%, China 11%, Bahamas, The 6.2% (2014)"
+      "text": "Nigeria 21.9%, China 14.4%, France 11.4%, Bahamas, The 5% (2015)"
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$4.479 billion (31 December 2014 est.) ++ $4.243 billion (31 December 2013 est.)"
+      "text": "$4.716 billion (31 December 2015 est.) ++ $4.479 billion (31 December 2014 est.)"
     },
     "Debt - external": {
-      "text": "$13.03 billion (31 December 2014 est.) ++ $11.29 billion (31 December 2013 est.)"
+      "text": "$11.71 billion (31 December 2015 est.) ++ $10.86 billion (31 December 2014 est.)"
     },
     "Stock of direct foreign investment - at home": {
       "text": "$NA"
@@ -683,10 +692,24 @@
       "text": "$NA"
     },
     "Exchange rates": {
-      "text": "Communaute Financiere Africaine francs (XOF) per US dollar - ++ 494.42 (2014 est.) ++ 494.42 (2013 est.) ++ 510.29 (2012 est.) ++ 471.87 (2011 est.) ++ 495.28 (2010 est.)"
+      "text": "Communaute Financiere Africaine francs (XOF) per US dollar - ++ 591.45 (2015 est.) ++ 494.42 (2014 est.) ++ 494.42 (2013 est.) ++ 510.29 (2012 est.) ++ 471.87 (2011 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "15,000,000"
+      },
+      "electrification - total population": {
+        "text": "26%"
+      },
+      "electrification - urban areas": {
+        "text": "42%"
+      },
+      "electrification - rural areas": {
+        "text": "8% (2013)"
+      }
+    },
     "Electricity - production": {
       "text": "6.688 billion kWh (2012 est.)"
     },
@@ -760,18 +783,18 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "240,000"
+        "text": "277,248"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "1 (2014 est.)"
+        "text": "1 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "22.1 million"
+        "text": "25.408 million"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "97 (2014 est.)"
+        "text": "109 (July 2015 est.)"
       }
     },
     "Telephone system": {
@@ -779,7 +802,7 @@
         "text": "well-developed by African standards; telecommunications sector privatized in late 1990s and operational fixed lines have increased since that time with two fixed-line providers operating over open-wire lines, microwave radio relay, and fiber-optics; 90% digitalized"
       },
       "domestic": {
-        "text": "with multiple mobile-cellular service providers competing in the market, usage has increased sharply to roughly 80 per 100 persons"
+        "text": "with multiple mobile-cellular service providers competing in the market, usage has increased sharply to well over 105 per 100 persons"
       },
       "international": {
         "text": "country code - 225; landing point for the SAT-3/WASC fiber-optic submarine cable that provides connectivity to Europe and Asia; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean) (2011)"
@@ -788,25 +811,36 @@
     "Broadcast media": {
       "text": "2 state-owned TV stations; no private terrestrial TV stations, but satellite TV subscription service is available; 2 state-owned radio stations; some private radio stations; transmissions of several international broadcasters are available (2007)"
     },
-    "Radio broadcast stations": {
-      "text": "AM 2, FM 9, shortwave 3 (1998)"
-    },
-    "Television broadcast stations": {
-      "text": "14 (1998)"
-    },
     "Internet country code": {
       "text": ".ci"
     },
     "Internet users": {
       "total": {
-        "text": "621,500"
+        "text": "4.892 million"
       },
       "percent of population": {
-        "text": "2.7% (2014 est.)"
+        "text": "21% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "1"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "10"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "359,260"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "4,719,120 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "TU (2016)"
+    },
     "Airports": {
       "text": "27 (2013)"
     },
@@ -835,7 +869,7 @@
         "text": "11"
       },
       "under 914 m": {
-        "text": " ++ 3 (2013)"
+        "text": "3 (2013)"
       }
     },
     "Heliports": {
@@ -881,36 +915,12 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "Republican Forces of Cote d'Ivoire (Force Republiques de Cote d'Ivoire, FRCI): Army, Navy, Cote d'Ivoire Air Force (Force Aerienne de la Cote d'Ivoire) (2015)"
     },
     "Military service age and obligation": {
       "text": "18-25 years of age for compulsory and voluntary male and female military service; conscription is not enforced; voluntary recruitment of former rebels into the new national army is restricted to ages 22-29 (2012)"
-    },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "5,247,522"
-      },
-      "females age 16-49": {
-        "text": "5,047,901 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "3,360,087"
-      },
-      "females age 16-49": {
-        "text": "3,196,033 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "247,011"
-      },
-      "female": {
-        "text": "242,958 (2010 est.)"
-      }
     },
     "Military expenditures": {
       "text": "1.65% of GDP (2012) ++ 1.49% of GDP (2011) ++ 1.65% of GDP (2010)"
@@ -922,10 +932,10 @@
     },
     "Refugees and internally displaced persons": {
       "IDPs": {
-        "text": "300,900 (post-election conflict in 2010-2011, as well as civil war from 2002-2004; most pronounced in western and southwestern regions) (2015)"
+        "text": "308,272 (post-election conflict in 2010-2011, as well as civil war from 2002-2004; most pronounced in western and southwestern regions) (2015)"
       },
       "stateless persons": {
-        "text": "700,000 (2014); note - many Ivoirians lack documentation proving their nationality, which prevent them from accessing education and healthcare; birth on Ivorian soil does not automatically result in citizenship; disputes over citizenship and the associated rights of the large population descended from migrants from neighboring countries is an ongoing source of tension and contributed to the country's 2002 civil war; some observers believe the government's mass naturalizations of thousands of people over the last couple of years is intended to boost its electoral support base; the government in October 2013 acceded to international conventions on statelessness and in August 2013 reformed its nationality law, key steps to clarify the nationality of thousands of residents"
+        "text": "700,000 (2015); note - many Ivoirians lack documentation proving their nationality, which prevent them from accessing education and healthcare; birth on Ivorian soil does not automatically result in citizenship; disputes over citizenship and the associated rights of the large population descended from migrants from neighboring countries is an ongoing source of tension and contributed to the country's 2002 civil war; some observers believe the government's mass naturalizations of thousands of people over the last couple of years is intended to boost its electoral support base; the government in October 2013 acceded to international conventions on statelessness and in August 2013 reformed its nationality law, key steps to clarify the nationality of thousands of residents; since the adoption of the Abidjan Declaration to eradicate stateless in West Africa in February 2015, 6,400 people have received nationality papers"
       }
     },
     "Illicit drugs": {

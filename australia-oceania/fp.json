@@ -48,12 +48,12 @@
     "Terrain": {
       "text": "mixture of rugged high islands and low islands with reefs"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Pacific Ocean 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "NA"
       },
-      "highest point": {
-        "text": "Mont Orohena 2,241 m"
+      "elevation extremes": {
+        "text": "lowest point: Pacific Ocean 0 m ++ highest point: Mont Orohena 2,241 m"
       }
     },
     "Natural resources": {
@@ -71,7 +71,7 @@
       }
     },
     "Irrigated land": {
-      "text": "10 sq km (2003)"
+      "text": "10 sq km (2012)"
     },
     "Natural hazards": {
       "text": "occasional cyclonic storms in January"
@@ -84,6 +84,9 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "285,321 (July 2016 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "French Polynesian(s)"
@@ -101,27 +104,21 @@
     "Religions": {
       "text": "Protestant 54%, Roman Catholic 30%, other 10%, no religion 6%"
     },
-    "Population": {
-      "text": "282,703 (July 2015 est.)"
-    },
     "Age structure": {
       "0-14 years": {
-        "text": "23.31% (male 33,894/female 32,005)"
+        "text": "22.9% (male 33,600/female 31,727)"
       },
       "15-24 years": {
-        "text": "16.36% (male 23,980/female 22,270)"
+        "text": "16.03% (male 23,751/female 21,999)"
       },
       "25-54 years": {
-        "text": "44.1% (male 63,931/female 60,749)"
+        "text": "44.27% (male 64,759/female 61,562)"
       },
       "55-64 years": {
-        "text": "8.83% (male 12,847/female 12,120)"
+        "text": "9.13% (male 13,399/female 12,648)"
       },
       "65 years and over": {
-        "text": "7.4% (male 10,142/female 10,765) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "7.67% (male 10,592/female 11,284) (2016 est.)"
       }
     },
     "Dependency ratios": {
@@ -140,26 +137,26 @@
     },
     "Median age": {
       "total": {
-        "text": "31 years"
+        "text": "31.5 years"
       },
       "male": {
-        "text": "30.9 years"
+        "text": "31.3 years"
       },
       "female": {
-        "text": "31.2 years (2015 est.)"
+        "text": "31.7 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "0.94% (2015 est.)"
+      "text": "0.91% (2016 est.)"
     },
     "Birth rate": {
-      "text": "15.22 births/1,000 population (2015 est.)"
+      "text": "15 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "5.02 deaths/1,000 population (2015 est.)"
+      "text": "5.1 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "-0.84 migrant(s)/1,000 population (2015 est.)"
+      "text": "-0.8 migrant(s)/1,000 population (2016 est.)"
     },
     "Urbanization": {
       "urban population": {
@@ -192,33 +189,33 @@
         "text": "0.94 male(s)/female"
       },
       "total population": {
-        "text": "1.05 male(s)/female (2015 est.)"
+        "text": "1.05 male(s)/female (2016 est.)"
       }
     },
     "Infant mortality rate": {
       "total": {
-        "text": "4.73 deaths/1,000 live births"
+        "text": "4.7 deaths/1,000 live births"
       },
       "male": {
-        "text": "5.25 deaths/1,000 live births"
+        "text": "5.2 deaths/1,000 live births"
       },
       "female": {
-        "text": "4.18 deaths/1,000 live births (2015 est.)"
+        "text": "4.1 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "76.98 years"
+        "text": "77.2 years"
       },
       "male": {
-        "text": "74.72 years"
+        "text": "74.9 years"
       },
       "female": {
-        "text": "79.36 years (2015 est.)"
+        "text": "79.6 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "1.92 children born/woman (2015 est.)"
+      "text": "1.9 children born/woman (2016 est.)"
     },
     "Drinking water source": {
       "improved": {
@@ -244,6 +241,17 @@
     },
     "HIV/AIDS - deaths": {
       "text": "NA"
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": {
+        "text": "34.2%"
+      },
+      "male": {
+        "text": "31.4%"
+      },
+      "female": {
+        "text": "38.5% (2007 est.)"
+      }
     }
   },
   "Government": {
@@ -262,13 +270,16 @@
       },
       "former": {
         "text": "French Colony of Oceania"
+      },
+      "etymology": {
+        "text": "the term \"Polynesia\" is an 18th-century construct composed of two Greek words, \"poly\" (many) and \"nesoi\" (islands), and refers to the more than 1,000 islands scattered over the central and southern Pacific Ocean"
       }
     },
     "Dependency status": {
       "text": "overseas lands of France; overseas territory of France from 1946-2003; overseas collectivity of France since 2003, though it is often referred to as an overseas country due to its degree of autonomy"
     },
     "Government type": {
-      "text": "parliamentary representative democratic French overseas collectivity"
+      "text": "parliamentary democracy (Assembly of French Polynesia); an overseas collectivity of France"
     },
     "Capital": {
       "name": {
@@ -282,7 +293,7 @@
       }
     },
     "Administrative divisions": {
-      "text": "none (overseas lands of France); there are no first-order administrative divisions as defined by the US Government, but there are 5 second order administrative units named Iles Australes, Iles du Vent, Iles Marquises, Iles Sous le Vent, Iles Tuamotu et Gambier"
+      "text": "Iles Australes, Iles du Vent, Iles Marquises, Iles Sous-le-Vent, Iles Tuamotu-Gambier"
     },
     "Independence": {
       "text": "none (overseas lands of France)"
@@ -296,12 +307,15 @@
     "Legal system": {
       "text": "the laws of France, where applicable, apply"
     },
+    "Citizenship": {
+      "text": "see France"
+    },
     "Suffrage": {
       "text": "18 years of age; universal"
     },
     "Executive branch": {
       "chief of state": {
-        "text": "President Francois HOLLANDE (since 15 May 2012), represented by High Commissioner of the Republic Lionel BEFFRE (since 16 September 2013)"
+        "text": "President Francois HOLLANDE (since 15 May 2012), represented by High Commissioner of the Republic Rene BIDALL (since 30 May 2016)"
       },
       "head of government": {
         "text": "President of French Polynesia Edouard FRITCH (since 12 September 2014)"
@@ -315,10 +329,10 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "unicameral Assembly of French Polynesia or Assemblee de la Polynesie Francaise (57 seats; elections held in two rounds; in the second round, 38 members directly elected in multi-seat constituencies by proportional representation vote; the party receiving the most votes get an additional 19 seats; to serve 5-year terms)"
+        "text": "unicameral Assembly of French Polynesia or Assemblee de la Polynesie Francaise (57 seats; elections held in two rounds; in the second round, 38 members directly elected in multi-seat constituencies by proportional representation vote; the party receiving the most votes gets an additional 19 seats; members serve 5-year terms)"
       },
       "note": {
-        "text": "two seats were elected to the French Senate for a 6-year term on 20 September 2014 (next to be held in September 2022); results - percent of vote by party - NA; seats by party - Popular Rally 1, People's Servant Party 1; two seats were elected to the French National Assembly for a 5-year term on 17 June 2012 (next to be held by June 2017); results - percent of vote by party - NA; seats by party - UMP 2; note - the UMP is France's ruling pary, the Union for a Popular Movement"
+        "text": "two seats were elected to the French Senate for a 6-year term on 20 September 2014 (next to be held in September 2022); results - percent of vote by party - NA; seats by party - Popular Rally 1, People's Servant Party 1; two seats were elected to the French National Assembly for a 5-year term on 17 June 2012 (next to be held by June 2017); results - percent of vote by party - NA; seats by party - UMP 2; the Union for a Popular Movement (UMP) is France's ruling party,"
       },
       "elections": {
         "text": "last held on 21 April 2013 and 5 May 2013 (next to be held in 2018)"
@@ -332,7 +346,7 @@
         "text": "Court of Appeal or Cour d'Appel (composition NA); note - appeals beyond the French Polynesia Court of Appeal are heard by the Court of Cassation (in Paris)"
       },
       "judge selection and term of office": {
-        "text": "NA"
+        "text": "judges assigned from France normally for 3 years"
       },
       "subordinate courts": {
         "text": "Court of the First Instance or Tribunal de Premiere Instance; Court of Administrative Law or Tribunal Administratif"
@@ -371,12 +385,12 @@
       }
     },
     "Government - note": {
-      "text": "under certain acts of France, French Polynesia has acquired autonomy in all areas except those relating to police and justice, monetary policy, tertiary education, immigration, and defense and foreign affairs; the duties of its president are fashioned after those of the French prime minister"
+      "text": "under certain acts of France, French Polynesia has acquired autonomy in all areas except those relating to police, monetary policy, tertiary education, immigration, and defense and foreign affairs; the duties of its president are fashioned after those of the French prime minister"
     }
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Since 1962, when France stationed military personnel in the region, French Polynesia has changed from a subsistence agricultural economy to one in which a high proportion of the work force is either employed by the military or supports the tourist industry. With the halt of French nuclear testing in 1996, the military contribution to the economy fell sharply. After growing at an average yearly rate of 4.2% from 1997-2007, GDP stagnated in 2008 and fell by 4.2% in 2009, marking French Polynesia’s entry into recession. GDP growth was positive in 2010-12. Following steady employment level increases between 2002 and 2007 that averaged 2.4% yearly, the number of workers fell by an annual average of 2.2% between 2008 and 2013, due in part to decreased tourism (down an average of 4% per year) in that time period. French Polynesia’s tourism-dominated service sector accounted for 85% of total value added for the economy in 2009, employing 80% of the workforce. A small manufacturing sector predominantly processes products from French Polynesia’s primary sector - 3% of total economy - including agriculture, pearl farming, and fishing."
+      "text": "Since 1962, when France stationed military personnel in the region, French Polynesia has changed from a subsistence agricultural economy to one in which a high proportion of the work force is either employed by the military or supports the tourist industry. With the halt of French nuclear testing in 1996, the military contribution to the economy fell sharply. ++  ++ After growing at an average yearly rate of 4.2% from 1997-2007, GDP stagnated in 2008 and fell by 4.2% in 2009, marking French Polynesia’s entry into recession. GDP growth was positive in 2010-12. Following steady employment level increases between 2002 and 2007 that averaged 2.4% yearly, the number of workers fell by an annual average of 2.2% between 2008 and 2013, due in part to decreased tourism (down an average of 4% per year) in that time period. ++  ++ French Polynesia’s tourism-dominated service sector accounted for 85% of total value added for the economy in 2009, employing 80% of the workforce. A small manufacturing sector predominantly processes products from French Polynesia’s primary sector - 3% of total economy - including agriculture, pearl farming, and fishing."
     },
     "GDP (purchasing power parity)": {
       "text": "$7.15 billion (2012 est.) ++ $6.982 billion (2011 est.) ++ $6.963 billion (2010 est.)"
@@ -483,10 +497,24 @@
       "text": "$NA"
     },
     "Exchange rates": {
-      "text": "Comptoirs Francais du Pacifique francs (XPF) per US dollar - ++ 89.85 (2013 est.) ++ 90.56 2012 est.) ++ 85.74 (2011 est.) ++ 90.01 (2010 est.)"
+      "text": "Comptoirs Francais du Pacifique francs (XPF) per US dollar - ++ 89.85 (2013 est.) ++ 90.56 (2012 est.) ++ 85.74 (2011 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "116,981"
+      },
+      "electrification - total population": {
+        "text": "59%"
+      },
+      "electrification - urban areas": {
+        "text": "72%"
+      },
+      "electrification - rural areas": {
+        "text": "45% (2012)"
+      }
+    },
     "Electricity - production": {
       "text": "702 million kWh (2012 est.)"
     },
@@ -560,23 +588,23 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "55,000"
+        "text": "60,000"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "20 (2014 est.)"
+        "text": "21 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "239,700"
+        "text": "268,000"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "86 (2014 est.)"
+        "text": "95 (July 2015 est.)"
       }
     },
     "Telephone system": {
       "domestic": {
-        "text": "combined fixed-line and mobile-cellular density is roughly 100 per 100 persons"
+        "text": "combined fixed-line and mobile-cellular density is roughly 115 per 100 persons"
       },
       "international": {
         "text": "country code - 689; satellite earth station - 1 Intelsat (Pacific Ocean) (2011)"
@@ -585,25 +613,30 @@
     "Broadcast media": {
       "text": "the publicly owned French Overseas Network (RFO), which operates in France's overseas departments and territories, broadcasts on 2 TV channels and 1 radio station; 1 government-owned TV station; a small number of privately owned radio stations (2008)"
     },
-    "Radio broadcast stations": {
-      "text": "AM 2, FM 14, shortwave 2 (1998)"
-    },
-    "Television broadcast stations": {
-      "text": "7 (plus 17 repeaters) (1997)"
-    },
     "Internet country code": {
       "text": ".pf"
     },
     "Internet users": {
       "total": {
-        "text": "161,100"
+        "text": "183,000"
       },
       "percent of population": {
-        "text": "57.5% (2014 est.)"
+        "text": "64.6% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "2 (registered in France)"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "21 (registered in France) (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "F-OH (2016)"
+    },
     "Airports": {
       "text": "54 (2013)"
     },
@@ -632,7 +665,7 @@
         "text": "4"
       },
       "under 914 m": {
-        "text": " ++ 5 (2013)"
+        "text": "5 (2013)"
       }
     },
     "Heliports": {
@@ -660,30 +693,9 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "no regular military forces (2011)"
-    },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "82,722 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "67,363"
-      },
-      "females age 16-49": {
-        "text": "66,053 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "2,498"
-      },
-      "female": {
-        "text": "2,390 (2010 est.)"
-      }
     },
     "Military - note": {
       "text": "defense is the responsibility of France"

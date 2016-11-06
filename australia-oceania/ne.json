@@ -48,12 +48,12 @@
     "Terrain": {
       "text": "steep limestone cliffs along coast, central plateau"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Pacific Ocean 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "NA"
       },
-      "highest point": {
-        "text": "unnamed elevation near Mutalau settlement 68 m"
+      "elevation extremes": {
+        "text": "lowest point: Pacific Ocean 0 m ++ highest point: unnamed elevation near Mutalau settlement 68 m"
       }
     },
     "Natural resources": {
@@ -71,7 +71,7 @@
       }
     },
     "Irrigated land": {
-      "text": "NA"
+      "text": "0 sq km (2012)"
     },
     "Natural hazards": {
       "text": "typhoons"
@@ -89,6 +89,9 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "1,190 (July 2014 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "Niuean(s)"
@@ -105,9 +108,6 @@
     },
     "Religions": {
       "text": "Ekalesia Niue (Congregational Christian Church of Niue - a Protestant church founded by missionaries from the London Missionary Society) 67%, other Protestant 3% (includes Seventh Day Adventist 1%, Presbyterian 1%, and Methodist 1%), Mormon 10%, Roman Catholic 10%, Jehovah's Witnesses 2%, other 6%, none 2% (2011 est.)"
-    },
-    "Population": {
-      "text": "1,190 (July 2014 est.)"
     },
     "Population growth rate": {
       "text": "-0.03% (2014 est.)"
@@ -152,7 +152,7 @@
       "text": "NA"
     },
     "Health expenditures": {
-      "text": "7.1% of GDP (2013)"
+      "text": "7.4% of GDP (2014)"
     },
     "Physicians density": {
       "text": "3 physicians/1,000 population (2008)"
@@ -187,17 +187,6 @@
     },
     "Education expenditures": {
       "text": "NA"
-    },
-    "School life expectancy (primary to tertiary education)": {
-      "total": {
-        "text": "13 years"
-      },
-      "male": {
-        "text": "12 years"
-      },
-      "female": {
-        "text": "15 years (2005)"
-      }
     }
   },
   "Government": {
@@ -213,13 +202,16 @@
       },
       "former": {
         "text": "Savage Island"
+      },
+      "etymology": {
+        "text": "the origin of the name is obscure; in Niuean, the word supposedly translates as \"behold the coconut\""
       }
     },
     "Dependency status": {
       "text": "self-governing in free association with New Zealand since 1974; Niue fully responsible for internal affairs; New Zealand retains responsibility for external affairs and defense; however, these responsibilities confer no rights of control and are only exercised at the request of the Government of Niue"
     },
     "Government type": {
-      "text": "self-governing parliamentary democracy"
+      "text": "self-governing parliamentary democracy (Fouo Ekepule) in free association with New Zealand"
     },
     "Capital": {
       "name": {
@@ -242,7 +234,7 @@
       "text": "Waitangi Day (Treaty of Waitangi established British sovereignty over New Zealand), 6 February (1840)"
     },
     "Constitution": {
-      "text": "several previous (New Zealand colonial statutes); latest 19 October 1974 (Niue Constitution Act 1974); amended 1992, 2007 (2015)"
+      "text": "several previous (New Zealand colonial statutes); latest 19 October 1974 (Niue Constitution Act 1974); amended 1992, 2007 (2016)"
     },
     "Legal system": {
       "text": "English common law"
@@ -252,7 +244,7 @@
     },
     "Executive branch": {
       "chief of state": {
-        "text": "Queen ELIZABETH II (since 6 February 1952); represented by Governor General of New Zealand Lt. Gen. Sir Jerry MATEPARAE (since 31 August 2011); the UK and New Zealand are represented by New Zealand High Commissioner Mark BLUMSKY (since September 2011)"
+        "text": "Queen ELIZABETH II (since 6 February 1952); represented by Governor General of New Zealand Lt. Gen. Sir Jerry MATEPARAE (since 31 August 2011); the UK and New Zealand are represented by New Zealand High Commissioner Ross ARDEN (since February 2014)"
       },
       "head of government": {
         "text": "Premier Toke TALAGI (since 18 June 2008)"
@@ -280,13 +272,16 @@
     },
     "Judicial branch": {
       "highest resident court(s)": {
-        "text": "Court of Appeal (consists of the chief justice and up to 3 judges); note - the Judicial Committee of the Privy Council (in London) is the final appeal court beyond the Niue Court of Appeal ++ note - Niue is a participant in the Pacific Judicial Development Program; the program is designed to build governance and the rule of law in 15 Pacific island countries"
+        "text": "Court of Appeal (consists of the chief justice and up to 3 judges); note - the Judicial Committee of the Privy Council (in London) is the final appeal court beyond the Niue Court of Appeal"
       },
       "judge selection and term of office": {
         "text": "Niue chief justice appointed by the governor-general on the advice of the Cabinet and tendered by the premier; other judges appointed by the governor-general on the advice of the Cabinet and tendered by the chief justice and the minister of justice; judges serve until age 68"
       },
       "subordinate courts": {
         "text": "High Court"
+      },
+      "note": {
+        "text": "Niue is a participant in the Pacific Judicial Development Program, which is designed to build governance and the rule of law in 15 Pacific island countries"
       }
     },
     "Political parties and leaders": {
@@ -324,7 +319,7 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "The economy suffers from the typical Pacific island problems of geographic isolation, few resources, and a small population. Government expenditures regularly exceed revenues, and the shortfall is made up by critically needed grants from New Zealand that are used to pay wages to public employees. Niue has cut government expenditures by reducing the public service by almost half. The agricultural sector consists mainly of subsistence gardening, although some cash crops are grown for export. Industry consists primarily of small factories to process passion fruit, lime oil, honey, and coconut cream. The sale of postage stamps to foreign collectors is an important source of revenue. The island in recent years has suffered a serious loss of population because of emigration to New Zealand. Efforts to increase GDP include the promotion of tourism and financial services, although the International Banking Repeal Act of 2002 resulted in the termination of all offshore banking licenses. Economic aid allocation from New Zealand in FY13/14 was US$10.1 million. While in the process of rebuilding, Niue has been dependent on foreign aid."
+      "text": "The economy suffers from the typical Pacific island problems of geographic isolation, few resources, and a small population. The agricultural sector consists mainly of subsistence gardening, although some cash crops are grown for export. Industry consists primarily of small factories for processing passion fruit, lime oil, honey, and coconut cream. The sale of postage stamps to foreign collectors is an important source of revenue. ++  ++ Government expenditures regularly exceed revenues, and the shortfall is made up by critically needed grants from New Zealand that are used to pay wages to public employees. Economic aid allocation from New Zealand in FY13/14 was US$10.1 million. Niue has cut government expenditures by reducing the public service by almost half. ++  ++ The island in recent years has suffered a serious loss of population because of emigration to New Zealand. Efforts to increase GDP include the promotion of tourism and financial services, although the International Banking Repeal Act of 2002 resulted in the termination of all offshore banking licenses."
     },
     "GDP (purchasing power parity)": {
       "text": "$10.01 million (2003 est.)"
@@ -398,7 +393,7 @@
       "text": "4% (2005)"
     },
     "Exports": {
-      "text": "$201,400 (2004)"
+      "text": "$201,400 (2004 est.)"
     },
     "Exports - commodities": {
       "text": "canned coconut cream, copra, honey, vanilla, passion fruit products, pawpaws, root crops, limes, footballs, stamps, handicrafts"
@@ -407,7 +402,7 @@
       "text": "Germany 25%, Belgium 11%, United Kingdom 8%, France 8%, Italy 4%, United States 4% (2014)"
     },
     "Imports": {
-      "text": "$9.038 million (2004)"
+      "text": "$9.038 million (2004 est.)"
     },
     "Imports - commodities": {
       "text": "food, live animals, manufactured goods, machinery, fuels, lubricants, chemicals, drugs"
@@ -419,7 +414,7 @@
       "text": "$418,000 (2002 est.)"
     },
     "Exchange rates": {
-      "text": "New Zealand dollars (NZD) per US dollar - ++ 1.2039 (2014) ++ 1.2187 (2013) ++ 1.23 (2012) ++ 1.263 (2011) ++ 1.3874 (2010)"
+      "text": "New Zealand dollars (NZD) per US dollar - ++ 1.4279 (2015) ++ 1.2187 (2013) ++ 1.2187 (2013) ++ 1.23 (2012) ++ 1.263 (2011)"
     }
   },
   "Energy": {
@@ -496,30 +491,24 @@
   "Communications": {
     "Telephone system": {
       "domestic": {
-        "text": "single-line telephone system connects all villages on island"
+        "text": "single-line (fixed line) telephone system connects all villages (and virtually all households) on island"
       },
       "international": {
-        "text": "country code - 683 (2001)"
+        "text": "country code - 683 (2015)"
       }
     },
     "Broadcast media": {
       "text": "1 government-owned TV station with many of the programs supplied by Television New Zealand; 1 government-owned radio station broadcasting in AM and FM (2009)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM 1, FM 1, shortwave 0 (1998)"
-    },
-    "Television broadcast stations": {
-      "text": "1 (1997)"
     },
     "Internet country code": {
       "text": ".nu"
     },
     "Internet users": {
       "total": {
-        "text": "1,100"
+        "text": "1,090"
       },
       "percent of population": {
-        "text": "92.4% (2014 est.)"
+        "text": "91.6% (July 2015 est.)"
       }
     }
   },
@@ -557,7 +546,7 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "no regular indigenous military forces; Police Force"
     },

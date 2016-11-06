@@ -56,12 +56,12 @@
     "Terrain": {
       "text": "mostly high plateau; Namib Desert along coast; Kalahari Desert in east"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Atlantic Ocean 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "1,141 m"
       },
-      "highest point": {
-        "text": "Konigstein 2,606 m"
+      "elevation extremes": {
+        "text": "lowest point: Atlantic Ocean 0 m ++ highest point: Konigstein 2,606 m"
       }
     },
     "Natural resources": {
@@ -82,18 +82,7 @@
       }
     },
     "Irrigated land": {
-      "text": "75.73 sq km (2003)"
-    },
-    "Total renewable water resources": {
-      "text": "17.72 cu km (2011)"
-    },
-    "Freshwater withdrawal (domestic/industrial/agricultural)": {
-      "total": {
-        "text": "0.29  cu km/yr (25%/5%/70%)"
-      },
-      "per capita": {
-        "text": "146  cu m/yr (2002)"
-      }
+      "text": "80 sq km (2012)"
     },
     "Natural hazards": {
       "text": "prolonged periods of drought"
@@ -114,6 +103,12 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "2,436,469",
+      "note": {
+        "text": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2016 est.)"
+      }
+    },
     "Nationality": {
       "noun": {
         "text": "Namibian(s)"
@@ -137,30 +132,24 @@
     "Religions": {
       "text": "Christian 80% to 90% (at least 50% Lutheran), indigenous beliefs 10% to 20%"
     },
-    "Population": {
-      "text": "2,212,307",
-      "note": {
-        "text": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2015 est.)"
-      }
+    "Demographic profile": {
+      "text": "Planning officials view Namibia’s reduced population growth rate as sustainable based on the country’s economic growth over the past decade. Prior to independence in 1990, Namibia’s relatively small population grew at about 3% annually, but declining fertility and the impact of HIV/AIDS slowed this growth to 1.4% by 2011, rebounding to close to 2% by 2016. Namibia’s fertility rate has fallen over the last two decades – from about 4.5 children per woman in 1996 to 3.4 in 2016 – due to increased contraceptive use, higher educational attainment among women, and greater female participation in the labor force. The average age at first birth has stayed fairly constant, but the age at first marriage continues to increase, indicating a rising incidence of premarital childbearing. The majority of Namibians are rural dwellers (about 55%) and live in the better-watered north and northeast parts of the country. Migration, historically male-dominated, generally flows from northern communal areas – non-agricultural lands where blacks were sequestered under the apartheid system – to agricultural, mining, and manufacturing centers in the center and south. After independence from South Africa, restrictions on internal movement eased, and rural-urban migration increased, bolstering urban growth. Some Namibians – usually persons who are better-educated, more affluent, and from urban areas – continue to legally migrate to South Africa temporarily to visit family and friends and, much less frequently, to pursue tertiary education or better economic opportunities. Namibians concentrated along the country’s other borders make unauthorized visits to Angola, Zambia, Zimbabwe, or Botswana, to visit family and to trade agricultural goods. Few Namibians express interest in permanently settling in other countries; they prefer the safety of their homeland, have a strong national identity, and enjoy a well-supplied retail sector. Although Namibia is receptive to foreign investment and cross-border trade, intolerance toward non-citizens is widespread."
     },
     "Age structure": {
       "0-14 years": {
-        "text": "30.95% (male 345,767/female 339,026)"
+        "text": "37.39% (male 460,016/female 451,058)"
       },
       "15-24 years": {
-        "text": "23.11% (male 258,586/female 252,773)"
+        "text": "20.35% (male 246,266/female 249,570)"
       },
       "25-54 years": {
-        "text": "36.57% (male 422,026/female 386,948)"
+        "text": "34% (male 395,417/female 432,994)"
       },
       "55-64 years": {
-        "text": "4.88% (male 48,406/female 59,545)"
+        "text": "4.25% (male 46,769/female 56,798)"
       },
       "65 years and over": {
-        "text": "4.49% (male 42,635/female 56,595) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "4.01% (male 41,518/female 56,063) (2016 est.)"
       }
     },
     "Dependency ratios": {
@@ -179,26 +168,26 @@
     },
     "Median age": {
       "total": {
-        "text": "23.1 years"
+        "text": "21 years"
       },
       "male": {
-        "text": "23.1 years"
+        "text": "20.2 years"
       },
       "female": {
-        "text": "23.1 years (2015 est.)"
+        "text": "21.7 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "0.59% (2015 est.)"
+      "text": "1.98% (2016 est.)"
     },
     "Birth rate": {
-      "text": "19.8 births/1,000 population (2015 est.)"
+      "text": "27.9 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "13.91 deaths/1,000 population (2015 est.)"
+      "text": "8.1 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "0 migrant(s)/1,000 population (2015 est.)"
+      "text": "0 migrant(s)/1,000 population (2016 est.)"
     },
     "Urbanization": {
       "urban population": {
@@ -219,19 +208,25 @@
         "text": "1.02 male(s)/female"
       },
       "15-24 years": {
-        "text": "1.02 male(s)/female"
+        "text": "0.99 male(s)/female"
       },
       "25-54 years": {
-        "text": "1.09 male(s)/female"
+        "text": "0.91 male(s)/female"
       },
       "55-64 years": {
-        "text": "0.81 male(s)/female"
+        "text": "0.82 male(s)/female"
       },
       "65 years and over": {
         "text": "0.75 male(s)/female"
       },
       "total population": {
-        "text": "1.02 male(s)/female (2015 est.)"
+        "text": "0.96 male(s)/female (2016 est.)"
+      }
+    },
+    "Mother's mean age at first birth": {
+      "text": "21.5",
+      "note": {
+        "text": "median age at first birth among women 25-29 (2013 est.)"
       }
     },
     "Maternal mortality rate": {
@@ -239,34 +234,34 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "45.62 deaths/1,000 live births"
+        "text": "36.4 deaths/1,000 live births"
       },
       "male": {
-        "text": "48.48 deaths/1,000 live births"
+        "text": "38.7 deaths/1,000 live births"
       },
       "female": {
-        "text": "42.67 deaths/1,000 live births (2015 est.)"
+        "text": "34.1 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "51.62 years"
+        "text": "63.6 years"
       },
       "male": {
-        "text": "52.05 years"
+        "text": "62.1 years"
       },
       "female": {
-        "text": "51.18 years (2015 est.)"
+        "text": "65.1 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "2.17 children born/woman (2015 est.)"
+      "text": "3.36 children born/woman (2016 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "55.1% (2006/07)"
     },
     "Health expenditures": {
-      "text": "7.7% of GDP (2013)"
+      "text": "8.9% of GDP (2014)"
     },
     "Physicians density": {
       "text": "0.37 physicians/1,000 population (2007)"
@@ -291,13 +286,13 @@
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "15.97% (2014 est.)"
+      "text": "13.34% (2015 est.)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
-      "text": "245,400 (2013 est.)"
+      "text": "210,800 (2015 est.)"
     },
     "HIV/AIDS - deaths": {
-      "text": "5,100 (2014 est.)"
+      "text": "3,100 (2015 est.)"
     },
     "Major infectious diseases": {
       "degree of risk": {
@@ -310,7 +305,7 @@
         "text": "malaria"
       },
       "water contact disease": {
-        "text": "schistosomiasis (2013)"
+        "text": "schistosomiasis (2016)"
       }
     },
     "Obesity - adult prevalence rate": {
@@ -320,7 +315,7 @@
       "text": "13.2% (2013)"
     },
     "Education expenditures": {
-      "text": "8.5% of GDP (2010)"
+      "text": "8.3% of GDP (2010)"
     },
     "Literacy": {
       "definition": {
@@ -349,13 +344,13 @@
     },
     "Unemployment, youth ages 15-24": {
       "total": {
-        "text": "34.3%"
+        "text": "56.2%"
       },
       "male": {
-        "text": "29.4%"
+        "text": "49.4%"
       },
       "female": {
-        "text": "40.1% (2012 est.)"
+        "text": "62.2% (2013 est.)"
       }
     }
   },
@@ -375,10 +370,13 @@
       },
       "former": {
         "text": "German South-West Africa (Deutsch Suedwest Afrika), South-West Africa"
+      },
+      "etymology": {
+        "text": "named for the coastal Namib Desert; the name \"namib\" means \"vast place\" in the Nama/Damara language"
       }
     },
     "Government type": {
-      "text": "republic"
+      "text": "presidential republic"
     },
     "Capital": {
       "name": {
@@ -404,13 +402,27 @@
       "text": "Independence Day, 21 March (1990)"
     },
     "Constitution": {
-      "text": "drafted 9 February 1990, signed 16 March 1990, entered into force 21 March 1990; amended 1998, 2010, 2014 (2015)"
+      "text": "drafted 9 February 1990, signed 16 March 1990, entered into force 21 March 1990; amended 1998, 2010, 2014 (2016)"
     },
     "Legal system": {
       "text": "mixed legal system of uncodified civil law based on Roman-Dutch law and customary law"
     },
     "International law organization participation": {
       "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Namibia"
+      },
+      "dual citizenship recognized": {
+        "text": "no"
+      },
+      "residency requirement for naturalization": {
+        "text": "5 years"
+      }
     },
     "Suffrage": {
       "text": "18 years of age; universal"
@@ -426,7 +438,7 @@
         "text": "Cabinet appointed by the president from among members of the National Assembly"
       },
       "elections/appointments": {
-        "text": "president elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 27-28 November 2009 (next to be held on 28 November 2014)"
+        "text": "president elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 November 2014 (next to be held in November 2019)"
       },
       "election results": {
         "text": "Hage GEINGOB elected president; percent of vote - Hage GEINGOB (SWAPO) 86.7%, McHenry VENAANI (DTA) 5.0%, Hidipo HAMUTENYA (RDP) 3.4%, Asser MBAI (NUDO)1.9%, Henk MUDGE (RP) 1.0%, other 2.0%"
@@ -434,10 +446,10 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral Parliament consists of the National Assembly (104 seats; 96 members directly elected in multi-seat constituencies by proportional representation vote to serve 5-year terms and 8 nonvoting members appointed by the president) and the National Council, which primarily reviews legislation passed and referred by the National Assembly (26 seats (to be expanded to 42 in 2016); members indirectly elected 2 each by the 13 regional councils to serve 5-year terms)"
+        "text": "bicameral Parliament consists of the National Assembly (78 seats; 72 members directly elected in multi-seat constituencies by proportional representation vote to serve 5-year terms and 6 nonvoting members appointed by the president) and the National Council, which primarily reviews legislation passed and referred by the National Assembly (26 seats (to be expanded to 42 in 2016); members indirectly elected 2 each by the 13 regional councils to serve 5-year terms)"
       },
       "elections": {
-        "text": "National Council - elections for regional councils to determine members of the National Council held on 26-27 November 2010 (next to be held in November 2015); National Assembly - last held on 28 November 2014 (next to be held in November 2019)"
+        "text": "National Council - elections for regional councils to determine members of the National Council held on 27 November 2015 (next to be held in November 2020); National Assembly - last held on 28 November 2014 (next to be held in November 2019)"
       },
       "election results": {
         "text": "National Council - percent of vote by party - NA; seats by party - SWAPO 24, UDF 1, DTA 1; National Assembly - percent of vote by party - SWAPO 80.0%, DTA 4.8%, RDP 3.5%, APP 2.3%, UDF 2.1%, NUDO 2.0%, CPN 1.5%, other 3.8%; seats by party - SWAPO 77, DTA 5, RDP 3, APP 2, UDF 2, NUDO 2, CPN 2, SWANU 1, UPM 1, RP 1"
@@ -455,10 +467,10 @@
       }
     },
     "Political parties and leaders": {
-      "text": "All People's Party or APP [Ignatius SHIXWAMENI] ++ Communist Party of Namibia or CPN (formerly known as Workers' Revolutionary Party or WRP) [Attie BEUKES and Harry BOESAK] ++ Congress of Democrats or CoD [Ben ULENGA] ++ Democratic Turnhalle Alliance of Namibia or DTA [McHenry VENAANI] ++ National Unity Democratic Organization or NUDO [Kuaima RIRUAKO] ++ Rally for Democracy and Progress or RDP [Hidipo HAMUTENYA] ++ Republican Party or RP [Henk MUDGE] ++ South West Africa National Union or SWANU [Usutuaije MAAMBERUA] ++ South West Africa People's Organization or SWAPO [Hifikepunye POHAMBA] ++ United Democratic Front or UDF [Justus //GAROEB] ++ United People's Movement or UPM [Jan J. VAN WYK]"
+      "text": "All People's Party or APP [Ignatius SHIXWAMENI] ++ Communist Party of Namibia or CPN (formerly known as Workers' Revolutionary Party or WRP) [Attie BEUKES and Harry BOESAK] ++ Democratic Turnhalle Alliance of Namibia or DTA [McHenry VENAANI] ++ National Unity Democratic Organization or NUDO [Asser MBAI] ++ Rally for Democracy and Progress or RDP [Jeremiah NAMBINGA] ++ Republican Party or RP [Henk MUDGE] ++ South West Africa National Union or SWANU [Usutuaije MAAMBERUA] ++ South West Africa People's Organization or SWAPO [Hage GEINGOB, acting president] ++ United Democratic Front or UDF [Justus ||GAROEB] ++ United People's Movement or UPM [Jan J. VAN WYK]"
     },
     "Political pressure groups and leaders": {
-      "text": "National Society for Human Rights or NAMRIGHTS",
+      "text": "National Society for Human Rights or NAMRIGHTS ++ The Affirmative Repositioning Movement or AR [Job AMUPANDA, Dimbulukweni NAUYOMA, George KAMBALA]",
       "other": {
         "text": "various labor unions"
       }
@@ -517,58 +529,58 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "The economy is heavily dependent on the extraction and processing of minerals for export. Mining accounts for 11.5% of GDP, but provides more than 50% of foreign exchange earnings. Rich alluvial diamond deposits make Namibia a primary source for gem-quality diamonds. Marine diamond mining is becoming increasingly important as the terrestrial diamond supply has dwindled. Namibia is the world's fifth-largest producer of uranium. It also produces large quantities of zinc and is a smaller producer of gold and copper. The mining and quarrying sectors employ less than 2% of the population. Namibia normally imports about 50% of its cereal requirements; in drought years food shortages are a major problem in rural areas. A high per capita GDP, relative to the region, hides one of the world's most unequal income distributions. A five-year, Millennium Challenge Corporation Compact ended in September 2014. As an upper middle income country, Namibia is ineligible for a second Compact. The Namibian economy is closely linked to South Africa with the Namibian dollar pegged one-to-one to the South African rand. Namibia receives 30%-40% of its revenues from the Southern African Customs Union (SACU). Volatility in the size of Namibia's annual SACU allotment complicates budget planning. Namibia's economy remains vulnerable to world commodity price fluctuations, and drought. The rising cost of mining diamonds, increasingly from the sea, has reduced profit margins. Namibian authorities recognize these issues and have emphasized the need to increase higher value raw materials, manufacturing, and services, especially in the logistics and transportation sectors."
+      "text": "The economy is heavily dependent on the extraction and processing of minerals for export. Mining accounts for 11.5% of GDP, but provides more than 50% of foreign exchange earnings. Rich alluvial diamond deposits make Namibia a primary source for gem-quality diamonds. Marine diamond mining is increasingly important as the terrestrial diamond supply has dwindled. The rising cost of mining diamonds, increasingly from the sea, combined with increased diamond production in Russia and China, has reduced profit margins. Namibian authorities have emphasized the need to add value to raw materials, do more in-country manufacturing, and exploit the services market, especially in the logistics and transportation sectors. ++  ++ Namibia is the world's fifth-largest producer of uranium. The Chinese owned Husab uranium mine in expected to start producing uranium ore in 2017. Once the Husab mine reaches full production, Namibia is expected to become the world’s second-largest producer of uranium. Namibia also produces large quantities of zinc and is a smaller producer of gold and copper. The mining and quarrying sectors employ 2% of the population. Namibia's economy remains vulnerable to world commodity price fluctuations, and drought. ++  ++ Namibia normally imports about 50% of its cereal requirements; in drought years food shortages can be a problem in rural areas. A high per capita GDP, relative to the region, hides one of the world's most unequal income distributions. A priority of the current government is poverty eradication. ++  ++ A five-year, Millennium Challenge Corporation compact ended in September 2014. As an upper middle income country, Namibia is ineligible for a second compact. The Namibian economy is closely linked to South Africa with the Namibian dollar pegged one-to-one to the South African rand. Namibia receives 30%-40% of its revenues from the Southern African Customs Union (SACU). Volatility in the size of Namibia's annual SACU allotment complicates budget planning."
     },
     "GDP (purchasing power parity)": {
-      "text": "$23.48 billion (2014 est.) ++ $22.47 billion (2013 est.) ++ $21.38 billion (2012 est.)",
+      "text": "$25.6 billion (2015 est.) ++ $24.31 billion (2014 est.) ++ $22.84 billion (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$13.63 billion (2014 est.)"
+      "text": "$11.5 billion (2015 est.)"
     },
     "GDP - real growth rate": {
-      "text": "4.5% (2014 est.) ++ 5.1% (2013 est.) ++ 5.1% (2012 est.)"
+      "text": "5.3% (2015 est.) ++ 6.5% (2014 est.) ++ 5.7% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$10,700 (2014 est.) ++ $10,200 (2013 est.) ++ $9,700 (2012 est.)",
+      "text": "$11,200 (2015 est.) ++ $10,900 (2014 est.) ++ $10,400 (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "Gross national saving": {
-      "text": "18% of GDP (2014 est.) ++ 20.9% of GDP (2013 est.) ++ 21.2% of GDP (2012 est.)"
+      "text": "21.2% of GDP (2015 est.) ++ 22.3% of GDP (2014 est.) ++ 21.2% of GDP (2013 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "68.4%"
+        "text": "62.8%"
       },
       "government consumption": {
-        "text": "27.1%"
+        "text": "26.9%"
       },
       "investment in fixed capital": {
-        "text": "28%"
+        "text": "33.4%"
       },
       "investment in inventories": {
-        "text": "0%"
+        "text": "0.6%"
       },
       "exports of goods and services": {
-        "text": "39.6%"
+        "text": "43.9%"
       },
       "imports of goods and services": {
-        "text": "-63.2% ++  (2014 est.)"
+        "text": "-67.6% (2015 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "6.3%"
+        "text": "5.9%"
       },
       "industry": {
-        "text": "29.9%"
+        "text": "29%"
       },
       "services": {
-        "text": "63.8% (2014 est.)"
+        "text": "65.1% (2015 est.)"
       }
     },
     "Agriculture - products": {
@@ -578,23 +590,23 @@
       "text": "meatpacking, fish processing, dairy products, pasta, beverages; mining (diamonds, lead, zinc, tin, silver, tungsten, uranium, copper)"
     },
     "Industrial production growth rate": {
-      "text": "5.7% (2014 est.)"
+      "text": "5.1% (2015 est.)"
     },
     "Labor force": {
-      "text": "1.167 million (2014 est.)"
+      "text": "1.188 million (2015 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
-        "text": "16.3%"
+        "text": "31%"
       },
       "industry": {
-        "text": "22.4%"
+        "text": "14%"
       },
       "services": {
-        "text": "61.3%"
+        "text": "54%"
       },
       "note": {
-        "text": "about half of Namibia's people are unemployed while about two-thirds live in rural areas; roughly two-thirds of rural dwellers rely on subsistence agriculture (2008 est.)"
+        "text": "about half of Namibia's people are unemployed while about two-thirds live in rural areas; roughly two-thirds of rural dwellers rely on subsistence agriculture (2013 est.)"
       }
     },
     "Unemployment rate": {
@@ -616,65 +628,65 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$4.968 billion"
+        "text": "$4.553 billion"
       },
       "expenditures": {
-        "text": "$5.547 billion (2014 est.)"
+        "text": "$5.258 billion (2015 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "36.4% of GDP (2014 est.)"
+      "text": "35.5% of GDP (2015 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-4.3% of GDP (2014 est.)"
+      "text": "-5.5% of GDP (2015 est.)"
     },
     "Public debt": {
-      "text": "24% of GDP (2014 est.) ++ 23.3% of GDP (2013 est.)"
+      "text": "34.1% of GDP (2015 est.) ++ 24% of GDP (2014 est.)"
     },
     "Fiscal year": {
       "text": "1 April - 31 March"
     },
     "Inflation rate (consumer prices)": {
-      "text": "5.3% (2014 est.) ++ 5.6% (2013 est.)"
+      "text": "3.4% (2015 est.) ++ 5.3% (2014 est.)"
     },
     "Central bank discount rate": {
-      "text": "6% (31 December 2014) ++ 5.5% (31 December 2013)"
+      "text": "6.75% (17 February 2016) ++ 6.5% (31 December 2015)"
     },
     "Commercial bank prime lending rate": {
-      "text": "8.7% (31 December 2014 est.) ++ 8.29% (31 December 2013 est.)"
+      "text": "7.41% (17 February 2016 est.) ++ 8.7% (31 December 2015 est.)"
     },
     "Stock of narrow money": {
-      "text": "$3.17 billion (31 December 2014 est.) ++ $3.23 billion (31 December 2013 est.)"
+      "text": "$2.583 billion (31 December 2015 est.) ++ $3.17 billion (31 December 2014 est.)"
     },
     "Stock of broad money": {
       "text": "$7.496 billion (31 December 2014 est.) ++ $6.574 billion (31 December 2013 est.)"
     },
     "Stock of domestic credit": {
-      "text": "$6.655 billion (31 December 2014 est.) ++ $5.993 billion (31 December 2013 est.)"
+      "text": "$4.904 billion (31 December 2015 est.) ++ $6.655 billion (31 December 2014 est.)"
     },
     "Market value of publicly traded shares": {
-      "text": "$1.305 billion (31 December 2012 est.) ++ $1.152 billion (31 December 2011) ++ $1.176 billion (31 December 2010 est.)"
+      "text": "$1.305 billion (31 December 2012 est.) ++ $1.152 billion (31 December 2011 est.) ++ $1.176 billion (31 December 2010 est.)"
     },
     "Current account balance": {
-      "text": "-$1.355 billion (2014 est.) ++ -$507 million (2013 est.)"
+      "text": "-$1.489 billion (2015 est.) ++ -$1.376 billion (2014 est.)"
     },
     "Exports": {
-      "text": "$4.626 billion (2014 est.) ++ $4.614 billion (2013 est.)"
+      "text": "$4.015 billion (2015 est.) ++ $4.612 billion (2014 est.)"
     },
     "Exports - commodities": {
       "text": "diamonds, copper, gold, zinc, lead, uranium; cattle, white fish and mollusks"
     },
     "Imports": {
-      "text": "$7.36 billion (2014 est.) ++ $6.617 billion (2013 est.)"
+      "text": "$6.914 billion (2015 est.) ++ $7.191 billion (2014 est.)"
     },
     "Imports - commodities": {
       "text": "foodstuffs; petroleum products and fuel, machinery and equipment, chemicals"
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$1.209 billion (31 December 2014 est.) ++ $1.511 billion (31 December 2013 est.)"
+      "text": "$1.69 billion (31 December 2015 est.) ++ $1.177 billion (31 December 2014 est.)"
     },
     "Debt - external": {
-      "text": "$5.993 billion (31 December 2014 est.) ++ $5.306 billion (31 December 2013 est.)"
+      "text": "$6.124 billion (31 December 2014 est.) ++ $5.829 billion (31 December 2013 est.)"
     },
     "Stock of direct foreign investment - at home": {
       "text": "$NA"
@@ -683,10 +695,24 @@
       "text": "$NA"
     },
     "Exchange rates": {
-      "text": "Namibian dollars (NAD) per US dollar - ++ 10.8526 (2014 est.) ++ 10.8526 (2013 est.) ++ 8.2 (2012 est.) ++ 7.2597 (2011 est.) ++ 7.3212 (2010 est.)"
+      "text": "Namibian dollars (NAD) per US dollar - ++ 12.7589 (2015 est.) ++ 10.8526 (2014 est.) ++ 10.8526 (2013 est.) ++ 8.2 (2012 est.) ++ 7.2597 (2011 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "1,600,000"
+      },
+      "electrification - total population": {
+        "text": "32%"
+      },
+      "electrification - urban areas": {
+        "text": "50%"
+      },
+      "electrification - rural areas": {
+        "text": "17% (2013)"
+      }
+    },
     "Electricity - production": {
       "text": "1.796 billion kWh (2012 est.)"
     },
@@ -760,18 +786,18 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "180,000"
+        "text": "182,507"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "8 (2014 est.)"
+        "text": "8 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "2.7 million"
+        "text": "2.443 million"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "121 (2014 est.)"
+        "text": "110 (July 2012 est.)"
       }
     },
     "Telephone system": {
@@ -779,34 +805,45 @@
         "text": "good system; core fiber-optic network links most centers with digital connections"
       },
       "domestic": {
-        "text": "multiple mobile-cellular providers with a combined subscribership of more than 100 telephones per 100 persons"
+        "text": "multiple mobile-cellular providers with a combined subscribership of about 110 telephones per 100 persons"
       },
       "international": {
-        "text": "country code - 264; fiber-optic cable to South Africa, microwave radio relay link to Botswana, direct links to other neighboring countries; connected to the South African Far East (SAFE) submarine cable through South Africa; satellite earth stations - 4 Intelsat (2010)"
+        "text": "country code - 264; fiber-optic cable to South Africa, microwave radio relay link to Botswana, direct links to other neighboring countries; connected to the South African Far East submarine cable through South Africa; connected to the West Africa Cable System, an ultra-high capacity fiber-optic submarine cable linking southern and western African countries to Europe; satellite earth stations - 4 Intelsat (2015)"
       }
     },
     "Broadcast media": {
       "text": "1 private and 1 state-run TV station; satellite and cable TV service available; state-run radio service broadcasts in multiple languages; about a dozen private radio stations; transmissions of multiple international broadcasters available (2007)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM 2, FM 39, shortwave 4 (2001)"
-    },
-    "Television broadcast stations": {
-      "text": "2 (2007)"
     },
     "Internet country code": {
       "text": ".na"
     },
     "Internet users": {
       "total": {
-        "text": "325,400"
+        "text": "493,000"
       },
       "percent of population": {
-        "text": "14.8% (2014 est.)"
+        "text": "22.3% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "2"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "12"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "553,322"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "30,302,405 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "V5 (2016)"
+    },
     "Airports": {
       "text": "112 (2013)"
     },
@@ -838,7 +875,7 @@
         "text": "52"
       },
       "under 914 m": {
-        "text": " ++ 16 (2013)"
+        "text": "16 (2013)"
       }
     },
     "Railways": {
@@ -874,33 +911,12 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "Namibian Defense Force (NDF): Army, Navy, Air Force (2013)"
     },
     "Military service age and obligation": {
       "text": "18 years of age for voluntary military service; no conscription (2012)"
-    },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "568,231 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "351,431"
-      },
-      "females age 16-49": {
-        "text": "311,513 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "26,413"
-      },
-      "female": {
-        "text": "26,038 (2010 est.)"
-      }
     },
     "Military expenditures": {
       "text": "4.2% of GDP (2015) ++ 3.11% of GDP (2012) ++ 3.38% of GDP (2011) ++ 3.11% of GDP (2010)"
@@ -912,10 +928,10 @@
     },
     "Trafficking in persons": {
       "current situation": {
-        "text": "Namibia is predominantly a country of origin and destination for children and, to a lesser extent, women subjected to forced labor and sex trafficking; victims, lured by promises of legitimate jobs, are forced to work in hazardous condition in urban centers and on commercial farms; traffickers exploit Namibian children, as well as children from Angola, Zambia, and Zimbabwe, for forced labor in agriculture, cattle herding, domestic service, fishing, and street vending; children are also forced into prostitution, often catering to tourists from southern Africa and Europe; San girls are particularly vulnerable"
+        "text": "Namibia is a country of origin and destination for children and, to a lesser extent, women subjected to forced labor and sex trafficking; victims, lured by promises of legitimate jobs, are forced to work in urban centers and on commercial farms; traffickers exploit Namibian children, as well as children from Angola, Zambia, and Zimbabwe, for forced labor in agriculture, cattle herding, domestic service, fishing, and street vending; children are also forced into prostitution, often catering to tourists from southern Africa and Europe; San and Zemba children are particularly vulnerable; foreign adults and Namibian adults and children are reportedly subjected to forced labor in Chinese-owned retail, construction, and fishing operations"
       },
       "tier rating": {
-        "text": "Tier 2 Watch List – Namibia does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; the government has a written plan that, if implemented, would constitute a significant effort toward meeting the minimum standards for eliminating human trafficking; draft anti-trafficking legislation awaits review by the attorney general and the Child Care and Protection Bill, which would criminalize child trafficking, is still pending parliamentary approval; the government developed a national protection referral network for crime victims in 2013, but it has not been fully operationalized; authorities did not make systematic efforts to identify trafficking victims or to screen vulnerable groups for potential victims (2014)"
+        "text": "Tier 2 Watch List – Namibia does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; Namibia was granted a waiver from an otherwise required downgrade to Tier 3 because its government has a written plan that, if implemented would constitute making significant efforts to bring itself into compliance with the minimum standards for the elimination of trafficking; in 2015, the Child Care and Protection Bill passed, criminalizing child trafficking; the government’s first sex trafficking prosecution remained pending; no new prosecutions were initiated and no trafficking offenders have ever been convicted; accusations of forced labor at Chinese construction and mining companies continue to go uninvestigated; authorities failed to fully implement victim identification and referral processes, which led to the deportation of possible victims (2015)"
       }
     }
   }

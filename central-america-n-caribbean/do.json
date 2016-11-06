@@ -51,12 +51,12 @@
     "Terrain": {
       "text": "rugged mountains of volcanic origin"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Caribbean Sea 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "NA"
       },
-      "highest point": {
-        "text": "Morne Diablotins 1,447 m"
+      "elevation extremes": {
+        "text": "lowest point: Caribbean Sea 0 m ++ highest point: Morne Diablotins 1,447 m"
       }
     },
     "Natural resources": {
@@ -76,16 +76,8 @@
     "Irrigated land": {
       "text": "NA"
     },
-    "Total renewable water resources": {
-      "text": "NA"
-    },
-    "Freshwater withdrawal (domestic/industrial/agricultural)": {
-      "total": {
-        "text": "0.02  cu km/yr"
-      },
-      "per capita": {
-        "text": "244.1  cu m/yr (2004)"
-      }
+    "Population - distribution": {
+      "text": "population is mosly clustered along the coast, with roughly a third living in the parish of St. George, in or around the capital of Roseau; the volcanic interior is sparsely populated"
     },
     "Natural hazards": {
       "text": "flash floods are a constant threat; destructive hurricanes can be expected during the late summer months"
@@ -106,6 +98,9 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "73,757 (July 2016 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "Dominican(s)"
@@ -121,53 +116,50 @@
       "text": "English (official), French patois"
     },
     "Religions": {
-      "text": "Roman Catholic 61.4%, Protestant 20.6% (inclues Evangelical 6.7%, Seventh Day Adventist 6.1%, Pentecostal 5.6%, Baptist 4.1%, Methodist 3.7%, Church of God 1.2%, other 1.3%), Rastafarian 1.3%, Jehovah's Witnesses 1.2%, other 0.3%, none 6.1%, unspecified 1.1% (2001 est.)"
-    },
-    "Population": {
-      "text": "73,607 (July 2015 est.)"
+      "text": "Roman Catholic 61.4%, Protestant 28.6% (includes Evangelical 6.7%, Seventh Day Adventist 6.1%, Pentecostal 5.6%, Baptist 4.1%, Methodist 3.7%, Church of God 1.2%, other 1.2%), Rastafarian 1.3%, Jehovah's Witness 1.2%, other 0.3%, none 6.1%, unspecified 1.1% (2001 est.)"
     },
     "Age structure": {
       "0-14 years": {
-        "text": "21.96% (male 8,265/female 7,902)"
+        "text": "21.84% (male 8,239/female 7,871)"
       },
       "15-24 years": {
-        "text": "16.14% (male 6,117/female 5,762)"
+        "text": "15.7% (male 5,960/female 5,618)"
       },
       "25-54 years": {
-        "text": "41.83% (male 15,617/female 15,170)"
+        "text": "41.97% (male 15,693/female 15,264)"
       },
       "55-64 years": {
-        "text": "9.39% (male 3,696/female 3,213)"
+        "text": "9.6% (male 3,787/female 3,294)"
       },
       "65 years and over": {
-        "text": "10.69% (male 3,463/female 4,402) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "10.89% (male 3,561/female 4,470) (2016 est.)"
       }
     },
     "Median age": {
       "total": {
-        "text": "32.6 years"
+        "text": "33 years"
       },
       "male": {
-        "text": "32.1 years"
+        "text": "32.5 years"
       },
       "female": {
-        "text": "33 years (2015 est.)"
+        "text": "33.5 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "0.21% (2015 est.)"
+      "text": "0.2% (2016 est.)"
     },
     "Birth rate": {
-      "text": "15.41 births/1,000 population (2015 est.)"
+      "text": "15.2 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "7.91 deaths/1,000 population (2015 est.)"
+      "text": "7.9 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "-5.38 migrant(s)/1,000 population (2015 est.)"
+      "text": "-5.4 migrant(s)/1,000 population (2016 est.)"
+    },
+    "Population distribution": {
+      "text": "population is mosly clustered along the coast, with roughly a third living in the parish of St. George, in or around the capital of Roseau; the volcanic interior is sparsely populated"
     },
     "Urbanization": {
       "urban population": {
@@ -200,36 +192,36 @@
         "text": "0.79 male(s)/female"
       },
       "total population": {
-        "text": "1.02 male(s)/female (2015 est.)"
+        "text": "1.02 male(s)/female (2016 est.)"
       }
     },
     "Infant mortality rate": {
       "total": {
-        "text": "11.25 deaths/1,000 live births"
+        "text": "10.9 deaths/1,000 live births"
       },
       "male": {
-        "text": "14.94 deaths/1,000 live births"
+        "text": "14.5 deaths/1,000 live births"
       },
       "female": {
-        "text": "7.36 deaths/1,000 live births (2015 est.)"
+        "text": "7.2 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "76.79 years"
+        "text": "77 years"
       },
       "male": {
-        "text": "73.82 years"
+        "text": "74 years"
       },
       "female": {
-        "text": "79.91 years (2015 est.)"
+        "text": "80.1 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "2.04 children born/woman (2015 est.)"
+      "text": "2.04 children born/woman (2016 est.)"
     },
     "Health expenditures": {
-      "text": "6% of GDP (2013)"
+      "text": "5.5% of GDP (2014)"
     },
     "Hospital bed density": {
       "text": "3.8 beds/1,000 population (2012)"
@@ -259,6 +251,11 @@
     "HIV/AIDS - deaths": {
       "text": "NA"
     },
+    "Major infectious diseases": {
+      "note": {
+        "text": "active local transmission of Zika virus by Aedes species mosquitoes has been identified in this country (as of August 2016); it poses an important risk (a large number of cases possible) among US citizens if bitten by an infective mosquito; other less common ways to get Zika are through sex, via blood transfusion, or during pregnancy, in which the pregnant woman passes Zika virus to her fetus (2016)"
+      }
+    },
     "Obesity - adult prevalence rate": {
       "text": "25.9% (2014)"
     }
@@ -271,12 +268,12 @@
       "conventional short form": {
         "text": "Dominica"
       },
-      "note": {
-        "text": "island named by Christopher COLUMBUS after the day of the week on which he spotted it, Sunday (\"domingo\" in Latin), 3 November 1493"
+      "etymology": {
+        "text": "the island was named by explorer Christopher COLUMBUS for the day of the week on which he spotted it, Sunday (\"Domingo\" in Latin), 3 November 1493"
       }
     },
     "Government type": {
-      "text": "parliamentary democracy"
+      "text": "parliamentary republic"
     },
     "Capital": {
       "name": {
@@ -296,10 +293,10 @@
       "text": "3 November 1978 (from the UK)"
     },
     "National holiday": {
-      "text": "Independence Day, 3 November (1978)"
+      "text": "Emancipation Day (First Monday), celebrated on first Monday in August (1834); Independence Day, 3 November (1978)"
     },
     "Constitution": {
-      "text": "previous 1967 (preindependence); latest presented 25 July 1978, entered into force 3 November 1978; amended several times, last in 1984 (2015)"
+      "text": "previous 1967 (preindependence); latest presented 25 July 1978, entered into force 3 November 1978; amended several times, last in 2015 (2016)"
     },
     "Legal system": {
       "text": "common law based on the English model"
@@ -308,7 +305,10 @@
       "text": "accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction"
     },
     "Citizenship": {
-      "birthright citizenship": {
+      "citizenship by birth": {
+        "text": "yes"
+      },
+      "citizenship by descent": {
         "text": "yes"
       },
       "dual citizenship recognized": {
@@ -351,10 +351,10 @@
     },
     "Judicial branch": {
       "highest court(s)": {
-        "text": "The Eastern Caribbean Supreme Court (ECSC) is the itinerant superior court of record for the 9-member Organization of Eastern Caribbean States to include Dominica; the ECSC - based on St. Lucia - is headed by the chief justice and is comprised of the Court of Appeal with 3 justices and the High Court with 16 judges; sittings of the Court of Appeal and High Court rotate among the 9 member states; 2 High Court judges reside in Dominica; note - Dominica is a member of the Caribbean Court of Justice"
+        "text": "the Eastern Caribbean Supreme Court (ECSC) is the itinerant superior court of record for the 9-member Organization of Eastern Caribbean States to include Dominica; the ECSC - based on St. Lucia - is headed by the chief justice and is comprised of the Court of Appeal with 3 justices and the High Court with 16 judges; sittings of the Court of Appeal and High Court rotate among the 9 member states; 2 High Court judges reside in Dominica; note - Dominica is a member of the Caribbean Court of Justice"
       },
       "judge selection and term of office": {
-        "text": "ECSC chief justice appointed by Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62"
+        "text": "chief justice of Eastern Caribbean Supreme Court appointed by the Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission, an independent body of judicial officials; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62"
       },
       "subordinate courts": {
         "text": "Court of Summary Jurisdiction; magistrates' courts"
@@ -412,55 +412,55 @@
       "text": "The Dominican economy has been dependent on agriculture - primarily bananas - in years past, but increasingly has been driven by tourism as the government seeks to promote Dominica as an \"ecotourism\" destination. Moreover, Dominica has an offshore medical education sector. In order to diversify the island's economy, the government is also attempting to foster an offshore financial industry and plans to sign agreements with the private sector to develop geothermal energy resources. In 2003, the government began a comprehensive restructuring of the economy - including the elimination of price controls, privatization of the state banana company, and tax increases - to address an economic and financial crisis and to meet IMF requirements. In 2009 and 2013, the economy contracted as a result of the global recession; growth remains anemic. Although public debt levels continue to exceed pre-recession levels, the debt burden declined from 78% of GDP in 2011 to approximately 70% in 2012."
     },
     "GDP (purchasing power parity)": {
-      "text": "$790 million (2014 est.) ++ $760.5 million (2013 est.) ++ $756 million (2012 est.)",
+      "text": "$790 million (2015 est.) ++ $804.2 million (2014 est.) ++ $771.9 million (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$524 million (2014 est.)"
+      "text": "$517 million (2015 est.)"
     },
     "GDP - real growth rate": {
-      "text": "3.9% (2014 est.) ++ 0.6% (2013 est.) ++ -1.3% (2012 est.)"
+      "text": "-1.8% (2015 est.) ++ 4.2% (2014 est.) ++ 0.8% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$11,200 (2014 est.) ++ $10,700 (2013 est.) ++ $10,700 (2012 est.)",
+      "text": "$11,100 (2015 est.) ++ $11,300 (2014 est.) ++ $10,900 (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "Gross national saving": {
-      "text": "1.7% of GDP (2014 est.) ++ 0.4% of GDP (2013 est.) ++ -3.5% of GDP (2012 est.)"
+      "text": "7.4% of GDP (2015 est.) ++ 4.4% of GDP (2014 est.) ++ 3.9% of GDP (2013 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "59.3%"
+        "text": "73.3%"
       },
       "government consumption": {
-        "text": "21.5%"
+        "text": "18.7%"
       },
       "investment in fixed capital": {
-        "text": "25.6%"
+        "text": "11%"
       },
       "investment in inventories": {
         "text": "0%"
       },
       "exports of goods and services": {
-        "text": "58.2%"
+        "text": "31%"
       },
       "imports of goods and services": {
-        "text": "-64.6% ++  (2014 est.)"
+        "text": "-34% (2015 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "14.8%"
+        "text": "16.5%"
       },
       "industry": {
-        "text": "14.3%"
+        "text": "15.5%"
       },
       "services": {
-        "text": "70.9% (2014 est.)"
+        "text": "68% (2015 est.)"
       }
     },
     "Agriculture - products": {
@@ -473,7 +473,7 @@
       "text": "soap, coconut oil, tourism, copra, furniture, cement blocks, shoes"
     },
     "Industrial production growth rate": {
-      "text": "1% (2014 est.)"
+      "text": "0.5% (2015 est.)"
     },
     "Labor force": {
       "text": "25,000 (2000 est.)"
@@ -508,14 +508,14 @@
         "text": "$148.1 million"
       },
       "expenditures": {
-        "text": "$148.1 million (2014 est.)"
+        "text": "$148.1 million (2015 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "28.3% of GDP (2014 est.)"
+      "text": "29.8% of GDP (2015 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "0% of GDP (2014 est.)"
+      "text": "0% of GDP (2015 est.)"
     },
     "Public debt": {
       "text": "70% of GDP (2012 est.) ++ 78% of GDP (2009 est.)"
@@ -524,55 +524,69 @@
       "text": "1 July - 30 June"
     },
     "Inflation rate (consumer prices)": {
-      "text": "0.8% (2014 est.) ++ 0% (2013 est.)"
+      "text": "-0.8% (2015 est.) ++ 0.8% (2014 est.)"
     },
     "Central bank discount rate": {
       "text": "6.5% (31 December 2010) ++ 6.5% (31 December 2009)"
     },
     "Commercial bank prime lending rate": {
-      "text": "8.94% (31 December 2014 est.) ++ 9.08% (31 December 2013 est.)"
+      "text": "8.7% (31 December 2015 est.) ++ 8.94% (31 December 2014 est.)"
     },
     "Stock of narrow money": {
-      "text": "$86.92 million (31 December 2014 est.) ++ $78.84 million (31 December 2013 est.)"
+      "text": "$96.59 million (31 December 2015 est.) ++ $86.92 million (31 December 2014 est.)"
     },
     "Stock of broad money": {
-      "text": "$463.3 million (31 December 2014 est.) ++ $429.1 million (31 December 2013 est.)"
+      "text": "$499.6 million (31 December 2015 est.) ++ $462.6 million (31 December 2014 est.)"
     },
     "Stock of domestic credit": {
-      "text": "$314.8 million (31 December 2014 est.) ++ $319.6 million (31 December 2013 est.)"
+      "text": "$259.3 million (31 December 2015 est.) ++ $314.8 million (31 December 2014 est.)"
     },
     "Current account balance": {
-      "text": "-$68 million (2014 est.) ++ -$68 million (2013 est.)"
+      "text": "-$48 million (2015 est.) ++ -$59 million (2014 est.)"
     },
     "Exports": {
-      "text": "$38.6 million (2014 est.) ++ $41 million (2013 est.)"
+      "text": "$35.2 million (2015 est.) ++ $38.6 million (2014 est.)"
     },
     "Exports - commodities": {
       "text": "bananas, soap, bay oil, vegetables, grapefruit, oranges"
     },
     "Exports - partners": {
-      "text": "Japan 35.7%, Jamaica 18.4%, Antigua and Barbuda 10.1%, Trinidad and Tobago 6.3%, St. Lucia 4.6%, St. Kitts and Nevis 4% (2014)"
+      "text": "Japan 38.1%, Jamaica 19%, Antigua and Barbuda 10.4%, Trinidad and Tobago 6.2%, St. Lucia 4.8%, St. Kitts and Nevis 4.2% (2015)"
     },
     "Imports": {
-      "text": "$186.9 million (2014 est.) ++ $178.6 million (2013 est.)"
+      "text": "$182.9 million (2015 est.) ++ $186.9 million (2014 est.)"
     },
     "Imports - commodities": {
       "text": "manufactured goods, machinery and equipment, food, chemicals"
     },
     "Imports - partners": {
-      "text": "Japan 40%, Trinidad and Tobago 16.9%, US 12%, China 7% (2014)"
+      "text": "Japan 42%, Trinidad and Tobago 17%, US 11.9%, China 6% (2015)"
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$103 million (31 December 2014 est.) ++ $87.05 million (31 December 2013 est.)"
+      "text": "$126.2 million (31 December 2015 est.) ++ $101.5 million (31 December 2014 est.)"
     },
     "Debt - external": {
-      "text": "$292.9 million (31 December 2014 est.) ++ $292.9 million (31 December 2013 est.)"
+      "text": "$275.4 million (31 December 2015 est.) ++ $291.3 million (31 December 2014 est.)"
     },
     "Exchange rates": {
-      "text": "East Caribbean dollars (XCD) per US dollar - ++ 2.7 (2014 est.) ++ 2.7 (2013 est.) ++ 2.7 (2012 est.) ++ 2.7 (2011 est.) ++ 2.7 (2010 est.)"
+      "text": "East Caribbean dollars (XCD) per US dollar - ++ 2.7 (2015 est.) ++ 2.7 (2014 est.) ++ 2.7 (2013 est.) ++ 2.7 (2012 est.) ++ 2.7 (2011 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "5,900"
+      },
+      "electrification - total population": {
+        "text": "93%"
+      },
+      "electrification - urban areas": {
+        "text": "99%"
+      },
+      "electrification - rural areas": {
+        "text": "80% (2012)"
+      }
+    },
     "Electricity - production": {
       "text": "96.5 million kWh (2012 est.)"
     },
@@ -646,18 +660,18 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "17,600"
+        "text": "15,123"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "24 (2014 est.)"
+        "text": "21 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "92,200"
+        "text": "77,000"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "126 (2014 est.)"
+        "text": "105 (July 2015 est.)"
       }
     },
     "Telephone system": {
@@ -665,34 +679,45 @@
         "text": "fully automatic network"
       },
       "domestic": {
-        "text": "fixed-line connections continued to decline slowly with the two active operators providing about 20 fixed-line connections per 100 persons; subscribership among the three mobile-cellular providers continued to increase with teledensity reaching 150 per 100 persons"
+        "text": "fixed-line connections continued to decline slowly with the two active operators providing about 20 fixed-line connections per 100 persons; subscribership among the three mobile-cellular providers is about 105 per 100 persons"
       },
       "international": {
-        "text": "country code - 1-767; landing points for the East Caribbean Fiber Optic System (ECFS) and the Global Caribbean Network (GCN) submarine cables providing connectivity to other islands in the eastern Caribbean extending from the British Virgin Islands to Trinidad; microwave radio relay and SHF radiotelephone links to Martinique and Guadeloupe; VHF and UHF radiotelephone links to Saint Lucia (2010)"
+        "text": "country code - 1-767; landing points for the East Caribbean Fiber Optic System (ECFS) and the Global Caribbean Network (GCN) submarine cables providing connectivity to other islands in the eastern Caribbean extending from the British Virgin Islands to Trinidad; microwave radio relay and SHF radiotelephone links to Martinique and Guadeloupe; VHF and UHF radiotelephone links to Saint Lucia (2015)"
       }
     },
     "Broadcast media": {
       "text": "no terrestrial TV service available; subscription cable TV provider offers some locally produced programming plus channels from the US, Latin America, and the Caribbean; state-operated radio broadcasts on 6 stations; privately owned radio broadcasts on about 15 stations (2007)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM 4, FM 18, shortwave 0 (2009)"
-    },
-    "Television broadcast stations": {
-      "text": "1 (2004)"
     },
     "Internet country code": {
       "text": ".dm"
     },
     "Internet users": {
       "total": {
-        "text": "43,400"
+        "text": "50,000"
       },
       "percent of population": {
-        "text": "59.1% (2014 est.)"
+        "text": "67.6% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "0"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "0"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "0"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "0 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "J7 (2016)"
+    },
     "Airports": {
       "text": "2 (2013)"
     },
@@ -738,35 +763,14 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "no regular military forces; Commonwealth of Dominica Police Force (includes Coast Guard) (2012)"
-    },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "19,075 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "16,035"
-      },
-      "females age 16-49": {
-        "text": "15,499 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "675"
-      },
-      "female": {
-        "text": "636 (2010 est.)"
-      }
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "Dominica is the only Caribbean state to challenge Venezuela's sovereignty claim over Aves Island and joins the other island nations in challenging whether the feature sustains human habitation, a criterion under the UN Convention on the Law of the Sea (UNCLOS), which permits Venezuela to extend its Exclusive Economic Zone (EEZ) and continental shelf claims over a large portion of the eastern Caribbean Sea"
+      "text": "Dominica is the only Caribbean state to challenge Venezuela's sovereignty claim over Aves Island and joins the other island nations in challenging whether the feature sustains human habitation, a criterion under the UN Convention on the Law of the Sea, which permits Venezuela to extend its EEZ and continental shelf claims over a large portion of the eastern Caribbean Sea"
     },
     "Illicit drugs": {
       "text": "transshipment point for narcotics bound for the US and Europe; minor cannabis producer (2008)"

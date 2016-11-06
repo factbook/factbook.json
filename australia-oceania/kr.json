@@ -51,12 +51,12 @@
     "Terrain": {
       "text": "mostly low-lying coral atolls surrounded by extensive reefs"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Pacific Ocean 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "NA"
       },
-      "highest point": {
-        "text": "unnamed elevation on Banaba 81 m"
+      "elevation extremes": {
+        "text": "lowest point: Pacific Ocean 0 m ++ highest point: unnamed elevation on Banaba 81 m"
       }
     },
     "Natural resources": {
@@ -74,7 +74,7 @@
       }
     },
     "Irrigated land": {
-      "text": "NA"
+      "text": "0 sq km (2012)"
     },
     "Natural hazards": {
       "text": "typhoons can occur any time, but usually November to March; occasional tornadoes; low level of some of the islands make them sensitive to changes in sea level"
@@ -95,6 +95,9 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "106,925 (July 2016 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "I-Kiribati (singular and plural)"
@@ -112,27 +115,21 @@
     "Religions": {
       "text": "Roman Catholic 55.8%, Kempsville Presbyterian Church 33.5%, Mormon 4.7%, Baha'i 2.3%, Seventh Day Adventist 2%, other 1.5%, none 0.2%, unspecified 0.05% (2010 est.)"
     },
-    "Population": {
-      "text": "105,711 (July 2015 est.)"
-    },
     "Age structure": {
       "0-14 years": {
-        "text": "30.77% (male 16,582/female 15,950)"
+        "text": "30.16% (male 16,438/female 15,814)"
       },
       "15-24 years": {
-        "text": "21.28% (male 11,202/female 11,296)"
+        "text": "21.26% (male 11,285/female 11,447)"
       },
       "25-54 years": {
-        "text": "38.23% (male 19,446/female 20,965)"
+        "text": "38.59% (male 19,863/female 21,397)"
       },
       "55-64 years": {
-        "text": "5.66% (male 2,706/female 3,281)"
+        "text": "5.86% (male 2,827/female 3,436)"
       },
       "65 years and over": {
-        "text": "4.05% (male 1,689/female 2,594) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "4.13% (male 1,741/female 2,677) (2016 est.)"
       }
     },
     "Dependency ratios": {
@@ -151,26 +148,26 @@
     },
     "Median age": {
       "total": {
-        "text": "23.9 years"
+        "text": "24.3 years"
       },
       "male": {
-        "text": "23.1 years"
+        "text": "23.4 years"
       },
       "female": {
-        "text": "24.8 years (2015 est.)"
+        "text": "25.1 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "1.15% (2015 est.)"
+      "text": "1.14% (2016 est.)"
     },
     "Birth rate": {
-      "text": "21.46 births/1,000 population (2015 est.)"
+      "text": "21.3 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "7.12 deaths/1,000 population (2015 est.)"
+      "text": "7.1 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "-2.87 migrant(s)/1,000 population (2015 est.)"
+      "text": "-2.9 migrant(s)/1,000 population (2016 est.)"
     },
     "Urbanization": {
       "urban population": {
@@ -197,13 +194,19 @@
         "text": "0.93 male(s)/female"
       },
       "55-64 years": {
-        "text": "0.83 male(s)/female"
+        "text": "0.82 male(s)/female"
       },
       "65 years and over": {
         "text": "0.65 male(s)/female"
       },
       "total population": {
-        "text": "0.95 male(s)/female (2015 est.)"
+        "text": "0.95 male(s)/female (2016 est.)"
+      }
+    },
+    "Mother's mean age at first birth": {
+      "text": "23.1",
+      "note": {
+        "text": "median age at first birth among women 25-29 (2009 est.)"
       }
     },
     "Maternal mortality rate": {
@@ -211,34 +214,34 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "34.26 deaths/1,000 live births"
+        "text": "33.2 deaths/1,000 live births"
       },
       "male": {
-        "text": "35.48 deaths/1,000 live births"
+        "text": "34.4 deaths/1,000 live births"
       },
       "female": {
-        "text": "32.99 deaths/1,000 live births (2015 est.)"
+        "text": "31.9 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "65.81 years"
+        "text": "66.2 years"
       },
       "male": {
-        "text": "63.36 years"
+        "text": "63.7 years"
       },
       "female": {
-        "text": "68.39 years (2015 est.)"
+        "text": "68.8 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "2.48 children born/woman (2015 est.)"
+      "text": "2.43 children born/woman (2016 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "22.3% (2009)"
     },
     "Health expenditures": {
-      "text": "10.1% of GDP (2013)"
+      "text": "10.2% of GDP (2014)"
     },
     "Physicians density": {
       "text": "0.38 physicians/1,000 population (2010)"
@@ -282,10 +285,21 @@
         "text": "12 years"
       },
       "male": {
-        "text": "12 years"
+        "text": "11 years"
       },
       "female": {
-        "text": "13 years (2008)"
+        "text": "12 years (2008)"
+      }
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": {
+        "text": "54%"
+      },
+      "male": {
+        "text": "47.6%"
+      },
+      "female": {
+        "text": "61.8% (2010 est.)"
       }
     }
   },
@@ -308,10 +322,13 @@
       },
       "former": {
         "text": "Gilbert Islands"
+      },
+      "etymology": {
+        "text": "the name is the local pronounciation of \"Gilberts,\" the former designation of the islands; originally named after explorer Thomas GILBERT, who mapped many of the islands in 1788"
       }
     },
     "Government type": {
-      "text": "republic"
+      "text": "presidential republic"
     },
     "Capital": {
       "name": {
@@ -337,7 +354,7 @@
       "text": "Independence Day, 12 July (1979)"
     },
     "Constitution": {
-      "text": "The Gilbert and Ellice Islands Order in Council 1915, The Gilbert Islands Order in Council 1975 (preindependence); latest promulgated 12 July 1979 (at independence); amended several times, last in 2013 (2015)"
+      "text": "The Gilbert and Ellice Islands Order in Council 1915, The Gilbert Islands Order in Council 1975 (preindependence); latest promulgated 12 July 1979 (at independence); amended 1995, 2013 (2016)"
     },
     "Legal system": {
       "text": "English common law supplemented by customary law"
@@ -346,14 +363,17 @@
       "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
     },
     "Citizenship": {
-      "birthright citizenship": {
-        "text": ""
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a native-born citizen of Kiribati"
       },
       "dual citizenship recognized": {
         "text": "no"
       },
       "residency requirement for naturalization": {
-        "text": ""
+        "text": "7 years"
       }
     },
     "Suffrage": {
@@ -361,19 +381,19 @@
     },
     "Executive branch": {
       "chief of state": {
-        "text": "President Anote TONG (since 10 July 2003); Vice President Teima ONORIO (since 2003); note - the president is both chief of state and head of government"
+        "text": "President Taneti MAAMAU (since 11 March 2016); Vice President Kourabi NENEM (since 17 March 2016); note - the president is both chief of state and head of government"
       },
       "head of government": {
-        "text": "President Anote TONG (since 10 July 2003); Vice President Teima ONORIO (since 2003)"
+        "text": "President Taneti MAAMAU (since 11 March 2016); Vice President Kourabi NENEM (since 17 March 2016)"
       },
       "cabinet": {
         "text": "Cabinet appointed by the president from among House of Assembly members"
       },
       "elections/appointments": {
-        "text": "president directly elected by simple majority popular vote following nomination of candidates from among House of Assembly members;  term is 4 years (eligible for 2 additional terms); election last held on 13 January 2012 (next to be held in 2015); vice president appointed by the president"
+        "text": "president directly elected by simple majority popular vote following nomination of candidates from among House of Assembly members; term is 4 years (eligible for 2 additional terms); election last held on 13 January 2012 (next to be held in 2015); vice president appointed by the president"
       },
       "election results": {
-        "text": "Anote TONG TONG elected president; percent of vote - Anote TONG (BTK) 42.2%, Tetaua TAITAI (KTK) 35%, Rimeta BENIAMINA (MKP) 22.8%"
+        "text": "Taneti MAAMAU elected president; percent of vote - Taneti MAAMAU 60%, Rimeta BENIAMINA (BTK) 38.5%, Taneti IOANE (BTK) 1.5%"
       }
     },
     "Legislative branch": {
@@ -414,7 +434,7 @@
       }
     },
     "Diplomatic representation from the US": {
-      "text": "the US does not have an embassy in Kiribati; the US ambassador to Fiji is accredited to Kiribati"
+      "text": "the US does not have an embassy in Kiribati; the US Ambassador to Fiji is accredited to Kiribati"
     },
     "Flag description": {
       "text": "the upper half is red with a yellow frigatebird flying over a yellow rising sun, and the lower half is blue with three horizontal wavy white stripes to represent the Pacific ocean; the white stripes represent the three island groups - the Gilbert, Line, and Phoenix Islands; the 17 rays of the sun represent the 16 Gilbert Islands and Banaba (formerly Ocean Island); the frigatebird symbolizes authority and freedom"
@@ -436,24 +456,24 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "A remote country of 33 scattered coral atolls, Kiribati has few natural resources and is one of the least developed Pacific Island countries. Commercially viable phosphate deposits were exhausted at the time of independence from the United Kingdom in 1979. Economic development is constrained by a shortage of skilled workers, weak infrastructure, and remoteness from international markets. The public sector dominates economic activity, with ongoing capital projects in infrastructure including the road rehabilitation, water and sanitation projects, and renovations to the international airport, spurring some growth. Earnings from fishing licenses and seafarer remittances are important sources of income. In 2013, the International Monetary Fund estimated that fishing licenses revenues contributed close to half of government’s total revenue and total remittances from seafarers were equivalent to 6% of GDP. However, remittances and the number of seafarers employed have declined since the global crisis. Kiribati is dependent on foreign aid, which was estimated to have contributed over 43% in 2013 to the government’s finances. The country’s sovereign fund, the Revenue Equalization Reserve Fund (RERF), which is held offshore, had an estimated balance of $668 million in 2013, equivalent to 381% of GDP. The RERF seeks to avoid exchange rate risk by holding investments in more than 20 currencies, including the Australian dollar, United States dollar, the Japanese yen and the Euro. Drawdowns from the RERF helped finance the government’s annual budget."
+      "text": "A remote country of 33 scattered coral atolls, Kiribati has few natural resources and is one of the least developed Pacific Island countries. Commercially viable phosphate deposits were exhausted by the time of independence from the United Kingdom in 1979. Earnings from fishing licenses and seafarer remittances are important sources of income, however, remittances and the number of seafarers employed have declined since the global crisis. In 2013, fishing license revenues contributed close to half of government’s total revenue and total remittances from seafarers were equivalent to 6% of GDP. ++  ++ Economic development is constrained by a shortage of skilled workers, weak infrastructure, and remoteness from international markets. The public sector dominates economic activity, with ongoing capital projects in infrastructure including the road rehabilitation, water and sanitation projects, and renovations to the international airport, spurring some growth. ++  ++ Kiribati is dependent on foreign aid, which was estimated to have contributed over 43% in 2013 to the government’s finances. The country’s sovereign fund, the Revenue Equalization Reserve Fund (RERF), which is held offshore, had an estimated balance of $668 million in 2013, equivalent to 381% of GDP. The RERF seeks to avoid exchange rate risk by holding investments in more than 20 currencies, including the Australian dollar, United States dollar, the Japanese yen, and the Euro. Drawdowns from the RERF helped finance the government’s annual budget"
     },
     "GDP (purchasing power parity)": {
-      "text": "$189 million (2014 est.) ++ $182.2 million (2013 est.) ++ $177.9 million (2012 est.)",
+      "text": "$202 million (2015 est.) ++ $195.2 million (2014 est.) ++ $190.6 million (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$181 million (2014 est.)"
+      "text": "$160 million (2015 est.)"
     },
     "GDP - real growth rate": {
-      "text": "3.7% (2014 est.) ++ 2.4% (2013 est.) ++ 3.4% (2012 est.)"
+      "text": "3.5% (2015 est.) ++ 2.4% (2014 est.) ++ 5.8% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$1,700 (2014 est.) ++ $1,600 (2013 est.) ++ $1,600 (2012 est.)",
+      "text": "$1,800 (2015 est.) ++ $1,700 (2014 est.) ++ $1,700 (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP - composition, by sector of origin": {
@@ -516,10 +536,10 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "109.3% of GDP (2013 est.)"
+      "text": "122.2% of GDP (2013 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "9.9% of GDP (2013 est.)"
+      "text": "11.1% of GDP (2013 est.)"
     },
     "Public debt": {
       "text": "8.6% of GDP (2013 est.) ++ 8% of GDP (2012 est.)"
@@ -528,13 +548,13 @@
       "text": "NA"
     },
     "Inflation rate (consumer prices)": {
-      "text": "2.1% (2014 est.) ++ -1.5% (2013 est.)"
+      "text": "0.6% (2015 est.) ++ 2.1% (2014 est.)"
     },
     "Market value of publicly traded shares": {
       "text": "$NA"
     },
     "Current account balance": {
-      "text": "$7 million (2014 est.) ++ -$39 million (2013 est.)"
+      "text": "$72 million (2015 est.) ++ $45 million (2014 est.)"
     },
     "Exports": {
       "text": "$84.75 million (2013 est.) ++ $62.31 million (2012 est.)"
@@ -558,13 +578,27 @@
       "text": "$NA"
     },
     "Exchange rates": {
-      "text": "Australian dollars (AUD) per US dollar - ++ 1.1094 (2014 est.) ++ 0.9695 (2013 est.) ++ 0.9695 (2012 est.) ++ 0.9695 (2011 est.) ++ 1.0902 (2010 est.)",
+      "text": "Australian dollars (AUD) per US dollar - ++ 1.3291 (2015 est.) ++ 1.1078 (2014 est.) ++ 0.9695 (2013 est.) ++ 0.9695 (2012 est.) ++ 0.9695 (2011 est.)",
       "note": {
         "text": "the Australian dollar circulates as legal tender"
       }
     }
   },
   "Energy": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "43,839"
+      },
+      "electrification - total population": {
+        "text": "59%"
+      },
+      "electrification - urban areas": {
+        "text": "77%"
+      },
+      "electrification - rural areas": {
+        "text": "45% (2012)"
+      }
+    },
     "Electricity - production": {
       "text": "26 million kWh (2012 est.)"
     },
@@ -638,18 +672,18 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "9,200"
+        "text": "1,477"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "9 (2014 est.)"
+        "text": "1 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "18,100"
+        "text": "41,000"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "17 (2014 est.)"
+        "text": "39 (July 2015 est.)"
       }
     },
     "Telephone system": {
@@ -660,31 +694,28 @@
         "text": "wireline service available on Tarawa and Kiritimati (Christmas Island); connections to outer islands by HF/VHF radiotelephone; wireless service available in Tarawa since 1999"
       },
       "international": {
-        "text": "country code - 686; Kiribati is being linked to the Pacific Ocean Cooperative Telecommunications Network, which should improve telephone service; satellite earth station - 1 Intelsat (Pacific Ocean) (2010)"
+        "text": "country code - 686; satellite earth station - 1 Intelsat (Pacific Ocean) (2015)"
       }
     },
     "Broadcast media": {
       "text": "1 TV broadcast station that provides about 1 hour of local programming Monday-Friday; multi-channel TV packages provide access to Australian and US stations; 1 government-operated radio station broadcasts on AM, FM, and shortwave (2009)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM 1, FM 2, shortwave 1 (may be inactive) (2002)"
-    },
-    "Television broadcast stations": {
-      "text": "1 (possibly inactive) (2002)"
     },
     "Internet country code": {
       "text": ".ki"
     },
     "Internet users": {
       "total": {
-        "text": "12,200"
+        "text": "14,000"
       },
       "percent of population": {
-        "text": "11.7% (2014 est.)"
+        "text": "13% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "Civil aircraft registration country code prefix": {
+      "text": "T3 (2016)"
+    },
     "Airports": {
       "text": "19 (2013)"
     },
@@ -704,7 +735,7 @@
         "text": "10"
       },
       "under 914 m": {
-        "text": " ++ 5 (2013)"
+        "text": "5 (2013)"
       }
     },
     "Roadways": {
@@ -732,30 +763,9 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "no regular military forces (establishment prevented by the constitution); Police Force (2011)"
-    },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "25,190 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "18,364"
-      },
-      "females age 16-49": {
-        "text": "20,302 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "1,132"
-      },
-      "female": {
-        "text": "1,120 (2010 est.)"
-      }
     },
     "Military - note": {
       "text": "Kiribati does not have military forces; defense assistance is provided by Australia and NZ"

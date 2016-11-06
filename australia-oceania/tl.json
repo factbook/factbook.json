@@ -48,12 +48,12 @@
     "Terrain": {
       "text": "low-lying coral atolls enclosing large lagoons"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Pacific Ocean 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "NA"
       },
-      "highest point": {
-        "text": "unnamed location 5 m"
+      "elevation extremes": {
+        "text": "lowest point: Pacific Ocean 0 m ++ highest point: unnamed location 5 m"
       }
     },
     "Natural resources": {
@@ -71,7 +71,7 @@
       }
     },
     "Irrigated land": {
-      "text": "NA"
+      "text": "0 sq km (2012)"
     },
     "Natural hazards": {
       "text": "lies in Pacific typhoon belt"
@@ -84,6 +84,9 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "1,337 (July 2014 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "Tokelauan(s)"
@@ -103,9 +106,6 @@
     },
     "Religions": {
       "text": "Congregational Christian Church 58.2%, Roman Catholic 36.6%, Presbyterian 1.8%, other Christian 2.8%, Spiritualism and New Age 0.1%, unspecified 0.5% (2011 est.)"
-    },
-    "Population": {
-      "text": "1,337 (July 2014 est.)"
     },
     "Population growth rate": {
       "text": "-0.01% (2014 est.)"
@@ -182,13 +182,16 @@
       },
       "conventional short form": {
         "text": "Tokelau"
+      },
+      "etymology": {
+        "text": "\"tokelau\" is a Polynesian word meaning \"north wind\""
       }
     },
     "Dependency status": {
       "text": "self-administering territory of New Zealand; note - Tokelau and New Zealand have agreed to a draft constitution as Tokelau moves toward free association with New Zealand; a UN-sponsored referendum on self governance in October 2007 did not produce the two-thirds majority vote necessary for changing the political status"
     },
     "Government type": {
-      "text": "NA"
+      "text": "parliamentary democratic dependency (General Fono); a territory of New Zealand"
     },
     "Capital": {
       "text": "none; each atoll has its own administrative center",
@@ -206,10 +209,13 @@
       "text": "Waitangi Day (Treaty of Waitangi established British sovereignty over New Zealand), 6 February (1840)"
     },
     "Constitution": {
-      "text": "many previous; latest effective 1 January 1949 (Tokelau Islands Act 1948); amended many times, last in 2007 (2015)"
+      "text": "many previous; latest effective 1 January 1949 (Tokelau Islands Act 1948); amended many times, last in 2007 (2016)"
     },
     "Legal system": {
       "text": "common law system of New Zealand"
+    },
+    "Citizenship": {
+      "text": "see New Zealand"
     },
     "Suffrage": {
       "text": "21 years of age; universal"
@@ -244,7 +250,7 @@
         "text": "Court of Appeal in New Zealand (consists of the court president and 8 judges sitting in 3- or 5-judge panels depending on the case)"
       },
       "judge selection and term of office": {
-        "text": "judges nominated by the Judicial Selection Committee and approved by three-quarters majority of the Parliament; judge tenure NA"
+        "text": "judges nominated by the Judicial Selection Committee and approved by three-quarters majority of the Parliament; judges appointed for life"
       },
       "subordinate courts": {
         "text": "High Court, in New Zealand; Council of Elders or Taupulega"
@@ -285,7 +291,7 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Tokelau's small size (three villages), isolation, and lack of resources greatly restrain economic development and confine agriculture to the subsistence level. The people rely heavily on aid from New Zealand - about $15 million annually in FY12/13 and FY13/14 - to maintain public services. New Zealand's support amounts to 80% of Tokelau's recurrent government budget. An international trust fund, currently worth nearly $32 million, was established in 2004 by New Zealand to provide Tokelau an independent source of revenue. The principal sources of revenue come from sales of copra, postage stamps, souvenir coins, and handicrafts. Money is also remitted to families from relatives in New Zealand."
+      "text": "Tokelau's small size (three villages), isolation, and lack of resources greatly restrain economic development and confine agriculture to the subsistence level. The principal sources of revenue come from sales of copra, postage stamps, souvenir coins, and handicrafts. Money is also remitted to families from relatives in New Zealand. ++  ++ The people rely heavily on aid from New Zealand - about $15 million annually in FY12/13 and FY13/14 - to maintain public services. New Zealand's support amounts to 80% of Tokelau's recurrent government budget. An international trust fund, currently worth nearly $32 million, was established in 2004 by New Zealand to provide Tokelau an independent source of revenue."
     },
     "GDP (purchasing power parity)": {
       "text": "$1.5 million (1993 est.)"
@@ -340,19 +346,19 @@
       "text": "NA%"
     },
     "Exports": {
-      "text": "$0 (2002)"
+      "text": "$0 (2002 est.)"
     },
     "Exports - commodities": {
       "text": "stamps, copra, handicrafts"
     },
     "Imports": {
-      "text": "$969,200 (2002)"
+      "text": "$969,200 (2002 est.)"
     },
     "Imports - commodities": {
       "text": "foodstuffs, building materials, fuel"
     },
     "Exchange rates": {
-      "text": "New Zealand dollars (NZD) per US dollar - ++ 1.2039 (2014) ++ 1.2187 (2013) ++ 1.23 (2012) ++ 1.263 (2011) ++ 1.3874 (2010)"
+      "text": "New Zealand dollars (NZD) per US dollar - ++ 1.4279 (2015) ++ 1.2187 (2013) ++ 1.2187 (2013) ++ 1.23 (2012) ++ 1.263 (2011)"
     }
   },
   "Energy": {
@@ -361,6 +367,14 @@
     }
   },
   "Communications": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "300"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "21 (July 2010 est.)"
+      }
+    },
     "Telephone system": {
       "general assessment": {
         "text": "modern satellite-based communications system"
@@ -369,24 +383,21 @@
         "text": "radiotelephone service between islands"
       },
       "international": {
-        "text": "country code - 690; radiotelephone service to Samoa; government-regulated telephone service (TeleTok); satellite earth stations - 3 (2009)"
+        "text": "country code - 690; radiotelephone service to Samoa; government-regulated telephone service (TeleTok); satellite earth stations - 3 (2015)"
       }
     },
     "Broadcast media": {
       "text": "no TV stations; each atoll operates a radio service that provides shipping news and weather reports (2009)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM NA, FM NA, shortwave NA (one radio station provides service to all islands) (2002)"
     },
     "Internet country code": {
       "text": ".tk"
     },
     "Internet users": {
       "total": {
-        "text": "800"
+        "text": "805"
       },
       "percent of population": {
-        "text": "55.4% (2008)"
+        "text": "60.2% (July 2015 est.)"
       }
     }
   },
@@ -395,7 +406,7 @@
       "text": "none; offshore anchorage only"
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military - note": {
       "text": "defense is the responsibility of New Zealand"
     }

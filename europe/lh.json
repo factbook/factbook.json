@@ -26,10 +26,7 @@
       }
     },
     "Area - comparative": {
-      "text": "slightly larger than West Virginia",
-      "Area comparison map": {
-        "text": null
-      }
+      "text": "slightly larger than West Virginia"
     },
     "Land boundaries": {
       "total": {
@@ -53,12 +50,12 @@
     "Terrain": {
       "text": "lowland, many scattered small lakes, fertile soil"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Baltic Sea 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "110 m"
       },
-      "highest point": {
-        "text": "Aukstojas 294 m"
+      "elevation extremes": {
+        "text": "lowest point: Baltic Sea 0 m ++ highest point: Aukstojas 294 m"
       }
     },
     "Natural resources": {
@@ -76,18 +73,10 @@
       }
     },
     "Irrigated land": {
-      "text": "13.4 sq km (2007)"
+      "text": "44 sq km (2012)"
     },
-    "Total renewable water resources": {
-      "text": "24.9 cu km (2011)"
-    },
-    "Freshwater withdrawal (domestic/industrial/agricultural)": {
-      "total": {
-        "text": "2.38  cu km/yr (7%/90%/3%)"
-      },
-      "per capita": {
-        "text": "703.8  cu m/yr (2009)"
-      }
+    "Population - distribution": {
+      "text": "fairly even population distribution throughout the country, but somewhat greater concentrations in the southern cities of Vilnius and Kaunas, and the western port of Klaipeda"
     },
     "Natural hazards": {
       "text": "NA"
@@ -108,6 +97,9 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "2,854,235 (July 2016 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "Lithuanian(s)"
@@ -125,30 +117,21 @@
     "Religions": {
       "text": "Roman Catholic 77.2%, Russian Orthodox 4.1%, Old Believer 0.8%, Evangelical Lutheran 0.6%, Evangelical Reformist 0.2%, other (including Sunni Muslim, Jewish, Greek Catholic, and Karaite) 0.8%, none 6.1%, unspecified 10.1% (2011 est.)"
     },
-    "Population": {
-      "text": "2,884,433",
-      "note": {
-        "text": "Statistics Lithuania (the national statistical agency of Lithuania) estimates the country's total population at the start of 2013 to be 2,971,905, which takes into account the findings of Lithuania's 2011 census and the high rate of net outmigration since the country joined the EU in 2004 (July 2015 est.)"
-      }
-    },
     "Age structure": {
       "0-14 years": {
-        "text": "14.91% (male 220,460/female 209,501)"
+        "text": "14.93% (male 218,453/female 207,643)"
       },
       "15-24 years": {
-        "text": "11.97% (male 178,332/female 166,985)"
+        "text": "11.55% (male 170,494/female 159,283)"
       },
       "25-54 years": {
-        "text": "40.71% (male 575,323/female 598,912)"
+        "text": "40.36% (male 566,159/female 585,862)"
       },
       "55-64 years": {
-        "text": "13.26% (male 168,354/female 214,201)"
+        "text": "13.73% (male 172,987/female 218,955)"
       },
       "65 years and over": {
-        "text": "19.15% (male 186,458/female 365,907) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "19.42% (male 187,340/female 367,059) (2016 est.)"
       }
     },
     "Dependency ratios": {
@@ -167,26 +150,29 @@
     },
     "Median age": {
       "total": {
-        "text": "43.1 years"
+        "text": "43.4 years"
       },
       "male": {
-        "text": "39.3 years"
+        "text": "39.5 years"
       },
       "female": {
-        "text": "46.3 years (2015 est.)"
+        "text": "46.7 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "-1.04% (2015 est.)"
+      "text": "-1.06% (2016 est.)"
     },
     "Birth rate": {
-      "text": "10.1 births/1,000 population (2015 est.)"
+      "text": "10 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "14.27 deaths/1,000 population (2015 est.)"
+      "text": "14.5 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "-6.27 migrant(s)/1,000 population (2015 est.)"
+      "text": "-6.2 migrant(s)/1,000 population (2016 est.)"
+    },
+    "Population distribution": {
+      "text": "fairly even population distribution throughout the country, but somewhat greater concentrations in the southern cities of Vilnius and Kaunas, and the western port of Klaipeda"
     },
     "Urbanization": {
       "urban population": {
@@ -210,7 +196,7 @@
         "text": "1.07 male(s)/female"
       },
       "25-54 years": {
-        "text": "0.96 male(s)/female"
+        "text": "0.97 male(s)/female"
       },
       "55-64 years": {
         "text": "0.79 male(s)/female"
@@ -219,36 +205,39 @@
         "text": "0.51 male(s)/female"
       },
       "total population": {
-        "text": "0.85 male(s)/female (2015 est.)"
+        "text": "0.86 male(s)/female (2016 est.)"
       }
+    },
+    "Mother's mean age at first birth": {
+      "text": "26.8 (2013 est.)"
     },
     "Maternal mortality rate": {
       "text": "10 deaths/100,000 live births (2015 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "3.84 deaths/1,000 live births"
+        "text": "3.8 deaths/1,000 live births"
       },
       "male": {
         "text": "4.3 deaths/1,000 live births"
       },
       "female": {
-        "text": "3.36 deaths/1,000 live births (2015 est.)"
+        "text": "3.4 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "74.69 years"
+        "text": "74.9 years"
       },
       "male": {
-        "text": "69.24 years"
+        "text": "69.5 years"
       },
       "female": {
-        "text": "80.46 years (2015 est.)"
+        "text": "80.6 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "1.59 children born/woman (2015 est.)"
+      "text": "1.59 children born/woman (2016 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "62.9%",
@@ -257,7 +246,7 @@
       }
     },
     "Health expenditures": {
-      "text": "6.2% of GDP (2013)"
+      "text": "6.6% of GDP (2014)"
     },
     "Physicians density": {
       "text": "4.12 physicians/1,000 population (2012)"
@@ -295,14 +284,14 @@
         "text": "intermediate"
       },
       "vectorborne diseases": {
-        "text": "tickborne encephalitis (2013)"
+        "text": "tickborne encephalitis (2016)"
       }
     },
     "Obesity - adult prevalence rate": {
       "text": "27.5% (2014)"
     },
     "Education expenditures": {
-      "text": "5.2% of GDP (2011)"
+      "text": "4.8% of GDP (2012)"
     },
     "Literacy": {
       "definition": {
@@ -320,24 +309,24 @@
     },
     "School life expectancy (primary to tertiary education)": {
       "total": {
-        "text": "16 years"
+        "text": "17 years"
       },
       "male": {
         "text": "16 years"
       },
       "female": {
-        "text": "17 years (2012)"
+        "text": "17 years (2014)"
       }
     },
     "Unemployment, youth ages 15-24": {
       "total": {
-        "text": "26.4%"
+        "text": "19.3%"
       },
       "male": {
-        "text": "29.9%"
+        "text": "19.6%"
       },
       "female": {
-        "text": "21.8% (2012 est.)"
+        "text": "18.7% (2014 est.)"
       }
     }
   },
@@ -357,10 +346,13 @@
       },
       "former": {
         "text": "Lithuanian Soviet Socialist Republic"
+      },
+      "etymology": {
+        "text": "meaning of the name \"Lietuva\" remains unclear; it may derive from the Lietava, a stream in east central Lithuania"
       }
     },
     "Government type": {
-      "text": "parliamentary democracy"
+      "text": "semi-presidential republic"
     },
     "Capital": {
       "name": {
@@ -377,16 +369,16 @@
       }
     },
     "Administrative divisions": {
-      "text": "60 municipalities (savivaldybe, singular - savivaldybe); Akmene, Alytaus Miestas, Alytus, Ank�ciai, Bir�tono, Bir�ai, Druskininkai, Elektr�nai, Ignalina, Jonava, Joni�kis, Jurbarkas, Kai�iadorys, Kalvarijos, Kauno Miestas, Kaunas, Kazlu Rudos, Kedainiai, Kelme, Klaipedos Miestas, Klaipeda, Kretinga, Kupi�kis, Lazdijai, Marijampole, Ma�eikiai, Moletai, Neringa, Pag�giai, Pakruojis, Palangos Miestas, Panevezio Miestas, Paneve�ys, Pasvalys, Plunge, Prienai, Radvili�kis, Raseiniai, Rietavo, Roki�kis, �akiai, �alcininkai, �iauliu Miestas, �iauliai, �ilale, �ilute, �irvintos, Skuodas, �vencionys, Taurage, Tel�iai, Trakai, Ukmerge, Utena, Varena, Vilkavi�kis, Vilniaus Miestas, Vilnius, Visaginas, Zarasai"
+      "text": "60 municipalities (savivaldybe, singular - savivaldybe); Akmene, Alytaus Miestas, Alytus, Anksciai, Birstono, Birzai, Druskininkai, Elektrenai, Ignalina, Jonava, Joniskis, Jurbarkas, Kaisiadorys, Kalvarijos, Kauno Miestas, Kaunas, Kazlu Rudos, Kedainiai, Kelme, Klaipedos Miestas, Klaipeda, Kretinga, Kupiskis, Lazdijai, Marijampole, Mazeikiai, Moletai, Neringa, Pagegiai, Pakruojis, Palangos Miestas, Panevezio Miestas, Panevezys, Pasvalys, Plunge, Prienai, Radviliskis, Raseiniai, Rietavo, Rokiskis, Sakiai, Salcininkai, Siauliu Miestas, Siauliai, Silale, Silute, Sirvintos, Skuodas, Svencionys, Taurage, Telsiai, Trakai, Ukmerge, Utena, Varena, Vilkaviskis, Vilniaus Miestas, Vilnius, Visaginas, Zarasai"
     },
     "Independence": {
       "text": "11 March 1990 (declared); 6 September 1991 (recognized by the Soviet Union); notable earlier dates: 6 July 1253 (coronation of MINDAUGAS, traditional founding date), 1 July 1569 (Polish-Lithuanian Commonwealth created), 16 February 1918 (independence from Soviet Russia)"
     },
     "National holiday": {
-      "text": "Independence Day, 16 February (1918); note - 16 February 1918 was the date Lithuania declared its independence from Soviet Russia and established its statehood; 11 March 1990 was the date it declared its independence from the Soviet Union"
+      "text": "Independence Day, 16 February (1918); note - 16 February 1918 was the date Lithuania established its statehood and its concomitant independence from Soviet Russia and Germany; 11 March 1990 was the date it declared the restoration of Lithuanian statehood and its concomitant independence from the Soviet Union"
     },
     "Constitution": {
-      "text": "several previous; latest adopted by referendum 25 October 1992, entered into force 2 November 1992; amended 2003 (2015)"
+      "text": "several previous; latest adopted by referendum 25 October 1992, entered into force 2 November 1992; amended 1996, 2003, 2006 (2016)"
     },
     "Legal system": {
       "text": "civil law system; legislative acts can be appealed to the constitutional court"
@@ -395,14 +387,17 @@
       "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
     },
     "Citizenship": {
-      "birthright citizenship": {
-        "text": ""
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Lithuania"
       },
       "dual citizenship recognized": {
         "text": "no"
       },
       "residency requirement for naturalization": {
-        "text": ""
+        "text": "10 years"
       }
     },
     "Suffrage": {
@@ -430,10 +425,10 @@
         "text": "unicameral Parliament or Seimas (141 seats; 71 members directly elected in single-seat constituencies by absolute majority vote and 70 directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)"
       },
       "elections": {
-        "text": "last held on 14 and 28 October 2012 (next to be held in October 2016)"
+        "text": "last held on 9 and 23 October 2016 (next to be held in October 2020)"
       },
       "election results": {
-        "text": "percent of vote by party - DP 19.8%, LSDP 18.4%, TS-LKD 15.1%, LS 8.6%, DK 8%, TT 7.3%, LLRA 5.8%, LVZS 3.9%, other 13.1%; seats by party - LSDP 38, TS-LKD 33, DP 29, TT 11, LS 11, LLRA 8, DK 7, LVZS 1, independent 3"
+        "text": "percent of vote by party - LVLS 22.5%, TS-LKD 22.6%, LSDP 15%, LS 9.5%, LCP-LPP 6.3%, LLRA 5.7%, TT 5.6%, DP 4.9%, LZP 2%, Lithuanian List 1.8%, other 4.1%; seats by party - LVLS 54, TS-LKD 31, LSDP 17, LS 14, LLRA 8, TT 8, DP 2, LCP-LPP 1, LZP 1, Lithuanian List 1, independent 4"
       }
     },
     "Judicial branch": {
@@ -441,14 +436,14 @@
         "text": "Supreme Court (consists of 37 judges); Constitutional Court (consists of 9 judges)"
       },
       "judge selection and term of office": {
-        "text": "Supreme Court judges nominated by the president and appointed by the Seimas; judges serve 5-year renewable terms; Constitutional Court judges selected by the Seimas from among nominations by the president, by the Seimas chairperson, and Supreme Court chairperson; judges serve 9-year, nonrenewable terms; note - one-third of court judges reconstituted every 3 years"
+        "text": "Supreme Court judges nominated by the president and appointed by the Seimas; judges serve 5-year renewable terms; Constitutional Court judges selected by the Seimas from among nominations by the president, by the Seimas chairperson, and Supreme Court chairperson; judges serve 9-year, nonrenewable terms; one-third of membership reconstituted every 3 years"
       },
       "subordinate courts": {
         "text": "Court of Appeals; district and local courts"
       }
     },
     "Political parties and leaders": {
-      "text": "Christian Party or KP [Gediminas VAGNORIUS] ++ Democratic Labor and Unity Party or DDVP [Kristina BRAZAUSKIENE] ++ Electoral Action of Lithuanian Poles or LLRA [Valdemar TOMASEVSKI] ++ Emigrants Party or EP [Juozas MURAUSKAS] ++ Homeland Union-Lithuanian Christian Democrats or TS-LKD [Andrius KUBILIUS] ++ Labor Party or DP [Loreta GRAUZINIENE] ++ Liberal and Center Union or LCS [Arturas MELIANAS] ++ Liberal Movement or LS or LRLS [Eligijus MASIULIS] ++ Lithuanian People's Party or LLP [Kazimiera PRUNSKIENE] ++ Lithuanian People's Party or LZP [Joana SIMANAUSKIENE] ++ Lithuanian Russian Union or LRS [Sergejus DMITRIJEVAS] ++ Lithuanian Social Democratic Party or LSDP [Algirdas BUTKEVICIUS] ++ Nationalist Union or TS [Julius PANKA] ++ Order and Justice Party or TT [Rolandas PAKSAS] ++ Peasant and Greens Union or LVZS [Ramunas KARBAUSKIS] ++ Republican Party or RP [Valdemaras VALKIUNAS] ++ Russian Alliance or RA [Tamara LOCHANKINA] ++ Socialist People's Front or SLF [Algirdas PALECKIS] ++ The Union of National Unity or TVS [Algimantas MATULEVICIUS] ++ Way of Courage or DK [Jonas VARKALA] ++ YES-Homeland Revival and Perspective or YES Union or TAIP Union or TAIP [Arturas ZUOKAS] ++ Young Lithuania Party or PJL [Stanislovas BUSKEVICIUS]"
+      "text": "Anti-Corruption Coalition or LCP-LPP ++ Electoral Action of Lithuanian Poles or LLRA [Valdemar TOMASEVSKI] ++ Homeland Union-Lithuanian Christian Democrats or TS-LKD [Gabrielius LANDSBERGIS] ++ Labor Party or DP [Valentinas MAZURONIS] ++ Liberal Movement or LS or LRLS [Eligijus MASIULIS] ++ Lithuanian Green Party or LZP [Linas BALSYS] ++ Lithuanian List ++ Lithuanian Social Democratic Party or LSDP [Algirdas BUTKEVICIUS] ++ Order and Justice Party or TT [Rolandas PAKSAS] ++ Peasant and Greens Union or LVZS [Ramunas KARBAUSKIS] ++ Way of Courage or DK [Jonas VARKALA]"
     },
     "International organization participation": {
       "text": "Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NIB, NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UN Security Council (non-permanent), UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
@@ -507,58 +502,58 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Lithuania gained membership in the World Trade Organization in May 2001 and joined the EU in May 2004. Lithuania's trade with the EU and CIS countries accounts for approximately 87.3% of total trade. Foreign investment and EU funding have aided in the transition from the former planned economy to a market economy. The three former Soviet Baltic republics were severely hit by the 2008-09 financial crisis, but Lithuania has rebounded and become one of the fastest growing economies in the EU. Lithuania’s ongoing recovery hinges on export growth, which is being hampered by economic slowdowns in the EU and Russia. Lithuania joined the euro zone on 1 January 2015."
+      "text": "Lithuania gained membership in the WTO in May 2001 and joined the EU in May 2004. Lithuania's trade with the EU and CIS countries accounts for approximately 87.3% of total trade. Foreign investment and EU funding have aided in the transition from the former planned economy to a market economy. The three former Soviet Baltic republics were severely hit by the 2008-09 financial crisis, but Lithuania has rebounded and become one of the fastest growing economies in the EU. Lithuania’s ongoing recovery hinges on export growth, which is being hampered by economic slowdowns in the EU and Russia. Lithuania joined the euro zone on 1 January 2015 and is under review for membership in the OECD."
     },
     "GDP (purchasing power parity)": {
-      "text": "$79.93 billion (2014 est.) ++ $77.64 billion (2013 est.) ++ $75.19 billion (2012 est.)",
+      "text": "$82.54 billion (2015 est.) ++ $81.23 billion (2014 est.) ++ $78.84 billion (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$48.29 billion (2014 est.)"
+      "text": "$41.19 billion (2015 est.)"
     },
     "GDP - real growth rate": {
-      "text": "3% (2014 est.) ++ 3.3% (2013 est.) ++ 3.8% (2012 est.)"
+      "text": "1.6% (2015 est.) ++ 3% (2014 est.) ++ 3.5% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$27,300 (2014 est.) ++ $26,500 (2013 est.) ++ $25,600 (2012 est.)",
+      "text": "$28,400 (2015 est.) ++ $27,700 (2014 est.) ++ $26,700 (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "Gross national saving": {
-      "text": "19% of GDP (2014 est.) ++ 20.7% of GDP (2013 est.) ++ 18% of GDP (2012 est.)"
+      "text": "16.6% of GDP (2015 est.) ++ 21.9% of GDP (2014 est.) ++ 20.7% of GDP (2013 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "63.9%"
+        "text": "64.1%"
       },
       "government consumption": {
-        "text": "17%"
+        "text": "17.5%"
       },
       "investment in fixed capital": {
-        "text": "19.2%"
+        "text": "20.8%"
       },
       "investment in inventories": {
-        "text": "-0.3%"
+        "text": "-2.3%"
       },
       "exports of goods and services": {
-        "text": "81.8%"
+        "text": "77.4%"
       },
       "imports of goods and services": {
-        "text": "-81.6% ++  (2014 est.)"
+        "text": "-77.5% (2015 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "3.4%"
+        "text": "3.2%"
       },
       "industry": {
-        "text": "31%"
+        "text": "30.2%"
       },
       "services": {
-        "text": "65.5% (2014 est.)"
+        "text": "66.6% (2015 est.)"
       }
     },
     "Agriculture - products": {
@@ -568,10 +563,10 @@
       "text": "metal-cutting machine tools, electric motors, television sets, refrigerators and freezers, petroleum refining, shipbuilding (small ships), furniture, textiles, food processing, fertilizers, agricultural machinery, optical equipment, lasers, electronic components, computers, amber jewelry, information technology, video game development, biotechnology"
     },
     "Industrial production growth rate": {
-      "text": "5.3% (2014 est.)"
+      "text": "1.2% (2015 est.)"
     },
     "Labor force": {
-      "text": "1.477 million (2014 est.)"
+      "text": "1.469 million (2015 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -585,7 +580,7 @@
       }
     },
     "Unemployment rate": {
-      "text": "10.7% (2014 est.) ++ 11.8% (2013 est.)"
+      "text": "9.1% (2015 est.) ++ 10.7% (2014 est.)"
     },
     "Population below poverty line": {
       "text": "4% (2008 est.)"
@@ -603,20 +598,20 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$15.41 billion"
+        "text": "$14.4 billion"
       },
       "expenditures": {
-        "text": "$16.29 billion (2014 est.)"
+        "text": "$14.48 billion (2015 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "31.9% of GDP (2014 est.)"
+      "text": "34.9% of GDP (2015 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-1.8% of GDP (2014 est.)"
+      "text": "-0.2% of GDP (2015 est.)"
     },
     "Public debt": {
-      "text": "39.3% of GDP (2014 est.) ++ 38.9% of GDP (2013 est.)",
+      "text": "45.2% of GDP (2015 est.) ++ 42.5% of GDP (2014 est.)",
       "note": {
         "text": "official data; data cover general government debt, and includes debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities, debt issued by subnational entities, as well as intra-governmental debt; intra-governmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are sold at public auctions"
       }
@@ -625,64 +620,69 @@
       "text": "calendar year"
     },
     "Inflation rate (consumer prices)": {
-      "text": "0.2% (2014 est.) ++ 1.2% (2013 est.)"
+      "text": "-0.7% (2015 est.) ++ 0.2% (2014 est.)"
     },
     "Central bank discount rate": {
-      "text": "3% (31 December 2010) ++ 2.06% (31 December 2009)"
+      "text": "0.05% (31 December 2013) ++ 0.3% (31 December 2012)"
     },
     "Commercial bank prime lending rate": {
-      "text": "3.5% (31 December 2014 est.) ++ 3.76% (31 December 2013 est.)"
+      "text": "3.1% (31 December 2015 est.) ++ 3.5% (31 December 2014 est.)"
     },
     "Stock of narrow money": {
-      "text": "$14.67 billion (31 December 2014 est.) ++ $15.89 billion (31 December 2013 est.)"
+      "text": "$19.4 billion (31 December 2015 est.) ++ $14.67 billion (31 December 2014 est.)"
     },
     "Stock of broad money": {
       "text": "$22.25 billion (31 December 2014 est.) ++ $22.41 billion (31 December 2013 est.)"
     },
     "Stock of domestic credit": {
-      "text": "$22.34 billion (31 December 2014 est.) ++ $25.6 billion (31 December 2013 est.)"
+      "text": "$24.43 billion (31 December 2015 est.) ++ $22.34 billion (31 December 2014 est.)"
     },
     "Market value of publicly traded shares": {
-      "text": "$3.964 billion (31 December 2012 est.) ++ $4.075 billion (31 December 2011) ++ $5.661 billion (31 December 2010 est.)"
+      "text": "$3.964 billion (31 December 2012 est.) ++ $4.075 billion (31 December 2011 est.) ++ $5.661 billion (31 December 2010 est.)"
     },
     "Current account balance": {
-      "text": "$60 million (2014 est.) ++ $743 million (2013 est.)"
+      "text": "-$710 million (2015 est.) ++ $1.734 billion (2014 est.)"
     },
     "Exports": {
-      "text": "$31.55 billion (2014 est.) ++ $31.88 billion (2013 est.)"
+      "text": "$24.81 billion (2015 est.) ++ $31.5 billion (2014 est.)"
     },
     "Exports - commodities": {
       "text": "refined fuel, machinery and equipment, chemicals, textiles, foodstuffs, plastics"
     },
     "Exports - partners": {
-      "text": "Russia 20.9%, Latvia 9.2%, Poland 8.3%, Germany 7.3%, Belarus 4.7%, Netherlands 4.5%, Estonia 4.3% (2014)"
+      "text": "Russia 13.7%, Latvia 9.8%, Poland 9.7%, Germany 7.8%, Estonia 5.3%, Belarus 4.6%, UK 4.5%, US 4.4%, Netherlands 4% (2015)"
     },
     "Imports": {
-      "text": "$33.54 billion (2014 est.) ++ $33.11 billion (2013 est.)"
+      "text": "$26.93 billion (2015 est.) ++ $32.75 billion (2014 est.)"
     },
     "Imports - commodities": {
       "text": "oil, natural gas, machinery and equipment, transport equipment, chemicals, textiles and clothing, metals"
     },
     "Imports - partners": {
-      "text": "Russia 21.7%, Germany 11%, Poland 9.5%, Latvia 6.9%, Italy 4.9%, Netherlands 4.8%, UK 4.1% (2014)"
+      "text": "Russia 16.9%, Germany 11.5%, Poland 10.3%, Latvia 7.6%, Netherlands 5.1%, Italy 4.5% (2015)"
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$8.728 billion (31 December 2014 est.) ++ $8.072 billion (31 December 2013 est.)"
+      "text": "$1.697 billion (31 December 2015 est.) ++ $8.728 billion (31 December 2014 est.)"
     },
     "Debt - external": {
-      "text": "$8.728 billion (31 December 2014 est.) ++ $8.072 billion (31 December 2013 est.)"
+      "text": "$30.81 billion (31 December 2014 est.) ++ $33.64 billion (31 December 2013 est.)"
     },
     "Stock of direct foreign investment - at home": {
-      "text": "$15.8 billion (31 December 2014 est.) ++ $18.67 billion (31 December 2013 est.)"
+      "text": "$15.63 billion (31 December 2015 est.) ++ $17.19 billion (31 December 2014 est.)"
     },
     "Stock of direct foreign investment - abroad": {
-      "text": "$3.814 billion (31 December 2014 est.) ++ $4.394 billion (31 December 2013 est.)"
+      "text": "$3.427 billion (31 December 2015 est.) ++ $4.404 billion (31 December 2014 est.)"
     },
     "Exchange rates": {
-      "text": "litai (LTL) per US dollar - ++ 0.7525 (2014 est.) ++ 0.7525 (2013 est.) ++ 2.69 (2012 est.) ++ 2.481 (2011 est.) ++ 2.6063 (2010 est.)"
+      "text": "litai (LTL) per US dollar - ++ 0.9012 (2015 est.) ++ 0.7525 (2014 est.) ++ 0.7525 (2013 est.) ++ 2.69 (2012 est.) ++ 2.481 (2011 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
+    },
     "Electricity - production": {
       "text": "3.927 billion kWh (2012 est.)"
     },
@@ -756,18 +756,18 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "590,000"
+        "text": "561,919"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "20 (2014 est.)"
+        "text": "19 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "4.4 million"
+        "text": "4.184 million"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "152 (2014 est.)"
+        "text": "145 (July 2015 est.)"
       }
     },
     "Telephone system": {
@@ -775,34 +775,45 @@
         "text": "adequate; being modernized to provide improved international capability and better residential access"
       },
       "domestic": {
-        "text": "rapid expansion of mobile-cellular services has resulted in a steady decline in the number of fixed-line connections; mobile-cellular teledensity stands at about 140 per 100 persons"
+        "text": "rapid expansion of mobile-cellular services has resulted in a steady decline in the number of fixed-line connections; mobile-cellular teledensity stands at about 145 per 100 persons"
       },
       "international": {
-        "text": "country code - 370; major international connections to Denmark, Sweden, and Norway by submarine cable for further transmission by satellite; landline connections to Latvia and Poland (2010)"
+        "text": "country code - 370; major international connections to Denmark, Sweden, and Norway by submarine cable for further transmission by satellite; landline connections to Latvia and Poland (2015)"
       }
     },
     "Broadcast media": {
       "text": "public broadcaster operates 3 channels with the third channel - a satellite channel - introduced in 2007; various privately owned commercial TV broadcasters operate national and multiple regional channels; many privately owned local TV stations; multi-channel cable and satellite TV services available; publicly owned broadcaster operates 3 radio networks; many privately owned commercial broadcasters, with repeater stations in various regions throughout the country (2007)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM 29, FM 142, shortwave 1 (2001)"
-    },
-    "Television broadcast stations": {
-      "text": "44 (may have as many as 100 transmitters, including repeater stations) (2008)"
     },
     "Internet country code": {
       "text": ".lt"
     },
     "Internet users": {
       "total": {
-        "text": "2 million"
+        "text": "2.059 million"
       },
       "percent of population": {
-        "text": "70.3% (2014 est.)"
+        "text": "71.4% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "2"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "52"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "1,363,950"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "565,642 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "LY (2016)"
+    },
     "Airports": {
       "text": "61 (2013)"
     },
@@ -837,7 +848,7 @@
         "text": "2"
       },
       "under 914 m": {
-        "text": " ++ 36 (2013)"
+        "text": "36 (2013)"
       }
     },
     "Pipelines": {
@@ -894,39 +905,15 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "Lithuanian Armed Forces (Lietuvos Ginkluotosios Pajegos): Land Forces (Sausumos Pajegos), Naval Forces (Karines Juru Pajegos), Air Forces (Karines Oro Pajegos), Special Forces (Specialiuju Operaciju Pajegos); Volunteer Forces (Savanoriu Pajegos) (2015)"
     },
     "Military service age and obligation": {
-      "text": "18 years of age for voluntary military service; 1-year service obligation; Lithuania converted to a professional military in the fall of 2008, although the decision continues under judicial review; a new law passed passed in March 2015 restored conscription on a limited basis (2015)"
-    },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "890,074"
-      },
-      "females age 16-49": {
-        "text": "875,780 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "669,111"
-      },
-      "females age 16-49": {
-        "text": "724,803 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "20,425"
-      },
-      "female": {
-        "text": "19,527 (2010 est.)"
-      }
+      "text": "18 years of age for military service; 9-month service obligation; Lithuania converted to a professional military in the fall of 2008, although the decision continues under judicial review; a new law passed in March 2015 restored conscription on a limited, 5-year basis; in March 2016, Lithuania's National Security and Defense Council recommended permanently restoring conscription service (2016)"
     },
     "Military expenditures": {
-      "text": "1.11% of GDP (2015) ++ 0.9% of GDP (2014) ++ 0.8% of GDP (2013) ++ 0.97% of GDP (2012) ++ 0.85% of GDP (2011)"
+      "text": "1.48% of GDP (2016) ++ 1.11% of GDP (2015) ++ 0.9% of GDP (2014) ++ 0.8% of GDP (2013) ++ 0.97% of GDP (2012)"
     }
   },
   "Transnational Issues": {
@@ -935,7 +922,7 @@
     },
     "Refugees and internally displaced persons": {
       "stateless persons": {
-        "text": "3,645 (2014)"
+        "text": "3,466 (2015)"
       }
     },
     "Illicit drugs": {

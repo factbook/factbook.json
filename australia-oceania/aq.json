@@ -51,12 +51,12 @@
     "Terrain": {
       "text": "five volcanic islands with rugged peaks and limited coastal plains, two coral atolls (Rose Island, Swains Island)"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Pacific Ocean 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "NA"
       },
-      "highest point": {
-        "text": "Lata Mountain 964 m"
+      "elevation extremes": {
+        "text": "lowest point: Pacific Ocean 0 m ++ highest point: Lata Mountain 964 m"
       }
     },
     "Natural resources": {
@@ -74,7 +74,7 @@
       }
     },
     "Irrigated land": {
-      "text": "NA"
+      "text": "0 sq km (2012)"
     },
     "Natural hazards": {
       "text": "typhoons common from December to March",
@@ -90,6 +90,9 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "54,194 (July 2016 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "American Samoan(s) (US nationals)"
@@ -99,7 +102,7 @@
       }
     },
     "Ethnic groups": {
-      "text": "Native Hawaiian and other Pacific Islander 92.6% (includes Samoan 88.9%, Tongan 2.9%, other .8%), Asian 3.6% (includes Filipino 2.2%, other 1.4%), mixed 2.7%, other 1.2% (2010 est.)"
+      "text": "Pacific Islander 92.6% (includes Samoan 88.9%, Tongan 2.9%, other .8%), Asian 3.6% (includes Filipino 2.2%, other 1.4%), mixed 2.7%, other 1.2% (2010 est.)"
     },
     "Languages": {
       "text": "Samoan 88.6% (closely related to Hawaiian and other Polynesian languages), English 3.9%, Tongan 2.7%, other Pacific islander 3%, other 1.8%",
@@ -110,51 +113,45 @@
     "Religions": {
       "text": "Christian 98.3%, other 1%, unaffiliated 0.7% (2010 est.)"
     },
-    "Population": {
-      "text": "54,343 (July 2015 est.)"
-    },
     "Age structure": {
       "0-14 years": {
-        "text": "24.45% (male 6,506/female 6,780)"
+        "text": "24.04% (male 6,381/female 6,646)"
       },
       "15-24 years": {
-        "text": "19.61% (male 5,264/female 5,395)"
+        "text": "18.76% (male 4,983/female 5,185)"
       },
       "25-54 years": {
-        "text": "42.1% (male 11,775/female 11,105)"
+        "text": "42.62% (male 11,907/female 11,188)"
       },
       "55-64 years": {
-        "text": "8.69% (male 2,326/female 2,397)"
+        "text": "9.18% (male 2,438/female 2,535)"
       },
       "65 years and over": {
-        "text": "5.14% (male 1,287/female 1,508) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "5.41% (male 1,342/female 1,589) (2016 est.)"
       }
     },
     "Median age": {
       "total": {
-        "text": "28.8 years"
-      },
-      "male": {
         "text": "29.4 years"
       },
+      "male": {
+        "text": "29.9 years"
+      },
       "female": {
-        "text": "28.3 years (2015 est.)"
+        "text": "28.8 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "-0.3% (2015 est.)"
+      "text": "-0.25% (2016 est.)"
     },
     "Birth rate": {
-      "text": "22.89 births/1,000 population (2015 est.)"
+      "text": "22.9 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "4.75 deaths/1,000 population (2015 est.)"
+      "text": "4.8 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "-21.13 migrant(s)/1,000 population (2015 est.)"
+      "text": "-20.6 migrant(s)/1,000 population (2016 est.)"
     },
     "Urbanization": {
       "urban population": {
@@ -175,45 +172,45 @@
         "text": "0.96 male(s)/female"
       },
       "15-24 years": {
-        "text": "0.98 male(s)/female"
+        "text": "0.96 male(s)/female"
       },
       "25-54 years": {
         "text": "1.06 male(s)/female"
       },
       "55-64 years": {
-        "text": "0.97 male(s)/female"
+        "text": "0.96 male(s)/female"
       },
       "65 years and over": {
         "text": "0.85 male(s)/female"
       },
       "total population": {
-        "text": "1 male(s)/female (2015 est.)"
+        "text": "1 male(s)/female (2016 est.)"
       }
     },
     "Infant mortality rate": {
       "total": {
-        "text": "8.69 deaths/1,000 live births"
+        "text": "8.5 deaths/1,000 live births"
       },
       "male": {
-        "text": "11.16 deaths/1,000 live births"
+        "text": "10.9 deaths/1,000 live births"
       },
       "female": {
-        "text": "6.09 deaths/1,000 live births (2015 est.)"
+        "text": "6 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "75.14 years"
+        "text": "75.4 years"
       },
       "male": {
-        "text": "72.18 years"
+        "text": "72.4 years"
       },
       "female": {
-        "text": "78.28 years (2015 est.)"
+        "text": "78.5 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "2.92 children born/woman (2015 est.)"
+      "text": "2.87 children born/woman (2016 est.)"
     },
     "Drinking water source": {
       "improved": {
@@ -240,6 +237,11 @@
     "HIV/AIDS - deaths": {
       "text": "NA"
     },
+    "Major infectious diseases": {
+      "note": {
+        "text": "active local transmission of Zika virus by Aedes species mosquitoes has been identified in this country (as of August 2016); it poses an important risk (a large number of cases possible) among US citizens if bitten by an infective mosquito; other less common ways to get Zika are through sex, via blood transfusion, or during pregnancy, in which the pregnant woman passes Zika virus to her fetus (2016)"
+      }
+    },
     "Education expenditures": {
       "text": "NA"
     }
@@ -255,15 +257,15 @@
       "abbreviation": {
         "text": "AS"
       },
-      "note": {
-        "text": "the name \"Samoa\" is composed of two parts, \"sa\" meaning sacred and \"moa\" meaning center, so the name can mean Holy Center; alternatively, it can mean \"place of the sacred moa bird\" of Polynesian mythology"
+      "etymology": {
+        "text": "the name Samoa is composed of two parts, \"sa\" meaning \"sacred\" and \"moa\" meaning \"center,\" so the name can mean Holy Center; alternatively, it can mean \"place of the sacred moa bird\" of Polynesian mythology"
       }
     },
     "Dependency status": {
       "text": "unincorporated and unorganized territory of the US; administered by the Office of Insular Affairs, US Department of the Interior"
     },
     "Government type": {
-      "text": "NA"
+      "text": "presidential democracy; a self-governing territory of the US"
     },
     "Capital": {
       "name": {
@@ -286,10 +288,13 @@
       "text": "Flag Day, 17 April (1900)"
     },
     "Constitution": {
-      "text": "adopted 17 October 1960; revised 1 July 1967; amended 1971, 1977, 1979 (2015)"
+      "text": "adopted 17 October 1960; revised 1 July 1967; amended several times, last in 2013 (2016)"
     },
     "Legal system": {
       "text": "mixed legal system of US common law and customary law"
+    },
+    "Citizenship": {
+      "text": "see United States"
     },
     "Suffrage": {
       "text": "18 years of age; universal"
@@ -327,7 +332,7 @@
     },
     "Judicial branch": {
       "highest court(s)": {
-        "text": "High Court of American Samoa (consists of the chief justice, associate chief justice, and 6 Samoan associate judges and organized into trial, family, drug, and appellate divisions) ++ note - American Samoa has no US federal courts"
+        "text": "High Court of American Samoa (consists of the chief justice, associate chief justice, and 6 Samoan associate judges and organized into trial, family, drug, and appellate divisions); note - American Samoa has no US federal courts"
       },
       "judge selection and term of office": {
         "text": "chief justice and associate chief justice appointed by the US Secretary of the Interior to serve for life; Samoan associate judges appointed by the governor to serve for life"
@@ -349,7 +354,7 @@
       "text": "none (territory of the US)"
     },
     "Flag description": {
-      "text": "blue, with a white triangle edged in red that is based on the fly side and extends to the hoist side; a brown and white American bald eagle flying toward the hoist side is carrying two traditional Samoan symbols of authority, a war club known as a \"fa'alaufa'i\" (upper; left talon), and a coconut fiber fly whisk known as a \"fue\" (lower; right talon); the combination of symbols broadly mimics that seen on the US Great Seal and reflects the relationship between the United States and American Samoa"
+      "text": "blue, with a white triangle edged in red that is based on the fly side and extends to the hoist side; a brown and white American bald eagle flying toward the hoist side is carrying two traditional Samoan symbols of authority, a war club known as a \"fa'alaufa'i\" (upper; left talon), and a coconut fiber fly whisk known as a \"fue\" (lower; right talon); the combination of symbols broadly mimics that seen on the US Great Seal and reflects the relationship between the US and American Samoa"
     },
     "National symbol(s)": {
       "text": "a fue (coconut fiber fly whisk) crossed with a to'oto'o (staff); national colors: red, white, blue"
@@ -368,10 +373,10 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "American Samoa has a traditional Polynesian economy in which more than 90% of the land is communally owned. Economic activity is strongly linked to the US with which American Samoa conducts most of its commerce. Tuna fishing and tuna processing plants are the backbone of the private sector with canned tuna the primary export. The two tuna canneries accounted for 13.1% of employment in 2013. In late September 2009, an earthquake and the resulting tsunami devastated American Samoa and nearby Samoa, disrupting transportation and power generation, and resulting in about 200 deaths. The US Federal Emergency Management Agency oversaw a relief program of nearly $25 million. Transfers from the US Government add substantially to American Samoa's economic well-being. Attempts by the government to develop a larger and broader economy are restrained by Samoa's remote location, its limited transportation, and its devastating hurricanes. Tourism is a promising developing sector. In 2015, a new fish processing company completed refurbishing the processing facilities left behind by one of the two canneries that closed in 2009 and opened a new cannery. With two operating canneries once again, fish processing and exports will rise in 2015 and beyond."
+      "text": "American Samoa has a traditional Polynesian economy in which more than 90% of the land is communally owned. Economic activity is strongly linked to the US with which American Samoa conducts most of its commerce. Tuna fishing and tuna processing plants are the backbone of the private sector with canned tuna the primary export. The two tuna canneries accounted for 13.1% of employment in 2013. ++  ++ In late September 2009, an earthquake and the resulting tsunami devastated American Samoa and nearby Samoa, disrupting transportation and power generation, and resulting in about 200 deaths. The US Federal Emergency Management Agency oversaw a relief program of nearly $25 million. Transfers from the US Government add substantially to American Samoa's economic well-being. ++  ++ Attempts by the government to develop a larger and broader economy are restrained by Samoa's remote location, its limited transportation, and its devastating hurricanes. Tourism is a promising developing sector. In 2015, a new fish processing company completed refurbishing the processing facilities left behind by one of the two canneries that closed in 2009 and opened a new cannery. With two operating canneries once again, fish processing and exports will rise in the coming years."
     },
     "GDP (purchasing power parity)": {
-      "text": "$711 million (2013 est.) ++ $718 million (2012 est.) ++ $647 million (2011 est.)"
+      "text": "$711 million (2013 est.) ++ $718 million (2012 est.) ++ $647 million (2012 est.)"
     },
     "GDP (official exchange rate)": {
       "text": "$748.6 million (2005)"
@@ -399,7 +404,7 @@
         "text": "54.4%"
       },
       "imports of goods and services": {
-        "text": "-66.8% (2013)"
+        "text": "-66.8% (2012)"
       }
     },
     "GDP - composition, by sector of origin": {
@@ -493,6 +498,20 @@
     }
   },
   "Energy": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "22,219"
+      },
+      "electrification - total population": {
+        "text": "59%"
+      },
+      "electrification - urban areas": {
+        "text": "60%"
+      },
+      "electrification - rural areas": {
+        "text": "45% (2012)"
+      }
+    },
     "Electricity - production": {
       "text": "156.4 million kWh (2013 est.)"
     },
@@ -539,7 +558,7 @@
       "text": "2,375 bbl/day (2013 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "0.09 bbl/day (2012 est.)"
+      "text": "0 bbl/day (2012 est.)"
     },
     "Refined petroleum products - imports": {
       "text": "2,346 bbl/day (2012 est.)"
@@ -566,10 +585,10 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "9,900"
+        "text": "10,000"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "18 (2014 est.)"
+        "text": "18 (July 2015 est.)"
       }
     },
     "Telephone system": {
@@ -586,22 +605,21 @@
     "Broadcast media": {
       "text": "3 TV stations; multi-channel pay TV services are available; about a dozen radio stations, some of which are repeater stations (2009)"
     },
-    "Radio broadcast stations": {
-      "text": "AM 2, FM 3, shortwave 0 (2005)"
-    },
-    "Television broadcast stations": {
-      "text": "1 (2006)"
-    },
     "Internet country code": {
       "text": ".as"
     },
     "Internet users": {
-      "text": "NA"
+      "total": {
+        "text": "17,000"
+      },
+      "percent of population": {
+        "text": "31.3% (July 2015 est.)"
+      }
     }
   },
   "Transportation": {
     "Airports": {
-      "text": "3 (2013)"
+      "text": "3 (2016)"
     },
     "Airports - with paved runways": {
       "total": {
@@ -628,23 +646,7 @@
       }
     }
   },
-  "Military": {
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "14,562"
-      },
-      "females age 16-49": {
-        "text": "14,129 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "775"
-      },
-      "female": {
-        "text": "762 (2010 est.)"
-      }
-    },
+  "Military and Security": {
     "Military - note": {
       "text": "defense is the responsibility of the US"
     }

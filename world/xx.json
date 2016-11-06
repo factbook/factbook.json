@@ -6,7 +6,10 @@
   },
   "Geography": {
     "Geographic overview": {
-      "text": "The surface of the earth is approximately 70.9% water and 29.1% land. The former portion is divided into large water bodies termed oceans. The World Factbook recognizes and describes five oceans, which are in decreasing order of size: the Pacific Ocean, Atlantic Ocean, Indian Ocean, Southern Ocean, and Arctic Ocean. ++ The land portion is generally divided into several, large, discrete landmasses termed continents. Depending on the convention used, the number of continents can vary from five to seven. The most common classification recognizes seven, which are (from largest to smallest): Asia, Africa, North America, South America, Antarctica, Europe, and Australia. Asia and Europe are sometimes lumped together into a Eurasian continent resulting in six continents. Alternatively, North and South America are sometimes grouped as simply the Americas, resulting in a continent total of six (or five, if the Eurasia designation is used). ++ North America is commonly understood to include the island of Greenland, the isles of the Caribbean, and to extend south all the way to the Isthmus of Panama. The easternmost extent of Europe is generally defined as being the Ural Mountains and the Ural River; on the southeast the Caspian Sea; and on the south the Caucasus Mountains, the Black Sea, and the Mediterranean. Portions of Azerbaijan, Georgia, Kazakhstan, Russia, and Turkey fall within both Europe and Asia, but in every instance the larger section is in Asia. These countries are considered part of both continents. Armenia and Cyprus, which lie completely in Western Asia, are geopolitically European countries. ++ Asia usually incorporates all the islands of the Philippines, Malaysia, and Indonesia. The islands of the Pacific are often lumped with Australia into a \"land mass\" termed Oceania or Australasia. Africa's northeast extremity is frequently delimited at the Isthmus of Suez, but for geopolitical purposes, the Egyptian Sinai Peninsula is often included as part of Africa. ++ Although the above groupings are the most common, different continental dispositions are recognized or taught in certain parts of the world, with some arrangements more heavily based on cultural spheres rather than physical geographic considerations."
+      "text": "The surface of the earth is approximately 70.9% water and 29.1% land. The former portion is divided into large water bodies termed oceans. The World Factbook recognizes and describes five oceans, which are in decreasing order of size: the Pacific Ocean, Atlantic Ocean, Indian Ocean, Southern Ocean, and Arctic Ocean. ++ The land portion is generally divided into several, large, discrete landmasses termed continents. Depending on the convention used, the number of continents can vary from five to seven. The most common classification recognizes seven, which are (from largest to smallest): Asia, Africa, North America, South America, Antarctica, Europe, and Australia. Asia and Europe are sometimes lumped together into a Eurasian continent resulting in six continents. Alternatively, North and South America are sometimes grouped as simply the Americas, resulting in a continent total of six (or five, if the Eurasia designation is used). ++ North America is commonly understood to include the island of Greenland, the isles of the Caribbean, and to extend south all the way to the Isthmus of Panama. The easternmost extent of Europe is generally defined as being the Ural Mountains and the Ural River; on the southeast the Caspian Sea; and on the south the Caucasus Mountains, the Black Sea, and the Mediterranean. Portions of Azerbaijan, Georgia, Kazakhstan, Russia, and Turkey fall within both Europe and Asia, but in every instance the larger section is in Asia. These countries are considered part of both continents. Armenia and Cyprus, which lie completely in Western Asia, are geopolitically European countries. ++ Asia usually incorporates all the islands of the Philippines, Malaysia, and Indonesia. The islands of the Pacific are often lumped with Australia into a \"land mass\" termed Oceania or Australasia. Africa's northeast extremity is frequently delimited at the Isthmus of Suez, but for geopolitical purposes, the Egyptian Sinai Peninsula is often included as part of Africa. ++ Although the above groupings are the most common, different continental dispositions are recognized or taught in certain parts of the world, with some arrangements more heavily based on cultural spheres rather than physical geographic considerations. ++ Based on the seven-continent model, and grouping islands with adjacent continents, Africa has the most countries with 54. Europe contains 49 countries and Asia 48, but these two continents share five countries: Azerbaijan, Georgia, Kazakhstan, Russia, and Turkey. North America consists of 23 sovereign states, Oceania has 14, and South America 12.",
+      "countries by continent": {
+        "text": "Africa (54): Algeria, Angola, Benin, Botswana, Burkina Faso, Burundi, Cabo Verde, Cameroon, Central African Republic, Chad, Comoros, Democratic Republic of the Congo, Republic of the Congo, Cote d'Ivoire, Djibouti, Egypt, Equatorial Guinea, Eritrea, Ethiopia, Gabon, The Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Lesotho, Liberia, Libya, Madagascar, Malawi, Mali, Mauritania, Mauritius, Morocco, Mozambique, Namibia, Niger, Nigeria, Rwanda, Sao Tome and Principe, Senegal, Seychelles, Sierra Leone, Somalia, South Africa, South Sudan, Sudan, Swaziland, Tanzania, Togo, Tunisia, Uganda, Zambia, Zimbabwe ++ Europe (49): Albania, Andorra, Austria, Azerbaijan*, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland, France, Georgia*, Germany, Greece, Holy See (Vatican City), Hungary, Iceland, Ireland, Italy, Kazakhstan*, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Macedonia, Malta, Moldova, Monaco, Montenegro, Netherlands, Norway, Poland, Portugal, Romania, Russia*, San Marino, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey*, Ukraine, United Kingdom (* indicates part of the country is also in Asia) ++ Asia (48): Afghanistan, Armenia, Azerbaijan*, Bahrain, Bangladesh, Bhutan, Brunei, Burma, Cambodia, China, Cyprus, Georgia*, India, Indonesia, Iran, Iraq, Israel, Japan, Jordan, Kazakhstan*, North Korea, South Korea, Kuwait, Kyrgyzstan, Laos, Lebanon, Malaysia, Maldives, Mongolia, Nepal, Oman, Pakistan, Philippines, Qatar, Russia*, Saudi Arabia, Singapore, Sri Lanka, Syria, Tajikistan, Thailand, Timor-Leste, Turkey*, Turkmenistan, United Arab Emirates, Uzbekistan, Vietnam, Yemen (* indicates part of the country is also in Europe) ++ North America (23): Antigua and Barbuda, The Bahamas, Barbados, Belize, Canada, Costa Rica, Cuba, Dominica, Dominican Republic, El Salvador, Grenada, Guatemala, Haiti, Honduras, Jamaica, Mexico, Nicaragua, Panama, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and Tobago, United States ++ Oceania (14): Australia, Fiji, Kiribati, Marshall Islands, Federated States of Micronesia, Nauru, New Zealand, Palau, Papua New Guinea, Samoa, Solomon Islands, Tonga, Tuvalu, Vanuatu ++ South America (12): Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Guyana, Paraguay, Peru, Suriname, Uruguay, Venezuela"
+      }
     },
     "Map references": {
       "text": "Physical Map of the World"
@@ -62,30 +65,33 @@
       "text": "a wide equatorial band of hot and humid tropical climates, bordered north and south by subtropical temperate zones that separate two large areas of cold and dry polar climates"
     },
     "Terrain": {
-      "text": "the greatest ocean depth is the Mariana Trench at 10,924 m in the Pacific Ocean"
+      "text": "the greatest ocean depth is the Mariana Trench at -10,924 m in the Pacific Ocean"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Bentley Subglacial Trench (Antarctica) -2,555 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "840 m"
+      },
+      "elevation extremes": {
+        "text": "lowest point: Bentley Subglacial Trench (Antarctica) -2,555 m (in the oceanic realm, Challenger Deep in the Mariana Trench is the lowest point, lying -10,924 m below the surface of the Pacific Ocean) ++ highest point: Mount Everest 8,850 m"
+      },
+      "top ten highest mountains (measured from sea level)": {
+        "text": "Mount Everest (China-Nepal) 8,850 m; K2 (Pakistan) 8,611 m; Kanchenjunga (India-Nepal) 8,598 m; Lhotse (Nepal) 8,516 m; Makalu (China-Nepal) 8,463 m; Cho Oyu (China-Nepal) 8,201 m; Dhaulagiri (Nepal) 8,167 m; Manaslu (Nepal) 8,163 m; Nanga Parbat (Pakistan) 8,125 m; Anapurna (Nepal) 8,091 m"
       },
       "note": {
         "text": "Mauna Kea (United States) is the world's tallest mountain as measured from base to summit; the peak of this volcanic colossus lies on the island of Hawaii, but its base begins more than 70 km offshore and at a depth of about 6,000 m; total height estimates range from 9,966 m to 10,203 m"
       },
-      "highest point": {
-        "text": "Mount Everest 8,850 m"
+      "highest point on each continent": {
+        "text": "Asia - Mount Everest (China-Nepal) 8,850 m; South America - Cerro Aconcagua (Argentina) 6,960 m; North America - Denali (Mount McKinley) (United States) 6,190 m; Africa - Kilimanjaro (Tanzania) 5,895 m; Europe - El'brus (Russia) 5,633 m; Antarctica - Vinson Massif 4,897 m; Australia - Mount Kosciuszko 2,229 m"
       },
-      "top ten highest mountains (measured from sea level)": {
-        "text": "Mount Everest (China-Nepal) 8,850 m; K2 (Pakistan) 8,611 m; Kanchenjunga (India-Nepal) 8,598 m; Lhotse (Nepal) 8,516 m; Makalu (China-Nepal) 8,463 m; Cho Oyu (China-Nepal) 8,201 m; Dhaulagiri (Nepal) 8,167 m; Manaslu (Nepal) 8,163 m; Nanga Parbat (Pakistan) 8,125 m; Anapurna (Nepal) 8,091 m"
+      "lowest point on each continent": {
+        "text": "Antarctica - Bentley Subglacial Trench -2,555 m; Asia - Dead Sea (Israel-Jordan) -408 m; Africa - Lac Assal (Djibouti) -155 m; South America - Laguna del Carbon (Argentina) -105 m; North America - Death Valley (United States) -86 m; Europe - Caspian Sea (Azerbaijan-Kazakhstan-Russia) -28 m; Australia - Lake Eyre -15 m"
       }
     },
     "Natural resources": {
       "text": "the rapid depletion of nonrenewable mineral resources, the depletion of forest areas and wetlands, the extinction of animal and plant species, and the deterioration in air and water quality (especially in some countries of Eastern Europe, the former USSR, and China) pose serious long-term problems that governments and peoples are only beginning to address"
     },
     "Irrigated land": {
-      "text": "3,096,621.45 sq km (2011 est.)"
-    },
-    "Total renewable water resources": {
-      "text": "53,789.29 cu km (2011)"
+      "text": "3,242,917 sq km (2012 est.)"
     },
     "Natural hazards": {
       "text": "large areas subject to severe weather (tropical cyclones); natural disasters (earthquakes, landslides, tsunamis, volcanic eruptions)",
@@ -101,45 +107,51 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "7,323,187,457 (July 2016 est.)",
+      "top ten most populous countries (in millions)": {
+        "text": "China 1373.54; India 1266.88; United States 324.00; Indonesia 258.32; Brazil 205.82; Pakistan 202.00; Nigeria 186.05; Bangladesh 156.19; Russia 142.36; Japan 126.70"
+      },
+      "ten least populous countries": {
+        "text": "Holy See (Vatican City) 1,000; Nauru 9,591; Tuvalu 10,959; Palau 21,347; Monaco 30,581; San Marino 33,285; Liechtenstein 37,937; Saint Kitts and Nevis 52,329; Marshall Islands 73,376; Dominica 73,757"
+      },
+      "ten most densely populated countries (population per sq km)": {
+        "text": "Monaco 15,291; Singapore 8,416; Holy See (Vatican City) 2,273; Bahrain 1,814; Maldives 1,319; Malta 1,314; Bangladesh 1,200; Barbados 678; Mauritius 664; Lebanon 610"
+      },
+      "ten least densely populated countries (population per sq km)": {
+        "text": "Mongolia 1.95; Namibia 2.96; Australia 2.99; Iceland 3.35; Mauritania 3.57; Libya 3.72; Guyana 3.74; Suriname 3.76; Canada 3.89; Botswana 3.90"
+      }
+    },
     "Languages": {
-      "text": "Mandarin Chinese 11.82%, Spanish 5.77%, English 4.67%, Hindi 3.62%, Arabic 3.3%, Portuguese 2.83%, Bengali 2.69%, Russian 2.33%, Japanese 1.7%, Javanese 1.15%, Standard German 1.09% (2014 est.)",
+      "text": "Mandarin Chinese 12.2%, Spanish 5.8%, English 4.6%, Arabic 3.6%, Hindi 3.6%, Portuguese 2.8%, Bengali 2.6%, Russian 2.3%, Japanese 1.7%, Punjabi, Western 1.2%, Javanese 1.2% (2016 est.)",
       "note 1": {
-        "text": "percents are for \"first language\" speakers only; the six UN languages - Arabic, Chinese (Mandarin), English, French, Russian, and Spanish (Castilian) - are the mother tongue or second language of about half of the world's population, and are the official languages in more than half the states in the world; some 150 to 200 languages have more than a million speakers"
+        "text": "percents are for \"first language\" speakers only; the six UN languages - Arabic, Chinese (Mandarin), English, French, Russian, and Spanish (Castilian) - are the mother tongue or second language of about half of the world's population, and are the official languages in more than half the states in the world; some 300 languages have more than a million first-language speakers"
       },
       "note 2": {
-        "text": "all told, there are an estimated 7,100 languages spoken in the world; approximately 80% of these languages are spoken by less than 100,000 people; about 140 languages are spoken by less than 10 people; communities that are isolated from each other in mountainous regions often develop multiple languages; Papua New Guinea, for example, boasts about 839 separate languages"
+        "text": "all told, there are an estimated 7,100 languages spoken in the world; approximately 80% of these languages are spoken by less than 100,000 people; about 130 languages are spoken by less than 10 people; communities that are isolated from each other in mountainous regions often develop multiple languages; Papua New Guinea, for example, boasts about 840 separate languages"
       },
       "note 3": {
-        "text": "approximately 2,300 languages are spoken in Asia, 2,140, in Africa, 1,300 in the Pacific, 1,060 in the Americas, and 280 in Europe (2015)"
+        "text": "approximately 2,300 languages are spoken in Asia, 2,140, in Africa, 1,310 in the Pacific, 1,060 in the Americas, and 290 in Europe (2016)"
       }
     },
     "Religions": {
       "text": "Christian 31.4%, Muslim 23.2%, Hindu 15%, Buddhist 7.1%, folk religions 5.9%, Jewish 0.2%, other 0.8%, unaffiliated 16.4% (2010 est.)"
     },
-    "Population": {
-      "text": "7,256,490,011 (July 2015 est.)",
-      "top ten most populous countries (in millions)": {
-        "text": "China 1361.51; India 1251.70; United States 321.36; Indonesia 255.99; Brazil 204.26; Pakistan 199.09; Nigeria 181.56; Bangladesh 168.96; Russia 142.42; Japan 126.92"
-      }
-    },
     "Age structure": {
       "0-14 years": {
-        "text": "25.64% (male 962,504,434/female 897,959,144)"
+        "text": "25.44% (male 963,981,944/female 898,974,458)"
       },
       "15-24 years": {
-        "text": "16.34% (male 610,915,870/female 574,498,881)"
+        "text": "16.16% (male 611,311,930/female 572,229,547)"
       },
       "25-54 years": {
-        "text": "40.98% (male 1,502,925,383/female 1,470,748,023)"
+        "text": "41.12% (male 1,522,999,578/female 1,488,011,505)"
       },
       "55-64 years": {
-        "text": "8.56% (male 303,057,587/female 317,738,739)"
+        "text": "8.6% (male 307,262,939/female 322,668,546)"
       },
       "65 years and over": {
-        "text": "8.49% (male 274,517,510/female 341,624,440) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "8.68% (male 283,540,918/female 352,206,092) (2016 est.)"
       }
     },
     "Dependency ratios": {
@@ -158,31 +170,31 @@
     },
     "Median age": {
       "total": {
-        "text": "29.9 years"
+        "text": "30.1 years"
       },
       "male": {
-        "text": "29.1 years"
+        "text": "29.4 years"
       },
       "female": {
-        "text": "30.6 years (2015 est.)"
+        "text": "30.9 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "1.08%",
+      "text": "1.06%",
       "note": {
-        "text": "this rate results in about 149 net additions to the worldwide population every minute or 2.5 every second (2015 est.)"
+        "text": "this rate results in about 148 net additions to the worldwide population every minute or 2.5 every second (2016 est.)"
       }
     },
     "Birth rate": {
-      "text": "18.6 births/1,000 population",
+      "text": "18.5 births/1,000 population",
       "note": {
-        "text": "this rate results in about 256 worldwide births per minute or 4.3 births every second (2015 est.)"
+        "text": "this rate results in about 258 worldwide births per minute or 4.3 births every second (2016 est.)"
       }
     },
     "Death rate": {
       "text": "7.8 deaths/1,000 population",
       "note": {
-        "text": "this rate results in about 108 worldwide deaths per minute or 1.8 deaths every second (2015 est.)"
+        "text": "this rate results in about 108 worldwide deaths per minute or 1.8 deaths every second (2016 est.)"
       }
     },
     "Urbanization": {
@@ -204,7 +216,7 @@
         "text": "1.07 male(s)/female"
       },
       "15-24 years": {
-        "text": "1.06 male(s)/female"
+        "text": "1.07 male(s)/female"
       },
       "25-54 years": {
         "text": "1.02 male(s)/female"
@@ -213,10 +225,10 @@
         "text": "0.95 male(s)/female"
       },
       "65 years and over": {
-        "text": "0.8 male(s)/female"
+        "text": "0.805 male(s)/female"
       },
       "total population": {
-        "text": "1.01 male(s)/female (2015 est.)"
+        "text": "1.015 male(s)/female (2016 est.)"
       }
     },
     "Maternal mortality rate": {
@@ -224,31 +236,28 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "35.4 deaths/1,000 live births"
+        "text": "34.1 deaths/1,000 live births"
       },
       "male": {
-        "text": "37.3 deaths/1,000 live births"
+        "text": "36.1 deaths/1,000 live births"
       },
       "female": {
-        "text": "33.4 deaths/1,000 live births (2015 est.)"
+        "text": "32.1 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "68.7 years"
+        "text": "69 years"
       },
       "male": {
-        "text": "66.7 years"
+        "text": "67 years"
       },
       "female": {
-        "text": "70.8 years (2015 est.)"
+        "text": "71.1 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "2.42 children born/woman (2015 est.)"
-    },
-    "Hospital bed density": {
-      "text": "2.9 beds/1,000 population (2005)"
+      "text": "2.42 children born/woman (2016 est.)"
     },
     "Drinking water source": {
       "improved": {
@@ -267,13 +276,13 @@
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "0.79% (2014 est.)"
+      "text": "0.8% (2015 est.)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
-      "text": "36,872,500 (2014 est.)"
+      "text": "36,710,700 (2015 est.)"
     },
     "HIV/AIDS - deaths": {
-      "text": "1,181,700 (2014 est.)"
+      "text": "1,107,600 (2015 est.)"
     },
     "Literacy": {
       "definition": {
@@ -300,7 +309,7 @@
         "text": "12 years"
       },
       "female": {
-        "text": "12 years (2012)"
+        "text": "12 years (2014)"
       }
     }
   },
@@ -316,137 +325,140 @@
     },
     "Flag description": {
       "note": {
-        "text": "the flags of 13 nations: Austria, Botswana, Jamaica, Japan, Laos, Latvia, Macedonia, Micronesia, Nigeria, Switzerland, Thailand, Trinidad and Tobago, and the United Kingdom have no top or bottom and may be flown with either long edge on top without any notice being taken"
+        "text": "the flags of 11 nations: Austria, Botswana, Jamaica, Japan, Laos, Latvia, Macedonia, Micronesia, Nigeria, Switzerland, and Thailand have no top or bottom and may be flown with either long edge on top without any notice being taken"
       }
     }
   },
   "Economy": {
     "Economy - overview": {
-      "text": "The international financial crisis of 2008-09 led to the first downturn in global output since 1946 and presented the world with a major new challenge: determining what mix of fiscal and monetary policies to follow to restore growth and jobs, while keeping inflation and debt under control. Financial stabilization and stimulus programs that started in 2009-11, combined with lower tax revenues in 2009-10, required most countries to run large budget deficits. Treasuries issued new public debt - totaling $9.1 trillion since 2008 - to pay for the additional expenditures. To keep interest rates low, most central banks monetized that debt, injecting large sums of money into their economies - between December 2008 and December 2013 the global money supply increased by more than 35%. Governments are now faced with the difficult task of spurring current growth and employment without saddling their economies with so much debt that they sacrifice long-term growth and financial stability. When economic activity picks up, central banks will confront the difficult task of containing inflation without raising interest rates so high they snuff out further growth. ++  ++ Fiscal and monetary data for 2013 are currently available for 180 countries, which together account for 98.5% of World GDP. Of the 180 countries, 82 pursued unequivocally expansionary policies, boosting government spending while also expanding their money supply relatively rapidly - faster than the world average of 3.1%; 28 followed restrictive fiscal and monetary policies, reducing government spending and holding money growth to less than the 3.1% average; and the remaining 70 followed a mix of counterbalancing fiscal and monetary policies, either reducing government spending while accelerating money growth, or boosting spending while curtailing money growth. ++  ++ (For more information, see attached spreadsheet, Fiscal and Monetary Data, 2008-2012.) ++  ++ In 2013, for many countries the drive for fiscal austerity that began in 2011 abated. While 5 out of 6 countries slowed spending in 2012, only 1 in 2 countries slowed spending in 2013. About 1 in 3 countries actually lowered the level of their expenditures. The global growth rate for government expenditures increased from 1.6% in 2012 to 5.1% in 2013, after falling from a 10.1% growth rate in 2011. On the other hand, nearly 2 out of 3 central banks tightened monetary policy in 2013, decelerating the rate of growth of their money supply, compared with only 1 out of 3 in 2012. Roughly 1 of 4 central banks actually withdrew money from circulation, an increase from 1 out of 7 in 2012. Growth of the global money supply, as measured by the narrowly defined M1, slowed from 8.7% in 2009 and 10.4% in 2010 to 5.2% in 2011, 4.6% in 2012, and 3.1% in 2013. Several notable shifts occurred in 2013. By cutting government expenditures and expanding money supplies, the US and Canada moved against the trend in the rest of the world. France reversed course completely. Rather than reducing expenditures and money as it had in 2012, it expanded both. Germany reversed its fiscal policy, sharply expanding federal spending, while continuing to grow the money supply. South Korea shifted monetary policy into high gear, while maintaining a strongly expansionary fiscal policy. Japan, however, continued to pursue austere fiscal and monetary policies. ++  ++ Austere economic policies have significantly affected economic performance. The global budget deficit narrowed to roughly $2.7 trillion in 2012 and $2.1 trillion in 2013, or 3.8% and 2.5% of World GDP, respectively. But growth of the world economy slipped from 5.1% in 2010 and 3.7% in 2011, to just 3.1% in 2012, and 2.9% in 2013. ++  ++ Countries with expansionary fiscal and monetary policies achieved significantly higher rates of growth, higher growth of tax revenues, and greater success reducing the public debt burden than those countries that chose contractionary policies. In 2013, the 82 countries that followed a pro-growth approach achieved a median GDP growth rate of 4.7%, compared to 1.7% for the 28 countries with restrictive fiscal and monetary policies, a difference of 3 percentage points. Among the 82, China grew 7.7%, Philippines 6.8%, Malaysia 4.7%, Pakistan and Saudi Arabia 3.6%, Argentina 3.5%, South Korea 2.8%, and Russia 1.3%, while among the 28, Brazil grew 2.3%, Japan 2.0%, South Africa 2.0%, Netherlands -0.8%, Croatia -1.0%, Iran -1.5%, Portugal -1.8%, Greece -3.8%, and Cyprus -8.7%. ++  ++ Faster GDP growth and lower unemployment rates translated into increased tax revenues and a less cumbersome debt burden. Revenues for the 82 expansionary countries grew at a median rate of 10.7%, whereas tax revenues fell at a median rate of 6.8% for the 28 countries that chose austere economic policies. Budget balances improved for about three-quarters of the 28, but, for most, debt grew faster than GDP, and the median level of their public debt as a share of GDP increased 9.1 percentage points, to 59.2%. On the other hand, budget balances deteriorated for most of the 82 pro-growth countries, but GDP growth outpaced increases in debt, and the median level of public debt as a share of GDP increased just 1.9%, to 39.8%. ++  ++ The world recession has suppressed inflation rates - world inflation declined 1.0 percentage point in 2012 to about 4.1% and 0.2 percentage point to 3.9% in 2013. In 2013 the median inflation rate for the 82 pro-growth countries was 1.3 percentage points higher than that for the countries that followed more austere fiscal and monetary policies. Overall, the latter countries also improved their current account balances by shedding imports; as a result, current account balances deteriorated for most of the countries that pursued pro-growth policies. Slow growth of world income continued to hold import demand in check and crude oil prices fell. Consequently, the dollar value of world trade grew just 1.3% in 2013. ++  ++ Beyond the current global slowdown, the world faces several long-standing economic challenges. The addition of 80 million people each year to an already overcrowded globe is exacerbating the problems of pollution, waste-disposal, epidemics, water-shortages, famine, over-fishing of oceans, deforestation, desertification, and depletion of non-renewable resources. The nation-state, as a bedrock economic-political institution, is steadily losing control over international flows of people, goods, services, funds, and technology. The introduction of the euro as the common currency of much of Western Europe in January 1999, while paving the way for an integrated economic powerhouse, has created economic risks because the participating nations have varying income levels and growth rates, and hence, require a different mix of monetary and fiscal policies. Governments, especially in Western Europe, face the difficult political problem of channeling resources away from welfare programs in order to increase investment and strengthen incentives to seek employment. Because of their own internal problems and priorities, the industrialized countries are unable to devote sufficient resources to deal effectively with the poorer areas of the world, which, at least from an economic point of view, are becoming further marginalized. The terrorist attacks on the US on 11 September 2001 accentuated a growing risk to global prosperity - the diversion of resources away from capital investments to counter-terrorism programs. ++  ++ Despite these vexing problems, the world economy also shows great promise. Technology has made possible further advances in a wide range of fields, from agriculture, to medicine, alternative energy, metallurgy, and transportation. Improved global communications have greatly reduced the costs of international trade, helping the world gain from the international division of labor, raise living standards, and reduce income disparities among nations. Much of the resilience of the world economy in the aftermath of the financial crisis resulted from government and central bank leaders around the globe working in concert to stem the financial onslaught, knowing well the lessons of past economic failures."
+      "text": "The international financial crisis of 2008-09 led to the first downturn in global output since 1946 and presented the world with a major new challenge: determining what mix of fiscal and monetary policies to follow to restore growth and jobs, while keeping inflation and debt under control. Financial stabilization and stimulus programs that started in 2009-11, combined with lower tax revenues in 2009-10, required most countries to run large budget deficits. Treasuries issued new public debt - totaling $9.1 trillion since 2008 - to pay for the additional expenditures. To keep interest rates low, most central banks monetized that debt, injecting large sums of money into their economies - between December 2008 and December 2013 the global money supply increased by more than 35%. Governments are now faced with the difficult task of spurring current growth and employment without saddling their economies with so much debt that they sacrifice long-term growth and financial stability. When economic activity picks up, central banks will confront the difficult task of containing inflation without raising interest rates so high they snuff out further growth. ++  ++ Fiscal and monetary data for 2013 are currently available for 180 countries, which together account for 98.5% of world GDP. Of the 180 countries, 82 pursued unequivocally expansionary policies, boosting government spending while also expanding their money supply relatively rapidly - faster than the world average of 3.1%; 28 followed restrictive fiscal and monetary policies, reducing government spending and holding money growth to less than the 3.1% average; and the remaining 70 followed a mix of counterbalancing fiscal and monetary policies, either reducing government spending while accelerating money growth, or boosting spending while curtailing money growth. ++  ++ (For more information, see attached spreadsheet, Fiscal and Monetary Data, 2008-2012.) ++  ++ In 2013, for many countries the drive for fiscal austerity that began in 2011 abated. While 5 out of 6 countries slowed spending in 2012, only 1 in 2 countries slowed spending in 2013. About 1 in 3 countries actually lowered the level of their expenditures. The global growth rate for government expenditures increased from 1.6% in 2012 to 5.1% in 2013, after falling from a 10.1% growth rate in 2011. On the other hand, nearly 2 out of 3 central banks tightened monetary policy in 2013, decelerating the rate of growth of their money supply, compared with only 1 out of 3 in 2012. Roughly 1 of 4 central banks actually withdrew money from circulation, an increase from 1 out of 7 in 2012. Growth of the global money supply, as measured by the narrowly defined M1, slowed from 8.7% in 2009 and 10.4% in 2010 to 5.2% in 2011, 4.6% in 2012, and 3.1% in 2013. Several notable shifts occurred in 2013. By cutting government expenditures and expanding money supplies, the US and Canada moved against the trend in the rest of the world. France reversed course completely. Rather than reducing expenditures and money as it had in 2012, it expanded both. Germany reversed its fiscal policy, sharply expanding federal spending, while continuing to grow the money supply. South Korea shifted monetary policy into high gear, while maintaining a strongly expansionary fiscal policy. Japan, however, continued to pursue austere fiscal and monetary policies. ++  ++ Austere economic policies have significantly affected economic performance. The global budget deficit narrowed to roughly $2.7 trillion in 2012 and $2.1 trillion in 2013, or 3.8% and 2.5% of World GDP, respectively. But growth of the world economy slipped from 5.1% in 2010 and 3.7% in 2011, to just 3.1% in 2012, and 2.9% in 2013. ++  ++ Countries with expansionary fiscal and monetary policies achieved significantly higher rates of growth, higher growth of tax revenues, and greater success reducing the public debt burden than those countries that chose contractionary policies. In 2013, the 82 countries that followed a pro-growth approach achieved a median GDP growth rate of 4.7%, compared to 1.7% for the 28 countries with restrictive fiscal and monetary policies, a difference of 3 percentage points. Among the 82, China grew 7.7%, Philippines 6.8%, Malaysia 4.7%, Pakistan and Saudi Arabia 3.6%, Argentina 3.5%, South Korea 2.8%, and Russia 1.3%, while among the 28, Brazil grew 2.3%, Japan 2.0%, South Africa 2.0%, Netherlands -0.8%, Croatia -1.0%, Iran -1.5%, Portugal -1.8%, Greece -3.8%, and Cyprus -8.7%. ++  ++ Faster GDP growth and lower unemployment rates translated into increased tax revenues and a less cumbersome debt burden. Revenues for the 82 expansionary countries grew at a median rate of 10.7%, whereas tax revenues fell at a median rate of 6.8% for the 28 countries that chose austere economic policies. Budget balances improved for about three-quarters of the 28, but, for most, debt grew faster than GDP, and the median level of their public debt as a share of GDP increased 9.1 percentage points, to 59.2%. On the other hand, budget balances deteriorated for most of the 82 pro-growth countries, but GDP growth outpaced increases in debt, and the median level of public debt as a share of GDP increased just 1.9%, to 39.8%. ++  ++ The world recession has suppressed inflation rates - world inflation declined 1.0 percentage point in 2012 to about 4.1% and 0.2 percentage point to 3.9% in 2013. In 2013 the median inflation rate for the 82 pro-growth countries was 1.3 percentage points higher than that for the countries that followed more austere fiscal and monetary policies. Overall, the latter countries also improved their current account balances by shedding imports; as a result, current account balances deteriorated for most of the countries that pursued pro-growth policies. Slow growth of world income continued to hold import demand in check and crude oil prices fell. Consequently, the dollar value of world trade grew just 1.3% in 2013. ++  ++ Beyond the current global slowdown, the world faces several long standing economic challenges. The addition of 80 million people each year to an already overcrowded globe is exacerbating the problems of pollution, waste-disposal, epidemics, water-shortages, famine, over-fishing of oceans, deforestation, desertification, and depletion of non-renewable resources. The nation-state, as a bedrock economic-political institution, is steadily losing control over international flows of people, goods, services, funds, and technology. The introduction of the euro as the common currency of much of Western Europe in January 1999, while paving the way for an integrated economic powerhouse, has created economic risks because the participating nations have varying income levels and growth rates, and hence, require a different mix of monetary and fiscal policies. Governments, especially in Western Europe, face the difficult political problem of channeling resources away from welfare programs in order to increase investment and strengthen incentives to seek employment. Because of their own internal problems and priorities, the industrialized countries are unable to devote sufficient resources to deal effectively with the poorer areas of the world, which, at least from an economic point of view, are becoming further marginalized. The terrorist attacks on the US on 11 September 2001 accentuated a growing risk to global prosperity - the diversion of resources away from capital investments to counter-terrorism programs. ++  ++ Despite these vexing problems, the world economy also shows great promise. Technology has made possible further advances in a wide range of fields, from agriculture, to medicine, alternative energy, metallurgy, and transportation. Improved global communications have greatly reduced the costs of international trade, helping the world gain from the international division of labor, raise living standards, and reduce income disparities among nations. Much of the resilience of the world economy in the aftermath of the financial crisis resulted from government and central bank leaders around the globe working in concert to stem the financial onslaught, knowing well the lessons of past economic failures."
     },
     "GDP (purchasing power parity)": {
-      "text": "$109.3 trillion (2014 est.) ++ $105.7 trillion (2013 est.) ++ $102.3 trillion (2012 est.)",
+      "text": "$114.5 trillion (2015 est.) ++ $111.1 trillion (2014 est.) ++ $107.5 trillion (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "GWP (gross world product): $78.28 trillion (2014 est.)"
+      "text": "SGWP (gross world product): $73.7 trillion (2015 est.)"
     },
     "GDP - real growth rate": {
-      "text": "3.3% (2014 est.) ++ 3.3% (2013 est.) ++ 3.1% (2012 est.)"
+      "text": "3.1% (2015 est.) ++ 3.3% (2014 est.) ++ 3.3% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$16,400 (2014 est.) ++ $16,000 (2013 est.) ++ $15,700 (2012 est.)",
+      "text": "$15,800 (2015 est.) ++ $16,800 (2014 est.) ++ $16,500 (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
+    },
+    "Gross national saving": {
+      "text": "27.4% of GDP (2015 est.) ++ 27.8% of GDP (2014 est.) ++ 27.5% of GDP (2013 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "62%"
+        "text": "57.1%"
       },
       "government consumption": {
-        "text": "18.5%"
+        "text": "16.2%"
       },
       "investment in fixed capital": {
-        "text": "19.4%"
+        "text": "25.4%"
       },
       "investment in inventories": {
-        "text": "0.5%"
+        "text": "0.7%"
       },
       "exports of goods and services": {
-        "text": "29.3%"
+        "text": "29.1%"
       },
       "imports of goods and services": {
-        "text": "-29.7% ++  (2011 est.)"
+        "text": "-28.5% (2015 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "6.6%"
+        "text": "6.4%"
       },
       "industry": {
-        "text": "31%"
+        "text": "30.4%"
       },
       "services": {
-        "text": "62.5% (2014 est.)"
+        "text": "62.6% (2015 est.)"
       }
     },
     "Industries": {
       "text": "dominated by the onrush of technology, especially in computers, robotics, telecommunications, and medicines and medical equipment; most of these advances take place in OECD nations; only a small portion of non-OECD countries have succeeded in rapidly adjusting to these technological forces; the accelerated development of new technologies is complicating already grim environmental problems"
     },
     "Industrial production growth rate": {
-      "text": "3.6% (2014 est.)"
+      "text": "2.3% (2015 est.)"
     },
     "Labor force": {
-      "text": "3.36 billion (2014 est.)"
+      "text": "3.395 billion (2015 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
-        "text": "34.7%"
+        "text": "34.3%"
       },
       "industry": {
-        "text": "22.4%"
+        "text": "22.3%"
       },
       "services": {
-        "text": "42.9% (2009)"
+        "text": "43.4% (2011 est.)"
       }
     },
     "Unemployment rate": {
-      "text": "8.3% (2014 est.) ++ 7.7% (2013 est.)",
+      "text": "8.3% (2015 est.) ++ 7.8% (2014 est.)",
       "note": {
         "text": "30% combined unemployment and underemployment in many non-industrialized countries; developed countries typically 4%-12% unemployment (2007 est.)"
       }
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
-        "text": "2.8%"
+        "text": "2.6%"
       },
       "highest 10%": {
-        "text": "28.2% (2008 est.)"
+        "text": "30.3% (2008 est.)"
       }
     },
     "Distribution of family income - Gini index": {
-      "text": "38 (2009 est.) ++ 37.3 (1999 est.)"
+      "text": "38.1 (2009 est.) ++ 37.3 (2000 est.)"
     },
     "Budget": {
       "revenues": {
-        "text": "$21.88 trillion"
+        "text": "$20.3 trillion"
       },
       "expenditures": {
-        "text": "$23.83 trillion (2014 est.)"
+        "text": "$22.52 trillion (2015 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "28.4% of GDP (2014 est.)"
+      "text": "27.5% of GDP (2015 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-2.7% of GDP (2014 est.)"
+      "text": "-3% of GDP (2015 est.)"
     },
     "Public debt": {
-      "text": "57.7% of GDP (2014 est.) ++ 57.7% of GDP (2013 est.)"
+      "text": "58.7% of GDP (2015 est.) ++ 58.1% of GDP (2014 est.)"
     },
     "Inflation rate (consumer prices)": {
-      "text": "world average 3.4% (2014 est.) ++ developed countries 1.2% (2013 est.) ++ developing countries 5.3% (2014 est.)",
+      "text": "world average: 3.8% (2015 est.) 0.2% (2014 est.) ++ developed countries: 5.8% (2015 est.) 0.3% (2014 est.) ++ developing countries: 5.7% (2015 est.) 4.7% (2014 est.)",
       "note": {
-        "text": "the above estimates are weighted averages; inflation in developed countries is 0% to 4% typically, in developing countries, 5% to 10% typically; national inflation rates vary widely in individual cases; inflation rates have declined for most countries for the last several years, held in check by increasing international competition from several low wage countries and by soft demand due to the world financial crisis (2013 est.)"
+        "text": "the above estimates are weighted averages; inflation in developed countries is 0% to 4% typically, in developing countries, 4% to 10% typically; national inflation rates vary widely in individual cases; inflation rates have declined for most countries for the last several years, held in check by increasing international competition from several low wage countries and by soft demand due to the world financial crisis"
       }
     },
     "Stock of narrow money": {
-      "text": "$28.6 trillion (31 December 2014 est.) ++ $28.25 trillion (31 December 2013 est.)"
+      "text": "$27.83 trillion (31 December 2015 est.) ++ $26.83 trillion (31 December 2014 est.)"
     },
     "Stock of broad money": {
-      "text": "$80.45 trillion (31 December 2014 est.) ++ $76.76 trillion (31 December 2013 est.)"
+      "text": "$81.29 trillion (31 December 2014 est.) ++ $78.44 trillion (31 December 2013 est.)"
     },
     "Stock of domestic credit": {
-      "text": "$90.65 trillion (31 December 2014 est.) ++ $91.08 trillion (31 December 2013 est.)"
+      "text": "$95.11 trillion (31 December 2015 est.) ++ $94.9 trillion (31 December 2014 est.)"
     },
     "Market value of publicly traded shares": {
-      "text": "$59.86 trillion (31 December 2012 est.) ++ $54.36 trillion (31 December 2011) ++ $56.6 trillion (31 December 2010 est.)"
+      "text": "$59.93 trillion (31 December 2015 est.) ++ $54.49 trillion (31 December 2014 est.) ++ $56.6 trillion (31 December 2013 est.)"
     },
     "Exports": {
-      "text": "$19.08 trillion (2014 est.) ++ $18.62 trillion (2013 est.)"
+      "text": "$16.3 trillion (2015 est.) ++ $18.75 trillion (2014 est.)"
     },
     "Exports - commodities": {
       "text": "the whole range of industrial and agricultural goods and services",
@@ -455,7 +467,7 @@
       }
     },
     "Imports": {
-      "text": "$18.86 trillion (2014 est.) ++ $18.36 trillion (2013 est.)"
+      "text": "$15.97 trillion (2015 est.) ++ $18.21 trillion (2014 est.)"
     },
     "Imports - commodities": {
       "text": "the whole range of industrial and agricultural goods and services",
@@ -464,106 +476,114 @@
       }
     },
     "Debt - external": {
-      "text": "$72.87 trillion (31 December 2014 est.) ++ $68.82 trillion (31 December 2013 est.)",
+      "text": "$76.92 trillion (31 December 2014 est.) ++ $77.28 trillion (31 December 2013 est.)",
       "note": {
         "text": "this figure is the sum total of all countries' external debt, both public and private"
       }
     },
     "Stock of direct foreign investment - at home": {
-      "text": "$26.25 trillion (31 December 2014 est.) ++ $24.37 trillion (31 December 2013 est.)"
+      "text": "$26.24 trillion (31 December 2015 est.) ++ $25.37 trillion (31 December 2014 est.)"
     },
     "Stock of direct foreign investment - abroad": {
-      "text": "$27.45 trillion (31 December 2014 est.) ++ $25.92 trillion (31 December 2013 est.)"
+      "text": "$27.86 trillion (31 December 2015 est.) ++ $27.04 trillion (31 December 2014 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "1,201,000,000"
+      },
+      "electrification - total population": {
+        "text": "83%"
+      },
+      "electrification - urban areas": {
+        "text": "95%"
+      },
+      "electrification - rural areas": {
+        "text": "70% (2013)"
+      }
+    },
     "Electricity - production": {
-      "text": "21.53 trillion kWh (2012 est.)"
+      "text": "22.57 trillion kWh (2012 est.)"
     },
     "Electricity - consumption": {
-      "text": "19.71 trillion kWh (2012 est.)"
+      "text": "20.99 trillion kWh (2012 est.)"
     },
     "Electricity - exports": {
-      "text": "639.6 billion kWh (2013 est.)"
+      "text": "632.9 billion kWh (2013 est.)"
     },
     "Electricity - imports": {
-      "text": "684.2 billion kWh (2013 est.)"
+      "text": "678.2 billion kWh (2013 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "5.55 billion kW (2012 est.)"
+      "text": "5.847 billion kW (2012 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "65% of total installed capacity (2012 est.)"
+      "text": "65.3% of total installed capacity (2012 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "6.7% of total installed capacity (2012 est.)"
+      "text": "6.8% of total installed capacity (2012 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "17.6% of total installed capacity (2012 est.)"
+      "text": "18.7% of total installed capacity (2012 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "8.3% of total installed capacity (2012 est.)"
+      "text": "9.2% of total installed capacity (2012 est.)"
     },
     "Crude oil - production": {
-      "text": "77.83 million bbl/day (2014 est.)"
+      "text": "79.17 million bbl/day (2014 est.)"
     },
     "Crude oil - exports": {
-      "text": "44.1 million bbl/day (2012 est.)"
+      "text": "44.07 million bbl/day (2012 est.)"
     },
     "Crude oil - imports": {
-      "text": "46.27 million bbl/day (2012 est.)"
+      "text": "47.43 million bbl/day (2012 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "1.656 trillion bbl (1 January 2015 est.)"
+      "text": "1.66 trillion bbl (1 January 2015 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "85.22 million bbl/day (2012 est.)"
+      "text": "86.37 million bbl/day (2012 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "91.19 million bbl/day (2013 est.)"
+      "text": "90.05 million bbl/day (2013 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "25.18 million bbl/day (2012 est.)"
+      "text": "27.09 million bbl/day (2012 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "23.29 million bbl/day (2012 est.)"
+      "text": "24.5 million bbl/day (2012 est.)"
     },
     "Natural gas - production": {
-      "text": "3.434 trillion cu m (2013 est.)"
+      "text": "3.43 trillion cu m (2013 est.)"
     },
     "Natural gas - consumption": {
-      "text": "3.436 trillion cu m (2013 est.)"
+      "text": "3.42 trillion cu m (2013 est.)"
     },
     "Natural gas - exports": {
-      "text": "1.085 trillion cu m (2013 est.)"
+      "text": "1.136 trillion cu m (2013 est.)"
     },
     "Natural gas - imports": {
-      "text": "1.06 trillion cu m (2013 est.)"
+      "text": "1.449 trillion cu m (2013 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "206.4 trillion cu m (1 January 2014 est.)"
+      "text": "191.4 trillion cu m (1 January 2014 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "33.95 billion Mt (2012 est.)"
+      "text": "34.18 billion Mt (2012 est.)"
     }
   },
   "Communications": {
     "Telephones - fixed lines": {
-      "text": "1.1 billion (2014 est.)"
+      "text": "1.1 billion (July 2015 est.)"
     },
     "Telephones - mobile cellular": {
-      "text": "total 7 billion (2014 est.)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM NA, FM NA, shortwave NA"
-    },
-    "Television broadcast stations": {
-      "text": "NA"
+      "text": "total 7 billion (July 2015 est.)"
     },
     "Internet users": {
-      "text": "2.8 billion",
+      "text": "3.172 billion",
       "top ten countries by Internet usage (in millions)": {
-        "text": "China 626.6; United States 276.6; India 237.3; Japan 109.4; Brazil 108.2; Russia 84.4; Germany 70.3; Nigeria 66.6; United Kingdom 57.3; France 56.8 (2014 est.)"
+        "text": "China 687.9; India 325.4; United States 239.6; Brazil 120.7; Japan 118.5; Russia 104.6; Nigeria 86.1; Germany 70.8; Mexico 69.9; United Kingdom 59 (July 2015 est.)"
       }
     }
   },
@@ -611,7 +631,7 @@
       "text": "the International Maritime Bureau (IMB) reports that 2014 saw a continued decrease in global pirate activities declining 7% over 2013; in 2014, pirates attacked a total of 245 ships world-wide including hijacking 21 ships, capturing 442 seafarers, and killing 4; the Horn of Africa continued to see a drop in pirate activities with only 11 incidents in 2014 compared with 15 in 2013 and 236 in 2011; the decrease in successful pirate attacks off the Horn of Africa is due, in part, to more aggressive anti-piracy operations by international naval forces, the hardening of vessels, and the increased use of armed security teams aboard merchant ships; despite these preventative measures, the assessed risk remains high; attacks in the Straits of Malacca and South China Sea accounted for 55% of ships attacked in 2014; West African piracy is a growing threat accounting for 16% of all attacks in 2014; Nigerian pirates are very aggressive, operating as far as 200 nm offshore and linked with at least four hijackings that occurred in this area; attacks in South Asian waters remain at low levels although incidents have increased each year since 2010 reaching 34 in 2014; as of October 2015, there were 190 attacks worldwide with 15 hijackings in the Straits of Malacca/South China Sea region and West African waters"
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military expenditures": {
       "text": "2.42% of GDP (2012) ++ 2.51% of GDP (2011) ++ 2.42% of GDP (2010)"
     }
@@ -621,14 +641,14 @@
       "text": "stretching over 250,000 km, the world's 325 international land boundaries separate 195 independent states and 71 dependencies, areas of special sovereignty, and other miscellaneous entities; ethnicity, culture, race, religion, and language have divided states into separate political entities as much as history, physical terrain, political fiat, or conquest, resulting in sometimes arbitrary and imposed boundaries; most maritime states have claimed limits that include territorial seas and exclusive economic zones; overlapping limits due to adjacent or opposite coasts create the potential for 430 bilateral maritime boundaries of which 209 have agreements that include contiguous and non-contiguous segments; boundary, borderland/resource, and territorial disputes vary in intensity from managed or dormant to violent or militarized; undemarcated, indefinite, porous, and unmanaged boundaries tend to encourage illegal cross-border activities, uncontrolled migration, and confrontation; territorial disputes may evolve from historical and/or cultural claims, or they may be brought on by resource competition; ethnic and cultural clashes continue to be responsible for much of the territorial fragmentation and internal displacement of the estimated 20.8 million people and cross-border displacements of approximately 12.1 million refugees and asylum seekers around the world as of mid-2013; over half a million refugees were repatriated during 2012; other sources of contention include access to water and mineral (especially hydrocarbon) resources, fisheries, and arable land; armed conflict prevails not so much between the uniformed armed forces of independent states as between stateless armed entities that detract from the sustenance and welfare of local populations, leaving the community of nations to cope with resultant refugees, hunger, disease, impoverishment, and environmental degradation"
     },
     "Refugees and internally displaced persons": {
-      "text": "the United Nations High Commissioner for Refugees (UNHCR) estimated that as of the end of 2014 there were 59.5 million people forcibly displaced worldwide; this includes 19.5 million refugees, 1.8 million asylum seekers, and 38.2 million conflict IDPs; the UNHCR estimates there are currently at least 10 million stateless persons (2012)"
+      "text": "the UN High Commissioner for Refugees (UNHCR) estimated that as of the end of 2015 there were 65.3 million people forcibly displaced worldwide, the highest level ever recorded; this includes 21.3 million refugees, 3.2 million asylum seekers, and 40.8 million conflict IDPs; the UNHCR estimates there are currently at least 10 million stateless persons (2016)"
     },
     "Trafficking in persons": {
       "current situation": {
         "text": "the International Labour Organization conservatively estimated that 20.9 million people in 2012 were victims of forced labor, representing the full range of human trafficking (also referred to as “modern-day slavery”) for labor and sexual exploitation; about one-third of reported cases involved crossing international borders, which is often associated with sexual exploitation; trafficking in persons is most prevalent in southeastern Europe, Eurasia, and Africa and least frequent in EU member states, Canada, the US, and other developed countries (2012)"
       },
       "Tier 2 Watch List": {
-        "text": "countries that do not fully comply with the minimum standards for the elimination of trafficking but are making significant efforts to do so; (44 countries) Antigua and Barbuda, Bolivia, Botswana, Bulgaria, Burkina Faso, Burma, Cambodia, China, Democratic Republic of Congo, Republic of Congo, Costa Rica, Cuba, Djibouti, Egypt, Gabon, Ghana, Guinea, Guyana, Haiti, Jamaica, Laos, Lebanon, Lesotho, Malaysia, Maldives, Mali, Mauritius, Namibia, Pakistan, Papua New Guinea, Qatar, Saudi Arabia, Saint Vincent and the Grenadines, Solomon Islands, Sri Lanka, Sudan, Suriname, Tanzania, Timor-Leste, Trinidad and Tobago, Tunisia, Turkmenistan, Ukraine, Uzbekistan"
+        "text": "countries that do not fully comply with the minimum standards for the elimination of trafficking but are making significant efforts to do so; (44 countries) Antigua and Barbuda, Bolivia, Botswana, Bulgaria, Burkina Faso, Burma, Cambodia, China, Democratic Republic of the Congo, Republic of the Congo, Costa Rica, Cuba, Djibouti, Egypt, Gabon, Ghana, Guinea, Guyana, Haiti, Jamaica, Laos, Lebanon, Lesotho, Malaysia, Maldives, Mali, Mauritius, Namibia, Pakistan, Papua New Guinea, Qatar, Saudi Arabia, Saint Vincent and the Grenadines, Solomon Islands, Sri Lanka, Sudan, Suriname, Tanzania, Timor-Leste, Trinidad and Tobago, Tunisia, Turkmenistan, Ukraine, Uzbekistan"
       },
       "Tier 3": {
         "text": "countries that neither satisfy the minimum standards for the elimination of trafficking nor demonstrate a significant effort to do so; (23 countries) Algeria, Belarus, Belize, Burundi, Central African Republic, Comoros, Equatorial Guinea, Eritrea, The Gambia, Guinea-Bissau, Iran, North Korea, Kuwait, Libya, Marshall Islands, Mauritania, Russia, South Sudan, Syria, Thailand, Venezuela, Yemen, Zimbabwe (2015)"
@@ -639,7 +659,7 @@
         "text": "worldwide coca leaf cultivation in 2013 likely amounted to 165,000 hectares, assuming a stable crop in Bolivia; Colombia produced slightly less than half of the worldwide crop, followed by Peru and Bolivia; potential pure cocaine production increased 7% to 640 metric tons in 2013; Colombia conducts an aggressive coca eradication campaign, Peru has increased its eradication efforts, but remains hesitant to eradicate coca in key growing areas"
       },
       "opiates": {
-        "text": "worldwide illicit opium poppy cultivation increased in 2013, with potential opium production reaching 6,800 metric tons; Afghanistan is world's primary opium producer, accounting for 82% of the global supply; Southeast Asia was responsible for 12% of global opium; Pakistan produced 3% of global opium; Latin America produced 4% of global opium, and most was refined into heroin destined for the US market"
+        "text": "worldwide illicit opium poppy cultivation increased in 2013, with potential opium production reaching 6,800 metric tons; Afghanistan is world's primary opium producer, accounting for 82% of the global supply; Southeast Asia was responsible for 12% of global opium; Pakistan produced 3% of global opium; Latin America produced 4% of global opium, and most was refined into heroin destined for the US market (2015)"
       }
     }
   }

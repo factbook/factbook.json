@@ -54,12 +54,12 @@
     "Terrain": {
       "text": "volcanic with mountainous interiors"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Caribbean Sea 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "NA"
       },
-      "highest point": {
-        "text": "Mount Liamuiga 1,156 m"
+      "elevation extremes": {
+        "text": "lowest point: Caribbean Sea 0 m ++ highest point: Mount Liamuiga 1,156 m"
       }
     },
     "Natural resources": {
@@ -77,10 +77,10 @@
       }
     },
     "Irrigated land": {
-      "text": "0.18 sq km (2003)"
+      "text": "8 sq km (2012)"
     },
-    "Total renewable water resources": {
-      "text": "0.02 cu km (2011)"
+    "Population - distribution": {
+      "text": "population clusters are found in the small towns located on the periphery of both islands"
     },
     "Natural hazards": {
       "text": "hurricanes (July to October)"
@@ -101,6 +101,9 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "52,329 (July 2016 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "Kittitian(s), Nevisian(s)"
@@ -118,51 +121,48 @@
     "Religions": {
       "text": "Anglican, other Protestant, Roman Catholic"
     },
-    "Population": {
-      "text": "51,936 (July 2015 est.)"
-    },
     "Age structure": {
       "0-14 years": {
-        "text": "20.99% (male 5,457/female 5,445)"
+        "text": "20.61% (male 5,408/female 5,379)"
       },
       "15-24 years": {
-        "text": "15.1% (male 3,845/female 3,999)"
+        "text": "14.82% (male 3,767/female 3,987)"
       },
       "25-54 years": {
-        "text": "45.01% (male 11,951/female 11,427)"
+        "text": "44.85% (male 12,028/female 11,443)"
       },
       "55-64 years": {
-        "text": "10.79% (male 2,806/female 2,800)"
+        "text": "11.38% (male 2,972/female 2,983)"
       },
       "65 years and over": {
-        "text": "8.1% (male 1,912/female 2,294) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "8.34% (male 2,000/female 2,362) (2016 est.)"
       }
     },
     "Median age": {
       "total": {
-        "text": "34 years"
+        "text": "34.5 years"
       },
       "male": {
-        "text": "34.2 years"
+        "text": "34.7 years"
       },
       "female": {
-        "text": "33.9 years (2015 est.)"
+        "text": "34.3 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "0.76% (2015 est.)"
+      "text": "0.75% (2016 est.)"
     },
     "Birth rate": {
-      "text": "13.5 births/1,000 population (2015 est.)"
+      "text": "13.3 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "7.09 deaths/1,000 population (2015 est.)"
+      "text": "7.1 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "1.21 migrant(s)/1,000 population (2015 est.)"
+      "text": "1.2 migrant(s)/1,000 population (2016 est.)"
+    },
+    "Population distribution": {
+      "text": "population clusters are found in the small towns located on the periphery of both islands"
     },
     "Urbanization": {
       "urban population": {
@@ -180,10 +180,10 @@
         "text": "1.02 male(s)/female"
       },
       "0-14 years": {
-        "text": "1 male(s)/female"
+        "text": "1.01 male(s)/female"
       },
       "15-24 years": {
-        "text": "0.96 male(s)/female"
+        "text": "0.94 male(s)/female"
       },
       "25-54 years": {
         "text": "1.05 male(s)/female"
@@ -195,36 +195,36 @@
         "text": "0.83 male(s)/female"
       },
       "total population": {
-        "text": "1 male(s)/female (2015 est.)"
+        "text": "1 male(s)/female (2016 est.)"
       }
     },
     "Infant mortality rate": {
       "total": {
-        "text": "8.77 deaths/1,000 live births"
+        "text": "8.6 deaths/1,000 live births"
       },
       "male": {
-        "text": "6.03 deaths/1,000 live births"
+        "text": "6 deaths/1,000 live births"
       },
       "female": {
-        "text": "11.56 deaths/1,000 live births (2015 est.)"
+        "text": "11.2 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "75.52 years"
+        "text": "75.7 years"
       },
       "male": {
-        "text": "73.09 years"
+        "text": "73.3 years"
       },
       "female": {
-        "text": "77.99 years (2015 est.)"
+        "text": "78.2 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "1.78 children born/woman (2015 est.)"
+      "text": "1.78 children born/woman (2016 est.)"
     },
     "Health expenditures": {
-      "text": "6.4% of GDP (2013)"
+      "text": "5.1% of GDP (2014)"
     },
     "Hospital bed density": {
       "text": "2.3 beds/1,000 population (2012)"
@@ -262,13 +262,13 @@
     },
     "School life expectancy (primary to tertiary education)": {
       "total": {
-        "text": "13 years"
+        "text": "14 years"
       },
       "male": {
-        "text": "12 years"
+        "text": "14 years"
       },
       "female": {
-        "text": "13 years (2008)"
+        "text": "15 years (2014)"
       }
     }
   },
@@ -282,10 +282,13 @@
       },
       "former": {
         "text": "Federation of Saint Christopher and Nevis"
+      },
+      "etymology": {
+        "text": "Saint Kitts was, and still is, referred to as Saint Christopher and this name was well established by the 17th century (although who first applied the name is unclear); in the 17th century a common nickname for Christopher was Kit or Kitt, so the island began to be referred to as \"Saint Kitt's Island\" or just \"Saint Kitts\"; Nevis is derived from the original Spanish name \"Nuestra Senora de las Nieves\" (Our Lady of the Snows) and refers to the white halo of clouds that generally wreathes Nevis Peak"
       }
     },
     "Government type": {
-      "text": "parliamentary democracy and a Commonwealth realm"
+      "text": "federal parliamentary democracy (National Assembly) under a constitutional monarchy; a Commonwealth realm"
     },
     "Capital": {
       "name": {
@@ -308,7 +311,7 @@
       "text": "Independence Day, 19 September (1983)"
     },
     "Constitution": {
-      "text": "several previous (preindependence); latest presented 22 June 1983, effective 23 June 1983 (2015)"
+      "text": "several previous (preindependence); latest presented 22 June 1983, effective 23 June 1983 (2016)"
     },
     "Legal system": {
       "text": "English common law"
@@ -317,14 +320,17 @@
       "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
     },
     "Citizenship": {
-      "birthright citizenship": {
+      "citizenship by birth": {
+        "text": "yes"
+      },
+      "citizenship by descent": {
         "text": "yes"
       },
       "dual citizenship recognized": {
-        "text": ""
+        "text": "yes"
       },
       "residency requirement for naturalization": {
-        "text": ""
+        "text": "14 years"
       }
     },
     "Suffrage": {
@@ -360,7 +366,7 @@
         "text": "the Eastern Caribbean Supreme Court (ECSC) is the itinerant superior court of record for the 9-member Organization of Eastern Caribbean States, which includes Saint Kitts and Nevis; the ECSC - with its headquarters on St. Lucia - is headed by the chief justice and comprised of the Court of Appeal with 3 justices and the High Court with 16 judges; sittings of the Court of Appeal and High Court rotate among the member states; 2 High Court judges reside on Saint Kitts and Nevis; note - the Eastern Caribbean Supreme Court in 2003 replaced the Judicial Committee of the Privy Council (in London) as the final court of appeal on Saint Kitts and Nevis; Saint Kitts and Nevis is also a member of the Caribbean Court of Justice"
       },
       "judge selection and term of office": {
-        "text": "Eastern Caribbean Supreme Court chief justice appointed by Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62"
+        "text": "chief justice of Eastern Caribbean Supreme Court appointed by the Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission, an independent body of judicial officials; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62"
       },
       "subordinate courts": {
         "text": "magistrates' courts"
@@ -377,7 +383,7 @@
     },
     "Diplomatic representation in the US": {
       "chief of mission": {
-        "text": "Ambassador (vacant); Charge d'Affaires Justin Kareem HAWLEY (since 26 May 2015)"
+        "text": "Ambassador Thelma Patricia PHILLIP-BROWNE (since 28 January 2016)"
       },
       "chancery": {
         "text": "3216 New Mexico Avenue NW, Washington, DC 20016"
@@ -387,6 +393,9 @@
       },
       "FAX": {
         "text": "[1] (202) 686-5740"
+      },
+      "consulate(s) general": {
+        "text": "Los Angeles, New York"
       }
     },
     "Diplomatic representation from the US": {
@@ -412,58 +421,58 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "The economy of Saint Kitts and Nevis depends on tourism; since the 1970s, tourism has replaced sugar as the economy’s traditional mainstay. Following the 2005 harvest, the government closed the sugar industry after several decades of losses. To compensate for lost jobs, the government has embarked on a program to diversify the agricultural sector and to stimulate other sectors of the economy, such as export-oriented manufacturing and offshore banking. Roughly 200,000 tourists visited the islands in 2009, but reduced tourism arrivals and foreign investment led to an economic contraction in 2009-2013, and the economy returned to growth only in 2014. Like other tourist destinations in the Caribbean, St. Kitts and Nevis is vulnerable to damage from natural disasters and shifts in tourism demand. The government has made notable progress on reducing its public debt, from 154% of GDP in 2011 to 83% in 2013, although it still faces one of the highest levels in the world, largely attributable to public enterprise losses."
+      "text": "The economy of Saint Kitts and Nevis depends on tourism; since the 1970s, tourism has replaced sugar as the economy’s traditional mainstay. Roughly 200,000 tourists visited the islands in 2009, but reduced tourism arrivals and foreign investment led to an economic contraction in 2009-2013, and the economy returned to growth only in 2014. Like other tourist destinations in the Caribbean, St. Kitts and Nevis is vulnerable to damage from natural disasters and shifts in tourism demand. ++  ++ Following the 2005 harvest, the government closed the sugar industry after several decades of losses. To compensate for lost jobs, the government has embarked on a program to diversify the agricultural sector and to stimulate other sectors of the economy, such as export-oriented manufacturing and offshore banking. The government has made notable progress in reducing its public debt, from 154% of GDP in 2011 to 83% in 2013, although it still faces one of the highest levels in the world, largely attributable to public enterprise losses."
     },
     "GDP (purchasing power parity)": {
-      "text": "$1.281 billion (2014 est.) ++ $1.208 billion (2013 est.) ++ $1.137 billion (2012 est.)",
+      "text": "$1.361 billion (2015 est.) ++ $1.297 billion (2014 est.) ++ $1.222 billion (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$852 million (2014 est.)"
+      "text": "$915 million (2015 est.)"
     },
     "GDP - real growth rate": {
-      "text": "6.1% (2014 est.) ++ 6.2% (2013 est.) ++ -0.9% (2012 est.)"
+      "text": "5% (2015 est.) ++ 6.1% (2014 est.) ++ 6.2% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$21,500 (2014 est.) ++ $20,200 (2013 est.) ++ $19,100 (2012 est.)",
+      "text": "$24,300 (2015 est.) ++ $23,600 (2014 est.) ++ $22,600 (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "Gross national saving": {
-      "text": "21.3% of GDP (2014 est.) ++ 21.2% of GDP (2013 est.) ++ 16.7% of GDP (2012 est.)"
+      "text": "12.8% of GDP (2015 est.) ++ 13.2% of GDP (2014 est.) ++ 13% of GDP (2013 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "73.5%"
+        "text": "59.4%"
       },
       "government consumption": {
-        "text": "10.9%"
+        "text": "20.4%"
       },
       "investment in fixed capital": {
-        "text": "29.3%"
+        "text": "29.4%"
       },
       "investment in inventories": {
-        "text": "-0.1%"
+        "text": "0.1%"
       },
       "exports of goods and services": {
-        "text": "29.1%"
+        "text": "34.8%"
       },
       "imports of goods and services": {
-        "text": "-42.7% ++  (2014 est.)"
+        "text": "-44.1% (2015 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "1.7%"
+        "text": "1.4%"
       },
       "industry": {
-        "text": "24.8%"
+        "text": "26.5%"
       },
       "services": {
-        "text": "73.5% (2014 est.)"
+        "text": "72.1% (2015 est.)"
       }
     },
     "Agriculture - products": {
@@ -473,7 +482,7 @@
       "text": "tourism, cotton, salt, copra, clothing, footwear, beverages"
     },
     "Industrial production growth rate": {
-      "text": "0.5% (2014 est.)"
+      "text": "10% (2015 est.)"
     },
     "Labor force": {
       "text": "18,170 (June 1995 est.)"
@@ -494,17 +503,17 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$296.3 million"
+        "text": "$370.4 million"
       },
       "expenditures": {
-        "text": "$259.3 million (2014 est.)"
+        "text": "$296.3 million (2015 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "34.8% of GDP (2014 est.)"
+      "text": "41.3% of GDP (2015 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "4.3% of GDP (2014 est.)"
+      "text": "8.3% of GDP (2015 est.)"
     },
     "Public debt": {
       "text": "83% of GDP (2013 est.) ++ 144% of GDP (2012 est.)"
@@ -513,55 +522,69 @@
       "text": "calendar year"
     },
     "Inflation rate (consumer prices)": {
-      "text": "0.8% (2014 est.) ++ 1% (2013 est.)"
+      "text": "-2.8% (2015 est.) ++ 0.7% (2014 est.)"
     },
     "Central bank discount rate": {
       "text": "6.5% (31 December 2009) ++ 6.5% (31 December 2008)"
     },
     "Commercial bank prime lending rate": {
-      "text": "9.28% (31 December 2014 est.) ++ 8.78% (31 December 2013 est.)"
+      "text": "9.3% (31 December 2015 est.) ++ 9.28% (31 December 2014 est.)"
     },
     "Stock of narrow money": {
-      "text": "$215.6 million (31 December 2014 est.) ++ $193 million (31 December 2013 est.)"
+      "text": "$231.2 million (31 December 2015 est.) ++ $215.6 million (31 December 2014 est.)"
     },
     "Stock of broad money": {
-      "text": "$1.094 billion (31 December 2014 est.) ++ $958.7 million (31 December 2013 est.)"
+      "text": "$964.8 million (31 December 2015 est.) ++ $1.094 billion (31 December 2014 est.)"
     },
     "Stock of domestic credit": {
-      "text": "$396.7 million (31 December 2014 est.) ++ $504.8 million (31 December 2013 est.)"
+      "text": "$740.7 million (31 December 2015 est.) ++ $691.5 million (31 December 2014 est.)"
     },
     "Market value of publicly traded shares": {
-      "text": "$598.4 million (31 December 2011) ++ $598.4 million (31 December 2011)"
+      "text": "$598.4 million (31 December 2011) ++ $598.4 million (31 December 2011) ++ $623.9 million (31 December 2010)"
     },
     "Current account balance": {
-      "text": "-$65 million (2014 est.) ++ -$52 million (2013 est.)"
+      "text": "-$112 million (2015 est.) ++ -$104 million (2014 est.)"
     },
     "Exports": {
-      "text": "$62.9 million (2014 est.) ++ $58.1 million (2013 est.)"
+      "text": "$61.3 million (2015 est.) ++ $62.9 million (2014 est.)"
     },
     "Exports - commodities": {
       "text": "machinery, food, electronics, beverages, tobacco"
     },
     "Exports - partners": {
-      "text": "US 49.9%, Canada 5.3%, Azerbaijan 4.8%, Bolivia 4.7%, Bangladesh 4.4% (2014)"
+      "text": "US 44.4%, Poland 14.6%, Bangladesh 10.1%, Azerbaijan 4.3% (2015)"
     },
     "Imports": {
-      "text": "$241.8 million (2014 est.) ++ $251.3 million (2013 est.)"
+      "text": "$240.3 million (2015 est.) ++ $241.8 million (2014 est.)"
     },
     "Imports - commodities": {
       "text": "machinery, manufactures, food, fuels"
     },
     "Imports - partners": {
-      "text": "US 39.3%, Trinidad and Tobago 17.8%, Germany 11.8%, China 4.3% (2014)"
+      "text": "US 37.7%, Trinidad and Tobago 22.7%, Barbados 4.4% (2015)"
     },
     "Debt - external": {
-      "text": "$156.1 million (31 December 2014 est.) ++ $158.8 million (31 December 2013 est.)"
+      "text": "$168.3 million (31 December 2015 est.) ++ $157.3 million (31 December 2014 est.)"
     },
     "Exchange rates": {
-      "text": "East Caribbean dollars (XCD) per US dollar - ++ 2.7 (2014 est.) ++ 2.7 (2013 est.) ++ 2.7 (2012 est.) ++ 2.7 (2011 est.) ++ 2.7 (2010 est.)"
+      "text": "East Caribbean dollars (XCD) per US dollar - ++ 2.7 (2015 est.) ++ 2.7 (2014 est.) ++ 2.7 (2013 est.) ++ 2.7 (2012 est.) ++ 2.7 (2011 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "5,232"
+      },
+      "electrification - total population": {
+        "text": "91%"
+      },
+      "electrification - urban areas": {
+        "text": "100%"
+      },
+      "electrification - rural areas": {
+        "text": "80% (2012)"
+      }
+    },
     "Electricity - production": {
       "text": "140 million kWh (2012 est.)"
     },
@@ -635,18 +658,18 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "19,100"
+        "text": "19,748"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "37 (2014 est.)"
+        "text": "38 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "76,600"
+        "text": "73,000"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "149 (2014 est.)"
+        "text": "141 (July 2015 est.)"
       }
     },
     "Telephone system": {
@@ -654,34 +677,31 @@
         "text": "good interisland and international connections"
       },
       "domestic": {
-        "text": "interisland links via Eastern Caribbean Fiber Optic cable; construction of enhanced wireless infrastructure launched in November 2004; fixed-line teledensity about 40 per 100 persons; mobile-cellular teledensity is roughly 170 per 100 persons"
+        "text": "interisland links via ECFS; construction of enhanced wireless infrastructure launched in November 2004; fixed-line teledensity about 40 per 100 persons; mobile-cellular teledensity is roughly 140 per 100 persons"
       },
       "international": {
-        "text": "country code - 1-869; connected internationally by the East Caribbean Fiber Optic System (ECFS) and Southern Caribbean fiber optic system (SCF) submarine cables (2010)"
+        "text": "country code - 1-869; connected internationally by the East ECFS and Southern Caribbean Fiber submarine cables (2015)"
       }
     },
     "Broadcast media": {
       "text": "the government operates a national TV network that broadcasts on 2 channels; cable subscription services provide access to local and international channels; the government operates a national radio network; a mix of government-owned and privately owned broadcasters operate roughly 15 radio stations (2007)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM 3, FM 8, shortwave 0 (2008)"
-    },
-    "Television broadcast stations": {
-      "text": "1 (plus 3 repeaters) (2003)"
     },
     "Internet country code": {
       "text": ".kn"
     },
     "Internet users": {
       "total": {
-        "text": "17,000"
+        "text": "39,000"
       },
       "percent of population": {
-        "text": "34.4% (2009)"
+        "text": "75.7% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "Civil aircraft registration country code prefix": {
+      "text": "V4 (2016)"
+    },
     "Airports": {
       "text": "2 (2013)"
     },
@@ -732,41 +752,17 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "Ministry of Foreign Affairs, National Security, Labour, Immigration, and Social Security: Royal Saint Kitts and Nevis Defense Force (includes Coast Guard), Royal Saint Kitts and Nevis Police Force (2013)"
     },
     "Military service age and obligation": {
       "text": "18 years of age for voluntary military service; no conscription (2012)"
-    },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "13,506"
-      },
-      "females age 16-49": {
-        "text": "13,089 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "10,742"
-      },
-      "females age 16-49": {
-        "text": "10,923 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "380"
-      },
-      "female": {
-        "text": "422 (2010 est.)"
-      }
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "joins other Caribbean states to counter Venezuela's claim that Aves Island sustains human habitation, a criterion under United Nations Convention on the Law of the Sea, which permits Venezuela to extend its Economic Exclusion Zone/continental shelf over a large portion of the eastern Caribbean Sea"
+      "text": "joins other Caribbean states to counter Venezuela's claim that Aves Island sustains human habitation, a criterion under UN Convention on the Law of the Sea, which permits Venezuela to extend its EEZ/continental shelf over a large portion of the eastern Caribbean Sea"
     },
     "Illicit drugs": {
       "text": "transshipment point for South American drugs destined for the US and Europe; some money-laundering activity"

@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "Discovered in 1493 by Christopher COLUMBUS who named it for his brother Bartolomeo, Saint Barthelemy was first settled by the French in 1648. In 1784, the French sold the island to Sweden, which renamed the largest town Gustavia, after the Swedish King GUSTAV III, and made it a free port; the island prospered as a trade and supply center during the colonial wars of the 18th century. France repurchased the island in 1877 and took control the following year. It was placed under the administration of Guadeloupe. Saint Barthelemy retained its free port status along with various Swedish appellations such as Swedish street and town names, and the three-crown symbol on the coat of arms. In 2003 the islanders voted to secede from Guadeloupe, and in 2007 the island became a French overseas collectivity."
+      "text": "Discovered in 1493 by Christopher COLUMBUS who named it for his brother Bartolomeo, Saint Barthelemy was first settled by the French in 1648. In 1784, the French sold the island to Sweden, which renamed the largest town Gustavia, after the Swedish King GUSTAV III, and made it a free port; the island prospered as a trade and supply center during the colonial wars of the 18th century. France repurchased the island in 1877 and took control the following year. It was placed under the administration of Guadeloupe. Saint Barthelemy retained its free port status along with various Swedish appellations such as Swedish street and town names, and the three-crown symbol on the coat of arms. In 2003 the islanders voted to secede from Guadeloupe, and in 2007 the island became a French overseas collectivity. In 2012, it became an overseas territory of the EU, allowing it to exert local control over the permanent and temporary immigration of foreign workers including non-French European citizens. "
     }
   },
   "Geography": {
@@ -15,7 +15,15 @@
       "text": "Central America and the Caribbean"
     },
     "Area": {
-      "text": "21 sq km"
+      "total": {
+        "text": "25 sq km"
+      },
+      "land": {
+        "text": "25 sq km"
+      },
+      "water": {
+        "text": "NEGL"
+      }
     },
     "Area - comparative": {
       "text": "less than one-eighth the size of Washington, DC"
@@ -29,22 +37,31 @@
     "Terrain": {
       "text": "hilly, almost completely surrounded by shallow-water reefs, with plentiful beaches"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Caribbean Ocean 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "NA"
       },
-      "highest point": {
-        "text": "Morne du Vitet 286 m"
+      "elevation extremes": {
+        "text": "lowest point: Caribbean Ocean 0 m ++ highest point: Morne du Vitet 286 m"
       }
     },
     "Natural resources": {
       "text": "few natural resources; beaches foster tourism"
     },
+    "Population - distribution": {
+      "text": "most of the populace concentrated in and around the capital of Gustavia, but scattered settlements exist around the island periphery"
+    },
     "Environment - current issues": {
-      "text": "with no natural rivers or streams, fresh water is in short supply, especially in summer, and provided by desalinization of sea water, collection of rain water, or imported via water tanker"
+      "text": "with no natural rivers or streams, fresh water is in short supply, especially in summer, and provided by desalination of sea water, collection of rain water, or imported via water tanker"
+    },
+    "Geography - note": {
+      "text": "a 1,200-hectare marine nature reserve, the Reserve Naturelle, is made up of five zones around the island that form a network to protect the island's coral reefs, seagrass, and endangered marine species"
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "7,209 (July 2016 est.)"
+    },
     "Ethnic groups": {
       "text": "white, Creole (mulatto), black, Guadeloupe Mestizo (French-East Asia)"
     },
@@ -54,39 +71,36 @@
     "Religions": {
       "text": "Roman Catholic, Protestant, Jehovah's Witnesses"
     },
-    "Population": {
-      "text": "7,237 (July 2015 est.)"
-    },
     "Age structure": {
       "0-14 years": {
-        "text": "17.36% (male 645/female 611)"
+        "text": "16.9% (male 626/female 592)"
       },
       "15-24 years": {
-        "text": "7.03% (male 269/female 240)"
+        "text": "7.09% (male 268/female 243)"
       },
       "25-54 years": {
-        "text": "45.32% (male 1,783/female 1,497)"
+        "text": "44.57% (male 1,748/female 1,465)"
       },
       "55-64 years": {
-        "text": "15.3% (male 602/female 505)"
+        "text": "15.52% (male 607/female 512)"
       },
       "65 years and over": {
-        "text": "14.99% (male 542/female 543) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "15.92% (male 575/female 573) (2016 est.)"
       }
     },
     "Median age": {
       "total": {
-        "text": "43 years"
+        "text": "43.6 years"
       },
       "male": {
-        "text": "43 years"
+        "text": "43.5 years"
       },
       "female": {
-        "text": "43 years (2015 est.)"
+        "text": "43.6 years (2016 est.)"
       }
+    },
+    "Population distribution": {
+      "text": "most of the populace concentrated in and around the capital of Gustavia, but scattered settlements exist around the island periphery"
     },
     "Sex ratio": {
       "at birth": {
@@ -96,7 +110,7 @@
         "text": "1.06 male(s)/female"
       },
       "15-24 years": {
-        "text": "1.12 male(s)/female"
+        "text": "1.1 male(s)/female"
       },
       "25-54 years": {
         "text": "1.19 male(s)/female"
@@ -108,7 +122,12 @@
         "text": "1 male(s)/female"
       },
       "total population": {
-        "text": "1.13 male(s)/female (2015 est.)"
+        "text": "1.13 male(s)/female (2016 est.)"
+      }
+    },
+    "Major infectious diseases": {
+      "note": {
+        "text": "active local transmission of Zika virus by Aedes species mosquitoes has been identified in this country (as of August 2016); it poses an important risk (a large number of cases possible) among US citizens if bitten by an infective mosquito; other less common ways to get Zika are through sex, via blood transfusion, or during pregnancy, in which the pregnant woman passes Zika virus to her fetus (2016)"
       }
     }
   },
@@ -128,6 +147,9 @@
       },
       "abbreviation": {
         "text": "Saint-Barth (French); St. Barts or St. Barths (English)"
+      },
+      "etymology": {
+        "text": "explorer Christopher COLUMBUS named the island in honor of his brother Bartolomeo's namesake saint in 1493"
       }
     },
     "Dependency status": {
@@ -151,10 +173,13 @@
       "text": "Fete de la Federation, 14 July (1789); note - local holiday is St. Barthelemy Day, 24 August (1572)"
     },
     "Constitution": {
-      "text": "4 October 1958 (French Constitution)"
+      "text": "a4 October 1958 (French Constitution)"
     },
     "Legal system": {
       "text": "French civil law"
+    },
+    "Citizenship": {
+      "text": "see France"
     },
     "Suffrage": {
       "text": "18 years of age, universal"
@@ -181,7 +206,7 @@
         "text": "unicameral Territorial Council (19 seats; members elected by absolute majority vote in the first round vote and proportional representation vote in the second round; members serve 5-year terms)"
       },
       "note": {
-        "text": "Saint Barthelemy holds one seat in the French Senate; elections last held on 28 September 2014 (next to be held not later than September 2017); results - percent of vote by party NA; seats by party UMP 1; Saint Barthelemy elects one seat to the French National Assembly; elections last held on 17 June 2012 (next to be held by June 2017); results - percent of vote by party NA; seats by party UMP 1"
+        "text": "Saint Barthelemy holds 1 seat in the French Senate; elections last held on 28 September 2014 (next to be held not later than September 2017); results - percent of vote by party NA; seats by party UMP 1; Saint Barthelemy elects 1 seat to the French National Assembly; elections last held on 17 June 2012 (next to be held by June 2017); results - percent of vote by party NA; seats by party UMP 1"
       },
       "elections": {
         "text": "last held on 18 March 2012 (next to be held in July 2017)"
@@ -191,10 +216,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Action-Equilibre-Transparence [Maxime DESOUCHES] ++ Ensemble pour Saint-Barthelemy [Benoit CHAUVIN] ++ Saint-Barth d'Abord! or SBA [Bruno MAGRAS] ++ Tous Unis pour Saint-Barthelemy [Karine MIOT-RICHARD]"
-    },
-    "Political pressure groups and leaders": {
-      "text": "Rotary Club"
+      "text": "All for Saint-Barth (Tous pour Saint-Barth) [Benoit CHAUVIN] ++ Saint-Barth First! (Saint-Barth d'Abord!) or SBA [Bruno MAGRAS]; affiliated with UMP ++ Saint-Barth in Motion (Saint-Barth en Mouvement) [Maxime DESOUCHES]"
     },
     "International organization participation": {
       "text": "UPU"
@@ -228,7 +250,7 @@
       "text": "The economy of Saint Barthelemy is based upon high-end tourism and duty-free luxury commerce, serving visitors primarily from North America. The luxury hotels and villas host 70,000 visitors each year with another 130,000 arriving by boat. The relative isolation and high cost of living inhibits mass tourism. The construction and public sectors also enjoy significant investment in support of tourism. With limited fresh water resources, all food must be imported, as must all energy resources and most manufactured goods. Employment is strong and attracts labor from Brazil and Portugal."
     },
     "Exchange rates": {
-      "text": "euros (EUR) per US dollar - ++ 0.7489 (2014 est.) ++ 0.7634 2013 est.) ++ 0.7752 (2012 est.) ++ 0.7185 (2011 est.) ++ 0.755 (2010 est.)"
+      "text": "euros (EUR) per US dollar - ++ 0.885 (2015 est.) ++ 0.7525 (2014 est.) ++ 0.7634 2013 est.) ++ 0.7752 (2012 est.) ++ 0.7185 (2011 est.)"
     }
   },
   "Communications": {
@@ -271,23 +293,7 @@
       "text": "nearest airport for international flights is Princess Juliana International Airport (SXM) located on Sint Maarten"
     }
   },
-  "Military": {
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "1,495"
-      },
-      "females age 16-49": {
-        "text": "1,263 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "23"
-      },
-      "female": {
-        "text": "21 (2010 est.)"
-      }
-    },
+  "Military and Security": {
     "Military - note": {
       "text": "defense is the responsibility of France"
     }

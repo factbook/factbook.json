@@ -50,12 +50,12 @@
     "Terrain": {
       "text": "hilly to mountainous with steep slopes; lowlands in north"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "South China Sea 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "NA"
       },
-      "highest point": {
-        "text": "Tai Mo Shan 958 m"
+      "elevation extremes": {
+        "text": "lowest point: South China Sea 0 m ++ highest point: Tai Mo Shan 958 m"
       }
     },
     "Natural resources": {
@@ -73,7 +73,7 @@
       }
     },
     "Irrigated land": {
-      "text": "NA; note - included in the total for China"
+      "text": "10 sq km (2012)"
     },
     "Natural hazards": {
       "text": "occasional typhoons"
@@ -91,6 +91,9 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "7,167,403 (July 2016 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "Chinese/Hong Konger"
@@ -108,27 +111,21 @@
     "Religions": {
       "text": "eclectic mixture of local religions 90%, Christian 10%"
     },
-    "Population": {
-      "text": "7,141,106 (July 2015 est.)"
-    },
     "Age structure": {
       "0-14 years": {
-        "text": "12.11% (male 458,458/female 406,506)"
+        "text": "12.12% (male 459,358/female 409,547)"
       },
       "15-24 years": {
-        "text": "11.13% (male 410,701/female 383,902)"
+        "text": "10.85% (male 404,490/female 372,873)"
       },
       "25-54 years": {
-        "text": "46.16% (male 1,408,524/female 1,887,927)"
+        "text": "45.34% (male 1,385,536/female 1,864,077)"
       },
       "55-64 years": {
-        "text": "15.26% (male 531,684/female 557,904)"
+        "text": "15.76% (male 548,929/female 580,913)"
       },
       "65 years and over": {
-        "text": "15.34% (male 516,255/female 579,245) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "15.93% (male 537,196/female 604,484) (2016 est.)"
       }
     },
     "Dependency ratios": {
@@ -147,26 +144,26 @@
     },
     "Median age": {
       "total": {
-        "text": "43.6 years"
+        "text": "44 years"
       },
       "male": {
-        "text": "43 years"
+        "text": "43.2 years"
       },
       "female": {
-        "text": "44 years (2015 est.)"
+        "text": "44.5 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "0.38% (2015 est.)"
+      "text": "0.35% (2016 est.)"
     },
     "Birth rate": {
-      "text": "9.23 births/1,000 population (2015 est.)"
+      "text": "9.1 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "7.07 deaths/1,000 population (2015 est.)"
+      "text": "7.2 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "1.68 migrant(s)/1,000 population (2015 est.)"
+      "text": "1.7 migrant(s)/1,000 population (2016 est.)"
     },
     "Urbanization": {
       "urban population": {
@@ -184,48 +181,51 @@
         "text": "1.12 male(s)/female"
       },
       "0-14 years": {
-        "text": "1.13 male(s)/female"
+        "text": "1.12 male(s)/female"
       },
       "15-24 years": {
-        "text": "1.07 male(s)/female"
+        "text": "1.08 male(s)/female"
       },
       "25-54 years": {
-        "text": "0.75 male(s)/female"
+        "text": "0.74 male(s)/female"
       },
       "55-64 years": {
-        "text": "0.95 male(s)/female"
+        "text": "0.94 male(s)/female"
       },
       "65 years and over": {
         "text": "0.89 male(s)/female"
       },
       "total population": {
-        "text": "0.87 male(s)/female (2015 est.)"
+        "text": "0.87 male(s)/female (2016 est.)"
       }
+    },
+    "Mother's mean age at first birth": {
+      "text": "29.8 (2008 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "2.73 deaths/1,000 live births"
+        "text": "2.7 deaths/1,000 live births"
       },
       "male": {
-        "text": "2.96 deaths/1,000 live births"
+        "text": "3 deaths/1,000 live births"
       },
       "female": {
-        "text": "2.46 deaths/1,000 live births (2015 est.)"
+        "text": "2.5 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "82.86 years"
+        "text": "82.9 years"
       },
       "male": {
-        "text": "80.24 years"
+        "text": "80.3 years"
       },
       "female": {
-        "text": "85.78 years (2015 est.)"
+        "text": "85.8 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "1.18 children born/woman (2015 est.)"
+      "text": "1.19 children born/woman (2016 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "79.5% (2007)"
@@ -237,7 +237,7 @@
       "text": "NA"
     },
     "Education expenditures": {
-      "text": "3.8% of GDP (2013)"
+      "text": "3.6% of GDP (2014)"
     },
     "School life expectancy (primary to tertiary education)": {
       "total": {
@@ -247,18 +247,18 @@
         "text": "16 years"
       },
       "female": {
-        "text": "16 years (2013)"
+        "text": "16 years (2014)"
       }
     },
     "Unemployment, youth ages 15-24": {
       "total": {
-        "text": "9.3%"
+        "text": "9.4%"
       },
       "male": {
-        "text": "10.9%"
+        "text": "11.3%"
       },
       "female": {
-        "text": "7.8% (2012 est.)"
+        "text": "7.8% (2013 est.)"
       }
     }
   },
@@ -278,13 +278,16 @@
       },
       "abbreviation": {
         "text": "HK"
+      },
+      "etymology": {
+        "text": "probably an imprecise phonetic rendering of the Cantonese name meaning \"fragrant harbor\""
       }
     },
     "Dependency status": {
       "text": "special administrative region of China"
     },
     "Government type": {
-      "text": "limited democracy"
+      "text": "presidential limited democracy; a special administrative region of the PRC"
     },
     "Administrative divisions": {
       "text": "none (special administrative region of China)"
@@ -296,13 +299,16 @@
       "text": "National Day (Anniversary of the Founding of the People's Republic of China), 1 October (1949); note - 1 July 1997 is celebrated as Hong Kong Special Administrative Region Establishment Day"
     },
     "Constitution": {
-      "text": "several previous (governance documents while under British authority); latest drafted April 1988 to February 1989, approved March 1990, effective 1 July 1997 (Basic Law of the Hong Kong Special Administrative Region of the People's Republic of China serves as the constitution); note - since 1990, China's National People's Congress has interpreted specific articles of the Basic Law (2015)"
+      "text": "several previous (governance documents while under British authority); latest drafted April 1988 to February 1989, approved March 1990, effective 1 July 1997 (Basic Law of the Hong Kong Special Administrative Region of the People's Republic of China serves as the constitution); note - since 1990, China's National People's Congress has interpreted specific articles of the Basic Law (2016)"
     },
     "Legal system": {
       "text": "mixed legal system of common law based on the English model and Chinese customary law (in matters of family and land tenure)"
     },
+    "Citizenship": {
+      "text": "see China"
+    },
     "Suffrage": {
-      "text": "18 years of age in direct elections for half the legislature and a majority of seats in 18 district councils; universal for permanent residents living in the territory of Hong Kong for the past seven years; note - in indirect elections, suffrage is limited to about 220,000 members of functional constituencies for the other half of the legislature and a 1,200-member election committee for the chief executive drawn from broad sectoral groupings, central government bodies, municipal organizations, and elected Hong Kong officials"
+      "text": "18 years of age in direct elections for half of the Legislative Council seats and all of the seats in 18 district councils; universal for permanent residents living in the territory of Hong Kong for the past 7 years; note - in indirect elections, suffrage is limited to about 220,000 members of functional constituencies for the other half of the legislature and a 1,200-member election committee for the chief executive drawn from broad sectoral groupings, central government bodies, municipal organizations, and elected Hong Kong officials"
     },
     "Executive branch": {
       "chief of state": {
@@ -315,7 +321,7 @@
         "text": "Executive Council or ExCo appointed by the chief executive"
       },
       "elections/appointments": {
-        "text": "president indirectly elected by National People's Congress for a 5-year term (eligible for a second term); election last held on 5-17 March 2013 (next to be held in March 2018); chief executive indirectly elected by the Election Committee and appointed by the Central People's Government for a 5-year term (eligible for a second term) ; LEUNG Chun-ying [C.Y.LEUNG] elected chief executive on 25 March 2012 and took office on 1 July 2012 (next to be held in March 2017)"
+        "text": "president indirectly elected by National People's Congress for a 5-year term (eligible for a second term); election last held on 5-17 March 2013 (next to be held in March 2018); chief executive indirectly elected by the Election Committee and appointed by the Central People's Government for a 5-year term (eligible for a second term); LEUNG Chun-ying [C.Y.LEUNG] elected chief executive on 25 March 2012 and took office on 1 July 2012 (next to be held in March 2017)"
       },
       "election results": {
         "text": "LEUNG Chun-ying elected chief executive; Election Committee vote - LEUNG Chun-ying 689, Henry TANG 285, Albert HO 76"
@@ -326,18 +332,18 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "unicameral Legislative Council or LegCo (70 seats; members directly elected in single- and multi-seat constituencies by several majority vote methods based on the rules of the individual constituencies; members serve 4-year terms)"
+        "text": "unicameral Legislative Council or LegCo (70 seats; 35 members directly elected in multi-seat constituencies by party-list proportional representation vote; 30 members indirectly elected by the approximately 220,000 members of various functional constituencies based on a variety of methods; five at large “super-seat” members directed elected by all of Hong Kong’s eligible voters who do not participate in a functional constituency; members serve 4-year terms)"
       },
       "elections": {
-        "text": "last held on 9 September 2012 (next to be held in September 2016)"
+        "text": "last held on 4 September 2016; (next general election to be in September 2020)"
       },
       "election results": {
-        "text": "percent of vote by block - pro-democracy 56.2%; pro-Beijing 42.7%, independent 3.2%; seats by block/party - pro-Beijing 43 (DAB 13, BPA 7, FTU 6, Liberal Party 5, NPP 2, other 10); pro-democracy 27 (Democratic Party 6, Civic Party 6, Labor Party 4, PP 3, Professional Commons 2, LSD 1, ADPL 1, PTU 1, Neo Democrats 1, NWSC 1); independent 2"
+        "text": "percent of vote by block - pro-democracy 58.0%; pro-Beijing 42.0%; seats by block/party - pro-Beijing 40 (DAB 12, BPA 7, FTU 5, Liberal Party 4, NPP 3, other 9); pro-democracy 30 (Democratic Party 7, Civic Party 6, PP-LSD 2, ALLinHK 2, Professional Commons 2, CP-PPI-HKRO 1, Labor, 1, Demosisto 1, Democracy Groundwork 1, NWSC 1, PTU 1, independent democrats 5)"
       }
     },
     "Judicial branch": {
       "highest court(s)": {
-        "text": "Court of Final Appeal (consists of the chief justice, 3 permanent judges and 20 non-permanent judges); note -  a sitting bench consists of the chief justice and 3 permanent  and 1 non-permanent judges"
+        "text": "Court of Final Appeal (consists of the chief justice, 3 permanent judges and 20 non-permanent judges); note - a sitting bench consists of the chief justice and 3 permanent and 1 non-permanent judges"
       },
       "judge selection and term of office": {
         "text": "all judges appointed by the Hong Kong Chief Executive upon the recommendation of the Judicial Officers Recommendation Commission, an independent body consisting of the Secretary for Justice and other judges, judicial and legal professionals; permanent judges appointed until normal retirement at age 65, but can be extended; non-permanent judges appointed for renewable 3-year terms without age limit"
@@ -348,17 +354,17 @@
     },
     "Political parties and leaders": {
       "parties": {
-        "text": " ++ Association for Democracy and People's Livelihood or ADPL [Bruce LIU Sing-lee] ++ Business and Professional Alliance or BPA [Andrew LEUNG Kwan-yuen] ++ Civic Party [Audrey EU] ++ Democratic Alliance for the Betterment and Progress of Hong Kong or DAB [Starry LEE Wai-king] ++ Democratic Party [Emily LAU] ++ Federation of Trade Unions or FTU [Stanley NG Chau-pei] ++ Labor Party [LEE Cheuk-yan] ++ League of Social Democrats or LSD [LEUNG Kwok-hung] ++ Liberal Party [Felix CHUNG Kwok-pan] ++ Neighborhood and Workers Service Center or NWSC [LEUNG Yui-chung] ++ Neo Democrats [collective leadership] ++ New People's Party or NPP [Regina IP Lau Su-yee] ++ People Power or PP [Erica YUEN Mi-ming] ++ Professional Commons (think tank) [Charles Peter MOK] ++ Professional Teachers Union or PTU"
+        "text": " ++ ALLinHK (alliance of 6 localist groups) ++ Business and Professional Alliance or BPA [Andrew LEUNG Kwan-yuen] ++ Civic Party [Audrey EU] ++ Civic Passion or CP [CHENG Chung-tai] (part of Civic Passion-Proletariat Political Institute-Hong Kong Resurgence Order alliance or CP-PPI-HKRO that dissolved after the 2016 election) ++ Democracy Groundwork [LAU Siu-lai] ++ Democratic Alliance for the Betterment and Progress of Hong Kong or DAB [Starry LEE Wai-king] ++ Democratic Party [Emily LAU] ++ Demosisto [Nathan LAW] ++ Federation of Trade Unions or FTU [Stanley NG Chau-pei] ++ Labor Party [Suzanne WU Shui-shan] ++ League of Social Democrats or LSD [Avery NG Man-yuen] ++ Liberal Party [Felix CHUNG Kwok-pan] ++ Neighborhood and Workers Service Center or NWSC [LEUNG Yui-chung] ++ New People's Party or NPP [Regina IP Lau Su-yee] ++ People Power or PP [Erica YUEN Mi-ming]"
       },
       "others": {
-        "text": " ++ Confederation of Trade Unions or CTU [LEE Cheuk-yan]"
+        "text": " ++ Professional Commons (think tank) [Charles Peter MOK] ++ Professional Teachers Union or PTU"
       },
       "note": {
-        "text": "political blocks include: pro-democracy - ADPL, Civic Party, Democratic Party, Labor Party, LSD, PP, Professional Commons; pro-Beijing - DAB, FTU, Liberal Party, NPP, BPA; there is no political party ordinance, so there are no registered political parties; politically active groups register as societies or companies"
+        "text": "political blocks include: pro-democracy - ALLinHK, Civic Party, Civic Passion, Democracy Groundwork, Democratic Party, Demosisto, Labor Party, LSD, PP, Professional Commons; pro-Beijing - DAB, FTU, Liberal Party, NPP, BPA; there is no political party ordinance, so there are no registered political parties; politically active groups register as societies or companies"
       }
     },
     "Political pressure groups and leaders": {
-      "text": "Chinese General Chamber of Commerce (pro-China) ++ Chinese Manufacturers' Association of Hong Kong ++ Civic Act-up [Cyd HO Sau-lan, Legislative Council of Hong Kong member] (pro-democracy) ++ Federation of Hong Kong Industries ++ Hong Kong Alliance in Support of the Patriotic Democratic Movement in China [LEE Cheuk-yan, chairman] ++ Hong Kong and Kowloon Trade Union Council (pro-Taiwan) ++ Hong Kong General Chamber of Commerce ++ Hong Kong Professional Teachers' Union [FUNG Wai-wah, president]"
+      "text": "Chinese General Chamber of Commerce (pro-China) ++ Chinese Manufacturers' Association of Hong Kong ++ Civic Act-up [Cyd HO Sau-lan, Legislative Council of Hong Kong member] (pro-democracy) ++ Federation of Hong Kong Industries ++ Hong Kong Alliance in Support of the Patriotic Democratic Movement in China [Albert HO, chairman] ++ Hong Kong and Kowloon Trade Union Council (pro-Taiwan) ++ Hong Kong General Chamber of Commerce ++ Hong Kong Professional Teachers' Union [FUNG Wai-wah, president]"
     },
     "International organization participation": {
       "text": "ADB, APEC, BIS, FATF, ICC (national committees), IHO, IMF, IMO (associate), Interpol (subbureau), IOC, ISO (correspondent), ITUC (NGOs), UNWTO (associate), UPU, WCO, WMO, WTO"
@@ -412,47 +418,47 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Hong Kong has a free market economy, highly dependent on international trade and finance - the value of goods and services trade, including the sizable share of re-exports, is about four times GDP. Hong Kong has no tariffs on imported goods, and it levies excise duties on only four commodities, whether imported or produced locally: hard alcohol, tobacco, hydrocarbon oil, and methyl alcohol. There are no quotas or dumping laws. Hong Kong's open economy left it exposed to the global economic slowdown that began in 2008. Although increasing integration with China, through trade, tourism, and financial links, helped it to make an initial recovery more quickly than many observers anticipated, its continued reliance on foreign trade and investment leaves it vulnerable to renewed global financial market volatility or a slowdown in the global economy. The Hong Kong government is promoting the Special Administrative Region (SAR) as the site for Chinese renminbi (RMB) internationalization. Hong Kong residents are allowed to establish RMB-denominated savings accounts; RMB-denominated corporate and Chinese government bonds have been issued in Hong Kong; and RMB trade settlement is allowed. The territory far exceeded the RMB conversion quota set by Beijing for trade settlements in 2010 due to the growth of earnings from exports to the mainland. RMB deposits grew to roughly 12.5% of total system deposits in Hong Kong by the end of 2014. The government is pursuing efforts to introduce additional use of RMB in Hong Kong financial markets and is seeking to expand the RMB quota. The mainland has long been Hong Kong's largest trading partner, accounting for about half of Hong Kong's total trade by value. Hong Kong's natural resources are limited, and food and raw materials must be imported. As a result of China's easing of travel restrictions, the number of mainland tourists to the territory has surged from 4.5 million in 2001 to 47.3 million in 2014, outnumbering visitors from all other countries combined. Hong Kong has also established itself as the premier stock market for Chinese firms seeking to list abroad. In 2014 mainland Chinese companies constituted about 50% of the firms listed on the Hong Kong Stock Exchange and accounted for about 60.1% of the Exchange's market capitalization. During the past decade, as Hong Kong's manufacturing industry moved to the mainland, its service industry has grown rapidly. Credit expansion and tight housing supply conditions have caused Hong Kong property prices to rise rapidly; consumer prices increased by more than 4.4% in 2014. Lower and middle income segments of the population are increasingly unable to afford adequate housing. Hong Kong continues to link its currency closely to the US dollar, maintaining an arrangement established in 1983. In 2014, Hong Kong and China signed a new agreement on achieving basic liberalization of trade in services in Guangdong Province under the Closer Economic Partnership Agreement, adopted in 2003 to forge closer ties between Hong Kong and the mainland. The new measures, effective from March 2015, cover a negative list and a most-favored treatment provision, and will improve access to the mainland's service sector for Hong Kong-based companies."
+      "text": "Hong Kong has a free market economy, highly dependent on international trade and finance - the value of goods and services trade, including the sizable share of re-exports, is about four times GDP. Hong Kong has no tariffs on imported goods, and it levies excise duties on only four commodities, whether imported or produced locally: hard alcohol, tobacco, hydrocarbon oil, and methyl alcohol. There are no quotas or dumping laws. Hong Kong continues to link its currency closely to the US dollar, maintaining an arrangement established in 1983. ++  ++ Hong Kong's open economy left it exposed to the global economic slowdown that began in 2008. Although increasing integration with China through trade, tourism, and financial links helped it to make an initial recovery more quickly than many observers anticipated, its continued reliance on foreign trade and investment leaves it vulnerable to renewed global financial market volatility or a slowdown in the global economy. ++  ++ The Hong Kong Government is promoting the Special Administrative Region (SAR) as the site for Chinese renminbi (RMB) internationalization. Hong Kong residents are allowed to establish RMB-denominated savings accounts; RMB-denominated corporate and Chinese government bonds have been issued in Hong Kong; and RMB trade settlement is allowed. The territory far exceeded the RMB conversion quota set by Beijing for trade settlements in 2010 due to the growth of earnings from exports to the mainland. RMB deposits grew to roughly 9.4% of total system deposits in Hong Kong by the end of 2015. The government is pursuing efforts to introduce additional use of RMB in Hong Kong financial markets and is seeking to expand the RMB quota. ++  ++ The mainland has long been Hong Kong's largest trading partner, accounting for about half of Hong Kong's total trade by value. Hong Kong's natural resources are limited, and food and raw materials must be imported. As a result of China's easing of travel restrictions, the number of mainland tourists to the territory has surged from 4.5 million in 2001 to 47.3 million in 2014, outnumbering visitors from all other countries combined. Mainland visitors to Hong Kong declined 3% in 2015 to approximately 45.7 million, reflecting an overall drop of 2.5% in total visitors to Hong Kong. Hong Kong has also established itself as the premier stock market for Chinese firms seeking to list abroad. In 2015, mainland Chinese companies constituted about 51% of the firms listed on the Hong Kong Stock Exchange and accounted for about 62.1% of the Exchange's market capitalization. During the past decade, as Hong Kong's manufacturing industry moved to the mainland, its service industry has grown rapidly. In 2014, Hong Kong and China signed a new agreement on achieving basic liberalization of trade in services in Guangdong Province under the Closer Economic Partnership Agreement, adopted in 2003 to forge closer ties between Hong Kong and the mainland. The new measures, effective from March 2015, cover a negative list and a most-favored treatment provision, and will improve access to the mainland's service sector for Hong Kong-based companies. ++  ++ Credit expansion and a tight housing supply have caused Hong Kong property prices to rise rapidly; consumer prices increased 4.4% in 2014, but slowed to 2.9% in 2015. Lower- and middle-income segments of the population are increasingly unable to afford adequate housing. ++  ++ Hong Kong’s economic integration with the mainland continues to be most evident in the banking and finance sector. Initiatives like the Hong Kong-Shanghai Stock Connect, the Mutual Recognition of Funds, and The Hong Kong Shanghai Gold Connect are all important steps towards opening up the Mainland’s capital markets and has reinforced Hong Kong’s leading role as China’s offshore RMB market. Additional connect schemes from bonds to commodities and other investment products are also under exploration by Hong Kong authorities."
     },
     "GDP (purchasing power parity)": {
-      "text": "$400.4 billion (2014 est.) ++ $390.6 billion (2013 est.) ++ $379 billion (2012 est.)",
+      "text": "$415.9 billion (2015 est.) ++ $406 billion (2014 est.) ++ $395.4 billion (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$290.9 billion (2014 est.)"
+      "text": "$309.2 billion (2015 est.)"
     },
     "GDP - real growth rate": {
-      "text": "2.5% (2014 est.) ++ 3.1% (2013 est.) ++ 1.7% (2012 est.)"
+      "text": "2.4% (2015 est.) ++ 2.7% (2014 est.) ++ 3.1% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$55,100 (2014 est.) ++ $53,800 (2013 est.) ++ $52,200 (2012 est.)",
+      "text": "$56,900 (2015 est.) ++ $55,900 (2014 est.) ++ $54,700 (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "Gross national saving": {
-      "text": "25.9% of GDP (2014 est.) ++ 25.5% of GDP (2013 est.) ++ 26.8% of GDP (2012 est.)"
+      "text": "24.8% of GDP (2015 est.) ++ 25.1% of GDP (2014 est.) ++ 25.5% of GDP (2013 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "66.4%"
+        "text": "66.3%"
       },
       "government consumption": {
-        "text": "9.5%"
+        "text": "9.7%"
       },
       "investment in fixed capital": {
-        "text": "23.7%"
+        "text": "22.7%"
       },
       "investment in inventories": {
-        "text": "0.3%"
+        "text": "-1%"
       },
       "exports of goods and services": {
-        "text": "219.6%"
+        "text": "201.6%"
       },
       "imports of goods and services": {
-        "text": "-219.6% ++  (2014 est.)"
+        "text": "-199.3% (2015 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
@@ -460,10 +466,10 @@
         "text": "0.1%"
       },
       "industry": {
-        "text": "7.3%"
+        "text": "7.1%"
       },
       "services": {
-        "text": "92.7% (2014 est.)"
+        "text": "92.8% (2015 est.)"
       }
     },
     "Agriculture - products": {
@@ -473,10 +479,10 @@
       "text": "textiles, clothing, tourism, banking, shipping, electronics, plastics, toys, watches, clocks"
     },
     "Industrial production growth rate": {
-      "text": "5.2% (2014 est.)"
+      "text": "1% (2015 est.)"
     },
     "Labor force": {
-      "text": "3.872 million (2014 est.)"
+      "text": "3.926 million (2015 est.)"
     },
     "Labor force - by occupation": {
       "manufacturing": {
@@ -502,7 +508,7 @@
       }
     },
     "Unemployment rate": {
-      "text": "3.2% (2014 est.) ++ 3.4% (2013 est.)"
+      "text": "3.3% (2015 est.) ++ 3.2% (2014 est.)"
     },
     "Population below poverty line": {
       "text": "19.6% (2012 est.)"
@@ -520,83 +526,88 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$62.02 billion"
+        "text": "$66.06 billion"
       },
       "expenditures": {
-        "text": "$59.79 billion (2014 est.)"
+        "text": "$56.47 billion (2015 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "21.3% of GDP (2014 est.)"
+      "text": "21.3% of GDP (2015 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "0.8% of GDP (2014 est.)"
+      "text": "3.1% of GDP (2015 est.)"
     },
     "Public debt": {
-      "text": "39.5% of GDP (2014 est.) ++ 41.3% of GDP (2013 est.)"
+      "text": "37% of GDP (2015 est.) ++ 39.5% of GDP (2014 est.)"
     },
     "Fiscal year": {
       "text": "1 April - 31 March"
     },
     "Inflation rate (consumer prices)": {
-      "text": "4.4% (2014 est.) ++ 4.3% (2013 est.)"
+      "text": "3% (2015 est.) ++ 4.4% (2014 est.)"
     },
     "Central bank discount rate": {
       "text": "0.5% (31 December 2013) ++ 0.5% (31 December 2012)"
     },
     "Commercial bank prime lending rate": {
-      "text": "5% (31 December 2014 est.) ++ 5% (31 December 2013 est.)"
+      "text": "5% (31 December 2015 est.) ++ 5% (31 December 2014 est.)"
     },
     "Stock of narrow money": {
-      "text": "$220.3 billion (31 December 2014 est.) ++ $194.9 billion (31 December 2013 est.)"
+      "text": "$254.3 billion (31 December 2015 est.) ++ $220.3 billion (31 December 2014 est.)"
     },
     "Stock of broad money": {
-      "text": "$1.42 trillion (31 December 2014 est.) ++ $1.297 trillion (31 December 2013 est.)"
+      "text": "$1.576 trillion (31 December 2015 est.) ++ $1.42 trillion (31 December 2014 est.)"
     },
     "Stock of domestic credit": {
-      "text": "$827.9 billion (31 December 2013 est.) ++ $714 billion (31 December 2012 est.)"
+      "text": "$655.7 billion (31 December 2015 est.) ++ $687.7 billion (31 December 2014 est.)"
     },
     "Market value of publicly traded shares": {
-      "text": "$3.082 trillion (31 December 2013 est.) ++ $2.814 trillion (31 December 2012) ++ $2.248 trillion (31 December 2011 est.)"
+      "text": "$3.185 trillion (31 December 2015 est.) ++ $3.233 trillion (31 December 2014 est.) ++ $3.101 trillion (31 December 2013 est.)"
     },
     "Current account balance": {
-      "text": "$5.439 billion (2014 est.) ++ $4.149 billion (2013 est.)"
+      "text": "$9.631 billion (2015 est.) ++ $3.787 billion (2014 est.)"
     },
     "Exports": {
-      "text": "$519.3 billion (2014 est.) ++ $506.2 billion (2013 est.)"
+      "text": "$505.7 billion (2015 est.) ++ $515.7 billion (2014 est.)"
     },
     "Exports - commodities": {
       "text": "electrical machinery and appliances, textiles, apparel, footwear, watches and clocks, toys, plastics, precious stones, printed material"
     },
     "Exports - partners": {
-      "text": "China 53.9%, US 9.3% (2014)"
+      "text": "China 53.7%, US 9.5% (2015)"
     },
     "Imports": {
-      "text": "$549.5 billion (2014 est.) ++ $534.1 billion (2013 est.)"
+      "text": "$528.5 billion (2015 est.) ++ $548.1 billion (2014 est.)"
     },
     "Imports - commodities": {
       "text": "raw materials and semi-manufactures, consumer goods, capital goods, foodstuffs, fuel (most is reexported)"
     },
     "Imports - partners": {
-      "text": "China 47.1%, Japan 6.9%, Singapore 6.2%, US 5.2%, South Korea 4.2% (2014)"
+      "text": "China 49%, Japan 6.4%, Singapore 6.1%, US 5.2%, South Korea 4.3% (2015)"
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$328.5 billion (31 December 2014 est.) ++ $311.2 billion (31 December 2013 est.)"
+      "text": "$358.8 billion (31 December 2015 est.) ++ $328.5 billion (31 December 2014 est.)"
     },
     "Debt - external": {
-      "text": "$328.5 billion (31 December 2014 est.) ++ $311.2 billion (31 December 2013 est.)"
+      "text": "$491.9 billion (31 December 2015 est.) ++ $460.9 billion (31 December 2014 est.)"
     },
     "Stock of direct foreign investment - at home": {
-      "text": "$1.686 trillion (31 December 2014 est.) ++ $1.463 trillion (31 December 2013 est.)"
+      "text": "$1.744 trillion (31 December 2015 est.) ++ $1.639 trillion (31 December 2014 est.)"
     },
     "Stock of direct foreign investment - abroad": {
-      "text": "$1.597 trillion (31 December 2014 est.) ++ $1.352 trillion (31 December 2013 est.)"
+      "text": "$1.657 trillion (31 December 2015 est.) ++ $1.594 trillion (31 December 2014 est.)"
     },
     "Exchange rates": {
-      "text": "Hong Kong dollars (HKD) per US dollar - ++ 7.7541 (2014 est.) ++ 7.754 (2013 est.) ++ 7.756 (2012 est.) ++ 7.784 (2011 est.) ++ 7.77 (2010 est.)"
+      "text": "Hong Kong dollars (HKD) per US dollar - ++ 7.7524 (2015 est.) ++ 7.755 (2014 est.) ++ 7.754 (2013 est.) ++ 7.756 (2012 est.) ++ 7.784 (2011 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
+    },
     "Electricity - production": {
       "text": "39.97 billion kWh (2013 est.)"
     },
@@ -670,18 +681,18 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "4.43 million"
+        "text": "4,327,286"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "62 (2014 est.)"
+        "text": "61 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "17.4 million"
+        "text": "16.736 million"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "244 (2014 est.)"
+        "text": "234 (July 2015 est.)"
       }
     },
     "Telephone system": {
@@ -692,31 +703,42 @@
         "text": "microwave radio relay links and extensive fiber-optic network"
       },
       "international": {
-        "text": "country code - 852; multiple international submarine cables provide connections to Asia, US, Australia, the Middle East, and Western Europe; satellite earth stations - 3 Intelsat (1 Pacific Ocean and 2 Indian Ocean); coaxial cable to Guangzhou, China (2012)"
+        "text": "country code - 852; multiple international submarine cables provide connections to Asia, US, Australia, the Middle East, and Western Europe; satellite earth stations - 3 Intelsat (1 Pacific Ocean and 2 Indian Ocean); coaxial cable to Guangzhou, China (2015)"
       }
     },
     "Broadcast media": {
       "text": "2 commercial terrestrial TV networks each with multiple stations; multi-channel satellite and cable TV systems available; 3 radio networks, one of which is government funded, operate about 15 radio stations (2012)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM 6, FM 10, shortwave 0 (2009)"
-    },
-    "Television broadcast stations": {
-      "text": "2 (2 TV networks, each broadcasting on 2 channels) (2009)"
     },
     "Internet country code": {
       "text": ".hk"
     },
     "Internet users": {
       "total": {
-        "text": "5.6 million"
+        "text": "6.066 million"
       },
       "percent of population": {
-        "text": "79.2% (2014 est.)"
+        "text": "85% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "7 (registered in China)"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "253 (registered in China)"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "41,867,157"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "11.294 billion mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "B-H (2016)"
+    },
     "Airports": {
       "text": "2 (2013)"
     },
@@ -736,10 +758,10 @@
     },
     "Roadways": {
       "total": {
-        "text": "2,099 km"
+        "text": "2,100 km"
       },
       "paved": {
-        "text": "2,099 km (2014)"
+        "text": "2,100 km (2015)"
       }
     },
     "Merchant marine": {
@@ -762,33 +784,9 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "no regular indigenous military forces; Hong Kong garrison of China's People's Liberation Army (PLA) includes elements of the PLA Ground Forces, PLA Navy, and PLA Air Force; these forces are under the direct leadership of the Central Military Commission in Beijing and under administrative control of the adjacent Guangzhou Military Region (2012)"
-    },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "1,704,090"
-      },
-      "females age 16-49": {
-        "text": "1,873,175 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "1,387,213"
-      },
-      "females age 16-49": {
-        "text": "1,505,875 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "39,579"
-      },
-      "female": {
-        "text": "36,554 (2010 est.)"
-      }
     },
     "Military - note": {
       "text": "defense is the responsibility of China"
@@ -797,6 +795,11 @@
   "Transnational Issues": {
     "Disputes - international": {
       "text": "Hong Kong plans to reduce its 2,800-hectare Frontier Closed Area (FCA) to 400 hectares by 2015; the FCA was established in 1951 as a buffer zone between Hong Kong and mainland China to prevent illegal migration from and the smuggling of goods"
+    },
+    "Refugees and internally displaced persons": {
+      "stateless persons": {
+        "text": "1 (2015)"
+      }
     },
     "Illicit drugs": {
       "text": "despite strenuous law enforcement efforts, faces difficult challenges in controlling transit of heroin and methamphetamine to regional and world markets; modern banking system provides conduit for money laundering; rising indigenous use of synthetic drugs, especially among young people"

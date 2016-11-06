@@ -51,12 +51,12 @@
     "Terrain": {
       "text": "mostly flat islands with limestone bedrock formed from uplifted coral formation; others have limestone overlying volcanic rock"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Pacific Ocean 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "NA"
       },
-      "highest point": {
-        "text": "unnamed elevation on Kao Island 1,033 m"
+      "elevation extremes": {
+        "text": "lowest point: Pacific Ocean 0 m ++ highest point: unnamed elevation on Kao Island 1,033 m"
       }
     },
     "Natural resources": {
@@ -74,7 +74,7 @@
       }
     },
     "Irrigated land": {
-      "text": "NA"
+      "text": "0 sq km (2012)"
     },
     "Natural hazards": {
       "text": "cyclones (October to April); earthquakes and volcanic activity on Fonuafo'ou",
@@ -98,6 +98,9 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "106,513 (July 2016 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "Tongan(s)"
@@ -113,29 +116,23 @@
       "text": "English and Tongan 87%, Tongan (official) 10.7%, English (official) 1.2%, other 1.1%, unspecified 0.03% (2006 est.)"
     },
     "Religions": {
-      "text": "Protestant 64.9% (includes Free Wesleyan Church 37.3%, Free Church of Tonga 11.4%, Church of Tonga 7.2%, Tokaikolo Christian Church 2.6%, Assembly of God 2.3% Seventh Day Adventist 2.2%, Constitutional Church of Tonga .9%, Anglican .8% and Full Gospel Church .2%), Mormon 16.8%, Roman Catholic 15.6%, other 1.1%, none 0.03%, unspecified 1.7% (2006 est.)"
-    },
-    "Population": {
-      "text": "106,501 (July 2015 est.)"
+      "text": "Protestant 64.9% (includes Free Wesleyan Church 37.3%, Free Church of Tonga 11.4%, Church of Tonga 7.2%, Tokaikolo Christian Church 2.6%, Assembly of God 2.3%, Seventh Day Adventist 2.2%, Constitutional Church of Tonga 0.9%, Anglican 0.8% and Full Gospel Church 0.2%), Mormon 16.8%, Roman Catholic 15.6%, other 1.1%, none 0.03%, unspecified 1.7% (2006 est.)"
     },
     "Age structure": {
       "0-14 years": {
-        "text": "35.06% (male 18,971/female 18,370)"
+        "text": "34.47% (male 18,656/female 18,061)"
       },
       "15-24 years": {
-        "text": "19.44% (male 10,605/female 10,103)"
+        "text": "19.57% (male 10,671/female 10,169)"
       },
       "25-54 years": {
-        "text": "33.6% (male 17,880/female 17,901)"
+        "text": "33.92% (male 18,045/female 18,080)"
       },
       "55-64 years": {
-        "text": "5.61% (male 2,924/female 3,047)"
+        "text": "5.7% (male 3,000/female 3,072)"
       },
       "65 years and over": {
-        "text": "6.29% (male 3,050/female 3,650) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "6.35% (male 3,064/female 3,695) (2016 est.)"
       }
     },
     "Dependency ratios": {
@@ -154,26 +151,26 @@
     },
     "Median age": {
       "total": {
-        "text": "22.3 years"
+        "text": "22.6 years"
       },
       "male": {
-        "text": "21.9 years"
+        "text": "22.2 years"
       },
       "female": {
-        "text": "22.8 years (2015 est.)"
+        "text": "23.1 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "0.03% (2015 est.)"
+      "text": "-0.01% (2016 est.)"
     },
     "Birth rate": {
-      "text": "23 births/1,000 population (2015 est.)"
+      "text": "22.6 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "4.85 deaths/1,000 population (2015 est.)"
+      "text": "4.9 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "-17.84 migrant(s)/1,000 population (2015 est.)"
+      "text": "-17.8 migrant(s)/1,000 population (2016 est.)"
     },
     "Urbanization": {
       "urban population": {
@@ -200,13 +197,19 @@
         "text": "1 male(s)/female"
       },
       "55-64 years": {
-        "text": "0.96 male(s)/female"
+        "text": "0.98 male(s)/female"
       },
       "65 years and over": {
         "text": "0.84 male(s)/female"
       },
       "total population": {
-        "text": "1.01 male(s)/female (2015 est.)"
+        "text": "1.01 male(s)/female (2016 est.)"
+      }
+    },
+    "Mother's mean age at first birth": {
+      "text": "24.9",
+      "note": {
+        "text": "median age at first birth among women 25-49 (2012 est.)"
       }
     },
     "Maternal mortality rate": {
@@ -214,31 +217,31 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "11.96 deaths/1,000 live births"
+        "text": "11.6 deaths/1,000 live births"
       },
       "male": {
-        "text": "12.38 deaths/1,000 live births"
+        "text": "12 deaths/1,000 live births"
       },
       "female": {
-        "text": "11.53 deaths/1,000 live births (2015 est.)"
+        "text": "11.2 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "76.04 years"
+        "text": "76.2 years"
       },
       "male": {
-        "text": "74.53 years"
+        "text": "74.7 years"
       },
       "female": {
-        "text": "77.59 years (2015 est.)"
+        "text": "77.8 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "3.26 children born/woman (2015 est.)"
+      "text": "3.18 children born/woman (2016 est.)"
     },
     "Health expenditures": {
-      "text": "4.7% of GDP (2013)"
+      "text": "5.2% of GDP (2014)"
     },
     "Physicians density": {
       "text": "0.56 physicians/1,000 population (2010)"
@@ -271,8 +274,16 @@
     "HIV/AIDS - deaths": {
       "text": "NA"
     },
+    "Major infectious diseases": {
+      "note": {
+        "text": "active local transmission of Zika virus by Aedes species mosquitoes has been identified in this country (as of August 2016); it poses an important risk (a large number of cases possible) among US citizens if bitten by an infective mosquito; other less common ways to get Zika are through sex, via blood transfusion, or during pregnancy, in which the pregnant woman passes Zika virus to her fetus (2016)"
+      }
+    },
     "Obesity - adult prevalence rate": {
       "text": "41.1% (2014)"
+    },
+    "Children under the age of 5 years underweight": {
+      "text": "1.9% (2012)"
     },
     "Literacy": {
       "definition": {
@@ -305,6 +316,9 @@
       },
       "former": {
         "text": "Friendly Islands"
+      },
+      "etymology": {
+        "text": "\"tonga\" means \"south\" in the Tongan language and refers to the country's geographic position in relation to central Polynesia"
       }
     },
     "Government type": {
@@ -328,10 +342,10 @@
       "text": "4 June 1970 (from UK protectorate)"
     },
     "National holiday": {
-      "text": "National Day, 4 November (1875)"
+      "text": "King's Official Birthday, 4 July (1959); Constitution Day (National Day), 4 November (1875)"
     },
     "Constitution": {
-      "text": "adopted 4 November 1875, revised 1988; amended several times, last in 2014 (2015)"
+      "text": "adopted 4 November 1875, revised 1988; amended many times, last in 2014 (2016)"
     },
     "Legal system": {
       "text": "English common law"
@@ -340,14 +354,17 @@
       "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
     },
     "Citizenship": {
-      "birthright citizenship": {
-        "text": ""
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "the father must be a citizen of Tonga; if a child is born out of wedlock, the mother must be a citizen of Tonga"
       },
       "dual citizenship recognized": {
         "text": "yes"
       },
       "residency requirement for naturalization": {
-        "text": ""
+        "text": "5 years"
       }
     },
     "Suffrage": {
@@ -389,7 +406,7 @@
         "text": "Court of Appeal (consists of the court president and a number of judges determined by the monarch); note - appeals beyond the Court of Appeal are brought before the King in Privy Council, the monarch's advisory organ that has both judicial and legislative powers"
       },
       "judge selection and term of office": {
-        "text": "judge appointments and tenures made by the King in Privy Council,  judge appointments subject to consent of the Legislative Assembly"
+        "text": "judge appointments and tenures made by the King in Privy Council, judge appointments subject to consent of the Legislative Assembly"
       },
       "subordinate courts": {
         "text": "Supreme Court; Magistrate's Courts; Land Courts"
@@ -422,7 +439,7 @@
       }
     },
     "Diplomatic representation from the US": {
-      "text": "the US does not have an embassy in Tonga; the US ambassador to Fiji is accredited to Tonga"
+      "text": "the US does not have an embassy in Tonga; the US Ambassador to Fiji is accredited to Tonga"
     },
     "Flag description": {
       "text": "red with a bold red cross on a white rectangle in the upper hoist-side corner; the cross reflects the deep-rooted Christianity in Tonga; red represents the blood of Christ and his sacrifice; white signifies purity"
@@ -444,24 +461,24 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Tonga has a small, open, island economy and is the last constitutional monarchy among the Pacific Island countries. It has a narrow export base in agricultural goods. Squash, vanilla beans, and yams are the main crops. Agricultural exports, including fish, make up two-thirds of total exports. The country must import a high proportion of its food, mainly from New Zealand. The country remains dependent on external aid and remittances from overseas Tongans to offset its trade deficit. Tourism is the second-largest source of hard currency earnings following remittances. Tonga had 39,000 visitors in 2006. The government is emphasizing the development of the private sector, encouraging investment, and is committing increased funds for health and education. Tonga's English-speaking and educated workforce offer a viable labor market, and the tropical climate provides fertile soil. Renewable energy and deep sea mining also offer opportunities for investment. Tonga has a reasonably sound basic infrastructure and well developed social services. The government faces high unemployment among the young, moderate inflation, pressures for democratic reform, and rising civil service expenditures."
+      "text": "Tonga has a small, open, island economy and is the last constitutional monarchy among the Pacific Island countries. It has a narrow export base in agricultural goods. Squash, vanilla beans, and yams are the main crops. Agricultural exports, including fish, make up two-thirds of total exports. Tourism is the second-largest source of hard currency earnings following remittances. Tonga had 45,000 visitors in 2013. The country must import a high proportion of its food, mainly from New Zealand. ++  ++ The country remains dependent on external aid and remittances from overseas Tongans to offset its trade deficit. The government is emphasizing the development of the private sector, encouraging investment, and is committing increased funds for healthcare and education. Tonga's English-speaking and educated workforce offer a viable labor market, and the tropical climate provides fertile soil. Renewable energy and deep sea mining also offer opportunities for investment. ++  ++ Tonga has a reasonably sound basic infrastructure and well developed social services. The government faces high unemployment among the young, moderate inflation, pressures for democratic reform, and rising civil service expenditures."
     },
     "GDP (purchasing power parity)": {
-      "text": "$502 million (2014 est.) ++ $490.6 million (2013 est.) ++ $492.1 million (2012 est.)",
+      "text": "$535 million (2015 est.) ++ $517.3 million (2014 est.) ++ $502.8 million (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$438 million (2014 est.)"
+      "text": "$429 million (2015 est.)"
     },
     "GDP - real growth rate": {
-      "text": "2.3% (2014 est.) ++ -0.3% (2013 est.) ++ -1.1% (2012 est.)"
+      "text": "3.4% (2015 est.) ++ 2.9% (2014 est.) ++ -0.6% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$4,900 (2014 est.) ++ $4,800 (2013 est.) ++ $4,800 (2012 est.)",
+      "text": "$5,100 (2015 est.) ++ $5,000 (2014 est.) ++ $4,800 (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP - composition, by end use": {
@@ -469,30 +486,30 @@
         "text": "79.8%"
       },
       "government consumption": {
-        "text": "20.4%"
+        "text": "20.7%"
       },
       "investment in fixed capital": {
-        "text": "36.5%"
+        "text": "38.7%"
       },
       "investment in inventories": {
-        "text": "-0.7%"
+        "text": "0.1%"
       },
       "exports of goods and services": {
-        "text": "17.9%"
+        "text": "16.2%"
       },
       "imports of goods and services": {
-        "text": "-53.9% ++  (2014 est.)"
+        "text": "-55.5% (2015 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "20.5%"
+        "text": "19.3%"
       },
       "industry": {
-        "text": "18.8%"
+        "text": "20.1%"
       },
       "services": {
-        "text": "60.7% (2014 est.)"
+        "text": "60.6% (2015 est.)"
       }
     },
     "Agriculture - products": {
@@ -502,7 +519,7 @@
       "text": "tourism, construction, fishing"
     },
     "Industrial production growth rate": {
-      "text": "0.8% (2014 est.)"
+      "text": "10.9% (2015 est.)"
     },
     "Labor force": {
       "text": "33,800 (2011 est.)"
@@ -534,17 +551,17 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$162.4 million"
+        "text": "$94.98 million"
       },
       "expenditures": {
-        "text": "$108.3 million (2014 est.)"
+        "text": "$94.98 million (2015 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "37.1% of GDP (2014 est.)"
+      "text": "22.9% of GDP (2015 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "12.4% of GDP (2014 est.)"
+      "text": "0% of GDP (2015 est.)"
     },
     "Public debt": {
       "text": "45.1% of GDP (2013) ++ 46.5% of GDP (2012)"
@@ -553,58 +570,72 @@
       "text": "1 July - 30 June"
     },
     "Inflation rate (consumer prices)": {
-      "text": "1.4% (2014 est.) ++ 1.5% (2013 est.)"
+      "text": "-0.1% (2015 est.) ++ 1.2% (2014 est.)"
     },
     "Commercial bank prime lending rate": {
-      "text": "8.89% (31 December 2014 est.) ++ 9.26% (31 December 2013 est.)"
+      "text": "8.09% (31 December 2015 est.) ++ 8.89% (31 December 2014 est.)"
     },
     "Stock of narrow money": {
-      "text": "$95.17 million (31 December 2014 est.) ++ $94.1 million (31 December 2013 est.)"
+      "text": "$101.8 million (31 December 2015 est.) ++ $95.17 million (31 December 2014 est.)"
     },
     "Stock of broad money": {
       "text": "$198.4 million (31 December 2014 est.) ++ $195.1 million (31 December 2013 est.)"
     },
     "Stock of domestic credit": {
-      "text": "$121.2 million (31 December 2014 est.) ++ $120.2 million (31 December 2013 est.)"
+      "text": "$128.4 million (31 December 2015 est.) ++ $121.2 million (31 December 2014 est.)"
     },
     "Market value of publicly traded shares": {
       "text": "$NA"
     },
     "Current account balance": {
-      "text": "-$14 million (2014 est.) ++ -$7 million (2013 est.)"
+      "text": "-$34 million (2015 est.) ++ -$41 million (2014 est.)"
     },
     "Exports": {
-      "text": "$38.8 million (2014 est.) ++ $35.8 million (2013 est.)"
+      "text": "$30.6 million (2015 est.) ++ $31 million (2014 est.)"
     },
     "Exports - commodities": {
       "text": "squash, fish, vanilla beans, root crops"
     },
     "Exports - partners": {
-      "text": "NZ 16.7%, US 15.6%, Fiji 11.2%, Japan 10.3%, Samoa 9.5%, South Korea 9%, Australia 7.9%, American Samoa 6%, Belgium 5.6% (2014)"
+      "text": "Japan 16%, US 15.4%, Fiji 12.8%, NZ 12.5%, South Korea 11%, Samoa 10.7%, Australia 7.5%, American Samoa 6.8% (2015)"
     },
     "Imports": {
-      "text": "$152.7 million (2014 est.) ++ $187.7 million (2013 est.)"
+      "text": "$263 million (2015 est.) ++ $240.1 million (2014 est.)"
     },
     "Imports - commodities": {
       "text": "foodstuffs, machinery and transport equipment, fuels, chemicals"
     },
     "Imports - partners": {
-      "text": "Fiji 35%, NZ 20.5%, China 10.8%, US 9.1%, Japan 5%, Australia 4.3% (2014)"
+      "text": "Fiji 37.7%, NZ 21.2%, China 14.2%, US 6.4%, Australia 4.5% (2015)"
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$158.8 million (31 December 2014 est.) ++ $155.5 million (31 December 2013 est.)"
+      "text": "$156.1 million (31 December 2015 est.) ++ $158.8 million (31 December 2014 est.)"
     },
     "Debt - external": {
-      "text": "$215 million (31 December 2014 est.) ++ $198.9 million (31 December 2013 est.)"
+      "text": "$206.2 million (31 December 2015 est.) ++ $196.3 million (31 December 2014 est.)"
     },
     "Stock of direct foreign investment - at home": {
-      "text": "$73.97 million (31 December 2014 est.) ++ $70.97 million (31 December 2013 est.)"
+      "text": "$110.2 million (31 December 2015 est.) ++ $107.2 million (31 December 2014 est.)"
     },
     "Exchange rates": {
-      "text": "pa'anga (TOP) per US dollar - ++ 1.8468 (2014 est.) ++ 1.847 (2013 est.) ++ 1.72 (2012 est.) ++ 1.729 (2011 est.) ++ 1.906 (2010 est.)"
+      "text": "pa'anga (TOP) per US dollar - ++ 2.1058 (2015 est.) ++ 1.847 (2014 est.) ++ 1.847 (2013 est.) ++ 1.72 (2012 est.) ++ 1.729 (2011 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "5,325"
+      },
+      "electrification - total population": {
+        "text": "96%"
+      },
+      "electrification - urban areas": {
+        "text": "100%"
+      },
+      "electrification - rural areas": {
+        "text": "83% (2012)"
+      }
+    },
     "Electricity - production": {
       "text": "48 million kWh (2012 est.)"
     },
@@ -678,53 +709,64 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "12,000"
+        "text": "13,220"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "11 (2014 est.)"
+        "text": "12 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "68,000"
+        "text": "70,000"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "64 (2014 est.)"
+        "text": "66 (July 2015 est.)"
       }
     },
     "Telephone system": {
       "general assessment": {
-        "text": "competition between Tonga Telecommunications Corporation (TCC) and Shoreline Communications Tonga (SCT) is accelerating expansion of telecommunications; SCT granted approval to introduce high-speed digital service for telephone, Internet, and television while TCC has exclusive rights to operate the mobile-phone network; international telecom services are provided by government-owned Tonga Telecommunications International"
+        "text": "competition between Tonga Telecommunications Corporation (TCC) and Digicel Tonga Limited is accelerating expansion of telecommunications; both parties provide high speed Internet, mobile telephone networks, and international telecom services; Digicel also holds a telecommunication license after its acquisition of TonFon (a subsidiary of former Shoreline Communications Tonga); submarine cable infrastructure, managed by Tonga Cable Limited, has also been brought to the country by Asian Development Bank and World Bank aid"
       },
       "domestic": {
         "text": "combined fixed-line and mobile-cellular teledensity about 80 telephones per 100 persons; fully automatic switched network"
       },
       "international": {
-        "text": "country code - 676; satellite earth station - 1 Intelsat (Pacific Ocean) (2011)"
+        "text": "country code - 676; satellite earth station - 1 Intelsat (Pacific Ocean) (2015)"
       }
     },
     "Broadcast media": {
-      "text": "2 state-owned TV stations and 2 privately owned TV stations; satellite and cable TV services are available; 2 state-owned and 3 privately owned radio stations; Radio Australia broadcasts available via satellite (2009)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM 1, FM 4, shortwave 1 (2001)"
-    },
-    "Television broadcast stations": {
-      "text": "3 (2004)"
+      "text": "1 state-owned TV station and 3 privately owned TV stations; satellite and cable TV services are available; 1 state-owned and 3 privately owned radio stations; Radio Australia broadcasts available via satellite (2015)"
     },
     "Internet country code": {
       "text": ".to"
     },
     "Internet users": {
       "total": {
-        "text": "40,400"
+        "text": "48,000"
       },
       "percent of population": {
-        "text": "37.9% (2014 est.)"
+        "text": "45% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "1"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "1"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "75,416"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "0 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "A3 (2016)"
+    },
     "Airports": {
       "text": "6 (2013)"
     },
@@ -747,7 +789,7 @@
         "text": "3"
       },
       "under 914 m": {
-        "text": " ++ 1 (2013)"
+        "text": "1 (2013)"
       }
     },
     "Roadways": {
@@ -778,36 +820,12 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "Tonga Defense Services (TDS): Land Force (Royal Guard), Maritime Force (includes Royal Marines, Air Wing) (2013)"
     },
     "Military service age and obligation": {
       "text": "16 years of age for voluntary enlistment (with parental consent); no conscription; the king retains the right to call up \"all those capable of bearing arms\" in wartime (2012)"
-    },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "24,460"
-      },
-      "females age 16-49": {
-        "text": "24,041 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "20,956"
-      },
-      "females age 16-49": {
-        "text": "20,577 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "1,196"
-      },
-      "female": {
-        "text": "1,134 (2010 est.)"
-      }
     }
   },
   "Transnational Issues": {

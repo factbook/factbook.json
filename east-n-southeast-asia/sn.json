@@ -48,12 +48,12 @@
     "Terrain": {
       "text": "lowlying, gently undulating central plateau"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Singapore Strait 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "NA"
       },
-      "highest point": {
-        "text": "Bukit Timah 166 m"
+      "elevation extremes": {
+        "text": "lowest point: Singapore Strait 0 m ++ highest point: Bukit Timah 166 m"
       }
     },
     "Natural resources": {
@@ -71,18 +71,7 @@
       }
     },
     "Irrigated land": {
-      "text": "NA"
-    },
-    "Total renewable water resources": {
-      "text": "0.6 cu km (2011)"
-    },
-    "Freshwater withdrawal (domestic/industrial/agricultural)": {
-      "total": {
-        "text": "0.19  cu km/yr (47%/53%/0%)"
-      },
-      "per capita": {
-        "text": "81.97  cu m/yr (2005)"
-      }
+      "text": "0 sq km (2012)"
     },
     "Natural hazards": {
       "text": "NA"
@@ -103,6 +92,9 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "5,781,728 (July 2016 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "Singaporean(s)"
@@ -115,32 +107,26 @@
       "text": "Chinese 74.2%, Malay 13.3%, Indian 9.2%, other 3.3% (2013 est.)"
     },
     "Languages": {
-      "text": "Mandarin (official) 36.3%, English (official) 29.8%, Malay (official) 11.9%, Hokkien 8.1%, Tamil (official) 4.4%, Cantonese 4.1%, Teochew 3.2%, other Indian languages 1.2%, other Chinese dialects 1.1%, other 1.1% (2010 est.)"
+      "text": "Mandarin (official) 36.3%, English (official) 29.8%, Malay (official) 11.9%, Hokkien 8.1%, Cantonese 4.1%, Tamil (official) 3.2%, Teochew 3.2%, other Indian languages 1.2%, other Chinese dialects 1.1%, other 1.1% (2010 est.)"
     },
     "Religions": {
       "text": "Buddhist 33.9%, Muslim 14.3%, Taoist 11.3%, Catholic 7.1%, Hindu 5.2%, other Christian 11%, other 0.7%, none 16.4% (2010 est.)"
     },
-    "Population": {
-      "text": "5,674,472 (July 2015 est.)"
-    },
     "Age structure": {
       "0-14 years": {
-        "text": "13.14% (male 381,404/female 364,424)"
+        "text": "12.94% (male 382,479/female 365,595)"
       },
       "15-24 years": {
-        "text": "17.43% (male 486,979/female 502,159)"
+        "text": "17.02% (male 484,355/female 499,940)"
       },
       "25-54 years": {
-        "text": "50.39% (male 1,393,686/female 1,465,601)"
+        "text": "50.45% (male 1,420,833/female 1,496,125)"
       },
       "55-64 years": {
-        "text": "10.16% (male 288,489/female 287,992)"
+        "text": "10.34% (male 299,446/female 298,562)"
       },
       "65 years and over": {
-        "text": "8.88% (male 229,117/female 274,621) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "9.24% (male 243,418/female 290,975) (2016 est.)"
       }
     },
     "Dependency ratios": {
@@ -159,26 +145,26 @@
     },
     "Median age": {
       "total": {
-        "text": "34 years"
+        "text": "34.3 years"
       },
       "male": {
-        "text": "33.9 years"
+        "text": "34.2 years"
       },
       "female": {
-        "text": "34.1 years (2015 est.)"
+        "text": "34.4 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "1.89% (2015 est.)"
+      "text": "1.86% (2016 est.)"
     },
     "Birth rate": {
-      "text": "8.27 births/1,000 population (2015 est.)"
+      "text": "8.4 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "3.43 deaths/1,000 population (2015 est.)"
+      "text": "3.5 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "14.05 migrant(s)/1,000 population (2015 est.)"
+      "text": "13.6 migrant(s)/1,000 population (2016 est.)"
     },
     "Urbanization": {
       "urban population": {
@@ -211,39 +197,42 @@
         "text": "0.83 male(s)/female"
       },
       "total population": {
-        "text": "0.96 male(s)/female (2015 est.)"
+        "text": "0.96 male(s)/female (2016 est.)"
       }
+    },
+    "Mother's mean age at first birth": {
+      "text": "30.5 ++ median age (2015 est.)"
     },
     "Maternal mortality rate": {
       "text": "10 deaths/100,000 live births (2015 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "2.48 deaths/1,000 live births"
+        "text": "2.4 deaths/1,000 live births"
       },
       "male": {
-        "text": "2.65 deaths/1,000 live births"
+        "text": "2.6 deaths/1,000 live births"
       },
       "female": {
-        "text": "2.28 deaths/1,000 live births (2015 est.)"
+        "text": "2.2 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "84.68 years"
+        "text": "85 years"
       },
       "male": {
-        "text": "82.06 years"
+        "text": "82.3 years"
       },
       "female": {
-        "text": "87.5 years (2015 est.)"
+        "text": "87.8 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "0.81 children born/woman (2015 est.)"
+      "text": "0.82 children born/woman (2016 est.)"
     },
     "Health expenditures": {
-      "text": "4.6% of GDP (2013)"
+      "text": "4.9% of GDP (2014)"
     },
     "Physicians density": {
       "text": "1.95 physicians/1,000 population (2013)"
@@ -276,6 +265,11 @@
     "HIV/AIDS - deaths": {
       "text": "NA"
     },
+    "Major infectious diseases": {
+      "note": {
+        "text": "active local transmission of Zika virus by Aedes species mosquitoes has been identified in this country (as of August 2016); it poses an important risk (a large number of cases possible) among US citizens if bitten by an infective mosquito; other less common ways to get Zika are through sex, via blood transfusion, or during pregnancy, in which the pregnant woman passes Zika virus to her fetus (2016)"
+      }
+    },
     "Obesity - adult prevalence rate": {
       "text": "6.8% (2014)"
     },
@@ -298,7 +292,13 @@
     },
     "Unemployment, youth ages 15-24": {
       "total": {
-        "text": "6.7% (2012 est.)"
+        "text": "7%"
+      },
+      "male": {
+        "text": "5.4%"
+      },
+      "female": {
+        "text": "9% (2013)"
       }
     }
   },
@@ -315,6 +315,9 @@
       },
       "local short form": {
         "text": "Singapore"
+      },
+      "etymology": {
+        "text": "name derives from the Sanskrit words \"singa\" (lion) and \"pura\" (city) to describe the city-state's leonine symbol"
       }
     },
     "Government type": {
@@ -341,7 +344,7 @@
       "text": "National Day, 9 August (1965)"
     },
     "Constitution": {
-      "text": "several previous; latest adopted 22 December 1965; amended many times, last in 2015 (2015)"
+      "text": "several previous; latest adopted 22 December 1965; amended many times, last in 2015 (2016)"
     },
     "Legal system": {
       "text": "English common law"
@@ -350,14 +353,17 @@
       "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
     },
     "Citizenship": {
-      "birthright citizenship": {
-        "text": ""
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Singapore"
       },
       "dual citizenship recognized": {
         "text": "no"
       },
       "residency requirement for naturalization": {
-        "text": ""
+        "text": "10 years"
       }
     },
     "Suffrage": {
@@ -382,10 +388,10 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "unicameral Parliament (99 seats; 75 members directly elected in single- and multi-seat constituencies by majority party bloc vote, 12 directly elected in single-seat constituencies by simple majority vote, 9 nominated by the president, and 3 appointed from a \"national compensatory\" list to ensure political diversity; members serve 5-year terms)"
+        "text": "unicameral Parliament (101 seats; 89 members directly elected by popular vote, 9 nominated by the president, and up to 9 - but currently 3 - non-constituency members from opposition parties to ensure political diversity; members serve 5-year terms)"
       },
       "elections": {
-        "text": "last held on 11 September 2015 (next to be held in 2020); note - Parliament was dissolved on 25 August 2015 amid public concerns over immigration and the rising cost of living, resulting in an early election"
+        "text": "last held on 11 September 2015 (next to be held in 2020)"
       },
       "election results": {
         "text": "percent of vote by party - PAP 69.9%, WP 12.5%, other 17.6%; seats by party - PAP 83, WP 6"
@@ -403,7 +409,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "National Solidarity Party or NSP [LIM Tean, acting secretary general] ++ People's Action Party or PAP [LEE Hsien Loong] ++ Singapore Democratic Party or SDP [CHEE Soon Juan] ++ Workers' Party or WP [LOW Thia Khiang]"
+      "text": "National Solidarity Party or NSP [LIM Tean] ++ People's Action Party or PAP [LEE Hsien Loong] ++ Singapore Democratic Party or SDP [CHEE Soon Juan] ++ Workers' Party or WP [LOW Thia Khiang]"
     },
     "Political pressure groups and leaders": {
       "text": "none"
@@ -468,47 +474,47 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Singapore has a highly developed and successful free-market economy. It enjoys a remarkably open and corruption-free environment, stable prices, and a per capita GDP higher than that of most developed countries. Unemployment is very low. The economy depends heavily on exports, particularly of consumer electronics, information technology products, medical and optical devices, pharmaceuticals, and on its vibrant transportation, business, and financial services sectors. The economy contracted 0.6% in 2009 as a result of the global financial crisis, but has continued to grow since 2010 on the strength of renewed exports. Growth in 2014 was slower at 2.9%, largely a result of soft demand for exports amid a sluggish global economy and weak growth in Singapore’s manufacturing sector. The government is attempting to restructure Singapore’s economy by weaning its dependence on foreign labor, addressing weak productivity, and increasing Singaporean wages. Singapore has attracted major investments in pharmaceuticals and medical technology production and will continue efforts to strengthen its position as Southeast Asia's leading financial and high-tech hub. Singapore is a member of the 12-nation Trans-Pacific Partnership free trade negotiations, the Regional Comprehensive Economic Partnership negotiations with the nine other ASEAN members plus Australia, China, India, Japan, South Korea and New Zealand, and in 2015, Singapore will form, with the other ASEAN members, the ASEAN Economic Community."
+      "text": "Singapore has a highly developed and successful free-market economy. It enjoys a remarkably open and corruption-free environment, stable prices, and a per capita GDP higher than that of most developed countries. Unemployment is very low. The economy depends heavily on exports, particularly of consumer electronics, information technology products, medical and optical devices, pharmaceuticals, and on its vibrant transportation, business, and financial services sectors. ++  ++ The economy contracted 0.6% in 2009 as a result of the global financial crisis, but has continued to grow since 2010 on the strength of renewed exports. Growth in 2014-15 was slower at under 3%, largely a result of soft demand for exports amid a sluggish global economy and weak growth in Singapore’s manufacturing sector. ++  ++ The government is attempting to restructure Singapore’s economy by weaning its dependence on foreign labor, addressing weak productivity, and increasing Singaporean wages. Singapore has attracted major investments in pharmaceuticals and medical technology production and will continue efforts to strengthen its position as Southeast Asia's leading financial and high-tech hub. Singapore is a member of the 12-nation Trans-Pacific Partnership free trade negotiations, as well as the Regional Comprehensive Economic Partnership negotiations with the nine other ASEAN members plus Australia, China, India, Japan, South Korea, and New Zealand. In 2015, Singapore formed, with the other ASEAN members, the ASEAN Economic Community."
     },
     "GDP (purchasing power parity)": {
-      "text": "$454.3 billion (2014 est.) ++ $441.5 billion (2013 est.) ++ $422.7 billion (2012 est.)",
+      "text": "$472.6 billion (2015 est.) ++ $463.3 billion (2014 est.) ++ $448.7 billion (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$307.9 billion (2014 est.)"
+      "text": "$292.7 billion (2015 est.)"
     },
     "GDP - real growth rate": {
-      "text": "2.9% (2014 est.) ++ 4.4% (2013 est.) ++ 3.4% (2012 est.)"
+      "text": "2% (2015 est.) ++ 3.3% (2014 est.) ++ 4.7% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$83,100 (2014 est.) ++ $80,700 (2013 est.) ++ $77,300 (2012 est.)",
+      "text": "$85,400 (2015 est.) ++ $84,700 (2014 est.) ++ $83,100 (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "Gross national saving": {
-      "text": "46.7% of GDP (2014 est.) ++ 46.9% of GDP (2013 est.) ++ 47.2% of GDP (2012 est.)"
+      "text": "46.1% of GDP (2015 est.) ++ 46.4% of GDP (2014 est.) ++ 48.2% of GDP (2013 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "36.8%"
+        "text": "36.7%"
       },
       "government consumption": {
-        "text": "10%"
+        "text": "10.4%"
       },
       "investment in fixed capital": {
-        "text": "25.4%"
+        "text": "25.5%"
       },
       "investment in inventories": {
-        "text": "3.4%"
+        "text": "0.5%"
       },
       "exports of goods and services": {
-        "text": "187.6%"
+        "text": "176.5%"
       },
       "imports of goods and services": {
-        "text": "-163.2% ++  (2014 est.)"
+        "text": "-149.6% (2015 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
@@ -516,10 +522,10 @@
         "text": "0%"
       },
       "industry": {
-        "text": "25%"
+        "text": "26.4%"
       },
       "services": {
-        "text": "75% (2014 est.)"
+        "text": "73.6% (2014 est.)"
       }
     },
     "Agriculture - products": {
@@ -529,12 +535,12 @@
       "text": "electronics, chemicals, financial services, oil drilling equipment, petroleum refining, rubber processing and rubber products, processed food and beverages, ship repair, offshore platform construction, life sciences, entrepot trade"
     },
     "Industrial production growth rate": {
-      "text": "2.7% (2014 est.)"
+      "text": "-3.4% (2015 est.)"
     },
     "Labor force": {
-      "text": "3.531 million",
+      "text": "3.611 million",
       "note": {
-        "text": "excludes non-residents (2014 est.)"
+        "text": "excludes non-residents (2015 est.)"
       }
     },
     "Labor force - by occupation": {
@@ -552,7 +558,7 @@
       }
     },
     "Unemployment rate": {
-      "text": "2% (2014 est.) ++ 1.9% (2013 est.)"
+      "text": "1.9% (2015 est.) ++ 2% (2014 est.)"
     },
     "Population below poverty line": {
       "text": "NA%"
@@ -570,23 +576,23 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$47.35 billion"
+        "text": "$46.23 billion"
       },
       "expenditures": {
-        "text": "$43.25 billion"
+        "text": "$44.48 billion"
       },
       "note": {
-        "text": "expenditures include both operational and development expenditures (2014 est.)"
+        "text": "expenditures include both operational and development expenditures (2015 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "15.4% of GDP (2014 est.)"
+      "text": "15.8% of GDP (2015 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "1.3% of GDP (2014 est.)"
+      "text": "0.6% of GDP (2015 est.)"
     },
     "Public debt": {
-      "text": "103.2% of GDP (2014 est.) ++ 99.3% of GDP (2013 est.)",
+      "text": "104.7% of GDP (2015 est.) ++ 99.8% of GDP (2014 est.)",
       "note": {
         "text": "Singapore's public debt consists largely of Singapore Government Securities (SGS) issued to assist the Central Provident Fund (CPF), which administers Singapore's defined contribution pension fund; special issues of SGS are held by the CPF, and are non-tradable; the government has not borrowed to finance deficit expenditures since the 1980s; Singapore has no external public debt"
       }
@@ -595,61 +601,69 @@
       "text": "1 April - 31 March"
     },
     "Inflation rate (consumer prices)": {
-      "text": "1% (2014 est.) ++ 2.4% (2013 est.)"
+      "text": "-0.5% (2015 est.) ++ 1% (2014 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "0.25% (2014) ++ 0.07% (2013)"
     },
     "Commercial bank prime lending rate": {
-      "text": "5.35% (31 December 2014 est.) ++ 5.38% (31 December 2013 est.)"
+      "text": "5.35% (31 December 2015 est.) ++ 5.35% (31 December 2014 est.)"
     },
     "Stock of narrow money": {
-      "text": "$126.5 billion (31 December 2014 est.) ++ $123.6 billion (31 December 2013 est.)"
+      "text": "$113.5 billion (31 December 2015 est.) ++ $121.3 billion (31 December 2014 est.)"
     },
     "Stock of broad money": {
       "text": "$413.7 billion (31 December 2014 est.) ++ $405.1 billion (31 December 2013 est.)"
     },
     "Stock of domestic credit": {
-      "text": "$479.8 billion (31 December 2014 est.) ++ $458.9 billion (31 December 2013 est.)"
+      "text": "$344.6 billion (31 December 2015 est.) ++ $372.8 billion (31 December 2014 est.)"
     },
     "Market value of publicly traded shares": {
-      "text": "$787.3 billion (31 December 2014 est.) ++ $751.1 billion (31 December 2013) ++ $747.8 billion (31 December 2012 est.)"
+      "text": "$640 billion (31 December 2015 est.) ++ $752.8 billion (31 December 2014 est.) ++ $744.4 billion (31 December 2013 est.)"
     },
     "Current account balance": {
-      "text": "$58.77 billion (2014 est.) ++ $54.08 billion (2013 est.)"
+      "text": "$57.92 billion (2015 est.) ++ $53.52 billion (2014 est.)"
     },
     "Exports": {
-      "text": "$437.3 billion (2014 est.) ++ $441.7 billion (2013 est.)"
+      "text": "$377.1 billion (2015 est.) ++ $437.8 billion (2014 est.)"
     },
     "Exports - commodities": {
       "text": "machinery and equipment (including electronics and telecommunications), pharmaceuticals and other chemicals, refined petroleum products, foodstuffs and beverages"
     },
     "Exports - partners": {
-      "text": "China 12.6%, Malaysia 12%, Hong Kong 11%, Indonesia 9.4%, US 5.9%, Japan 4.1%, South Korea 4.1% (2014)"
+      "text": "China 13.7%, Hong Kong 11.5%, Malaysia 10.8%, Indonesia 8.2%, US 6.9%, Japan 4.4%, South Korea 4.1% (2015)"
     },
     "Imports": {
-      "text": "$360.9 billion (2014 est.) ++ $367.2 billion (2013 est.)"
+      "text": "$294.5 billion (2015 est.) ++ $358.2 billion (2014 est.)"
     },
     "Imports - commodities": {
       "text": "machinery and equipment, mineral fuels, chemicals, foodstuffs, consumer goods"
     },
     "Imports - partners": {
-      "text": "China 12.1%, Malaysia 10.7%, US 10.3%, South Korea 5.9%, Japan 5.5%, Indonesia 5.1%, UAE 4.2%, Saudi Arabia 4% (2014)"
+      "text": "China 14.2%, US 11.2%, Malaysia 11.2%, Japan 6.3%, South Korea 6.1%, Indonesia 4.8% (2015)"
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$256.9 billion (31 December 2014 est.) ++ $273.1 billion (31 December 2013 est.)"
+      "text": "$247.7 billion (31 December 2015 est.) ++ $256.9 billion (31 December 2014 est.)"
     },
     "Debt - external": {
-      "text": "$1.33 trillion (31 December 2014 est.) ++ $1.323 trillion (31 December 2013 est.)"
+      "text": "$465.5 billion (31 December 2015 est.) ++ $479.7 billion (31 December 2014 est.)"
     },
     "Stock of direct foreign investment - at home": {
-      "text": "$912.4 billion (31 December 2014 est.) ++ $548.7 billion (31 December 2013 est.)"
+      "text": "$978.4 billion (31 December 2015 est.) ++ $962.7 billion (31 December 2014 est.)"
     },
     "Stock of direct foreign investment - abroad": {
-      "text": "$576.4 billion (31 December 2014 est.) ++ $344.3 billion (31 December 2013 est.)"
+      "text": "$625.3 billion (31 December 2015 est.) ++ $626.6 billion (31 December 2014 est.)"
     },
     "Exchange rates": {
-      "text": "Singapore dollars (SGD) per US dollar - ++ 1.2671 (2014 est.) ++ 1.2671 (2013 est.) ++ 1.25 (2012 est.) ++ 1.258 (2011 est.) ++ 1.3635 (2010 est.)"
+      "text": "Singapore dollars (SGD) per US dollar - ++ 1.3748 (2015 est.) ++ 1.2671 (2014 est.) ++ 1.2671 (2013 est.) ++ 1.25 (2012 est.) ++ 1.258 (2011 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
+    },
     "Electricity - production": {
       "text": "49.31 billion kWh (2014 est.)"
     },
@@ -723,18 +737,18 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "1.96 million"
+        "text": "2,021,500"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "35 (2014 est.)"
+        "text": "36 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "8.7 million"
+        "text": "8.211 million"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "157 (2014 est.)"
+        "text": "145 (July 2015 est.)"
       }
     },
     "Telephone system": {
@@ -742,34 +756,45 @@
         "text": "excellent service"
       },
       "domestic": {
-        "text": "excellent domestic facilities; launched 3G wireless service in February 2005; combined fixed-line and mobile-cellular teledensity more than 180 telephones per 100 persons; multiple providers of high-speed Internet connectivity and the government is close to completing an island-wide roll out of a high-speed fiber-optic broadband network"
+        "text": "excellent domestic facilities; combined fixed-line and mobile-cellular teledensity more than 180 telephones per 100 persons; multiple providers of high-speed Internet connectivity"
       },
       "international": {
-        "text": "country code - 65; numerous submarine cables provide links throughout Asia, Australia, the Middle East, Europe, and US; satellite earth stations - 4; supplemented by VSAT coverage (2011)"
+        "text": "country code - 65; numerous submarine cables provide links throughout Asia, Australia, the Middle East, Europe, and US; satellite earth stations - 4; supplemented by VSAT coverage (2015)"
       }
     },
     "Broadcast media": {
       "text": "state controls broadcast media; 8 domestic TV stations operated by MediaCorp which is wholly owned by a state investment company; broadcasts from Malaysian and Indonesian stations available; satellite dishes banned; multi-channel cable TV service available; a total of 18 domestic radio stations broadcasting with MediaCorp operating more than a dozen and another 4 stations are closely linked to the ruling party or controlled by the Singapore Armed Forces Reservists Association; many Malaysian and Indonesian radio stations are available"
-    },
-    "Radio broadcast stations": {
-      "text": "AM 0, FM 19, shortwave 1 (2008)"
-    },
-    "Television broadcast stations": {
-      "text": "1 (broadcasting on 8 channels); additional reception of numerous UHF and VHF signals originating in Malaysia and Indonesia (2008)"
     },
     "Internet country code": {
       "text": ".sg"
     },
     "Internet users": {
       "total": {
-        "text": "4.5 million"
+        "text": "4.659 million"
       },
       "percent of population": {
-        "text": "80.7% (2014 est.)"
+        "text": "82.1% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "5"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "197"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "33,290,544"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "6,154,365,275 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "9V (2016)"
+    },
     "Airports": {
       "text": "9 (2013)"
     },
@@ -833,33 +858,12 @@
       "text": "the International Maritime Bureau reports the territorial and offshore waters in the South China Sea as high risk for piracy and armed robbery against ships; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargo diverted to ports in East Asia; crews have been murdered or cast adrift; in 2014, 8 commercial vessels were attacked in the Singapore Straits"
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "Singapore Armed Forces: Army, Navy, Air Force (includes Air Defense) (2013)"
     },
     "Military service age and obligation": {
       "text": "18-21 years of age for male compulsory military service; 16 1/2 years of age for volunteers; 2-year conscript service obligation, with a reserve obligation to age 40 (enlisted) or age 50 (officers) (2012)"
-    },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "1,255,902 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "1,018,839"
-      },
-      "females age 16-49": {
-        "text": "1,087,134 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "27,098"
-      },
-      "female": {
-        "text": "25,368 (2010 est.)"
-      }
     },
     "Military expenditures": {
       "text": "3.52% of GDP (2012) ++ 3.47% of GDP (2011) ++ 3.52% of GDP (2010)"

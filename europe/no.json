@@ -26,10 +26,7 @@
       }
     },
     "Area - comparative": {
-      "text": "slightly larger than twice the size of Georgia; slightly larger than New Mexico",
-      "Area comparison map": {
-        "text": null
-      }
+      "text": "slightly larger than twice the size of Georgia; slightly larger than New Mexico"
     },
     "Land boundaries": {
       "total": {
@@ -62,12 +59,12 @@
     "Terrain": {
       "text": "glaciated; mostly high plateaus and rugged mountains broken by fertile valleys; small, scattered plains; coastline deeply indented by fjords; arctic tundra in north"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Norwegian Sea 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "460 m"
       },
-      "highest point": {
-        "text": "Galdhopiggen 2,469 m"
+      "elevation extremes": {
+        "text": "lowest point: Norwegian Sea 0 m ++ highest point: Galdhopiggen 2,469 m"
       }
     },
     "Natural resources": {
@@ -85,18 +82,10 @@
       }
     },
     "Irrigated land": {
-      "text": "1,149 sq km (2007)"
+      "text": "900 sq km (2012)"
     },
-    "Total renewable water resources": {
-      "text": "382 cu km (2011)"
-    },
-    "Freshwater withdrawal (domestic/industrial/agricultural)": {
-      "total": {
-        "text": "2.94  cu km/yr (28%/43%/29%)"
-      },
-      "per capita": {
-        "text": "622.4  cu m/yr (2006)"
-      }
+    "Population - distribution": {
+      "text": "most Norweigans live in the south where the climate is more mild and there is better connectivity to mainland Europe; population clusters are found all along the North Sea coast in the southwest, and Skaggerak in the southeast; the interior areas of the north remain sparsely populated"
     },
     "Natural hazards": {
       "text": "rockslides, avalanches",
@@ -120,6 +109,9 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "5,265,158 (July 2016 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "Norwegian(s)"
@@ -140,27 +132,21 @@
     "Religions": {
       "text": "Church of Norway (Evangelical Lutheran - official) 82.1%, other Christian 3.9%, Muslim 2.3%, Roman Catholic 1.8%, other 2.4%, unspecified 7.5% (2011 est.)"
     },
-    "Population": {
-      "text": "5,207,689 (July 2015 est.)"
-    },
     "Age structure": {
       "0-14 years": {
-        "text": "18.08% (male 482,945/female 458,735)"
+        "text": "18.02% (male 486,408/female 462,178)"
       },
       "15-24 years": {
-        "text": "12.99% (male 347,535/female 329,113)"
+        "text": "12.8% (male 345,785/female 327,969)"
       },
       "25-54 years": {
-        "text": "40.91% (male 1,096,539/female 1,033,879)"
+        "text": "40.98% (male 1,112,006/female 1,045,791)"
       },
       "55-64 years": {
-        "text": "11.69% (male 308,142/female 300,895)"
+        "text": "11.7% (male 311,528/female 304,267)"
       },
       "65 years and over": {
-        "text": "16.32% (male 387,333/female 462,573) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "16.51% (male 398,203/female 471,023) (2016 est.)"
       }
     },
     "Dependency ratios": {
@@ -182,23 +168,26 @@
         "text": "39.1 years"
       },
       "male": {
-        "text": "38.3 years"
+        "text": "38.4 years"
       },
       "female": {
-        "text": "39.9 years (2015 est.)"
+        "text": "40 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "1.13% (2015 est.)"
+      "text": "1.07% (2016 est.)"
     },
     "Birth rate": {
-      "text": "12.14 births/1,000 population (2015 est.)"
+      "text": "12.2 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "8.12 deaths/1,000 population (2015 est.)"
+      "text": "8.1 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "7.25 migrant(s)/1,000 population (2015 est.)"
+      "text": "6.6 migrant(s)/1,000 population (2016 est.)"
+    },
+    "Population distribution": {
+      "text": "most Norweigans live in the south where the climate is more mild and there is better connectivity to mainland Europe; population clusters are found all along the North Sea coast in the southwest, and Skaggerak in the southeast; the interior areas of the north remain sparsely populated"
     },
     "Urbanization": {
       "urban population": {
@@ -219,7 +208,7 @@
         "text": "1.05 male(s)/female"
       },
       "15-24 years": {
-        "text": "1.06 male(s)/female"
+        "text": "1.05 male(s)/female"
       },
       "25-54 years": {
         "text": "1.06 male(s)/female"
@@ -231,7 +220,13 @@
         "text": "0.84 male(s)/female"
       },
       "total population": {
-        "text": "1.01 male(s)/female (2015 est.)"
+        "text": "1.02 male(s)/female (2016 est.)"
+      }
+    },
+    "Mother's mean age at first birth": {
+      "text": "28.5",
+      "note": {
+        "text": "data is calculated based on actual age at first births (2012 est.)"
       }
     },
     "Maternal mortality rate": {
@@ -239,28 +234,28 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "2.48 deaths/1,000 live births"
+        "text": "2.5 deaths/1,000 live births"
       },
       "male": {
-        "text": "2.79 deaths/1,000 live births"
+        "text": "2.8 deaths/1,000 live births"
       },
       "female": {
-        "text": "2.16 deaths/1,000 live births (2015 est.)"
+        "text": "2.2 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "81.7 years"
+        "text": "81.8 years"
       },
       "male": {
-        "text": "79.7 years"
+        "text": "79.8 years"
       },
       "female": {
-        "text": "83.81 years (2015 est.)"
+        "text": "83.9 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "1.86 children born/woman (2015 est.)"
+      "text": "1.86 children born/woman (2016 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "88.4%",
@@ -269,7 +264,7 @@
       }
     },
     "Health expenditures": {
-      "text": "9.6% of GDP (2013)"
+      "text": "9.7% of GDP (2014)"
     },
     "Physicians density": {
       "text": "4.28 physicians/1,000 population (2012)"
@@ -306,28 +301,28 @@
       "text": "24.8% (2014)"
     },
     "Education expenditures": {
-      "text": "6.6% of GDP (2011)"
+      "text": "7.4% of GDP (2014)"
     },
     "School life expectancy (primary to tertiary education)": {
       "total": {
-        "text": "17 years"
+        "text": "18 years"
       },
       "male": {
         "text": "17 years"
       },
       "female": {
-        "text": "18 years (2012)"
+        "text": "18 years (2014)"
       }
     },
     "Unemployment, youth ages 15-24": {
       "total": {
-        "text": "8.6%"
+        "text": "7.9%"
       },
       "male": {
-        "text": "10%"
+        "text": "9.1%"
       },
       "female": {
-        "text": "7.2% (2012 est.)"
+        "text": "6.6% (2014 est.)"
       }
     }
   },
@@ -344,10 +339,13 @@
       },
       "local short form": {
         "text": "Norge"
+      },
+      "etymology": {
+        "text": "derives from the Old Norse words \"nordr\" and \"vegr\" meaning \"northern way\" and refers to the long coastline of western Norway"
       }
     },
     "Government type": {
-      "text": "constitutional monarchy"
+      "text": "parliamentary constitutional monarchy"
     },
     "Capital": {
       "name": {
@@ -376,7 +374,7 @@
       "text": "Constitution Day, 17 May (1814)"
     },
     "Constitution": {
-      "text": "drafted spring 1814, adopted 16 May 1814, signed by Constituent Assembly 17 May 1814; amended over 400 times, last in 2014 (2015)"
+      "text": "drafted spring 1814, adopted 16 May 1814, signed by Constituent Assembly 17 May 1814; amended over 400 times, last in 2015 (2016)"
     },
     "Legal system": {
       "text": "mixed legal system of civil, common, and customary law; Supreme Court can advise on legislative acts"
@@ -385,14 +383,17 @@
       "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
     },
     "Citizenship": {
-      "birthright citizenship": {
-        "text": ""
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Norway"
       },
       "dual citizenship recognized": {
         "text": "no"
       },
       "residency requirement for naturalization": {
-        "text": ""
+        "text": "7 years"
       }
     },
     "Suffrage": {
@@ -435,7 +436,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Center Party or Sp [Trygve Slagsvold VEDUM] ++ Christian Democratic Party or KrF [Knut Arild HAREIDE] ++ Conservative Party or H [Erna SOLBERG] ++ Green Party or MDG [Rasmus NANSSON] ++ Labor Party or Ap [Jonas Gahr STOHRE] ++ Liberal Party or V [Trine SKEI-GRANDE] ++ Progress Party or FrP [Siv JENSEN] ++ Socialist Left Party or SV [Audun LYSBAKKEN]"
+      "text": "Center Party or Sp [Trygve Slagsvold VEDUM] ++ Center-Right Coalition (includes FrP, H, KrF, V) ++ Christian Democratic Party or KrF [Knut Arild HAREIDE] ++ Conservative Party or H [Erna SOLBERG] ++ Green Party or MDG [Rasmus HANSSON and Hilde OPOKU] ++ Labor Party or Ap [Jonas Gahr STORE] ++ Liberal Party or V [Trine SKEI GRANDE] ++ Progress Party or FrP [Siv JENSEN] ++ Red-Green Coalition (includes Ap, Sp, SV) ++ Socialist Left Party or SV [Audun LYSBAKKEN]"
     },
     "Political pressure groups and leaders": {
       "text": "Confederation of Norwegian Enterprise (Naeringslivets Hovedorganisasjon) or NHO [President Tore ULSTEIN; CEO Kristin SKOGEN LUND] ++ Norwegian Confederation of Trade Unions (Landsorganisasjonen i Norge) or LO [Gerd KRISTIANSEN]",
@@ -465,7 +466,7 @@
     },
     "Diplomatic representation from the US": {
       "chief of mission": {
-        "text": "Ambassador (vacant); Charge d'Affaires Julie FURUTA-TOY (since 27 September 2013)"
+        "text": "Ambassador Samuel HEINS (since 10 March 2016)"
       },
       "embassy": {
         "text": "Henrik Ibsens gate 48, 0244 Oslo; note - the embassy will move to Huseby in the near future"
@@ -500,58 +501,58 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "The Norwegian economy is a prosperous mixed economy, with a vibrant private sector, a large state sector, and an extensive social safety net. The government controls key areas, such as the vital petroleum sector, through extensive regulation and large-scale state-majority-owned enterprises. The country is richly endowed with natural resources - petroleum, hydropower, fish, forests, and minerals - and is highly dependent on the petroleum sector, which accounts for the largest portion of export revenue and about 30% of government revenue. Norway is the world's third-largest natural gas exporter; and seventh largest oil exporter, making one of its largest offshore oil finds in 2011. Norway opted to stay out of the EU during a referendum in November 1994; nonetheless, as a member of the European Economic Area, it contributes sizably to the EU budget. In anticipation of eventual declines in oil and gas production, Norway saves state revenue from the petroleum sector in the world's largest sovereign wealth fund, valued at over $870 billion in December 2014 and annually uses up to 4% of the fund, it’s projected long term return, to help finance public expenses. After solid GDP growth in 2004-07, the economy slowed in 2008, and contracted in 2009, before returning to positive growth in 2010-14. Nevertheless, the government budget remains in surplus. Lower oil prices in 2015 may cause the economy to contract as higher costs production costs in the North Sea deter investment."
+      "text": "Norway's has a stable economy with a vibrant private sector, a large state sector, and an extensive social safety net. Norway opted out of the EU during a referendum in November 1994; nonetheless, as a member of the European Economic Area, it contributes sizably to the EU budget. ++  ++ The country is richly endowed with natural resources in addition to oil and gas, including hydropower, fish, forests, and minerals. The government manages the country’s petroleum resources through extensive regulation. The petroleum sector provides about 9% of jobs, 15% of GDP, and 39% of exports, according to official national estimates. Norway is one of the world's leading petroleum exporters, though oil production in 2015 was close to 50% below its peak in 2000; annual gas production, conversely, more than doubled over the same time period. ++  ++ In anticipation of eventual declines in oil and gas production, Norway saves state revenue from petroleum sector activities in the world's largest sovereign wealth fund, valued at over $800 billion as of early 2016. The government allows itself to use up to 4% of the fund’s value, its annual expected real rate of return, to help balance the federal budget each year. After solid GDP growth in 2004-07, the economy slowed in 2008, and contracted in 2009, before returning to modest, positive growth from 2010 to 2015. Lower oil prices in 2015 caused growth to slow, increased unemployment, and weakened the Norwegian krone. The latter trend has mitigated the negative impact of lower oil and gas prices by making Norwegian exports cheaper for foreign buyers. The government has expressed willingness to increase public spending from the sovereign wealth fund to help prevent a recession."
     },
     "GDP (purchasing power parity)": {
-      "text": "$346.3 billion (2014 est.) ++ $338.9 billion (2013 est.) ++ $336.4 billion (2012 est.)",
+      "text": "$357 billion (2015 est.) ++ $351.4 billion (2014 est.) ++ $343.8 billion (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$499.8 billion (2014 est.)"
+      "text": "$388.3 billion (2015 est.)"
     },
     "GDP - real growth rate": {
-      "text": "2.2% (2014 est.) ++ 0.7% (2013 est.) ++ 2.7% (2012 est.)"
+      "text": "1.6% (2015 est.) ++ 2.2% (2014 est.) ++ 1% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$67,200 (2014 est.) ++ $65,700 (2013 est.) ++ $65,200 (2012 est.)",
+      "text": "$68,600 (2015 est.) ++ $68,200 (2014 est.) ++ $67,500 (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "Gross national saving": {
-      "text": "37.9% of GDP (2014 est.) ++ 38.3% of GDP (2013 est.) ++ 39% of GDP (2012 est.)"
+      "text": "37.6% of GDP (2015 est.) ++ 40.2% of GDP (2014 est.) ++ 38.2% of GDP (2013 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "40.9%"
+        "text": "42.6%"
       },
       "government consumption": {
-        "text": "21.9%"
+        "text": "23.2%"
       },
       "investment in fixed capital": {
-        "text": "23.7%"
+        "text": "23.3%"
       },
       "investment in inventories": {
-        "text": "4.7%"
+        "text": "5.3%"
       },
       "exports of goods and services": {
-        "text": "38.3%"
+        "text": "37.1%"
       },
       "imports of goods and services": {
-        "text": "-29.6% ++  (2014 est.)"
+        "text": "-31.5% (2015 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "1.7%"
+        "text": "1.8%"
       },
       "industry": {
-        "text": "38.2%"
+        "text": "35%"
       },
       "services": {
-        "text": "60.1% (2014 est.)"
+        "text": "63.2% (2015 est.)"
       }
     },
     "Agriculture - products": {
@@ -561,34 +562,34 @@
       "text": "petroleum and gas, shipping, fishing, aquaculture, food processing, shipbuilding, pulp and paper products, metals, chemicals, timber, mining, textiles"
     },
     "Industrial production growth rate": {
-      "text": "2.6% (2014 est.)"
+      "text": "1.6% (2015 est.)"
     },
     "Labor force": {
-      "text": "2.734 million (2014 est.)"
+      "text": "2.772 million (2015 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
-        "text": "2.2%"
+        "text": "2.7%"
       },
       "industry": {
-        "text": "20.2%"
+        "text": "18.3%"
       },
       "services": {
-        "text": "77.6% (2012)"
+        "text": "79% (2015 est.)"
       }
     },
     "Unemployment rate": {
-      "text": "3.5% (2014 est.) ++ 3.5% (2013 est.)"
+      "text": "4.4% (2015 est.) ++ 3.5% (2014 est.)"
     },
     "Population below poverty line": {
       "text": "NA%"
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
-        "text": "3.9%"
+        "text": "3.8%"
       },
       "highest 10%": {
-        "text": "21% (2008)"
+        "text": "21.2% (2014)"
       }
     },
     "Distribution of family income - Gini index": {
@@ -596,20 +597,20 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$273.9 billion"
+        "text": "$211.6 billion"
       },
       "expenditures": {
-        "text": "$228.4 billion (2014 est.)"
+        "text": "$188.5 billion (2015 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "54.8% of GDP (2014 est.)"
+      "text": "54.3% of GDP (2015 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "9.1% of GDP (2014 est.)"
+      "text": "5.9% of GDP (2015 est.)"
     },
     "Public debt": {
-      "text": "38.6% of GDP (2014 est.) ++ 40.6% of GDP (2013 est.)",
+      "text": "31.8% of GDP (2015 est.) ++ 27.4% of GDP (2014 est.)",
       "note": {
         "text": "data cover general government debt, and includes debt instruments issued (or owned) by government entities other than the treasury; the data exclude treasury debt held by foreign entities; the data exclude debt issued by subnational entities, as well as intra-governmental debt; intra-governmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions"
       }
@@ -618,96 +619,101 @@
       "text": "calendar year"
     },
     "Inflation rate (consumer prices)": {
-      "text": "2% (2014 est.) ++ 2.1% (2013 est.)"
+      "text": "2.2% (2015 est.) ++ 2% (2014 est.)"
     },
     "Central bank discount rate": {
       "text": "6.25% (31 December 2010) ++ 1.75% (31 December 2009)"
     },
     "Commercial bank prime lending rate": {
-      "text": "2.25% (31 December 2014 est.) ++ 2.5% (31 December 2013 est.)"
+      "text": "1.75% (31 December 2015 est.) ++ 2.25% (31 December 2014 est.)"
     },
     "Stock of narrow money": {
-      "text": "$120.7 billion (31 December 2014 est.) ++ $144.3 billion (31 December 2013 est.)"
+      "text": "$200.3 billion (31 December 2015 est.) ++ $120.7 billion (31 December 2014 est.)"
     },
     "Stock of broad money": {
       "text": "$323.9 billion (31 December 2014 est.) ++ $310 billion (31 December 2013 est.)"
     },
     "Stock of domestic credit": {
-      "text": "$590.7 billion (31 December 2014 est.) ++ $689.1 billion (31 December 2013 est.)"
+      "text": "$527.7 billion (31 December 2015 est.) ++ $590.8 billion (31 December 2014 est.)"
     },
     "Market value of publicly traded shares": {
-      "text": "$252.9 billion (31 December 2012 est.) ++ $219.2 billion (31 December 2011) ++ $250.9 billion (31 December 2010 est.)"
+      "text": "$193.9 billion (31 December 2015 est.) ++ $219.4 billion (31 December 2014 est.) ++ $265.4 billion (31 December 2013 est.)"
     },
     "Current account balance": {
-      "text": "$47.13 billion (2014 est.) ++ $52.38 billion (2013 est.)"
+      "text": "$35.04 billion (2015 est.) ++ $59.78 billion (2014 est.)"
     },
     "Exports": {
-      "text": "$141.4 billion (2014 est.) ++ $153.5 billion (2013 est.)"
+      "text": "$102.9 billion (2015 est.) ++ $143.7 billion (2014 est.)"
     },
     "Exports - commodities": {
       "text": "petroleum and petroleum products, machinery and equipment, metals, chemicals, ships, fish"
     },
     "Exports - partners": {
-      "text": "UK 22.9%, Germany 16.9%, Netherlands 12.9%, France 6%, Sweden 5.7%, Belgium 4.8% (2014)"
+      "text": "UK 22.2%, Germany 17.9%, Netherlands 10.2%, France 6.6%, Sweden 6.1%, Belgium 5%, US 4.5% (2015)"
     },
     "Imports": {
-      "text": "$91.13 billion (2014 est.) ++ $93.02 billion (2013 est.)"
+      "text": "$75.79 billion (2015 est.) ++ $90.89 billion (2014 est.)"
     },
     "Imports - commodities": {
       "text": "machinery and equipment, chemicals, metals, foodstuffs"
     },
     "Imports - partners": {
-      "text": "Sweden 12.3%, Germany 11.9%, China 9.4%, UK 6.5%, US 6.2%, Denmark 6.1% (2014)"
+      "text": "Sweden 12%, Germany 11.8%, China 10.9%, UK 6.7%, US 6.6%, Denmark 6% (2015)"
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$64.8 billion (31 December 2014 est.) ++ $58.28 billion (31 December 2013 est.)"
+      "text": "$57.46 billion (31 December 2015 est.) ++ $64.8 billion (31 December 2014 est.)"
     },
     "Debt - external": {
-      "text": "$64.8 billion (31 December 2014 est.) ++ $58.28 billion (31 December 2013 est.)",
+      "text": "$661.2 billion (31 December 2014 est.) ++ $730.1 billion (31 December 2013 est.)",
       "note": {
         "text": "Norway is a net external creditor"
       }
     },
     "Stock of direct foreign investment - at home": {
-      "text": "$285.1 billion (31 December 2014 est.) ++ $272.4 billion (31 December 2013 est.)"
+      "text": "$201.1 billion (31 December 2015 est.) ++ $225.9 billion (31 December 2014 est.)"
     },
     "Stock of direct foreign investment - abroad": {
-      "text": "$256.4 billion (31 December 2014 est.) ++ $255.6 billion (31 December 2013 est.)"
+      "text": "$192.2 billion (31 December 2015 est.) ++ $229.5 billion (31 December 2014 est.)"
     },
     "Exchange rates": {
-      "text": "Norwegian kroner (NOK) per US dollar - ++ 6.3021 (2014 est.) ++ 6.3021 (2013 est.) ++ 5.82 (2012 est.) ++ 5.6065 (2011 est.) ++ 6.0442 (2010 est.)"
+      "text": "Norwegian kroner (NOK) per US dollar - ++ 8.0646 (2015 est.) ++ 6.3021 (2014 est.) ++ 6.3021 (2013 est.) ++ 5.82 (2012 est.) ++ 5.6065 (2011 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
+    },
     "Electricity - production": {
-      "text": "134 billion kWh (2013 est.)"
+      "text": "142 billion kWh (2014 est.)"
     },
     "Electricity - consumption": {
-      "text": "119.5 billion kWh (2013 est.)"
+      "text": "126.4 billion kWh (2014 est.)"
     },
     "Electricity - exports": {
-      "text": "15.14 billion kWh (2013 est.)"
+      "text": "21.9 billion kWh (2014 est.)"
     },
     "Electricity - imports": {
-      "text": "10.14 billion kWh (2013 est.)"
+      "text": "6.3 billion kWh (2014 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "32.28 million kW (2012 est.)"
+      "text": "33.7 million kW (2014 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "4.3% of total installed capacity (2012 est.)"
+      "text": "4.7% of total installed capacity (2014 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2012 est.)"
+      "text": "0% of total installed capacity (2014 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "88.6% of total installed capacity (2012 est.)"
+      "text": "92.7% of total installed capacity (2014 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "2.9% of total installed capacity (2012 est.)"
+      "text": "2.5% of total installed capacity (2014 est.)"
     },
     "Crude oil - production": {
-      "text": "1.568 million bbl/day (2014 est.)"
+      "text": "1.568 million bbl/day (2015 est.)"
     },
     "Crude oil - exports": {
       "text": "1.218 million bbl/day (2013 est.)"
@@ -716,7 +722,7 @@
       "text": "37,080 bbl/day (2013 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "5.497 billion bbl (1 January 2010 est.)"
+      "text": "6.435 billion bbl (1 January 2010 est.)"
     },
     "Refined petroleum products - production": {
       "text": "349,600 bbl/day (2013 est.)"
@@ -731,19 +737,19 @@
       "text": "101,600 bbl/day (2013 est.)"
     },
     "Natural gas - production": {
-      "text": "112.6 billion cu m (2014 est.)"
+      "text": "114.9 billion cu m (2015 est.)"
     },
     "Natural gas - consumption": {
       "text": "6.075 billion cu m (2014 est.)"
     },
     "Natural gas - exports": {
-      "text": "106.6 billion cu m (2014 est.)"
+      "text": "114.4 billion cu m (2015 est.)"
     },
     "Natural gas - imports": {
       "text": "0 cu m (2014 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "2.09 trillion cu m (1 January 2014 est.)"
+      "text": "1.856 trillion cu m (1 January 2015 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
       "text": "41.06 million Mt (2012 est.)"
@@ -752,18 +758,18 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "1.16 million"
+        "text": "1,029,545"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "22 (2014 est.)"
+        "text": "20 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "5.9 million"
+        "text": "5.841 million"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "115 (2014 est.)"
+        "text": "112 (July 2015 est.)"
       }
     },
     "Telephone system": {
@@ -774,31 +780,42 @@
         "text": "Norway has a domestic satellite system; the prevalence of rural areas encourages the wide use of mobile-cellular systems"
       },
       "international": {
-        "text": "country code - 47; 2 buried coaxial cable systems; submarine cables provide links to other Nordic countries and Europe; satellite earth stations - NA Eutelsat, NA Intelsat (Atlantic Ocean), and 1 Inmarsat (Atlantic and Indian Ocean regions); note - Norway shares the Inmarsat earth station with the other Nordic countries (Denmark, Finland, Iceland, and Sweden) (2011)"
+        "text": "country code - 47; 2 buried coaxial cable systems; submarine cables provide links to other Nordic countries and Europe; satellite earth stations - NA Eutelsat, NA Intelsat (Atlantic Ocean), and 1 Inmarsat (Atlantic and Indian Ocean regions); note - Norway shares the Inmarsat earth station with the other Nordic countries (Denmark, Finland, Iceland, and Sweden) (2015)"
       }
     },
     "Broadcast media": {
       "text": "state-owned public radio-TV broadcaster operates 3 nationwide TV stations, 3 nationwide radio stations, and 16 regional radio stations; roughly a dozen privately owned television stations broadcast nationally and roughly another 25 local TV stations broadcasting; nearly 75% of households have access to multi-channel cable or satellite TV; 2 privately owned radio stations broadcast nationwide and another 240 stations operate locally (2008)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM 5, FM 160, shortwave 1 (2008)"
-    },
-    "Television broadcast stations": {
-      "text": "69 (2008)"
     },
     "Internet country code": {
       "text": ".no"
     },
     "Internet users": {
       "total": {
-        "text": "4.9 million"
+        "text": "5.042 million"
       },
       "percent of population": {
-        "text": "96.2% (2014 est.)"
+        "text": "96.8% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "3"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "106"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "12,277,220"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "0 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "LN (2016)"
+    },
     "Airports": {
       "text": "95 (2013)"
     },
@@ -827,7 +844,7 @@
         "text": "6"
       },
       "under 914 m": {
-        "text": " ++ 22 (2013)"
+        "text": "22 (2013)"
       }
     },
     "Heliports": {
@@ -866,7 +883,7 @@
         "text": "bulk carrier 55, cargo 105, carrier 5, chemical tanker 121, combination ore/oil 12, liquefied gas 47, passenger 3, passenger/cargo 121, petroleum tanker 54, refrigerated cargo 9, roll on/roll off 4, vehicle carrier 49"
       },
       "foreign-owned": {
-        "text": "81 (Bermuda 24, Canada 1, Cyprus 1, Denmark 7, France 5, Iceland 2,  Lithuania 1, Saudi Arabia 3, Sweden 27, US 10)"
+        "text": "81 (Bermuda 24, Canada 1, Cyprus 1, Denmark 7, France 5, Iceland 2, Lithuania 1, Saudi Arabia 3, Sweden 27, US 10)"
       },
       "registered in other countries": {
         "text": "974 (Antigua and Barbuda 9, Bahamas 186, Barbados 38, Belize 2, Bermuda 5, Brazil 3, Canada 4, Chile 1, Comoros 1, Cook Islands 8, Croatia 2, Curacao 2, Cyprus 14, Denmark 2, Dominica 1, Equatorial Guinea 1, Estonia 2, Faroe Islands 13, Gibraltar 46, Hong Kong 48, Indonesia 3, Isle of Man 30, Italy 6, Liberia 38, Libya 1, Malta 96, Marshall Islands 75, Netherlands 19, Panama 81, Portugal 2, Saint Kitts and Nevis 3, Saint Vincent and the Grenadines 13, Singapore 153, Spain 10, Sweden 3, UK 32, US 17, Vanuatu 1, unknown 3) (2010)"
@@ -884,51 +901,27 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "Norwegian Army (Haeren), Royal Norwegian Navy (Kongelige Norske Sjoeforsvaret, RNoN; includes Coastal Rangers and Coast Guard (Kystvakt)), Royal Norwegian Air Force (Kongelige Norske Luftforsvaret, RNoAF), Home Guard (Heimevernet, HV) (2013)"
     },
     "Military service age and obligation": {
-      "text": "19-35 years of age for male compulsory military service; 16 years of age in wartime; 17 years of age for male volunteers; 18 years of age for women; 1-year service obligation followed by 4-5 refresher training periods through ages 35-60, totalling 18 months (2012)"
-    },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "1,079,043"
-      },
-      "females age 16-49": {
-        "text": "1,051,210 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "888,761"
-      },
-      "females age 16-49": {
-        "text": "865,697 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "32,290"
-      },
-      "female": {
-        "text": "30,777 (2010 est.)"
-      }
+      "text": "19-35 years of age for male compulsory military service; 16 years of age in wartime; 17 years of age for male volunteers; 18 years of age for women; 1-year service obligation followed by 4-5 refresher training periods through ages 35-60, totaling 18 months (2012)"
     },
     "Military expenditures": {
-      "text": "1.4% of GDP (2012) ++ 1.47% of GDP (2011) ++ 1.4% of GDP (2010)"
+      "text": "1.59% of GDP (2015) ++ 1.58% of GDP (2014) ++ 1.4% of GDP (2013) ++ 1.4% of GDP (2012) ++ 1.47% of GDP (2011)"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf); Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission; Norway and Russia signed a comprehensive maritime boundary agreement in 2010"
+      "text": "Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf); Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission; Norway and Russia signed a comprehensive maritime boundary agreement in 2010"
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
-        "text": "8,901 (Somalia); 11,202 (Eritrea); 5,190 (Iraq); 5,454 (Afghanistan) (2014)"
+        "text": "13,490 (Eritrea); 8,600 (Somalia); 5,684 (Afghanistan) (2015)"
       },
       "stateless persons": {
-        "text": "1,997 (2014)"
+        "text": "2,561 (2015)"
       }
     }
   }

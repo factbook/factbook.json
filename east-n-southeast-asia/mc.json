@@ -48,12 +48,12 @@
     "Terrain": {
       "text": "generally flat"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "South China Sea 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "NA"
       },
-      "highest point": {
-        "text": "Coloane Alto 172 m"
+      "elevation extremes": {
+        "text": "lowest point: South China Sea 0 m ++ highest point: Coloane Alto 172 m"
       }
     },
     "Natural resources": {
@@ -71,7 +71,7 @@
       }
     },
     "Irrigated land": {
-      "text": "NA; note - included in the total for China"
+      "text": "0 sq km (2012)"
     },
     "Natural hazards": {
       "text": "typhoons"
@@ -89,6 +89,12 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "597,425",
+      "note": {
+        "text": "Macau's statistical agency estimated the total population to be approximately 646,800 as of 31 December 2015 (July 2016 est.)"
+      }
+    },
     "Nationality": {
       "noun": {
         "text": "Chinese"
@@ -109,30 +115,21 @@
     "Religions": {
       "text": "Buddhist 50%, Roman Catholic 15%, none or other 35% (1997 est.)"
     },
-    "Population": {
-      "text": "592,731",
-      "note": {
-        "text": "Macau's statistical agency estimated the total population to be approximately 607,500 as of 31 December 2013 (July 2015 est.)"
-      }
-    },
     "Age structure": {
       "0-14 years": {
-        "text": "14.31% (male 44,335/female 40,481)"
+        "text": "14.22% (male 44,295/female 40,679)"
       },
       "15-24 years": {
-        "text": "13.02% (male 40,337/female 36,862)"
+        "text": "12.36% (male 38,772/female 35,052)"
       },
       "25-54 years": {
-        "text": "50.67% (male 133,897/female 166,418)"
+        "text": "50.41% (male 134,113/female 167,022)"
       },
       "55-64 years": {
-        "text": "12.42% (male 37,118/female 36,527)"
+        "text": "12.97% (male 39,020/female 38,486)"
       },
       "65 years and over": {
-        "text": "9.58% (male 26,555/female 30,201) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "10.04% (male 28,048/female 31,938) (2016 est.)"
       }
     },
     "Dependency ratios": {
@@ -151,26 +148,26 @@
     },
     "Median age": {
       "total": {
-        "text": "38.2 years"
-      },
-      "male": {
         "text": "38.7 years"
       },
+      "male": {
+        "text": "39.1 years"
+      },
       "female": {
-        "text": "37.9 years (2015 est.)"
+        "text": "38.5 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "0.8% (2015 est.)"
+      "text": "0.77% (2016 est.)"
     },
     "Birth rate": {
-      "text": "8.88 births/1,000 population (2015 est.)"
+      "text": "8.8 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "4.22 deaths/1,000 population (2015 est.)"
+      "text": "4.4 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "3.37 migrant(s)/1,000 population (2015 est.)"
+      "text": "3.4 migrant(s)/1,000 population (2016 est.)"
     },
     "Urbanization": {
       "urban population": {
@@ -185,48 +182,48 @@
         "text": "1.05 male(s)/female"
       },
       "0-14 years": {
-        "text": "1.1 male(s)/female"
-      },
-      "15-24 years": {
         "text": "1.09 male(s)/female"
       },
+      "15-24 years": {
+        "text": "1.11 male(s)/female"
+      },
       "25-54 years": {
-        "text": "0.81 male(s)/female"
+        "text": "0.8 male(s)/female"
       },
       "55-64 years": {
-        "text": "1.02 male(s)/female"
+        "text": "1.01 male(s)/female"
       },
       "65 years and over": {
         "text": "0.88 male(s)/female"
       },
       "total population": {
-        "text": "0.91 male(s)/female (2015 est.)"
+        "text": "0.91 male(s)/female (2016 est.)"
       }
     },
     "Infant mortality rate": {
       "total": {
-        "text": "3.12 deaths/1,000 live births"
+        "text": "3.1 deaths/1,000 live births"
       },
       "male": {
-        "text": "3.27 deaths/1,000 live births"
+        "text": "3.3 deaths/1,000 live births"
       },
       "female": {
-        "text": "2.95 deaths/1,000 live births (2015 est.)"
+        "text": "2.9 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "84.51 years"
+        "text": "84.5 years"
       },
       "male": {
-        "text": "81.55 years"
+        "text": "81.6 years"
       },
       "female": {
-        "text": "87.61 years (2015 est.)"
+        "text": "87.6 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "0.94 children born/woman (2015 est.)"
+      "text": "0.94 children born/woman (2016 est.)"
     },
     "HIV/AIDS - adult prevalence rate": {
       "text": "NA"
@@ -238,7 +235,7 @@
       "text": "NA"
     },
     "Education expenditures": {
-      "text": "3.3% of GDP (2012)"
+      "text": "2.1% of GDP (2013)"
     },
     "Literacy": {
       "definition": {
@@ -256,13 +253,13 @@
     },
     "Unemployment, youth ages 15-24": {
       "total": {
-        "text": "5.8%"
+        "text": "5.3%"
       },
       "male": {
-        "text": "7%"
+        "text": "5.9%"
       },
       "female": {
-        "text": "4.7% (2011 est.)"
+        "text": "4.5% (2014 est.)"
       }
     }
   },
@@ -279,13 +276,16 @@
       },
       "official short form": {
         "text": "Aomen (Chinese); Macau (Portuguese)"
+      },
+      "etymology": {
+        "text": "name is thought to derive from the A-Ma Temple - built in 1488 and dedicated to Mazu, the goddess of seafarers and fishermen - which is referred to locally as \"Maa Gok\" and which in Portuguese became \"Macau\"; the Chinese name Aomen means \"inlet gates\""
       }
     },
     "Dependency status": {
       "text": "special administrative region of the People's Republic of China"
     },
     "Government type": {
-      "text": "limited democracy"
+      "text": "presidential limited democracy; a special administrative region of the PRC"
     },
     "Administrative divisions": {
       "text": "none (special administrative region of the People's Republic of China)"
@@ -297,10 +297,13 @@
       "text": "National Day (anniversary of the Founding of the People's Republic of China), 1 October (1949); note - 20 December 1999 is celebrated as Macau Special Administrative Region Establishment Day"
     },
     "Constitution": {
-      "text": "previous 1976 (Organic Statute of Macau, under Portuguese authority); latest adopted 31 March 1993, effective 20 December 1999 (Basic Law of the Macau Special Administrative Region of the People's Republic of China serves as Macau's constitution) (2015)"
+      "text": "previous 1976 (Organic Statute of Macau, under Portuguese authority); latest adopted 31 March 1993, effective 20 December 1999 (Basic Law of the Macau Special Administrative Region of the People's Republic of China serves as Macau's constitution); amended 2005, 2012 (2016)"
     },
     "Legal system": {
       "text": "civil law system based on the Portuguese model"
+    },
+    "Citizenship": {
+      "text": "see China"
     },
     "Suffrage": {
       "text": "18 years of age in direct elections for some legislative positions, universal for permanent residents living in Macau for the past seven years; note - indirect elections are limited to organizations registered as \"corporate voters\" (973 were registered in the 2009 legislative elections) and a 400-member Election Committee for the Chief Executive drawn from broad regional groupings, municipal organizations, central government bodies, and elected Macau officials"
@@ -376,41 +379,41 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Since opening up its locally-controlled casino industry to foreign competition in 2001, Macau has attracted tens of billions of dollars in foreign investment, transforming the territory into one of the world's largest gaming centers. Macau's gaming and tourism businesses were fueled by China's decision to relax travel restrictions on Chinese citizens wishing to visit Macau. In 2014, Macau's gaming-related taxes accounted for more than 83% of total government revenue. Macau's economy slowed dramatically in 2009 as a result of the global economic slowdown, but strong growth resumed in 2010-13, largely on the back of tourism from mainland China and the gaming sectors. In 2014, this city of 636,200 hosted nearly 31.5 million visitors. Almost 67% came from mainland China. Macau's traditional manufacturing industry has slowed greatly since the termination of the Multi-Fiber Agreement in 2005. Services export — primarily gaming — increasingly has driven Macau’s economic performance. Mainland China’s ongoing anti-corruption campaign has brought Macau’s gambling boom to a halt, with spending in casinos contracting 2.6% in 2014. As a result, Macau's inflation-adjusted GDP contracted 0.4% from 2013, down from double-digit expansion rates in 2010-13. Non-inflation adjusted exports of goods and services dropped 0.4% from 2013, reflecting the slowdown in gaming exports. Macau continues to face the challenges of managing its growing casino industry, risks from money-laundering activities, and the need to diversify the economy away from heavy dependence on gaming revenues. Macau's currency, the pataca, is closely tied to the Hong Kong dollar, which is also freely accepted in the territory."
+      "text": "Since opening up its locally-controlled casino industry to foreign competition in 2001, Macau has attracted tens of billions of dollars in foreign investment, transforming the territory into one of the world's largest gaming centers. Macau's gaming and tourism businesses were fueled by China's decision to relax travel restrictions on Chinese citizens wishing to visit Macau. In 2015, Macau's gaming-related taxes accounted for more than 76% of total government revenue. ++  ++ Macau's economy slowed dramatically in 2009 as a result of the global economic slowdown, but strong growth resumed in 2010-13, largely on the back of tourism from mainland China and the gaming sectors. In 2015, this city of 646,800 hosted nearly 30.7 million visitors. Almost 67% came from mainland China. Macau's traditional manufacturing industry has slowed greatly since the termination of the Multi-Fiber Agreement in 2005. Services export — primarily gaming — increasingly has driven Macau’s economic performance. Mainland China’s ongoing anti-corruption campaign has brought Macau’s gambling boom to a halt, with spending in casinos contracting 34.3% in 2015. As a result, Macau's inflation-adjusted GDP contracted 20.3% from 2014, down from double-digit expansion rates in 2010-13. Non-inflation adjusted exports of goods and services dropped 1.8% from 2014, reflecting the slowdown in gaming exports. ++  ++ Macau continues to face the challenges of managing its growing casino industry, risks from money-laundering activities, and the need to diversify the economy away from heavy dependence on gaming revenues. Macau's currency, the pataca, is closely tied to the Hong Kong dollar, which is also freely accepted in the territory."
     },
     "GDP (purchasing power parity)": {
-      "text": "$51.68 billion (2013 est.) ++ $46.19 billion (2012 est.) ++ $42.34 billion (2011 est.)",
+      "text": "$65.52 billion (2015 est.) ++ $82.25 billion (2014 est.) ++ $82.96 billion (2013 est.)",
       "note": {
         "text": "data are in 2013 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$51.68 billion (2013 est.)"
+      "text": "$46.18 billion (2015 est.)"
     },
     "GDP - real growth rate": {
-      "text": "11.9% (2013 est.) ++ 9.1% (2012 est.) ++ 21.3% (2011 est.)"
+      "text": "-20.3% (2015 est.) ++ -0.9% (2014 est.) ++ 11.2% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$88,700 (2013 est.) ++ $79,900 (2010 est.) ++ $73,900 (2009 est.)"
+      "text": "$101,300 (2015 est.) ++ $129,300 (2014 est.) ++ $136,400 (2013 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "19.4%"
+        "text": "25.7%"
       },
       "government consumption": {
-        "text": "7.1%"
+        "text": "9.5%"
       },
       "investment in fixed capital": {
-        "text": "18.4%"
+        "text": "23.1%"
       },
       "investment in inventories": {
-        "text": "0.7%"
+        "text": "1%"
       },
       "exports of goods and services": {
-        "text": "99.1%"
+        "text": "77.8%"
       },
       "imports of goods and services": {
-        "text": "-44.7% ++  (2014 est.)"
+        "text": "-37.1% (2015 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
@@ -418,10 +421,10 @@
         "text": "0%"
       },
       "industry": {
-        "text": "6.4%"
+        "text": "10.2%"
       },
       "services": {
-        "text": "93.6% (2013 est.)"
+        "text": "89.8% (2013 est.)"
       }
     },
     "Agriculture - products": {
@@ -431,10 +434,10 @@
       "text": "tourism, gambling, clothing, textiles, electronics, footwear, toys"
     },
     "Industrial production growth rate": {
-      "text": "7% (2014 est.)"
+      "text": "4% (2015 est.)"
     },
     "Labor force": {
-      "text": "394,800 (2014 est.)"
+      "text": "403,500 (2015 est.)"
     },
     "Labor force - by occupation": {
       "manufacturing": {
@@ -466,7 +469,7 @@
       }
     },
     "Unemployment rate": {
-      "text": "1.9% (2013 est.) ++ 1.9% (2013 est.)"
+      "text": "1.8% (2015 est.) ++ 1.7% (2014 est.)"
     },
     "Population below poverty line": {
       "text": "NA%"
@@ -484,44 +487,44 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$19.13 billion"
+        "text": "$13.16 billion"
       },
       "expenditures": {
-        "text": "$6.122 billion (2014 est.)"
+        "text": "$6.625 billion (2015 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "37% of GDP (2014 est.)"
+      "text": "28.5% of GDP (2015 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "25.2% of GDP (2014 est.)"
+      "text": "14.2% of GDP (2015 est.)"
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Inflation rate (consumer prices)": {
-      "text": "6% (2014 est.) ++ 5.5% (2013 est.)"
+      "text": "4.6% (2015 est.) ++ 6% (2014 est.)"
     },
     "Commercial bank prime lending rate": {
-      "text": "5.25% (31 December 2014 est.) ++ 5.25% (31 December 2013 est.)"
+      "text": "5.25% (31 December 2015 est.) ++ 5.25% (31 December 2014 est.)"
     },
     "Stock of narrow money": {
-      "text": "$7.678 billion (31 December 2014 est.) ++ $7.322 billion (31 December 2013 est.)"
+      "text": "$7.623 billion (31 December 2015 est.) ++ $7.66 billion (31 December 2014 est.)"
     },
     "Stock of broad money": {
       "text": "$64.67 billion (31 December 2014 est.) ++ $55.29 billion (31 December 2013 est.)"
     },
     "Stock of domestic credit": {
-      "text": "$-147.8 million (31 December 2014 est.) ++ $-5.517 billion (31 December 2013 est.)"
+      "text": "$10.09 billion (31 December 2015 est.) ++ $-147.8 million (31 December 2014 est.)"
     },
     "Market value of publicly traded shares": {
-      "text": "$85.5 billion (2 March 2012 est.) ++ $46.1 billion (31 February 2011) ++ $2.3 billion (31 December 2008 est.)"
+      "text": "$85.5 billion (2 March 2012 est.) ++ $46.1 billion (31 February 2011 est.) ++ $2.3 billion (31 December 2008 est.)"
     },
     "Current account balance": {
-      "text": "$22.36 billion (2013 est.) ++ $17.39 billion (2012 est.)"
+      "text": "$12.92 billion (2015 est.) ++ $19.08 billion (2014 est.)"
     },
     "Exports": {
-      "text": "$1.137 billion (2013 est.) ++ $1.384 billion (2012 est.)",
+      "text": "$1.137 billion (2013 est.) ++ $1.903 billion (2014 est.)",
       "note": {
         "text": "includes reexports"
       }
@@ -530,25 +533,25 @@
       "text": "clothing, textiles, footwear, toys, electronics, machinery and parts"
     },
     "Exports - partners": {
-      "text": "Hong Kong 58.6%, China 15.7% (2014 est.)"
+      "text": "Hong Kong 63.4%, China 18.2% (2015)"
     },
     "Imports": {
-      "text": "$10.13 billion (2013 est.) ++ $8.866 billion (2012 est.)"
+      "text": "$14.2 billion (2014 est.) ++ $10.13 billion (2013 est.)"
     },
     "Imports - commodities": {
       "text": "raw materials and semi-manufactured goods, consumer goods (foodstuffs, beverages, tobacco, garments and footwear, motor vehicles), capital goods, mineral fuels and oils"
     },
     "Imports - partners": {
-      "text": "China 33.2%, Hong Kong 10.3%, Switzerland 9.1%, France 8.4%, Italy 6.9%, US 6.5%, Japan 5.6% (2014 est.)"
+      "text": "China 33.8%, Hong Kong 8.8%, Japan 8.5%, Switzerland 8%, France 6.9%, Italy 6.7%, US 6.7% (2015)"
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$16.44 billion (31 December 2014 est.) ++ $16.15 billion (31 December 2013 est.)",
+      "text": "$18.89 billion (31 December 2015 est.) ++ $16.44 billion (31 December 2014 est.)",
       "note": {
         "text": "the Fiscal Reserves Act that came into force on 1 January 2012 requires the fiscal reserves to be separated from the foreign exchange reserves and to be managed separately; the transfer of assets took place in February 2012"
       }
     },
     "Debt - external": {
-      "text": "$16.44 billion (31 December 2014 est.) ++ $16.15 billion (31 December 2013 est.)"
+      "text": "$0 (31 December 2013) ++ $0 (31 December 2012)"
     },
     "Stock of direct foreign investment - at home": {
       "text": "$18.91 billion (31 December 2011 est.) ++ $14.91 billion (31 December 2011 est.)"
@@ -557,10 +560,24 @@
       "text": "$1.166 billion (2012 est.) ++ $667.8 million (2011 est.)"
     },
     "Exchange rates": {
-      "text": "patacas (MOP) per US dollar - ++ 7.9871 (2014 est.) ++ 7.9871 (2013 est.) ++ 7.99 (2012 est.) ++ 8.0182 (2011 est.) ++ 8.0022 (2010 est.)"
+      "text": "patacas (MOP) per US dollar - ++ 7.985 (2015 est.) ++ 7.9871 (2014 est.) ++ 7.9871 (2013 est.) ++ 7.99 (2012 est.) ++ 8.0182 (2011 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "59,742"
+      },
+      "electrification - total population": {
+        "text": "91%"
+      },
+      "electrification - urban areas": {
+        "text": "91%"
+      },
+      "electrification - rural areas": {
+        "text": "72% (2012)"
+      }
+    },
     "Electricity - production": {
       "text": "413.7 million kWh (2013 est.)"
     },
@@ -634,18 +651,18 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total": {
-        "text": "160,000"
+        "text": "146,138"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "28 (2012)"
+        "text": "25 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "1.6 million"
+        "text": "1.896 million"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "279 (2012)"
+        "text": "320 (July 2015 est.)"
       }
     },
     "Telephone system": {
@@ -653,34 +670,45 @@
         "text": "fairly modern communication facilities maintained for domestic and international services"
       },
       "domestic": {
-        "text": "termination of monopoly over mobile-cellular telephone services in 2001 spurred sharp increase in subscriptions with mobile-cellular teledensity exceeding 200 per 100 persons; fixed-line subscribership appears to have peaked and is now in decline"
+        "text": "termination of monopoly over mobile-cellular telephone services in 2001 spurred sharp increase in subscriptions with mobile-cellular teledensity exceeding 300 per 100 persons; fixed-line subscribership appears to have peaked and is now in decline"
       },
       "international": {
-        "text": "country code - 853; landing point for the SEA-ME-WE-3 submarine cable network that provides links to Asia, the Middle East, and Europe; HF radiotelephone communication facility; satellite earth station - 1 Intelsat (Indian Ocean) (2011)"
+        "text": "country code - 853; landing point for the SEA-ME-WE-3 submarine cable network that provides links to Asia, the Middle East, and Europe; HF radiotelephone communication facility; satellite earth station - 1 Intelsat (Indian Ocean) (2015)"
       }
     },
     "Broadcast media": {
-      "text": "local government dominates broadcast media; 2 television stations operated by the government with one broadcasting in Portuguese and the other in Cantonese and Mandarin; 1 cable TV and 4 satellite TV services available; 3 radio stations broadcasting, of which 2 are government-operated (2012)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM 1, FM 2, shortwave 0 (2009)"
-    },
-    "Television broadcast stations": {
-      "text": "1 (2009)"
+      "text": "local government dominates broadcast media; 2 television stations operated by the government with one broadcasting in Portuguese and the other in Cantonese and Mandarin; 1 cable TV and 4 satellite TV services available; 3 radio stations broadcasting, of which 2 are government-operated (2015)"
     },
     "Internet country code": {
       "text": ".mo"
     },
     "Internet users": {
       "total": {
-        "text": "270,200"
+        "text": "460,000"
       },
       "percent of population": {
-        "text": "48.3% (2009)"
+        "text": "77.6% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "1 (registered in China)"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "17 (registered in China)"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "2,276,436"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "25.435 million mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "B-M (2016)"
+    },
     "Airports": {
       "text": "1 (2013)"
     },
@@ -697,10 +725,10 @@
     },
     "Roadways": {
       "total": {
-        "text": "421 km"
+        "text": "424 km"
       },
       "paved": {
-        "text": "421 km (2013)"
+        "text": "424 km (2014)"
       }
     },
     "Ports and terminals": {
@@ -709,30 +737,9 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "no regular indigenous military forces"
-    },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "150,780 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "124,189"
-      },
-      "females age 16-49": {
-        "text": "149,514 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "4,274"
-      },
-      "female": {
-        "text": "3,674 (2010 est.)"
-      }
     },
     "Military - note": {
       "text": "defense is the responsibility of China"

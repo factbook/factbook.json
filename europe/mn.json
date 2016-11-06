@@ -53,12 +53,12 @@
     "Terrain": {
       "text": "hilly, rugged, rocky"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Mediterranean Sea 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "NA"
       },
-      "highest point": {
-        "text": "Mont Agel 140 m"
+      "elevation extremes": {
+        "text": "lowest point: Mediterranean Sea 0 m ++ highest point: Mont Agel 140 m"
       }
     },
     "Natural resources": {
@@ -76,7 +76,10 @@
       }
     },
     "Irrigated land": {
-      "text": "NA"
+      "text": "0 sq km (2012)"
+    },
+    "Population - distribution": {
+      "text": "the most densely populated country in the world; its entire population living on 2 square km"
     },
     "Natural hazards": {
       "text": "NA"
@@ -93,10 +96,16 @@
       }
     },
     "Geography - note": {
-      "text": "second-smallest independent state in the world (after Holy See); smallest country with a coastline; almost entirely urban"
+      "text": "second-smallest independent state in the world (after the Holy See); smallest country with a coastline; almost entirely urban"
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "30,581 (July 2016 est.)",
+      "note": {
+        "text": "immigrants make up more than 55% of the total population, according to UN data (2015)"
+      }
+    },
     "Nationality": {
       "noun": {
         "text": "Monegasque(s) or Monacan(s)"
@@ -114,54 +123,48 @@
     "Religions": {
       "text": "Roman Catholic 90% (official), other 10%"
     },
-    "Population": {
-      "text": "30,535",
-      "note": {
-        "text": "immigrants make up more than 60% of the total population, according to UN data (2013) (July 2015 est.)"
-      }
-    },
     "Age structure": {
       "0-14 years": {
-        "text": "11.41% (male 1,793/female 1,692)"
+        "text": "11.08% (male 1,744/female 1,644)"
       },
       "15-24 years": {
-        "text": "9.03% (male 1,420/female 1,337)"
+        "text": "9.13% (male 1,439/female 1,352)"
       },
       "25-54 years": {
-        "text": "34.47% (male 5,239/female 5,286)"
+        "text": "33.68% (male 5,162/female 5,137)"
       },
       "55-64 years": {
-        "text": "14.71% (male 2,255/female 2,238)"
+        "text": "14.79% (male 2,253/female 2,270)"
       },
       "65 years and over": {
-        "text": "30.37% (male 4,146/female 5,129) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "31.33% (male 4,269/female 5,311) (2016 est.)"
       }
     },
     "Median age": {
       "total": {
-        "text": "51.7 years"
+        "text": "52.4 years"
       },
       "male": {
-        "text": "50.6 years"
+        "text": "51.1 years"
       },
       "female": {
-        "text": "53 years (2015 est.)"
+        "text": "53.7 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "0.12% (2015 est.)"
+      "text": "0.18% (2016 est.)"
     },
     "Birth rate": {
-      "text": "6.65 births/1,000 population (2015 est.)"
+      "text": "6.6 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "9.24 deaths/1,000 population (2015 est.)"
+      "text": "9.6 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "3.83 migrant(s)/1,000 population (2015 est.)"
+      "text": "4.7 migrant(s)/1,000 population (2016 est.)"
+    },
+    "Population distribution": {
+      "text": "the most densely populated country in the world; its entire population living on 2 square km"
     },
     "Urbanization": {
       "urban population": {
@@ -185,45 +188,45 @@
         "text": "1.06 male(s)/female"
       },
       "25-54 years": {
-        "text": "0.99 male(s)/female"
+        "text": "1 male(s)/female"
       },
       "55-64 years": {
-        "text": "1.01 male(s)/female"
+        "text": "0.99 male(s)/female"
       },
       "65 years and over": {
         "text": "0.81 male(s)/female"
       },
       "total population": {
-        "text": "0.95 male(s)/female (2015 est.)"
+        "text": "0.95 male(s)/female (2016 est.)"
       }
     },
     "Infant mortality rate": {
       "total": {
-        "text": "1.82 deaths/1,000 live births"
+        "text": "1.8 deaths/1,000 live births"
       },
       "male": {
-        "text": "2.06 deaths/1,000 live births"
+        "text": "2.1 deaths/1,000 live births"
       },
       "female": {
-        "text": "1.57 deaths/1,000 live births (2015 est.)"
+        "text": "1.6 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "89.52 years"
+        "text": "89.5 years"
       },
       "male": {
-        "text": "85.63 years"
+        "text": "85.6 years"
       },
       "female": {
-        "text": "93.58 years (2015 est.)"
+        "text": "93.5 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "1.52 children born/woman (2015 est.)"
+      "text": "1.53 children born/woman (2016 est.)"
     },
     "Health expenditures": {
-      "text": "4% of GDP (2013)"
+      "text": "4.3% of GDP (2014)"
     },
     "Physicians density": {
       "text": "7.17 physicians/1,000 population (2012)"
@@ -241,10 +244,10 @@
     },
     "Sanitation facility access": {
       "improved": {
-        "text": " ++ urban: 100% of population ++ total: 100% of population"
+        "text": " ++ urban: 100% of population ++ rural: NA ++ total: 100% of population"
       },
       "unimproved": {
-        "text": " ++ urban: 0% of population ++ total: 0% of population (2015 est.)"
+        "text": " ++ urban: 0% of population ++ rural: NA ++ total: 0% of population (2015 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -257,7 +260,7 @@
       "text": "NA"
     },
     "Education expenditures": {
-      "text": "1.6% of GDP (2011)"
+      "text": "1% of GDP (2014)"
     }
   },
   "Government": {
@@ -273,6 +276,9 @@
       },
       "local short form": {
         "text": "Monaco"
+      },
+      "etymology": {
+        "text": "founded as a Greek colony in the 6th century B.C., the name derives from two Greek words \"monos\" (single, alone) and \"oikos\" (house) to convey the sense of a people \"living apart\" or in a \"single habitation\""
       }
     },
     "Government type": {
@@ -302,13 +308,27 @@
       "text": "National Day (Saint Rainier's Day), 19 November (1857)"
     },
     "Constitution": {
-      "text": "previous 1911 (suspended 1959); latest adopted 17 December 1962; amended 2002 (2015)"
+      "text": "previous 1911 (suspended 1959); latest adopted 17 December 1962; amended 2002 (2016)"
     },
     "Legal system": {
       "text": "civil law system influenced by French legal tradition"
     },
     "International law organization participation": {
       "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "the father must be a citizen of Monaco; in the case of a child born out of wedlock, the mother must be a citizen and father unknown"
+      },
+      "dual citizenship recognized": {
+        "text": "no"
+      },
+      "residency requirement for naturalization": {
+        "text": "10 years"
+      }
     },
     "Suffrage": {
       "text": "18 years of age; universal"
@@ -318,7 +338,7 @@
         "text": "Prince ALBERT II (since 6 April 2005)"
       },
       "head of government": {
-        "text": "Minister of State Michel ROGER (since 29 March 2010)"
+        "text": "Minister of State Serge TELLE (since 1 February 2016)"
       },
       "cabinet": {
         "text": "Council of Government under the authority of the monarch"
@@ -350,7 +370,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Horizon Monaco [Laurent NOUVION] ++ Renaissance [SBM (public corporation)] ++ Union Monegasque [Stephane VALERI]"
+      "text": "Horizon Monaco [Laurent NOUVION] ++ Renaissance [SBM (public corporation)] ++ Union Monegasque [Jean-Francois ROBILLON]"
     },
     "Political pressure groups and leaders": {
       "text": "NA"
@@ -401,7 +421,7 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Monaco, bordering France on the Mediterranean coast, is a popular resort, attracting tourists to its casino and pleasant climate. The principality also is a banking center and has successfully sought to diversify into services and small, high-value-added, nonpolluting industries. The state has no income tax and low business taxes and thrives as a tax haven both for individuals who have established residence and for foreign companies that have set up businesses and offices. Monaco, however, is not a tax-free shelter; it charges nearly 20% value-added tax, collects stamp duties, and companies face a 33% tax on profits unless they can show that three-quarters of profits are generated within the principality. Monaco's reliance on tourism and banking for its economic growth has left it vulnerable to a downturn in France and other European economies which are the principality's main trade partners. In 2009, Monaco's GDP fell by 11.5% as the euro-zone crisis precipitated a sharp drop in tourism and retail activity and home sales. A modest recovery ensued in 2010 and intensified in 2013, with GDP growth of more than 9%, but Monaco's economic prospects remain uncertain, and tied to future euro-zone growth. Monaco was formally removed from the OECD's \"grey list\" of uncooperative tax jurisdictions in late 2009, but continues to face international pressure to abandon its banking secrecy laws and help combat tax evasion. In October 2014, Monaco officially became the 84th jurisdiction participating in the OECD’s Multilateral Convention on Mutual Administrative Assistance in Tax Matters, an effort to combat offshore tax avoidance and evasion. The state retains monopolies in a number of sectors, including tobacco, the telephone network, and the postal service. Living standards are high, roughly comparable to those in prosperous French metropolitan areas."
+      "text": "Monaco, bordering France on the Mediterranean coast, is a popular resort, attracting tourists to its casino and pleasant climate. The principality also is a banking center and has successfully sought to diversify into services and small, high-value-added, nonpolluting industries. The state retains monopolies in a number of sectors, including tobacco, the telephone network, and the postal service. Living standards are high, roughly comparable to those in prosperous French metropolitan areas. ++  ++ The state has no income tax and low business taxes and thrives as a tax haven both for individuals who have established residence and for foreign companies that have set up businesses and offices. Monaco, however, is not a tax-free shelter; it charges nearly 20% value-added tax, collects stamp duties, and companies face a 33% tax on profits unless they can show that three-quarters of profits are generated within the principality. Monaco was formally removed from the OECD's \"grey list\" of uncooperative tax jurisdictions in late 2009, but continues to face international pressure to abandon its banking secrecy laws and help combat tax evasion. In October 2014, Monaco officially became the 84th jurisdiction participating in the OECD’s Multilateral Convention on Mutual Administrative Assistance in Tax Matters, an effort to combat offshore tax avoidance and evasion. ++  ++ Monaco's reliance on tourism and banking for its economic growth has left it vulnerable to a downturn in France and other European economies which are the principality's main trade partners. In 2009, Monaco's GDP fell by 11.5% as the euro-zone crisis precipitated a sharp drop in tourism and retail activity and home sales. A modest recovery ensued in 2010 and intensified in 2013, with GDP growth of more than 9%, but Monaco's economic prospects remain uncertain, and tied to future euro-zone growth."
     },
     "GDP (purchasing power parity)": {
       "text": "$6.79 billion (2013 est.) ++ $6.213 billion (2012 est.) ++ $5.748 billion (2011 est.)",
@@ -413,10 +433,10 @@
       "text": "$6.063 billion (2013 est.)"
     },
     "GDP - real growth rate": {
-      "text": "9.3% (2013 est.) ++ 1.2% (2012) ++ 7% (2011)"
+      "text": "9.3% (2013 est.) ++ 1.2% (2012 est.) ++ 7% (2011 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$78,700 (2013 est.) ++ $73,200 (2012) ++ $72,600 (2011)"
+      "text": "$78,700 (2013 est.) ++ $73,200 (2012 est.) ++ $72,600 (2011 est.)"
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -471,14 +491,14 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$1.06 billion"
+        "text": "$1.075 billion"
       },
       "expenditures": {
-        "text": "$1.128 billion (2011 est.)"
+        "text": "$1.144 billion (2011 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "17.5% of GDP (2011 est.)"
+      "text": "17.7% of GDP (2011 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
       "text": "-1.1% of GDP (2011 est.)"
@@ -514,24 +534,31 @@
       "text": "$NA"
     },
     "Exchange rates": {
-      "text": "euros (EUR) per US dollar - ++ 0.7489 (2014 est.) ++ 0.7634 (2013 est.) ++ 0.78 (2012 est.) ++ 0.7185 (2011 est.) ++ 0.755 (2010 est.)"
+      "text": "euros (EUR) per US dollar - ++ 0.885 (2015 est.) ++ 0.7525 (2014 est.) ++ 0.7634 (2013 est.) ++ 0.78 (2012 est.) ++ 0.7185 (2011 est.)"
+    }
+  },
+  "Energy": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
     }
   },
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "50,600"
+        "text": "49,085"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "166 (2014 est.)"
+        "text": "130 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "33,700"
+        "text": "34,000"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "110 (2014 est.)"
+        "text": "90 (July 2015 est.)"
       }
     },
     "Telephone system": {
@@ -542,31 +569,28 @@
         "text": "combined fixed-line and mobile-cellular teledensity exceeds 200 per 100 persons"
       },
       "international": {
-        "text": "country code - 377; no satellite earth stations; connected by cable into the French communications system (2011)"
+        "text": "country code - 377; no satellite earth stations; connected by cable into the French communications system (2015)"
       }
     },
     "Broadcast media": {
-      "text": "TV Monte-Carlo (TMC) operates a TV network; cable TV available; Radio Monte-Carlo has extensive radio networks in France and Italy with French-language broadcasts to France beginning in the 1960s and Italian-language broadcasts to Italy beginning in the 1970s; other radio stations include Riviera Radio and Radio Monaco (2012)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM 1, FM 11, shortwave 1 (2008)"
-    },
-    "Television broadcast stations": {
-      "text": "5 (1998)"
+      "text": "TV Monte-Carlo operates a TV network; cable TV available; Radio Monte-Carlo has extensive radio networks in France and Italy with French-language broadcasts to France beginning in the 1960s and Italian-language broadcasts to Italy beginning in the 1970s; other radio stations include Riviera Radio and Radio Monaco (2012)"
     },
     "Internet country code": {
       "text": ".mc"
     },
     "Internet users": {
       "total": {
-        "text": "27,400"
+        "text": "35,000"
       },
       "percent of population": {
-        "text": "89.9% (2014 est.)"
+        "text": "93.4% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "Civil aircraft registration country code prefix": {
+      "text": "3A (2016)"
+    },
     "Heliports": {
       "text": "1 (2012)"
     },
@@ -589,30 +613,9 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "no regular military forces; Directorate of Public Security (2012)"
-    },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "5,749 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "4,629"
-      },
-      "females age 16-49": {
-        "text": "4,597 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "153"
-      },
-      "female": {
-        "text": "141 (2010 est.)"
-      }
     },
     "Military - note": {
       "text": "defense is the responsibility of France"

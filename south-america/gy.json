@@ -56,12 +56,12 @@
     "Terrain": {
       "text": "mostly rolling highlands; low coastal plain; savanna in south"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Atlantic Ocean 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "207 m"
       },
-      "highest point": {
-        "text": "Mount Roraima 2,835 m"
+      "elevation extremes": {
+        "text": "lowest point: Atlantic Ocean 0 m ++ highest point: Mount Roraima 2,835 m"
       }
     },
     "Natural resources": {
@@ -79,18 +79,10 @@
       }
     },
     "Irrigated land": {
-      "text": "1,501 sq km (2003)"
+      "text": "1,430 sq km (2012)"
     },
-    "Total renewable water resources": {
-      "text": "241 cu km (2011)"
-    },
-    "Freshwater withdrawal (domestic/industrial/agricultural)": {
-      "total": {
-        "text": "1.64  cu km/yr (4%/1%/94%)"
-      },
-      "per capita": {
-        "text": "2,222  cu m/yr (2010)"
-      }
+    "Population - distribution": {
+      "text": "population is heavily concentrated in the northeast in and around Georgetown, with noteable concentrations along the Berbice River to the east; the remainder of the country is sparsely populated"
     },
     "Natural hazards": {
       "text": "flash flood threat during rainy seasons"
@@ -111,6 +103,12 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "735,909",
+      "note": {
+        "text": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2016 est.)"
+      }
+    },
     "Nationality": {
       "noun": {
         "text": "Guyanese (singular and plural)"
@@ -131,30 +129,21 @@
     "Demographic profile": {
       "text": "Guyana is the only English-speaking country in South America and shares cultural and historical bonds with the Anglophone Caribbean. Guyana's two largest ethnic groups are the Afro-Guyanese (descendants of African slaves) and the Indo-Guyanese (descendants of Indian indentured laborers), which together comprise about three quarters of Guyana's population. Tensions periodically have boiled over between the two groups, which back ethnically based political parties and vote along ethnic lines. Poverty reduction has stagnated since the late 1990s. About one-third of the Guyanese population lives below the poverty line; indigenous people are disproportionately affected. Although Guyana's literacy rate is reported to be among the highest in the Western Hemisphere, the level of functional literacy is considerably lower, which has been attributed to poor education quality, teacher training, and infrastructure. Guyana's emigration rate is among the highest in the world - more than 55% of its citizens reside abroad - and it is one of the largest recipients of remittances relative to GDP among Latin American and Caribbean counties. Although remittances are a vital source of income for most citizens, the pervasive emigration of skilled workers deprives Guyana of professionals in healthcare and other key sectors. More than 80% of Guyanese nationals with tertiary level educations have emigrated. Brain drain and the concentration of limited medical resources in Georgetown hamper Guyana's ability to meet the health needs of its predominantly rural population. Guyana has one of the highest HIV prevalence rates in the region and continues to rely on international support for its HIV treatment and prevention programs."
     },
-    "Population": {
-      "text": "735,222",
-      "note": {
-        "text": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2015 est.)"
-      }
-    },
     "Age structure": {
       "0-14 years": {
-        "text": "28.07% (male 105,078/female 101,296)"
+        "text": "27.12% (male 101,637/female 97,970)"
       },
       "15-24 years": {
-        "text": "21.26% (male 80,303/female 76,022)"
+        "text": "21.46% (male 81,017/female 76,912)"
       },
       "25-54 years": {
-        "text": "37.42% (male 143,490/female 131,644)"
+        "text": "37.73% (male 145,003/female 132,640)"
       },
       "55-64 years": {
-        "text": "7.72% (male 25,426/female 31,304)"
+        "text": "7.9% (male 26,195/female 31,924)"
       },
       "65 years and over": {
-        "text": "5.53% (male 16,877/female 23,782) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "5.79% (male 17,585/female 25,026) (2016 est.)"
       }
     },
     "Dependency ratios": {
@@ -173,26 +162,29 @@
     },
     "Median age": {
       "total": {
-        "text": "25.4 years"
+        "text": "25.8 years"
       },
       "male": {
-        "text": "25 years"
+        "text": "25.5 years"
       },
       "female": {
-        "text": "25.8 years (2015 est.)"
+        "text": "26.2 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "0.02% (2015 est.)"
+      "text": "0.17% (2016 est.)"
     },
     "Birth rate": {
-      "text": "15.59 births/1,000 population (2015 est.)"
+      "text": "15.5 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "7.32 deaths/1,000 population (2015 est.)"
+      "text": "7.4 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "-8.06 migrant(s)/1,000 population (2015 est.)"
+      "text": "-6.4 migrant(s)/1,000 population (2016 est.)"
+    },
+    "Population distribution": {
+      "text": "population is heavily concentrated in the northeast in and around Georgetown, with noteable concentrations along the Berbice River to the east; the remainder of the country is sparsely populated"
     },
     "Urbanization": {
       "urban population": {
@@ -213,19 +205,25 @@
         "text": "1.04 male(s)/female"
       },
       "15-24 years": {
-        "text": "1.06 male(s)/female"
+        "text": "1.05 male(s)/female"
       },
       "25-54 years": {
         "text": "1.09 male(s)/female"
       },
       "55-64 years": {
-        "text": "0.81 male(s)/female"
+        "text": "0.82 male(s)/female"
       },
       "65 years and over": {
         "text": "0.71 male(s)/female"
       },
       "total population": {
-        "text": "1.02 male(s)/female (2015 est.)"
+        "text": "1.02 male(s)/female (2016 est.)"
+      }
+    },
+    "Mother's mean age at first birth": {
+      "text": "20.8",
+      "note": {
+        "text": "median age at first birth among women 25-29 (2009 est.)"
       }
     },
     "Maternal mortality rate": {
@@ -233,34 +231,34 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "32.56 deaths/1,000 live births"
+        "text": "31.5 deaths/1,000 live births"
       },
       "male": {
-        "text": "36.52 deaths/1,000 live births"
+        "text": "35.4 deaths/1,000 live births"
       },
       "female": {
-        "text": "28.4 deaths/1,000 live births (2015 est.)"
+        "text": "27.3 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "68.09 years"
+        "text": "68.4 years"
       },
       "male": {
-        "text": "65.1 years"
+        "text": "65.4 years"
       },
       "female": {
-        "text": "71.24 years (2015 est.)"
+        "text": "71.5 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "2.08 children born/woman (2015 est.)"
+      "text": "2.04 children born/woman (2016 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "42.5% (2009)"
     },
     "Health expenditures": {
-      "text": "6.5% of GDP (2013)"
+      "text": "5.2% of GDP (2014)"
     },
     "Physicians density": {
       "text": "0.21 physicians/1,000 population (2010)"
@@ -285,13 +283,13 @@
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "1.81% (2014 est.)"
+      "text": "1.5% (2015 est.)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
-      "text": "9,700 (2014 est.)"
+      "text": "7,800 (2015 est.)"
     },
     "HIV/AIDS - deaths": {
-      "text": "100 (2014 est.)"
+      "text": "100 (2015 est.)"
     },
     "Major infectious diseases": {
       "degree of risk": {
@@ -301,14 +299,17 @@
         "text": "bacterial and protozoal diarrhea, hepatitis A, and typhoid fever"
       },
       "vectorborne diseases": {
-        "text": "dengue fever and malaria (2013)"
+        "text": "dengue fever and malaria"
+      },
+      "note": {
+        "text": "active local transmission of Zika virus by Aedes species mosquitoes has been identified in this country (as of August 2016); it poses an important risk (a large number of cases possible) among US citizens if bitten by an infective mosquito; other less common ways to get Zika are through sex, via blood transfusion, or during pregnancy, in which the pregnant woman passes Zika virus to her fetus (2016)"
       }
     },
     "Obesity - adult prevalence rate": {
       "text": "21.9% (2014)"
     },
     "Children under the age of 5 years underweight": {
-      "text": "11.1% (2009)"
+      "text": "8.5% (2014)"
     },
     "Education expenditures": {
       "text": "3.2% of GDP (2012)"
@@ -332,10 +333,10 @@
         "text": "10 years"
       },
       "male": {
-        "text": "9 years"
+        "text": "10 years"
       },
       "female": {
-        "text": "11 years (2012)"
+        "text": "10 years (2012)"
       }
     },
     "Child labor - children ages 5-14": {
@@ -344,17 +345,6 @@
       },
       "percentage": {
         "text": "16% (2006 est.)"
-      }
-    },
-    "Unemployment, youth ages 15-24": {
-      "total": {
-        "text": "46.05%"
-      },
-      "male": {
-        "text": "43.59%"
-      },
-      "female": {
-        "text": "50% (2011 est.)"
       }
     }
   },
@@ -368,10 +358,13 @@
       },
       "former": {
         "text": "British Guiana"
+      },
+      "etymology": {
+        "text": "the name is derived from Guiana, the original name for the region that included British Guiana, Dutch Guiana, and French Guiana; ultimately the word is derived from an indigenous Amerindian language and means \"land of many waters\" (referring to the area's multitude of rivers and streams)"
       }
     },
     "Government type": {
-      "text": "republic"
+      "text": "parliamentary republic"
     },
     "Capital": {
       "name": {
@@ -394,7 +387,7 @@
       "text": "Republic Day, 23 February (1970)"
     },
     "Constitution": {
-      "text": "several previous; latest promulgated 6 October 1980; amended many times, last in 2009 (2015)"
+      "text": "several previous; latest promulgated 6 October 1980; amended many times, last in 2009; note - in 2015, Guinea's High Court reversed the constitutional two-term presidential limit (2016)"
     },
     "Legal system": {
       "text": "common law system, based on the English model, with some Roman-Dutch civil law influence"
@@ -403,14 +396,17 @@
       "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
     },
     "Citizenship": {
-      "birthright citizenship": {
+      "citizenship by birth": {
+        "text": "yes"
+      },
+      "citizenship by descent": {
         "text": "yes"
       },
       "dual citizenship recognized": {
-        "text": ""
+        "text": "no"
       },
       "residency requirement for naturalization": {
-        "text": ""
+        "text": "na"
       }
     },
     "Suffrage": {
@@ -466,7 +462,7 @@
     },
     "Diplomatic representation in the US": {
       "chief of mission": {
-        "text": "Ambassador Bayney KARRAN (since 4 December 2003)"
+        "text": "Ambassador (vacant); Charge d'Affaires Lesley DOWRIDGE-COLLINS (since 22 July 2016)"
       },
       "chancery": {
         "text": "2490 Tracy Place NW, Washington, DC 20008"
@@ -479,14 +475,11 @@
       },
       "consulate(s) general": {
         "text": "New York"
-      },
-      "consulate(s)": {
-        "text": "Houston, Miami"
       }
     },
     "Diplomatic representation from the US": {
       "chief of mission": {
-        "text": "Ambassador D. Brent HARDT (since 19 August 2011)"
+        "text": "Ambassador Perry L. HOLLOWAY (since 2 October 2015)"
       },
       "embassy": {
         "text": "US Embassy, 100 Young and Duke Streets, Kingston, Georgetown"
@@ -521,58 +514,58 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "The Guyanese economy exhibited moderate economic growth in recent years and is based largely on agriculture and extractive industries. The economy is heavily dependent upon the export of six commodities - sugar, gold, bauxite, shrimp, timber, and rice - which represent nearly 60% of the country's GDP and are highly susceptible to adverse weather conditions and fluctuations in commodity prices. Guyana's entrance into the Caricom Single Market and Economy (CSME) in January 2006 has broadened the country's export market, primarily in the raw materials sector. Guyana has experienced positive growth almost every year over the past decade. Inflation has been kept under control. Recent years have seen the government's stock of debt reduced significantly - with external debt now less than half of what it was in the early 1990s. Chronic problems include a shortage of skilled labor and a deficient infrastructure. Despite recent improvements, the government is still juggling a sizable external debt against the urgent need for expanded public investment. In March 2007, the Inter-American Development Bank, Guyana's principal donor, canceled Guyana's nearly $470 million debt, equivalent to 21% of GDP, which along with other Highly Indebted Poor Country (HIPC) debt forgiveness, brought the debt-to-GDP ratio down from 183% in 2006 to 58% in 2014. Guyana had become heavily indebted as a result of the inward-looking, state-led development model pursued in the 1970s and 1980s. Much of Guyana's growth in recent years has come from a surge in gold production in response to global prices, although downward trends in gold prices may threaten future growth. In 2014, production of sugar dropped to a 24-year low."
+      "text": "The Guyanese economy exhibited moderate economic growth in recent years and is based largely on agriculture and extractive industries. The economy is heavily dependent upon the export of six commodities - sugar, gold, bauxite, shrimp, timber, and rice - which represent nearly 60% of the country's GDP and are highly susceptible to adverse weather conditions and fluctuations in commodity prices. Much of Guyana's growth in recent years has come from a surge in gold production in response to global prices, although downward trends in gold prices may threaten future growth. In 2014, production of sugar dropped to a 24-year low. ++  ++ Guyana's entrance into the Caricom Single Market and Economy in January 2006 has broadened the country's export market, primarily in the raw materials sector. Guyana has experienced positive growth almost every year over the past decade. Inflation has been kept under control. Recent years have seen the government's stock of debt reduced significantly - with external debt now less than half of what it was in the early 1990s. Despite recent improvements, the government is still juggling a sizable external debt against the urgent need for expanded public investment. In March 2007, the Inter-American Development Bank, Guyana's principal donor, canceled Guyana's nearly $470 million debt, equivalent to 21% of GDP, which along with other Highly Indebted Poor Country debt forgiveness, brought the debt-to-GDP ratio down from 183% in 2006 to 67% in 2015. Guyana had become heavily indebted as a result of the inward-looking, state-led development model pursued in the 1970s and 1980s. ++  ++ Chronic problems include a shortage of skilled labor and a deficient infrastructure."
     },
     "GDP (purchasing power parity)": {
-      "text": "$5.534 billion (2014 est.) ++ $5.33 billion (2013 est.) ++ $5.065 billion (2012 est.)",
+      "text": "$5.781 billion (2015 est.) ++ $5.601 billion (2014 est.) ++ $5.394 billion (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$3.059 billion (2014 est.)"
+      "text": "$3.164 billion (2015 est.)"
     },
     "GDP - real growth rate": {
-      "text": "3.8% (2014 est.) ++ 5.2% (2013 est.) ++ 4.8% (2012 est.)"
+      "text": "3.2% (2015 est.) ++ 3.8% (2014 est.) ++ 5.2% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$6,900 (2014 est.) ++ $6,700 (2013 est.) ++ $6,300 (2012 est.)",
+      "text": "$7,500 (2015 est.) ++ $7,300 (2014 est.) ++ $7,100 (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "Gross national saving": {
-      "text": "3.7% of GDP (2014 est.) ++ 3.5% of GDP (2013 est.) ++ 7.7% of GDP (2012 est.)"
+      "text": "8.1% of GDP (2015 est.) ++ 5.6% of GDP (2014 est.) ++ 3.4% of GDP (2013 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "91.2%"
+        "text": "80.1%"
       },
       "government consumption": {
-        "text": "13.5%"
+        "text": "17%"
       },
       "investment in fixed capital": {
-        "text": "22.4%"
+        "text": "25.2%"
       },
       "investment in inventories": {
-        "text": "-13.1%"
+        "text": "0%"
       },
       "exports of goods and services": {
-        "text": "56.5%"
+        "text": "50.4%"
       },
       "imports of goods and services": {
-        "text": "-70.5% ++  (2014 est.)"
+        "text": "-72.7% (2015 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "21.3%"
+        "text": "20.7%"
       },
       "industry": {
-        "text": "28.6%"
+        "text": "30.9%"
       },
       "services": {
-        "text": "50.1% (2014 est.)"
+        "text": "48.4% (2015 est.)"
       }
     },
     "Agriculture - products": {
@@ -582,7 +575,7 @@
       "text": "bauxite, sugar, rice milling, timber, textiles, gold mining"
     },
     "Industrial production growth rate": {
-      "text": "-11.5% (2014 est.)"
+      "text": "9% (2015 est.)"
     },
     "Labor force": {
       "text": "313,800 (2013 est.)"
@@ -617,77 +610,91 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$726.2 million"
+        "text": "$818.3 million"
       },
       "expenditures": {
-        "text": "$895.4 million (2014 est.)"
+        "text": "$863.4 million (2015 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "23.7% of GDP (2014 est.)"
+      "text": "25.9% of GDP (2015 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-5.5% of GDP (2014 est.)"
+      "text": "-1.4% of GDP (2015 est.)"
     },
     "Public debt": {
-      "text": "63.1% of GDP (2014 est.) ++ 57.2% of GDP (2013 est.)"
+      "text": "48.8% of GDP (2015 est.) ++ 50.9% of GDP (2014 est.)"
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Inflation rate (consumer prices)": {
-      "text": "1% (2014 est.) ++ 2.2% (2013 est.)"
+      "text": "-0.3% (2015 est.) ++ 1% (2014 est.)"
     },
     "Central bank discount rate": {
       "text": "5.5% (31 December 2011) ++ 4.25% (31 December 2010)"
     },
     "Commercial bank prime lending rate": {
-      "text": "12.83% (31 December 2014 est.) ++ 13.5% (31 December 2013 est.)"
+      "text": "12.83% (31 December 2015 est.) ++ 12.83% (31 December 2014 est.)"
     },
     "Stock of narrow money": {
-      "text": "$635.3 million (31 December 2014 est.) ++ $558.5 million (31 December 2013 est.)"
+      "text": "$631 million (31 December 2015 est.) ++ $635.3 million (31 December 2014 est.)"
     },
     "Stock of broad money": {
-      "text": "$1.596 billion (31 December 2014 est.) ++ $1.52 billion (31 December 2013 est.)"
+      "text": "$1.68 billion (31 December 2015 est.) ++ $1.596 billion (31 December 2014 est.)"
     },
     "Stock of domestic credit": {
-      "text": "$1.551 billion (31 December 2014 est.) ++ $1.406 billion (31 December 2013 est.)"
+      "text": "$1.492 billion (31 December 2015 est.) ++ $1.551 billion (31 December 2014 est.)"
     },
     "Market value of publicly traded shares": {
-      "text": "$610.9 million (31 December 2012 est.) ++ $440.4 million (31 December 2011) ++ $339.8 million (31 December 2010 est.)"
+      "text": "$610.9 million (31 December 2012 est.) ++ $440.4 million (31 December 2011 est.) ++ $339.8 million (31 December 2010 est.)"
     },
     "Current account balance": {
-      "text": "-$479 million (2014 est.) ++ -$395 million (2013 est.)"
+      "text": "-$181 million (2015 est.) ++ -$331 million (2014 est.)"
     },
     "Exports": {
-      "text": "$1.251 billion (2014 est.) ++ $1.376 billion (2013 est.)"
+      "text": "$1.17 billion (2015 est.) ++ $1.167 billion (2014 est.)"
     },
     "Exports - commodities": {
       "text": "sugar, gold, bauxite, alumina, rice, shrimp, molasses, rum, timber"
     },
     "Exports - partners": {
-      "text": "US 31.9%, Canada 21.3%, Venezuela 10.9%, UK 6.4% (2014)"
+      "text": "US 33.5%, Canada 17.9%, UK 6.7%, Ukraine 4.3%, Jamaica 4% (2015)"
     },
     "Imports": {
-      "text": "$1.834 billion (2014 est.) ++ $1.847 billion (2013 est.)"
+      "text": "$1.475 billion (2015 est.) ++ $1.791 billion (2014 est.)"
     },
     "Imports - commodities": {
       "text": "manufactures, machinery, petroleum, food"
     },
     "Imports - partners": {
-      "text": "US 21.9%, Trinidad and Tobago 19.9%, Venezuela 12%, China 9.9%, Suriname 8% (2014)"
+      "text": "US 24.6%, Trinidad and Tobago 24.1%, China 10.8%, Suriname 9.5% (2015)"
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$667.9 million (31 December 2014 est.) ++ $783.6 million (31 December 2013 est.)"
+      "text": "$600.9 million (31 December 2015 est.) ++ $667.9 million (31 December 2014 est.)"
     },
     "Debt - external": {
       "text": "$2.303 billion (31 December 2013 est.) ++ $1.974 billion (31 December 2012 est.)"
     },
     "Exchange rates": {
-      "text": "Guyanese dollars (GYD) per US dollar - ++ 206.45 (2014 est.) ++ 206.45 (2013 est.) ++ 204.36 (2012 est.) ++ 204.02 (2011 est.) ++ 203.64 (2010 est.)"
+      "text": "Guyanese dollars (GYD) per US dollar - ++ 206.5 (2015 est.) ++ 206.45 (2014 est.) ++ 206.45 (2013 est.) ++ 204.36 (2012 est.) ++ 204.02 (2011 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "154,540"
+      },
+      "electrification - total population": {
+        "text": "79%"
+      },
+      "electrification - urban areas": {
+        "text": "91%"
+      },
+      "electrification - rural areas": {
+        "text": "75% (2012)"
+      }
+    },
     "Electricity - production": {
       "text": "800 million kWh (2012 est.)"
     },
@@ -761,18 +768,18 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "160,000"
+        "text": "154,057"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "22 (2014 est.)"
+        "text": "21 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "566,900"
+        "text": "543,000"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "77 (2014 est.)"
+        "text": "74 (July 2015 est.)"
       }
     },
     "Telephone system": {
@@ -780,34 +787,45 @@
         "text": "fair system for long-distance service; microwave radio relay network for trunk lines; many areas still lack fixed-line telephone services"
       },
       "domestic": {
-        "text": "fixed-line teledensity is about 20 per 100 persons; mobile-cellular teledensity about 70 per 100 persons in 2011"
+        "text": "fixed-line teledensity is about 20 per 100 persons; mobile-cellular teledensity about 75 per 100 persons"
       },
       "international": {
-        "text": "country code - 592; tropospheric scatter to Trinidad; satellite earth station - 1 Intelsat (Atlantic Ocean) (2011)"
+        "text": "country code - 592; tropospheric scatter to Trinidad; satellite earth station - 1 Intelsat (Atlantic Ocean) (2015)"
       }
     },
     "Broadcast media": {
       "text": "government-dominated broadcast media; the National Communications Network (NCN) TV is state-owned; a few private TV stations relay satellite services; the state owns and operates 2 radio stations broadcasting on multiple frequencies capable of reaching the entire country; government limits on licensing of new private radio stations continue to constrain competition in broadcast media (2007)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM 3, FM 3, shortwave 1 (2009)"
-    },
-    "Television broadcast stations": {
-      "text": "3 (1 public station; 2 private stations which relay US satellite services) (1997)"
     },
     "Internet country code": {
       "text": ".gy"
     },
     "Internet users": {
       "total": {
-        "text": "270,200"
+        "text": "281,000"
       },
       "percent of population": {
-        "text": "36.7% (2014 est.)"
+        "text": "38.2% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "2"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "12"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "43,835"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "0 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "8R (2016)"
+    },
     "Airports": {
       "text": "117 (2013)"
     },
@@ -836,7 +854,7 @@
         "text": "16"
       },
       "under 914 m": {
-        "text": " ++ 89 (2013)"
+        "text": "89 (2013)"
       }
     },
     "Roadways": {
@@ -870,33 +888,12 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "Guyana Defense Force: Army (includes Air Corps, Coast Guard) (2012)"
     },
     "Military service age and obligation": {
       "text": "18 years of age or older for voluntary military service; no conscription (2014)"
-    },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "189,840 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "133,239"
-      },
-      "females age 16-49": {
-        "text": "147,719 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "8,849"
-      },
-      "female": {
-        "text": "8,460 (2010 est.)"
-      }
     },
     "Military expenditures": {
       "text": "1.09% of GDP (2012) ++ 1.17% of GDP (2011) ++ 1.09% of GDP (2010)"
@@ -904,14 +901,14 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "all of the area west of the Essequibo River is claimed by Venezuela preventing any discussion of a maritime boundary; Guyana has expressed its intention to join Barbados in asserting claims before UN Convention on the Law of the Sea (UNCLOS) that Trinidad and Tobago's maritime boundary with Venezuela extends into their waters; Suriname claims a triangle of land between the New and Kutari/Koetari rivers in a historic dispute over the headwaters of the Courantyne; Guyana seeks arbitration under provisions of the UNCLOS to resolve the long-standing dispute with Suriname over the axis of the territorial sea boundary in potentially oil-rich waters"
+      "text": "all of the area west of the Essequibo River is claimed by Venezuela preventing any discussion of a maritime boundary; Guyana has expressed its intention to join Barbados in asserting claims before UN Convention on the Law of the Sea (UNCLOS) that Trinidad and Tobago's maritime boundary with Venezuela extends into their waters; Suriname claims a triangle of land between the New and Kutari/Koetari Rivers in a historic dispute over the headwaters of the Courantyne; Guyana seeks arbitration under provisions of the UNCLOS to resolve the long-standing dispute with Suriname over the axis of the territorial sea boundary in potentially oil-rich waters"
     },
     "Trafficking in persons": {
       "current situation": {
-        "text": "Guyana is a source and destination country for men, women, and children subjected to sex trafficking and forced labor; Guyanese and foreign women and girls are forced into prostitution in Guyana; forced labor, especially of children, is reported in mining, agriculture, forestry, domestic service, and shops; Indonesian workers are victims of forced labor on Guyanese-flagged fishing boats"
+        "text": "Guyana is a source and destination country for men, women, and children subjected to sex trafficking and forced labor – children are particularly vulnerable; women and girls from Guyana, Venezuela, Suriname, Brazil, and the Dominican Republic are forced into prostitution in Guyana’s interior mining communities and urban areas; forced labor is reported in mining, agriculture, forestry, domestic service, and shops; Guyanese nationals are also trafficked to Suriname, Jamaica, and other Caribbean countries for sexual exploitation and forced labor"
       },
       "tier rating": {
-        "text": "Tier 2 Watch List – Guyana does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; limited efforts were made to protect and provide assistance to victims in 2013, and authorities operated a hotline for trafficking victims; the government failed to increase its efforts to hold trafficking offenders accountable with jail time, creating an enabling environment for human trafficking and further endangering victims (2014)"
+        "text": "Tier 2 Watch List – Guyana does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; in 2014, Guyana was granted a waiver from an otherwise required downgrade to Tier 3 because its government has a written plan that, if implemented would constitute making significant efforts to bring itself into compliance with the minimum standards for the elimination of trafficking; the government released its anti-trafficking action plan in June 2014 but made uneven efforts to implement it; law enforcement was weak, investigating seven trafficking cases, prosecuting four alleged traffickers, and convicting one trafficker – a police officer – who was released on bail pending appeal; in 2014, as in previous years, Guyanese courts dismissed the majority of ongoing trafficking prosecutions; the government referred some victims to care services, which were provided by NGOs with little or no government support (2015)"
       }
     },
     "Illicit drugs": {

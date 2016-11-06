@@ -48,12 +48,12 @@
     "Terrain": {
       "text": "volcanic island with mostly rolling plains"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Pacific Ocean 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "NA"
       },
-      "highest point": {
-        "text": "Mount Bates 319 m"
+      "elevation extremes": {
+        "text": "lowest point: Pacific Ocean 0 m ++ highest point: Mount Bates 319 m"
       }
     },
     "Natural resources": {
@@ -71,7 +71,7 @@
       }
     },
     "Irrigated land": {
-      "text": "NA"
+      "text": "0 sq km (2012)"
     },
     "Natural hazards": {
       "text": "typhoons (especially May to July)"
@@ -84,6 +84,9 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "2,210 (July 2014 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "Norfolk Islander(s)"
@@ -99,10 +102,7 @@
       "text": "English (official) 67.6%, other 32.4% (includes Norfolk Island 23.7%, which is a mixture of 18th century English and ancient Tahitian) (2011 est.)"
     },
     "Religions": {
-      "text": "Protestant 49.6% (Anglican 31.8%, Uniting Church in Australia 10.6%, Seventh-Day Adventist 3.2%), Roman Catholic 11.7%, other 8.6%, none 23.5%, unspecified 6.6% (2011 est.)"
-    },
-    "Population": {
-      "text": "2,210 (July 2014 est.)"
+      "text": "Protestant 49.6% (Anglican 31.8%, Uniting Church in Australia 10.6%, Seventh Day Adventist 3.2%), Roman Catholic 11.7%, other 8.6%, none 23.5%, unspecified 6.6% (2011 est.)"
     },
     "Population growth rate": {
       "text": "0.01% (2014 est.)"
@@ -152,13 +152,16 @@
       },
       "conventional short form": {
         "text": "Norfolk Island"
+      },
+      "etymology": {
+        "text": "named by British explorer Captain James COOK after Mary HOWARD, Duchess of Norfolk, in 1774"
       }
     },
     "Dependency status": {
       "text": "self-governing territory of Australia; administered from Canberra by the Department of Regional Australia, Local Government, Arts and Sport"
     },
     "Government type": {
-      "text": "NA"
+      "text": "parliamentary democracy (formerly the Legislative Assembly); overseas territory of Australia; note - in May 2015, the Australian Parliament passed the Norfolk Island Legislation Amendment Bill 2015 which abolished Norfolk Island self-government and replaced it with an interim Advisory Council effective 1 July 2015"
     },
     "Capital": {
       "name": {
@@ -168,7 +171,7 @@
         "text": "29 03 S, 167 58 E"
       },
       "time difference": {
-        "text": "UTC+11.5 (16.5 hours ahead of Washington, DC, during Standard Time)"
+        "text": "UTC+11 (16 hours ahead of Washington, DC, during Standard Time)"
       }
     },
     "Administrative divisions": {
@@ -181,10 +184,13 @@
       "text": "Bounty Day (commemorates the arrival of Pitcairn Islanders), 8 June (1856)"
     },
     "Constitution": {
-      "text": "previous 1913, 1957; latest effective 7 August 1979; amended many times, last in 2015 (2015)"
+      "text": "previous 1913, 1957; latest effective 7 August 1979; amended many times, last in 2015 (2016)"
     },
     "Legal system": {
       "text": "English common law and the laws of Australia"
+    },
+    "Citizenship": {
+      "text": "see Australia"
     },
     "Suffrage": {
       "text": "18 years of age; universal"
@@ -205,21 +211,21 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "unicameral Regional Council (structure to be determined); interim Advisory Council effective 1 July 2015"
+        "text": "unicameral Norfolk Island Regional Council (5 seats; members directly elected by simple majority vote to serve 4-year terms)"
       },
       "elections": {
-        "text": "elections for the new Regional Council will occur in early 2016"
+        "text": "elections last held 28 May 2016; next to be held 2020"
       },
       "election results": {
-        "text": "interim Advisory Council seats - 5 (appointed)"
+        "text": "party by seats - independents 5"
       },
       "note": {
-        "text": "following an adminstrative restructuring of local government, the Legislative Assembly was dissolved on 18 June 2015 to be replaced by an interim Norfolk Island Advisory Council effective 1 July 2015; the Advisory Council will consist of 5 members appointed by the Norfolk Island administrator based on nominations from the community; following elections in early 2016, the new Regional Council will commence operations on 1 July 2016"
+        "text": "following an administrative restructuring of local government, the Legislative Assembly was dissolved on 18 June 2015 to be replaced by an interim Norfolk Island Advisory Council effective 1 July 2015; the Advisory Council consisted of 5 members appointed by the Norfolk Island administrator based on nominations from the community; following elections on 28 May 2016, the new Norfolk Island Regional Council commenced operations on 1 July 2016"
       }
     },
     "Judicial branch": {
       "highest court(s)": {
-        "text": "Supreme Court of Norfolk Island (consists of the chief justice and NA justices); note - appeals beyond the Supreme Court of Norfolk Island are heard by the Federal Court of Australia"
+        "text": "Supreme Court of Norfolk Island (consists of the chief justice and several justices); note - appeals beyond the Supreme Court of Norfolk Island are heard by the Federal Court and the High Court of Australia"
       },
       "judge selection and term of office": {
         "text": "justices appointed by the governor general of Australia from among justices of the Federal Court of Australia; justices serve until mandatory retirement at age 70"
@@ -266,7 +272,7 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Norfolk Island is suffering from a severe economic downturn. Tourism, the primary economic activity, is the main driver of economic growth. The agricultural sector has become self sufficient in the production of beef, poultry, and eggs."
+      "text": "Norfolk Island is suffering from a severe economic downturn. Tourism, the primary economic activity, is the main driver of economic growth. The agricultural sector has become self-sufficient in the production of beef, poultry, and eggs."
     },
     "GDP (purchasing power parity)": {
       "text": "$NA"
@@ -318,7 +324,7 @@
       "text": "$NA"
     },
     "Exchange rates": {
-      "text": "Australian dollars (AUD) per US dollar - ++ 1.1094 (2014) ++ 1.0358 (2013) ++ 0.97 (2012) ++ 0.9695 (2011) ++ 1.0902 (2010)"
+      "text": "Australian dollars (AUD) per US dollar - ++ 1.3291 (2015) ++ 1.0358 (2013) ++ 1.0358 (2013) ++ 0.97 (2012) ++ 0.9695 (2011)"
     }
   },
   "Communications": {
@@ -336,14 +342,16 @@
     "Broadcast media": {
       "text": "1 local radio station; broadcasts of several Australian radio and TV stations available via satellite (2009)"
     },
-    "Radio broadcast stations": {
-      "text": "AM 1, FM 3, shortwave 0 (2005)"
-    },
-    "Television broadcast stations": {
-      "text": "1 (local programming station plus 2 repeaters that air Australian programs by satellite) (2005)"
-    },
     "Internet country code": {
       "text": ".nf"
+    },
+    "Internet users": {
+      "total": {
+        "text": "765"
+      },
+      "percent of population": {
+        "text": "34.6% (July 2015 est.)"
+      }
     }
   },
   "Transportation": {
@@ -375,7 +383,7 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military - note": {
       "text": "defense is the responsibility of Australia"
     }

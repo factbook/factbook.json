@@ -52,12 +52,12 @@
     "Terrain": {
       "text": "mostly mountains of volcanic origin"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Pacific Ocean 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "NA"
       },
-      "highest point": {
-        "text": "Tomanivi 1,324 m"
+      "elevation extremes": {
+        "text": "lowest point: Pacific Ocean 0 m ++ highest point: Tomanivi 1,324 m"
       }
     },
     "Natural resources": {
@@ -75,18 +75,7 @@
       }
     },
     "Irrigated land": {
-      "text": "30 sq km (2003)"
-    },
-    "Total renewable water resources": {
-      "text": "28.55 cu km (2011)"
-    },
-    "Freshwater withdrawal (domestic/industrial/agricultural)": {
-      "total": {
-        "text": "0.08  cu km/yr (30%/11%/59%)"
-      },
-      "per capita": {
-        "text": "100.1  cu m/yr (2005)"
-      }
+      "text": "40 sq km (2012)"
     },
     "Natural hazards": {
       "text": "cyclonic storms can occur from November to January"
@@ -107,6 +96,9 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "915,303 (July 2016 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "Fijian(s)"
@@ -127,27 +119,21 @@
     "Religions": {
       "text": "Protestant 45% (Methodist 34.6%, Assembly of God 5.7%, Seventh Day Adventist 3.9%, and Anglican 0.8%), Hindu 27.9%, other Christian 10.4%, Roman Catholic 9.1%, Muslim 6.3%, Sikh 0.3%, other 0.3%, none 0.8% (2007 est.)"
     },
-    "Population": {
-      "text": "909,389 (July 2015 est.)"
-    },
     "Age structure": {
       "0-14 years": {
-        "text": "28.03% (male 130,251/female 124,633)"
+        "text": "27.88% (male 130,414/female 124,774)"
       },
       "15-24 years": {
-        "text": "16.73% (male 77,716/female 74,449)"
+        "text": "16.42% (male 76,709/female 73,565)"
       },
       "25-54 years": {
-        "text": "41.12% (male 191,393/female 182,571)"
+        "text": "41.11% (male 192,605/female 183,681)"
       },
       "55-64 years": {
-        "text": "8.04% (male 37,019/female 36,141)"
+        "text": "8.29% (male 38,427/female 37,412)"
       },
       "65 years and over": {
-        "text": "6.07% (male 25,386/female 29,830) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "6.31% (male 26,534/female 31,182) (2016 est.)"
       }
     },
     "Dependency ratios": {
@@ -166,26 +152,26 @@
     },
     "Median age": {
       "total": {
-        "text": "28.2 years"
+        "text": "28.6 years"
       },
       "male": {
-        "text": "28 years"
+        "text": "28.4 years"
       },
       "female": {
-        "text": "28.4 years (2015 est.)"
+        "text": "28.8 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "0.67% (2015 est.)"
+      "text": "0.63% (2016 est.)"
     },
     "Birth rate": {
-      "text": "19.43 births/1,000 population (2015 est.)"
+      "text": "19 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "6.04 deaths/1,000 population (2015 est.)"
+      "text": "6.1 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "-6.75 migrant(s)/1,000 population (2015 est.)"
+      "text": "-6.6 migrant(s)/1,000 population (2016 est.)"
     },
     "Urbanization": {
       "urban population": {
@@ -212,13 +198,13 @@
         "text": "1.05 male(s)/female"
       },
       "55-64 years": {
-        "text": "1.02 male(s)/female"
+        "text": "1.03 male(s)/female"
       },
       "65 years and over": {
         "text": "0.85 male(s)/female"
       },
       "total population": {
-        "text": "1.03 male(s)/female (2015 est.)"
+        "text": "1.03 male(s)/female (2016 est.)"
       }
     },
     "Maternal mortality rate": {
@@ -226,31 +212,31 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "9.94 deaths/1,000 live births"
+        "text": "9.7 deaths/1,000 live births"
       },
       "male": {
-        "text": "10.97 deaths/1,000 live births"
+        "text": "10.7 deaths/1,000 live births"
       },
       "female": {
-        "text": "8.87 deaths/1,000 live births (2015 est.)"
+        "text": "8.7 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "72.43 years"
+        "text": "72.7 years"
       },
       "male": {
-        "text": "69.79 years"
+        "text": "70 years"
       },
       "female": {
-        "text": "75.2 years (2015 est.)"
+        "text": "75.5 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "2.47 children born/woman (2015 est.)"
+      "text": "2.44 children born/woman (2016 est.)"
     },
     "Health expenditures": {
-      "text": "4.1% of GDP (2013)"
+      "text": "4.5% of GDP (2014)"
     },
     "Physicians density": {
       "text": "0.43 physicians/1,000 population (2009)"
@@ -283,11 +269,27 @@
     "HIV/AIDS - deaths": {
       "text": "fewer than 100 (2014 est.)"
     },
+    "Major infectious diseases": {
+      "note": {
+        "text": "active local transmission of Zika virus by Aedes species mosquitoes has been identified in this country (as of August 2016); it poses an important risk (a large number of cases possible) among US citizens if bitten by an infective mosquito; other less common ways to get Zika are through sex, via blood transfusion, or during pregnancy, in which the pregnant woman passes Zika virus to her fetus (2016)"
+      }
+    },
     "Obesity - adult prevalence rate": {
       "text": "35.9% (2014)"
     },
     "Education expenditures": {
-      "text": "4.2% of GDP (2011)"
+      "text": "3.9% of GDP (2013)"
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": {
+        "text": "18.7%"
+      },
+      "male": {
+        "text": "14.8%"
+      },
+      "female": {
+        "text": "25.4% (2007 est.)"
+      }
     }
   },
   "Government": {
@@ -303,10 +305,13 @@
       },
       "local short form": {
         "text": "Fiji/Viti"
+      },
+      "etymology": {
+        "text": "the Fijians called their home Viti, but the neighboring Tongans called it Fisi, and in the Anglicized spelling of the Tongan pronunciation - promulgated by explorer Captain James COOK - the designation became Fiji"
       }
     },
     "Government type": {
-      "text": "republic"
+      "text": "parliamentary republic"
     },
     "Capital": {
       "name": {
@@ -329,10 +334,10 @@
       "text": "10 October 1970 (from the UK)"
     },
     "National holiday": {
-      "text": "Fiji Independence Day, 10 October (1970)"
+      "text": "Constitution Day, 7 September; Fiji (independence) Day, 10 October (1970)"
     },
     "Constitution": {
-      "text": "previous 1970, 1990, 1997; latest signed into law September 2013 (2015)"
+      "text": "several previous; latest signed into law September 2013 (2016)"
     },
     "Legal system": {
       "text": "common law system based on the English model"
@@ -341,8 +346,11 @@
       "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
     },
     "Citizenship": {
-      "birthright citizenship": {
-        "text": "no, unless at least one parent is a citizen of Fiji"
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Fiji"
       },
       "dual citizenship recognized": {
         "text": "yes"
@@ -356,7 +364,7 @@
     },
     "Executive branch": {
       "chief of state": {
-        "text": "President Ratu Epeli NAILATIKAU (since 30 July 2009)"
+        "text": "President Jioji Konousi KONROTE (since 12 November 2015)"
       },
       "head of government": {
         "text": "Prime Minister Voreqe \"Frank\" BAINIMARAMA (since 22 September 2014)"
@@ -365,15 +373,15 @@
         "text": "Cabinet appointed by the prime minister from among members of Parliament and is responsible to Parliament"
       },
       "elections/appointments": {
-        "text": "under the constitution, president indirectly elected by the Great Council of Chiefs for a 5-year term (eligible for a second term); in 2007, the Great Council of Chiefs was suspended from its role in electing the president and disestablished in 2012; prime minister appointed by the president"
+        "text": "under the constitution, president elected by the Parliament for a 5-year term (eligible for a second term); prime minister appointed by the president"
       },
       "election results": {
-        "text": "Ratu Epeli NAILATIKAU (independent) reappointed in November 2012; term ends in 2015"
+        "text": "Jioji Konousi KONROTE elected 12 Ocotber 2015 defeating Ratu Epeli GANILAU 31 to 14"
       }
     },
     "Legislative branch": {
       "description": {
-        "text": "unicameral Parliament (50 seats; members directly elected in a nationwide, multi-seat constituency by open-list proportional representation vote to serve 4-year terms; the new constitution of 2013 restructured Parliament frome bicameral to unicameral"
+        "text": "unicameral Parliament (50 seats; members directly elected in a nationwide, multi-seat constituency by open-list proportional representation vote to serve 4-year terms; the new constitution of 2013 restructured Parliament from bicameral to unicameral"
       },
       "elections": {
         "text": "last held on 17 September 2014 (next to be held in 2019)"
@@ -384,7 +392,7 @@
     },
     "Judicial branch": {
       "highest court(s)": {
-        "text": "Supreme Court (consists of the chief justice, all justices of the Court of Appeal, and judges appointed specifically as Supreme Court judges); Court of Appeal (consists of the court president, all puisne judges of the High Court, and judges specifically appointed to the Court of Appeal); High Court (chaired by the chief justice and includes a minimum of 10 puisne judges; High Court organized into civil, criminal, family, employment, and tax divisions); note - in 1987, the Supreme Court assumed functions formerly performed by the Judicial Committee of the Privy Council (in London)"
+        "text": "Supreme Court (consists of the chief justice, all justices of the Court of Appeal, and judges appointed specifically as Supreme Court judges); Court of Appeal (consists of the court president, all puisne judges of the High Court, and judges specifically appointed to the Court of Appeal); High Court (chaired by the chief justice and includes a minimum of 10 puisne judges; High Court organized into civil, criminal, family, employment, and tax divisions)"
       },
       "judge selection and term of office": {
         "text": "chief justice appointed by the president of Fiji on the advice of the prime minister following consultation with the parliamentary leader of the opposition; judges of the Supreme Court, the president of the Court of Appeal, the justices of the Court of Appeal, and puisne judges of the High Court appointed by the president of Fiji upon the nomination of the Judicial Service Commission after consulting with the cabinet minister and the committee of the House of Representatives responsible for the administration of justice; the chief justice, Supreme Court judges and justices of Appeal generally required to retire at age 70 but may be waived for one or more sessions of the court; puisne judges appointed for not less than 4 years nor more than 7 years with mandatory retirement at age 65"
@@ -404,7 +412,7 @@
     },
     "Diplomatic representation in the US": {
       "chief of mission": {
-        "text": "Ambassador Winston THOMPSON (since 20 April 2009)"
+        "text": "Ambassador Solo MARA (since 28 January 2016)"
       },
       "chancery": {
         "text": "2000 M Street NW, Suite 710, Washington, DC 20036"
@@ -414,9 +422,6 @@
       },
       "FAX": {
         "text": "[1] (202) 466-8325"
-      },
-      "consulate(s)": {
-        "text": "Los Angeles, Portland (OR), San Francisco"
       }
     },
     "Diplomatic representation from the US": {
@@ -456,58 +461,58 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Fiji, endowed with forest, mineral, and fish resources, is one of the most developed and connected of the Pacific island economies. Earnings from the tourism industry, with an estimated 692,630 tourists visiting in 2014, and remittances from Fijian’s working abroad are the country’s largest foreign exchange earners. Fiji's sugar remains a significant industry and a major export. The sugar industry reforms since 2010 have improved productivity and returns, but the industry faces the complete withdrawal of European Union preferential prices by 2017. Fiji’s trade imbalance continues to widen with increased imports and sluggish performance of domestic exports. The return to parliamentary democracy and successful elections in September 2014 have boosted investor confidence. Private sector investment in 2014 reached 15% of GDP, compared to 13% in 2013."
+      "text": "Fiji, endowed with forest, mineral, and fish resources, is one of the most developed and connected of the Pacific island economies. Earnings from the tourism industry, with an estimated 755,000 tourists visiting in 2015, and remittances from Fijian’s working abroad are the country’s largest foreign exchange earners. ++  ++ Fiji's sugar remains a significant industry and a major export. The sugar industry reforms since 2010 have improved productivity and returns, but the industry faces the complete withdrawal of European Union preferential prices by 2017. Fiji’s trade imbalance continues to widen with increased imports and sluggish performance of domestic exports. ++  ++ The return to parliamentary democracy and successful elections in September 2014 have boosted investor confidence. Private sector investment in 2015 exceeded 20% of GDP, compared to 13% in 2013."
     },
     "GDP (purchasing power parity)": {
-      "text": "$7.404 billion (2014 est.) ++ $7.031 billion (2013 est.) ++ $6.72 billion (2012 est.)",
+      "text": "$8.064 billion (2015 est.) ++ $7.732 billion (2014 est.) ++ $7.343 billion (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$4.289 billion (2014 est.)"
+      "text": "$4.389 billion (2015 est.)"
     },
     "GDP - real growth rate": {
-      "text": "5.3% (2014 est.) ++ 4.6% (2013 est.) ++ 1.8% (2012 est.)"
+      "text": "4.3% (2015 est.) ++ 5.3% (2014 est.) ++ 4.7% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$8,400 (2014 est.) ++ $7,900 (2013 est.) ++ $7,600 (2012 est.)",
+      "text": "$9,100 (2015 est.) ++ $8,700 (2014 est.) ++ $8,300 (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "Gross national saving": {
-      "text": "10.5% of GDP (2014 est.) ++ 7.6% of GDP (2013 est.) ++ 20.2% of GDP (2012 est.)"
+      "text": "12.3% of GDP (2015 est.) ++ 8.8% of GDP (2014 est.) ++ 7% of GDP (2013 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "77.1%"
+        "text": "70.4%"
       },
       "government consumption": {
-        "text": "14.6%"
+        "text": "10.7%"
       },
       "investment in fixed capital": {
-        "text": "21.5%"
+        "text": "19.7%"
       },
       "investment in inventories": {
-        "text": "-5.8%"
+        "text": "0%"
       },
       "exports of goods and services": {
-        "text": "61%"
+        "text": "56.4%"
       },
       "imports of goods and services": {
-        "text": "-68.4% ++  (2014 est.)"
+        "text": "-57.2% (2015 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "12.1%"
+        "text": "11%"
       },
       "industry": {
-        "text": "19.9%"
+        "text": "18.4%"
       },
       "services": {
-        "text": "68% (2014 est.)"
+        "text": "70.6% (2015 est.)"
       }
     },
     "Agriculture - products": {
@@ -517,10 +522,10 @@
       "text": "tourism, sugar, clothing, copra, gold, silver, lumber, small cottage industries"
     },
     "Industrial production growth rate": {
-      "text": "2.6% (2014 est.)"
+      "text": "2.8% (2015 est.)"
     },
     "Labor force": {
-      "text": "346,500 (2014 est.)"
+      "text": "347.7 (2015 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -546,83 +551,97 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$1.166 billion"
+        "text": "$1.24 billion"
       },
       "expenditures": {
-        "text": "$1.219 billion (2014 est.)"
+        "text": "$1.383 billion (2015 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "27.2% of GDP (2014 est.)"
+      "text": "25.9% of GDP (2015 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-1.2% of GDP (2014 est.)"
+      "text": "-3% of GDP (2015 est.)"
     },
     "Public debt": {
-      "text": "49.7% of GDP (2014 est.) ++ 51.4% of GDP (2013 est.)"
+      "text": "48.6% of GDP (2015 est.) ++ 47.7% of GDP (2014 est.)"
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Inflation rate (consumer prices)": {
-      "text": "0.5% (2014 est.) ++ 2.9% (2013 est.)"
+      "text": "1.4% (2015 est.) ++ 0.5% (2014 est.)"
     },
     "Central bank discount rate": {
       "text": "1.75% (31 December 2010) ++ 3% (31 December 2009)"
     },
     "Commercial bank prime lending rate": {
-      "text": "5.76% (31 December 2014 est.) ++ 6.1% (31 December 2013 est.)"
+      "text": "5.79% (31 December 2015 est.) ++ 5.76% (31 December 2014 est.)"
     },
     "Stock of narrow money": {
-      "text": "$1.823 billion (31 December 2014 est.) ++ $1.816 billion (31 December 2013 est.)"
+      "text": "$1.931 billion (31 December 2015 est.) ++ $1.823 billion (31 December 2014 est.)"
     },
     "Stock of broad money": {
-      "text": "$3.118 billion (31 December 2014 est.) ++ $2.953 billion (31 December 2013 est.)"
+      "text": "$3.165 billion (31 December 2015 est.) ++ $3.118 billion (31 December 2014 est.)"
     },
     "Stock of domestic credit": {
-      "text": "$2.896 billion (31 December 2014 est.) ++ $2.585 billion (31 December 2013 est.)"
+      "text": "$3.068 billion (31 December 2015 est.) ++ $2.896 billion (31 December 2014 est.)"
     },
     "Market value of publicly traded shares": {
-      "text": "$452.5 million (31 December 2012 est.) ++ $392.2 million (31 December 2011) ++ $418.8 million (31 December 2010 est.)"
+      "text": "$452.5 million (31 December 2012 est.) ++ $392.2 million (31 December 2011 est.) ++ $418.8 million (31 December 2010 est.)"
     },
     "Current account balance": {
-      "text": "-$386 million (2014 est.) ++ -$834 million (2013 est.)"
+      "text": "-$235 million (2015 est.) ++ -$338 million (2014 est.)"
     },
     "Exports": {
-      "text": "$1.152 billion (2014 est.) ++ $1.048 billion (2013 est.)"
+      "text": "$1.233 billion (2015 est.) ++ $1.152 billion (2014 est.)"
     },
     "Exports - commodities": {
-      "text": "sugar, garments, gold, timber, fish, molasses, coconut oil"
+      "text": "sugar, garments, gold, timber, fish, molasses, coconut oil, mineral water"
     },
     "Exports - partners": {
-      "text": "US 11.8%, Australia 10%, UK 6.4%, Samoa 6.2%, Tonga 5.5% (2014)"
+      "text": "US 13.4%, Australia 10.2%, Samoa 6.7%, Tonga 5.9% (2015)"
     },
     "Imports": {
-      "text": "$2.403 billion (2014 est.) ++ $2.38 billion (2013 est.)"
+      "text": "$2.283 billion (2015 est.) ++ $2.403 billion (2014 est.)"
     },
     "Imports - commodities": {
       "text": "manufactured goods, machinery and transport equipment, petroleum products, food, chemicals"
     },
     "Imports - partners": {
-      "text": "Singapore 18.4%, South Korea 14%, NZ 13.7%, China 13.1%, Australia 12.9% (2014)"
+      "text": "China 16.2%, South Korea 15.7%, NZ 14%, Australia 13.4%, Singapore 8.7%, France 7% (2015)"
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$916.2 million (31 December 2014 est.) ++ $941.9 million (31 December 2013 est.)"
+      "text": "$918.8 million (31 December 2015 est.) ++ $916.2 million (31 December 2014 est.)"
     },
     "Debt - external": {
-      "text": "$769.1 million (31 December 2014 est.) ++ $797.5 million (31 December 2013 est.)"
+      "text": "$820.1 million (31 December 2015 est.) ++ $863.5 million (31 December 2014 est.)"
     },
     "Stock of direct foreign investment - at home": {
-      "text": "$3.893 billion (31 December 2014 est.) ++ $3.612 billion (31 December 2013 est.)"
+      "text": "$4.047 billion (31 December 2015 est.) ++ $3.747 billion (31 December 2014 est.)"
     },
     "Stock of direct foreign investment - abroad": {
-      "text": "$50.08 million (31 December 2014 est.) ++ $50.2 million (31 December 2012 est.)"
+      "text": "$189.6 million (31 December 2015 est.) ++ $186.6 million (31 December 2014 est.)"
     },
     "Exchange rates": {
-      "text": "Fijian dollars (FJD) per US dollar - ++ 1.8874 (2014 est.) ++ 1.8874 (2013 est.) ++ 1.79 (2012 est.) ++ 1.7932 (2011 est.) ++ 1.9183 (2010 est.)"
+      "text": "Fijian dollars (FJD) per US dollar - ++ 2.0976 (2015 est.) ++ 1.8874 (2014 est.) ++ 1.8874 (2013 est.) ++ 1.79 (2012 est.) ++ 1.7932 (2011 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "375,274"
+      },
+      "electrification - total population": {
+        "text": "59%"
+      },
+      "electrification - urban areas": {
+        "text": "72%"
+      },
+      "electrification - rural areas": {
+        "text": "45% (2012)"
+      }
+    },
     "Electricity - production": {
       "text": "857.5 million kWh (2013 est.)"
     },
@@ -696,53 +715,64 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "74,700"
+        "text": "72,565"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "8 (2014 est.)"
+        "text": "8 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "876,200"
+        "text": "966,000"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "97 (2014 est.)"
+        "text": "106 (July 2015 est.)"
       }
     },
     "Telephone system": {
       "general assessment": {
-        "text": "modern local, interisland, and international (wire/radio integrated) public and special-purpose telephone, telegraph, and teleprinter facilities; regional radio communications center"
+        "text": "modern local, interisland, and international (wire/radio integrated) public and special-purpose telephone, telegraph, and teleprinter facilities; regional radio communications center; subject to occasional devastating cyclones"
       },
       "domestic": {
-        "text": "telephone or radio telephone links to almost all inhabited islands; most towns and large villages have automatic telephone exchanges and direct dialing; combined fixed-line and mobile-cellular teledensity roughly 100 per 100 persons"
+        "text": "telephone or radio telephone links to almost all inhabited islands; most towns and large villages have automatic telephone exchanges and direct dialing; combined fixed-line and mobile-cellular teledensity roughly 115 per 100 persons"
       },
       "international": {
-        "text": "country code - 679; access to important cable links between US and Canada, as well as between NZ and Australia; satellite earth stations - 2 Inmarsat (Pacific Ocean) (2011)"
+        "text": "country code - 679; access to important cable links between US and Canada, as well as between NZ and Australia; satellite earth stations - 2 Inmarsat (Pacific Ocean) (2015)"
       }
     },
     "Broadcast media": {
       "text": "Fiji TV, a publicly traded company, operates a free-to-air channel, as well as Sky Fiji and Sky Pacific multi-channel pay-TV services; state-owned commercial company, Fiji Broadcasting Corporation, Ltd, operates 6 radio stations - 2 public broadcasters and 4 commercial broadcasters with multiple repeaters; 5 radio stations with repeaters operated by Communications Fiji, Ltd; transmissions of multiple international broadcasters are available (2009)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM 13, FM 40, shortwave 0 (1998)"
-    },
-    "Television broadcast stations": {
-      "text": "NA"
     },
     "Internet country code": {
       "text": ".fj"
     },
     "Internet users": {
       "total": {
-        "text": "331,700"
+        "text": "421,000"
       },
       "percent of population": {
-        "text": "36.7% (2014 est.)"
+        "text": "46.3% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "2"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "12"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "1,336,976"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "83,686,504 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "DQ (2016)"
+    },
     "Airports": {
       "text": "28 (2013)"
     },
@@ -768,7 +798,7 @@
         "text": "5"
       },
       "under 914 m": {
-        "text": " ++ 19 (2013)"
+        "text": "19 (2013)"
       }
     },
     "Railways": {
@@ -813,36 +843,12 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "Republic of Fiji Military Forces (RFMF): Land Forces, Naval Forces (2011)"
     },
     "Military service age and obligation": {
       "text": "18 years of age for voluntary military service; mandatory retirement at age 55 (2013)"
-    },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "233,240"
-      },
-      "females age 16-49": {
-        "text": "222,587 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "183,730"
-      },
-      "females age 16-49": {
-        "text": "188,325 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "8,403"
-      },
-      "female": {
-        "text": "8,039 (2010 est.)"
-      }
     },
     "Military expenditures": {
       "text": "1.47% of GDP (2012) ++ 1.44% of GDP (2011) ++ 1.47% of GDP (2010)"

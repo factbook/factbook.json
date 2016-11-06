@@ -51,12 +51,12 @@
     "Terrain": {
       "text": "volcanic origin; low hills"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Pacific Ocean 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "NA"
       },
-      "highest point": {
-        "text": "Mont Singavi (on Futuna) 765 m"
+      "elevation extremes": {
+        "text": "lowest point: Pacific Ocean 0 m ++ highest point: Mont Singavi (on Futuna) 765 m"
       }
     },
     "Natural resources": {
@@ -74,7 +74,7 @@
       }
     },
     "Irrigated land": {
-      "text": "NA"
+      "text": "0 sq km (2012)"
     },
     "Natural hazards": {
       "text": "NA"
@@ -87,6 +87,9 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "15,664 (July 2016 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "Wallisian(s), Futunan(s), or Wallis and Futuna Islanders"
@@ -104,53 +107,47 @@
     "Religions": {
       "text": "Roman Catholic 99%, other 1%"
     },
-    "Population": {
-      "text": "15,613 (July 2015 est.)"
-    },
     "Age structure": {
       "0-14 years": {
-        "text": "22.71% (male 1,850/female 1,695)"
+        "text": "22.25% (male 1,819/female 1,667)"
       },
       "15-24 years": {
-        "text": "17.41% (male 1,426/female 1,292)"
+        "text": "16.9% (male 1,395/female 1,252)"
       },
       "25-54 years": {
-        "text": "41.11% (male 3,210/female 3,208)"
+        "text": "41.52% (male 3,266/female 3,237)"
       },
       "55-64 years": {
-        "text": "9.45% (male 731/female 744)"
+        "text": "9.7% (male 746/female 773)"
       },
       "65 years and over": {
-        "text": "9.33% (male 697/female 760) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "9.63% (male 721/female 788) (2016 est.)"
       }
     },
     "Median age": {
       "total": {
-        "text": "30.9 years"
+        "text": "31.6 years"
       },
       "male": {
-        "text": "30 years"
+        "text": "30.6 years"
       },
       "female": {
-        "text": "32.2 years (2015 est.)"
+        "text": "32.8 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "0.33% (2015 est.)"
+      "text": "0.33% (2016 est.)"
     },
     "Birth rate": {
-      "text": "13.45 births/1,000 population (2015 est.)"
+      "text": "13.3 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "5.06 deaths/1,000 population (2015 est.)"
+      "text": "5.2 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "-5.06 migrant(s)/1,000 population",
+      "text": "-4.9 migrant(s)/1,000 population",
       "note": {
-        "text": "there has been steady emigration from Wallis and Futuna to New Caledonia (2015 est.)"
+        "text": "there has been steady emigration from Wallis and Futuna to New Caledonia (2016 est.)"
       }
     },
     "Urbanization": {
@@ -172,45 +169,45 @@
         "text": "1.09 male(s)/female"
       },
       "15-24 years": {
-        "text": "1.1 male(s)/female"
+        "text": "1.11 male(s)/female"
       },
       "25-54 years": {
-        "text": "1 male(s)/female"
+        "text": "1.01 male(s)/female"
       },
       "55-64 years": {
-        "text": "0.98 male(s)/female"
+        "text": "0.97 male(s)/female"
       },
       "65 years and over": {
         "text": "0.92 male(s)/female"
       },
       "total population": {
-        "text": "1.03 male(s)/female (2015 est.)"
+        "text": "1.03 male(s)/female (2016 est.)"
       }
     },
     "Infant mortality rate": {
       "total": {
-        "text": "4.43 deaths/1,000 live births"
+        "text": "4.4 deaths/1,000 live births"
       },
       "male": {
-        "text": "4.66 deaths/1,000 live births"
+        "text": "4.6 deaths/1,000 live births"
       },
       "female": {
-        "text": "4.18 deaths/1,000 live births (2015 est.)"
+        "text": "4.1 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "79.57 years"
+        "text": "79.7 years"
       },
       "male": {
-        "text": "76.58 years"
+        "text": "76.7 years"
       },
       "female": {
-        "text": "82.7 years (2015 est.)"
+        "text": "82.8 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "1.75 children born/woman (2015 est.)"
+      "text": "1.74 children born/woman (2016 est.)"
     },
     "Sanitation facility access": {
       "improved": {
@@ -243,13 +240,16 @@
       },
       "local short form": {
         "text": "Wallis et Futuna"
+      },
+      "etymology": {
+        "text": "Wallis Island is named after British Captain Samuel WALLIS who discovered it in 1767; Futuna is derived from the native word \"futu,\" which is the name of the fish-poison tree found on the island"
       }
     },
     "Dependency status": {
       "text": "overseas territory of France"
     },
     "Government type": {
-      "text": "parliamentary representive democratic French overseas collectivity"
+      "text": "parliamentary democracy (Territorial Assembly); overseas collectivity of France"
     },
     "Capital": {
       "name": {
@@ -277,6 +277,9 @@
     "Legal system": {
       "text": "French civil law"
     },
+    "Citizenship": {
+      "text": "see France"
+    },
     "Suffrage": {
       "text": "18 years of age; universal"
     },
@@ -302,7 +305,7 @@
         "text": "unicameral Territorial Assembly or Assemblee Territoriale (20 seats; members directly elected in multi-seat constituencies by proportional representation to serve 5-year terms)"
       },
       "note": {
-        "text": "Wallis and Futuna elects one senator to the French Senate and one deputy to the French National Assembly; French Senate - elections last held on 28 September 2014 (next to be held by September 2017); results - percent of vote by party - NA; seats - UMP 1; French National Assembly - by-election last held on 24 March 2013 (next to be held by 2017); results - percent of vote by party - NA; seats - independent (backed by UMP) 1"
+        "text": "Wallis and Futuna elects 1 senator to the French Senate and 1 deputy to the French National Assembly; French Senate - elections last held on 28 September 2014 (next to be held by September 2017); results - percent of vote by party - NA; seats - UMP 1; French National Assembly - by-election last held on 24 March 2013 (next to be held by 2017); results - percent of vote by party - NA; seats - independent (backed by UMP) 1"
       },
       "elections": {
         "text": "last held on 22 March 2012 (next to be held in March 2017)"
@@ -312,14 +315,14 @@
       }
     },
     "Judicial branch": {
-      "highest court(s)": {
-        "text": "Court of Appeal or Cour d'Appel, located in Noumea, New Caledonia"
+      "highest resident court(s)": {
+        "text": "Court of Assizes or Cour d'Assizes (consists of 1 judge; court hears primarily serious criminal cases); note - appeals beyond the Court of Assizes are heard before the Court of Appeal or Cour d'Appel, located in Noumea, New Caledonia"
       },
       "judge selection and term of office": {
         "text": "NA"
       },
       "subordinate courts": {
-        "text": "note - justice generally administered under French law by the high administrator, but the 3 traditional kings administer customary law, and there is a magistrate in Mata-Utu"
+        "text": "courts of first instance; labor court; note - justice generally administered under French law by the high administrator, but the 3 traditional kings administer customary law, and there is a magistrate in Mata-Utu"
       }
     },
     "Political parties and leaders": {
@@ -354,7 +357,7 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "The economy is limited to traditional subsistence agriculture, with 80% of labor force earnings coming from agriculture (coconuts and vegetables), livestock (mostly pigs), and fishing. Revenues come from French Government subsidies, licensing of fishing rights to Japan and South Korea, import taxes, and remittances from expatriate workers in New Caledonia. France directly finances the public sector, health and education services. It also provides funding for key development projects in a range of areas, including infrastructure, economic development, environmental management, and health facilities. 70% of employment is in the public sector, although only about 20% of the population is in salaried employment. A key concern for Wallis and Futuna is an aging population with consequent economic development issues. Very few people aged 18-30 live in the islands due to the limited formal employment opportunities. Improving job creation is a current priority for the territorial government."
+      "text": "The economy is limited to traditional subsistence agriculture, with 80% of labor force earnings coming from agriculture (coconuts and vegetables), livestock (mostly pigs), and fishing. However, roughly 70% of the labor force is employed in the public sector, although only about 20% of the population is in salaried employment. ++  ++ Revenues come from French Government subsidies, licensing of fishing rights to Japan and South Korea, import taxes, and remittances from expatriate workers in New Caledonia. France directly finances the public sector and healthcare and education services. It also provides funding for key development projects in a range of areas, including infrastructure, economic development, environmental management, and healthcare facilities. ++  ++ A key concern for Wallis and Futuna is an aging population with consequent economic development issues. Very few people aged 18-30 live on the islands due to the limited formal employment opportunities. Improving job creation is a current priority for the territorial government."
     },
     "GDP (purchasing power parity)": {
       "text": "$60 million (2004 est.)"
@@ -399,7 +402,7 @@
         "text": "4%"
       },
       "services": {
-        "text": "16% (2001 est.)"
+        "text": "16% (2001)"
       }
     },
     "Unemployment rate": {
@@ -443,7 +446,7 @@
       "text": "2.8% (2005)"
     },
     "Exports": {
-      "text": "$47,450 (2004)"
+      "text": "$47,450 (2004 est.)"
     },
     "Exports - commodities": {
       "text": "copra, chemicals, construction materials"
@@ -458,10 +461,18 @@
       "text": "$3.67 million (2004)"
     },
     "Exchange rates": {
-      "text": "Comptoirs Francais du Pacifique francs (XPF) per US dollar - ++ 89.85 (2013 est.) ++ 90.56 (February 2012) ++ 85.74 (2011 est.) ++ 90.01 (2010 est.)"
+      "text": "Comptoirs Francais du Pacifique francs (XPF) per US dollar - ++ 89.85 (2013 est.) ++ 90.56 (2012 est.) ++ 85.74 (2011 est.)"
     }
   },
   "Communications": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "3,132"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "20 (July 2014 est.)"
+      }
+    },
     "Telephone system": {
       "international": {
         "text": "country code - 681"
@@ -470,21 +481,15 @@
     "Broadcast media": {
       "text": "the publicly owned French Overseas Network (RFO), which broadcasts to France's overseas departments and territories, is carried on the RFO Wallis and Fortuna TV and radio stations (2008)"
     },
-    "Radio broadcast stations": {
-      "text": "AM 1, FM 0, shortwave 0 (2000)"
-    },
-    "Television broadcast stations": {
-      "text": "2 (2000)"
-    },
     "Internet country code": {
       "text": ".wf"
     },
     "Internet users": {
       "total": {
-        "text": "1,300"
+        "text": "3,450"
       },
       "percent of population": {
-        "text": "8.5% (2009)"
+        "text": "22.1% (July 2015 est.)"
       }
     }
   },
@@ -509,23 +514,7 @@
       }
     }
   },
-  "Military": {
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "3,376"
-      },
-      "females age 16-49": {
-        "text": "3,314 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "168"
-      },
-      "female": {
-        "text": "139 (2010 est.)"
-      }
-    },
+  "Military and Security": {
     "Military - note": {
       "text": "defense is the responsibility of France"
     }

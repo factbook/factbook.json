@@ -59,12 +59,12 @@
     "Terrain": {
       "text": "mostly rolling plains and low hills; fertile coastal lowland"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Atlantic Ocean 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "109 m"
       },
-      "highest point": {
-        "text": "Cerro Catedral 514 m"
+      "elevation extremes": {
+        "text": "lowest point: Atlantic Ocean 0 m ++ highest point: Cerro Catedral 514 m"
       }
     },
     "Natural resources": {
@@ -82,18 +82,10 @@
       }
     },
     "Irrigated land": {
-      "text": "1,810 sq km (2003)"
+      "text": "2,380 sq km (2012)"
     },
-    "Total renewable water resources": {
-      "text": "139 cu km (2011)"
-    },
-    "Freshwater withdrawal (domestic/industrial/agricultural)": {
-      "total": {
-        "text": "3.66  cu km/yr (11%/2%/87%)"
-      },
-      "per capita": {
-        "text": "1,101  cu m/yr (2000)"
-      }
+    "Population - distribution": {
+      "text": "most of the country's population resides in the southern half of the country; approximately 80% of the populace is urban, living in towns or cities; nearly half of the population lives in and around the capital of Montevideo"
     },
     "Natural hazards": {
       "text": "seasonally high winds (the pampero is a chilly and occasional violent wind that blows north from the Argentine pampas), droughts, floods; because of the absence of mountains, which act as weather barriers, all locations are particularly vulnerable to rapid changes from weather fronts"
@@ -114,6 +106,9 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "3,351,016 (July 2016 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "Uruguayan(s)"
@@ -134,27 +129,21 @@
     "Demographic profile": {
       "text": "Uruguay rates high for most development indicators and is known for its secularism, liberal social laws, and well-developed social security, health, and educational systems. It is one of the few countries in Latin America and the Caribbean where the entire population has access to clean water. Uruguay's provision of free primary through university education has contributed to the country's high levels of literacy and educational attainment. However, the emigration of human capital has diminished the state's return on its investment in education. Remittances from the roughly 18% of Uruguayans abroad amount to less than 1 percent of national GDP. The emigration of young adults and a low birth rate are causing Uruguay's population to age rapidly. In the 1960s, Uruguayans for the first time emigrated en masse - primarily to Argentina and Brazil - because of economic decline and the onset of more than a decade of military dictatorship. Economic crises in the early 1980s and 2002 also triggered waves of emigration, but since 2002 more than 70% of Uruguayan emigrants have selected the US and Spain as destinations because of better job prospects. Uruguay had a tiny population upon its independence in 1828 and welcomed thousands of predominantly Italian and Spanish immigrants, but the country has not experienced large influxes of new arrivals since the aftermath of World War II. More recent immigrants include Peruvians and Arabs."
     },
-    "Population": {
-      "text": "3,341,893 (July 2015 est.)"
-    },
     "Age structure": {
       "0-14 years": {
-        "text": "20.73% (male 352,470/female 340,275)"
+        "text": "20.44% (male 348,547/female 336,435)"
       },
       "15-24 years": {
-        "text": "15.89% (male 269,034/female 262,117)"
+        "text": "15.78% (male 267,848/female 260,990)"
       },
       "25-54 years": {
-        "text": "39.09% (male 644,816/female 661,635)"
+        "text": "39.23% (male 649,702/female 664,933)"
       },
       "55-64 years": {
-        "text": "10.25% (male 161,190/female 181,478)"
+        "text": "10.41% (male 164,201/female 184,784)"
       },
       "65 years and over": {
-        "text": "14.03% (male 187,051/female 281,827) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "14.13% (male 189,197/female 284,379) (2016 est.)"
       }
     },
     "Dependency ratios": {
@@ -173,26 +162,29 @@
     },
     "Median age": {
       "total": {
-        "text": "34.5 years"
+        "text": "34.7 years"
       },
       "male": {
-        "text": "32.8 years"
+        "text": "33 years"
       },
       "female": {
-        "text": "36.2 years (2015 est.)"
+        "text": "36.4 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "0.27% (2015 est.)"
+      "text": "0.27% (2016 est.)"
     },
     "Birth rate": {
-      "text": "13.07 births/1,000 population (2015 est.)"
+      "text": "13 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "9.45 deaths/1,000 population (2015 est.)"
+      "text": "9.4 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "-0.9 migrant(s)/1,000 population (2015 est.)"
+      "text": "-0.9 migrant(s)/1,000 population (2016 est.)"
+    },
+    "Population distribution": {
+      "text": "most of the country's population resides in the southern half of the country; approximately 80% of the populace is urban, living in towns or cities; nearly half of the population lives in and around the capital of Montevideo"
     },
     "Urbanization": {
       "urban population": {
@@ -225,7 +217,7 @@
         "text": "0.66 male(s)/female"
       },
       "total population": {
-        "text": "0.94 male(s)/female (2015 est.)"
+        "text": "0.94 male(s)/female (2016 est.)"
       }
     },
     "Maternal mortality rate": {
@@ -233,31 +225,31 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "8.74 deaths/1,000 live births"
+        "text": "8.5 deaths/1,000 live births"
       },
       "male": {
-        "text": "9.7 deaths/1,000 live births"
+        "text": "9.5 deaths/1,000 live births"
       },
       "female": {
-        "text": "7.75 deaths/1,000 live births (2015 est.)"
+        "text": "7.6 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "77 years"
+        "text": "77.2 years"
       },
       "male": {
-        "text": "73.86 years"
+        "text": "74.1 years"
       },
       "female": {
-        "text": "80.26 years (2015 est.)"
+        "text": "80.5 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "1.82 children born/woman (2015 est.)"
+      "text": "1.81 children born/woman (2016 est.)"
     },
     "Health expenditures": {
-      "text": "8.8% of GDP (2013)"
+      "text": "8.6% of GDP (2014)"
     },
     "Physicians density": {
       "text": "3.74 physicians/1,000 population (2008)"
@@ -282,13 +274,13 @@
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "0.7% (2014 est.)"
+      "text": "0.48% (2015 est.)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
-      "text": "14,400 (2014 est.)"
+      "text": "10,100 (2015 est.)"
     },
     "HIV/AIDS - deaths": {
-      "text": "600 (2014 est.)"
+      "text": "300 (2015 est.)"
     },
     "Obesity - adult prevalence rate": {
       "text": "27.6% (2014)"
@@ -334,13 +326,13 @@
     },
     "Unemployment, youth ages 15-24": {
       "total": {
-        "text": "18.5%"
+        "text": "19.2%"
       },
       "male": {
-        "text": "14.7%"
+        "text": "15.8%"
       },
       "female": {
-        "text": "23.6% (2012 est.)"
+        "text": "24% (2013 est.)"
       }
     }
   },
@@ -360,10 +352,13 @@
       },
       "former": {
         "text": "Banda Oriental, Cisplatine Province"
+      },
+      "etymology": {
+        "text": "the Guarani Indians named the Uruguay River, which makes up the western border of the country and whose name later came to be applied to the entire country"
       }
     },
     "Government type": {
-      "text": "constitutional republic"
+      "text": "presidential republic"
     },
     "Capital": {
       "name": {
@@ -386,7 +381,7 @@
       "text": "Independence Day, 25 August (1825)"
     },
     "Constitution": {
-      "text": "several previous; latest approved by plebiscite 27 November 1966, effective 15 February 1967; amended several times, last in 2004 (2015)"
+      "text": "several previous; latest approved by plebiscite 27 November 1966, effective 15 February 1967; amended several times, last in 2004 (2016)"
     },
     "Legal system": {
       "text": "civil law system based on the Spanish civil code"
@@ -395,14 +390,17 @@
       "text": "accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction"
     },
     "Citizenship": {
-      "birthright citizenship": {
+      "citizenship by birth": {
+        "text": "yes"
+      },
+      "citizenship by descent": {
         "text": "yes"
       },
       "dual citizenship recognized": {
-        "text": ""
+        "text": "yes"
       },
       "residency requirement for naturalization": {
-        "text": ""
+        "text": "3-5 years"
       }
     },
     "Suffrage": {
@@ -419,7 +417,7 @@
         "text": "Council of Ministers appointed by the president with approval of the General Assembly"
       },
       "elections/appointments": {
-        "text": "president and vice president directly elected on the same ballot by absolute majority vote in 2 rounds if needed for a 5-year term (eligible for nonconsecutive terms); election last held on 29 November 2009 (next to be held on 26 October 2014, and a runoff if needed on 30 November 2014)"
+        "text": "president and vice president directly elected on the same ballot by absolute majority vote in 2 rounds if needed for a 5-year term (eligible for nonconsecutive terms); election last held on 26 October 2014, with a runoff election on 30 November 2014 (next to be held on 27 October 2019, and a runoff if needed on 24 November 2019)"
       },
       "election results": {
         "text": "Tabare VAZQUEZ elected president in a runoff election; percent of vote - Tabare VAZQUEZ (Socialist Party) 56.5%, Luis Alberto LACALLE Pou (Blanco) 43.4%"
@@ -461,7 +459,7 @@
     },
     "Diplomatic representation in the US": {
       "chief of mission": {
-        "text": "Ambassador Juan Carlos PITA Alvariza (since 3 August 2015)"
+        "text": "Ambassador Carlos Alberto GIANELLI Derois (since 23 July 2015)"
       },
       "chancery": {
         "text": "1913 I Street NW, Washington, DC 20006"
@@ -516,58 +514,58 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Uruguay has a free market economy characterized by an export-oriented agricultural sector, a well-educated work force, and high levels of social spending. Following financial difficulties in the late 1990s and early 2000s, Uruguay's economic growth averaged 8% annually during the period 2004-08. The 2008-09 global financial crisis put a brake on Uruguay's vigorous growth, which decelerated to 2.6% in 2009. Nevertheless, the country managed to avoid a recession and keep positive growth rates, mainly through higher public expenditure and investment; GDP growth reached 8.9% in 2010 but slowed in 2012-13 as a result of a renewed slowdown in the global economy and in Uruguay's main trade partners and Common Market of the South (Mercosur) counterparts, Argentina and Brazil. Uruguay has sought to expand trade within Mercosur and with non-Mercosur members, and President VAZQUEZ has said he will maintain his predecessor’s mix of pro-market policies and a strong social safety net."
+      "text": "Uruguay has a free market economy characterized by an export-oriented agricultural sector, a well-educated workforce, and high levels of social spending. Uruguay has sought to expand trade within the Common Market of the South (Mercosur) and with non-Mercosur members, and President VAZQUEZ has maintained his predecessor’s mix of pro-market policies and a strong social safety net. ++  ++ Following financial difficulties in the late 1990s and early 2000s, Uruguay's economic growth averaged 8% annually during the period 2004-08. The 2008-09 global financial crisis put a brake on Uruguay's vigorous growth, which decelerated to 2.6% in 2009. Nevertheless, the country managed to avoid a recession and keep positive growth rates, mainly through higher public expenditure and investment; GDP growth reached 8.9% in 2010 but slowed in 2012-13 as a result of a renewed slowdown in the global economy and in Uruguay's main trade partners and Mercosur counterparts, Argentina and Brazil."
     },
     "GDP (purchasing power parity)": {
-      "text": "$71.68 billion (2014 est.) ++ $69.25 billion (2013 est.) ++ $65.89 billion (2012 est.)",
+      "text": "$72.9 billion (2015 est.) ++ $72.19 billion (2014 est.) ++ $69.93 billion (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$57.47 billion (2014 est.)"
+      "text": "$53.11 billion (2015 est.)"
     },
     "GDP - real growth rate": {
-      "text": "3.5% (2014 est.) ++ 5.1% (2013 est.) ++ 3.3% (2012 est.)"
+      "text": "1% (2015 est.) ++ 3.2% (2014 est.) ++ 4.6% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$21,100 (2014 est.) ++ $20,300 (2013 est.) ++ $19,400 (2012 est.)",
+      "text": "$21,300 (2015 est.) ++ $21,200 (2014 est.) ++ $20,600 (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "Gross national saving": {
-      "text": "17% of GDP (2014 est.) ++ 17.8% of GDP (2013 est.) ++ 17.8% of GDP (2012 est.)"
+      "text": "16.3% of GDP (2015 est.) ++ 16.7% of GDP (2014 est.) ++ 17.5% of GDP (2013 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "66%"
+        "text": "66.7%"
       },
       "government consumption": {
-        "text": "13.7%"
+        "text": "13.9%"
       },
       "investment in fixed capital": {
-        "text": "22.6%"
+        "text": "19.8%"
       },
       "investment in inventories": {
-        "text": "0.6%"
+        "text": "-0.1%"
       },
       "exports of goods and services": {
-        "text": "23.5%"
+        "text": "22.3%"
       },
       "imports of goods and services": {
-        "text": "-26.4% ++  (2014 est.)"
+        "text": "-22.6% (2015 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "7.4%"
+        "text": "6.2%"
       },
       "industry": {
-        "text": "20.4%"
+        "text": "25%"
       },
       "services": {
-        "text": "72.2% (2014 est.)"
+        "text": "68.7% (2015 est.)"
       }
     },
     "Agriculture - products": {
@@ -577,10 +575,10 @@
       "text": "food processing, electrical machinery, transportation equipment, petroleum products, textiles, chemicals, beverages"
     },
     "Industrial production growth rate": {
-      "text": "5% (2014 est.)"
+      "text": "1.2% (2015 est.)"
     },
     "Labor force": {
-      "text": "1.712 million (2014 est.)"
+      "text": "1.725 million (2015 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -594,7 +592,7 @@
       }
     },
     "Unemployment rate": {
-      "text": "6.6% (2014 est.) ++ 6.6% (2013 est.)"
+      "text": "7.5% (2015 est.) ++ 6.6% (2014 est.)"
     },
     "Population below poverty line": {
       "text": "18.6% (2010 est.)"
@@ -612,29 +610,29 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$16.59 billion"
+        "text": "$15.21 billion"
       },
       "expenditures": {
-        "text": "$18.49 billion (2014 est.)"
+        "text": "$17.11 billion (2015 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "28.9% of GDP (2014 est.)"
+      "text": "28.3% of GDP (2015 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-3.3% of GDP (2014 est.)"
+      "text": "-3.5% of GDP (2015 est.)"
     },
     "Public debt": {
-      "text": "62.7% of GDP (2014 est.) ++ 62% of GDP (2013 est.)",
+      "text": "66.3% of GDP (2015 est.) ++ 61% of GDP (2014 est.)",
       "note": {
-        "text": "data cover general government debt, and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intra-governmental debt; intra-governmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions."
+        "text": "data cover general government debt, and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intra-governmental debt; intra-governmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions"
       }
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Inflation rate (consumer prices)": {
-      "text": "8.9% (2014 est.) ++ 8.6% (2013 est.)"
+      "text": "8.7% (2015 est.) ++ 8.9% (2014 est.)"
     },
     "Central bank discount rate": {
       "text": "9% (31 December 2012) ++ 8.75% (31 December 2011)",
@@ -643,58 +641,72 @@
       }
     },
     "Commercial bank prime lending rate": {
-      "text": "15.53% (31 December 2014 est.) ++ 12.44% (31 December 2013 est.)"
+      "text": "15.84% (31 December 2015 est.) ++ 15.53% (31 December 2014 est.)"
     },
     "Stock of narrow money": {
-      "text": "$4.89 billion (31 December 2014 est.) ++ $5.455 billion (31 December 2013 est.)"
+      "text": "$4.022 billion (31 December 2015 est.) ++ $4.89 billion (31 December 2014 est.)"
     },
     "Stock of broad money": {
       "text": "$8.568 billion (31 December 2014 est.) ++ $8.919 billion (31 December 2013 est.)"
     },
     "Stock of domestic credit": {
-      "text": "$19.67 billion (31 December 2014 est.) ++ $19.48 billion (31 December 2013 est.)"
+      "text": "$17.2 billion (31 December 2015 est.) ++ $19.67 billion (31 December 2014 est.)"
     },
     "Market value of publicly traded shares": {
-      "text": "$175.4 million (31 December 2012 est.) ++ $174.6 million (31 December 2011) ++ $156.9 million (31 December 2010 est.)"
+      "text": "$175.4 million (31 December 2012 est.) ++ $174.6 million (31 December 2011 est.) ++ $156.9 million (31 December 2010 est.)"
     },
     "Current account balance": {
-      "text": "-$2.511 billion (2014 est.) ++ -$2.825 billion (2013 est.)"
+      "text": "-$1.864 billion (2015 est.) ++ -$2.58 billion (2014 est.)"
     },
     "Exports": {
-      "text": "$10.38 billion (2014 est.) ++ $10.26 billion (2013 est.)"
+      "text": "$9.067 billion (2015 est.) ++ $10.34 billion (2014 est.)"
     },
     "Exports - commodities": {
       "text": "beef, soybeans, cellulose, rice, wheat, wood, dairy products; wool"
     },
     "Exports - partners": {
-      "text": "China 22.4%, Brazil 17.9%, Argentina 6.3%, Venezuela 5% (2014)"
+      "text": "China 15%, Brazil 14.4%, US 6.5%, Argentina 4.9% (2015)"
     },
     "Imports": {
-      "text": "$11.3 billion (2014 est.) ++ $11.61 billion (2013 est.)"
+      "text": "$9.345 billion (2015 est.) ++ $11.25 billion (2014 est.)"
     },
     "Imports - commodities": {
       "text": "refined oil, crude oil, passenger and other transportation vehicles, vehicle parts, cellular phones"
     },
     "Imports - partners": {
-      "text": "Brazil 20.3%, China 16.9%, Argentina 13.1%, US 10.2%, Venezuela 4.6% (2014)"
+      "text": "Brazil 18.2%, China 17.4%, Argentina 12.6%, US 9.1%, Germany 4.5%, Nigeria 4.1% (2015)"
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$17.55 billion (31 December 2014 est.) ++ $16.28 billion (31 December 2013 est.)"
+      "text": "$15.63 billion (31 December 2015 est.) ++ $17.55 billion (31 December 2014 est.)"
     },
     "Debt - external": {
-      "text": "$17.51 billion (31 December 2014 est.) ++ $16.27 billion (31 December 2013 est.)"
+      "text": "$20.07 billion (31 December 2015 est.) ++ $19.03 billion (31 December 2014 est.)"
     },
     "Stock of direct foreign investment - at home": {
-      "text": "$21.34 billion (31 December 2014 est.) ++ $19.56 billion (31 December 2013 est.)"
+      "text": "$21.65 billion (31 December 2015 est.) ++ $21.3 billion (31 December 2014 est.)"
     },
     "Stock of direct foreign investment - abroad": {
-      "text": "$156.6 million (31 December 2014 est.) ++ $136 million (31 December 2013 est.)"
+      "text": "$153.5 million (31 December 2015 est.) ++ $139.2 million (31 December 2014 est.)"
     },
     "Exchange rates": {
-      "text": "Uruguayan pesos (UYU) per US dollar - ++ 23.246 (2014 est.) ++ 23.246 (2013 est.) ++ 20.31 (2012 est.) ++ 19.314 (2011 est.) ++ 20.059 (2010 est.)"
+      "text": "Uruguayan pesos (UYU) per US dollar - ++ 27.52 (2015 est.) ++ 23.246 (2014 est.) ++ 23.246 (2013 est.) ++ 20.31 (2012 est.) ++ 19.314 (2011 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "20,106"
+      },
+      "electrification - total population": {
+        "text": "99.4%"
+      },
+      "electrification - urban areas": {
+        "text": "99.7%"
+      },
+      "electrification - rural areas": {
+        "text": "93.8% (2012)"
+      }
+    },
     "Electricity - production": {
       "text": "10.3 billion kWh (2012 est.)"
     },
@@ -768,18 +780,18 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "1.08 million"
+        "text": "1,106,431"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "32 (2014 est.)"
+        "text": "33 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "5.5 million"
+        "text": "5.495 million"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "165 (2014 est.)"
+        "text": "164 (July 2015 est.)"
       }
     },
     "Telephone system": {
@@ -787,34 +799,39 @@
         "text": "fully digitalized"
       },
       "domestic": {
-        "text": "most modern facilities concentrated in Montevideo; nationwide microwave radio relay network; overall fixed-line and mobile-cellular teledensity has reached 170 telephones per 100 persons"
+        "text": "most modern facilities concentrated in Montevideo; nationwide microwave radio relay network; overall fixed-line and mobile-cellular teledensity over 195 telephones per 100 persons"
       },
       "international": {
-        "text": "country code - 598; the UNISOR submarine cable system provides direct connectivity to Brazil and Argentina; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2011)"
+        "text": "country code - 598; the UNISOR submarine cable system provides direct connectivity to Brazil and Argentina; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2015)"
       }
     },
     "Broadcast media": {
       "text": "mixture of privately owned and state-run broadcast media; more than 100 commercial radio stations and about 20 TV channels; cable TV is available; many community radio and TV stations; adopted the hybrid Japanese/Brazilian HDTV standard (ISDB-T) in December 2010 (2010)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM 93, FM 191, shortwave 7 (2005)"
-    },
-    "Television broadcast stations": {
-      "text": "62 (2005)"
     },
     "Internet country code": {
       "text": ".uy"
     },
     "Internet users": {
       "total": {
-        "text": "2 million"
+        "text": "2.159 million"
       },
       "percent of population": {
-        "text": "59.0% (2014 est.)"
+        "text": "64.6% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "2"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "3 (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "CX (2016)"
+    },
     "Airports": {
       "text": "133 (2013)"
     },
@@ -846,7 +863,7 @@
         "text": "40"
       },
       "under 914 m": {
-        "text": " ++ 79 (2013)"
+        "text": "79 (2013)"
       }
     },
     "Pipelines": {
@@ -894,36 +911,12 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "Uruguayan Armed Forces: Uruguayan National Army (Ejercito Nacional Uruguaya, ENU), Uruguayan National Navy (Armada Nacional del Uruguay; includes naval air arm, Naval Rifle Corps (Cuerpo de Fusileros Navales, Fusna), Maritime Prefecture in wartime), Uruguayan Air Force (Fuerza Aerea Uruguaya, FAU) (2012)"
     },
     "Military service age and obligation": {
       "text": "18-30 years of age (18-22 years of age for navy) for male or female voluntary military service; up to 40 years of age for specialists; enlistment is voluntary in peacetime, but the government has the authority to conscript in emergencies; minimum 6-year education (2013)"
-    },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "771,159"
-      },
-      "females age 16-49": {
-        "text": "780,932 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "649,025"
-      },
-      "females age 16-49": {
-        "text": "654,903 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "27,564"
-      },
-      "female": {
-        "text": "26,811 (2010 est.)"
-      }
     },
     "Military expenditures": {
       "text": "1.95% of GDP (2012) ++ 1.94% of GDP (2011) ++ 1.95% of GDP (2010)"
@@ -932,14 +925,6 @@
   "Transnational Issues": {
     "Disputes - international": {
       "text": "in 2010, the ICJ ruled in favor of Uruguay's operation of two paper mills on the Uruguay River, which forms the border with Argentina; the two countries formed a joint pollution monitoring regime; uncontested boundary dispute between Brazil and Uruguay over Braziliera/Brasiliera Island in the Quarai/Cuareim River leaves the tripoint with Argentina in question; smuggling of firearms and narcotics continues to be an issue along the Uruguay-Brazil border"
-    },
-    "Trafficking in persons": {
-      "current situation": {
-        "text": "Uruguay is a source country for women and children subjected to sex trafficking and, to a lesser extent, a transit and destination country for men, women, and children exploited in forced labor and sex trafficking; most victims are women and girls exploited in sex trafficking domestically; some Uruguayan women lured by fraudulent job employment offers in Spain, Italy, and Argentina are forced into prostitution; foreign workers in domestic service, agriculture, and lumber processing are vulnerable to forced labor in Uruguay; some human trafficking cases are reportedly linked to international crime rings"
-      },
-      "tier rating": {
-        "text": "Tier 2 Watch List – Uruguay does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; authorities investigated and prosecuted several trafficking cases in 2013 but reported no convictions; limited anti-trafficking data makes it difficult to assess law enforcement efforts; the government provides limited services to human trafficking victims outside the capital and to forced labor victims; two public awareness campaigns were launched with foreign funding in 2013 (2014)"
-      }
     },
     "Illicit drugs": {
       "text": "small-scale transit country for drugs mainly bound for Europe, often through sea-borne containers; law enforcement corruption; money laundering because of strict banking secrecy laws; weak border control along Brazilian frontier; increasing consumption of cocaine base and synthetic drugs"

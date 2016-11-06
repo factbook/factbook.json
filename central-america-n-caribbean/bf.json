@@ -48,12 +48,12 @@
     "Terrain": {
       "text": "long, flat coral formations with some low rounded hills"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Atlantic Ocean 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "NA"
       },
-      "highest point": {
-        "text": "Mount Alvernia on Cat Island 63 m"
+      "elevation extremes": {
+        "text": "lowest point: Atlantic Ocean 0 m ++ highest point: Mount Alvernia on Cat Island 63 m"
       }
     },
     "Natural resources": {
@@ -71,10 +71,10 @@
       }
     },
     "Irrigated land": {
-      "text": "10 sq km (2003)"
+      "text": "10 sq km (2012)"
     },
-    "Total renewable water resources": {
-      "text": "0.02 cu km (2011)"
+    "Population - distribution": {
+      "text": "most of the population lives in urban areas, with two-thirds living on New Providence Island where Nassau is located"
     },
     "Natural hazards": {
       "text": "hurricanes and other tropical storms cause extensive flood and wind damage"
@@ -95,6 +95,12 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "327,316",
+      "note": {
+        "text": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2016 est.)"
+      }
+    },
     "Nationality": {
       "noun": {
         "text": "Bahamian(s)"
@@ -112,30 +118,21 @@
     "Religions": {
       "text": "Protestant 69.9% (includes Baptist 34.9%, Anglican 13.7%, Pentecostal 8.9% Seventh Day Adventist 4.4%, Methodist 3.6%, Church of God 1.9%, Brethren 1.6%), Roman Catholic 12%, other Christian 13% (includes Jehovah's Witness 1.1%), other 0.6%, none 1.9%, unspecified 2.6% (2010 est.)"
     },
-    "Population": {
-      "text": "324,597",
-      "note": {
-        "text": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2015 est.)"
-      }
-    },
     "Age structure": {
       "0-14 years": {
-        "text": "22.98% (male 37,838/female 36,747)"
+        "text": "22.75% (male 37,779/female 36,691)"
       },
       "15-24 years": {
-        "text": "17.15% (male 28,195/female 27,459)"
+        "text": "16.79% (male 27,843/female 27,116)"
       },
       "25-54 years": {
-        "text": "44.08% (male 71,528/female 71,555)"
+        "text": "44.12% (male 72,295/female 72,107)"
       },
       "55-64 years": {
-        "text": "8.58% (male 12,429/female 15,436)"
+        "text": "8.87% (male 13,023/female 15,998)"
       },
       "65 years and over": {
-        "text": "7.21% (male 8,981/female 14,429) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "7.47% (male 9,399/female 15,065) (2016 est.)"
       }
     },
     "Dependency ratios": {
@@ -154,26 +151,29 @@
     },
     "Median age": {
       "total": {
-        "text": "31.5 years"
+        "text": "31.8 years"
       },
       "male": {
-        "text": "30.4 years"
+        "text": "30.6 years"
       },
       "female": {
-        "text": "32.6 years (2015 est.)"
+        "text": "32.9 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "0.85% (2015 est.)"
+      "text": "0.83% (2016 est.)"
     },
     "Birth rate": {
-      "text": "15.5 births/1,000 population (2015 est.)"
+      "text": "15.4 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "7.05 deaths/1,000 population (2015 est.)"
+      "text": "7.1 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "0 migrant(s)/1,000 population (2015 est.)"
+      "text": "0 migrant(s)/1,000 population (2016 est.)"
+    },
+    "Population distribution": {
+      "text": "most of the population lives in urban areas, with two-thirds living on New Providence Island where Nassau is located"
     },
     "Urbanization": {
       "urban population": {
@@ -206,7 +206,7 @@
         "text": "0.62 male(s)/female"
       },
       "total population": {
-        "text": "0.96 male(s)/female (2015 est.)"
+        "text": "0.96 male(s)/female (2016 est.)"
       }
     },
     "Maternal mortality rate": {
@@ -214,31 +214,31 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "11.92 deaths/1,000 live births"
+        "text": "11.7 deaths/1,000 live births"
       },
       "male": {
-        "text": "11.75 deaths/1,000 live births"
+        "text": "11.8 deaths/1,000 live births"
       },
       "female": {
-        "text": "12.1 deaths/1,000 live births (2015 est.)"
+        "text": "11.7 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "72.2 years"
+        "text": "72.4 years"
       },
       "male": {
-        "text": "69.77 years"
+        "text": "70 years"
       },
       "female": {
-        "text": "74.7 years (2015 est.)"
+        "text": "74.8 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "1.96 children born/woman (2015 est.)"
+      "text": "1.95 children born/woman (2016 est.)"
     },
     "Health expenditures": {
-      "text": "7.3% of GDP (2013)"
+      "text": "7.7% of GDP (2014)"
     },
     "Physicians density": {
       "text": "2.82 physicians/1,000 population (2008)"
@@ -263,13 +263,13 @@
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "3.22% (2013 est.)"
+      "text": "3.22% (2015 est.)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
-      "text": "7,700 (2013 est.)"
+      "text": "8,100 (2015 est.)"
     },
     "HIV/AIDS - deaths": {
-      "text": "500 (2013 est.)"
+      "text": "300 (2015 est.)"
     },
     "Obesity - adult prevalence rate": {
       "text": "36.6% (2014)"
@@ -297,12 +297,12 @@
       "conventional short form": {
         "text": "The Bahamas"
       },
-      "note": {
-        "text": "name derives from the Spanish \"baha mar,\" meaning shallow sea, which describes the shallow waters of the Bahama Banks"
+      "etymology": {
+        "text": "name derives from the Spanish \"baha mar,\" meaning \"shallow sea,\" which describes the shallow waters of the Bahama Banks"
       }
     },
     "Government type": {
-      "text": "constitutional parliamentary democracy and a Commonwealth realm"
+      "text": "parliamentary democracy (Parliament) under a constitutional monarchy; a Commonwealth realm"
     },
     "Capital": {
       "name": {
@@ -328,7 +328,7 @@
       "text": "Independence Day, 10 July (1973)"
     },
     "Constitution": {
-      "text": "previous 1964 (preindependence); latest adopted 20 June 1973, effective 10 July 1973; amended many times, last in 2012 (2015)"
+      "text": "previous 1964 (preindependence); latest adopted 20 June 1973, effective 10 July 1973; amended many times, last in 2016 (2016)"
     },
     "Legal system": {
       "text": "common law system based on the English model"
@@ -337,8 +337,11 @@
       "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
     },
     "Citizenship": {
-      "birthright citizenship": {
-        "text": "no, unless one parent is a Bahamian citizen"
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of The Bahamas"
       },
       "dual citizenship recognized": {
         "text": "no"
@@ -377,13 +380,13 @@
     },
     "Judicial branch": {
       "highest resident court(s)": {
-        "text": "The Bahamas Court of Appeal (consists of the court president and 4 justices, organized in 3-member panels); Supreme Court (consists of the chief justice and 9 justices – as of 2015)"
+        "text": "Court of Appeal (consists of the court president and 4 justices, organized in 3-member panels); Supreme Court (consists of the chief justice and 9 justices – as of 2015)"
       },
       "note": {
         "text": "as of 2008, the Bahamas was not a party to the agreement establishing the Caribbean Court of Justice as the highest appellate court for the 15-member Caribbean Community (CARICOM); the Judicial Committee of the Privy Council (in London) serves as the final court of appeal for The Bahamas"
       },
       "judge selection and term of office": {
-        "text": "Court of Appeal president and Supreme Court chief justice appointed by the governor general on the advice of the prime minister after consultation with the leader of the opposition party; other Court of Appeal and Supreme Court justices appointed by the governor general upon recommendation of the Judicial and Legal Services Commission, a 5-member body headed by the chief justice; Court of Appeal justices appointed for life with mandatory retirement normally at age 68, but can be extended until age 70; Supreme Court justices appointed for life with mandatory retirement normally at age 65 but can be extended until age 67"
+        "text": "Court of Appeal president and Supreme Court chief justice appointed by the governor general on the advice of the prime minister after consultation with the leader of the opposition party; other Court of Appeal and Supreme Court justices appointed by the governor general upon recommendation of the Judicial and Legal Services Commission, a 5-member body headed by the chief justice; Court of Appeal justices appointed for life with mandatory retirement normally at age 68, but can be extended until age 70; Supreme Court justices appointed for life with mandatory retirement normally at age 65, but can be extended until age 67"
       },
       "subordinate courts": {
         "text": "Industrial Tribunal; Stipendiary and Magistrates' Courts; Family Island Administrators"
@@ -458,55 +461,55 @@
       "text": "The Bahamas is one of the wealthiest Caribbean countries with an economy heavily dependent on tourism and offshore banking. Tourism together with tourism-driven construction and manufacturing accounts for approximately 60% of GDP and directly or indirectly employs half of the archipelago's labor force. Financial services constitute the second-most important sector of the Bahamian economy and, when combined with business services, account for about 35% of GDP. Manufacturing and agriculture combined contribute less than one 10th of GDP and show little growth, despite government incentives aimed at those sectors. The economy of The Bahamas shrank at an average pace of 0.8% annually between 2007 and 2011, and tourism, financial services, and construction - pillars of the national economy - remain subdued. Conditions are improving in the tourism sector, however, due to steady foreign investment led activity. New resort and marina developments are likely to provide sustained employment opportunities."
     },
     "GDP (purchasing power parity)": {
-      "text": "$9.031 billion (2014 est.) ++ $8.94 billion (2013 est.) ++ $8.938 billion (2012 est.)",
+      "text": "$8.925 billion (2015 est.) ++ $9.076 billion (2014 est.) ++ $9.124 billion (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$8.511 billion (2014 est.)"
+      "text": "$8.854 billion (2015 est.)"
     },
     "GDP - real growth rate": {
-      "text": "1% (2014 est.) ++ 0% (2013 est.) ++ 2.2% (2012 est.)"
+      "text": "-1.7% (2015 est.) ++ -0.5% (2014 est.) ++ 0% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$25,100 (2014 est.) ++ $24,800 (2013 est.) ++ $24,800 (2012 est.)",
+      "text": "$24,500 (2015 est.) ++ $25,200 (2014 est.) ++ $25,600 (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "Gross national saving": {
-      "text": "6.5% of GDP (2014 est.) ++ 9.3% of GDP (2013 est.) ++ 10% of GDP (2012 est.)"
+      "text": "11.2% of GDP (2015 est.) ++ 9.2% of GDP (2014 est.) ++ 10.1% of GDP (2013 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "72.5%"
+        "text": "65.4%"
       },
       "government consumption": {
-        "text": "15.8%"
+        "text": "16%"
       },
       "investment in fixed capital": {
-        "text": "27.7%"
+        "text": "26.2%"
       },
       "investment in inventories": {
-        "text": "1.1%"
+        "text": "1%"
       },
       "exports of goods and services": {
-        "text": "43.9%"
+        "text": "38.6%"
       },
       "imports of goods and services": {
-        "text": "-60.9% ++  (2014 est.)"
+        "text": "-47.2% (2015 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "2.1%"
+        "text": "2.2%"
       },
       "industry": {
-        "text": "7.3%"
+        "text": "7.6%"
       },
       "services": {
-        "text": "90.6% (2014 est.)"
+        "text": "90.2% (2015 est.)"
       }
     },
     "Agriculture - products": {
@@ -516,7 +519,7 @@
       "text": "tourism, banking, oil bunkering, maritime industries, transshipment, salt, rum, aragonite, pharmaceuticals"
     },
     "Industrial production growth rate": {
-      "text": "1.5% (2014 est.)"
+      "text": "1.5% (2015 est.)"
     },
     "Labor force": {
       "text": "196,900 (2013 est.)"
@@ -551,77 +554,82 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$1.6 billion"
+        "text": "$1.8 billion"
       },
       "expenditures": {
-        "text": "$1.7 billion (2014 est.)"
+        "text": "$2.2 billion (2015 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "18.8% of GDP (2014 est.)"
+      "text": "20.7% of GDP (2015 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-1.2% of GDP (2014 est.)"
+      "text": "-4.6% of GDP (2015 est.)"
     },
     "Public debt": {
-      "text": "57.6% of GDP (2013 est.) ++ 56.1% of GDP (2012 est.)"
+      "text": "64.4% of GDP (2015 est.) ++ 60.2% of GDP (2014 est.)"
     },
     "Fiscal year": {
       "text": "1 July - 30 June"
     },
     "Inflation rate (consumer prices)": {
-      "text": "1.2% (2014 est.) ++ 0.4% (2013 est.)"
+      "text": "1.9% (2015 est.) ++ 1.2% (2014 est.)"
     },
     "Central bank discount rate": {
       "text": "4.5% (1 January 2014) ++ 4.5% (31 December 2012)"
     },
     "Commercial bank prime lending rate": {
-      "text": "4.75% (31 December 2014 est.) ++ 4.75% (31 December 2013 est.)"
+      "text": "4.8% (31 December 2015 est.) ++ 4.75% (31 December 2014 est.)"
     },
     "Stock of narrow money": {
-      "text": "$1.996 billion (31 December 2014 est.) ++ $1.641 billion (31 December 2013 est.)"
+      "text": "$2.051 million (31 December 2015 est.) ++ $1.996 million (31 December 2014 est.)"
     },
     "Stock of broad money": {
       "text": "$6.453 billion (31 December 2014 est.) ++ $6.076 billion (31 December 2013 est.)"
     },
     "Stock of domestic credit": {
-      "text": "$8.825 billion (31 December 2014 est.) ++ $8.926 billion (31 December 2013 est.)"
+      "text": "$9.4 billion (31 December 2015 est.) ++ $8.825 million (31 December 2014 est.)"
     },
     "Market value of publicly traded shares": {
       "text": "$2.78 billion (31 December 2012 est.)"
     },
     "Current account balance": {
-      "text": "-$1.891 billion (2014 est.) ++ -$1.494 billion (2013 est.)"
+      "text": "-$1.415 billion (2015 est.) ++ -$1.898 billion (2014 est.)"
     },
     "Exports": {
-      "text": "$848.8 million (2014 est.) ++ $954.9 million (2013 est.)"
+      "text": "$800 million (2015 est.) ++ $859 million (2014 est.)"
     },
     "Exports - commodities": {
       "text": "crawfish, aragonite, crude salt, polystyrene products"
     },
     "Exports - partners": {
-      "text": "Cote d'Ivoire 20.5%, US 14.7%, India 13.4%, Dominican Republic 10.6%, Mexico 6.9%, Ecuador 4.9% (2014)"
+      "text": "Poland 26.3%, Cote dIvoire 20.9%, US 15.9%, Dominican Republic 14.3% (2015)"
     },
     "Imports": {
-      "text": "$3.27 billion (2014 est.) ++ $3.166 billion (2013 est.)"
+      "text": "$2.585 billion (2015 est.) ++ $3.309 billion (2014 est.)"
     },
     "Imports - commodities": {
       "text": "machinery and transport equipment, manufactures, chemicals, mineral fuels; food and live animals"
     },
     "Imports - partners": {
-      "text": "US 30.8%, Japan 11.4%, Singapore 9.4%, South Korea 7.7%, Colombia 7.4%, China 6.8%, Brazil 5.6% (2014)"
+      "text": "US 22.3%, China 14.8%, Japan 9.5%, Poland 7.7%, South Korea 7.3%, Colombia 6.8%, Brazil 5.6%, Singapore 5.5% (2015)"
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$874.3 million (31 December 2014 est.) ++ $807.4 million (31 December 2013 est.)"
+      "text": "$895.5 million (31 December 2015 est.) ++ $874.3 million (31 December 2014 est.)"
     },
     "Debt - external": {
-      "text": "$874.3 million (31 December 2014 est.) ++ $807.4 million (31 December 2013 est.)"
+      "text": "$17.56 billion (31 December 2013 est.) ++ $16.35 billion (31 December 2012 est.)"
     },
     "Exchange rates": {
-      "text": "Bahamian dollars (BSD) per US dollar - ++ 1 (2014 est.) ++ 1 (2013 est.) ++ 1 (2012 est.) ++ 1 (2011 est.) ++ 1 (2010 est.)"
+      "text": "Bahamian dollars (BSD) per US dollar - ++ 1 (2015 est.) ++ 1 (2014 est.) ++ 1 (2013 est.) ++ 1 (2012 est.) ++ 1 (2011 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
+    },
     "Electricity - production": {
       "text": "1.845 billion kWh (2012 est.)"
     },
@@ -695,18 +703,18 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "140,000"
+        "text": "120,925"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "43 (2014 est.)"
+        "text": "37 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "273,300"
+        "text": "311,000"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "85 (2014 est.)"
+        "text": "96 (July 2015 est.)"
       }
     },
     "Telephone system": {
@@ -714,34 +722,45 @@
         "text": "modern facilities"
       },
       "domestic": {
-        "text": "totally automatic system; highly developed; the Bahamas Domestic Submarine Network links 14 of the islands and is designed to satisfy increasing demand for voice and broadband Internet services"
+        "text": "totally automatic system; highly developed; the Bahamas Domestic Submarine Network links all of the major islands; Bahamas Telecommunications Company (BTC) privatized in 2011, but the government reacquired 51% share in 2014"
       },
       "international": {
-        "text": "country code - 1-242; landing point for the Americas Region Caribbean Ring System (ARCOS-1) fiber-optic submarine cable that provides links to South and Central America, parts of the Caribbean, and the US; satellite earth stations - 2 (2007)"
+        "text": "country code - 1-242; landing point for the Americas Region Caribbean Ring System (ARCOS-1) fiber-optic submarine cable that provides links to South and Central America, parts of the Caribbean, and the US; satellite earth stations - 2 (2015)"
       }
     },
     "Broadcast media": {
       "text": "2 TV stations operated by government-owned, commercially run Broadcasting Corporation of the Bahamas (BCB); multi-channel cable TV subscription service is available; about 15 radio stations operating with BCB operating a multi-channel radio broadcasting network alongside privately owned radio stations (2007)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM 3, FM 11, shortwave 0 (2009)"
-    },
-    "Television broadcast stations": {
-      "text": "2 (2006)"
     },
     "Internet country code": {
       "text": ".bs"
     },
     "Internet users": {
       "total": {
-        "text": "247,200"
+        "text": "253,000"
       },
       "percent of population": {
-        "text": "76.8% (2014 est.)"
+        "text": "78% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "4"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "16"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "587,516"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "172,730 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "C6 (2016)"
+    },
     "Airports": {
       "text": "61 (2013)"
     },
@@ -773,7 +792,7 @@
         "text": "16"
       },
       "under 914 m": {
-        "text": " ++ 17 (2013)"
+        "text": "17 (2013)"
       }
     },
     "Heliports": {
@@ -816,33 +835,12 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "Royal Bahamas Defense Force: Land Force, Navy, Air Wing (2011)"
     },
     "Military service age and obligation": {
       "text": "18 years of age for voluntary male and female service; no conscription (2012)"
-    },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "85,568 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "63,429"
-      },
-      "females age 16-49": {
-        "text": "64,645 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "2,829"
-      },
-      "female": {
-        "text": "2,750 (2010 est.)"
-      }
     }
   },
   "Transnational Issues": {

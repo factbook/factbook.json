@@ -48,12 +48,12 @@
     "Terrain": {
       "text": "generally low, hilly terrain"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Caribbean Sea 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "NA"
       },
-      "highest point": {
-        "text": "Mt. Christoffel 372m"
+      "elevation extremes": {
+        "text": "lowest point: Caribbean Sea 0 m ++ highest point: Mt. Christoffel 372 m"
       }
     },
     "Natural resources": {
@@ -73,8 +73,8 @@
     "Irrigated land": {
       "text": "NA"
     },
-    "Total renewable water resources": {
-      "text": "NA"
+    "Population - distribution": {
+      "text": "largest concentration on the island is Willemstad; smaller settlements near the coast can be found throughout the island, particularly in the northwest"
     },
     "Natural hazards": {
       "text": "Curacao is south of the Caribbean hurricane belt and is rarely threatened"
@@ -87,6 +87,9 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "149,035 (July 2016 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "Curacaoan"
@@ -99,32 +102,26 @@
       "text": "Afro-Caribbean majority; Dutch, French, Latin American, East Asian, South Asian, Jewish minorities"
     },
     "Languages": {
-      "text": "Papiamentu (a Spanish-Portuguese-Dutch-English dialect) 81.2%, Dutch (official) 8%, Spanish 4%, English 2.9%, other 3.9% (2001 census)"
+      "text": "Papiamento (official) (a creole language that is a mixture of Portuguese, Spanish, Dutch, English, and, to a lesser extent, French, as well as elements of African languages and the language of the Arawak) 81.2%, Dutch (official) 8%, Spanish 4%, English (official) 2.9%, other 3.9% (2001 census)"
     },
     "Religions": {
       "text": "Roman Catholic 72.8%, Pentecostal 6.6%, Protestant 3.2%, Adventist 3%, Jehovah's Witness 2%, Evangelical 1.9%, other 3.8%, none 6%, unspecified 0.6% (2011 est.)"
     },
-    "Population": {
-      "text": "148,406 (July 2015 est.)"
-    },
     "Age structure": {
       "0-14 years": {
-        "text": "20.3% (male 15,334/female 14,739)"
+        "text": "20.17% (male 15,327/female 14,733)"
       },
       "15-24 years": {
-        "text": "14.7% (male 11,356/female 10,448)"
+        "text": "14.46% (male 11,239/female 10,314)"
       },
       "25-54 years": {
-        "text": "37.6% (male 27,125/female 28,716)"
+        "text": "37.24% (male 27,132/female 28,370)"
       },
       "55-64 years": {
-        "text": "13.2% (male 8,545/female 11,150)"
+        "text": "13.49% (male 8,706/female 11,396)"
       },
       "65 years and over": {
-        "text": "14.2% (male 8,698/female 12,340) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "14.64% (male 8,993/female 12,825) (2016 est.)"
       }
     },
     "Dependency ratios": {
@@ -143,26 +140,29 @@
     },
     "Median age": {
       "total": {
-        "text": "36.1 years"
+        "text": "36 years"
       },
       "male": {
-        "text": "33 years"
+        "text": "33.3 years"
       },
       "female": {
-        "text": "39.9 years (2015 est.)"
+        "text": "39.8 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "0.43% (2015 est.)"
+      "text": "0.42% (2016 est.)"
     },
     "Birth rate": {
-      "text": "NA 13.8 births/1,000 population (2015 est.)"
+      "text": "13.8 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "8.2 deaths/1,000 population (2015 est.)"
+      "text": "8.3 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "-1.4 migrant(s)/1,000 population (2015 est.)"
+      "text": "-1.3 migrant(s)/1,000 population (2016 est.)"
+    },
+    "Population distribution": {
+      "text": "largest concentration on the island is Willemstad; smaller settlements near the coast can be found throughout the island, particularly in the northwest"
     },
     "Urbanization": {
       "urban population": {
@@ -173,7 +173,7 @@
       }
     },
     "Major urban areas - population": {
-      "text": "WILLEMSTED (capital) 145,000 (2014)"
+      "text": "WILLEMSTAD (capital) 145,000 (2014)"
     },
     "Sex ratio": {
       "at birth": {
@@ -186,42 +186,42 @@
         "text": "1.09 male(s)/female"
       },
       "25-54 years": {
-        "text": "0.94 male(s)/female"
+        "text": "0.96 male(s)/female"
       },
       "55-64 years": {
-        "text": "0.77 male(s)/female"
+        "text": "0.76 male(s)/female"
       },
       "65 years and over": {
         "text": "0.7 male(s)/female"
       },
       "total population": {
-        "text": "0.92 male(s)/female (2015 est.)"
+        "text": "0.92 male(s)/female (2016 est.)"
       }
     },
     "Infant mortality rate": {
       "total": {
-        "text": "7.9 deaths/1,000 live births"
+        "text": "7.7 deaths/1,000 live births"
       },
       "male": {
-        "text": "8.5 deaths/1,000 live births"
+        "text": "8.3 deaths/1,000 live births"
       },
       "female": {
-        "text": "7.3 deaths/1,000 live births (2015 est.)"
+        "text": "7.1 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "78.2 years"
+        "text": "78.3 years"
       },
       "male": {
-        "text": "75.9 years"
+        "text": "76 years"
       },
       "female": {
-        "text": "80.6 years (2015 est.)"
+        "text": "80.7 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "2.07 children born/woman (2015 est.)"
+      "text": "2.06 children born/woman (2016 est.)"
     },
     "HIV/AIDS - adult prevalence rate": {
       "text": "NA"
@@ -231,6 +231,25 @@
     },
     "HIV/AIDS - deaths": {
       "text": "NA"
+    },
+    "Major infectious diseases": {
+      "note": {
+        "text": "active local transmission of Zika virus by Aedes species mosquitoes has been identified in this country (as of August 2016); it poses an important risk (a large number of cases possible) among US citizens if bitten by an infective mosquito; other less common ways to get Zika are through sex, via blood transfusion, or during pregnancy, in which the pregnant woman passes Zika virus to her fetus (2016)"
+      }
+    },
+    "Education expenditures": {
+      "text": "4.9% of GDP (2013)"
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "18 years"
+      },
+      "male": {
+        "text": "18 years"
+      },
+      "female": {
+        "text": "19 years (2013)"
+      }
     }
   },
   "Government": {
@@ -249,6 +268,9 @@
       },
       "former": {
         "text": "Netherlands Antilles; Curacao and Dependencies"
+      },
+      "etymology": {
+        "text": "the most plausible name derivation is that the island was designated Isla de la Curacion (Spanish meaning \"Island of the Cure\" or \"Island of Healing\") or Ilha da Curacao (Portuguese meaning the same) to reflect the locale's function as a recovery stop for sick crewmen"
       }
     },
     "Dependency status": {
@@ -269,7 +291,10 @@
       }
     },
     "Administrative divisions": {
-      "text": "none (part of the Kingdom of the Netherlands)"
+      "text": "none (part of the Kingdom of the Netherlands)",
+      "note": {
+        "text": "Curacao is one of four constituent parts (countries) of the Kingdom of the Netherlands; the other three parts are the Netherlands, Aruba, and Sint Maarten"
+      }
     },
     "Independence": {
       "text": "none (part of the Kingdom of the Netherlands)"
@@ -282,6 +307,9 @@
     },
     "Legal system": {
       "text": "based on Dutch civil law system with some English common law influence"
+    },
+    "Citizenship": {
+      "text": "see the Netherlands"
     },
     "Suffrage": {
       "text": "18 years of age; universal"
@@ -297,7 +325,7 @@
         "text": "Cabinet appointed by the governor"
       },
       "elections": {
-        "text": "the monarch is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party is usually elected prime minister by the parliament; next election is scheduled for 2016"
+        "text": "the monarch is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party is usually elected prime minister by the parliament"
       }
     },
     "Legislative branch": {
@@ -305,17 +333,17 @@
         "text": "unicameral Estates of Curacao or Staten van Curacao (21 seats; members directly elected by proportional representation vote to serve 4-year terms)"
       },
       "elections": {
-        "text": "last held 19 October 2012 (next to be held in 2016)"
+        "text": "last held 5 October 2016 (next to be held in October 2020)"
       },
       "election results": {
-        "text": "percent of vote by party - PS 22.6%, MFK 21.2%, PAR 19.7%, PAIS 17.7%, MAN 9.5%, PNP 5.9%, other 3.4%; seats by party - PS 5, MFK 5, PAR 4, PAIS 4, MAN 2, PNP 1"
+        "text": "percent of vote by party - MAN 16.2%, MFK 16%, PAR 15.1%, KdnT 10.4%, PNP 8.8%, PS 6.7%, Un Korsou Hustu 6.1%, Movementu Progresivo 5.2%; seats by party - MAN 4, MFK 4, PAR 4, KdnT 3, PNP 2, PS 2, Un Korsou Hustu 1, Movementu Progresivo 1"
       }
     },
     "Judicial branch": {
       "highest court(s)": {
         "text": "Common Court of Justice of Aruba, Curacao, Sint Maarten, Bonaire, Sint Eustatius and Saba (consists of judges from the subordinate courts)"
       },
-      "judge selection and terms of office": {
+      "judge selection and term of office": {
         "text": "NA"
       },
       "subordinate courts": {
@@ -323,7 +351,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Movementu Futuro Korsou or MFK [Gerrit SCHOTTE] ++ Movishon Antia Nobo or MAN [Hensley KOEIMAN] ++ Partido Antia Restruktura or PAR [Zita JESUS-LEITO] ++ Partido pa Adelanto I Inovashon Soshal or PAIS [Alex ROSARIA] ++ Partido Nashonal di Pueblo or PNP [Humphrey DAVELAAR] ++ Pueblo Soberano or PS [Ivar ASJES]"
+      "text": "Korsou di Nos Tur or KdnT [Amparo dos SANTOS] ++ Movementu Futuro Korsou or MFK [Gerrit SCHOTTE] ++ Movementu Progresivo [Marylin MOSES] ++ Movishon Antia Nobo or MAN [Hensley KOEIMAN] ++ Partido Antia Restruktura or PAR [Zita JESUS-LEITO] ++ Partido pa Adelanto I Inovashon Soshal or PAIS [Alex ROSARIA] ++ Partido Nashonal di Pueblo or PNP [Humphrey DAVELAAR] ++ Pueblo Soberano or PS [Ivar ASJES] ++ Un Korsou Hustu [Omayra LEEFLANG]"
     },
     "Diplomatic representation in the US": {
       "text": "none (represented by the Kingdom of the Netherlands)"
@@ -365,7 +393,7 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Tourism, petroleum refining and bunkering, offshore finance, and transportation and communications are the mainstays of this small island economy, which is closely tied to the outside world. Although GDP grew only slightly during the past decade, Curacao enjoys a high per capita income and a well-developed infrastructure compared with other countries in the region. Curacao has an excellent natural harbor that can accommodate large oil tankers, and the Port of Willemstad hosts a free trade zone and a dry dock. Venezuelan state oil company PdVSA, under a contract in effect until 2019, leases the single refinery on the island from the government, directly employing some 1,000 people; most of the oil for the refinery is imported from Venezuela; most of the refined products are exported to the US and Asia. Almost all consumer and capital goods are imported, with the US, the Netherlands and Venezuela being the major suppliers. The government is attempting to diversify its industry and trade and has signed an Association Agreement with the EU to expand business there. Most of Curacao’s GDP results from services. Curacao has limited natural resources, poor soil, and inadequate water supplies, and budgetary problems complicate reform of the health and education systems. In 2013, the government implemented changes to the sales tax and reformed the public pension and health care systems, including increasing the sales tax from 5% to as high as 9% on some products, raising the age for public pension withdrawals to 65, and requiring citizens to pay higher premiums."
+      "text": "Most of Curacao’s GDP results from services. Tourism, petroleum refining and bunkering, offshore finance, and transportation and communications are the mainstays of this small island economy, which is closely tied to the outside world. Curacao has limited natural resources, poor soil, and inadequate water supplies, and budgetary problems complicate reform of the health and education systems. Although GDP grew only slightly during the past decade, Curacao enjoys a high per capita income and a well-developed infrastructure compared with other countries in the region. ++  ++ Curacao has an excellent natural harbor that can accommodate large oil tankers, and the port of Willemstad hosts a free trade zone and a dry dock. Venezuelan state oil company PdVSA, under a contract in effect until 2019, leases the single refinery on the island from the government, directly employing some 1,000 people; most of the oil for the refinery is imported from Venezuela; most of the refined products are exported to the US and Asia. Almost all consumer and capital goods are imported, with the US, the Netherlands and Venezuela being the major suppliers. ++  ++ The government is attempting to diversify its industry and trade and has signed an Association Agreement with the EU to expand business there. In 2013, the government implemented changes to the sales tax and reformed the public pension and health care systems, including increasing the sales tax from 5% to as high as 9% on some products, raising the age for public pension withdrawals to 65, and requiring citizens to pay higher premiums."
     },
     "GDP (purchasing power parity)": {
       "text": "$3.128 billion (2012 est.) ++ $3.02 billion (2011 est.) ++ $2.96 billion (2010 est.)",
@@ -444,10 +472,24 @@
       "text": "crude petroleum, food, manufactures"
     },
     "Exchange rates": {
-      "text": "Netherlands Antillean guilders (ANG) per US dollar - ++ 1.79 (2014) ++ 1.79 (2013) ++ 1.79 (2012 est.) ++ 1.79 (2011 est.) ++ 1.79 (2010 est.)"
+      "text": "Netherlands Antillean guilders (ANG) per US dollar - ++ 1.79 (2014) ++ 1.79 (2013) ++ 1.79 (2012 est.) ++ 1.79 (2011 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "14,903"
+      },
+      "electrification - total population": {
+        "text": "91%"
+      },
+      "electrification - urban areas": {
+        "text": "91%"
+      },
+      "electrification - rural areas": {
+        "text": "80% (2012)"
+      }
+    },
     "Electricity - production": {
       "text": "1.785 billion kWh (2012 est.)"
     },
@@ -464,7 +506,7 @@
       "text": "0 bbl (1 January 2011 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "531.1 bbl/day (2010 est.)"
+      "text": "531 bbl/day (2010 est.)"
     },
     "Refined petroleum products - consumption": {
       "text": "72,000 bbl/day (2010 est.)"
@@ -504,10 +546,26 @@
       "text": ".cw"
     },
     "Internet users": {
-      "text": "NA"
+      "total": {
+        "text": "138,750"
+      },
+      "percent of population": {
+        "text": "93.9% (July 2014 est.)"
+      }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "2"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "11 (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "PJ (2016)"
+    },
     "Roadways": {
       "total": {
         "text": "550 km"
@@ -525,7 +583,7 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "no regular military forces; the Dutch Government controls foreign and defense policy (2012)"
     },

@@ -59,12 +59,12 @@
     "Terrain": {
       "text": "flat coastal plains in northwest, central rolling hills, rugged mountains of Ardennes Forest in southeast"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "North Sea 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "181 m"
       },
-      "highest point": {
-        "text": "Botrange 694 m"
+      "elevation extremes": {
+        "text": "lowest point: North Sea 0 m ++ highest point: Botrange 694 m"
       }
     },
     "Natural resources": {
@@ -82,24 +82,16 @@
       }
     },
     "Irrigated land": {
-      "text": "233.5 sq km (2007)"
+      "text": "230 sq km (2012)"
     },
-    "Total renewable water resources": {
-      "text": "18.3 cu km (2011)"
-    },
-    "Freshwater withdrawal (domestic/industrial/agricultural)": {
-      "total": {
-        "text": "6.22  cu km/yr (12%/88%/1%)"
-      },
-      "per capita": {
-        "text": "589.8  cu m/yr (2007)"
-      }
+    "Population - distribution": {
+      "text": "most of the population concentrated in the northern two-thirds of the country; the southeast is more thinly populated; considered to have one of the highest population densities in the world; approximately 97% live in urban areas"
     },
     "Natural hazards": {
       "text": "flooding is a threat along rivers and in areas of reclaimed coastal land, protected from the sea by concrete dikes"
     },
     "Environment - current issues": {
-      "text": "the environment is exposed to intense pressures from human activities: urbanization, dense transportation network, industry, extensive animal breeding and crop cultivation; air and water pollution also have repercussions for neighboring countries; uncertainties regarding federal and regional responsibilities (now resolved) had slowed progress in tackling environmental challenges"
+      "text": "intense pressures from human activities: urbanization, dense transportation network, industry, extensive animal breeding and crop cultivation; air and water pollution also have repercussions for neighboring countries"
     },
     "Environment - international agreements": {
       "party to": {
@@ -110,10 +102,13 @@
       }
     },
     "Geography - note": {
-      "text": "crossroads of Western Europe; most West European capitals within 1,000 km of Brussels, the seat of both the European Union and NATO"
+      "text": "crossroads of Western Europe; most West European capitals are within 1,000 km of Brussels, the seat of both the European Union and NATO"
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "11,409,077 (July 2016 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "Belgian(s)"
@@ -131,27 +126,21 @@
     "Religions": {
       "text": "Roman Catholic 75%, other (includes Protestant) 25%"
     },
-    "Population": {
-      "text": "11,323,973 (July 2015 est.)"
-    },
     "Age structure": {
       "0-14 years": {
-        "text": "17.08% (male 990,272/female 943,363)"
+        "text": "17.12% (male 1,000,155/female 952,529)"
       },
       "15-24 years": {
-        "text": "11.59% (male 669,540/female 642,486)"
+        "text": "11.47% (male 667,760/female 640,364)"
       },
       "25-54 years": {
-        "text": "40.45% (male 2,308,285/female 2,272,085)"
+        "text": "40.25% (male 2,315,256/female 2,277,308)"
       },
       "55-64 years": {
-        "text": "12.65% (male 709,347/female 723,696)"
+        "text": "12.76% (male 720,823/female 735,225)"
       },
       "65 years and over": {
-        "text": "18.23% (male 893,096/female 1,171,803) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "18.4% (male 911,199/female 1,188,458) (2016 est.)"
       }
     },
     "Dependency ratios": {
@@ -176,20 +165,23 @@
         "text": "40.2 years"
       },
       "female": {
-        "text": "42.6 years (2015 est.)"
+        "text": "42.7 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "0.76% (2015 est.)"
+      "text": "0.73% (2016 est.)"
     },
     "Birth rate": {
-      "text": "11.41 births/1,000 population (2015 est.)"
+      "text": "11.4 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "9.63 deaths/1,000 population (2015 est.)"
+      "text": "9.7 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "5.87 migrant(s)/1,000 population (2015 est.)"
+      "text": "5.6 migrant(s)/1,000 population (2016 est.)"
+    },
+    "Population distribution": {
+      "text": "most of the population concentrated in the northern two-thirds of the country; the southeast is more thinly populated; considered to have one of the highest population densities in the world; approximately 97% live in urban areas"
     },
     "Urbanization": {
       "urban population": {
@@ -222,36 +214,39 @@
         "text": "0.76 male(s)/female"
       },
       "total population": {
-        "text": "0.97 male(s)/female (2015 est.)"
+        "text": "0.97 male(s)/female (2016 est.)"
       }
+    },
+    "Mother's mean age at first birth": {
+      "text": "28.2 (2010 est.)"
     },
     "Maternal mortality rate": {
       "text": "7 deaths/100,000 live births (2015 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "3.41 deaths/1,000 live births"
+        "text": "3.4 deaths/1,000 live births"
       },
       "male": {
-        "text": "3.81 deaths/1,000 live births"
+        "text": "3.8 deaths/1,000 live births"
       },
       "female": {
-        "text": "3 deaths/1,000 live births (2015 est.)"
+        "text": "3 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "80.88 years"
+        "text": "81 years"
       },
       "male": {
-        "text": "78.3 years"
+        "text": "78.4 years"
       },
       "female": {
-        "text": "83.58 years (2015 est.)"
+        "text": "83.7 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "1.78 children born/woman (2015 est.)"
+      "text": "1.78 children born/woman (2016 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "70.4%",
@@ -260,7 +255,7 @@
       }
     },
     "Health expenditures": {
-      "text": "11.2% of GDP (2013)"
+      "text": "10.6% of GDP (2014)"
     },
     "Physicians density": {
       "text": "3.78 physicians/1,000 population (2010)"
@@ -297,28 +292,28 @@
       "text": "22.1% (2014)"
     },
     "Education expenditures": {
-      "text": "6.5% of GDP (2011)"
+      "text": "6.4% of GDP (2011)"
     },
     "School life expectancy (primary to tertiary education)": {
       "total": {
-        "text": "16 years"
+        "text": "20 years"
       },
       "male": {
-        "text": "16 years"
+        "text": "19 years"
       },
       "female": {
-        "text": "17 years (2012)"
+        "text": "21 years (2014)"
       }
     },
     "Unemployment, youth ages 15-24": {
       "total": {
-        "text": "19.8%"
+        "text": "23.2%"
       },
       "male": {
-        "text": "20.4%"
+        "text": "24%"
       },
       "female": {
-        "text": "19.8% (2012 est.)"
+        "text": "22.3% (2014 est.)"
       }
     }
   },
@@ -335,6 +330,9 @@
       },
       "local short form": {
         "text": "Belgique/Belgie/Belgien"
+      },
+      "etymology": {
+        "text": "the name derives from the Belgae, an ancient Celtic tribal confederation that inhabited an area between the English Channel and the west bank of the Rhine in the first centuries B.C."
       }
     },
     "Government type": {
@@ -364,10 +362,10 @@
       "text": "4 October 1830 (a provisional government declared independence from the Netherlands); 21 July 1831 (King LEOPOLD I ascended to the throne)"
     },
     "National holiday": {
-      "text": "21 July (1831) ascension to the Throne of King LEOPOLD I"
+      "text": "21 July (1831) Ascension Day (ascension to the throne of King LEOPOLD I)"
     },
     "Constitution": {
-      "text": "drafted 25 November 1830, approved 7 February 1831, entered into force 26 July 1831, revised 14 July 1993 (creating a federal state); amended many times, last in 2014 (2015)"
+      "text": "drafted 25 November 1830, approved 7 February 1831, entered into force 26 July 1831, revised 14 July 1993 (creating a federal state); amended many times, last in 2014 (2016)"
     },
     "Legal system": {
       "text": "civil law system based on the French Civil Code; note - Belgian law continues to be modified in conformance with the legislative norms mandated by the European Union; judicial review of legislative acts"
@@ -376,8 +374,11 @@
       "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
     },
     "Citizenship": {
-      "birthright citizenship": {
-        "text": "no, unless at least one parent is a citizen of Belguim"
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Belgium"
       },
       "dual citizenship recognized": {
         "text": "yes"
@@ -405,7 +406,7 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral Parliament consists of a Senate or Senaat in Dutch, Senat in French (71 seats; 40 members directly elected in multi-seat constituencies by proportional representation vote and 31 indirectly elected by Community Parliaments; members serve 4-year terms) and the Chamber of Representatives or Kamer van Volksvertegenwoordigers in Dutch, Chambre des Representants in French (150 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms)"
+        "text": "bicameral Parliament consists of the Senate or Senaat in Dutch, Senat in French (71 seats; 40 members directly elected in multi-seat constituencies by proportional representation vote and 31 indirectly elected by Community Parliaments; members serve 4-year terms) and the Chamber of Representatives or Kamer van Volksvertegenwoordigers in Dutch, Chambre des Representants in French (150 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms)"
       },
       "note": {
         "text": "the 1993 constitutional revision that further devolved Belgium into a federal state created three levels of government (federal, regional, and linguistic community) with a complex division of responsibilities; this reality leaves six governments, each with its own legislative assembly; changes above occurred since the sixth state reform"
@@ -414,15 +415,15 @@
         "text": "Chamber of Deputies - last held on 23 May 2014 (next to be held in May 2019); note - elections will coincide with the EU's elections"
       },
       "election results": {
-        "text": "Chamber of Deputies - percent of vote by party - N-VA 20.3%, PS 11.7%, CD&V 11.6%, Open VLD 9.8%, MR 9.6%, SP.A 8.8%, Groen! 5.3%, CDH 5.0% Workers' Party 3.7%, VB 3.7%, Ecolo 3.3%, FDF 1.8%, PP 1.5%, other 7.2%; seats by party - N-VA 33, PS 23, CD&V 18, Open VLD 14, MR 20, SP.A 13, Groen! 6, CDH 9, Workers' Party 2, VB 3, Ecolo 6, FDF 2, PP 1"
+        "text": "Chamber of Deputies - percent of vote by party - N-VA 20.3%, PS 11.7%, CD&V 11.6%, Open VLD 9.8%, MR 9.6%, SP.A 8.8%, Groen! 5.3%, CDH 5.0% Workers' Party 3.7%, VB 3.7%, Ecolo 3.3%, Defi 1.8%, PP 1.5%, other 3.9%; seats by party - N-VA 33, PS 23, CD&V 18, Open VLD 14, MR 20, SP.A 13, Groen! 6, CDH 9, Workers' Party 2, VB 3, Ecolo 6, Defi 2, PP 1"
       }
     },
     "Judicial branch": {
       "highest court(s)": {
-        "text": "Constitutional Court or Grondwettelijk Hof in Dutch and Cour constitutionelle in French (consists of 12 judges - 6 Dutch-speaking and 6 French-speaking); Supreme Court of Justice or Hof van Cassatie in Dutch and Cour de Cassation in French (court organized into 3 chambers: civil and commercial; criminal; social, fiscal, and armed forces; each chamber includes a Dutch division and a French division, each with a chairperson and 5-6 judges)"
+        "text": "highest court(s): Constitutional Court or Grondwettelijk Hof in Dutch and Cour constitutionelle in French (consists of 12 judges - 6 Dutch-speaking and 6 French-speaking); Supreme Court of Justice or Hof van Cassatie in Dutch and Cour de Cassation in French (court organized into 3 chambers: civil and commercial; criminal; social, fiscal, and armed forces; each chamber includes a Dutch division and a French division, each with a chairperson and 5-6 judges)"
       },
       "judge selection and term of office": {
-        "text": "Constitutional Court judges appointed by the monarch from candidates submitted by Parliament; judges appointed for life with mandatory retirement at age 70; Supreme Court judges appointed by the monarch from candidates submitted by the  High Council of Justice, a 44-member independent body of judicial and non-judicial members; judges appointed for life"
+        "text": "Constitutional Court judges appointed by the monarch from candidates submitted by Parliament; judges appointed for life with mandatory retirement at age 70; Supreme Court judges appointed by the monarch from candidates submitted by the High Council of Justice, a 44-member independent body of judicial and non-judicial members; judges appointed for life"
       },
       "subordinate courts": {
         "text": "Courts of Appeal; regional courts; specialized courts for administrative, commercial, labor, and audit issues; magistrate's courts; justices of the peace"
@@ -430,10 +431,10 @@
     },
     "Political parties and leaders": {
       "Flemish parties": {
-        "text": " ++ Christian Democratic and Flemish or CD&V [Wouter BEKE] ++ Flemish Liberals and Democrats or Open VLD [Gwendolyn RUTTEN] ++ Groen! [Meyrem ALMACI] (formerly AGALEV, Flemish Greens) ++ Libertarian, Direct, Democratic or LDD (formerly Dedecker's List) [Jean-Marie DEDECKER] ++ New Flemish Alliance or N-VA [Bart DE WEVER] ++ Social Progressive Alternative or SP.A [John CROMBEZ] ++ Vlaams Belang (Flemish Interest) or VB [Tom VAN GRIEKEN]"
+        "text": " ++ Christian Democratic and Flemish or CD&V [Wouter BEKE] ++ Flemish Liberals and Democrats or Open VLD [Gwendolyn RUTTEN] ++ Groen! [Meyrem ALMACI] (formerly AGALEV, Flemish Greens) ++ New Flemish Alliance or N-VA [Bart DE WEVER] ++ Social Progressive Alternative or SP.A [John CROMBEZ] ++ Vlaams Belang (Flemish Interest) or VB [Tom VAN GRIEKEN]"
       },
       "Francophone parties": {
-        "text": " ++ Ecolo (Francophone Greens) [Patrick DUPRIEZ and Zakia KHATTABI] ++ Francophone Federalist Democrats or FDF [Olivier MAINGAIN] ++ Humanist and Democratic Center or CDH [Benoit LUTGEN] ++ People's Party or PP [Mischael MODRIKAMEN] ++ Reform Movement or MR [Olivier CHASTEL] ++ Socialist Party or PS [Paul MAGNETTE] ++ Workers' Party [Peter Mertens] ++ other minor parties"
+        "text": " ++ Ecolo (Francophone Greens) [Patrick DUPRIEZ and Zakia KHATTABI] ++ Francophone Federalist Democrats or Defi [Olivier MAINGAIN] ++ Humanist and Democratic Center or CDH [Benoit LUTGEN] ++ People's Party or PP [Mischael MODRIKAMEN] ++ Reform Movement or MR [Olivier CHASTEL] ++ Socialist Party or PS [Elio DI RUPO] ++ Workers' Party [Peter MERTENS] ++ other minor parties"
       }
     },
     "Political pressure groups and leaders": {
@@ -447,7 +448,7 @@
     },
     "Diplomatic representation in the US": {
       "chief of mission": {
-        "text": "Ambassador Johan VERBEKE (since 10 March 2014)"
+        "text": "Ambassador Dirk Jozef M. WOUTERS (since 16 September 2016)"
       },
       "chancery": {
         "text": "3330 Garfield Street NW, Washington, DC 20008"
@@ -499,58 +500,58 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "This modern, open, and private-enterprise-based economy has capitalized on its central geographic location, highly developed transport network, and diversified industrial and commercial base. Industry is concentrated mainly in the more heavily-populated region of Flanders in the north. With few natural resources, Belgium imports substantial quantities of raw materials and exports a large volume of manufactures, making its economy vulnerable to shifts in foreign demand, particularly in Belgium’s EU trade partners. Roughly three-quarters of Belgium's trade is with other EU countries. In 2014 Belgian GDP grew by 0.9%, the unemployment rate stabilized at 8.5%, and the budget deficit was 3.2% of GDP. Prime Minister Charles MICHEL's center-right government has pledged to further reduce the deficit in response to EU pressure to reduce Belgium's high public debt, which remains above 100% of GDP, but such efforts could also dampen economic growth. In addition to restrained public spending, low wage growth and high unemployment promise to curtail a more robust recovery in private consumption. The government has pledged to pursue a reform program to improve Belgium’s competitiveness, including changes to tax policy, labor market rules, and welfare benefits. These changes risk worsening tensions with trade unions and triggering extended strikes."
+      "text": "This modern, open, and private-enterprise-based economy has capitalized on its central geographic location, highly developed transport network, and diversified industrial and commercial base. Industry is concentrated mainly in the more heavily-populated region of Flanders in the north. With few natural resources, Belgium imports substantial quantities of raw materials and exports a large volume of manufactures, making its economy vulnerable to shifts in foreign demand, particularly with Belgium’s EU trade partners. Roughly three-quarters of Belgium's trade is with other EU countries. ++  ++ In 2015, Belgian GDP grew by 1.4%, the unemployment rate stabilized at 8.6%, and the budget deficit was 2.7% of GDP. Prime Minister Charles MICHEL's center-right government has pledged to further reduce the deficit in response to EU pressure to reduce Belgium's high public debt, which remains above 100% of GDP, but such efforts could also dampen economic growth. In addition to restrained public spending, low wage growth and high unemployment promise to curtail a more robust recovery in private consumption. ++  ++ The government has pledged to pursue a reform program to improve Belgium’s competitiveness, including changes to tax policy, labor market rules, and welfare benefits. These changes risk worsening tensions with trade unions and triggering extended strikes."
     },
     "GDP (purchasing power parity)": {
-      "text": "$483.3 billion (2014 est.) ++ $478.2 billion (2013 est.) ++ $476.8 billion (2012 est.)",
+      "text": "$494.9 billion (2015 est.) ++ $488.1 billion (2014 est.) ++ $481.9 billion (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$534.2 billion (2014 est.)"
+      "text": "$454.3 billion (2015 est.)"
     },
     "GDP - real growth rate": {
-      "text": "1.1% (2014 est.) ++ 0.3% (2013 est.) ++ 0.1% (2012 est.)"
+      "text": "1.4% (2015 est.) ++ 1.3% (2014 est.) ++ 0% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$43,100 (2014 est.) ++ $42,700 (2013 est.) ++ $42,600 (2012 est.)",
+      "text": "$44,100 (2015 est.) ++ $43,600 (2014 est.) ++ $43,200 (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "Gross national saving": {
-      "text": "23.6% of GDP (2014 est.) ++ 22.4% of GDP (2013 est.) ++ 22.8% of GDP (2012 est.)"
+      "text": "22.6% of GDP (2015 est.) ++ 22.8% of GDP (2014 est.) ++ 21.9% of GDP (2013 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "51.6%"
+        "text": "51.5%"
       },
       "government consumption": {
-        "text": "24.6%"
+        "text": "24.2%"
       },
       "investment in fixed capital": {
-        "text": "23.1%"
+        "text": "23.3%"
       },
       "investment in inventories": {
-        "text": "-1.2%"
+        "text": "-0.7%"
       },
       "exports of goods and services": {
-        "text": "83.6%"
+        "text": "84.4%"
       },
       "imports of goods and services": {
-        "text": "-81.7% ++  (2014 est.)"
+        "text": "-82.7% (2015 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "0.7%"
+        "text": "0.6%"
       },
       "industry": {
-        "text": "22.5%"
+        "text": "21.9%"
       },
       "services": {
-        "text": "76.8% (2014 est.)"
+        "text": "77.4% (2015 est.)"
       }
     },
     "Agriculture - products": {
@@ -560,10 +561,10 @@
       "text": "engineering and metal products, motor vehicle assembly, transportation equipment, scientific instruments, processed food and beverages, chemicals, base metals, textiles, glass, petroleum"
     },
     "Industrial production growth rate": {
-      "text": "2.2% (2014 est.)"
+      "text": "0.9% (2015 est.)"
     },
     "Labor force": {
-      "text": "5.237 million (2014 est.)"
+      "text": "5.247 million (2015 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -577,7 +578,7 @@
       }
     },
     "Unemployment rate": {
-      "text": "8.5% (2014 est.) ++ 8.4% (2013 est.)"
+      "text": "8.5% (2015 est.) ++ 8.6% (2014 est.)"
     },
     "Population below poverty line": {
       "text": "15.1% (2013 est.)"
@@ -595,41 +596,41 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$276.8 billion"
+        "text": "$233.4 billion"
       },
       "expenditures": {
-        "text": "$293.4 billion (2014 est.)"
+        "text": "$245.2 billion (2015 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "51.8% of GDP (2014 est.)"
+      "text": "51.3% of GDP (2015 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-3.1% of GDP (2014 est.)"
+      "text": "-2.6% of GDP (2015 est.)"
     },
     "Public debt": {
-      "text": "106.3% of GDP (2014 est.) ++ 104.4% of GDP (2013 est.)",
+      "text": "106.1% of GDP (2015 est.) ++ 106.6% of GDP (2014 est.)",
       "note": {
-        "text": "data cover general government debt, and includes debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intra-governmental debt; intra-governmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions; general government debt is defined by the Maastricht definition and calculated by the National Bank of Belgium as consolidated gross debt; the debt is defined in European Regulation EC479/2009 concerning the implementation of the protocol on the excessive deficit procedure annexed to the Treaty on European Union (Treaty of Maastricht) of 7 February 1992; the sub-sectors of consolidated gross debt are: federal government, communities and regions, local government, and social security funds"
+        "text": "data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intra-governmental debt; intra-governmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions; general government debt is defined by the Maastricht definition and calculated by the National Bank of Belgium as consolidated gross debt; the debt is defined in European Regulation EC479/2009 concerning the implementation of the protocol on the excessive deficit procedure annexed to the Treaty on European Union (Treaty of Maastricht) of 7 February 1992; the sub-sectors of consolidated gross debt are: federal government, communities and regions, local government, and social security funds"
       }
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Inflation rate (consumer prices)": {
-      "text": "0.5% (2014 est.) ++ 1.2% (2013 est.)"
+      "text": "0.6% (2015 est.) ++ 0.5% (2014 est.)"
     },
     "Central bank discount rate": {
-      "text": "0.75% (31 December 2013) ++ 1.5% (31 December 2010)",
+      "text": "0.05% (31 December 2013) ++ 0.3% (31 December 2010)",
       "note": {
         "text": "this is the European Central Bank's rate on the marginal lending facility, which offers overnight credit to banks in the euro area"
       }
     },
     "Commercial bank prime lending rate": {
-      "text": "3.23% (31 December 2014 est.) ++ 3.49% (31 December 2013 est.)"
+      "text": "2.46% (31 December 2015 est.) ++ 3.23% (31 December 2014 est.)"
     },
     "Stock of narrow money": {
-      "text": "$182.5 billion (31 December 2014 est.) ++ $181.8 billion (31 December 2013 est.)",
+      "text": "$181.5 billion (31 December 2015 est.) ++ $182.5 billion (31 December 2014 est.)",
       "note": {
         "text": "see entry for the European Union for money supply for the entire euro area; the European Central Bank (ECB) controls monetary policy for the 18 members of the Economic and Monetary Union (EMU); individual members of the EMU do not control the quantity of money circulating within their own borders"
       }
@@ -638,49 +639,54 @@
       "text": "$606.9 billion (31 December 2014 est.) ++ $630.9 billion (31 December 2013 est.)"
     },
     "Stock of domestic credit": {
-      "text": "$564.1 billion (31 December 2014 est.) ++ $606.3 billion (31 December 2013 est.)"
+      "text": "$660.8 billion (31 December 2015 est.) ++ $750.6 billion (31 December 2014 est.)"
     },
     "Market value of publicly traded shares": {
-      "text": "$300.1 billion (31 December 2012 est.) ++ $229.9 billion (31 December 2011) ++ $269.3 billion (31 December 2010 est.)"
+      "text": "$414.6 billion (31 December 2015 est.) ++ $378.5 billion (31 December 2014 est.) ++ $374.3 billion (31 December 2013 est.)"
     },
     "Current account balance": {
-      "text": "$8.628 billion (2014 est.) ++ -$1.203 billion (2013 est.)"
+      "text": "-$155 million (2015 est.) ++ -$1.147 billion (2014 est.)"
     },
     "Exports": {
-      "text": "$326 billion (2014 est.) ++ $322 billion (2013 est.)"
+      "text": "$259.9 billion (2015 est.) ++ $320.2 billion (2014 est.)"
     },
     "Exports - commodities": {
       "text": "chemicals, machinery and equipment, finished diamonds, metals and metal products, foodstuffs"
     },
     "Exports - partners": {
-      "text": "Germany 17.3%, France 16.2%, Netherlands 12.2%, UK 8.6%, US 4.9%, Italy 4.5% (2014)"
+      "text": "Germany 16.9%, France 15.5%, Netherlands 11.4%, UK 8.8%, US 6%, Italy 5% (2015)"
     },
     "Imports": {
-      "text": "$330.8 billion (2014 est.) ++ $331.7 billion (2013 est.)"
+      "text": "$259.6 billion (2015 est.) ++ $325.2 billion (2014 est.)"
     },
     "Imports - commodities": {
       "text": "raw materials, machinery and equipment, chemicals, raw diamonds, pharmaceuticals, foodstuffs, transportation equipment, oil products"
     },
     "Imports - partners": {
-      "text": "Netherlands 20.2%, Germany 13.3%, France 10.3%, US 7.1%, UK 5% (2014)"
+      "text": "Netherlands 16.7%, Germany 12.7%, France 9.6%, US 8.7%, UK 5.1%, Ireland 4.7%, China 4.3% (2015)"
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$25.4 billion (31 December 2014 est.) ++ $26.92 billion (31 December 2013 est.)"
+      "text": "$24.1 billion (31 December 2015 est.) ++ $25.4 billion (31 December 2014 est.)"
     },
     "Debt - external": {
-      "text": "$25.4 billion (31 December 2014 est.) ++ $26.92 billion (31 December 2013 est.)"
+      "text": "$1.312 trillion (31 December 2014 est.) ++ $1.285 trillion (31 December 2013 est.)"
     },
     "Stock of direct foreign investment - at home": {
-      "text": "$1.206 trillion (31 December 2014 est.) ++ $1.193 trillion (31 December 2013 est.)"
+      "text": "$1.034 trillion (31 December 2015 est.) ++ $1.055 trillion (31 December 2014 est.)"
     },
     "Stock of direct foreign investment - abroad": {
-      "text": "$1.144 trillion (31 December 2014 est.) ++ $1.118 trillion (31 December 2013 est.)"
+      "text": "$1.01 trillion (31 December 2015 est.) ++ $1.024 trillion (31 December 2014 est.)"
     },
     "Exchange rates": {
-      "text": "euros (EUR) per US dollar - ++ 0.7489 (2014 est.) ++ 0.7634 (2013 est.) ++ 0.78 (2012 est.) ++ 0.7185 (2011 est.) ++ 0.755 (2010 est.)"
+      "text": "euros (EUR) per US dollar - ++ 0.885 (2015 est.) ++ 0.7525 (2014 est.) ++ 0.7634 (2013 est.) ++ 0.78 (2012 est.) ++ 0.7185 (2011 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
+    },
     "Electricity - production": {
       "text": "76.09 billion kWh (2012 est.)"
     },
@@ -754,18 +760,18 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "4.7 million"
+        "text": "4,488,711"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "42 (2014 est.)"
+        "text": "40 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "12.7 million"
+        "text": "12.938 million"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "113 (2014 est.)"
+        "text": "114 (July 2015 est.)"
       }
     },
     "Telephone system": {
@@ -776,31 +782,42 @@
         "text": "nationwide mobile-cellular telephone system; extensive cable network; limited microwave radio relay network"
       },
       "international": {
-        "text": "country code - 32; landing point for a number of submarine cables that provide links to Europe, the Middle East, and Asia; satellite earth stations - 7 (Intelsat - 3) (2007)"
+        "text": "country code - 32; landing point for a number of submarine cables that provide links to Europe, the Middle East, and Asia; satellite earth stations - 7 (Intelsat - 3) (2015)"
       }
     },
     "Broadcast media": {
-      "text": "a segmented market with the three major communities (Flemish, French, and German-speaking) each having responsibility for their own broadcast media; multiple TV channels exist for each community; additionally, in excess of 90% of households are connected to cable and can access broadcasts of TV stations from neighboring countries; each community has a public radio network co-existing with private broadcasters (2007)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM 7, FM 79, shortwave 1 (1998)"
-    },
-    "Television broadcast stations": {
-      "text": "25 (plus 10 repeaters) (1997)"
+      "text": "a segmented market with the three major communities (Flemish, French, and German-speaking) each having responsibility for their own broadcast media; multiple TV channels exist for each community; additionally, in excess of 90% of households are connected to cable and can access broadcasts of TV stations from neighboring countries; each community has a public radio network coexisting with private broadcasters (2007)"
     },
     "Internet country code": {
       "text": ".be"
     },
     "Internet users": {
       "total": {
-        "text": "9.5 million"
+        "text": "9.631 million"
       },
       "percent of population": {
-        "text": "84.7% (2014 est.)"
+        "text": "85% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "7"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "117"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "11,193,023"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "1,464,316,900 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "OO (2016)"
+    },
     "Airports": {
       "text": "41 (2013)"
     },
@@ -829,7 +846,7 @@
         "text": "15"
       },
       "under 914 m": {
-        "text": " ++ 15 (2013)"
+        "text": "15 (2013)"
       }
     },
     "Heliports": {
@@ -889,39 +906,15 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "Belgian Armed Forces: Land Operations Command, Naval Operations Command, Air Operations Command (2012)"
     },
     "Military service age and obligation": {
       "text": "18 years of age for male and female voluntary military service; conscription abolished in 1994 (2012)"
     },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "2,359,232"
-      },
-      "females age 16-49": {
-        "text": "2,291,689 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "1,934,957"
-      },
-      "females age 16-49": {
-        "text": "1,877,268 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "59,665"
-      },
-      "female": {
-        "text": "57,142 (2010 est.)"
-      }
-    },
     "Military expenditures": {
-      "text": "1% of GDP (2013) ++ 1.05% of GDP (2012) ++ 1.08% of GDP (2011) ++ 1.05% of GDP (2010)"
+      "text": "0.97% of GDP (2014) ++ 1.01% of GDP (2013) ++ 1.05% of GDP (2012) ++ 1.05% of GDP (2011) ++ 1.08% of GDP (2010)"
     }
   },
   "Transnational Issues": {
@@ -929,11 +922,8 @@
       "text": "none"
     },
     "Refugees and internally displaced persons": {
-      "refugees (country of origin)": {
-        "text": "5,038 (Afghanistan) (2014)"
-      },
       "stateless persons": {
-        "text": "2,554 (2014)"
+        "text": "5,776 (2015)"
       }
     },
     "Illicit drugs": {

@@ -51,12 +51,12 @@
     "Terrain": {
       "text": "rugged, rocky, some low peaks; cliffs along most of coast"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Atlantic Ocean 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "NA"
       },
-      "highest point": {
-        "text": "Slaettaratindur 882 m"
+      "elevation extremes": {
+        "text": "lowest point: Atlantic Ocean 0 m ++ highest point: Slaettaratindur 882 m"
       }
     },
     "Natural resources": {
@@ -73,8 +73,8 @@
         "text": "97.8% (2011 est.)"
       }
     },
-    "Irrigated land": {
-      "text": "0 sq km (2011)"
+    "Population - distribution": {
+      "text": "the island of Streymoy is by far the most populous with over 40% of the population; it has approximately twice as many inhabitants as Eysturoy, the second most populous island; seven of the inhabited islands have less than 100 people"
     },
     "Natural hazards": {
       "text": "NA"
@@ -92,6 +92,9 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "50,456 (July 2016 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "Faroese (singular and plural)"
@@ -101,35 +104,32 @@
       }
     },
     "Ethnic groups": {
-      "text": "Scandinavian"
+      "text": "Faroese 89.2% (Scandinavian and Anglo-Saxon descent), Danish 7.1%, other 3.7% (includes Icelander, Norwegian, Greenlander, Filipino, Thai, British)",
+      "note": {
+        "text": "data represent respondents by country of birth (2011 est.)"
+      }
     },
     "Languages": {
-      "text": "Faroese (derived from Old Norse), Danish"
+      "text": "Faroese 93.8% (derived from Old Norse), Danish 3.2%, other 3% (2011 est.)"
     },
     "Religions": {
-      "text": "Evangelical Lutheran 83.8%, other and unspecified 16.2% (2006 census)"
-    },
-    "Population": {
-      "text": "50,196 (July 2015 est.)"
+      "text": "Christian 89.3% (predominantly Evangelical Lutheran), other 0.7%, more than one religion 0.2%, none 3.8%, unspecified 6% (2011 est.)"
     },
     "Age structure": {
       "0-14 years": {
-        "text": "20.1% (male 5,224/female 4,866)"
+        "text": "19.98% (male 5,212/female 4,870)"
       },
       "15-24 years": {
-        "text": "14.96% (male 3,848/female 3,662)"
+        "text": "14.62% (male 3,784/female 3,592)"
       },
       "25-54 years": {
-        "text": "37.04% (male 10,090/female 8,502)"
+        "text": "37.25% (male 10,191/female 8,605)"
       },
       "55-64 years": {
-        "text": "11.73% (male 3,033/female 2,854)"
+        "text": "11.66% (male 3,032/female 2,851)"
       },
       "65 years and over": {
-        "text": "16.17% (male 3,926/female 4,191) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "16.49% (male 4,023/female 4,296) (2016 est.)"
       }
     },
     "Median age": {
@@ -140,20 +140,23 @@
         "text": "37.1 years"
       },
       "female": {
-        "text": "38.4 years (2015 est.)"
+        "text": "38.4 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "0.51% (2015 est.)"
+      "text": "0.53% (2016 est.)"
     },
     "Birth rate": {
-      "text": "13.77 births/1,000 population (2015 est.)"
+      "text": "14 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "8.71 deaths/1,000 population (2015 est.)"
+      "text": "8.7 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "0 migrant(s)/1,000 population (2015 est.)"
+      "text": "0 migrant(s)/1,000 population (2016 est.)"
+    },
+    "Population distribution": {
+      "text": "the island of Streymoy is by far the most populous with over 40% of the population; it has approximately twice as many inhabitants as Eysturoy, the second most populous island; seven of the inhabited islands have less than 100 people"
     },
     "Urbanization": {
       "urban population": {
@@ -177,7 +180,7 @@
         "text": "1.05 male(s)/female"
       },
       "25-54 years": {
-        "text": "1.19 male(s)/female"
+        "text": "1.18 male(s)/female"
       },
       "55-64 years": {
         "text": "1.06 male(s)/female"
@@ -186,33 +189,33 @@
         "text": "0.94 male(s)/female"
       },
       "total population": {
-        "text": "1.09 male(s)/female (2015 est.)"
+        "text": "1.08 male(s)/female (2016 est.)"
       }
     },
     "Infant mortality rate": {
       "total": {
-        "text": "5.6 deaths/1,000 live births"
+        "text": "5.5 deaths/1,000 live births"
       },
       "male": {
-        "text": "5.86 deaths/1,000 live births"
+        "text": "5.8 deaths/1,000 live births"
       },
       "female": {
-        "text": "5.32 deaths/1,000 live births (2015 est.)"
+        "text": "5.2 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "80.24 years"
+        "text": "80.4 years"
       },
       "male": {
-        "text": "77.73 years"
+        "text": "77.8 years"
       },
       "female": {
-        "text": "82.93 years (2015 est.)"
+        "text": "83.1 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "2.37 children born/woman (2015 est.)"
+      "text": "2.36 children born/woman (2016 est.)"
     },
     "Hospital bed density": {
       "text": "4.7 beds/1,000 population (2012)"
@@ -225,17 +228,6 @@
     },
     "HIV/AIDS - deaths": {
       "text": "NA"
-    },
-    "Unemployment, youth ages 15-24": {
-      "total": {
-        "text": "9.4%"
-      },
-      "male": {
-        "text": "6.9%"
-      },
-      "female": {
-        "text": "12.5% (2005 est.)"
-      }
     }
   },
   "Government": {
@@ -251,13 +243,16 @@
       },
       "local short form": {
         "text": "Foroyar"
+      },
+      "etymology": {
+        "text": "the archipelgo's name may derive from the Old Norse word \"faer,\" meaning sheep"
       }
     },
     "Dependency status": {
       "text": "part of the Kingdom of Denmark; self-governing overseas administrative division of Denmark since 1948"
     },
     "Government type": {
-      "text": "NA"
+      "text": "parliamentary democracy (Faroese Parliament); part of the Kingdom of Denmark"
     },
     "Capital": {
       "name": {
@@ -274,7 +269,7 @@
       }
     },
     "Administrative divisions": {
-      "text": "none (part of the Kingdom of Denmark; self-governing overseas administrative division of Denmark); there are no first-order administrative divisions as defined by the US Government, but there are 34 municipalities"
+      "text": "none (part of the Kingdom of Denmark; self-governing overseas administrative division of Denmark); there are no first-order administrative divisions as defined by the US Government, but there are 30 municipalities"
     },
     "Independence": {
       "text": "none (part of the Kingdom of Denmark; self-governing overseas administrative division of Denmark)"
@@ -283,17 +278,20 @@
       "text": "Olaifest (Olavsoka), 29 July"
     },
     "Constitution": {
-      "text": "5 June 1953 (Danish Constitution), 23 March 1948 (Home Rule Act), and 24 June 2005 (Takeover Act) serve as the Faroe Islands constitutional position in the Unity of the Realm (2015)"
+      "text": "5 June 1953 (Danish Constitution), 23 March 1948 (Home Rule Act), and 24 June 2005 (Takeover Act) serve as the Faroe Islands constitutional position in the Unity of the Realm (2016)"
     },
     "Legal system": {
       "text": "the laws of Denmark, where applicable, apply"
+    },
+    "Citizenship": {
+      "text": "see Denmark"
     },
     "Suffrage": {
       "text": "18 years of age; universal"
     },
     "Executive branch": {
       "chief of state": {
-        "text": "Queen MARGRETHE II of Denmark (since 14 January 1972), represented by High Commissioner Dan Michael KNUDSEN, chief administrative officer (since 2008)"
+        "text": "Queen MARGRETHE II of Denmark (since 14 January 1972), represented by High Commissioner Dan Michael KNUDSEN, chief administrative officer (since 1 January 2008)"
       },
       "head of government": {
         "text": "Prime Minister Aksel V. JOHANNESEN (since 15 September 2015)"
@@ -302,7 +300,7 @@
         "text": "Landsstyri appointed by the prime minister"
       },
       "elections/appointments": {
-        "text": "the monarchy is hereditary; high commissioner appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually elected prime minister by the Faroese Parliament; election last held on 14 November 2011 (next to be held no later than November 2015)"
+        "text": "the monarchy is hereditary; high commissioner appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually elected prime minister by the Faroese Parliament; election last held on 1 September 2015"
       },
       "election results": {
         "text": "Aksel V. JOHANNESEN elected prime minister; Parliament vote - NA"
@@ -313,20 +311,25 @@
         "text": "unicameral Faroese Parliament or Logting (33 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)"
       },
       "note": {
-        "text": "election of 2 seats to the Danish Parliament was last held on 1 September 2015 (next to be held no later than September 2019); percent of vote by party - NA; seats by party - Social Democratic Party 1, Republic 1"
+        "text": "election of 2 seats to the Danish Parliament was last held on 18 June 2015 (next to be held no later than June 2019); percent of vote by party - NA; seats by party - Social Democratic Party 1, Republic 1"
       },
       "elections": {
         "text": "last held on 1 September 2015 (next to be held no later than October 2019)"
       },
       "election results": {
-        "text": "percent of vote by party - Social Democratic Party 25.1%, Republic 20.7%, People's Party, 18.9%, Union Party 18.7%, Progressive Party 7.0%, Center Party 5.5%, Self-Government Party 4.1%; seats by party - Social Democratic Party 8, Republic 7, People's Party 6, Union Party 6, Progressive Party 2, Center Party 2, Self-Government Party 2"
+        "text": "percent of vote by party - Social Democratic Party 25.1%, Republic 20.7%, People's Party, 18.9%, Union Party 18.7%, Progressive Party 7.0%, Center Party 5.5%, Self-Government Party 4.1%; seats by party - Social Democratic Party 8, Republic 7, People's Party 6, Union Party 6, Center Party 2, Progressive Party 2, Self-Government Party 2"
       }
     },
     "Judicial branch": {
-      "text": "the Faroese Court or Raett (Rett - Danish) decides both civil and criminal cases; the Court is part of the Danish legal system"
+      "highest court(s)": {
+        "text": "Faroese Court or Raett (Rett - Danish) decides both civil and criminal cases; the Court is part of the Danish legal system"
+      },
+      "subordinate courts": {
+        "text": "Court of the First Instance or Tribunal de Premiere Instance; Court of Administrative Law or Tribunal Administratif; Mixed Commercial Court; Land Court - expected to begin in 2016"
+      }
     },
     "Political parties and leaders": {
-      "text": "Center Party (Midflokkurin) [Jenis av RANA] ++ Independence (or Self-Govenment) Party (Sjalvstyrisflokkurin) [Jogvan SKORHEIM] ++ People's Party (Folkaflokkurin) [Jorgen NICLASEN] ++ Progressive Party (Framsokn) [Poul MICHELSEN] ++ Republic (Tjodveldi) (formerly the Republican Party) [Hogni HOYDAL] ++ Self-Government Party [Kari P. HOJGAARD] ++ Social Democratic Party (Javnadarflokkurin) [Aksel JOHANNESEN] ++ Union Party (Sambandsflokkurin) [Kaj Leo JOHANNESEN]"
+      "text": "Center Party (Midflokkurin) [Jenis av RANA] ++ Independence (or Self-Govenment) Party (Sjalvstyrisflokkurin) [Jogvan SKORHEIM] ++ People's Party (Folkaflokkurin) [Jorgen NICLASEN] ++ Progressive Party (Framsokn) [Poul MICHELSEN] ++ Republic (Tjodveldi) (formerly the Republican Party) [Hogni HOYDAL] ++ Social Democratic Party (Javnadarflokkurin) [Aksel V. JOHANNESEN] ++ Union Party (Sambandsflokkurin) [Bardur a STEIG NIELSEN]"
     },
     "Political pressure groups and leaders": {
       "other": {
@@ -356,25 +359,25 @@
         "text": "Simun av SKAROI/Peter ALBERG"
       },
       "note": {
-        "text": "adopted 1948; the anthem is also known as \"Tu alfagra land mitt\" (Thou Fairest Land of Mine); as an autonomous overseas division of Denmark, the Faroe Islands are permitted their own national anthem"
+        "text": "adopted 1948; the anthem is also known as \"Tu alfagra land mitt\" (Thou Fairest Land of Mine); as a self-governing overseas administrative division of Denmark, the Faroe Islands are permitted their own national anthem"
       }
     }
   },
   "Economy": {
     "Economy - overview": {
-      "text": "The Faroese economy is dependent on fishing, which makes the economy vulnerable to price fluctuations. The sector normally accounts for about 95% of exports and nearly half of GDP. In early 2008 the Faroese economy began to slow as a result of smaller catches and historically high oil prices. The slowdown in the Faroese economy followed a strong performance since the mid-1990s with annual growth rates averaging close to 6%, mostly a result of increased fish landings and salmon farming, and high export prices. Unemployment reached its lowest level in June 2008 at 1.1% but gradually increased to about 5.5% in 2012. Total dependence on fishing and salmon farming make the Faroese economy vulnerable to fluctuations in world demand. Initial discoveries of oil in the Faroese area give hope for eventual oil production, which may provide a foundation for a more diversified economy and less dependence on Danish economic assistance. Aided by an annual subsidy from Denmark amounting to about 3% of Faroese GDP, the Faroese have a standard of living almost equal to that of Denmark and Greenland. The Faroese Government ran relatively large deficits from 2008 to 2010 and budget deficits are forecast for several years ahead. At year-end 2010 gross external debt had reached approximately US$900 million."
+      "text": "The Faroese economy has experienced a period of significant growth since 2011, due to increases in fish prices, salmon farming, and catches in the pelagic fisheries. Nominal GDP growth was an estimated 7.5% in 2013 and 5.9% in 2014. The fisheries sector accounts for about 95% of exports and half of GDP. Unemployment is low, estimated at 2.9% in mid-2015. ++  ++ The public budget has exhibited deficits since 2008, which were financed through increased borrowing. Public debt reached 38% of GDP in 2015. Aided by an annual subsidy from Denmark amounting to about 4% of Faroese GDP, the Faroese have a standard of living equal to that of Denmark. ++  ++ Dependence on fishing makes the economy vulnerable to price fluctuations. Projections for fish prices are favorable and increasing public infrastructure investments are likely to lead to continued growth in the short term."
     },
     "GDP (purchasing power parity)": {
-      "text": "$1.471 billion (2010 est.) ++ $1.389 billion (2008 est.)"
+      "text": "$1.831 billion (2014 est.) ++ $1.729 billion (2013 est.) ++ $1.471 billion (2013 est.)"
     },
     "GDP (official exchange rate)": {
       "text": "$2.32 billion (2010 est.)"
     },
     "GDP - real growth rate": {
-      "text": "2.9% (2010 est.) ++ 0.5% (2008 est.)"
+      "text": "5.9% (2014 est.) ++ 7.5% (2013 est.) ++ 2.9% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$30,500 (2008 est.)"
+      "text": "$36,600 (2014 est.)"
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -388,16 +391,16 @@
       }
     },
     "Agriculture - products": {
-      "text": "milk, potatoes, vegetables; sheep; salmon, other fish"
+      "text": "milk, potatoes, vegetables; sheep; salmon, herring, mackerel and other fish"
     },
     "Industries": {
-      "text": "fishing, fish processing, small ship repair and refurbishment, handicrafts"
+      "text": "fishing, fish processing, tourism, small ship repair and refurbishment, handicrafts"
     },
     "Industrial production growth rate": {
       "text": "3.4% (2009 est.)"
     },
     "Labor force": {
-      "text": "34,710 (November 2010)"
+      "text": "25,000 (2015 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -411,7 +414,7 @@
       }
     },
     "Unemployment rate": {
-      "text": "5.5% (2012) ++ 6.8% (2011)"
+      "text": "2.9% (2015 est.) ++ 3.1% (2014)"
     },
     "Population below poverty line": {
       "text": "NA%"
@@ -451,28 +454,33 @@
       "text": "$824 million (2010) ++ $767 million (2009)"
     },
     "Exports - commodities": {
-      "text": "fish and fish products 94%, stamps, ships (2009 est.)"
+      "text": "fish and fish products 95%, ships (2009 est.)"
     },
     "Exports - partners": {
-      "text": "UK 21.8%, Denmark 18.8%, Russia 11.9%, Nigeria 10.9%, US 9.5%, China 7.2%, Netherlands 6% (2014)"
+      "text": "Russia 20.2%, UK 16.6%, Denmark 16.3%, Nigeria 11.6%, China 9.3%, US 7.2%, Netherlands 5.6%, Norway 4% (2015)"
     },
     "Imports": {
       "text": "$776 million (2010) ++ $786 million (2009)"
     },
     "Imports - commodities": {
-      "text": "goods for household consumption, machinery and transport equipment, fuels, raw materials and semi-manufactures, salt"
+      "text": "goods for household consumption, machinery and transport equipment, fuels, raw materials and semi-manufactures, cars"
     },
     "Imports - partners": {
-      "text": "Denmark 45.5%, Norway 27.7%, Germany 5%, Iceland 4.4%, Sweden 4.1% (2014)"
+      "text": "Denmark 43.9%, Turkey 12.3%, Norway 10%, China 6.2%, Netherlands 4.9%, Germany 4.4% (2015)"
     },
     "Debt - external": {
       "text": "$888.8 million (2010) ++ $68.1 million (2006)"
     },
     "Exchange rates": {
-      "text": "Danish kroner (DKK) per US dollar - ++ 5.6125 (2011) ++ 5.3687 (2011) ++ 5.79 (2012 est.) ++ 5.3687 (2011 est.) ++ 5.6241 (2010 est.)"
+      "text": "Danish kroner (DKK) per US dollar - ++ 6.7236 (2011) ++ 5.3687 (2011) ++ 5.3687 (2011) ++ 5.79 (2012 est.) ++ 5.3687 (2011 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
+    },
     "Electricity - production": {
       "text": "281 million kWh (2012 est.)"
     },
@@ -546,18 +554,18 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "17,300"
+        "text": "17,000"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "35 (2014 est.)"
+        "text": "34 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "61,400"
+        "text": "63,000"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "123 (2014 est.)"
+        "text": "126 (July 2015 est.)"
       }
     },
     "Telephone system": {
@@ -568,31 +576,36 @@
         "text": "conversion to digital system completed in 1998; both NMT (analog) and GSM (digital) mobile telephone systems are installed"
       },
       "international": {
-        "text": "country code - 298; satellite earth stations - 1 Orion; 1 fiber-optic submarine cable to the Shetland Islands, linking the Faroe Islands with Denmark and Iceland; fiber-optic submarine cable connection to Canada-Europe cable (2011)"
+        "text": "country code - 298; satellite earth stations - 1 Orion; 1 fiber-optic submarine cable to the Shetland Islands, linking the Faroe Islands with Denmark and Iceland; fiber-optic submarine cable connection to Canada-Europe cable (2015)"
       }
     },
     "Broadcast media": {
-      "text": "1 publicly owned TV station; the Faroese telecommunications company distributes local and international channels through its digital terrestrial network; publicly owned radio station supplemented by 2 privately owned stations broadcasting over multiple frequencies (2008)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM 1, FM 13, shortwave 0 (1998)"
-    },
-    "Television broadcast stations": {
-      "text": "3 (plus 43 repeaters) (September 1995)"
+      "text": "1 publicly owned TV station; the Faroese telecommunications company distributes local and international channels through its digital terrestrial network; publicly owned radio station supplemented by 3 privately owned stations broadcasting over multiple frequencies (2015)"
     },
     "Internet country code": {
       "text": ".fo"
     },
     "Internet users": {
       "total": {
-        "text": "44,000"
+        "text": "47,000"
       },
       "percent of population": {
-        "text": "88.2% (2014 est.)"
+        "text": "94.2% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "1 (registered in Denmark)"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "3 (registered in Denmark) (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "OY-H (2016)"
+    },
     "Airports": {
       "text": "1 (2013)"
     },
@@ -606,7 +619,7 @@
     },
     "Roadways": {
       "total": {
-        "text": "463 km (2006)"
+        "text": "960 km (2015)"
       }
     },
     "Merchant marine": {
@@ -626,30 +639,9 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
-      "text": "no regular military forces (2012)"
-    },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "11,831 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "9,827"
-      },
-      "females age 16-49": {
-        "text": "8,418 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "372"
-      },
-      "female": {
-        "text": "373 (2010 est.)"
-      }
+      "text": "no regular military forces; the Government of Denmark has responsibility for defense; as such, the Danish military’s Joint Arctic Command is responsible for territorial defense of the Faroe Islands (2016)"
     },
     "Military - note": {
       "text": "defense is the responsibility of Denmark"

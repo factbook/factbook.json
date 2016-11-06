@@ -48,12 +48,12 @@
     "Terrain": {
       "text": "grassy plains and wooded hills east of Rio Paraguay; Gran Chaco region west of Rio Paraguay mostly low, marshy plain near the river, and dry forest and thorny scrub elsewhere"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "junction of Rio Paraguay and Rio Parana 46 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "178 m"
       },
-      "highest point": {
-        "text": "Cerro Pero 842 m"
+      "elevation extremes": {
+        "text": "lowest point: junction of Rio Paraguay and Rio Parana 46 m ++ highest point: Cerro Pero 842 m"
       }
     },
     "Natural resources": {
@@ -71,18 +71,10 @@
       }
     },
     "Irrigated land": {
-      "text": "670 sq km (2003)"
+      "text": "1,362 sq km (2012)"
     },
-    "Total renewable water resources": {
-      "text": "336 cu km (2011)"
-    },
-    "Freshwater withdrawal (domestic/industrial/agricultural)": {
-      "total": {
-        "text": "0.49  cu km/yr (20%/8%/71%)"
-      },
-      "per capita": {
-        "text": "88.05  cu m/yr (2000)"
-      }
+    "Population - distribution": {
+      "text": "most of the population resides in the eastern half of the country; to the west lies the Gran Chaco, which accounts for 60% of the land territory, but only 2% of the overall population"
     },
     "Natural hazards": {
       "text": "local flooding in southeast (early September to June); poorly drained plains may become boggy (early October to June)"
@@ -103,6 +95,9 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "6,862,812 (July 2016 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "Paraguayan(s)"
@@ -123,27 +118,21 @@
     "Demographic profile": {
       "text": "Paraguay falls below the Latin American average in several socioeconomic categories, including immunization rates, potable water, sanitation, and secondary school enrollment, and has greater rates of income inequality and child and maternal mortality. Paraguay's poverty rate has declined in recent years but remains high, especially in rural areas, with more than a third of the population below the poverty line. However, the well-being of the poor in many regions has improved in terms of housing quality and access to clean water, telephone service, and electricity. The fertility rate continues to drop, declining sharply from an average 4.3 births per woman in the late 1990s to about 2 in 2013, as a result of the greater educational attainment of women, increased use of contraception, and a desire for smaller families among young women. Paraguay is a country of emigration; it has not attracted large numbers of immigrants because of political instability, civil wars, years of dictatorship, and the greater appeal of neighboring countries. Paraguay first tried to encourage immigration in 1870 in order to rebound from the heavy death toll it suffered during the War of the Triple Alliance, but it received few European and Middle Eastern immigrants. In the 20th century, limited numbers of immigrants arrived from Lebanon, Japan, South Korea, and China, as well as Mennonites from Canada, Russia, and Mexico. Large flows of Brazilian immigrants have been arriving since the 1960s, mainly to work in agriculture. Paraguayans continue to emigrate to Argentina, Brazil, Uruguay, the United States, Italy, Spain, and France."
     },
-    "Population": {
-      "text": "6,783,272 (July 2015 est.)"
-    },
     "Age structure": {
       "0-14 years": {
-        "text": "25.59% (male 882,929/female 852,583)"
+        "text": "25.04% (male 874,541/female 844,212)"
       },
       "15-24 years": {
-        "text": "20.14% (male 687,025/female 679,420)"
+        "text": "19.74% (male 680,998/female 673,534)"
       },
       "25-54 years": {
-        "text": "40.04% (male 1,359,281/female 1,356,663)"
+        "text": "40.56% (male 1,392,814/female 1,390,655)"
       },
       "55-64 years": {
-        "text": "7.48% (male 259,086/female 248,636)"
+        "text": "7.74% (male 270,769/female 260,300)"
       },
       "65 years and over": {
-        "text": "6.75% (male 213,907/female 243,742) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "6.92% (male 222,435/female 252,554) (2016 est.)"
       }
     },
     "Dependency ratios": {
@@ -162,26 +151,29 @@
     },
     "Median age": {
       "total": {
-        "text": "27.3 years"
+        "text": "27.8 years"
       },
       "male": {
-        "text": "27 years"
+        "text": "27.5 years"
       },
       "female": {
-        "text": "27.5 years (2015 est.)"
+        "text": "28 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "1.16% (2015 est.)"
+      "text": "1.17% (2016 est.)"
     },
     "Birth rate": {
-      "text": "16.37 births/1,000 population (2015 est.)"
+      "text": "16.5 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "4.68 deaths/1,000 population (2015 est.)"
+      "text": "4.7 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "-0.07 migrant(s)/1,000 population (2015 est.)"
+      "text": "-0.1 migrant(s)/1,000 population (2016 est.)"
+    },
+    "Population distribution": {
+      "text": "most of the population resides in the eastern half of the country; to the west lies the Gran Chaco, which accounts for 60% of the land territory, but only 2% of the overall population"
     },
     "Urbanization": {
       "urban population": {
@@ -192,7 +184,7 @@
       }
     },
     "Major urban areas - population": {
-      "text": "ASUNCION (capital) 23.56 million (2015)"
+      "text": "ASUNCION (capital) 2.356 million (2015)"
     },
     "Sex ratio": {
       "at birth": {
@@ -214,7 +206,13 @@
         "text": "0.88 male(s)/female"
       },
       "total population": {
-        "text": "1.01 male(s)/female (2015 est.)"
+        "text": "1.01 male(s)/female (2016 est.)"
+      }
+    },
+    "Mother's mean age at first birth": {
+      "text": "22.9",
+      "note": {
+        "text": "median age at first birth among women 25-29 (2008 est.)"
       }
     },
     "Maternal mortality rate": {
@@ -222,28 +220,28 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "20.05 deaths/1,000 live births"
+        "text": "19.4 deaths/1,000 live births"
       },
       "male": {
-        "text": "23.6 deaths/1,000 live births"
+        "text": "22.8 deaths/1,000 live births"
       },
       "female": {
-        "text": "16.31 deaths/1,000 live births (2015 est.)"
+        "text": "15.7 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "76.99 years"
+        "text": "77.2 years"
       },
       "male": {
-        "text": "74.34 years"
+        "text": "74.5 years"
       },
       "female": {
-        "text": "79.77 years (2015 est.)"
+        "text": "80 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "1.91 children born/woman (2015 est.)"
+      "text": "1.91 children born/woman (2016 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "79.4%",
@@ -252,7 +250,7 @@
       }
     },
     "Health expenditures": {
-      "text": "9% of GDP (2013)"
+      "text": "9.8% of GDP (2014)"
     },
     "Physicians density": {
       "text": "1.23 physicians/1,000 population (2012)"
@@ -277,13 +275,13 @@
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "0.41% (2014 est.)"
+      "text": "0.43% (2015 est.)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
-      "text": "16,800 (2014 est.)"
+      "text": "17,500 (2015 est.)"
     },
     "HIV/AIDS - deaths": {
-      "text": "400 (2014 est.)"
+      "text": "800 (2015 est.)"
     },
     "Major infectious diseases": {
       "degree of risk": {
@@ -293,17 +291,20 @@
         "text": "bacterial diarrhea, hepatitis A, and typhoid fever"
       },
       "vectorborne diseases": {
-        "text": "dengue fever (2013)"
+        "text": "dengue fever"
+      },
+      "note": {
+        "text": "active local transmission of Zika virus by Aedes species mosquitoes has been identified in this country (as of August 2016); it poses an important risk (a large number of cases possible) among US citizens if bitten by an infective mosquito; other less common ways to get Zika are through sex, via blood transfusion, or during pregnancy, in which the pregnant woman passes Zika virus to her fetus (2016)"
       }
     },
     "Obesity - adult prevalence rate": {
       "text": "15.1% (2014)"
     },
     "Children under the age of 5 years underweight": {
-      "text": "3.4% (2005)"
+      "text": "2.6% (2012)"
     },
     "Education expenditures": {
-      "text": "5% of GDP (2011)"
+      "text": "5% of GDP (2012)"
     },
     "Literacy": {
       "definition": {
@@ -327,7 +328,7 @@
         "text": "12 years"
       },
       "female": {
-        "text": "12 years (2010)"
+        "text": "13 years (2010)"
       }
     },
     "Child labor - children ages 5-14": {
@@ -340,13 +341,13 @@
     },
     "Unemployment, youth ages 15-24": {
       "total": {
-        "text": "11.2%"
+        "text": "13%"
       },
       "male": {
-        "text": "9%"
+        "text": "10%"
       },
       "female": {
-        "text": "14.6% (2012 est.)"
+        "text": "17.8% (2014 est.)"
       }
     }
   },
@@ -363,10 +364,13 @@
       },
       "local short form": {
         "text": "Paraguay"
+      },
+      "etymology": {
+        "text": "the precise meaning of the name Paraguay is unclear, but it seems to derive from the river of the same name; one explanation has the name meaning \"water of the Payagua\" (an indigenous tribe that lived along the river)"
       }
     },
     "Government type": {
-      "text": "constitutional republic"
+      "text": "presidential republic"
     },
     "Capital": {
       "name": {
@@ -392,7 +396,7 @@
       "text": "Independence Day, 14 May 1811 (observed 15 May)"
     },
     "Constitution": {
-      "text": "several previous; latest approved and promulgated 20 June 1992; amended 2011, 2014 (2015)"
+      "text": "several previous; latest approved and promulgated 20 June 1992; amended 2011, 2014 (2016)"
     },
     "Legal system": {
       "text": "civil law system with influences from Argentine, Spanish, Roman, and French civil law models; judicial review of legislative acts in Supreme Court of Justice"
@@ -401,14 +405,17 @@
       "text": "accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction"
     },
     "Citizenship": {
-      "birthright citizenship": {
+      "citizenship by birth": {
         "text": "yes"
       },
+      "citizenship by descent": {
+        "text": "at least one parent must be a native-born citizen of Paraguay"
+      },
       "dual citizenship recognized": {
-        "text": ""
+        "text": "yes"
       },
       "residency requirement for naturalization": {
-        "text": ""
+        "text": "3 years"
       }
     },
     "Suffrage": {
@@ -416,10 +423,10 @@
     },
     "Executive branch": {
       "chief of state": {
-        "text": "President Horacio CARTES (since 15 August 2013); Vice President Juan AFARA Maciel (since 15 August 2013); note - the president is both chief of state and head of government"
+        "text": "President Horacio CARTES Jara (since 15 August 2013); Vice President Juan AFARA Maciel (since 15 August 2013); note - the president is both chief of state and head of government"
       },
       "head of government": {
-        "text": "President Horacio CARTES (since 15 August 2013); Vice President Juan AFARA Maciel (since 15 August 2013)"
+        "text": "President Horacio CARTES Jara (since 15 August 2013); Vice President Juan AFARA Maciel (since 15 August 2013)"
       },
       "cabinet": {
         "text": "Council of Ministers appointed by the president"
@@ -454,7 +461,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Asociacion Nacional Republicana - Colorado Party or ANR [Lilian SAMANIEGO] ++ Avanza Pais coalition [Adolfo FERREIRO] ++ Broad Front coalition (Frente Guasu) or FG [Fernando Armindo LUGO Mendez] ++ Movimiento Union Nacional de Ciudadanos Eticos or UNACE [Jorge OVIEDO MATTO] ++ Partido del Movimiento al Socialismo or P-MAS [Camilo Ernesto SOARES Machado] ++ Partido Democratica Progresista or PDP [Desiree MASI] ++ Partido Encuentro Nacional or PEN [Fernando CAMACHO Paredes] ++ Partido Liberal Radical Autentico or PLRA [Miguel ABDON SAGUIER] ++ Partido Pais Solidario or PPS [Carlos Alberto FILIZZOLA Pallares] ++ Partido Popular Tekojoja [Sixto PEREIRA] ++ Patria Querida (Beloved Fatherland Party) or PPQ [Sebastian ACHA]"
+      "text": "Asociacion Nacional Republicana - Colorado Party or ANR [Pedro ALLIANA] ++ Avanza Pais coalition [Adolfo FERREIRO] ++ Broad Front coalition (Frente Guasu) or FG [Fernando Armindo LUGO Mendez] ++ Movimiento Union Nacional de Ciudadanos Eticos or UNACE [Jorge OVIEDO MATTO] ++ Partido del Movimiento al Socialismo or P-MAS [Camilo Ernesto SOARES Machado] ++ Partido Democratica Progresista or PDP [Desiree MASI] ++ Partido Encuentro Nacional or PEN [Fernando CAMACHO Paredes] ++ Partido Liberal Radical Autentico or PLRA [Miguel ABDON SAGUIER] ++ Partido Pais Solidario or PPS [Carlos Alberto FILIZZOLA Pallares] ++ Partido Popular Tekojoja [Sixto PEREIRA] ++ Patria Querida (Beloved Fatherland Party) or PPQ [Sebastian ACHA]"
     },
     "Political pressure groups and leaders": {
       "text": "Ahorristas Estafados or AE ++ National Coordinating Board of Campesino Organizations or MCNOC [Luis AGUAYO] ++ National Federation of Campesinos or FNC [Odilon ESPINOLA] ++ National Workers Central or CNT [Secretary General Juan TORRALES] ++ Paraguayan Workers Confederation or CPT ++ Roman Catholic Church ++ Unitary Workers Central or CUT [Jorge Guzman ALVARENGA Malgarejo]"
@@ -464,7 +471,7 @@
     },
     "Diplomatic representation in the US": {
       "chief of mission": {
-        "text": "Ambassador Igor Alberto PANGRAZIO Vera (since 18 September 2014)"
+        "text": "Ambassador German Hugo ROJAS Irigoyen (since 28 December 2016)"
       },
       "chancery": {
         "text": "2400 Massachusetts Avenue NW, Washington, DC 20008"
@@ -480,7 +487,9 @@
       }
     },
     "Diplomatic representation from the US": {
-      "text": "Ambassador Leslie A. BASSETT (since 15 January 2015)",
+      "chief of mission": {
+        "text": "Ambassador Leslie A. BASSETT (since 15 January 2015)"
+      },
       "embassy": {
         "text": "1776 Avenida Mariscal Lopez, Casilla Postal 402, Asuncion"
       },
@@ -517,35 +526,35 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Landlocked Paraguay has a market economy distinguished by a large informal sector, featuring re-export of imported consumer goods to neighboring countries, as well as the activities of thousands of microenterprises and urban street vendors. A large percentage of the population, especially in rural areas, derives its living from agricultural activity, often on a subsistence basis. Because of the importance of the informal sector, accurate economic measures are difficult to obtain. On a per capita basis, real income has stagnated at 1980 levels. The economy grew rapidly between 2003 and 2008 as growing world demand for commodities combined with high prices and favorable weather to support Paraguay's commodity-based export expansion. Paraguay is the sixth largest soy producer in the world. Drought hit in 2008, reducing agricultural exports and slowing the economy even before the onset of the global recession. The economy fell 3.8% in 2009, as lower world demand and commodity prices caused exports to contract. The government reacted by introducing fiscal and monetary stimulus packages. Growth resumed at a 13% level in 2010, the highest in South America, but slowed in 2011-13 as the stimulus subsided and severe drought and outbreaks of foot-and-mouth disease led to a drop in beef and other agricultural exports. The economy took another leap in 2014, largely due to strong export growth. Political uncertainty, corruption, limited progress on structural reform, and deficient infrastructure are the main obstacles to long-term growth."
+      "text": "Landlocked Paraguay has a market economy distinguished by a large informal sector, featuring re-export of imported consumer goods to neighboring countries, as well as the activities of thousands of microenterprises and urban street vendors. A large percentage of the population, especially in rural areas, derives its living from agricultural activity, often on a subsistence basis. Because of the importance of the informal sector, accurate economic measures are difficult to obtain. ++  ++ On a per capita basis, real income has stagnated at 1980 levels. The economy grew rapidly between 2003 and 2008 as growing world demand for commodities combined with high prices and favorable weather to support Paraguay's commodity-based export expansion. Paraguay is the sixth largest soy producer in the world. Drought hit in 2008, reducing agricultural exports and slowing the economy even before the onset of the global recession. The economy fell 3.8% in 2009, as lower world demand and commodity prices caused exports to contract. The government reacted by introducing fiscal and monetary stimulus packages. Growth resumed in 2010, and has been erratic, although positive, ever since. Severe drought and outbreaks of foot-and-mouth disease led to a drop in beef and other agricultural exports. ++  ++ In addition to the agricultural challenges, political uncertainty, corruption, limited progress on structural reform, and deficient infrastructure are the main obstacles to long-term growth."
     },
     "GDP (purchasing power parity)": {
-      "text": "$58.49 billion (2014 est.) ++ $56.05 billion (2013 est.) ++ $49.07 billion (2012 est.)",
+      "text": "$61.14 billion (2015 est.) ++ $59.31 billion (2014 est.) ++ $56.64 billion (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$30.22 billion (2014 est.)"
+      "text": "$27.71 billion (2015 est.)"
     },
     "GDP - real growth rate": {
-      "text": "4.4% (2014 est.) ++ 14.2% (2013 est.) ++ -1.2% (2012 est.)"
+      "text": "3.1% (2015 est.) ++ 4.7% (2014 est.) ++ 14% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$8,500 (2014 est.) ++ $8,100 (2013 est.) ++ $7,100 (2012 est.)",
+      "text": "$9,000 (2015 est.) ++ $8,900 (2014 est.) ++ $8,600 (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "Gross national saving": {
-      "text": "16.4% of GDP (2014 est.) ++ 17.6% of GDP (2013 est.) ++ 14.2% of GDP (2012 est.)"
+      "text": "15% of GDP (2015 est.) ++ 15.8% of GDP (2014 est.) ++ 17.1% of GDP (2013 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "67.8%"
+        "text": "67.3%"
       },
       "government consumption": {
-        "text": "11.9%"
+        "text": "12.6%"
       },
       "investment in fixed capital": {
         "text": "15.5%"
@@ -554,21 +563,21 @@
         "text": "0.3%"
       },
       "exports of goods and services": {
-        "text": "47.8%"
+        "text": "45.8%"
       },
       "imports of goods and services": {
-        "text": "-43.3% ++  (2014 est.)"
+        "text": "-41.4% (2015 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "19.2%"
+        "text": "19%"
       },
       "industry": {
-        "text": "18.3%"
+        "text": "29.5%"
       },
       "services": {
-        "text": "62.5% (2014 est.)"
+        "text": "51.6% (2015 est.)"
       }
     },
     "Agriculture - products": {
@@ -578,10 +587,10 @@
       "text": "sugar, cement, textiles, beverages, wood products, steel, base metals, electric power"
     },
     "Industrial production growth rate": {
-      "text": "10% (2014 est.)"
+      "text": "2.4% (2015 est.)"
     },
     "Labor force": {
-      "text": "3.187 million (2014 est.)"
+      "text": "3.247 million (2015 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -595,7 +604,7 @@
       }
     },
     "Unemployment rate": {
-      "text": "7.3% (2014 est.) ++ 7.5% (2013 est.)"
+      "text": "5.8% (2015 est.) ++ 6% (2014 est.)"
     },
     "Population below poverty line": {
       "text": "34.7% (2010 est.)"
@@ -613,83 +622,97 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$5.54 billion"
+        "text": "$5.209 billion"
       },
       "expenditures": {
-        "text": "$6.242 billion (2014 est.)"
+        "text": "$5.717 billion (2015 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "18.3% of GDP (2014 est.)"
+      "text": "18.6% of GDP (2015 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-2.3% of GDP (2014 est.)"
+      "text": "-1.8% of GDP (2015 est.)"
     },
     "Public debt": {
-      "text": "17.8% of GDP (2014 est.) ++ 15.3% of GDP (2013 est.)"
+      "text": "21.1% of GDP (2015 est.) ++ 19.5% of GDP (2014 est.)"
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Inflation rate (consumer prices)": {
-      "text": "5% (2014 est.) ++ 2.7% (2013 est.)"
+      "text": "3.1% (2015 est.) ++ 5% (2014 est.)"
     },
     "Central bank discount rate": {
       "text": "5.5% (31 December 2012) ++ 6% (31 December 2011)"
     },
     "Commercial bank prime lending rate": {
-      "text": "21.19% (31 December 2014 est.) ++ 19.27% (31 December 2013 est.)"
+      "text": "19.74% (31 December 2015 est.) ++ 21.19% (31 December 2014 est.)"
     },
     "Stock of narrow money": {
-      "text": "$4.806 billion (31 December 2014 est.) ++ $4.5 billion (31 December 2013 est.)"
+      "text": "$3.974 billion (31 December 2015 est.) ++ $4.806 billion (31 December 2014 est.)"
     },
     "Stock of broad money": {
       "text": "$9.483 billion (31 December 2014 est.) ++ $8.546 billion (31 December 2013 est.)"
     },
     "Stock of domestic credit": {
-      "text": "$12.15 billion (31 December 2014 est.) ++ $10.58 billion (31 December 2013 est.)"
+      "text": "$12.06 billion (31 December 2015 est.) ++ $12.15 billion (31 December 2014 est.)"
     },
     "Market value of publicly traded shares": {
-      "text": "$962.3 million (31 December 2012 est.) ++ $958.1 million (31 December 2011) ++ $42 million (31 December 2010 est.)"
+      "text": "$962.3 million (31 December 2012 est.) ++ $958.1 million (31 December 2011 est.) ++ $42 million (31 December 2010 est.)"
     },
     "Current account balance": {
-      "text": "$20 million (2014 est.) ++ $614 million (2013 est.)"
+      "text": "-$462 million (2015 est.) ++ -$127 million (2014 est.)"
     },
     "Exports": {
-      "text": "$13.45 billion (2014 est.) ++ $13.44 billion (2013 est.)"
+      "text": "$11.17 billion (2015 est.) ++ $12.88 billion (2014 est.)"
     },
     "Exports - commodities": {
       "text": "soybeans, livestock feed, cotton, meat, edible oils, wood, leather"
     },
     "Exports - partners": {
-      "text": "Brazil 30.8%, Russia 10.8%, Argentina 7.4%, Chile 6.9%, Netherlands 4.5% (2014)"
+      "text": "Brazil 31.7%, Russia 9.1%, Chile 7.1%, Argentina 7% (2015)"
     },
     "Imports": {
-      "text": "$11.86 billion (2014 est.) ++ $11.86 billion (2013 est.)"
+      "text": "$10.07 billion (2015 est.) ++ $11.94 billion (2014 est.)"
     },
     "Imports - commodities": {
       "text": "road vehicles, consumer goods, tobacco, petroleum products, electrical machinery, tractors, chemicals, vehicle parts"
     },
     "Imports - partners": {
-      "text": "Brazil 28%, China 25.5%, Argentina 14.6%, US 7.9% (2014)"
+      "text": "Brazil 25.4%, China 23.7%, Argentina 14.8%, US 7.9% (2015)"
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$6.986 billion (31 December 2014 est.) ++ $5.873 billion (31 December 2013 est.)"
+      "text": "$5.939 billion (31 December 2015 est.) ++ $6.986 billion (31 December 2014 est.)"
     },
     "Debt - external": {
-      "text": "$14.76 billion (31 December 2014 est.) ++ $13.43 billion (31 December 2013 est.)"
+      "text": "$14.41 billion (31 December 2015 est.) ++ $14.09 billion (31 December 2014 est.)"
     },
     "Stock of direct foreign investment - at home": {
-      "text": "$5.479 billion (31 December 2014 est.) ++ $4.991 billion (31 December 2013 est.)"
+      "text": "$6.41 billion (31 December 2015 est.) ++ $5.803 billion (31 December 2014 est.)"
     },
     "Stock of direct foreign investment - abroad": {
-      "text": "$96.36 million (31 December 2014 est.) ++ $105.3 million (31 December 2013 est.)"
+      "text": "$259 million (31 December 2015 est.) ++ $233.3 million (31 December 2014 est.)"
     },
     "Exchange rates": {
-      "text": "guarani (PYG) per US dollar - ++ 4,462.2 (2014 est.) ++ 4,462.2 (2013 est.) ++ 4,424.9 (2012 est.) ++ 4,176.1 (2011 est.) ++ 4,735.5 (2010 est.)"
+      "text": "guarani (PYG) per US dollar - ++ 5,160.4 (2015 est.) ++ 4,462.2 (2014 est.) ++ 4,462.2 (2013 est.) ++ 4,424.9 (2012 est.) ++ 4,176.1 (2011 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "100,000"
+      },
+      "electrification - total population": {
+        "text": "98%"
+      },
+      "electrification - urban areas": {
+        "text": "99%"
+      },
+      "electrification - rural areas": {
+        "text": "96% (2013)"
+      }
+    },
     "Electricity - production": {
       "text": "59.63 billion kWh (2012 est.)"
     },
@@ -763,18 +786,18 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "370,000"
+        "text": "384,135"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "6 (2014 est.)"
+        "text": "6 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "7.3 million"
+        "text": "7.412 million"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "109 (2014 est.)"
+        "text": "109 (July 2015 est.)"
       }
     },
     "Telephone system": {
@@ -785,31 +808,42 @@
         "text": "deficiencies in provision of fixed-line service have resulted in a rapid expansion of mobile-cellular services fostered by competition among multiple providers"
       },
       "international": {
-        "text": "country code - 595; satellite earth station - 1 Intelsat (Atlantic Ocean) (2010)"
+        "text": "country code - 595; satellite earth station - 1 Intelsat (Atlantic Ocean) (2015)"
       }
     },
     "Broadcast media": {
       "text": "6 privately owned TV stations; about 75 commercial and community radio stations; 1 state-owned radio network (2010)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM 41, FM 121, shortwave 6 (2006)"
-    },
-    "Television broadcast stations": {
-      "text": "6 (2009)"
     },
     "Internet country code": {
       "text": ".py"
     },
     "Internet users": {
       "total": {
-        "text": "1.9 million"
+        "text": "3.011 million"
       },
       "percent of population": {
-        "text": "29.0% (2014 est.)"
+        "text": "44.4% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "1"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "5"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "452,004"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "1,641,624 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "ZP (2016)"
+    },
     "Airports": {
       "text": "799 (2013)"
     },
@@ -838,7 +872,7 @@
         "text": "290"
       },
       "under 914 m": {
-        "text": " ++ 471 (2013)"
+        "text": "471 (2013)"
       }
     },
     "Railways": {
@@ -880,36 +914,12 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "Armed Forces Command (Commando de las Fuerzas Militares): Army, National Navy (Armada Nacional, includes Marine Corps, Naval Aviation, and Coast Guard), Paraguayan Air Force (Fuerza Aerea Paraguay, FAP), Logistics Command, War Materiel Directorate (2012)"
     },
     "Military service age and obligation": {
       "text": "18 years of age for compulsory and voluntary military service; conscript service obligation is 12 months for Army, 24 months for Navy; volunteers for the Air Force must be younger than 22 years of age with a secondary school diploma (2012)"
-    },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "1,678,335"
-      },
-      "females age 16-49": {
-        "text": "1,675,352 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "1,409,859"
-      },
-      "females age 16-49": {
-        "text": "1,433,037 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "73,367"
-      },
-      "female": {
-        "text": "71,801 (2010 est.)"
-      }
     },
     "Military expenditures": {
       "text": "1.66% of GDP (2012) ++ 1.16% of GDP (2011) ++ 1.66% of GDP (2010)"
@@ -917,7 +927,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "unruly region at convergence of Argentina-Brazil-Paraguay borders is locus of money laundering, smuggling, arms and illegal narcotics trafficking, and fundraising for extremist organizations"
+      "text": "unruly region at convergence of Argentina-Brazil-Paraguay borders is locus of money laundering, smuggling, arms and illegal narcotics trafficking, and fundraising for violent extremist organizations"
     },
     "Illicit drugs": {
       "text": "major illicit producer of cannabis, most or all of which is consumed in Brazil, Argentina, and Chile; transshipment country for Andean cocaine headed for Brazil, other Southern Cone markets, and Europe; weak border controls, extensive corruption and money-laundering activity, especially in the Tri-Border Area; weak anti-money-laundering laws and enforcement"

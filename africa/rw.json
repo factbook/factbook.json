@@ -48,12 +48,12 @@
     "Terrain": {
       "text": "mostly grassy uplands and hills; relief is mountainous with altitude declining from west to east"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Rusizi River 950 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "1,598 m"
       },
-      "highest point": {
-        "text": "Volcan Karisimbi 4,519 m"
+      "elevation extremes": {
+        "text": "lowest point: Rusizi River 950 m ++ highest point: Volcan Karisimbi 4,519 m"
       }
     },
     "Natural resources": {
@@ -71,18 +71,7 @@
       }
     },
     "Irrigated land": {
-      "text": "96.25 sq km (2007)"
-    },
-    "Total renewable water resources": {
-      "text": "9.5 cu km (2011)"
-    },
-    "Freshwater withdrawal (domestic/industrial/agricultural)": {
-      "total": {
-        "text": "0.15  cu km/yr (33%/11%/55%)"
-      },
-      "per capita": {
-        "text": "17.25  cu m/yr (2005)"
-      }
+      "text": "96 sq km (2012)"
     },
     "Natural hazards": {
       "text": "periodic droughts; the volcanic Virunga Mountains are in the northwest along the border with Democratic Republic of the Congo",
@@ -106,6 +95,12 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "12,988,423",
+      "note": {
+        "text": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2016 est.)"
+      }
+    },
     "Nationality": {
       "noun": {
         "text": "Rwandan(s)"
@@ -123,30 +118,24 @@
     "Religions": {
       "text": "Roman Catholic 49.5%, Protestant 39.4% (includes Adventist 12.2% and other Protestant 27.2%), other Christian 4.5%, Muslim 1.8%, animist 0.1%, other 0.6%, none 3.6% (2001), unspecified 0.5% (2002 est.)"
     },
-    "Population": {
-      "text": "12,661,733",
-      "note": {
-        "text": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2015 est.)"
-      }
+    "Demographic profile": {
+      "text": "Rwanda’s fertility rate declined sharply during the last decade, as a result of the government’s commitment to family planning, the increased use of contraceptives, and a downward trend in ideal family size. Increases in educational attainment, particularly among girls, and exposure to social media also contributed to the reduction in the birth rate. The average number of births per woman decreased from a 5.6 in 2005 to 4.5 in 2016. Despite these significant strides in reducing fertility, Rwanda’s birth rate remains very high and will continue to for an extended period of time because of its large population entering reproductive age. Because Rwanda is one of the most densely populated countries in Africa, its persistent high population growth and increasingly small agricultural landholdings will put additional strain on families’ ability to raise foodstuffs and access potable water. These conditions will also hinder the government’s efforts to reduce poverty and prevent environmental degradation. The UNHCR recommended that effective 30 June 2013 countries invoke a cessation of refugee status for those Rwandans who fled their homeland between 1959 and 1998, including the 1994 genocide, on the grounds that the conditions that drove them to seek protection abroad no longer exist. The UNHCR’s decision is controversial because many Rwandan refugees still fear persecution if they return home, concerns that are supported by the number of Rwandans granted asylum since 1998 and by the number exempted from the cessation. Rwandan refugees can still seek an exemption or local integration, but host countries are anxious to send the refugees back to Rwanda and are likely to avoid options that enable them to stay. Conversely, Rwanda itself hosts more than 155,000 refugees; virtually all of them fleeing conflict in neighboring Burundi and the Democratic Republic of the Congo."
     },
     "Age structure": {
       "0-14 years": {
-        "text": "41.83% (male 2,670,040/female 2,626,646)"
+        "text": "41.53% (male 2,719,248/female 2,674,688)"
       },
       "15-24 years": {
-        "text": "18.86% (male 1,193,523/female 1,193,953)"
+        "text": "18.87% (male 1,226,141/female 1,225,009)"
       },
       "25-54 years": {
-        "text": "32.72% (male 2,077,406/female 2,065,261)"
+        "text": "32.93% (male 2,142,936/female 2,134,064)"
       },
       "55-64 years": {
-        "text": "4.07% (male 239,924/female 274,829)"
+        "text": "4.09% (male 249,447/female 282,225)"
       },
       "65 years and over": {
-        "text": "2.53% (male 131,613/female 188,538) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "2.58% (male 138,834/female 195,831) (2016 est.)"
       }
     },
     "Dependency ratios": {
@@ -165,26 +154,26 @@
     },
     "Median age": {
       "total": {
-        "text": "18.8 years"
+        "text": "19 years"
       },
       "male": {
-        "text": "18.6 years"
+        "text": "18.7 years"
       },
       "female": {
-        "text": "19 years (2015 est.)"
+        "text": "19.2 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "2.56% (2015 est.)"
+      "text": "2.53% (2016 est.)"
     },
     "Birth rate": {
-      "text": "33.75 births/1,000 population (2015 est.)"
+      "text": "33.3 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "8.96 deaths/1,000 population (2015 est.)"
+      "text": "8.8 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "0.85 migrant(s)/1,000 population (2015 est.)"
+      "text": "0.8 migrant(s)/1,000 population (2016 est.)"
     },
     "Urbanization": {
       "urban population": {
@@ -208,16 +197,22 @@
         "text": "1 male(s)/female"
       },
       "25-54 years": {
-        "text": "1.01 male(s)/female"
+        "text": "1 male(s)/female"
       },
       "55-64 years": {
-        "text": "0.87 male(s)/female"
+        "text": "0.88 male(s)/female"
       },
       "65 years and over": {
         "text": "0.7 male(s)/female"
       },
       "total population": {
-        "text": "0.99 male(s)/female (2015 est.)"
+        "text": "1 male(s)/female (2016 est.)"
+      }
+    },
+    "Mother's mean age at first birth": {
+      "text": "23",
+      "note": {
+        "text": "median age at first birth among women 25-29 (2014/15 est.)"
       }
     },
     "Maternal mortality rate": {
@@ -225,34 +220,34 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "58.19 deaths/1,000 live births"
+        "text": "56.8 deaths/1,000 live births"
       },
       "male": {
-        "text": "61.68 deaths/1,000 live births"
+        "text": "60.2 deaths/1,000 live births"
       },
       "female": {
-        "text": "54.6 deaths/1,000 live births (2015 est.)"
+        "text": "53.2 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "59.67 years"
+        "text": "60.1 years"
       },
       "male": {
-        "text": "58.11 years"
+        "text": "58.5 years"
       },
       "female": {
-        "text": "61.27 years (2015 est.)"
+        "text": "61.7 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "4.53 children born/woman (2015 est.)"
+      "text": "4.46 children born/woman (2016 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "51.6% (2010/11)"
     },
     "Health expenditures": {
-      "text": "11.1% of GDP (2013)"
+      "text": "7.5% of GDP (2014)"
     },
     "Physicians density": {
       "text": "0.06 physicians/1,000 population (2010)"
@@ -277,13 +272,13 @@
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "2.82% (2014 est.)"
+      "text": "2.89% (2015 est.)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
-      "text": "210,500 (2014 est.)"
+      "text": "201,900 (2015 est.)"
     },
     "HIV/AIDS - deaths": {
-      "text": "3,000 (2014 est.)"
+      "text": "2,900 (2015 est.)"
     },
     "Major infectious diseases": {
       "degree of risk": {
@@ -296,7 +291,7 @@
         "text": "malaria and dengue fever"
       },
       "animal contact disease": {
-        "text": "rabies (2013)"
+        "text": "rabies (2016)"
       }
     },
     "Obesity - adult prevalence rate": {
@@ -306,7 +301,7 @@
       "text": "11.7% (2011)"
     },
     "Education expenditures": {
-      "text": "5.1% of GDP (2013)"
+      "text": "5% of GDP (2013)"
     },
     "Literacy": {
       "definition": {
@@ -324,21 +319,24 @@
     },
     "School life expectancy (primary to tertiary education)": {
       "total": {
-        "text": "10 years"
+        "text": "11 years"
       },
       "male": {
-        "text": "10 years"
+        "text": "11 years"
       },
       "female": {
-        "text": "10 years (2013)"
+        "text": "11 years (2013)"
       }
     },
-    "Child labor - children ages 5-14": {
-      "total number": {
-        "text": "783,113"
+    "Unemployment, youth ages 15-24": {
+      "total": {
+        "text": "4.5%"
       },
-      "percentage": {
-        "text": "35% (2000 est.)"
+      "male": {
+        "text": "3.6%"
+      },
+      "female": {
+        "text": "5.2% (2012 est.)"
       }
     },
     "People - note": {
@@ -361,10 +359,13 @@
       },
       "former": {
         "text": "Ruanda, German East Africa"
+      },
+      "etymology": {
+        "text": "the name translates as \"domain\" in the native Kinyarwanda language"
       }
     },
     "Government type": {
-      "text": "republic; presidential, multiparty system"
+      "text": "presidential republic"
     },
     "Capital": {
       "name": {
@@ -387,13 +388,27 @@
       "text": "Independence Day, 1 July (1962)"
     },
     "Constitution": {
-      "text": "several previous; latest adopted by referendum 26 May 2003, effective 4 June 2003; amended several times, last in 2010 (2015)"
+      "text": "several previous; latest adopted by referendum 26 May 2003, effective 4 June 2003; amended several times, last in 2015 (2016)"
     },
     "Legal system": {
       "text": "mixed legal system of civil law, based on German and Belgian models, and customary law; judicial review of legislative acts in the Supreme Court"
     },
     "International law organization participation": {
       "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "the father must be a citizen of Rwanda; if the father is stateless or unknown, the mother must be a citizen"
+      },
+      "dual citizenship recognized": {
+        "text": "no"
+      },
+      "residency requirement for naturalization": {
+        "text": "10 years"
+      }
     },
     "Suffrage": {
       "text": "18 years of age; universal"
@@ -423,25 +438,25 @@
         "text": "Senate - NA; Chamber of Deputies - last held on 16-18 September 2013 (next to be held in 2018)"
       },
       "election results": {
-        "text": "Chamber of Deputies percent of vote by party - RPF 76.2%, PSD 13%, PL 9.3%, other 1.5%; seats by party - RPF 41, PSD 7, PL 5, 27 members indirectly elected"
+        "text": "Chamber of Deputies percent of vote by party - Rwndan Front Coalition 76.2%, PSD 13%, PL 9.3%, other 1.5%; seats by party - Rwandan Front Coalition 41, PSD 7, PL 5, 27 members indirectly elected"
       }
     },
     "Judicial branch": {
       "highest court(s)": {
-        "text": "Supreme Court (consists of the court president, vice president, and 12 judges; normally organized into 3-judge benches)"
+        "text": "Supreme Court (consists of the chief and deputy chief justices and 15 judges; normally organized into 3-judge panels); High Court (consists of the court president, vice-president, and a minimum of 24 judges and organized into 5 chambers"
       },
       "note": {
-        "text": "the Gacaca Court was established in 2001 by the National Unity Government to try cases of genocide against the Tutsis"
+        "text": "Supreme Court judges nominated by the president of the republic after consultation with the Cabinet and the Superior Council of the Judiciary or SCJ (a 27-member body of judges, other judicial officials, and legal professionals), and approved by the Senate; chief and deputy chief justices appointed for 8-year nonrenewable terms; tenure of judges NA; High Court president and vice-president appointed by the president of the republic upon approval by the Senate; judges appointed by the Supreme Court chief justice upon approval of the SCJ; judge tenure NA"
       },
       "judge selection and term of office": {
-        "text": "judges nominated by the president of the republic after consultation with the Cabinet and the Superior Council of the Judiciary (a 14-member body of judges, other judicial officials, and legal professionals), and approved by the Senate; court president and vice president appointed for 8-year nonrenewable terms; tenure of other judges NA"
+        "text": "High Court of the Republic; commercial courts including the High Commercial Court; intermediate courts; primary courts; Gacaca and military specialized courts"
       },
       "subordinate courts": {
         "text": "High Court of the Republic; commercial courts including the High Commercial Court; intermediate courts; primary courts; Gacaca and military specialized courts"
       }
     },
     "Political parties and leaders": {
-      "text": "Liberal Party or PL [Protais MITALI] ++ Party for Progress and Concord or PPC [Christian MARARA] ++ Rwandan Patriotic Front or RPF [Paul KAGAME] ++ Social Democratic Party or PSD [Vincent BIRUTA]"
+      "text": "Liberal Party or PL [Protais MITALI] ++ Party for Progress and Concord or PPC [Christian MARARA] ++ Rwandan Patriotic Front or RPF [Prosper HIGIRO] ++ Social Democratic Party or PSD [Vincent BIRUTA]"
     },
     "Political pressure groups and leaders": {
       "text": "IBUKA (association of genocide survivors)"
@@ -471,13 +486,13 @@
         "text": "2657 Avenue de la Gendarmerie, Kigali"
       },
       "mailing address": {
-        "text": "B. P. 28, Kigali"
+        "text": "B.P. 28, Kigali"
       },
       "telephone": {
-        "text": "[250] 596-400"
+        "text": "[250] 252 596-400"
       },
       "FAX": {
-        "text": "[250] 596-591"
+        "text": "[250] 252 580 325"
       }
     },
     "Flag description": {
@@ -500,58 +515,58 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Rwanda is a rural country with about 90% of the population engaged in subsistence agriculture and some mineral and agro-processing. Tourism, minerals, coffee and tea are Rwanda's main sources of foreign exchange. The 1994 genocide decimated Rwanda's fragile economic base, severely impoverished the population, particularly women, and temporarily stalled the country's ability to attract private and external investment. However, Rwanda has made substantial progress in stabilizing and rehabilitating its economy to pre-1994 levels. GDP has rebounded with an average annual growth of 7%-8% since 2003 and inflation has been reduced to single digits. Nonetheless, a significant percent of the population still live below the official poverty line; 45% of the population now lives below the poverty line, compared to 57% in 2006. Despite Rwanda's fertile ecosystem, food production often does not keep pace with demand, requiring food imports In recognition of Rwanda's successful management of its macro economy, in 2010, the IMF graduated Rwanda to a Policy Support Instrument (PSI). Africa's most densely populated country is trying to overcome the limitations of its small, landlocked economy by leveraging regional trade; Rwanda joined the East African Community and is aligning its budget, trade, and immigration policies with its regional partners. The government has embraced an expansionary fiscal policy to reduce poverty by improving education, infrastructure, and foreign and domestic investment and pursuing market-oriented reforms. Energy shortages, instability in neighboring states, and lack of adequate transportation linkages to other countries continue to handicap private sector growth. The Rwandan Government is seeking to become regional leader in information and communication technologies. In 2012, Rwanda completed the first modern Special Economic Zone (SEZ) in Kigali. The SEZ seeks to attract investment in all sectors, but specifically in agribusiness, information and communications technologies, trade and logistics, mining, and construction."
+      "text": "Rwanda is a rural country with about 90% of the population engaged in subsistence agriculture and some mineral and agro-processing. Tourism, minerals, coffee and tea are Rwanda's main sources of foreign exchange. Despite Rwanda's fertile ecosystem, food production often does not keep pace with demand, requiring food imports. Energy shortages, instability in neighboring states, and lack of adequate transportation linkages to other countries continue to handicap private sector growth. ++  ++ The 1994 genocide decimated Rwanda's fragile economic base, severely impoverished the population, particularly women, and temporarily stalled the country's ability to attract private and external investment. However, Rwanda has made substantial progress in stabilizing and rehabilitating its economy to pre-1994 levels. GDP has rebounded with an average annual growth of 7%-8% since 2003 and inflation has been reduced to single digits. Nonetheless, in 2015, 39% of the population lived below the poverty line, according to government statistics, compared to 57% in 2006. ++  ++ Africa's most densely populated country is trying to overcome the limitations of its small, landlocked economy by leveraging regional trade; Rwanda joined the East African Community and is aligning its budget, trade, and immigration policies with its regional partners. The government has embraced an expansionary fiscal policy to reduce poverty by improving education, infrastructure, and foreign and domestic investment, and pursuing market-oriented reforms. In recognition of Rwanda's successful management of its macro economy, in 2010, the IMF graduated Rwanda to a Policy Support Instrument. ++  ++ The Rwandan Government is seeking to become a regional leader in information and communication technologies. In 2012, Rwanda completed the first modern Special Economic Zone (SEZ) in Kigali. The SEZ seeks to attract investment in all sectors, but specifically in agribusiness, information and communications, trade and logistics, mining, and construction."
     },
     "GDP (purchasing power parity)": {
-      "text": "$18.9 billion (2014 est.) ++ $17.67 billion (2013 est.) ++ $16.88 billion (2012 est.)",
+      "text": "$20.46 billion (2015 est.) ++ $19.13 billion (2014 est.) ++ $17.89 billion (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$7.897 billion (2014 est.)"
+      "text": "$8.111 billion (2015 est.)"
     },
     "GDP - real growth rate": {
-      "text": "6.9% (2014 est.) ++ 4.7% (2013 est.) ++ 8.8% (2012 est.)"
+      "text": "6.9% (2015 est.) ++ 7% (2014 est.) ++ 4.7% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$1,700 (2014 est.) ++ $1,600 (2013 est.) ++ $1,500 (2012 est.)",
+      "text": "$1,800 (2015 est.) ++ $1,700 (2014 est.) ++ $1,700 (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "Gross national saving": {
-      "text": "14.4% of GDP (2014 est.) ++ 19.1% of GDP (2013 est.) ++ 14.7% of GDP (2012 est.)"
+      "text": "12.8% of GDP (2015 est.) ++ 15.6% of GDP (2014 est.) ++ 19.1% of GDP (2013 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "74.2%"
+        "text": "77.8%"
       },
       "government consumption": {
-        "text": "15.1%"
+        "text": "12.3%"
       },
       "investment in fixed capital": {
-        "text": "25.3%"
+        "text": "25.7%"
       },
       "investment in inventories": {
-        "text": "1%"
+        "text": "0.7%"
       },
       "exports of goods and services": {
-        "text": "14.9%"
+        "text": "14.4%"
       },
       "imports of goods and services": {
-        "text": "-30.5% ++  (2014 est.)"
+        "text": "-30.9% (2015 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "33.1%"
+        "text": "34.6%"
       },
       "industry": {
-        "text": "14.4%"
+        "text": "15.1%"
       },
       "services": {
-        "text": "52.5% (2014 est.)"
+        "text": "50.3% (2015 est.)"
       }
     },
     "Agriculture - products": {
@@ -561,10 +576,10 @@
       "text": "cement, agricultural products, small-scale beverages, soap, furniture, shoes, plastic goods, textiles, cigarettes"
     },
     "Industrial production growth rate": {
-      "text": "5.8% (2014 est.)"
+      "text": "6.5% (2015 est.)"
     },
     "Labor force": {
-      "text": "6.038 million (2014 est.)"
+      "text": "5.852 million (2015 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -578,7 +593,7 @@
       "text": "NA%"
     },
     "Population below poverty line": {
-      "text": "44.9% (2011 est.)"
+      "text": "39.1% (2015 est.)"
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
@@ -593,83 +608,97 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$1.963 billion"
+        "text": "$1.969 billion"
       },
       "expenditures": {
-        "text": "$2.26 billion (2014 est.)"
+        "text": "$2.387 billion (2015 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "24.9% of GDP (2014 est.)"
+      "text": "23.8% of GDP (2015 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-3.8% of GDP (2014 est.)"
+      "text": "-5.1% of GDP (2015 est.)"
     },
     "Public debt": {
-      "text": "30.7% of GDP (2014 est.) ++ 28.4% of GDP (2013 est.)"
+      "text": "33.9% of GDP (2015 est.) ++ 30.7% of GDP (2014 est.)"
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Inflation rate (consumer prices)": {
-      "text": "1.8% (2014 est.) ++ 4.2% (2013 est.)"
+      "text": "2.5% (2015 est.) ++ 1.8% (2014 est.)"
     },
     "Central bank discount rate": {
       "text": "7.75% (31 December 2010) ++ 11.25% (31 December 2008)"
     },
     "Commercial bank prime lending rate": {
-      "text": "17.25% (31 December 2014 est.) ++ 17.3% (31 December 2013 est.)"
+      "text": "17.33% (31 December 2015 est.) ++ 17.26% (31 December 2014 est.)"
     },
     "Stock of narrow money": {
-      "text": "$820.3 million (31 December 2014 est.) ++ $739.5 million (31 December 2013 est.)"
+      "text": "$1.013 billion (31 December 2015 est.) ++ $820.9 million (31 December 2014 est.)"
     },
     "Stock of broad money": {
-      "text": "$1.407 billion (31 December 2014 est.) ++ $1.245 billion (31 December 2013 est.)"
+      "text": "$1.576 billion (31 December 2015 est.) ++ $1.407 billion (31 December 2014 est.)"
     },
     "Stock of domestic credit": {
-      "text": "$1.261 billion (31 December 2014 est.) ++ $846.8 million (31 December 2013 est.)"
+      "text": "$1.337 billion (31 December 2015 est.) ++ $1.261 billion (31 December 2014 est.)"
     },
     "Market value of publicly traded shares": {
       "text": "$NA"
     },
     "Current account balance": {
-      "text": "-$942 million (2014 est.) ++ -$558 million (2013 est.)"
+      "text": "-$1.096 billion (2015 est.) ++ -$833 million (2014 est.)"
     },
     "Exports": {
-      "text": "$719.9 million (2014 est.) ++ $703 million (2013 est.)"
+      "text": "$683.7 million (2015 est.) ++ $723.1 million (2014 est.)"
     },
     "Exports - commodities": {
       "text": "coffee, tea, hides, tin ore"
     },
     "Exports - partners": {
-      "text": "China 18.7%, Democratic Republic of the Congo 16.1%, Malaysia 10.3%, Thailand 8.6%, US 8.2%, Swaziland 6.4%, Germany 5.8%, Pakistan 5% (2014)"
+      "text": "Democratic Republic of the Congo 19.8%, US 10.8%, China 10.3%, Swaziland 7.9%, Malaysia 7%, Pakistan 6.2%, Germany 5.9%, Thailand 5.5% (2015)"
     },
     "Imports": {
-      "text": "$1.984 billion (2014 est.) ++ $1.852 billion (2013 est.)"
+      "text": "$1.917 billion (2015 est.) ++ $1.99 billion (2014 est.)"
     },
     "Imports - commodities": {
       "text": "foodstuffs, machinery and equipment, steel, petroleum products, cement and construction material"
     },
     "Imports - partners": {
-      "text": "Uganda 15.6%, Kenya 11.8%, India 9.8%, China 8.3%, UAE 8.3%, Tanzania 5%, Belgium 5% (2014)"
+      "text": "Uganda 15.7%, Kenya 11.8%, India 8.7%, China 8.7%, UAE 8.6%, Russia 6.6%, Tanzania 5.1% (2015)"
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$1.005 billion (31 December 2014 est.) ++ $1.071 billion (31 December 2013 est.)"
+      "text": "$1.03 billion (31 December 2015 est.) ++ $1.066 billion (31 December 2014 est.)"
     },
     "Debt - external": {
-      "text": "$1.778 billion (31 December 2014 est.) ++ $1.691 billion (31 December 2013 est.)"
+      "text": "$2.178 billion (31 December 2015 est.) ++ $2.022 billion (31 December 2014 est.)"
     },
     "Stock of direct foreign investment - at home": {
-      "text": "$1.016 billion (31 December 2014 est.) ++ $853.9 million (31 December 2013 est.)"
+      "text": "$1.484 billion (31 December 2015 est.) ++ $1.152 billion (31 December 2014 est.)"
     },
     "Stock of direct foreign investment - abroad": {
-      "text": "$12.9 million (31 December 2014 est.) ++ $12.9 million (31 December 2013 est.)"
+      "text": "$25.6 million (31 December 2015 est.) ++ $16.7 million (31 December 2014 est.)"
     },
     "Exchange rates": {
-      "text": "Rwandan francs (RWF) per US dollar - ++ 680.95 (2014 est.) ++ 680.95 (2013 est.) ++ 616.6 (2012 est.) ++ 601.83 (2011 est.) ++ 583.13 (2010 est.)"
+      "text": "Rwandan francs (RWF) per US dollar - ++ 720.54 (2015 est.) ++ 680.95 (2014 est.) ++ 680.95 (2013 est.) ++ 616.6 (2012 est.) ++ 601.83 (2011 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "9,300,000"
+      },
+      "electrification - total population": {
+        "text": "21%"
+      },
+      "electrification - urban areas": {
+        "text": "67%"
+      },
+      "electrification - rural areas": {
+        "text": "5% (2013)"
+      }
+    },
     "Electricity - production": {
       "text": "310.2 million kWh (2012 est.)"
     },
@@ -743,18 +772,18 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "49,600"
+        "text": "16,983"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "less than 1 (2014 est.)"
+        "text": "less than 1 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "7.7 million"
+        "text": "8.76 million"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "63 (2014 est.)"
+        "text": "69 (July 2015 est.)"
       }
     },
     "Telephone system": {
@@ -762,34 +791,45 @@
         "text": "small, inadequate telephone system primarily serves business, education, and government"
       },
       "domestic": {
-        "text": "the capital, Kigali, is connected to provincial centers by microwave radio relay and, recently, by cellular telephone service; much of the network depends on wire and HF radiotelephone; combined fixed-line and mobile-cellular telephone density has increased and now exceeds 40 telephones per 100 persons"
+        "text": "the capital, Kigali, is connected to provincial centers by microwave radio relay and, recently, by cellular telephone service; much of the network depends on wire and HF radiotelephone; combined fixed-line and mobile-cellular telephone density has increased and now exceeds 65 telephones per 100 persons"
       },
       "international": {
-        "text": "country code - 250; international connections employ microwave radio relay to neighboring countries and satellite communications to more distant countries; satellite earth stations - 1 Intelsat (Indian Ocean) in Kigali (includes telex and telefax service) (2010)"
+        "text": "country code - 250; international connections employ microwave radio relay to neighboring countries and satellite communications to more distant countries; satellite earth stations - 1 Intelsat (Indian Ocean) in Kigali (includes telex and telefax service) (2015)"
       }
     },
     "Broadcast media": {
       "text": "government owns and operates the only TV station; government-owned and operated Radio Rwanda has a national reach; 9 private radio stations; transmissions of multiple international broadcasters are available (2007)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM 0, FM 10 (two main FM programs are broadcast through a system of repeaters; international FM programming includes the BBC, VOA, and Deutchewelle) (2007)"
-    },
-    "Television broadcast stations": {
-      "text": "2 (2004)"
     },
     "Internet country code": {
       "text": ".rw"
     },
     "Internet users": {
       "total": {
-        "text": "1.1 million"
+        "text": "2.279 million"
       },
       "percent of population": {
-        "text": "9.2% (2014 est.)"
+        "text": "18% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "1"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "9"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "645,815"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "21,382,897 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "9XR (2016)"
+    },
     "Airports": {
       "text": "7 (2013)"
     },
@@ -815,7 +855,7 @@
         "text": "2"
       },
       "under 914 m": {
-        "text": " ++ 1 (2013)"
+        "text": "1 (2013)"
       }
     },
     "Roadways": {
@@ -838,36 +878,12 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "Rwanda Defense Force (RDF): Rwanda Army (Rwanda Land Force), Rwanda Air Force (Force Aerienne Rwandaise, FAR) (2013)"
     },
     "Military service age and obligation": {
       "text": "18 years of age for voluntary military service; no conscription; Rwandan citizenship is required, as is a 9th-grade education for enlisted recruits and an A-level certificate for officer candidates; enlistment is either as contract (5-years, renewable twice) or career; retirement (for officers and senior NCOs) after 20 years of service or at 40-60 years of age (2012)"
-    },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "2,625,917"
-      },
-      "females age 16-49": {
-        "text": "2,608,110 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "1,685,066"
-      },
-      "females age 16-49": {
-        "text": "1,749,580 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "110,736"
-      },
-      "female": {
-        "text": "110,328 (2010 est.)"
-      }
     },
     "Military expenditures": {
       "text": "1.12% of GDP (2012) ++ 1.19% of GDP (2011) ++ 1.12% of GDP (2010)"
@@ -878,19 +894,11 @@
       "text": "Burundi and Rwanda dispute two sq km (0.8 sq mi) of Sabanerwa, a farmed area in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965; fighting among ethnic groups - loosely associated political rebels, armed gangs, and various government forces in Great Lakes region transcending the boundaries of Burundi, Democratic Republic of the Congo (DROC), Rwanda, and Uganda - abated substantially from a decade ago due largely to UN peacekeeping, international mediation, and efforts by local governments to create civil societies; nonetheless, 57,000 Rwandan refugees still reside in 21 African states, including Zambia, Gabon, and 20,000 who fled to Burundi in 2005 and 2006 to escape drought and recriminations from traditional courts investigating the 1994 massacres; the 2005 DROC and Rwanda border verification mechanism to stem rebel actions on both sides of the border remains in place"
     },
     "Refugees and internally displaced persons": {
-      "70179refugees (country of origin)": {
-        "text": "74,054 (Democratic Republic of the Congo); 71,223 (Burundi) (2015)"
+      "refugees (country of origin)": {
+        "text": "81,310 (Burundi); 73,207 (Democratic Republic of the Congo) (2016)"
       },
       "IDPs": {
         "text": "undetermined (fighting between government and insurgency in 1998-99; returning refugees) (2012)"
-      }
-    },
-    "Trafficking in persons": {
-      "current situation": {
-        "text": "Rwanda is a source and, to a lesser extent, transit and destination country for women and children subjected to forced labor and sex trafficking; Rwandan girls and, to a lesser extent, boys are exploited in domestic servitude within the country; Rwandan adults and children are forced to work in agriculture, industry, domestic servitude, and prostitution in Kenya, Uganda, the Democratic Republic of the Congo, Tanzania, Burundi, Zambia, South Africa, UAE, Malaysia, China, the US, and Europe; women and children from neighboring countries and Somalia are subjected to prostitution and forced labor in Rwanda; until its defeat in late 2013, M23, an armed group operating in the Democratic Republic of the Congo, recruited men and children with the support of some Rwandan officials"
-      },
-      "tier rating": {
-        "text": "Tier 2 Watch List – Rwanda does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; in 2013, the government maintained strong efforts to investigate and prosecute some trafficking crimes but convicted no offenders and remained complicit in human trafficking crimes through its support of M23; the government opened five additional centers for assisting victims of gender-based violence and provided financial support to private and NGO-run child rehabilitation centers (2014)"
       }
     }
   }

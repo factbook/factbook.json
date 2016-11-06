@@ -59,12 +59,12 @@
     "Terrain": {
       "text": "coastal plains separated by rugged mountains including over 100 volcanic cones, of which several are major active volcanoes"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Pacific Ocean 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "746 m"
       },
-      "highest point": {
-        "text": "Cerro Chirripo 3,810 m"
+      "elevation extremes": {
+        "text": "lowest point: Pacific Ocean 0 m ++ highest point: Cerro Chirripo 3,810 m"
       }
     },
     "Natural resources": {
@@ -82,18 +82,10 @@
       }
     },
     "Irrigated land": {
-      "text": "1,031 sq km (2003)"
+      "text": "1,015 sq km (2012)"
     },
-    "Total renewable water resources": {
-      "text": "112.4 cu km (2011)"
-    },
-    "Freshwater withdrawal (domestic/industrial/agricultural)": {
-      "total": {
-        "text": "5.77  cu km/yr (15%/9%/77%)"
-      },
-      "per capita": {
-        "text": "1,582  cu m/yr (2006)"
-      }
+    "Population - distribution": {
+      "text": "roughly half of the nation's population resides in urban areas; the capital of San Jose is the largest city and home to approximately one-fifth of the population"
     },
     "Natural hazards": {
       "text": "occasional earthquakes, hurricanes along Atlantic coast; frequent flooding of lowlands at onset of rainy season and landslides; active volcanoes",
@@ -117,6 +109,9 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "4,872,543 (July 2016 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "Costa Rican(s)"
@@ -132,32 +127,26 @@
       "text": "Spanish (official), English"
     },
     "Religions": {
-      "text": "Roman Catholic 76.3%, Evangelical 13.7%, Jehovah's Witnesses 1.3%, other Protestant 0.7%, other 4.8%, none 3.2%"
+      "text": "Roman Catholic 76.3%, Evangelical 13.7%, Jehovah's Witness 1.3%, other Protestant 0.7%, other 4.8%, none 3.2%"
     },
     "Demographic profile": {
       "text": "Costa Rica's political stability, high standard of living, and well-developed social benefits system set it apart from its Central American neighbors. Through the government's sustained social spending - almost 20% of GDP annually - Costa Rica has made tremendous progress toward achieving its goal of providing universal access to education, healthcare, clean water, sanitation, and electricity. Since the 1970s, expansion of these services has led to a rapid decline in infant mortality, an increase in life expectancy at birth, and a sharp decrease in the birth rate. The average number of children born per women has fallen from about 7 in the 1960s to 3.5 in the early 1980s to below replacement level today. Costa Rica's poverty rate is lower than in most Latin American countries, but it has stalled at around 20% for almost two decades. Costa Rica is a popular regional immigration destination because of its job opportunities and social programs. Almost 9% of the population is foreign-born, with Nicaraguans comprising nearly three-quarters of the foreign population. Many Nicaraguans who perform unskilled seasonal labor enter Costa Rica illegally or overstay their visas, which continues to be a source of tension. Less than 3% of Costa Rica's population lives abroad. The overwhelming majority of expatriates have settled in the United States after completing a university degree or in order to work in a highly skilled field."
     },
-    "Population": {
-      "text": "4,814,144 (July 2015 est.)"
-    },
     "Age structure": {
       "0-14 years": {
-        "text": "23.12% (male 569,181/female 543,835)"
+        "text": "22.82% (male 568,738/female 543,312)"
       },
       "15-24 years": {
-        "text": "17.1% (male 419,712/female 403,668)"
+        "text": "16.75% (male 416,046/female 399,931)"
       },
       "25-54 years": {
-        "text": "43.9% (male 1,062,378/female 1,051,058)"
+        "text": "43.99% (male 1,078,000/female 1,065,327)"
       },
       "55-64 years": {
-        "text": "8.6% (male 202,401/female 211,709)"
+        "text": "8.9% (male 211,670/female 222,183)"
       },
       "65 years and over": {
-        "text": "7.27% (male 161,831/female 188,371) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "7.54% (male 169,646/female 197,690) (2016 est.)"
       }
     },
     "Dependency ratios": {
@@ -176,26 +165,29 @@
     },
     "Median age": {
       "total": {
-        "text": "30.4 years"
+        "text": "30.9 years"
       },
       "male": {
-        "text": "30 years"
+        "text": "30.4 years"
       },
       "female": {
-        "text": "30.9 years (2015 est.)"
+        "text": "31.3 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "1.22% (2015 est.)"
+      "text": "1.19% (2016 est.)"
     },
     "Birth rate": {
-      "text": "15.91 births/1,000 population (2015 est.)"
+      "text": "15.7 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "4.55 deaths/1,000 population (2015 est.)"
+      "text": "4.6 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "0.83 migrant(s)/1,000 population (2015 est.)"
+      "text": "0.8 migrant(s)/1,000 population (2016 est.)"
+    },
+    "Population distribution": {
+      "text": "roughly half of the nation's population resides in urban areas; the capital of San Jose is the largest city and home to approximately one-fifth of the population"
     },
     "Urbanization": {
       "urban population": {
@@ -222,13 +214,13 @@
         "text": "1.01 male(s)/female"
       },
       "55-64 years": {
-        "text": "0.96 male(s)/female"
+        "text": "0.95 male(s)/female"
       },
       "65 years and over": {
         "text": "0.86 male(s)/female"
       },
       "total population": {
-        "text": "1.01 male(s)/female (2015 est.)"
+        "text": "1.01 male(s)/female (2016 est.)"
       }
     },
     "Maternal mortality rate": {
@@ -236,34 +228,34 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "8.46 deaths/1,000 live births"
+        "text": "8.3 deaths/1,000 live births"
       },
       "male": {
-        "text": "9.25 deaths/1,000 live births"
+        "text": "9 deaths/1,000 live births"
       },
       "female": {
-        "text": "7.64 deaths/1,000 live births (2015 est.)"
+        "text": "7.4 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "78.4 years"
+        "text": "78.6 years"
       },
       "male": {
-        "text": "75.75 years"
+        "text": "75.9 years"
       },
       "female": {
-        "text": "81.19 years (2015 est.)"
+        "text": "81.4 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "1.9 children born/woman (2015 est.)"
+      "text": "1.9 children born/woman (2016 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "76.2% (2011)"
     },
     "Health expenditures": {
-      "text": "9.9% of GDP (2013)"
+      "text": "9.3% of GDP (2014)"
     },
     "Physicians density": {
       "text": "1.11 physicians/1,000 population (2013)"
@@ -288,13 +280,13 @@
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "0.26% (2014 est.)"
+      "text": "0.33% (2015 est.)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
-      "text": "8,800 (2014 est.)"
+      "text": "10,000 (2015 est.)"
     },
     "HIV/AIDS - deaths": {
-      "text": "200 (2014 est.)"
+      "text": "200 (2015 est.)"
     },
     "Major infectious diseases": {
       "degree of risk": {
@@ -304,7 +296,10 @@
         "text": "bacterial diarrhea"
       },
       "vectorborne diseases": {
-        "text": "dengue fever (2013)"
+        "text": "dengue fever"
+      },
+      "note": {
+        "text": "active local transmission of Zika virus by Aedes species mosquitoes has been identified in this country (as of August 2016); it poses an important risk (a large number of cases possible) among US citizens if bitten by an infective mosquito; other less common ways to get Zika are through sex, via blood transfusion, or during pregnancy, in which the pregnant woman passes Zika virus to her fetus (2016)"
       }
     },
     "Obesity - adult prevalence rate": {
@@ -314,7 +309,7 @@
       "text": "1.1% (2009)"
     },
     "Education expenditures": {
-      "text": "6.9% of GDP (2013)"
+      "text": "7% of GDP (2014)"
     },
     "Literacy": {
       "definition": {
@@ -332,13 +327,13 @@
     },
     "School life expectancy (primary to tertiary education)": {
       "total": {
-        "text": "14 years"
+        "text": "15 years"
       },
       "male": {
-        "text": "13 years"
+        "text": "15 years"
       },
       "female": {
-        "text": "14 years (2013)"
+        "text": "16 years (2014)"
       }
     },
     "Child labor - children ages 5-14": {
@@ -351,13 +346,13 @@
     },
     "Unemployment, youth ages 15-24": {
       "total": {
-        "text": "18.4%"
+        "text": "25%"
       },
       "male": {
-        "text": "15%"
+        "text": "21.3%"
       },
       "female": {
-        "text": "24.2% (2012 est.)"
+        "text": "31.4% (2014 est.)"
       }
     }
   },
@@ -374,10 +369,13 @@
       },
       "local short form": {
         "text": "Costa Rica"
+      },
+      "etymology": {
+        "text": "the name means \"rich coast\" in Spanish and was first applied in the early colonial period of the 16th century"
       }
     },
     "Government type": {
-      "text": "democratic republic"
+      "text": "presidential republic"
     },
     "Capital": {
       "name": {
@@ -400,7 +398,7 @@
       "text": "Independence Day, 15 September (1821)"
     },
     "Constitution": {
-      "text": "previous 1825; latest effective 8 November 1949; amended many times, last in 2015 (2015)"
+      "text": "previous 1825; latest effective 8 November 1949; amended many times, last in 2015 (2016)"
     },
     "Legal system": {
       "text": "civil law system based on Spanish civil code; judicial review of legislative acts in the Supreme Court"
@@ -409,7 +407,10 @@
       "text": "accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction"
     },
     "Citizenship": {
-      "birthright citizenship": {
+      "citizenship by birth": {
+        "text": "yes"
+      },
+      "citizenship by descent": {
         "text": "yes"
       },
       "dual citizenship recognized": {
@@ -427,7 +428,7 @@
         "text": "President Luis Guillermo SOLIS Rivera (since 8 May 2014); First Vice President Helio FALLAS Venega (since 8 May 2014); Second Vice President Ana Helena CHACON Echeverria (since 8 May 2014); note - the president is both chief of state and head of government"
       },
       "head of government": {
-        "text": "President Luis Guillermo SOLIS Rivera (since 8 May 2014); First Vice President Helio FALLAS Venega (since 8 May 2014); Second Vice President Ana Helena CHACON Echeverria (since 8 May 2014)"
+        "text": "President Luis Guillermo SOLIS Rivera (since 8 May 2014); First Vice President Helio FALLAS Venegas (since 8 May 2014); Second Vice President Ana Helena CHACON Echeverria (since 8 May 2014)"
       },
       "cabinet": {
         "text": "Cabinet selected by the president"
@@ -458,7 +459,7 @@
         "text": "Supreme Court of Justice judges elected by the National Assembly for 8-year terms with renewal decided by the National Assembly"
       },
       "subordinate courts": {
-        "text": "appellate courts; first instance and justice of the peace courts; Superior Electoral Tribunal"
+        "text": "appellate courts; trial courts; first instance and justice of the peace courts; Superior Electoral Tribunal"
       }
     },
     "Political parties and leaders": {
@@ -484,7 +485,7 @@
         "text": "[1] (202) 265-4795"
       },
       "consulate(s) general": {
-        "text": "Atlanta, Chicago, Houston, Los Angeles, Miami, New Orleans, New York, San Francisco, San Juan (Puerto Rico), Tampa (FL), Washington DC; note - honorary consulates: Boston, Dallas, Denver, Tucson (AZ)"
+        "text": "Atlanta, Chicago, Houston, Los Angeles, Miami, New Orleans, New York, San Juan (Puerto Rico), Tampa (FL), Washington DC"
       },
       "consulate(s)": {
         "text": "San Francisco"
@@ -492,7 +493,7 @@
     },
     "Diplomatic representation from the US": {
       "chief of mission": {
-        "text": "Ambassador (vacant); Charge d'Affaires Gonzalo GALLEGOS (since July 2013)"
+        "text": "Ambassador Stafford Fitzgerald HANEY (since 30 June 2015)"
       },
       "embassy": {
         "text": "Calle 98 Via 104, Pavas, San Jose"
@@ -524,64 +525,64 @@
         "text": "Jose Maria ZELEDON Brenes/Manuel Maria GUTIERREZ"
       },
       "note": {
-        "text": "adopted 1949; the anthem's music was originally written for an 1853 welcome ceremony for diplomatic missions from the United States and United Kingdom; the lyrics were added in 1903"
+        "text": "adopted 1949; the anthem's music was originally written for an 1853 welcome ceremony for diplomatic missions from the US and UK; the lyrics were added in 1903"
       }
     }
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Prior to the global economic crisis, Costa Rica enjoyed stable economic growth. The economy contracted 1.3% in 2009 but resumed growth at about 4% per year in 2010-14. While the traditional agricultural exports of bananas, coffee, sugar, and beef are still the backbone of commodity export trade, a variety of industrial and specialized agricultural products have broadened export trade in recent years. High value-added goods and services, including medical devices, have further bolstered exports. Tourism continues to bring in foreign exchange, as Costa Rica's impressive biodiversity makes it a key destination for ecotourism. Foreign investors remain attracted by the country's political stability and relatively high education levels, as well as the incentives offered in the free-trade zones; and Costa Rica has attracted one of the highest levels of foreign direct investment per capita in Latin America. However, poor infrastructure, high energy costs, bureaucracy, weak investor protection, and legal uncertainty due to difficulty of enforcing contracts and overlapping and at times conflicting responsibilities between agencies, remain impediments to greater competitiveness. Costa Rica’s economy also faces challenges due to a rising fiscal deficit, rising public debt, and relatively low levels of domestic revenue. Poverty has remained around 20-25% for nearly 20 years, and the strong social safety net that had been put into place by the government has eroded due to increased financial constraints on government expenditures. Unlike the rest of Central America, Costa Rica is not highly dependent on remittances, which in 2013 represented 1.1% of GDP. Immigration from Nicaragua has increasingly become a concern for the government. ++ The estimated 300,000-500,000 Nicaraguans in Costa Rica, legally and illegally, are an important source of mostly unskilled labor, but also place heavy demands on the social welfare system. The US-Central American-Dominican Republic Free Trade Agreement (CAFTA-DR) entered into force on 1 January 2009 after significant delays within the Costa Rican legislature. CAFTA-DR has increased foreign direct investment in key sectors of the economy, including the insurance and telecommunications sectors recently opened to private investors."
+      "text": "Prior to the global economic crisis, Costa Rica enjoyed stable economic growth. The economy contracted in 2009 but resumed growth at about 4% per year in 2010-15. While traditional agricultural exports of bananas, coffee, sugar, and beef are still the backbone of commodity export trade, a variety of industrial and specialized agricultural products have broadened export trade in recent years. High value-added goods and services, including medical devices, have further bolstered exports. Tourism continues to bring in foreign exchange, as Costa Rica's impressive biodiversity makes it a key destination for ecotourism. ++  ++ Foreign investors remain attracted by the country's political stability and relatively high education levels, as well as the incentives offered in the free-trade zones; Costa Rica has attracted one of the highest levels of foreign direct investment per capita in Latin America. The US-Central American-Dominican Republic Free Trade Agreement (CAFTA-DR) entered into force on 1 January 2009 after significant delays within the Costa Rican legislature. CAFTA-DR has increased foreign direct investment in key sectors of the economy, including the insurance and telecommunications sectors. However, poor infrastructure, high energy costs, bureaucracy, weak investor protection, and legal uncertainty due to the difficulty of enforcing contracts and overlapping and at times conflicting responsibilities between agencies, remain impediments to greater competitiveness. ++  ++ Costa Rica’s economy also faces challenges due to a rising fiscal deficit, rising public debt, and relatively low levels of domestic revenue. Poverty has remained around 20-25% for nearly 20 years, and the strong social safety net that had been put into place by the government has eroded due to increased financial constraints on government expenditures. Unlike the rest of Central America, Costa Rica is not highly dependent on remittances, which in 2014 represented 1% of GDP. Immigration from Nicaragua has increasingly become a concern for the government. The estimated 300,000-500,000 Nicaraguans in Costa Rica, legally and illegally, are an important source of mostly unskilled labor, but also place heavy demands on the social welfare system."
     },
     "GDP (purchasing power parity)": {
-      "text": "$71.23 billion (2014 est.) ++ $68.82 billion (2013 est.) ++ $66.54 billion (2012 est.)",
+      "text": "$75.04 billion (2015 est.) ++ $72.38 billion (2014 est.) ++ $70.3 billion (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$49.55 billion (2014 est.)"
+      "text": "$52.9 billion (2015 est.)"
     },
     "GDP - real growth rate": {
-      "text": "3.5% (2014 est.) ++ 3.4% (2013 est.) ++ 5.2% (2012 est.)"
+      "text": "3.7% (2015 est.) ++ 3% (2014 est.) ++ 1.8% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$14,900 (2014 est.) ++ $14,400 (2013 est.) ++ $13,900 (2012 est.)",
+      "text": "$15,500 (2015 est.) ++ $15,100 (2014 est.) ++ $14,900 (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "Gross national saving": {
-      "text": "14.4% of GDP (2014 est.) ++ 15.5% of GDP (2013 est.) ++ 16.6% of GDP (2012 est.)"
+      "text": "15.1% of GDP (2015 est.) ++ 14.9% of GDP (2014 est.) ++ 13.8% of GDP (2013 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "65.1%"
+        "text": "64.9%"
       },
       "government consumption": {
-        "text": "17.8%"
+        "text": "18.1%"
       },
       "investment in fixed capital": {
-        "text": "21.8%"
+        "text": "22.5%"
       },
       "investment in inventories": {
-        "text": "-2.6%"
+        "text": "-3.5%"
       },
       "exports of goods and services": {
-        "text": "35.1%"
+        "text": "30.9%"
       },
       "imports of goods and services": {
-        "text": "-37.2% ++  (2014 est.)"
+        "text": "-32.9% (2015 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "6%"
+        "text": "5.6%"
       },
       "industry": {
-        "text": "20.1%"
+        "text": "19.2%"
       },
       "services": {
-        "text": "73.9% (2014 est.)"
+        "text": "75.2% (2015 est.)"
       }
     },
     "Agriculture - products": {
@@ -591,12 +592,12 @@
       "text": "medical equipment, food processing, textiles and clothing, construction materials, fertilizer, plastic products"
     },
     "Industrial production growth rate": {
-      "text": "2.4% (2014 est.)"
+      "text": "1% (2015 est.)"
     },
     "Labor force": {
-      "text": "2.242 million",
+      "text": "2.268 million",
       "note": {
-        "text": "this official estimate excludes Nicaraguans living in Costa Rica (2014 est.)"
+        "text": "official estimate; excludes Nicaraguans living in Costa Rica (2015 est.)"
       }
     },
     "Labor force - by occupation": {
@@ -611,7 +612,7 @@
       }
     },
     "Unemployment rate": {
-      "text": "8.6% (2014 est.) ++ 8.5% (2013 est.)"
+      "text": "9.4% (2015 est.) ++ 9.6% (2014 est.)"
     },
     "Population below poverty line": {
       "text": "24.8% (2011 est.)"
@@ -629,83 +630,97 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$7.055 billion"
+        "text": "$7.813 billion"
       },
       "expenditures": {
-        "text": "$9.893 billion (2014 est.)"
+        "text": "$10.93 billion (2015 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "14.2% of GDP (2014 est.)"
+      "text": "14.8% of GDP (2015 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-5.7% of GDP (2014 est.)"
+      "text": "-5.9% of GDP (2015 est.)"
     },
     "Public debt": {
-      "text": "56.8% of GDP (2014 est.) ++ 55.2% of GDP (2013 est.)"
+      "text": "60.2% of GDP (2015 est.) ++ 56.8% of GDP (2014 est.)"
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Inflation rate (consumer prices)": {
-      "text": "4.5% (2014 est.) ++ 5.2% (2013 est.)"
+      "text": "0.8% (2015 est.) ++ 4.5% (2014 est.)"
     },
     "Central bank discount rate": {
       "text": "21.5% (31 December 2010) ++ 23% (31 December 2009)"
     },
     "Commercial bank prime lending rate": {
-      "text": "14.9% (31 December 2014 est.) ++ 15.19% (31 December 2013 est.)"
+      "text": "14.24% (31 December 2015 est.) ++ 14.9% (31 December 2014 est.)"
     },
     "Stock of narrow money": {
-      "text": "$4.643 billion (31 December 2014 est.) ++ $4.599 billion (31 December 2013 est.)"
+      "text": "$5.273 billion (31 December 2015 est.) ++ $4.643 billion (31 December 2014 est.)"
     },
     "Stock of broad money": {
-      "text": "$18 billion (31 December 2014 est.) ++ $17.15 billion (31 December 2013 est.)"
+      "text": "$21.55 billion (31 December 2015 est.) ++ $18 billion (31 December 2014 est.)"
     },
     "Stock of domestic credit": {
-      "text": "$27.25 billion (31 December 2014 est.) ++ $24.94 billion (31 December 2013 est.)"
+      "text": "$30.53 billion (31 December 2015 est.) ++ $27.25 billion (31 December 2014 est.)"
     },
     "Market value of publicly traded shares": {
-      "text": "$2.015 billion (31 December 2012 est.) ++ $1.443 billion (31 December 2011) ++ $1.445 billion (31 December 2010 est.)"
+      "text": "$2.015 billion (31 December 2012 est.) ++ $1.443 billion (31 December 2011 est.) ++ $1.445 billion (31 December 2010 est.)"
     },
     "Current account balance": {
-      "text": "-$2.429 billion (2014 est.) ++ -$2.486 billion (2013 est.)"
+      "text": "-$2.093 billion (2015 est.) ++ -$2.34 billion (2014 est.)"
     },
     "Exports": {
-      "text": "$11.14 billion (2014 est.) ++ $11.55 billion (2013 est.)"
+      "text": "$9.503 billion (2015 est.) ++ $9.271 billion (2014 est.)"
     },
     "Exports - commodities": {
       "text": "bananas, pineapples, coffee, melons, ornamental plants, sugar; beef; seafood; electronic components, medical equipment"
     },
     "Exports - partners": {
-      "text": "US 38.4%, Netherlands 6.2%, Panama 5.3%, Nicaragua 4.4%, Guatemala 4.1% (2014)"
+      "text": "US 33.6%, China 6.2%, Mexico 4.6%, Nicaragua 4.3%, Netherlands 4.2%, Guatemala 4% (2015)"
     },
     "Imports": {
-      "text": "$16.35 billion (2014 est.) ++ $17.18 billion (2013 est.)"
+      "text": "$14.38 billion (2015 est.) ++ $14.84 billion (2014 est.)"
     },
     "Imports - commodities": {
       "text": "raw materials, consumer goods, capital equipment, petroleum, construction materials"
     },
     "Imports - partners": {
-      "text": "US 44.4%, China 10%, Mexico 6.7% (2014)"
+      "text": "US 45.3%, China 9.8%, Mexico 7.1% (2015)"
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$7.211 billion (31 December 2014 est.) ++ $7.331 billion (31 December 2013 est.)"
+      "text": "$7.834 billion (31 December 2015 est.) ++ $7.211 billion (31 December 2014 est.)"
     },
     "Debt - external": {
-      "text": "$18.94 billion (31 December 2014 est.) ++ $17.44 billion (31 December 2013 est.)"
+      "text": "$23.18 billion (31 December 2015 est.) ++ $20.97 billion (31 December 2014 est.)"
     },
     "Stock of direct foreign investment - at home": {
-      "text": "$24.66 billion (31 December 2014 est.) ++ $22.32 billion (31 December 2013 est.)"
+      "text": "$28.75 billion (31 December 2015 est.) ++ $25.66 billion (31 December 2014 est.)"
     },
     "Stock of direct foreign investment - abroad": {
-      "text": "$2.799 billion (31 December 2014 est.) ++ $2.292 billion (31 December 2013 est.)"
+      "text": "$3.154 billion (31 December 2015 est.) ++ $2.768 billion (31 December 2014 est.)"
     },
     "Exchange rates": {
-      "text": "Costa Rican colones (CRC) per US dollar - ++ 538.32 (2014 est.) ++ 538.32 (2013 est.) ++ 502.9 (2012 est.) ++ 505.66 (2011 est.) ++ 525.83 (2010 est.)"
+      "text": "Costa Rican colones (CRC) per US dollar - ++ 534.57 (2015 est.) ++ 538.32 (2014 est.) ++ 538.32 (2013 est.) ++ 502.9 (2012 est.) ++ 505.66 (2011 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "24,362"
+      },
+      "electrification - total population": {
+        "text": "99.5%"
+      },
+      "electrification - urban areas": {
+        "text": "99.9%"
+      },
+      "electrification - rural areas": {
+        "text": "98.3% (2013)"
+      }
+    },
     "Electricity - production": {
       "text": "10.05 billion kWh (2012 est.)"
     },
@@ -779,53 +794,64 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "880,000"
+        "text": "859,514"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "19 (2014 est.)"
+        "text": "18 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "7.1 million"
+        "text": "7.536 million"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "149 (2014 est.)"
+        "text": "157 (July 2015 est.)"
       }
     },
     "Telephone system": {
       "general assessment": {
-        "text": "good domestic telephone service in terms of breadth of coverage; under the terms of CAFTA-DR, the state-run telecommunications monopoly is scheduled to be opened to competition from domestic and international firms, but has been slow to open to competition"
+        "text": "good domestic telephone service in terms of breadth of coverage"
       },
       "domestic": {
         "text": "point-to-point and point-to-multi-point microwave, fiber-optic, and coaxial cable link rural areas; Internet service is available"
       },
       "international": {
-        "text": "country code - 506; landing points for the Americas Region Caribbean Ring System (ARCOS-1), MAYA-1, and the Pan American Crossing submarine cables that provide links to South and Central America, parts of the Caribbean, and the US; connected to Central American Microwave System; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2011)"
+        "text": "country code - 506; landing points for the Americas Region Caribbean Ring System (ARCOS-1), MAYA-1, and the Pan American Crossing submarine cables that provide links to South and Central America, parts of the Caribbean, and the US; connected to Central American Microwave System; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2015)"
       }
     },
     "Broadcast media": {
       "text": "multiple privately owned TV stations and 1 publicly owned TV station; cable network services are widely available; more than 100 privately owned radio stations and a public radio network (2007)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM 65, FM 51, shortwave 19 (2002)"
-    },
-    "Television broadcast stations": {
-      "text": "20 (plus 43 repeaters) (2002)"
     },
     "Internet country code": {
       "text": ".cr"
     },
     "Internet users": {
       "total": {
-        "text": "2.4 million"
+        "text": "2.877 million"
       },
       "percent of population": {
-        "text": "50.9% (2014 est.)"
+        "text": "59.8% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "1"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "39"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "1,617,075"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "9,284,160 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "TI (2016)"
+    },
     "Airports": {
       "text": "161 (2013)"
     },
@@ -854,7 +880,7 @@
         "text": "18"
       },
       "under 914 m": {
-        "text": " ++ 96 (2013)"
+        "text": "96 (2013)"
       }
     },
     "Pipelines": {
@@ -899,33 +925,9 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "no regular military forces; Ministry of Public Security, Government, and Police (2011)"
-    },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "1,255,798"
-      },
-      "females age 16-49": {
-        "text": "1,230,202 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "1,058,419"
-      },
-      "females age 16-49": {
-        "text": "1,037,053 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "42,201"
-      },
-      "female": {
-        "text": "40,444 (2010 est.)"
-      }
     }
   },
   "Transnational Issues": {
@@ -933,11 +935,16 @@
       "text": "Costa Rica and Nicaragua regularly file border dispute cases over the delimitations of the San Juan River and the northern tip of Calero Island to the International Court of Justice (ICJ); in 2009, the ICJ ruled that Costa Rican vessels carrying out police activities could not use the river, but official Costa Rican vessels providing essential services to riverside inhabitants and Costa Rican tourists could travel freely on the river; in 2011, the ICJ provisionally ruled that both countries must remove personnel from the disputed area; in 2013, the ICJ rejected Nicaragua's 2012 suit to halt Costa Rica's construction of a highway paralleling the river on the grounds of irreparable environmental damage; in 2013, the ICJ, regarding the disputed territory, ordered that Nicaragua should refrain from dredging or canal construction and refill and repair damage caused by trenches connecting the river to the Caribbean and upheld its 2010 ruling that Nicaragua must remove all personnel; in early 2014, Costa Rica brought Nicaragua to the ICJ over offshore oil concessions in the disputed region"
     },
     "Refugees and internally displaced persons": {
-      "refugees (country of origin)": {
-        "text": "16,623 (Colombia) (2014)"
-      },
       "stateless persons": {
-        "text": "1,200 (2014)"
+        "text": "1,806 (2015)"
+      }
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "Costa Rica is a source, transit, and destination country for men, women, and children subjected to sex trafficking and forced labor; Costa Rican women and children, as well as those from Nicaragua, the Dominican Republic, and other Latin American countries, are sex trafficked in Costa Rica; child sex tourism is a particular problem with offenders coming from the US and Europe; men and children from Central America, including indigenous Panamanians, and Asia are exploited in agriculture, construction, fishing, and commerce; Nicaraguans transit Costa Rica to reach Panama, where some are subjected to forced labor or sex trafficking"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch List – Costa Rica does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; anti-trafficking law enforcement efforts declined in 2014, with fewer prosecutions and no convictions and no actions taken against complicit government personnel; some officials conflated trafficking with smuggling, and authorities reported the diversion of funds to combat smuggling hindered anti-trafficking efforts; the government identified more victims than the previous year but did not make progress in ensuring that victims received adequate protective services; specialized services were limited and mostly provided by NGOs without government support, even from a dedicated fund for anti-trafficking efforts; victims services were virtually non-existent outside of the capital (2015)"
       }
     },
     "Illicit drugs": {

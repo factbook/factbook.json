@@ -54,12 +54,12 @@
     "Terrain": {
       "text": "rocky, hilly, mountainous with some boggy, undulating plains"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Atlantic Ocean 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "NA"
       },
-      "highest point": {
-        "text": "Mount Usborne 705 m"
+      "elevation extremes": {
+        "text": "lowest point: Atlantic Ocean 0 m ++ highest point: Mount Usborne 705 m"
       }
     },
     "Natural resources": {
@@ -79,6 +79,9 @@
     "Irrigated land": {
       "text": "NA"
     },
+    "Population - distribution": {
+      "text": "a very small population, with most residents living in and around Stanley"
+    },
     "Natural hazards": {
       "text": "strong winds persist throughout the year"
     },
@@ -90,6 +93,9 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "2,931 (2014 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "Falkland Islander(s)"
@@ -107,9 +113,6 @@
     "Religions": {
       "text": "Christian 66%, none 32%, other 2% (2012 est.)"
     },
-    "Population": {
-      "text": "3,361 (July 2014 est.)"
-    },
     "Population growth rate": {
       "text": "0.01% (2014 est.)"
     },
@@ -121,6 +124,9 @@
     },
     "Net migration rate": {
       "text": "NA"
+    },
+    "Population distribution": {
+      "text": "a very small population, with most residents living in and around Stanley"
     },
     "Urbanization": {
       "urban population": {
@@ -183,13 +189,16 @@
       },
       "conventional short form": {
         "text": "Falkland Islands (Islas Malvinas)"
+      },
+      "etymology": {
+        "text": "the archipelago takes its name from the Falkland Sound, the strait separating the two main islands; the channel itself was named after the Viscount of Falkland who sponsored an expedition to the islands in 1690; the Spanish name for the archipelago derives from the French \"Iles Malouines,\" the name applied to the islands by French explorer Louis-Antoine de BOUGAINVILLE in 1764"
       }
     },
     "Dependency status": {
       "text": "overseas territory of the UK; also claimed by Argentina"
     },
     "Government type": {
-      "text": "NA"
+      "text": "parliamentary democracy (Legislative Assembly); self-governing overseas territory of the UK"
     },
     "Capital": {
       "name": {
@@ -212,10 +221,13 @@
       "text": "Liberation Day, 14 June (1982)"
     },
     "Constitution": {
-      "text": "previous 1985; latest entered into force 1 January 2009 (2015)"
+      "text": "previous 1985; latest entered into force 1 January 2009 (2016)"
     },
     "Legal system": {
       "text": "English common law and local statutes"
+    },
+    "Citizenship": {
+      "text": "see United Kingdom"
     },
     "Suffrage": {
       "text": "18 years of age; universal"
@@ -291,7 +303,7 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "The economy was formerly based on agriculture, mainly sheep farming, but fishing and tourism currently comprise the bulk of economic activity. In 1987, the government began selling fishing licenses to foreign trawlers operating within the Falkland Islands' exclusive fishing zone. These license fees net more than $40 million per year, which help support the island's health, education, and welfare system. The waters around the Falkland Islands are known for their squid, which account for around 75% of the annual 200,000 ton fish catch. Dairy farming supports domestic consumption; crops furnish winter fodder. Foreign exchange earnings come from shipments of high-grade wool to the UK and from the sale of postage stamps and coins. In 2001, the government purchased 100 reindeer with the intent to increase the number to 10,000 over the following 20 years so that venison could be exported to Scandinavia and Chile. Tourism, especially eco-tourism, is increasing rapidly, with about 69,000 visitors in 2009. The British military presence also provides a sizable economic boost. The islands are now self-financing except for defense. In 1993 the British Geological Survey announced a 200-mile oil exploration zone around the islands, and early seismic surveys suggest substantial reserves capable of producing 500,000 barrels per day. Political tensions between the UK and Argentina remain high following the start of oil drilling activities in the waters. In September 2011, a British exploration firm announced that it plans to commence oil production in 2016."
+      "text": "The economy was formerly based on agriculture, mainly sheep farming, but fishing and tourism currently comprise the bulk of economic activity. In 1987, the government began selling fishing licenses to foreign trawlers operating within the Falkland Islands' exclusive fishing zone. These license fees net more than $40 million per year, which help support the island's health, education, and welfare system. The waters around the Falkland Islands are known for their squid, which account for around 75% of the annual 200,000 ton catch. ++  ++ Dairy farming supports domestic consumption; crops furnish winter fodder. Foreign exchange earnings come from shipments of high-grade wool to the UK and from the sale of postage stamps and coins. In 2001, the government purchased 100 reindeer with the intent to increase the number to 10,000 over the following 20 years so that venison could be exported to Scandinavia and Chile. ++  ++ Tourism, especially ecotourism, is increasing rapidly, with about 69,000 visitors in 2009. The British military presence also provides a sizable economic boost. The islands are now self-financing except for defense. ++  ++ In 1993, the British Geological Survey announced a 200-mile oil exploration zone around the islands, and early seismic surveys suggest substantial reserves capable of producing 500,000 barrels per day. Political tensions between the UK and Argentina remain high following the start of oil drilling activities in the waters. In September 2011, a British exploration firm announced that it plans to commence oil production in 2016."
     },
     "GDP (purchasing power parity)": {
       "text": "$164.5 million (2007 est.) ++ $105.1 million (2002 est.)"
@@ -383,7 +395,7 @@
       "text": "$NA"
     },
     "Exchange rates": {
-      "text": "Falkland pounds (FKP) per US dollar - ++ 0.607 (2014) ++ 0.6391 (2013) ++ 0.63 (2012) ++ 0.624 (2011) ++ 0.6472 (2010)"
+      "text": "Falkland pounds (FKP) per US dollar - ++ 0.6542 (2015) ++ 0.6391 (2013) ++ 0.6391 (2013) ++ 0.63 (2012) ++ 0.624 (2011)"
     }
   },
   "Energy": {
@@ -460,18 +472,18 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "2,100"
+        "text": "2,000"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "66 (2014 est.)"
+        "text": "68 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "4,200"
+        "text": "5,000"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "133 (2014 est.)"
+        "text": "171 (July 2015 est.)"
       }
     },
     "Telephone system": {
@@ -479,31 +491,36 @@
         "text": "government-operated radiotelephone and private VHF/CB radiotelephone networks provide effective service to almost all points on both islands"
       },
       "international": {
-        "text": "country code - 500; satellite earth station - 1 Intelsat (Atlantic Ocean) with links through London to other countries (2011)"
+        "text": "country code - 500; satellite earth station - 1 Intelsat (Atlantic Ocean) with links through London to other countries (2015)"
       }
     },
     "Broadcast media": {
       "text": "TV service provided by a multi-channel service provider; radio services provided by the public broadcaster, Falkland Islands Radio Service, broadcasting on both AM and FM frequencies, and by the British Forces Broadcasting Service (BFBS) (2007)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM 1, FM 7, shortwave 0 (British Forces Broadcasting Service (BFBS) provides Radio 1 and Radio 2 service) (2006)"
-    },
-    "Television broadcast stations": {
-      "text": "2 (British Forces Broadcasting Service (BFBS) provides multi-channel satellite service to members of UK Forces as well as islanders); cable television is available in Stanley (2006)"
     },
     "Internet country code": {
       "text": ".fk"
     },
     "Internet users": {
       "total": {
-        "text": "2,900"
+        "text": "3,000"
       },
       "percent of population": {
-        "text": "92.4% (2009)"
+        "text": "98.3% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "1"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "5 (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "VP-F (2016)"
+    },
     "Airports": {
       "text": "7 (2013)"
     },
@@ -523,7 +540,7 @@
         "text": "5"
       },
       "under 914 m": {
-        "text": " ++ 5 (2013)"
+        "text": "5 (2013)"
       }
     },
     "Roadways": {
@@ -543,7 +560,7 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "no regular military forces"
     },

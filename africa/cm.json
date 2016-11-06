@@ -53,12 +53,12 @@
     "Terrain": {
       "text": "diverse, with coastal plain in southwest, dissected plateau in center, mountains in west, plains in north"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Atlantic Ocean 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "667 m"
       },
-      "highest point": {
-        "text": "Fako 4,095 m (on Cameroon Mountain)"
+      "elevation extremes": {
+        "text": "lowest point: Atlantic Ocean 0 m ++ highest point: Fako 4,095 m (on Cameroon Mountain)"
       }
     },
     "Natural resources": {
@@ -76,18 +76,7 @@
       }
     },
     "Irrigated land": {
-      "text": "256.5 sq km (2003)"
-    },
-    "Total renewable water resources": {
-      "text": "285.5 cu km (2011)"
-    },
-    "Freshwater withdrawal (domestic/industrial/agricultural)": {
-      "total": {
-        "text": "0.97  cu km/yr (23%/10%/68%)"
-      },
-      "per capita": {
-        "text": "58.9  cu m/yr (2005)"
-      }
+      "text": "290 sq km (2012)"
     },
     "Natural hazards": {
       "text": "volcanic activity with periodic releases of poisonous gases from Lake Nyos and Lake Monoun volcanoes",
@@ -111,6 +100,12 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "24,360,803",
+      "note": {
+        "text": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2016 est.)"
+      }
+    },
     "Nationality": {
       "noun": {
         "text": "Cameroonian(s)"
@@ -126,32 +121,26 @@
       "text": "24 major African language groups, English (official), French (official)"
     },
     "Religions": {
-      "text": "indigenous beliefs 40%, Christian 40%, Muslim 20%"
+      "text": "Catholic 38.4%, Protestant 26.3%, other Christian 4.5%, Muslim 20.9%, animist 5.6%, other 1%, non-believer 3.2% (2005 est.)"
     },
-    "Population": {
-      "text": "23,739,218",
-      "note": {
-        "text": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2015 est.)"
-      }
+    "Demographic profile": {
+      "text": "Cameroon has a large youth population, with more than 60% of the populace under the age of 25. Fertility is falling but remains at a high level, especially among poor, rural, and uneducated women, in part because of inadequate access to contraception. Life expectancy remains low at about 55 years due to the prevalence of HIV and AIDs and an elevated maternal mortality rate, which has remained high since 1990. Cameroon, particularly the northern region, is vulnerable to food insecurity largely because of government mismanagement, corruption, high production costs, inadequate infrastructure, and natural disasters. Despite economic growth in some regions, poverty is on the rise, and is most prevalent in rural areas, which are especially affected by a shortage of jobs, declining incomes, poor school and health care infrastructure, and a lack of clean water and sanitation. Underinvestment in social safety nets and ineffective public financial management also contribute to Cameroon’s high rate of poverty. International migration has been driven by unemployment (including fewer government jobs), poverty, the search for educational opportunities, and corruption. The US and Europe are preferred destinations, but, with tighter immigration restrictions in these countries, young Cameroonians are increasingly turning to neighboring states, such as Gabon and Nigeria, South Africa, other parts of Africa, and the Near and Far East. Cameroon’s limited resources make it dependent on UN support to host more than 300,000 refugees and asylum seekers. These refugees and asylum seekers are primarily from the Central African Republic and more recently Nigeria."
     },
     "Age structure": {
       "0-14 years": {
-        "text": "42.78% (male 5,115,958/female 5,039,122)"
+        "text": "42.6% (male 5,228,047/female 5,149,228)"
       },
       "15-24 years": {
-        "text": "19.58% (male 2,337,061/female 2,310,178)"
+        "text": "19.55% (male 2,393,598/female 2,368,557)"
       },
       "25-54 years": {
-        "text": "30.53% (male 3,644,779/female 3,603,610)"
+        "text": "30.71% (male 3,762,054/female 3,718,266)"
       },
       "55-64 years": {
-        "text": "3.96% (male 458,001/female 481,717)"
+        "text": "3.97% (male 471,306/female 495,462)"
       },
       "65 years and over": {
-        "text": "3.15% (male 348,754/female 400,038) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "3.18% (male 360,386/female 413,899) (2016 est.)"
       }
     },
     "Dependency ratios": {
@@ -170,26 +159,26 @@
     },
     "Median age": {
       "total": {
-        "text": "18.4 years"
+        "text": "18.5 years"
       },
       "male": {
-        "text": "18.3 years"
+        "text": "18.4 years"
       },
       "female": {
-        "text": "18.5 years (2015 est.)"
+        "text": "18.6 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "2.59% (2015 est.)"
+      "text": "2.58% (2016 est.)"
     },
     "Birth rate": {
-      "text": "36.17 births/1,000 population (2015 est.)"
+      "text": "35.8 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "10.11 deaths/1,000 population (2015 est.)"
+      "text": "9.8 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "-0.15 migrant(s)/1,000 population (2015 est.)"
+      "text": "-0.1 migrant(s)/1,000 population (2016 est.)"
     },
     "Urbanization": {
       "urban population": {
@@ -222,7 +211,13 @@
         "text": "0.87 male(s)/female"
       },
       "total population": {
-        "text": "1.01 male(s)/female (2015 est.)"
+        "text": "1.01 male(s)/female (2016 est.)"
+      }
+    },
+    "Mother's mean age at first birth": {
+      "text": "19.7",
+      "note": {
+        "text": "median age at first birth among women 25-29 (2011 est.)"
       }
     },
     "Maternal mortality rate": {
@@ -230,34 +225,34 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "53.63 deaths/1,000 live births"
+        "text": "52.2 deaths/1,000 live births"
       },
       "male": {
-        "text": "57.28 deaths/1,000 live births"
+        "text": "55.8 deaths/1,000 live births"
       },
       "female": {
-        "text": "49.88 deaths/1,000 live births (2015 est.)"
+        "text": "48.5 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "57.93 years"
+        "text": "58.5 years"
       },
       "male": {
-        "text": "56.62 years"
+        "text": "57.1 years"
       },
       "female": {
-        "text": "59.28 years (2015 est.)"
+        "text": "59.9 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "4.76 children born/woman (2015 est.)"
+      "text": "4.7 children born/woman (2016 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "23.4% (2011)"
     },
     "Health expenditures": {
-      "text": "5.1% of GDP (2013)"
+      "text": "4.1% of GDP (2014)"
     },
     "Physicians density": {
       "text": "0.08 physicians/1,000 population (2009)"
@@ -282,13 +277,13 @@
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "4.77% (2014 est.)"
+      "text": "4.46% (2015 est.)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
-      "text": "657,500 (2014 est.)"
+      "text": "619,200 (2015 est.)"
     },
     "HIV/AIDS - deaths": {
-      "text": "34,200 (2014 est.)"
+      "text": "33,100 (2015 est.)"
     },
     "Major infectious diseases": {
       "degree of risk": {
@@ -307,17 +302,17 @@
         "text": "meningococcal meningitis"
       },
       "animal contact disease": {
-        "text": "rabies (2013)"
+        "text": "rabies (2016)"
       }
     },
     "Obesity - adult prevalence rate": {
       "text": "9.6% (2014)"
     },
     "Children under the age of 5 years underweight": {
-      "text": "15.1% (2011)"
+      "text": "14.8% (2014)"
     },
     "Education expenditures": {
-      "text": "3% of GDP (2012)"
+      "text": "3% of GDP (2013)"
     },
     "Literacy": {
       "definition": {
@@ -351,6 +346,17 @@
       "percentage": {
         "text": "31% (2006 est.)"
       }
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": {
+        "text": "6.4%"
+      },
+      "male": {
+        "text": "5.3%"
+      },
+      "female": {
+        "text": "7.5% (2010 est.)"
+      }
     }
   },
   "Government": {
@@ -369,10 +375,13 @@
       },
       "former": {
         "text": "French Cameroon, British Cameroon, Federal Republic of Cameroon, United Republic of Cameroon"
+      },
+      "etymology": {
+        "text": "in the 15th century, Portuguese explorers named the area near the mouth of the Wouri River the Rio dos Camaroes (River of Prawns) after the abundant shrimp in the water; over time the designation became Cameroon in English; this is the only instance where a country is named afer a crustacean"
       }
     },
     "Government type": {
-      "text": "republic; multiparty presidential regime"
+      "text": "presidential republic"
     },
     "Capital": {
       "name": {
@@ -395,13 +404,27 @@
       "text": "State Unification Day (National Day), 20 May (1972)"
     },
     "Constitution": {
-      "text": "several previous; latest effective 18 January 1996; amended 2008 (2015)"
+      "text": "several previous; latest effective 18 January 1996; amended 2008 (2016)"
     },
     "Legal system": {
       "text": "mixed legal system of English common law, French civil law, and customary law"
     },
     "International law organization participation": {
       "text": "accepts compulsory ICJ jurisdiction; non-party state to the ICCt"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Cameroon"
+      },
+      "dual citizenship recognized": {
+        "text": "no"
+      },
+      "residency requirement for naturalization": {
+        "text": "5 years"
+      }
     },
     "Suffrage": {
       "text": "20 years of age; universal"
@@ -456,7 +479,7 @@
     },
     "Diplomatic representation in the US": {
       "chief of mission": {
-        "text": "Ambassador Joseph FOE-ATANGANA (since 12 September 2008)"
+        "text": "Ambassador Essomba ETOUNDI (since 27 June 2016)"
       },
       "chancery": {
         "text": "2349 Massachusetts Avenue NW, Washington, DC 20008; current temporary address - 3400 International Drive NW, Washington, DC 20008"
@@ -476,13 +499,13 @@
         "text": "Avenue Rosa Parks, Yaounde"
       },
       "mailing address": {
-        "text": "P. O. Box 817, Yaounde; pouch: American Embassy, US Department of State, Washington, DC 20521-2520"
+        "text": "P.O. Box 817, Yaounde; pouch: American Embassy, US Department of State, Washington, DC 20521-2520"
       },
       "telephone": {
-        "text": "[237] 22220 15 00; Consular: [237] 22220 16 03"
+        "text": "[237] 22220 1500; Consular: [237] 22220 1603"
       },
       "FAX": {
-        "text": "[237] 22220 15 00 Ext. 4531; Consular FAX: [237] 22220 17 52"
+        "text": "[237] 22220 1500 Ext. 4531; Consular FAX: [237] 22220 1752"
       },
       "branch office(s)": {
         "text": "Douala"
@@ -511,58 +534,58 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Modest oil resources and favorable agricultural conditions provide Cameroon with one of the best-endowed primary commodity economies in sub-Saharan Africa. Cameroon’s economy suffers from political and economic factors that often impact underdeveloped countries, such as stagnant per capita income, a relatively inequitable distribution of income, a top-heavy civil service, endemic corruption, the continuing inefficiencies of a large parastatal system in key sectors, and a generally unfavorable climate for business enterprise. Since 1990, the government has embarked on various IMF and World Bank programs designed to spur business investment, increase efficiency in agriculture, improve trade, and recapitalize the nation's banks. The IMF continues to press for economic reforms, including increased budget transparency, privatization, and poverty reduction programs.  The Government of Cameroon provides subsidies for electricity, food, and fuel that have strained the federal budget diverting funds from education, healthcare, and infrastructure projects. Cameroon devotes significant resources to several large infrastructure projects under construction, including a deep sea port in Kribi and the Lom Pangar Hydropower Project. Cameroon’s energy sector continues to diversify, recently opening a natural gas powered electricity generating plant. Oil remains Cameroon’s main export commodity accounting for nearly 40% of export earnings despite falling global oil prices. Cameroon continues to seek foreign investment to improve its inadequate infrastructure, create jobs and improve its economic footprint but its unfavorable business environment remains a significant deterrent to foreign investment."
+      "text": "Modest oil resources and favorable agricultural conditions provide Cameroon with one of the best-endowed primary commodity economies in Sub-Saharan Africa. Oil remains Cameroon’s main export commodity, and despite falling global oil prices, still accounts for nearly 40% of export earnings. Cameroon’s economy suffers from factors that often impact underdeveloped countries, such as stagnant per capita income, a relatively inequitable distribution of income, a top-heavy civil service, endemic corruption, continuing inefficiencies of a large parastatal system in key sectors, and a generally unfavorable climate for business enterprise. ++  ++ Since 1990, the government has embarked on various IMF and World Bank programs designed to spur business investment, increase efficiency in agriculture, improve trade, and recapitalize the nation's banks. The IMF continues to press for economic reforms, including increased budget transparency, privatization, and poverty reduction programs. The Government of Cameroon provides subsidies for electricity, food, and fuel that have strained the federal budget and diverted funds from education, healthcare, and infrastructure projects, especially in 2015, as low oil prices have led to lower revenues. ++  ++ Cameroon devotes significant resources to several large infrastructure projects currently under construction, including a deep sea port in Kribi and the Lom Pangar Hydropower Project. Cameroon’s energy sector continues to diversify, recently opening a natural gas powered electricity generating plant. Cameroon continues to seek foreign investment to improve its inadequate infrastructure, create jobs, and improve its economic footprint, but its unfavorable business environment remains a significant deterrent to foreign investment."
     },
     "GDP (purchasing power parity)": {
-      "text": "$67.78 billion (2014 est.) ++ $64.15 billion (2013 est.) ++ $60.76 billion (2012 est.)",
+      "text": "$72.74 billion (2015 est.) ++ $68.75 billion (2014 est.) ++ $64.91 billion (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$31.78 billion (2014 est.)"
+      "text": "$28.54 billion (2015 est.)"
     },
     "GDP - real growth rate": {
-      "text": "5.7% (2014 est.) ++ 5.6% (2013 est.) ++ 4.6% (2012 est.)"
+      "text": "5.8% (2015 est.) ++ 5.9% (2014 est.) ++ 5.6% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$3,000 (2014 est.) ++ $2,800 (2013 est.) ++ $2,700 (2012 est.)",
+      "text": "$3,100 (2015 est.) ++ $3,000 (2014 est.) ++ $3,000 (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "Gross national saving": {
-      "text": "17.8% of GDP (2014 est.) ++ 17.8% of GDP (2013 est.) ++ 17.1% of GDP (2012 est.)"
+      "text": "17.6% of GDP (2015 est.) ++ 18.6% of GDP (2014 est.) ++ 17.7% of GDP (2013 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "77.7%"
+        "text": "77.6%"
       },
       "government consumption": {
-        "text": "11.6%"
+        "text": "12.1%"
       },
       "investment in fixed capital": {
-        "text": "20%"
+        "text": "21.9%"
       },
       "investment in inventories": {
-        "text": "-0.1%"
+        "text": "0.1%"
       },
       "exports of goods and services": {
-        "text": "19.3%"
+        "text": "22%"
       },
       "imports of goods and services": {
-        "text": "-28.5% ++  (2014 est.)"
+        "text": "-33.7% (2015 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "22.5%"
+        "text": "21.6%"
       },
       "industry": {
-        "text": "30%"
+        "text": "30.6%"
       },
       "services": {
-        "text": "47.5% (2014 est.)"
+        "text": "47.7% (2015 est.)"
       }
     },
     "Agriculture - products": {
@@ -572,10 +595,10 @@
       "text": "petroleum production and refining, aluminum production, food processing, light consumer goods, textiles, lumber, ship repair"
     },
     "Industrial production growth rate": {
-      "text": "5.5% (2014 est.)"
+      "text": "7.2% (2015 est.)"
     },
     "Labor force": {
-      "text": "9.104 million (2014 est.)"
+      "text": "9.379 million (2015 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -607,77 +630,91 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$5.313 billion"
+        "text": "$4.788 billion"
       },
       "expenditures": {
-        "text": "$6.844 billion (2014 est.)"
+        "text": "$6.292 billion (2015 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "16.7% of GDP (2014 est.)"
+      "text": "16.8% of GDP (2015 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-4.8% of GDP (2014 est.)"
+      "text": "-5.3% of GDP (2015 est.)"
     },
     "Public debt": {
-      "text": "23.7% of GDP (2014 est.) ++ 21.3% of GDP (2013 est.)"
+      "text": "28.6% of GDP (2015 est.) ++ 22.7% of GDP (2014 est.)"
     },
     "Fiscal year": {
       "text": "1 July - 30 June"
     },
     "Inflation rate (consumer prices)": {
-      "text": "1.9% (2014 est.) ++ 2.1% (2013 est.)"
+      "text": "2.8% (2015 est.) ++ 1.9% (2014 est.)"
     },
     "Central bank discount rate": {
       "text": "4.25% (31 December 2009)"
     },
     "Commercial bank prime lending rate": {
-      "text": "13% (31 December 2014 est.) ++ 13.3% (31 December 2013 est.)"
+      "text": "13% (31 December 2015 est.) ++ 13% (31 December 2014 est.)"
     },
     "Stock of narrow money": {
-      "text": "$3.65 billion (31 December 2014 est.) ++ $3.784 billion (31 December 2013 est.)"
+      "text": "$3.691 billion (31 December 2015 est.) ++ $3.877 billion (31 December 2014 est.)"
     },
     "Stock of broad money": {
-      "text": "$6.439 billion (31 December 2014 est.) ++ $6.633 billion (31 December 2013 est.)"
+      "text": "$5.53 billion (31 December 2015 est.) ++ $6.217 billion (31 December 2014 est.)"
     },
     "Stock of domestic credit": {
-      "text": "$3.127 billion (31 December 2014 est.) ++ $3.115 billion (31 December 2013 est.)"
+      "text": "$4.448 billion (31 December 2015 est.) ++ $4.769 billion (31 December 2014 est.)"
     },
     "Market value of publicly traded shares": {
       "text": "$230 million (31 December 2012 est.)"
     },
     "Current account balance": {
-      "text": "-$1.455 billion (2014 est.) ++ -$1.123 billion (2013 est.)"
+      "text": "-$1.192 billion (2015 est.) ++ -$1.396 billion (2014 est.)"
     },
     "Exports": {
-      "text": "$6.027 billion (2014 est.) ++ $6.08 billion (2013 est.)"
+      "text": "$5.756 billion (2015 est.) ++ $6.679 billion (2014 est.)"
     },
     "Exports - commodities": {
       "text": "crude oil and petroleum products, lumber, cocoa beans, aluminum, coffee, cotton"
     },
     "Exports - partners": {
-      "text": "Spain 13.9%, China 12%, India 10.1%, Italy 8.1%, Netherlands 8%, Belgium 5.1%, France 4.6%, Norway 4.5%, UK 4.3% (2014)"
+      "text": "China 16.7%, India 15.7%, Spain 6.2%, Belgium 6.1%, France 6.1%, Portugal 5.6%, Netherlands 5%, Italy 5% (2015)"
     },
     "Imports": {
-      "text": "$6.483 billion (2014 est.) ++ $6.174 billion (2013 est.)"
+      "text": "$6.5 billion (2015 est.) ++ $6.915 billion (2014 est.)"
     },
     "Imports - commodities": {
       "text": "machinery, electrical equipment, transport equipment, fuel, food"
     },
     "Imports - partners": {
-      "text": "China 26.2%, Nigeria 12%, France 11.8%, Belgium 4.9%, US 4.2% (2014)"
+      "text": "China 27.9%, Nigeria 13.9%, France 10.9%, Belgium 4.1% (2015)"
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$3.122 billion (31 December 2014 est.) ++ $3.508 billion (31 December 2013 est.)"
+      "text": "$2.714 billion (31 December 2015 est.) ++ $3.204 billion (31 December 2014 est.)"
     },
     "Debt - external": {
-      "text": "$5.784 billion (31 December 2014 est.) ++ $4.922 billion (31 December 2013 est.)"
+      "text": "$6.3 billion (31 December 2015 est.) ++ $5.289 billion (31 December 2014 est.)"
     },
     "Exchange rates": {
-      "text": "Cooperation Financiere en Afrique Centrale francs (XAF) per dollar - ++ 494.42 (2014 est.) ++ 494.42 (2013 est.) ++ 510.53 (2012 est.) ++ 471.87 (2011 est.) ++ 495.28 (2010 est.)"
+      "text": "Cooperation Financiere en Afrique Centrale francs (XAF) per dollar - ++ 591.45 (2015 est.) ++ 494.42 (2014 est.) ++ 494.42 (2013 est.) ++ 510.53 (2012 est.) ++ 471.87 (2011 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "10,100,000"
+      },
+      "electrification - total population": {
+        "text": "55%"
+      },
+      "electrification - urban areas": {
+        "text": "88%"
+      },
+      "electrification - rural areas": {
+        "text": "17% (2013)"
+      }
+    },
     "Electricity - production": {
       "text": "6.155 billion kWh (2012 est.)"
     },
@@ -751,53 +788,64 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "1.05 million"
+        "text": "1,054,978"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "5 (2014 est.)"
+        "text": "4 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "17.3 million"
+        "text": "16.807 million"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "75 (2014 est.)"
+        "text": "71 (July 2015 est.)"
       }
     },
     "Telephone system": {
       "general assessment": {
-        "text": "system includes cable, microwave radio relay, and tropospheric scatter; Camtel, the monopoly provider of fixed-line service, provides connections for only about 3 per 100 persons; equipment is old and outdated, and connections with many parts of the country are unreliable"
+        "text": "system includes cable, microwave radio relay, and tropospheric scatter; Camtel, the monopoly provider of fixed-line service, provides connections for only about 4 per 100 persons; equipment is old and outdated, and connections with many parts of the country are unreliable"
       },
       "domestic": {
-        "text": "mobile-cellular usage, in part a reflection of the poor condition and general inadequacy of the fixed-line network, has increased sharply, reaching a subscribership base of 50 per 100 persons"
+        "text": "mobile-cellular usage, in part a reflection of the poor condition and general inadequacy of the fixed-line network, has increased sharply, reaching a subscribership base of 70 per 100 persons"
       },
       "international": {
-        "text": "country code - 237; landing point for the SAT-3/WASC fiber-optic submarine cable that provides connectivity to Europe and Asia; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2011)"
+        "text": "country code - 237; landing point for the SAT-3/WASC fiber-optic submarine cable that provides connectivity to Europe and Asia; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2015)"
       }
     },
     "Broadcast media": {
       "text": "government maintains tight control over broadcast media; state-owned Cameroon Radio Television (CRTV), broadcasting on both a TV and radio network, was the only officially recognized and fully licensed broadcaster until August 2007, when the government finally issued licenses to 2 private TV broadcasters and 1 private radio broadcaster; about 70 privately owned, unlicensed radio stations operating but are subject to closure at any time; foreign news services required to partner with state-owned national station (2007)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM 2, FM 9, shortwave 3 (2001)"
-    },
-    "Television broadcast stations": {
-      "text": "1 (2001)"
     },
     "Internet country code": {
       "text": ".cm"
     },
     "Internet users": {
       "total": {
-        "text": "1.5 million"
+        "text": "4.909 million"
       },
       "percent of population": {
-        "text": "6.5% (2014 est.)"
+        "text": "20.7% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "1"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "3"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "267,208"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "0 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "TJ (2016)"
+    },
     "Airports": {
       "text": "33 (2013)"
     },
@@ -829,7 +877,7 @@
         "text": "10"
       },
       "under 914 m": {
-        "text": " ++ 8 (2013)"
+        "text": "8 (2013)"
       }
     },
     "Pipelines": {
@@ -872,36 +920,12 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
-      "text": "Cameroon Armed Forces (Forces Armees Camerounaises, FAC), Army (L'Armee de Terre), Navy (Marine Nationale Republique (MNR), includes naval infantry), Air Force (Armee de l'Air du Cameroun, AAC), Fire Fighter Corps, Gendarmerie (2013)"
+      "text": "Cameroon Armed Forces (Forces Armees Camerounaises, FAC): Army (L'Armee de Terre), Navy (Marine Nationale Republique (MNR), includes naval infantry), Air Force (Armee de l'Air du Cameroun, AAC), Rapid Intervention Brigade, Fire Fighter Corps, Gendarmerie (2015)"
     },
     "Military service age and obligation": {
       "text": "18-23 years of age for male and female voluntary military service; no conscription; high school graduation required; service obligation 4 years; periodic government calls for volunteers (2012)"
-    },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "4,667,251"
-      },
-      "females age 16-49": {
-        "text": "4,548,909 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "2,794,998"
-      },
-      "females age 16-49": {
-        "text": "2,718,110 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "215,248"
-      },
-      "female": {
-        "text": "211,636 (2010 est.)"
-      }
     },
     "Military expenditures": {
       "text": "1.42% of GDP (2012) ++ 1.37% of GDP (2011) ++ 1.42% of GDP (2010)"
@@ -913,10 +937,10 @@
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
-        "text": "258,582 (Central African Republic); 62,861 (Nigeria) (2015)"
+        "text": "259,145 (Central African Republic); 73,745 (Nigeria) (2016)"
       },
       "IDPs": {
-        "text": "81,693 (2015)"
+        "text": "181,215 (2016)"
       }
     }
   }

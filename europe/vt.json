@@ -48,12 +48,12 @@
     "Terrain": {
       "text": "urban; low hill"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Saint Peter's Square 19 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "NA"
       },
-      "highest point": {
-        "text": "Vatican Gardens (Vatican Hill) 77 m"
+      "elevation extremes": {
+        "text": "lowest point: Saint Peter's Square 19 m ++ highest point: Vatican Gardens (Vatican Hill) 77 m"
       }
     },
     "Natural resources": {
@@ -69,9 +69,6 @@
       "other": {
         "text": "100% (urban area) (2011 est.)"
       }
-    },
-    "Irrigated land": {
-      "text": "0 sq km (2011)"
     },
     "Natural hazards": {
       "text": "NA"
@@ -92,6 +89,9 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "1,000 (2015 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "none"
@@ -108,9 +108,6 @@
     },
     "Religions": {
       "text": "Roman Catholic"
-    },
-    "Population": {
-      "text": "842 (July 2014 est.)"
     },
     "Population growth rate": {
       "text": "0% (2014 est.)"
@@ -152,10 +149,13 @@
       },
       "local short form": {
         "text": "Santa Sede (Citta del Vaticano)"
+      },
+      "etymology": {
+        "text": "\"holy\" comes from the Greek word \"hera\" meaning \"sacred\"; \"see\" comes from the Latin word \"sedes\" meaning \"seat,\" and refers to the episcopal chair; the term \"Vatican\" derives from the hill Mons Vaticanus on which the Vatican is located and which comes from the Latin \"vaticinari\" (to prophecy), referring to the fortune tellers and soothsayers who frequented the area in Roman times"
       }
     },
     "Government type": {
-      "text": "ecclesiastical"
+      "text": "ecclesiastical elective monarchy; self described as an \"absolute monarchy\""
     },
     "Capital": {
       "name": {
@@ -175,19 +175,36 @@
       "text": "none"
     },
     "Independence": {
-      "text": "11 February 1929 (from Italy); note - the three treaties signed with Italy on 11 February 1929 acknowledged, among other things, the full sovereignty of the Holy See and established its territorial extent; however, the origin of the Papal States, which over centuries varied considerably in extent, may be traced back to 754"
+      "text": "11 February 1929; note - the three treaties signed with Italy on 11 February 1929 acknowledged, among other things, the full sovereignty of the Holy See and established its territorial extent; however, the origin of the Papal States, which over centuries varied considerably in extent, may be traced back to 754"
     },
     "National holiday": {
       "text": "Election Day of Pope FRANCIS, 13 March (2013)"
     },
     "Constitution": {
-      "text": "previous 1929, 1963; latest adopted 26 November 2000, effective 22 February 2001 (Fundamental Law of Vatican City State); note - in October 2013, Pope Francis instituted a 9-member Council of Cardinal Advisors to reform the administrative apparatus of the Holy See (Roman Curia) to include writing a new constitution (2015)"
+      "text": "previous 1929, 1963; latest adopted 26 November 2000, effective 22 February 2001 (Fundamental Law of Vatican City State); note - in October 2013, Pope Francis instituted a 9-member Council of Cardinal Advisors to reform the administrative apparatus of the Holy See (Roman Curia) to include writing a new constitution (2016)"
     },
     "Legal system": {
       "text": "religious legal system based on canon (religious) law"
     },
     "International law organization participation": {
       "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent": {
+        "text": "no"
+      },
+      "dual citizenship recognized": {
+        "text": "no"
+      },
+      "residency requirement for naturalization": {
+        "text": "not applicable"
+      },
+      "note": {
+        "text": "in the Holy See, citizenship is acquired by law, ex iure, or by adminstrative decision; in the first instance citizenship is a function of holding office within the Holy See as in the case of cardinals resident in Vatican City or diplomats of the Holy See; in the second instance, citizenship may be requested in a limited set of circumstances for those who reside within Vatican City under papal authorization, as a function of their office or service, or as the spouses and children of current citizens; citizenship is lost once an individual no longer permanently resides in Vatican City, normally reverting to the citizenship previously held"
+      }
     },
     "Suffrage": {
       "text": "election of the pope is limited to cardinals less than 80 years old"
@@ -197,16 +214,16 @@
         "text": "Pope FRANCIS (since 13 March 2013)"
       },
       "head of government": {
-        "text": "Secretary of State Archbishop Pietro PAROLIN (since 15 October 2013); note - previous Secretary of State Cardinal Tarcisio BERTONE will remain as Camerlengo (fiscal administrator), a position he has held since 4 April 2007"
+        "text": "Secretary of State Cardinal Pietro PAROLIN (since 15 October 2013)"
       },
       "cabinet": {
         "text": "Pontifical Commission for the State of Vatican City appointed by the pope"
       },
       "elections/appointments": {
-        "text": "pope elected for life or until voluntary resignation by the College of Cardinals; election last held on 13 March 2013 (next to be held after the death or resignation of the current pope); Secretary of State appointed by the pope"
+        "text": "pope elected by the College of Cardinals, usually for life or until voluntary resignation; election last held on 13 March 2013 (next to be held after the death or resignation of the current pope); Secretary of State appointed by the pope"
       },
       "election results": {
-        "text": "Jorge Mario BERGOGLIO, formerly Archbishop of Buenos Aires, elected Pope FRANCIS"
+        "text": "Jorge Mario BERGOGLIO, former Archbishop of Buenos Aires, elected Pope FRANCIS"
       }
     },
     "Legislative branch": {
@@ -219,7 +236,7 @@
         "text": "Supreme Court or Supreme Tribunal of the Apostolic Signatura (consists of the cardinal prefect, who serves as ex-officio president of the court, and 2 other cardinals of the Prefect Signatura); note - judicial duties were established by the Motu Proprio, papal directive, of Pope PIUS XII on 1 May 1946; most Vatican City criminal matters are handled by the Republic of Italy courts"
       },
       "judge selection and term of office": {
-        "text": "cardinal prefect appointed by the Pope; the other 2 cardinals of the court appointed by the cardinal prefect on a yearly basis"
+        "text": "cardinal prefect appointed by the pope; the other 2 cardinals of the court appointed by the cardinal prefect on a yearly basis"
       },
       "subordinate courts": {
         "text": "Appellate Court of Vatican City; Tribunal of Vatican City"
@@ -236,7 +253,7 @@
     },
     "Diplomatic representation in the US": {
       "chief of mission": {
-        "text": "Apostolic Nuncio Carlo Maria VIGANO (since 16 November 2011)"
+        "text": "Apostolic Nuncio Archbishop Christophe PIERRE (since 27 June 2016)"
       },
       "chancery": {
         "text": "3339 Massachusetts Avenue NW, Washington, DC 20008"
@@ -253,7 +270,7 @@
         "text": "Ambassador Kenneth Francis HACKETT (since 21 October 2013)"
       },
       "embassy": {
-        "text": "Villa Domiziana, Via delle Terme Deciane 26, 00153 Rome"
+        "text": "American Embassy to the Holy See, Via Sallustiana, 49, 00187 Rome, Italy"
       },
       "mailing address": {
         "text": "Unit 5660, Box 66, DPO AE 09624-0066"
@@ -285,7 +302,7 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "The Holy See is supported financially by a variety of sources, including investments, real estate income, and donations from Catholic individuals, dioceses, and institutions; these help fund the Roman Curia (Vatican bureaucracy), diplomatic missions, and media outlets. Moreover, an annual collection taken up in dioceses and from direct donations go to a non-budgetary fund, known as Peter's Pence, which is used directly by the Pope for charity, disaster relief, and aid to churches in developing nations. Donations increased between 2010 and 2011. The separate Vatican City State budget includes the Vatican museums and post office and is supported financially by the sale of stamps, coins, medals, and tourist mementos; by fees for admission to museums; and by publication sales. Its revenues increased between 2010 and 2011 because of expanded opening hours and a growing number of visitors. However, the Holy See has not escaped the financial difficulties engulfing other European countries; in 2012 it started a spending review to determine where to cut costs to reverse its 2011 budget deficit of $20 million. The Holy See generated a modest surplus in 2012 before recording a $32 million deficit in 2013, driven primarily by the decreasing value of gold. Most public expenditures go to wages and other personnel costs; the incomes and living standards of lay workers are comparable to those of counterparts who work in the city of Rome. In February 2014, Pope FRANCIS created the Secretariat of the Economy to oversee financial and administrative operations of the Holy See, part of a broader campaign to reform the Holy See’s finances."
+      "text": "The Holy See is supported financially by a variety of sources, including investments, real estate income, and donations from Catholic individuals, dioceses, and institutions; these help fund the Roman Curia (Vatican bureaucracy), diplomatic missions, and media outlets. Moreover, an annual collection taken up in dioceses and from direct donations go to a non-budgetary fund, known as Peter's Pence, which is used directly by the pope for charity, disaster relief, and aid to churches in developing nations. Donations increased between 2010 and 2011. ++  ++ The separate Vatican City State budget includes the Vatican museums and post office and is supported financially by the sale of stamps, coins, medals, and tourist mementos; by fees for admission to museums; and by publication sales. Its revenues increased between 2010 and 2011 because of expanded opening hours and a growing number of visitors. However, the Holy See has not escaped the financial difficulties engulfing other European countries; in 2012, it started a spending review to determine where to cut costs to reverse its 2011 budget deficit of $20 million. The Holy See generated a modest surplus in 2012 before recording a $32 million deficit in 2013, driven primarily by the decreasing value of gold. Most public expenditures go to wages and other personnel costs; the incomes and living standards of lay workers are comparable to those of counterparts who work in the city of Rome. In February 2014, Pope FRANCIS created the Secretariat of the Economy to oversee financial and administrative operations of the Holy See, part of a broader campaign to reform the Holy See’s finances."
     },
     "GDP (purchasing power parity)": {
       "text": "$NA"
@@ -322,7 +339,7 @@
       "text": "calendar year"
     },
     "Exchange rates": {
-      "text": "euros (EUR) per US dollar - ++ 0.7489 (2014 est.) ++ 0.7634 (2013 est.) ++ 0.78 (2012 est.) ++ 0.7185 (2011 est.) ++ 0.755 (2010 est.)"
+      "text": "euros (EUR) per US dollar - ++ 0.885 (2015 est.) ++ 0.7525 (2014 est.) ++ 0.7634 (2013 est.) ++ 0.78 (2012 est.) ++ 0.7185 (2011 est.)"
     }
   },
   "Communications": {
@@ -331,26 +348,20 @@
         "text": "automatic digital exchange"
       },
       "domestic": {
-        "text": "connected via fiber optic cable to Telecom Italia network"
+        "text": "connected via fiber-optic cable to Telecom Italia network"
       },
       "international": {
-        "text": "country code - 39; uses Italian system (2012)"
+        "text": "country code - 39; uses Italian system (2015)"
       }
     },
     "Broadcast media": {
       "text": "the Vatican Television Center (CTV) transmits live broadcasts of the Pope's Sunday and Wednesday audiences, as well as the Pope's public celebrations; CTV also produces documentaries; Vatican Radio is the Holy See's official broadcasting service broadcasting via shortwave, AM and FM frequencies, and via satellite and Internet connections (2008)"
     },
-    "Radio broadcast stations": {
-      "text": "AM 5, FM 3, shortwave 5 (2008)"
-    },
-    "Television broadcast stations": {
-      "text": "1 (2008)"
-    },
     "Internet country code": {
       "text": ".va"
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "Pontifical Swiss Guard Corps (Corpo della Guardia Svizzera Pontificia) (2013)"
     },

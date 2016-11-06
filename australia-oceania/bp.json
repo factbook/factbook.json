@@ -52,12 +52,12 @@
     "Terrain": {
       "text": "mostly rugged mountains with some low coral atolls"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Pacific Ocean 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "NA"
       },
-      "highest point": {
-        "text": "Mount Popomanaseu 2,310 m"
+      "elevation extremes": {
+        "text": "lowest point: Pacific Ocean 0 m ++ highest point: Mount Popomanaseu 2,310 m"
       }
     },
     "Natural resources": {
@@ -75,10 +75,7 @@
       }
     },
     "Irrigated land": {
-      "text": "NA"
-    },
-    "Total renewable water resources": {
-      "text": "44.7 cu km (2011)"
+      "text": "0 sq km NA (2012)"
     },
     "Natural hazards": {
       "text": "typhoons, but rarely destructive; geologically active region with frequent earthquakes, tremors, and volcanic activity; tsunamis",
@@ -102,6 +99,9 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "635,027 (July 2016 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "Solomon Islander(s)"
@@ -119,27 +119,21 @@
     "Religions": {
       "text": "Protestant 73.4% (Church of Melanesia 31.9%, South Sea Evangelical 17.1%, Seventh Day Adventist 11.7%, United Church 10.1%, Christian Fellowship Church 2.5%), Roman Catholic 19.6%, other Christian 2.9%, other 4%, none 0.03%, unspecified 0.1% (2009 est.)"
     },
-    "Population": {
-      "text": "622,469 (July 2015 est.)"
-    },
     "Age structure": {
       "0-14 years": {
-        "text": "35.68% (male 114,349/female 107,750)"
+        "text": "35.13% (male 114,871/female 108,229)"
       },
       "15-24 years": {
-        "text": "20.01% (male 64,036/female 60,512)"
+        "text": "20.01% (male 65,349/female 61,702)"
       },
       "25-54 years": {
-        "text": "35.73% (male 113,306/female 109,133)"
+        "text": "36.12% (male 116,795/female 112,564)"
       },
       "55-64 years": {
-        "text": "4.45% (male 13,863/female 13,820)"
+        "text": "4.55% (male 14,565/female 14,302)"
       },
       "65 years and over": {
-        "text": "4.13% (male 12,315/female 13,385) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "4.2% (male 12,701/female 13,949) (2016 est.)"
       }
     },
     "Dependency ratios": {
@@ -158,26 +152,26 @@
     },
     "Median age": {
       "total": {
-        "text": "21.9 years"
+        "text": "22.2 years"
       },
       "male": {
-        "text": "21.7 years"
+        "text": "22 years"
       },
       "female": {
-        "text": "22.1 years (2015 est.)"
+        "text": "22.4 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "2.02% (2015 est.)"
+      "text": "1.98% (2016 est.)"
     },
     "Birth rate": {
-      "text": "25.77 births/1,000 population (2015 est.)"
+      "text": "25.3 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "3.85 deaths/1,000 population (2015 est.)"
+      "text": "3.8 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "-1.75 migrant(s)/1,000 population (2015 est.)"
+      "text": "-1.7 migrant(s)/1,000 population (2016 est.)"
     },
     "Urbanization": {
       "urban population": {
@@ -204,13 +198,19 @@
         "text": "1.04 male(s)/female"
       },
       "55-64 years": {
-        "text": "1 male(s)/female"
+        "text": "1.02 male(s)/female"
       },
       "65 years and over": {
         "text": "0.92 male(s)/female"
       },
       "total population": {
-        "text": "1.04 male(s)/female (2015 est.)"
+        "text": "1.04 male(s)/female (2016 est.)"
+      }
+    },
+    "Mother's mean age at first birth": {
+      "text": "21.6",
+      "note": {
+        "text": "median age at first birth among women 25-29 (2006/07 est.)"
       }
     },
     "Maternal mortality rate": {
@@ -218,34 +218,34 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "15.65 deaths/1,000 live births"
+        "text": "15.2 deaths/1,000 live births"
       },
       "male": {
-        "text": "17.84 deaths/1,000 live births"
+        "text": "17.3 deaths/1,000 live births"
       },
       "female": {
-        "text": "13.35 deaths/1,000 live births (2015 est.)"
+        "text": "12.9 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "75.12 years"
+        "text": "75.3 years"
       },
       "male": {
-        "text": "72.49 years"
+        "text": "72.7 years"
       },
       "female": {
-        "text": "77.88 years (2015 est.)"
+        "text": "78.1 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "3.28 children born/woman (2015 est.)"
+      "text": "3.22 children born/woman (2016 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "34.6% (2006/07)"
     },
     "Health expenditures": {
-      "text": "5.1% of GDP (2013)"
+      "text": "5.1% of GDP (2014)"
     },
     "Physicians density": {
       "text": "0.22 physicians/1,000 population (2009)"
@@ -285,7 +285,7 @@
       "text": "11.5% (2007)"
     },
     "Education expenditures": {
-      "text": "9.9% of GDP (2010)"
+      "text": "10% of GDP (2010)"
     },
     "Literacy": {
       "definition": {
@@ -329,10 +329,13 @@
       },
       "former": {
         "text": "British Solomon Islands"
+      },
+      "etymology": {
+        "text": "Spanish explorer Alvaro de MENDANA named the isles in 1568 after the wealthy biblical King SOLOMON in the mistaken belief that the islands contained great riches"
       }
     },
     "Government type": {
-      "text": "parliamentary democracy and a Commonwealth realm"
+      "text": "parliamentary democracy (National Parliament) under a constitutional monarchy; a Commonwealth realm"
     },
     "Capital": {
       "name": {
@@ -355,7 +358,7 @@
       "text": "Independence Day, 7 July (1978)"
     },
     "Constitution": {
-      "text": "adopted 31 May 1978, effective 7 July 1978; amended several times, last in 2010 (2015)"
+      "text": "adopted 31 May 1978, effective 7 July 1978; new constitution drafted in 2014 (2016)"
     },
     "Legal system": {
       "text": "mixed legal system of English common law and customary law"
@@ -364,14 +367,17 @@
       "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
     },
     "Citizenship": {
-      "birthright citizenship": {
-        "text": ""
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of the Solomon Islands"
       },
       "dual citizenship recognized": {
         "text": "no"
       },
       "residency requirement for naturalization": {
-        "text": ""
+        "text": "7 years"
       }
     },
     "Suffrage": {
@@ -413,7 +419,7 @@
         "text": "Court of Appeal and High Court president, chief justices, and puisne judges appointed by the governor-general upon recommendation of the Judicial and Legal Service Commission, chaired by the chief justice to include 5 members, mostly judicial officials and legal professionals; all judges appointed until retirement at age 60"
       },
       "subordinate courts": {
-        "text": "Magistrates' Courts; local courts; Customary Land Appeal Court"
+        "text": "Magistrates' Courts; Customary Land Appeal Court; local courts"
       }
     },
     "Political parties and leaders": {
@@ -446,7 +452,7 @@
       }
     },
     "Diplomatic representation from the US": {
-      "text": "the US does not have an embassy in the Solomon Islands; the US ambassador to Papua New Guinea is accredited to the Solomon Islands"
+      "text": "the US does not have an embassy in the Solomon Islands; the US Ambassador to Papua New Guinea is accredited to the Solomon Islands"
     },
     "Flag description": {
       "text": "divided diagonally by a thin yellow stripe from the lower hoist-side corner; the upper triangle (hoist side) is blue with five white five-pointed stars arranged in an X pattern; the lower triangle is green; blue represents the ocean; green the land; and yellow sunshine; the five stars stand for the five main island groups of the Solomon Islands"
@@ -468,38 +474,38 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "The bulk of the population depends on agriculture, fishing, and forestry for at least part of its livelihood. Most manufactured goods and petroleum products must be imported. The islands are rich in undeveloped mineral resources such as lead, zinc, nickel, and gold. Prior to the arrival of The Regional Assistance Mission to the Solomon Islands (RAMSI), severe ethnic violence, the closing of key businesses, and an empty government treasury culminated in economic collapse. RAMSI's efforts to restore law and order and economic stability have led to modest growth as the economy rebuilds."
+      "text": "The bulk of the population depends on agriculture, fishing, and forestry for at least part of its livelihood. Most manufactured goods and petroleum products must be imported. The islands are rich in undeveloped mineral resources such as lead, zinc, nickel, and gold. Prior to the arrival of The Regional Assistance Mission to the Solomon Islands (RAMSI), severe ethnic violence, the closure of key businesses, and an empty government treasury culminated in economic collapse. RAMSI's efforts to restore law and order and economic stability have led to modest growth as the economy rebuilds."
     },
     "GDP (purchasing power parity)": {
-      "text": "$1.094 billion (2014 est.) ++ $1.078 billion (2013 est.) ++ $1.046 billion (2012 est.)",
+      "text": "$1.148 billion (2015 est.) ++ $1.112 billion (2014 est.) ++ $1.09 billion (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$1.155 billion (2014 est.)"
+      "text": "$1.146 billion (2015 est.)"
     },
     "GDP - real growth rate": {
-      "text": "1.5% (2014 est.) ++ 3% (2013 est.) ++ 4.7% (2012 est.)"
+      "text": "3.3% (2015 est.) ++ 2% (2014 est.) ++ 3% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$1,900 (2014 est.) ++ $1,900 (2013 est.) ++ $1,800 (2012 est.)",
+      "text": "$2,000 (2015 est.) ++ $1,900 (2014 est.) ++ $1,900 (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "Gross national saving": {
-      "text": "6.6% of GDP (2014 est.) ++ 10.8% of GDP (2013 est.) ++ 18.2% of GDP (2012 est.)"
+      "text": "17.1% of GDP (2015 est.) ++ 14.9% of GDP (2014 est.) ++ 21.6% of GDP (2013 est.)"
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "51.6%"
+        "text": "53.2%"
       },
       "industry": {
-        "text": "10.1%"
+        "text": "8%"
       },
       "services": {
-        "text": "38.2% (2014 est.)"
+        "text": "38.8% (2015 est.)"
       }
     },
     "Agriculture - products": {
@@ -509,7 +515,7 @@
       "text": "fish (tuna), mining, timber"
     },
     "Industrial production growth rate": {
-      "text": "1.4% (2014 est.)"
+      "text": "4.6% (2015 est.)"
     },
     "Labor force": {
       "text": "202,500 (2007 est.)"
@@ -541,71 +547,85 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$433.9 million"
+        "text": "$411.9 million"
       },
       "expenditures": {
-        "text": "$447.4 million (2014 est.)"
+        "text": "$433.6 million (2015 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "37.6% of GDP (2014 est.)"
+      "text": "35.9% of GDP (2015 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-1.2% of GDP (2014 est.)"
+      "text": "-1.9% of GDP (2015 est.)"
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Inflation rate (consumer prices)": {
-      "text": "5.2% (2014 est.) 5.4% (2013 est.)"
+      "text": "0.9% (2015 est.) 5.2% (2014 est.)"
     },
     "Commercial bank prime lending rate": {
-      "text": "10.91% (31 December 2014 est.) ++ 10.77% (31 December 2013 est.)"
+      "text": "10.48% (31 December 2015 est.) ++ 10.91% (31 December 2014 est.)"
     },
     "Stock of narrow money": {
-      "text": "$360.5 million (31 December 2014 est.) ++ $366.7 million (31 December 2013 est.)"
+      "text": "$405.7 million (31 December 2015 est.) ++ $360.5 million (31 December 2014 est.)"
     },
     "Stock of broad money": {
       "text": "$452.1 million (31 December 2014 est.) ++ $467.9 million (31 December 2013 est.)"
     },
     "Stock of domestic credit": {
-      "text": "$45.12 million (31 December 2014 est.) ++ $24.46 million (31 December 2013 est.)"
+      "text": "$84.69 million (31 December 2015 est.) ++ $45.12 million (31 December 2014 est.)"
     },
     "Current account balance": {
-      "text": "-$57 million (2014 est.) ++ -$47 million (2013 est.)"
+      "text": "-$30 million (2015 est.) ++ -$50 million (2014 est.)"
     },
     "Exports": {
-      "text": "$493.1 million (2012 est.) ++ $448.1 million (2013 est.)"
+      "text": "$419.9 million (2015 est.) ++ $455.1 million (2014 est.)"
     },
     "Exports - commodities": {
       "text": "timber, fish, copra, palm oil, cocoa"
     },
     "Exports - partners": {
-      "text": "China 62.9%, Italy 5.8%, Australia 5.4% (2014)"
+      "text": "China 61.7%, India 5.9%, Italy 5.9% (2015)"
     },
     "Imports": {
-      "text": "$446 million (2012 est.) ++ $464.5 million (2013 est.)"
+      "text": "$425.7 million (2015 est.) ++ $460.2 million (2014 est.)"
     },
     "Imports - commodities": {
       "text": "food, plant and equipment, manufactured goods, fuels, chemicals"
     },
     "Imports - partners": {
-      "text": "Australia 26%, Singapore 16.4%, China 10.3%, Malaysia 5.8%, NZ 5.1%, Indonesia 4.2%, Fiji 4.2%, Papua New Guinea 4.1% (2014)"
+      "text": "Australia 24.7%, China 18.4%, Malaysia 6.3%, Singapore 5.8%, Fiji 4.7%, NZ 4.6%, Papua New Guinea 4.6% (2015)"
     },
     "Debt - external": {
-      "text": "$466.9 million (31 December 2014 est.) ++ $228.1 million (31 December 2012 est.)"
+      "text": "$491.5 million (31 December 2013 est.) ++ $187.3 million (31 December 2014 est.)"
     },
     "Stock of direct foreign investment - at home": {
-      "text": "$799 million (31 December 2014 est.) ++ $751.3 million (31 December 2013 est.)"
+      "text": "$522.1 million (31 December 2015 est.) ++ $781.8 million (31 December 2014 est.)"
     },
     "Stock of direct foreign investment - abroad": {
-      "text": "$47.3 million (31 December 2014 est.) ++ $47.3 million (31 December 2013 est.)"
+      "text": "$50.1 million (31 December 2015 est.) ++ $48.2 million (31 December 2014 est.)"
     },
     "Exchange rates": {
-      "text": "Solomon Islands dollars (SBD) per US dollar - ++ 7.3754 (2014 est.) ++ 7.3754 (2013 est.) ++ 7.36 (2012 est.) ++ 7.6413 (2011 est.) ++ 8.0645 (2010 est.)"
+      "text": "Solomon Islands dollars (SBD) per US dollar - ++ 7.9147 (2015 est.) ++ 7.3754 (2014 est.) ++ 7.3754 (2013 est.) ++ 7.36 (2012 est.) ++ 7.6413 (2011 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "495,321"
+      },
+      "electrification - total population": {
+        "text": "23%"
+      },
+      "electrification - urban areas": {
+        "text": "62%"
+      },
+      "electrification - rural areas": {
+        "text": "13% (2012)"
+      }
+    },
     "Electricity - production": {
       "text": "85 million kWh (2012 est.)"
     },
@@ -679,47 +699,61 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "7,500"
+        "text": "7,438"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "1 (2014 est.)"
+        "text": "1 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "376,700"
+        "text": "425,000"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "62 (2014 est.)"
+        "text": "68 (July 2015 est.)"
       }
     },
     "Telephone system": {
       "domestic": {
-        "text": "mobile-cellular telephone density is about 50 per 100 persons"
+        "text": "mobile-cellular telephone density is about 65 per 100 persons"
       },
       "international": {
-        "text": "country code - 677; satellite earth station - 1 Intelsat (Pacific Ocean) (2011)"
+        "text": "country code - 677; satellite earth station - 1 Intelsat (Pacific Ocean) (2015)"
       }
     },
     "Broadcast media": {
       "text": "Solomon Islands Broadcasting Corporation (SIBC) is the sole TV broadcaster with 1 station; multi-channel pay-TV is available; SIBC operates 2 national radio stations and 2 provincial stations; 2 local commercial radio stations; Radio Australia is available via satellite feed (2009)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM 1, FM 1, shortwave 1 (2004)"
     },
     "Internet country code": {
       "text": ".sb"
     },
     "Internet users": {
       "total": {
-        "text": "46,400"
+        "text": "62,000"
       },
       "percent of population": {
-        "text": "7.6% (2014 est.)"
+        "text": "10% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "1"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "3"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "373,738"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "3,691,584 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "H4 (2016)"
+    },
     "Airports": {
       "text": "36 (2013)"
     },
@@ -742,7 +776,7 @@
         "text": "10"
       },
       "under 914 m": {
-        "text": " ++ 24 (2013)"
+        "text": "24 (2013)"
       }
     },
     "Heliports": {
@@ -768,30 +802,9 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "no regular military forces; Royal Solomon Islands Police Force (2013)"
-    },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "142,913 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "118,921"
-      },
-      "females age 16-49": {
-        "text": "118,164 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "6,483"
-      },
-      "female": {
-        "text": "6,098 (2010 est.)"
-      }
     }
   },
   "Transnational Issues": {
@@ -800,10 +813,10 @@
     },
     "Trafficking in persons": {
       "current situation": {
-        "text": "The Solomon Islands is a source and destination country for local adults and children and Southeast Asian men and women subjected to forced labor and forced prostitution; women from China, Indonesia, Malaysia, and the Philippines are recruited for legitimate work and upon arrival are forced into prostitution; men from Indonesia and Malaysia recruited to work in the Solomon Islands’ mining and logging industries may be subjected to forced labor; local children are forced into prostitution near foreign logging camps, on fishing vessels, and at hotel and other entertainment venues; some local children are also sold by their parents for marriage to foreign workers or put up for “informal adoption” and then find themselves forced into domestic servitude or forced prostitution"
+        "text": "the Solomon Islands is a source and destination country for local adults and children and Southeast Asian men and women subjected to forced labor and forced prostitution; women from China, Indonesia, Malaysia, and the Philippines are recruited for legitimate work and upon arrival are forced into prostitution; men from Indonesia and Malaysia recruited to work in the Solomon Islands’ mining and logging industries may be subjected to forced labor; local children are forced into prostitution near foreign logging camps, on fishing vessels, at hotels, and entertainment venues; some local children are also sold by their parents for marriage to foreign workers or put up for “informal adoption” to pay off debts and then find themselves forced into domestic servitude or forced prostitution"
       },
       "tier rating": {
-        "text": "Tier 2 Watch List – The Solomon Islands does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; in 2013, the government passed but did not gazette implementing regulations for 2012 legislation prohibiting all forms of human trafficking; authorities investigated an unspecified number of labor trafficking cases in the fishing industry but did not prosecute or convict any suspected offenders or actively assist victims; the government did not allocate funding for national anti-trafficking efforts in 2013; the country lacks systematic procedures for identifying trafficking victims among high-risk groups and a formal mechanism for referring victims to care; civil society and religious organizations provide limited services to victims; no anti-trafficking awareness-raising campaigns were conducted in 2013 (2014)"
+        "text": "Tier 2 Watch List – the Solomon Islands does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; in 2014, the Solomon Islands was granted a waiver from an otherwise required downgrade to Tier 3 because its government has a written plan that, if implemented, would constitute making significant efforts to bring itself into compliance with the minimum standards for the elimination of trafficking; the government gazetted implementing regulations for the 2012 immigration act prohibiting transnational trafficking, but the penalties are not sufficiently stringent because they allow the option of paying a fine; a new draft law to address these weaknesses awaits parliamentary review; no new trafficking investigations were conducted, even after labor inspections at logging and fishing companies, no existing cases led to prosecutions or convictions, and no funding was allocated for national anti-trafficking efforts; authorities did not identify or protect any victims and lack any procedures or shelters to do so; civil society and religious organizations provide most of the limited services available; a lack of understanding of the crime of trafficking remains a serious challenge (2015)"
       }
     }
   }

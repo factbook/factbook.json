@@ -29,10 +29,7 @@
       }
     },
     "Area - comparative": {
-      "text": "slightly smaller than the US contiguous 48 states",
-      "Area comparison map": {
-        "text": null
-      }
+      "text": "slightly smaller than the US contiguous 48 states"
     },
     "Land boundaries": {
       "text": "0 km"
@@ -60,12 +57,12 @@
     "Terrain": {
       "text": "mostly low plateau with deserts; fertile plain in southeast"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Lake Eyre -15 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "330 m"
       },
-      "highest point": {
-        "text": "Mount Kosciuszko 2,229 m"
+      "elevation extremes": {
+        "text": "lowest point: Lake Eyre -15 m ++ highest point: Mount Kosciuszko 2,229 m"
       }
     },
     "Natural resources": {
@@ -86,18 +83,7 @@
       }
     },
     "Irrigated land": {
-      "text": "23,780 sq km (2013)"
-    },
-    "Total renewable water resources": {
-      "text": "492 cu km (2011)"
-    },
-    "Freshwater withdrawal (domestic/industrial/agricultural)": {
-      "total": {
-        "text": "22.58  cu km/yr (27%/18%/55%)"
-      },
-      "per capita": {
-        "text": "1,152  cu m/yr (2010)"
-      }
+      "text": "25,500 sq km (2012)"
     },
     "Natural hazards": {
       "text": "cyclones along the coast; severe droughts; forest fires",
@@ -121,6 +107,9 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "22,992,654 (July 2016 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "Australian(s)"
@@ -139,29 +128,23 @@
       "text": "English 76.8%, Mandarin 1.6%, Italian 1.4%, Arabic 1.3%, Greek 1.2%, Cantonese 1.2%, Vietnamese 1.1%, other 10.4%, unspecified 5% (2011 est.)"
     },
     "Religions": {
-      "text": "Protestant 30.1% (Anglican 17.1%, Uniting Church 5.0%, Presbyterian and Reformed 2.8%, Baptist, 1.6%, Lutheran 1.2%, Pentecostal 1.1%, other Protestant 1.3%), Catholic 25.3% (Roman Catholic 25.1%, other Catholic .2%), other Christian 2.9%, Orthodox 2.8%, Buddhist 2.5%, Muslim 2.2%, Hindu 1.3%, other 1.3%, none 22.3%, unspecified 9.3% (2011 est.)"
-    },
-    "Population": {
-      "text": "22,751,014 (July 2015 est.)"
+      "text": "Protestant 30.1% (Anglican 17.1%, Uniting Church 5.0%, Presbyterian and Reformed 2.8%, Baptist, 1.6%, Lutheran 1.2%, Pentecostal 1.1%, other Protestant 1.3%), Catholic 25.3% (Roman Catholic 25.1%, other Catholic 0.2%), other Christian 2.9%, Orthodox 2.8%, Buddhist 2.5%, Muslim 2.2%, Hindu 1.3%, other 1.3%, none 22.3%, unspecified 9.3% (2011 est.)"
     },
     "Age structure": {
       "0-14 years": {
-        "text": "17.9% (male 2,089,561/female 1,982,719)"
+        "text": "17.84% (male 2,105,433/female 1,997,433)"
       },
       "15-24 years": {
-        "text": "13.14% (male 1,533,526/female 1,455,870)"
+        "text": "12.96% (male 1,528,993/female 1,451,340)"
       },
       "25-54 years": {
-        "text": "41.67% (male 4,822,083/female 4,658,371)"
+        "text": "41.55% (male 4,862,591/female 4,691,975)"
       },
       "55-64 years": {
-        "text": "11.82% (male 1,333,924/female 1,355,347)"
+        "text": "11.82% (male 1,347,780/female 1,369,501)"
       },
       "65 years and over": {
-        "text": "15.47% (male 1,628,108/female 1,891,505) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "15.82% (male 1,684,339/female 1,953,269) (2016 est.)"
       }
     },
     "Dependency ratios": {
@@ -180,26 +163,26 @@
     },
     "Median age": {
       "total": {
-        "text": "38.4 years"
+        "text": "38.6 years"
       },
       "male": {
-        "text": "37.7 years"
+        "text": "37.8 years"
       },
       "female": {
-        "text": "39.2 years (2015 est.)"
+        "text": "39.4 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "1.07% (2015 est.)"
+      "text": "1.05% (2016 est.)"
     },
     "Birth rate": {
-      "text": "12.15 births/1,000 population (2015 est.)"
+      "text": "12.1 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "7.14 deaths/1,000 population (2015 est.)"
+      "text": "7.2 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "5.65 migrant(s)/1,000 population (2015 est.)"
+      "text": "5.6 migrant(s)/1,000 population (2016 est.)"
     },
     "Urbanization": {
       "urban population": {
@@ -232,36 +215,39 @@
         "text": "0.86 male(s)/female"
       },
       "total population": {
-        "text": "1.01 male(s)/female (2015 est.)"
+        "text": "1.01 male(s)/female (2016 est.)"
       }
+    },
+    "Mother's mean age at first birth": {
+      "text": "30.5 (2006 est.)"
     },
     "Maternal mortality rate": {
       "text": "6 deaths/100,000 live births (2015 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "4.37 deaths/1,000 live births"
+        "text": "4.3 deaths/1,000 live births"
       },
       "male": {
-        "text": "4.67 deaths/1,000 live births"
+        "text": "4.6 deaths/1,000 live births"
       },
       "female": {
-        "text": "4.04 deaths/1,000 live births (2015 est.)"
+        "text": "4 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "82.15 years"
+        "text": "82.2 years"
       },
       "male": {
-        "text": "79.7 years"
+        "text": "79.8 years"
       },
       "female": {
-        "text": "84.74 years (2015 est.)"
+        "text": "84.8 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "1.77 children born/woman (2015 est.)"
+      "text": "1.77 children born/woman (2016 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "72.3%",
@@ -270,7 +256,7 @@
       }
     },
     "Health expenditures": {
-      "text": "9.4% of GDP (2013)"
+      "text": "9.4% of GDP (2014)"
     },
     "Physicians density": {
       "text": "3.27 physicians/1,000 population (2011)"
@@ -295,13 +281,13 @@
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "0.17% (2013 est.)"
+      "text": "0.16% (2015 est.)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
-      "text": "28,200 (2013 est.)"
+      "text": "26,900 (2015 est.)"
     },
     "HIV/AIDS - deaths": {
-      "text": "fewer than 100 (2013 est.)"
+      "text": "200 (2015 est.)"
     },
     "Obesity - adult prevalence rate": {
       "text": "29.9% (2014)"
@@ -310,7 +296,7 @@
       "text": "0.2% (2007)"
     },
     "Education expenditures": {
-      "text": "5.1% of GDP (2011)"
+      "text": "5.3% of GDP (2013)"
     },
     "School life expectancy (primary to tertiary education)": {
       "total": {
@@ -320,18 +306,18 @@
         "text": "20 years"
       },
       "female": {
-        "text": "21 years (2012)"
+        "text": "21 years (2013)"
       }
     },
     "Unemployment, youth ages 15-24": {
       "total": {
-        "text": "11.7%"
+        "text": "13.3%"
       },
       "male": {
-        "text": "12.4%"
+        "text": "14.1%"
       },
       "female": {
-        "text": "11% (2012 est.)"
+        "text": "12.5% (2014 est.)"
       }
     }
   },
@@ -343,12 +329,12 @@
       "conventional short form": {
         "text": "Australia"
       },
-      "note": {
-        "text": "the name Australia is derived from the Latin \"australis\" meaning southern; the Australian landmass was long referred to as \"Terra Australis\" or the Southern Land"
+      "etymology": {
+        "text": "the name Australia derives from the Latin \"australis\" meaning \"southern\"; the Australian landmass was long referred to as \"Terra Australis\" or the Southern Land"
       }
     },
     "Government type": {
-      "text": "federal parliamentary democracy and a Commonwealth realm"
+      "text": "parliamentary democracy (Federal Parliament) under a constitutional monarchy; a Commonwealth realm"
     },
     "Capital": {
       "name": {
@@ -380,7 +366,7 @@
       "text": "Australia Day (commemorates the arrival of the First Fleet of Australian settlers), 26 January (1788); ANZAC Day (commemorates the anniversary of the landing of troops of the Australian and New Zealand Army Corps during World War I at Gallipoli, Turkey), 25 April (1915)"
     },
     "Constitution": {
-      "text": "9 July 1900; effective 1 January 1901; amended several times, last in 1977; note - a referendum to amend the constitution to reflect the Aboriginal and Torres Strait Islander Peoples Recognition Act 2013 is planned for early 2017 (2015)"
+      "text": "9 July 1900; effective 1 January 1901; amended several times, last in 1977; note - a referendum to amend the constitution to reflect the Aboriginal and Torres Strait Islander Peoples Recognition Act 2013 is planned for early 2017 (2016)"
     },
     "Legal system": {
       "text": "common law system based on the English model"
@@ -389,8 +375,11 @@
       "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
     },
     "Citizenship": {
-      "birthright citizenship": {
-        "text": "no, unless one parent is a citizen or permenent resident"
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen or permanent resident of Australia"
       },
       "dual citizenship recognized": {
         "text": "yes"
@@ -407,7 +396,7 @@
         "text": "Queen of Australia ELIZABETH II (since 6 February 1952); represented by Governor General Sir Peter COSGROVE (since 28 March 2014)"
       },
       "head of government": {
-        "text": "Prime Minister Malcolm TURNBULL (since 15 September 2015); Deputy Prime Minister Warren TRUSS (since 18 September 2013)"
+        "text": "Prime Minister Malcolm TURNBULL (since 15 September 2015); Deputy Prime Minister Barnaby JOYCE (since 18 February 2016)"
       },
       "cabinet": {
         "text": "Cabinet nominated by the prime minister from among members of Parliament and sworn in by the governor general"
@@ -418,13 +407,13 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral Federal Parliament consists of the Senate (76 seats - 12 members from each of the 6 states and 2 from each of the 2 mainland territories; members directly elected in multi-seat constituencies by proportional representation vote; members serve 6-year terms with one-half of state membership renewed every 3 years and territory membership renewed every 3 years) and the House of Representatives (150 seats; members directly elected in single-seat constituencies by majority preferential vote; members serve terms of up to 3 years)"
+        "text": "bicameral Federal Parliament consists of the Senate (76 seats; 12 members from each of the 6 states and 2 each from the 2 mainland territories; members directly elected in multi-seat constituencies by proportional representation vote; members serve 6-year terms with one-half of state membership renewed every 3 years and territory membership renewed every 3 years) and the House of Representatives (150 seats; members directly elected in single-seat constituencies by majority preferential vote; members serve terms of up to 3 years)"
       },
       "elections": {
-        "text": "Senate - last held on 7 September 2013; House of Representatives - last held on 7 September 2013 (the latest a simultaneous half-Senate and House of Representative elections can be held is 30 November 2016)"
+        "text": "Senate - last held on 2 July 2016; House of Representatives - last held on 2 July 2016; this election represents a rare double dissolution where all 226 seats in both the Senate and House of Representatives are up for reelection"
       },
       "election results": {
-        "text": "Senate - seats by party - ALP 12, Lib 8, Liberal/National Coalition 5, The Greens 4, LNP 3, PUP 3, CLP 1, Family First 1, LDP 1, Motor Enthusiasts 1, Nick Kenophon Group 1; House of Representatives - percent of vote by party - Liberal/National Coalition 45.6%, ALP 33.4%, Greens 8.7%, PUP 5.5%, Katter's Australian Party 1.0%, other 4.5%, independent 1.4%; seats by party - Liberal/National Coalition 90 (Lib 58, LNP 22, Nats 9, CLP 1), ALP 55, Greens 1, Katter's Australian Party 1, PUP 1, independent 2"
+        "text": "Senate - percent of vote by party NA - awaiting final results; seats by party NA - awaiting final results; House of Representatives - percent of vote by party Liberal/National Coalition 42.14%, ALP 34.91%, The Greens 9.93%, Katter's Australian Party 0.55%, Nick Xenophon Team 1.86%, independents 2.85%; seats by party Liberal/National Coalition 77, ALP 68, The Greens 1, Katter's Australian Party 1, Nick Xenophon Team 1, independents 2"
       }
     },
     "Judicial branch": {
@@ -435,11 +424,11 @@
         "text": "justices appointed by the governor-general in council for life with mandatory retirement at age 70"
       },
       "subordinate courts": {
-        "text": "subordinate courts at the federal level: Federal Court; Federal Magistrates' Courts of Australia; Family Court; subordinate courts at the state and territory level: Local Court - New South Wales; Magistrates' Courts – Victoria, Queensland, South Australia, Western Australia, Tasmania, Northern Territory, Australian Capital Territory; District Courts – New South Wales, Queensland, South Australia, Western Australia; County Court – Victoria; Family Court – Western Australia; Court of Petty Sessions – Norfolk Island"
+        "text": "subordinate courts: subordinate courts at the federal level: Federal Court; Federal Magistrates' Courts of Australia; Family Court; subordinate courts at the state and territory level: Local Court - New South Wales; Magistrates' Courts – Victoria, Queensland, South Australia, Western Australia, Tasmania, Northern Territory, Australian Capital Territory; District Courts – New South Wales, Queensland, South Australia, Western Australia; County Court – Victoria; Family Court – Western Australia; Court of Petty Sessions – Norfolk Island"
       }
     },
     "Political parties and leaders": {
-      "text": "Australian Greens Party [Christine MILNE] ++ Australian Labor Party [Bill SHORTEN] ++ Country Liberal Party [Terry MILLS] ++ Family First Party [Steve FIELDING] ++ Katter's Australian Party [Bob KATTER] ++ Liberal National Party of Queensland [Campbell NEWMAN] ++ Liberal Party [Malcolm TURNBULL] ++ National Party of Australia [Warren TRUSS] ++ Palmer United Party [Clive PALMER]"
+      "text": "Australian Greens Party [Richard DI NATALE] ++ Australian Labor Party [Bill SHORTEN] ++ Country Liberal Party or CLP [Gary HIGGINS] ++ Family First Party [Bob DAY] ++ Katter's Australian Party [Bob KATTER] ++ Liberal National Party of Queensland or LNP [Timothy NICHOLLS] ++ Liberal Party [Malcolm TURNBULL] ++ National Party of Australia [Barnaby JOYCE] ++ Palmer United Party or PUP [Clive PALMER]"
     },
     "Political pressure groups and leaders": {
       "other": {
@@ -451,7 +440,7 @@
     },
     "Diplomatic representation in the US": {
       "chief of mission": {
-        "text": "Ambassador Kim Christian BEAZLEY (since 7 February 2010)"
+        "text": "Ambassador Joseph Benedict HOCKEY (since 28 January 2016)"
       },
       "chancery": {
         "text": "1601 Massachusetts Avenue NW, Washington, DC 20036"
@@ -506,58 +495,58 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Following two decades of continuous growth, low unemployment, contained inflation, very low public debt, and a strong and stable financial system, Australia enters 2015 facing a range of growth constraints, principally driven by a sharp fall in global prices of key export commodities. Although demand for resources and energy from Asia and especially China has grown rapidly, creating a channel for resources investments and growth in commodity exports, sharp drops in current prices have already impacted growth. ++  ++ The services sector is the largest part of the Australian economy, accounting for about 70% of GDP and 75% of jobs. Australia was comparatively unaffected by the global financial crisis as the banking system has remained strong and inflation is under control. ++  ++ Australia has benefited from a dramatic surge in its terms of trade in recent years, although this trend could reverse or slow due to falling global commodity prices. Australia is a significant exporter of natural resources, energy, and food. Australia's abundant and diverse natural resources attract high levels of foreign investment and include extensive reserves of coal, iron, copper, gold, natural gas, uranium, and renewable energy sources. A series of major investments, such as the US$40 billion Gorgon Liquid Natural Gas project, will significantly expand the resources sector. ++  ++ Australia is an open market with minimal restrictions on imports of goods and services. The process of opening up has increased productivity, stimulated growth, and made the economy more flexible and dynamic. Australia plays an active role in the World Trade Organization, APEC, the G20, and other trade forums. Australia entered into free trade agreements (FTAs) with the Republic of Korea and Japan, and concluded an FTA with China, in 2014, adding to existing FTAs with Chile, Malaysia, New Zealand, Singapore, Thailand, and the US, and a regional FTA with ASEAN and New Zealand. Australia continues to negotiate bilateral agreements with India and Indonesia, as well as larger agreements with its Pacific neighbors and the Gulf Cooperation Council countries, and an Asia-wide Regional Comprehensive Economic Partnership that includes the ten ASEAN countries and China, Japan, Korea, New Zealand and India. Australia is also working on the Trans-Pacific Partnership Agreement with Brunei, Canada, Chile, Japan, Malaysia, Mexico, New Zealand, Peru, Singapore, the US, and Vietnam."
+      "text": "Following two decades of continuous growth, low unemployment, contained inflation, very low public debt, and a strong and stable financial system, Australia enters 2016 facing a range of growth constraints, principally driven by a sharp fall in global prices of key export commodities. Demand for resources and energy from Asia and especially China has stalled and sharp drops in current prices have impacted growth. ++  ++ The services sector is the largest part of the Australian economy, accounting for about 70% of GDP and 75% of jobs. Australia was comparatively unaffected by the global financial crisis as the banking system has remained strong and inflation is under control. ++  ++ Australia benefited from a dramatic surge in its terms of trade in recent years, although this trend has reversed due to falling global commodity prices. Australia is a significant exporter of natural resources, energy, and food. Australia's abundant and diverse natural resources attract high levels of foreign investment and include extensive reserves of coal, iron, copper, gold, natural gas, uranium, and renewable energy sources. A series of major investments, such as the US$40 billion Gorgon Liquid Natural Gas project, will significantly expand the resources sector. ++  ++ Australia is an open market with minimal restrictions on imports of goods and services. The process of opening up has increased productivity, stimulated growth, and made the economy more flexible and dynamic. Australia plays an active role in the World Trade Organization, APEC, the G20, and other trade forums. Australia’s free trade agreement (FTA) with China entered into force in 2015, adding to existing FTAs with the Republic of Korea, Japan, Chile, Malaysia, New Zealand, Singapore, Thailand, and the US, and a regional FTA with ASEAN and New Zealand. Australia continues to negotiate bilateral agreements with India and Indonesia, as well as larger agreements with its Pacific neighbors and the Gulf Cooperation Council countries, and an Asia-wide Regional Comprehensive Economic Partnership that includes the ten ASEAN countries and China, Japan, Korea, New Zealand and India. Australia is also working on the Trans-Pacific Partnership Agreement with Brunei, Canada, Chile, Japan, Malaysia, Mexico, New Zealand, Peru, Singapore, the US, and Vietnam."
     },
     "GDP (purchasing power parity)": {
-      "text": "$1.1 trillion (2014 est.) ++ $1.071 trillion (2013 est.) ++ $1.049 trillion (2012 est.)",
+      "text": "$1.141 trillion (2015 est.) ++ $1.113 trillion (2014 est.) ++ $1.084 trillion (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$1.443 trillion (2014 est.)"
+      "text": "$1.225 trillion (2015 est.)"
     },
     "GDP - real growth rate": {
-      "text": "2.7% (2014 est.) ++ 2.1% (2013 est.) ++ 3.6% (2012 est.)"
+      "text": "2.4% (2015 est.) ++ 2.7% (2014 est.) ++ 2% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$46,600 (2014 est.) ++ $45,300 (2013 est.) ++ $44,400 (2012 est.)",
+      "text": "$47,600 (2015 est.) ++ $47,200 (2014 est.) ++ $46,600 (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "Gross national saving": {
-      "text": "23.9% of GDP (2014 est.) ++ 24.5% of GDP (2013 est.) ++ 24.5% of GDP (2012 est.)"
+      "text": "22.1% of GDP (2015 est.) ++ 23.7% of GDP (2014 est.) ++ 24.2% of GDP (2013 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "56%"
+        "text": "57.5%"
       },
       "government consumption": {
-        "text": "17.8%"
+        "text": "18.3%"
       },
       "investment in fixed capital": {
-        "text": "26.8%"
+        "text": "26%"
       },
       "investment in inventories": {
-        "text": "0%"
+        "text": "0.4%"
       },
       "exports of goods and services": {
-        "text": "20.4%"
+        "text": "19.5%"
       },
       "imports of goods and services": {
-        "text": "-21% ++  (2014 est.)"
+        "text": "-21.7% (2015 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "3.8%"
+        "text": "3.6%"
       },
       "industry": {
-        "text": "28.2%"
+        "text": "27.8%"
       },
       "services": {
-        "text": "68% (2014 est.)"
+        "text": "68.6% (2015 est.)"
       }
     },
     "Agriculture - products": {
@@ -567,10 +556,10 @@
       "text": "mining, industrial and transportation equipment, food processing, chemicals, steel"
     },
     "Industrial production growth rate": {
-      "text": "4.4% (2014 est.)"
+      "text": "1.5% (2015 est.)"
     },
     "Labor force": {
-      "text": "12.27 million (2014 est.)"
+      "text": "12.5 million (2015 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -584,7 +573,7 @@
       }
     },
     "Unemployment rate": {
-      "text": "6.1% (2014 est.) ++ 5.6% (2013 est.)"
+      "text": "6.1% (2015 est.) ++ 6.1% (2014 est.)"
     },
     "Population below poverty line": {
       "text": "NA%"
@@ -602,26 +591,26 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$487.7 billion"
+        "text": "$415.6 billion"
       },
       "expenditures": {
-        "text": "$519.6 billion (2014 est.)"
+        "text": "$436.3 billion (2015 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "33.8% of GDP (2014 est.)"
+      "text": "34% of GDP (2015 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-2.2% of GDP (2014 est.)"
+      "text": "-1.7% of GDP (2015 est.)"
     },
     "Public debt": {
-      "text": "42.4% of GDP (2014 est.) ++ 38.3% of GDP (2013 est.)"
+      "text": "44.2% of GDP (2015 est.) ++ 42.2% of GDP (2014 est.)"
     },
     "Fiscal year": {
       "text": "1 July - 30 June"
     },
     "Inflation rate (consumer prices)": {
-      "text": "2.5% (2014 est.) ++ 2.4% (2013 est.)"
+      "text": "1.5% (2015 est.) ++ 2.5% (2014 est.)"
     },
     "Central bank discount rate": {
       "text": "3% (28 February 2013) ++ 4.35% (31 December 2010)",
@@ -630,58 +619,63 @@
       }
     },
     "Commercial bank prime lending rate": {
-      "text": "5.95% (31 December 2014 est.) ++ 6.18% (31 December 2013 est.)"
+      "text": "5.58% (31 December 2015 est.) ++ 5.95% (31 December 2014 est.)"
     },
     "Stock of narrow money": {
-      "text": "$227.2 billion (31 December 2014 est.) ++ $226.6 billion (31 December 2013 est.)"
+      "text": "$223.2 billion (31 December 2015 est.) ++ $224.9 billion (31 December 2014 est.)"
     },
     "Stock of broad money": {
       "text": "$1.661 trillion (31 December 2013 est.) ++ $1.648 trillion (31 December 2012 est.)"
     },
     "Stock of domestic credit": {
-      "text": "$2.097 trillion (31 December 2014 est.) ++ $2.114 trillion (31 December 2013 est.)"
+      "text": "$1.986 trillion (31 December 2015 est.) ++ $2.09 trillion (31 December 2014 est.)"
     },
     "Market value of publicly traded shares": {
-      "text": "$1.286 trillion (31 December 2012 est.) ++ $1.198 trillion (31 December 2011) ++ $1.455 trillion (31 December 2010 est.)"
+      "text": "$1.187 trillion (31 December 2015 est.) ++ $1.289 trillion (31 December 2014 est.) ++ $1.366 trillion (31 December 2013 est.)"
     },
     "Current account balance": {
-      "text": "-$43.75 billion (2014 est.) ++ -$51.54 billion (2013 est.)"
+      "text": "-$57.98 billion (2015 est.) ++ -$42.61 billion (2014 est.)"
     },
     "Exports": {
-      "text": "$240.8 billion (2014 est.) ++ $254.2 billion (2013 est.)"
+      "text": "$188.3 billion (2015 est.) ++ $240.7 billion (2014 est.)"
     },
     "Exports - commodities": {
       "text": "coal, iron ore, gold, meat, wool, alumina, wheat, machinery and transport equipment"
     },
     "Exports - partners": {
-      "text": "China 33.7%, Japan 18%, South Korea 7.4%, US 4.2% (2014)"
+      "text": "China 32.2%, Japan 15.9%, South Korea 7.1%, US 5.4%, India 4.2% (2015)"
     },
     "Imports": {
-      "text": "$240.5 billion (2014 est.) ++ $250 billion (2013 est.)"
+      "text": "$207.7 billion (2015 est.) ++ $240.3 billion (2014 est.)"
     },
     "Imports - commodities": {
       "text": "machinery and transport equipment, computers and office machines, telecommunication equipment and parts; crude oil and petroleum products"
     },
     "Imports - partners": {
-      "text": "China 20.5%, US 10.6%, Japan 6.8%, Singapore 5%, Germany 4.7%, South Korea 4.7%, Malaysia 4.4%, Thailand 4.3% (2014)"
+      "text": "China 23%, US 11.2%, Japan 7.4%, South Korea 5.5%, Thailand 5.1%, Germany 4.6% (2015)"
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$53.89 billion (31 December 2014 est.) ++ $52.8 billion (31 December 2013 est.)"
+      "text": "$49.27 billion (31 December 2015 est.) ++ $53.89 billion (31 December 2014 est.)"
     },
     "Debt - external": {
-      "text": "$1.535 trillion (31 December 2014 est.) ++ $1.49 trillion (31 December 2013 est.)"
+      "text": "$1.524 trillion (31 December 2015 est.) ++ $1.552 trillion (31 December 2014 est.)"
     },
     "Stock of direct foreign investment - at home": {
-      "text": "$593.8 billion (31 December 2014 est.) ++ $595.5 billion (31 December 2013 est.)"
+      "text": "$582.6 billion (31 December 2015 est.) ++ $599.5 billion (31 December 2014 est.)"
     },
     "Stock of direct foreign investment - abroad": {
-      "text": "$473.3 billion (31 December 2014 est.) ++ $483.9 billion (31 December 2013 est.)"
+      "text": "$437.8 billion (31 December 2015 est.) ++ $483.1 billion (31 December 2014 est.)"
     },
     "Exchange rates": {
-      "text": "Australian dollars (AUD) per US dollar - ++ 1.1094 (2014 est.) ++ 1.1094 (2013 est.) ++ 0.97 (2012 est.) ++ 0.9695 (2011 est.) ++ 1.0902 (2010)"
+      "text": "Australian dollars (AUD) per US dollar - ++ 1.3291 (2015 est.) ++ 1.1078 (2014 est.) ++ 1.1094 (2013 est.) ++ 0.97 (2012 est.) ++ 0.9695 (2011 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
+    },
     "Electricity - production": {
       "text": "235.2 billion kWh (2012 est.)"
     },
@@ -755,18 +749,18 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "9.19 million"
+        "text": "9.08 million"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "41 (2014 est.)"
+        "text": "40 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "31 million"
+        "text": "31.77 million"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "138 (2014 est.)"
+        "text": "140 (July 2015 est.)"
       }
     },
     "Telephone system": {
@@ -777,31 +771,42 @@
         "text": "domestic satellite system; significant use of radiotelephone in areas of low population density; rapid growth of mobile telephones"
       },
       "international": {
-        "text": "country code - 61; landing point for the SEA-ME-WE-3 optical telecommunications submarine cable with links to Asia, the Middle East, and Europe; the Southern Cross fiber optic submarine cable provides links to New Zealand and the United States; satellite earth stations - 10 Intelsat (4 Indian Ocean and 6 Pacific Ocean), 2 Inmarsat, 2 Globalstar, 5 other) (2007)"
+        "text": "country code - 61; landing point for the SEA-ME-WE-3 optical telecommunications submarine cable with links to Asia, the Middle East, and Europe; the Southern Cross fiber-optic submarine cable provides links to NZ and the US; satellite earth stations - 10 Intelsat (4 Indian Ocean and 6 Pacific Ocean), 2 Inmarsat, 2 Globalstar, 5 other) (2015)"
       }
     },
     "Broadcast media": {
       "text": "the Australian Broadcasting Corporation (ABC) runs multiple national and local radio networks and TV stations, as well as Australia Network, a TV service that broadcasts throughout the Asia-Pacific region and is the main public broadcaster; Special Broadcasting Service (SBS), a second large public broadcaster, operates radio and TV networks broadcasting in multiple languages; several large national commercial TV networks, a large number of local commercial TV stations, and hundreds of commercial radio stations are accessible; cable and satellite systems are available (2008)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM 262, FM 345, shortwave 1 (1998)"
-    },
-    "Television broadcast stations": {
-      "text": "104 (1997)"
     },
     "Internet country code": {
       "text": ".au"
     },
     "Internet users": {
       "total": {
-        "text": "20.2 million"
+        "text": "19.238 million"
       },
       "percent of population": {
-        "text": "89.6% (2014 est.)"
+        "text": "84.6% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "11"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "175"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "69,294,187"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "1,887,295,820 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "VH (2016)"
+    },
     "Airports": {
       "text": "480 (2013)"
     },
@@ -836,7 +841,7 @@
         "text": "101"
       },
       "under 914 m": {
-        "text": " ++ 14 (2013)"
+        "text": "14 (2013)"
       }
     },
     "Heliports": {
@@ -902,36 +907,12 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
-      "text": "Australian Defense Force (ADF): Australian Army; Royal Australian Navy (includes Naval Aviation Force); Royal Australian Air Force; Joint Operations Command (JOC) (2013)"
+      "text": "Australian Defense Force (ADF): Australian Army, Royal Australian Navy (includes Naval Aviation Force), Royal Australian Air Force, Joint Operations Command (JOC) (2013)"
     },
     "Military service age and obligation": {
       "text": "17 years of age for voluntary military service (with parental consent); no conscription; women allowed to serve in most combat roles, except the Army special forces (2013)"
-    },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "5,316,464"
-      },
-      "females age 16-49": {
-        "text": "5,116,722 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "4,411,958"
-      },
-      "females age 16-49": {
-        "text": "4,239,985 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "143,565"
-      },
-      "female": {
-        "text": "135,800 (2010 est.)"
-      }
     },
     "Military expenditures": {
       "text": "1.71% of GDP (2012) ++ 1.84% of GDP (2011) ++ 1.71% of GDP (2010)"
@@ -939,11 +920,11 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "In 2007, Australia and Timor-Leste agreed to a 50-year development zone and revenue sharing arrangement and deferred a maritime boundary; Australia asserts land and maritime claims to Antarctica; Australia's 2004 submission to the Commission on the Limits of the Continental Shelf (CLCS) extends its continental margins over 3.37 million square kilometers, expanding its seabed roughly 30 percent beyond its claimed exclusive economic zone; all borders between Indonesia and Australia have been agreed upon bilaterally, but a 1997 treaty that would settle the last of their maritime and Exclusive Economic Zone (EEZ) boundary has yet to be ratified by Indonesia's legislature; Indonesian groups challenge Australia's claim to Ashmore Reef; Australia closed parts of the Ashmore and Cartier reserve to Indonesian traditional fishing"
+      "text": "In 2007, Australia and Timor-Leste agreed to a 50-year development zone and revenue sharing arrangement and deferred a maritime boundary; Australia asserts land and maritime claims to Antarctica; Australia's 2004 submission to the Commission on the Limits of the Continental Shelf extends its continental margins over 3.37 million square kilometers, expanding its seabed roughly 30 percent beyond its claimed EEZ; all borders between Indonesia and Australia have been agreed upon bilaterally, but a 1997 treaty that would settle the last of their maritime and EEZ boundary has yet to be ratified by Indonesia's legislature; Indonesian groups challenge Australia's claim to Ashmore Reef; Australia closed parts of the Ashmore and Cartier reserve to Indonesian traditional fishing"
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
-        "text": "7,675 (Afghanistan) (2014)"
+        "text": "7,785 (Afghanistan); 5,201 (Iran) (2015)"
       }
     },
     "Illicit drugs": {

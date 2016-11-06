@@ -29,10 +29,7 @@
       }
     },
     "Area - comparative": {
-      "text": "slightly smaller than California",
-      "Area comparison map": {
-        "text": null
-      }
+      "text": "slightly smaller than California"
     },
     "Land boundaries": {
       "text": "0 km"
@@ -57,12 +54,12 @@
     "Terrain": {
       "text": "mostly rugged and mountainous"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Hachiro-gata -4 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "438 m"
       },
-      "highest point": {
-        "text": "Mount Fuji 3,776 m"
+      "elevation extremes": {
+        "text": "lowest point: Hachiro-gata -4 m ++ highest point: Mount Fuji 3,776 m"
       }
     },
     "Natural resources": {
@@ -83,18 +80,7 @@
       }
     },
     "Irrigated land": {
-      "text": "25,000 sq km (2010)"
-    },
-    "Total renewable water resources": {
-      "text": "430 cu km (2011)"
-    },
-    "Freshwater withdrawal (domestic/industrial/agricultural)": {
-      "total": {
-        "text": "90.04  cu km/yr (20%/18%/62%)"
-      },
-      "per capita": {
-        "text": "714.3  cu m/yr (2007)"
-      }
+      "text": "24,690 sq km (2012)"
     },
     "Natural hazards": {
       "text": "many dormant and some active volcanoes; about 1,500 seismic occurrences (mostly tremors but occasional severe earthquakes) every year; tsunamis; typhoons",
@@ -103,7 +89,7 @@
       }
     },
     "Environment - current issues": {
-      "text": "air pollution from power plant emissions results in acid rain; acidification of lakes and reservoirs degrading water quality and threatening aquatic life; Japan is one of the largest consumers of fish and tropical timber, contributing to the depletion of these resources in Asia and elsewhere; following the 2011 Fukushima nuclear disaster, Japan now seeks to make itself nuclear free by the 2030s"
+      "text": "air pollution from power plant emissions results in acid rain; acidification of lakes and reservoirs degrading water quality and threatening aquatic life; Japan is one of the largest consumers of fish and tropical timber, contributing to the depletion of these resources in Asia and elsewhere; following the 2011 Fukushima nuclear disaster, Japan originally planned to phase out nuclear power, but it has now implemented a new policy of seeking to restart nuclear power plants that meet strict new safety standards"
     },
     "Environment - international agreements": {
       "party to": {
@@ -114,10 +100,13 @@
       }
     },
     "Geography - note": {
-      "text": "strategic location in northeast Asia"
+      "text": "strategic location in northeast Asia; composed of four main islands - from north Hokkaido, Honshu, Shikoku, and Kyushu (the \"Home Islands\") - and 6,848 smaller islands and islets"
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "126,702,133 (July 2016 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "Japanese (singular and plural)"
@@ -141,27 +130,21 @@
         "text": "total adherents exceeds 100% because many people practice both Shintoism and Buddhism (2012 est.)"
       }
     },
-    "Population": {
-      "text": "126,919,659 (July 2015 est.)"
-    },
     "Age structure": {
       "0-14 years": {
-        "text": "13.11% (male 8,582,648/female 8,051,706)"
+        "text": "12.97% (male 8,472,869/female 7,963,782)"
       },
       "15-24 years": {
-        "text": "9.68% (male 6,436,948/female 5,846,808)"
+        "text": "9.67% (male 6,436,935/female 5,813,222)"
       },
       "25-54 years": {
-        "text": "37.87% (male 23,764,421/female 24,297,773)"
+        "text": "37.68% (male 23,593,194/female 24,145,406)"
       },
       "55-64 years": {
-        "text": "12.76% (male 8,104,835/female 8,084,317)"
+        "text": "12.4% (male 7,867,611/female 7,840,141)"
       },
       "65 years and over": {
-        "text": "26.59% (male 14,693,811/female 19,056,392) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "27.28% (male 15,080,738/female 19,488,235) (2016 est.)"
       }
     },
     "Dependency ratios": {
@@ -180,26 +163,26 @@
     },
     "Median age": {
       "total": {
-        "text": "46.5 years"
+        "text": "46.9 years"
       },
       "male": {
-        "text": "45.2 years"
+        "text": "45.6 years"
       },
       "female": {
-        "text": "47.9 years (2015 est.)"
+        "text": "48.3 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "-0.16% (2015 est.)"
+      "text": "-0.19% (2016 est.)"
     },
     "Birth rate": {
-      "text": "7.93 births/1,000 population (2015 est.)"
+      "text": "7.8 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "9.51 deaths/1,000 population (2015 est.)"
+      "text": "9.6 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "0 migrant(s)/1,000 population (2015 est.)"
+      "text": "0 migrant(s)/1,000 population (2016 est.)"
     },
     "Urbanization": {
       "urban population": {
@@ -217,10 +200,10 @@
         "text": "1.06 male(s)/female"
       },
       "0-14 years": {
-        "text": "1.07 male(s)/female"
+        "text": "1.06 male(s)/female"
       },
       "15-24 years": {
-        "text": "1.1 male(s)/female"
+        "text": "1.11 male(s)/female"
       },
       "25-54 years": {
         "text": "0.98 male(s)/female"
@@ -232,36 +215,39 @@
         "text": "0.77 male(s)/female"
       },
       "total population": {
-        "text": "0.94 male(s)/female (2015 est.)"
+        "text": "0.94 male(s)/female (2016 est.)"
       }
+    },
+    "Mother's mean age at first birth": {
+      "text": "30.3 (2012 est.)"
     },
     "Maternal mortality rate": {
       "text": "5 deaths/100,000 live births (2015 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "2.08 deaths/1,000 live births"
+        "text": "2 deaths/1,000 live births"
       },
       "male": {
-        "text": "2.31 deaths/1,000 live births"
+        "text": "2.3 deaths/1,000 live births"
       },
       "female": {
-        "text": "1.84 deaths/1,000 live births (2015 est.)"
+        "text": "1.8 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "84.74 years"
+        "text": "85 years"
       },
       "male": {
-        "text": "81.4 years"
+        "text": "81.7 years"
       },
       "female": {
-        "text": "88.26 years (2015 est.)"
+        "text": "88.5 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "1.4 children born/woman (2015 est.)"
+      "text": "1.41 children born/woman (2016 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "54.3%",
@@ -270,7 +256,7 @@
       }
     },
     "Health expenditures": {
-      "text": "10.3% of GDP (2013)"
+      "text": "10.2% of GDP (2014)"
     },
     "Physicians density": {
       "text": "2.3 physicians/1,000 population (2010)"
@@ -306,8 +292,11 @@
     "Obesity - adult prevalence rate": {
       "text": "3.5% (2014)"
     },
+    "Children under the age of 5 years underweight": {
+      "text": "3.4% (2010)"
+    },
     "Education expenditures": {
-      "text": "3.8% of GDP (2012)"
+      "text": "3.8% of GDP (2014)"
     },
     "School life expectancy (primary to tertiary education)": {
       "total": {
@@ -317,18 +306,18 @@
         "text": "15 years"
       },
       "female": {
-        "text": "15 years (2012)"
+        "text": "15 years (2013)"
       }
     },
     "Unemployment, youth ages 15-24": {
       "total": {
-        "text": "7.9%"
+        "text": "5.9%"
       },
       "male": {
-        "text": "8.7%"
+        "text": "6.4%"
       },
       "female": {
-        "text": "7.1% (2012 est.)"
+        "text": "5.4% (2014 est.)"
       }
     }
   },
@@ -345,10 +334,13 @@
       },
       "local short form": {
         "text": "Nihon/Nippon"
+      },
+      "etymology": {
+        "text": "the English word for Japan comes via the Chinese name for the country \"Cipangu\"; both Nihon and Nippon mean \"where the sun originates\" and are frequently translated as \"Land of the rising sun\""
       }
     },
     "Government type": {
-      "text": "a parliamentary government with a constitutional monarchy"
+      "text": "parliamentary constitutional monarchy"
     },
     "Capital": {
       "name": {
@@ -371,7 +363,7 @@
       "text": "Birthday of Emperor AKIHITO, 23 December (1933)"
     },
     "Constitution": {
-      "text": "previous 1890; latest approved 6 October 1946, adopted 3 November 1946, effective 3 May 1947 ; note - the constitution has not been amended since its enactment in 1947 (2015)"
+      "text": "previous 1890; latest approved 6 October 1946, adopted 3 November 1946, effective 3 May 1947 ; note - the constitution has not been amended since its enactment in 1947 (2016)"
     },
     "Legal system": {
       "text": "civil law system based on German model; system also reflects Anglo-American influence and Japanese traditions; judicial review of legislative acts in the Supreme Court"
@@ -379,8 +371,22 @@
     "International law organization participation": {
       "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
     },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Japan"
+      },
+      "dual citizenship recognized": {
+        "text": "no"
+      },
+      "residency requirement for naturalization": {
+        "text": "5 years"
+      }
+    },
     "Suffrage": {
-      "text": "20 years of age; universal"
+      "text": "18 years of age; universal"
     },
     "Executive branch": {
       "chief of state": {
@@ -401,10 +407,10 @@
         "text": "bicameral Diet or Kokkai consists of the House of Councillors or Sangi-in (242 seats; 146 members directly elected by majority vote and 96 directly elected in multi-seat constituencies by proportional representation vote; members serve 6-year terms with one-half of the membership renewed every 3 years) and the House of Representatives or Shugi-in (475 seats; 295 members directly elected in single-seat constituencies by simple majority vote and 180 directly elected in multi-seat constituencies by proportional representation vote; members serve maximum 4-year terms with one-half of the membership renewed every 2 years) "
       },
       "elections": {
-        "text": "House of Councillors - last held on 21 July 2013 (next to be held in July 2016); House of Representatives - last held on 14 December 2014 (next to be held by 15 December 2016)"
+        "text": "House of Councillors - last held on 10 July 2016 (next to be held in July 2019); House of Representatives - last held on 14 December 2014 (next to be held by 15 December 2016)"
       },
       "election results": {
-        "text": "House of Councillors - percent of vote by party - NA; seats by party - LPD 115, DPJ 59, New Komeito 20, Your Party 18, JCP 11, JRP 9, SDP 3, others 4, independents 3 ++ House of Representatives - percent of vote by party - LDP 61.26%, DPJ 15.37%, JIP 8.63%, New Komeito 7.37%, JCP 4.42%, PFG .42%, SDP .42%, PLP .42%, independents 1.68%; seats by party - LDP 291, DPJ 73, JIP 41, New Komeito 35, JCP 21, PFG 2, SDP 2, PLP 2, independents 8"
+        "text": "House of Councillors - percent of vote by party - NA; seats by party - LPD 123, DP 51, Komeito 25, JCP 14, Osaka Ishin no Kai (Initiatives from Osaka) 12, Independents Club 5, The Party for Japanese Kokoro 3, independents 2; note: 7 seats are pending confirmation ++ House of Representatives - percent of vote by party - NA; seats by party - LDP 291, DPJ 71, Komeito 35, JCP 21, JIP 21, Osaka Ishin no Kai 13, Group of Reformists 5, SDP 2, PLPTYF 2, independents 13, 1 seat vacant"
       },
       "note": {
         "text": "the 2013 amended electoral law - effective for the December 2016 election - reduced to 475 the number of seats in the House of Representatives"
@@ -422,7 +428,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Democratic Party of Japan or DPJ [Banri KAIEDA] ++ Japan Communist Party or JCP [Kazuo SHII] ++ Japan Innovation Party or JIP [Kenji EDA] ++ Liberal Democratic Party or LDP [Shinzo ABE] ++ New Komeito or NK [Natsuo YAMAGUCHI] ++ Party for Future Generations or PFG [Shintaro ISHIHARA] ++ People's Life Party or PLP [Ichiro OZAWA] ++ Social Democratic Party or SDP [Tadatomo YOSHIDA]"
+      "text": "Democratic Party of Japan or DPJ [Renho MURATA] ++ Group of Reformists [Sakihito OZAWA] ++ Japan Communist Party or JCP [Kazuo SHII] ++ Japan Innovation Party or JIP [Yorihisa MATSUNO] ++ Komeito [Natsuo YAMAGUCHI] ++ Liberal Democratic Party or LDP [Shinzo ABE] ++ New Renaissance Party [Hiroyuki ARAI] ++ Osaka Ishin no Kai [Ichiro MATSUI] ++ Party for Future Generations or PFG [Kyoko NAKAYAMA] ++ People's Life Party & Taro Yamamoto and Friends or PLPTYF [Ichiro OZAWA] ++ Social Democratic Party or SDP [Tadatomo YOSHIDA] ++ The Assembly to Energize Japan and the Independents [Kota MATSUDA]"
     },
     "Political pressure groups and leaders": {
       "other": {
@@ -492,47 +498,47 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "In the years following World War II, government-industry cooperation, a strong work ethic, mastery of high technology, and a comparatively small defense allocation (1% of GDP) helped Japan develop an advanced economy. Two notable characteristics of the post-war economy were the close interlocking structures of manufacturers, suppliers, and distributors, known as keiretsu, and the guarantee of lifetime employment for a substantial portion of the urban labor force. Both features are now eroding under the dual pressures of global competition and domestic demographic change.  Scarce in many natural resources, Japan has long been dependent on imported raw materials.  Since the complete shutdown of Japan’s nuclear reactors after the earthquake and tsunami disaster in 2011, Japan's industrial sector has become even more dependent than it was previously on imported fossil fuels. A small agricultural sector is highly subsidized and protected, with crop yields among the highest in the world. While self-sufficient in rice production, Japan imports about 60% of its food on a caloric basis. For three decades, overall real economic growth had been impressive - a 10% average in the 1960s, a 5% average in the 1970s, and a 4% average in the 1980s. Growth slowed markedly in the 1990s, averaging just 1.7%, largely because of the aftereffects of inefficient investment and an asset price bubble in the late 1980s that required a protracted period of time for firms to reduce excess debt, capital, and labor. Modest economic growth continued after 2000, but the economy has fallen into recession four times since 2008. Government stimulus spending helped the economy recover in late 2009 and 2010, but the economy contracted again in 2011 as the massive 9.0 magnitude earthquake and the ensuing tsunami in March of that year disrupted manufacturing. The economy has largely recovered in the four years since the disaster, although reconstruction in the affected Tohoku region has lagged, in part due to a shortage of labor in the construction sector. Japan enjoyed a sharp uptick in growth in 2013 on the basis of Prime Minister Shinzo Abe’s “Three Arrows” economic revitalization agenda - dubbed “Abenomics” - of monetary easing, “flexible” fiscal policy, and structural reform.  Abe’s government has replaced the preceding administration’s plan to phase out nuclear power with a new policy of seeking to restart nuclear power plants that meet strict new safety standards, and emphasizing nuclear energy’s importance as a base-load electricity source.  Japan joined the Trans-Pacific Partnership (TPP) negotiations in 2013, a pact that would open Japan's economy to increased foreign competition and create new export opportunities for Japanese businesses. Measured on a purchasing power parity (PPP) basis that adjusts for price differences, Japan in 2014 stood as the fourth-largest economy in the world after first-place China, which surpassed Japan in 2001, and third-place India, which edged out Japan in 2012. While seeking to stimulate and reform the economy, the government must also devise a strategy for reining in Japan's huge government debt, which amounts to more than 230% of GDP. To help raise government revenue, Japan adopted legislation in 2012 to gradually raise the consumption tax rate to 10% by 2015, beginning with a hike from 5% to 8% implemented in April 2014.  That increase had a contractionary effect on GDP, however, so PM Abe in late 2014 decided to postpone the final phase of the increase until April 2017 to give the economy more time to recover. Led by the Bank of Japan’s aggressive monetary easing, Japan is making progress in ending deflation, but demographics - low birthrate and an aging, shrinking population - pose major long-term challenges for the economy."
+      "text": "Over the past 70 years, government-industry cooperation, a strong work ethic, mastery of high technology, and a comparatively small defense allocation (1% of GDP) have helped Japan develop an advanced economy. Two notable characteristics of the post-World War II economy were the close interlocking structures of manufacturers, suppliers, and distributors, known as keiretsu, and the guarantee of lifetime employment for a substantial portion of the urban labor force. Both features are now eroding under the dual pressures of global competition and domestic demographic change. ++  ++ Scarce in many natural resources, Japan has long been dependent on imported raw materials. Since the complete shutdown of Japan’s nuclear reactors after the earthquake and tsunami disaster in 2011, Japan's industrial sector has become even more dependent than before on imported fossil fuels. A small agricultural sector is highly subsidized and protected, with crop yields among the highest in the world. While self-sufficient in rice production, Japan imports about 60% of its food on a caloric basis. ++  ++ For three decades, overall real economic growth had been impressive - a 10% average in the 1960s, 5% in the 1970s, and 4% in the 1980s. Growth slowed markedly in the 1990s, averaging just 1.7%, largely because of the aftereffects of inefficient investment and an asset price bubble in the late 1980s, after which it took a considerable time for firms to reduce excess debt, capital, and labor. Modest economic growth continued after 2000, but the economy has fallen into recession four times since 2008. Government stimulus spending helped the economy recover in late 2009 and 2010, but the economy contracted again in 2011 as the massive 9.0 magnitude earthquake and the ensuing tsunami in March of that year disrupted economic activity. The economy has largely recovered in the five years since the disaster, although output in the affected areas continues to lag behind the national average. ++  ++ Japan enjoyed a sharp uptick in growth in 2013 on the basis of Prime Minister Shinzo ABE’s “Three Arrows” economic revitalization agenda - dubbed “Abenomics” - of monetary easing, “flexible” fiscal policy, and structural reform. In 2015, ABE revised his “Three Arrows” to raise nominal GDP by 20% to 600 trillion yen by 2020, stem population decline by raising the fertility rate, and provide more support for workers with children and aging relatives. ABE’s government has replaced the preceding administration’s plan to phase out nuclear power with a new policy of seeking to restart nuclear power plants that meet strict new safety standards, and emphasizing nuclear energy’s importance as a base-load electricity source. Japan successfully restarted two nuclear reactors at the Sendai Nuclear Power Plant in Kagoshima prefecture. In October 2015, Japan and 11 trading partners reached agreement on the Trans-Pacific Partnership, a pact that promises to open Japan's economy to increased foreign competition and create new export opportunities for Japanese businesses. ++  ++ Measured on a purchasing power parity (PPP) basis that adjusts for price differences, Japan in 2015 stood as the fourth-largest economy in the world after first-place China, which surpassed Japan in 2001, and third-place India, which edged out Japan in 2012. While seeking to stimulate and reform the economy, the government must also devise a strategy for reining in Japan's huge government debt, which amounts to more than 230% of GDP. To help raise government revenue, Japan adopted legislation in 2012 to gradually raise the consumption tax rate to 10% by 2015, beginning with a hike from 5% to 8%, implemented in April 2014. That increase had a contractionary effect on GDP, however, so PM ABE in late 2014 decided to postpone the final phase of the increase until April 2017 to give the economy more time to recover. Led by the Bank of Japan’s aggressive monetary easing, Japan is making progress in ending deflation, but demographic decline – a low birthrate and an aging, shrinking population – poses a major long-term challenge for the economy."
     },
     "GDP (purchasing power parity)": {
-      "text": "$4.767 trillion (2014 est.) ++ $4.772 trillion (2013 est.) ++ $4.697 trillion (2012 est.)",
+      "text": "$4.843 trillion (2015 est.) ++ $4.817 trillion (2014 est.) ++ $4.819 trillion (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$4.602 trillion (2014 est.)"
+      "text": "$4.124 trillion (2015 est.)"
     },
     "GDP - real growth rate": {
-      "text": "-0.1% (2014 est.) ++ 1.6% (2013 est.) ++ 1.7% (2012 est.)"
+      "text": "0.5% (2015 est.) ++ 0% (2014 est.) ++ 1.4% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$37,500 (2014 est.) ++ $37,600 (2013 est.) ++ $37,000 (2012 est.)",
+      "text": "$38,100 (2015 est.) ++ $37,900 (2014 est.) ++ $37,800 (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "Gross national saving": {
-      "text": "22.4% of GDP (2014 est.) ++ 22% of GDP (2013 est.) ++ 21.9% of GDP (2012 est.)"
+      "text": "25.3% of GDP (2015 est.) ++ 22.6% of GDP (2014 est.) ++ 22.2% of GDP (2013 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "60.6%"
+        "text": "58.6%"
       },
       "government consumption": {
-        "text": "20.7%"
+        "text": "20.4%"
       },
       "investment in fixed capital": {
-        "text": "22.3%"
+        "text": "21.7%"
       },
       "investment in inventories": {
-        "text": "-0.5%"
+        "text": "0.3%"
       },
       "exports of goods and services": {
-        "text": "17.7%"
+        "text": "17.9%"
       },
       "imports of goods and services": {
-        "text": "-20.8% ++  (2014 est.)"
+        "text": "-18.9% (2015 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
@@ -540,10 +546,10 @@
         "text": "1.2%"
       },
       "industry": {
-        "text": "26.8%"
+        "text": "27.5%"
       },
       "services": {
-        "text": "72% (2014 est.)"
+        "text": "71.3% (2015 est.)"
       }
     },
     "Agriculture - products": {
@@ -553,10 +559,10 @@
       "text": "among world's largest and most technologically advanced producers of motor vehicles, electronic equipment, machine tools, steel and nonferrous metals, ships, chemicals, textiles, processed foods"
     },
     "Industrial production growth rate": {
-      "text": "0.6% (2014 est.)"
+      "text": "0.6% (2015 est.)"
     },
     "Labor force": {
-      "text": "65.87 million (2014 est.)"
+      "text": "65.98 million (2015 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -570,7 +576,7 @@
       }
     },
     "Unemployment rate": {
-      "text": "3.6% (2014 est.) ++ 4% (2013 est.)"
+      "text": "3.4% (2015 est.) ++ 3.6% (2014 est.)"
     },
     "Population below poverty line": {
       "text": "16.1% (2013 est.)"
@@ -588,83 +594,88 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$1.512 trillion"
+        "text": "$1.48 trillion"
       },
       "expenditures": {
-        "text": "$1.84 trillion (2014 est.)"
+        "text": "$1.704 trillion (2015 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "32.9% of GDP (2014 est.)"
+      "text": "35.9% of GDP (2015 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-7.1% of GDP (2014 est.)"
+      "text": "-5.4% of GDP (2015 est.)"
     },
     "Public debt": {
-      "text": "231.9% of GDP (2014 est.) ++ 227.2% of GDP (2013 est.)"
+      "text": "230% of GDP (2015 est.) ++ 227.7% of GDP (2014 est.)"
     },
     "Fiscal year": {
       "text": "1 April - 31 March"
     },
     "Inflation rate (consumer prices)": {
-      "text": "2.7% (2014 est.) ++ 0.4% (2013 est.)"
+      "text": "0.8% (2015 est.) ++ 2.8% (2014 est.)"
     },
     "Central bank discount rate": {
-      "text": "0.3% (31 December 2014) ++ 0.3% (31 December 2013)"
+      "text": "0.3% (31 December 2015) ++ 0.3% (31 December 2014)"
     },
     "Commercial bank prime lending rate": {
-      "text": "1.48% (31 December 2014 est.) ++ 1.48% (31 December 2013 est.)"
+      "text": "1.48% (31 December 2015 est.) ++ 1.48% (31 December 2014 est.)"
     },
     "Stock of narrow money": {
-      "text": "$4.896 trillion (31 December 2014 est.) ++ $5.324 trillion (31 December 2013 est.)"
+      "text": "$5.131 trillion (31 December 2015 est.) ++ $4.896 trillion (31 December 2014 est.)"
     },
     "Stock of broad money": {
       "text": "$8.073 trillion (31 December 2014 est.) ++ $8.035 trillion (31 December 2013 est.)"
     },
     "Stock of domestic credit": {
-      "text": "$10.9 trillion (31 December 2014 est.) ++ $11.93 trillion (31 December 2013 est.)"
+      "text": "$11.09 trillion (31 December 2015 est.) ++ $10.92 trillion (31 December 2014 est.)"
     },
     "Market value of publicly traded shares": {
-      "text": "$4.782 trillion (31 December 2014 est.) ++ $4.584 trillion (31 December 2013) ++ $3.715 trillion (31 December 2012 est.)"
+      "text": "$4.895 trillion (31 December 2015 est.) ++ $4.378 trillion (31 December 2014 est.) ++ $4.543 trillion (31 December 2013 est.)"
     },
     "Current account balance": {
-      "text": "$24.4 billion (2014 est.) ++ $40.7 billion (2013 est.)"
+      "text": "$135.6 billion (2015 est.) ++ $36.48 billion (2014 est.)"
     },
     "Exports": {
-      "text": "$699.5 billion (2014 est.) ++ $694.8 billion (2013 est.)"
+      "text": "$622 billion (2015 est.) ++ $699.1 billion (2014 est.)"
     },
     "Exports - commodities": {
       "text": "motor vehicles 14.9%; iron and steel products 5.4%; semiconductors 5%; auto parts 4.8%; power generating machinery 3.5%; plastic materials 3.3% (2014 est.)"
     },
     "Exports - partners": {
-      "text": "US 18.9%, China 18.3%, South Korea 7.5%, Hong Kong 5.5%, Thailand 4.5% (2014)"
+      "text": "US 20.2%, China 17.5%, South Korea 7.1%, Hong Kong 5.6%, Thailand 4.5% (2015)"
     },
     "Imports": {
-      "text": "$798.6 billion (2014 est.) ++ $784.5 billion (2013 est.)"
+      "text": "$627.3 billion (2015 est.) ++ $799 billion (2014 est.)"
     },
     "Imports - commodities": {
       "text": "petroleum 16.1%; liquid natural gas 9.1%; clothing 3.8%; semiconductors 3.3%; coal 2.4%; audio and visual apparatus 1.4% (2014 est.)"
     },
     "Imports - partners": {
-      "text": "China 22.3%, US 9%, Australia 5.9%, Saudi Arabia 5.9%, UAE 5.1%, Qatar 4.1%, South Korea 4.1% (2014)"
+      "text": "China 24.8%, US 10.5%, Australia 5.4%, South Korea 4.1% (2015)"
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$1.261 trillion (31 December 2014 est.) ++ $1.267 trillion (31 December 2013 est.)"
+      "text": "$1.233 trillion (31 December 2015 est.) ++ $1.261 trillion (31 December 2014 est.)"
     },
     "Debt - external": {
-      "text": "$1.261 trillion (31 December 2014 est.) ++ $1.267 trillion (31 December 2013 est.)"
+      "text": "$5.18 trillion (31 December 2013 est.) ++ $4.026 trillion (31 December 2012)"
     },
     "Stock of direct foreign investment - at home": {
-      "text": "$193.5 billion (31 December 2014 est.) ++ $185.7 billion (31 December 2013 est.)"
+      "text": "$202.4 billion (31 December 2015 est.) ++ $196.9 billion (31 December 2014 est.)"
     },
     "Stock of direct foreign investment - abroad": {
-      "text": "$1.193 trillion (31 December 2014 est.) ++ $1.133 trillion (31 December 2013 est.)"
+      "text": "$1.258 trillion (31 December 2015 est.) ++ $1.177 trillion (31 December 2014 est.)"
     },
     "Exchange rates": {
-      "text": "yen (JPY) per US dollar - ++ 105.86 (2014 est.) ++ 105.86 (2013 est.) ++ 79.79 (2012 est.) ++ 79.81 (2011 est.) ++ 87.78 (2010 est.)"
+      "text": "yen (JPY) per US dollar - ++ 121.02 (2015 est.) ++ 105.86 (2014 est.) ++ 97.44 (2013 est.) ++ 79.79 (2012 est.) ++ 79.81 (2011 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
+    },
     "Electricity - production": {
       "text": "966.4 billion kWh (2012 est.)"
     },
@@ -738,18 +749,18 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "63.61 million"
+        "text": "63,633,050"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "50 (2014 est.)"
+        "text": "50 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "152.7 million"
+        "text": "158.591 million"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "120 (2014 est.)"
+        "text": "125 (July 2015 est.)"
       }
     },
     "Telephone system": {
@@ -766,25 +777,36 @@
     "Broadcast media": {
       "text": "a mixture of public and commercial broadcast TV and radio stations; 6 national terrestrial TV networks including 1 public broadcaster; the large number of radio and TV stations available provide a wide range of choices; satellite and cable services provide access to international channels (2012)"
     },
-    "Radio broadcast stations": {
-      "text": "AM 215 (plus 370 repeaters), FM 89 (plus 485 repeaters), shortwave 21 (2001)"
-    },
-    "Television broadcast stations": {
-      "text": "211; note - in addition, US Forces are served by 3 TV stations and 2 TV cable services (1999)"
-    },
     "Internet country code": {
       "text": ".jp"
     },
     "Internet users": {
       "total": {
-        "text": "109.3 million"
+        "text": "118.453 million"
       },
       "percent of population": {
-        "text": "86.0% (2014 est.)"
+        "text": "93.3% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "23"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "627"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "113.762 million"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "8,868.745 million mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "JA (2016)"
+    },
     "Airports": {
       "text": "175 (2013)"
     },
@@ -816,7 +838,7 @@
         "text": "5"
       },
       "under 914 m": {
-        "text": " ++ 28 (2013)"
+        "text": "28 (2013)"
       }
     },
     "Heliports": {
@@ -827,27 +849,27 @@
     },
     "Railways": {
       "total": {
-        "text": "27,155 km"
+        "text": "27,311 km"
       },
       "standard gauge": {
-        "text": "4,343 km 1.435-m gauge (4,343 km electrified)"
+        "text": "4,800 km 1.435-m gauge (4,800 km electrified)"
       },
       "dual gauge": {
         "text": "132 km 1.435-1.067-m gauge (132 km electrified)"
       },
       "narrow gauge": {
-        "text": "96 km 1.372-m gauge (96 km electrified); 22,536 km 1.067-m gauge (13,253 km electrified); 48 km 0.762-m gauge (48 km electrified) (2012)"
+        "text": "124 km 1.372-m gauge (124 km electrified); 22,207 km 1.067-m gauge (15,430 km electrified); 48 km 0.762-m gauge (48 km electrified) (2015)"
       }
     },
     "Roadways": {
       "total": {
-        "text": "1,217,128 km"
+        "text": "1,218,772 km"
       },
       "paved": {
-        "text": "988,536 km (includes 7,803 km of expressways)"
+        "text": "992,835 km (includes 8,428 km of expressways)"
       },
       "unpaved": {
-        "text": "228,592 km (2013)"
+        "text": "225,937 km (2015)"
       }
     },
     "Waterways": {
@@ -876,36 +898,12 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "Japanese Ministry of Defense (MOD): Ground Self-Defense Force (Rikujou Jieitai, GSDF), Maritime Self-Defense Force (Kaijou Jieitai, MSDF), Air Self-Defense Force (Koukuu Jieitai, ASDF) (2011)"
     },
     "Military service age and obligation": {
       "text": "18 years of age for voluntary military service; no conscription; mandatory retirement at age 53 for senior enlisted personnel and at 62 years for senior service officers (2012)"
-    },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "27,301,443"
-      },
-      "females age 16-49": {
-        "text": "26,307,003 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "22,390,431"
-      },
-      "females age 16-49": {
-        "text": "21,540,322 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "623,365"
-      },
-      "female": {
-        "text": "591,253 (2010 est.)"
-      }
     },
     "Military expenditures": {
       "text": "0.97% of GDP (2012) ++ 1.01% of GDP (2011) ++ 0.99% of GDP (2010)"
@@ -917,7 +915,7 @@
     },
     "Refugees and internally displaced persons": {
       "stateless persons": {
-        "text": "635 (2014)"
+        "text": "603 (2015)"
       }
     }
   }

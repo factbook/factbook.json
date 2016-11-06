@@ -55,12 +55,12 @@
     "Terrain": {
       "text": "mostly plains with some hills and low mountains"
     },
-    "Elevation extremes": {
-      "lowest point": {
-        "text": "Caribbean Sea 0 m"
+    "Elevation": {
+      "mean elevation": {
+        "text": "83 m"
       },
-      "highest point": {
-        "text": "El Cerro del Aripo 940 m"
+      "elevation extremes": {
+        "text": "lowest point: Caribbean Sea 0 m ++ highest point: El Cerro del Aripo 940 m"
       }
     },
     "Natural resources": {
@@ -78,18 +78,10 @@
       }
     },
     "Irrigated land": {
-      "text": "36 sq km (2003)"
+      "text": "70 sq km (2012)"
     },
-    "Total renewable water resources": {
-      "text": "3.84 cu km (2011)"
-    },
-    "Freshwater withdrawal (domestic/industrial/agricultural)": {
-      "total": {
-        "text": "0.23  cu km/yr (67%/25%/8%)"
-      },
-      "per capita": {
-        "text": "177.9  cu m/yr (2005)"
-      }
+    "Population - distribution": {
+      "text": "population on Trinidad concentrated in the western half of the island; on Tobago in the southern half"
     },
     "Natural hazards": {
       "text": "outside usual path of hurricanes and other tropical storms"
@@ -110,6 +102,9 @@
     }
   },
   "People and Society": {
+    "Population": {
+      "text": "1,220,479 (July 2016 est.)"
+    },
     "Nationality": {
       "noun": {
         "text": "Trinidadian(s), Tobagonian(s)"
@@ -125,29 +120,23 @@
       "text": "English (official), Caribbean Hindustani (a dialect of Hindi), French, Spanish, Chinese"
     },
     "Religions": {
-      "text": "Protestant 32.1% (Pentecostal/Evangelical/Full Gospel 12%, Baptist 6.9%, Anglican 5.7%, Seventh-Day Adventist 4.1%, Presbyterian/Congretational 2.5, other Protestant .9), Roman Catholic 21.6%, Hindu 18.2%, Muslim 5%, Jehovah's Witness 1.5%, other 8.4%, none 2.2%, unspecified 11.1% (2011 est.)"
-    },
-    "Population": {
-      "text": "1,222,363 (July 2015 est.)"
+      "text": "Protestant 32.1% (Pentecostal/Evangelical/Full Gospel 12%, Baptist 6.9%, Anglican 5.7%, Seventh-Day Adventist 4.1%, Presbyterian/Congretational 2.5%, other Protestant 0.9%), Roman Catholic 21.6%, Hindu 18.2%, Muslim 5%, Jehovah's Witness 1.5%, other 8.4%, none 2.2%, unspecified 11.1% (2011 est.)"
     },
     "Age structure": {
       "0-14 years": {
-        "text": "19.41% (male 120,876/female 116,336)"
+        "text": "19.34% (male 120,214/female 115,821)"
       },
       "15-24 years": {
-        "text": "12.59% (male 79,949/female 73,888)"
+        "text": "12.24% (male 77,738/female 71,629)"
       },
       "25-54 years": {
-        "text": "46.59% (male 295,970/female 273,481)"
+        "text": "46.1% (male 292,819/female 269,855)"
       },
       "55-64 years": {
-        "text": "11.59% (male 70,466/female 71,196)"
+        "text": "12.09% (male 73,457/female 74,062)"
       },
       "65 years and over": {
-        "text": "9.83% (male 52,199/female 68,002) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+        "text": "10.23% (male 54,334/female 70,550) (2016 est.)"
       }
     },
     "Dependency ratios": {
@@ -166,26 +155,29 @@
     },
     "Median age": {
       "total": {
-        "text": "35 years"
+        "text": "35.5 years"
       },
       "male": {
-        "text": "34.5 years"
+        "text": "35 years"
       },
       "female": {
-        "text": "35.5 years (2015 est.)"
+        "text": "36 years (2016 est.)"
       }
     },
     "Population growth rate": {
-      "text": "-0.13% (2015 est.)"
+      "text": "-0.17% (2016 est.)"
     },
     "Birth rate": {
-      "text": "13.46 births/1,000 population (2015 est.)"
+      "text": "13.1 births/1,000 population (2016 est.)"
     },
     "Death rate": {
-      "text": "8.56 deaths/1,000 population (2015 est.)"
+      "text": "8.7 deaths/1,000 population (2016 est.)"
     },
     "Net migration rate": {
-      "text": "-6.25 migrant(s)/1,000 population (2015 est.)"
+      "text": "-6.1 migrant(s)/1,000 population (2016 est.)"
+    },
+    "Population distribution": {
+      "text": "population on Trinidad is concentrated in the western half of the island, on Tobago in the southern half"
     },
     "Urbanization": {
       "urban population": {
@@ -206,10 +198,10 @@
         "text": "1.04 male(s)/female"
       },
       "15-24 years": {
-        "text": "1.08 male(s)/female"
+        "text": "1.09 male(s)/female"
       },
       "25-54 years": {
-        "text": "1.08 male(s)/female"
+        "text": "1.09 male(s)/female"
       },
       "55-64 years": {
         "text": "0.99 male(s)/female"
@@ -218,7 +210,7 @@
         "text": "0.77 male(s)/female"
       },
       "total population": {
-        "text": "1.03 male(s)/female (2015 est.)"
+        "text": "1.03 male(s)/female (2016 est.)"
       }
     },
     "Maternal mortality rate": {
@@ -226,34 +218,34 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "23.9 deaths/1,000 live births"
+        "text": "23 deaths/1,000 live births"
       },
       "male": {
-        "text": "25.11 deaths/1,000 live births"
+        "text": "24.4 deaths/1,000 live births"
       },
       "female": {
-        "text": "22.66 deaths/1,000 live births (2015 est.)"
+        "text": "21.7 deaths/1,000 live births (2016 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "72.59 years"
+        "text": "72.9 years"
       },
       "male": {
-        "text": "69.69 years"
+        "text": "69.9 years"
       },
       "female": {
-        "text": "75.56 years (2015 est.)"
+        "text": "75.9 years (2016 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "1.71 children born/woman (2015 est.)"
+      "text": "1.71 children born/woman (2016 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "42.5% (2006)"
     },
     "Health expenditures": {
-      "text": "5.5% of GDP (2013)"
+      "text": "5.9% of GDP (2014)"
     },
     "Physicians density": {
       "text": "1.18 physicians/1,000 population (2007)"
@@ -278,13 +270,18 @@
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "1.65% (2013 est.)"
+      "text": "1.22% (2015 est.)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
-      "text": "14,000 (2013 est.)"
+      "text": "10,800 (2015 est.)"
     },
     "HIV/AIDS - deaths": {
-      "text": "700 (2013 est.)"
+      "text": "200 (2015 est.)"
+    },
+    "Major infectious diseases": {
+      "note": {
+        "text": "active local transmission of Zika virus by Aedes species mosquitoes has been identified in this country (as of August 2016); it poses an important risk (a large number of cases possible) among US citizens if bitten by an infective mosquito; other less common ways to get Zika are through sex, via blood transfusion, or during pregnancy, in which the pregnant woman passes Zika virus to her fetus (2016)"
+      }
     },
     "Obesity - adult prevalence rate": {
       "text": "32.3% (2014)"
@@ -313,13 +310,13 @@
     },
     "Unemployment, youth ages 15-24": {
       "total": {
-        "text": "10.5%"
+        "text": "9.2%"
       },
       "male": {
-        "text": "8.8%"
+        "text": "7.7%"
       },
       "female": {
-        "text": "12.9% (2008 est.)"
+        "text": "11.4% (2013 est.)"
       }
     }
   },
@@ -330,10 +327,13 @@
       },
       "conventional short form": {
         "text": "Trinidad and Tobago"
+      },
+      "etymology": {
+        "text": "explorer Christopher COLUMBUS named the larger island \"La Isla de la Trinidad\" (The Island of the Trinity) on 31 July 1498 on his third voyage; the tobacco grown and smoked by the natives of the smaller island or its elongated cigar shape may account for the \"tobago\" name, which is spelled \"tobaco\" in Spanish"
       }
     },
     "Government type": {
-      "text": "parliamentary democracy"
+      "text": "parliamentary republic"
     },
     "Capital": {
       "name": {
@@ -368,7 +368,7 @@
       "text": "Independence Day, 31 August (1962)"
     },
     "Constitution": {
-      "text": "previous 1962; latest 1976; amended many times, last in 2007 (2015)"
+      "text": "previous 1962; latest 1976; amended many times, last in 2007 (2016)"
     },
     "Legal system": {
       "text": "English common law; judicial review of legislative acts in the Supreme Court"
@@ -377,14 +377,17 @@
       "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
     },
     "Citizenship": {
-      "birthright citizenship": {
+      "citizenship by birth": {
+        "text": "yes"
+      },
+      "citizenship by descent": {
         "text": "yes"
       },
       "dual citizenship recognized": {
-        "text": ""
+        "text": "yes"
       },
       "residency requirement for naturalization": {
-        "text": ""
+        "text": "8 years"
       }
     },
     "Suffrage": {
@@ -443,7 +446,7 @@
     },
     "Diplomatic representation in the US": {
       "chief of mission": {
-        "text": "Ambassador (vacant); Charge d'Affaires Colin MIchael CONNELLY (since 15 August 2015"
+        "text": "Ambassador Anthony Wayne Jerome PHILLIPS SPENCER (since 27 June 2016)"
       },
       "chancery": {
         "text": "1708 Massachusetts Avenue NW, Washington, DC 20036"
@@ -460,7 +463,7 @@
     },
     "Diplomatic representation from the US": {
       "chief of mission": {
-        "text": "Ambassador (vacant); Charge d'Affaires Margaret B. DIOP (since October 2012)"
+        "text": "Ambassador John L. ESTRADA (since 19 April 2016)"
       },
       "embassy": {
         "text": "15 Queen's Park West, Port of Spain"
@@ -495,47 +498,47 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Trinidad and Tobago attracts considerable foreign direct investment, particularly in energy, and has one of the highest per capita incomes in Latin America and the Caribbean. Trinidad and Tobago is the leading Caribbean producer of oil and gas, and its economy is heavily dependent upon these resources. It also supplies manufactured goods, notably food products and beverages, as well as cement to the Caribbean region. Oil and gas account for about 40% of GDP and 80% of exports but only 5% of employment. ++  ++ Growth has been fueled by investments in liquefied natural gas, petrochemicals, and steel with additional upstream and downstream investment planned. Oil production has declined over the last decade as the country focused the majority of its efforts on natural gas. Economic growth between 2000 and 2007 averaged slightly over 8% per year, significantly above the regional average of about 3.7% for that same period; however, GDP slowed down since then and contracted during 2009-12 due to depressed natural gas prices and changing markets. The current administration has been working to arrest this decline by opening bid rounds and providing fiscal incentives for investments in on-shore and deep water acreage to boost oil reserves and production. The government keeps a close watch on the changing global gas markets and has shown flexibility in diversifying natural gas export destinations. The economy benefits from a growing trade surplus with the US. The US is Trinidad and Tobago's leading trade partner. ++  ++ Although Trinidad and Tobago enjoys cheap electricity from natural gas, the renewable energy sector has recently garnered increased interest. The country is also a regional financial center with a well-regulated and stable financial system. Other sectors the Government of Trinidad and Tobago has targeted for increased investment and projected growth include tourism, agriculture, information and communications technology, and shipping. ++  ++ The previous MANNING administration benefited from fiscal surpluses fueled by the dynamic export sector; however, declines in oil and gas prices have reduced government revenues, challenging the current government's commitment to maintaining high levels of public investment. Crime and bureaucratic hurdles continue to be the biggest deterrents for attracting more foreign direct investment and business."
+      "text": "Trinidad and Tobago attracts considerable foreign direct investment from international businesses, particularly in energy, and has one of the highest per capita incomes in Latin America. Economic growth between 2000 and 2007 averaged slightly over 8% per year, significantly above the regional average of about 3.7% for that same period; however, GDP has slowed down since then, contracting during 2009-2012, making small gains in 2013 and contracting again in 2014-2015. ++  ++ Energy production and downstream industrial use dominate the economy. Trinidad and Tobago produces about nine times more natural gas than crude oil on an energy equivalent basis with gas contributing about two-thirds of energy sector government revenue. Oil and gas account for about 40% of GDP and 80% of exports but less than 5% of employment. In 2013, Trinidad and Tobago was the world’s sixth-largest liquefied natural gas (LNG) exporter and is home to one of the largest natural gas liquefaction facilities in the Western Hemisphere. The United States is the country’s largest trading partner, accounting for 33% of its total imports and taking 44% of its exports. ++  ++ Trinidad and Tobago is buffered by considerable foreign reserves and a sovereign wealth fund that equals about one-and-a-half times the national budget, but the country is in a recession and the government faces the dual challenge of gas shortages and a low price environment. A projected 70% decrease in energy revenue to the government in 2016 will likely force cuts to the government budget, which has increased by 35% over the past six years. ++  ++ Economic diversification is a longstanding government talking point, and Trinidad and Tobago has much potential due to its stable, democratic government and its educated, English speaking workforce. Although Trinidad and Tobago enjoys cheap electricity from natural gas, the renewable energy sector has recently garnered increased interest. The country is also a regional financial center with a well-regulated and stable financial system. Other sectors the Government of Trinidad and Tobago has targeted for increased investment and projected growth include tourism, agriculture, information and communications technology, and shipping. Unfortunately, a host of other factors, including low labor productivity, inefficient government bureaucracy, and corruption, have hampered economic development."
     },
     "GDP (purchasing power parity)": {
-      "text": "$43.46 billion (2014 est.) ++ $43.11 billion (2013 est.) ++ $42.37 billion (2012 est.)",
+      "text": "$44.22 billion (2015 est.) ++ $45.19 billion (2014 est.) ++ $45.65 billion (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$28.87 billion (2014 est.)"
+      "text": "$24.63 billion (2015 est.)"
     },
     "GDP - real growth rate": {
-      "text": "0.8% (2014 est.) ++ 1.7% (2013 est.) ++ 1.4% (2012 est.)"
+      "text": "-2.1% (2015 est.) ++ -1% (2014 est.) ++ 2.3% (2013 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$32,200 (2014 est.) ++ $31,900 (2013 est.) ++ $31,400 (2012 est.)",
+      "text": "$32,600 (2015 est.) ++ $33,400 (2014 est.) ++ $34,000 (2013 est.)",
       "note": {
-        "text": "data are in 2014 US dollars"
+        "text": "data are in 2015 US dollars"
       }
     },
     "Gross national saving": {
-      "text": "18.5% of GDP (2014 est.) ++ 20.9% of GDP (2013 est.) ++ 17.2% of GDP (2012 est.)"
+      "text": "8% of GDP (2015 est.) ++ 18.1% of GDP (2014 est.) ++ 20.7% of GDP (2013 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "40.2%"
+        "text": "55.7%"
       },
       "government consumption": {
-        "text": "12.2%"
+        "text": "16.4%"
       },
       "investment in fixed capital": {
-        "text": "9.1%"
+        "text": "11.6%"
       },
       "investment in inventories": {
-        "text": "0.4%"
+        "text": "0.6%"
       },
       "exports of goods and services": {
-        "text": "67.5%"
+        "text": "53.5%"
       },
       "imports of goods and services": {
-        "text": "-29.4% ++  (2014 est.)"
+        "text": "-37.8% (2015 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
@@ -543,40 +546,40 @@
         "text": "0.5%"
       },
       "industry": {
-        "text": "14.7%"
+        "text": "14.3%"
       },
       "services": {
-        "text": "84.8% (2014 est.)"
+        "text": "85.2% (2015 est.)"
       }
     },
     "Agriculture - products": {
-      "text": "cocoa, rice, citrus, coffee; sugar; vegetables; poultry"
+      "text": "cocoa, dasheen, pumpkin, cassava, tomatoes, cucumbers, eggplant, hot pepper, pommecythere, coconut water, poultry"
     },
     "Industries": {
       "text": "petroleum and petroleum products, liquefied natural gas (LNG), methanol, ammonia, urea, steel products, beverages, food processing, cement, cotton textiles"
     },
     "Industrial production growth rate": {
-      "text": "-3% (2014 est.)"
+      "text": "-5% (2015 est.)"
     },
     "Labor force": {
-      "text": "623,500 (2014 est.)"
+      "text": "649,100 (2015 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
-        "text": "3.8%"
+        "text": "3.6%"
       },
       "manufacturing, mining, and quarrying": {
-        "text": "12.8%"
+        "text": "11.2%"
       },
       "construction and utilities": {
-        "text": "20.4%"
+        "text": "85.2%"
       },
       "services": {
-        "text": "62.9% (2007 est.)"
+        "text": "62.9% (2014 est.)"
       }
     },
     "Unemployment rate": {
-      "text": "3.3% (2014 est.) ++ 3.7% (2013 est.)"
+      "text": "3.2% (2015 est.) ++ 3.3% (2014 est.)"
     },
     "Population below poverty line": {
       "text": "17% (2007 est.)"
@@ -591,83 +594,97 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$9.106 billion"
+        "text": "$8.731 billion"
       },
       "expenditures": {
-        "text": "$9.53 billion (2014 est.)"
+        "text": "$9.758 billion (2014 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "31.5% of GDP (2014 est.)"
+      "text": "34.3% of GDP (2014 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-1.5% of GDP (2014 est.)"
+      "text": "-4% of GDP (2014 est.)"
     },
     "Public debt": {
-      "text": "39.5% of GDP (2014 est.) ++ 39.5% of GDP (2013 est.)"
+      "text": "67.4% of GDP (2015 est.) ++ 57.6% of GDP (2014 est.)"
     },
     "Fiscal year": {
       "text": "1 October - 30 September"
     },
     "Inflation rate (consumer prices)": {
-      "text": "7% (2014 est.) ++ 5.2% (2013 est.)"
+      "text": "4.7% (2015 est.) ++ 5.7% (2014 est.)"
     },
     "Central bank discount rate": {
-      "text": "4.25% (31 December 2010) ++ 7.25% (31 December 2009)"
+      "text": "6.75% (04 March 2016 est.) ++ 6.75% (31 December 2015 est.)"
     },
     "Commercial bank prime lending rate": {
-      "text": "7.8% (31 December 2014 est.) ++ 7.5% (31 December 2013 est.)"
+      "text": "8% (31 December 2015 est.) ++ 7.9% (31 December 2014 est.)"
     },
     "Stock of narrow money": {
-      "text": "$6.907 billion (31 December 2014 est.) ++ $6.205 billion (31 December 2013 est.)"
+      "text": "$7.422 billion (31 December 2015 est.) ++ $6.907 billion (31 December 2014 est.)"
     },
     "Stock of broad money": {
-      "text": "$17.4 billion (31 December 2014 est.) ++ $15.26 billion (31 December 2013 est.)"
+      "text": "$13.51 billion (31 December 2014 est.) ++ $11.94 billion (31 December 2013 est.)"
     },
     "Stock of domestic credit": {
-      "text": "$8.431 billion (31 December 2014 est.) ++ $8.214 billion (31 December 2013 est.)"
+      "text": "$7.432 billion (31 December 2014 est.) ++ $6.93 billion (31 December 2013 est.)"
     },
     "Market value of publicly traded shares": {
-      "text": "$15.17 billion (31 December 2012 est.) ++ $14.73 billion (31 December 2011) ++ $12.16 billion (31 December 2010 est.)"
+      "text": "$177.4 million (31 December 2015 est.) ++ $171.6 million (31 December 2014 est.) ++ $170 million (31 December 2013 est.)"
     },
     "Current account balance": {
-      "text": "$1.637 billion (2014 est.) ++ $1.92 billion (2013 est.)"
+      "text": "-$1.329 billion (2015 est.) ++ $1.266 billion (2014 est.)"
     },
     "Exports": {
-      "text": "$11.73 billion (2014 est.) ++ $12.77 billion (2013 est.)"
+      "text": "$11.81 billion (2014 est.) ++ $12.77 billion (2013 est.)"
     },
     "Exports - commodities": {
-      "text": "petroleum and petroleum products, liquefied natural gas, methanol, ammonia, urea, steel products, beverages, cereal and cereal products, sugar, cocoa, coffee, citrus fruit, vegetables, flowers"
+      "text": "petroleum and petroleum products, liquefied natural gas, methanol, ammonia, urea, steel products, beverages, cereal and cereal products, cocoa, fish, preserved fruits, , cosmetics, household cleaners, plastic packaging"
     },
     "Exports - partners": {
-      "text": "US 29.1%, Argentina 9.3%, Brazil 6.6%, Chile 5.9%, Peru 4.5% (2014)"
+      "text": "US 26.3%, Argentina 12%, Brazil 6.6%, Chile 5.3%, Dominican Republic 5.2%, Barbados 5% (2015)"
     },
     "Imports": {
-      "text": "$8.904 billion (2014 est.) ++ $8.871 billion (2013 est.)"
+      "text": "$8.386 billion (2014 est.) ++ $8.871 billion (2013 est.)"
     },
     "Imports - commodities": {
       "text": "mineral fuels, lubricants, machinery, transportation equipment, manufactured goods, food, chemicals, live animals"
     },
     "Imports - partners": {
-      "text": "US 34.6%, Brazil 7.7%, Gabon 6.2%, China 6.1%, Russia 5%, Canada 4.1% (2014)"
+      "text": "US 35.6%, China 6.8%, Gabon 6.6% (2015)"
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$11.98 billion (31 December 2014 est.) ++ $10.67 billion (31 December 2013 est.)"
+      "text": "$13.59 billion (31 December 2015 est.) ++ $12.33 billion (31 December 2014 est.)"
     },
     "Debt - external": {
-      "text": "$4.879 billion (31 December 2014 est.) ++ $4.676 billion (31 December 2013 est.)"
+      "text": "$2.115 billion (31 December 2014 est.) ++ $2.072 billion (31 December 2013 est.)"
     },
     "Stock of direct foreign investment - at home": {
-      "text": "$102 billion (31 December 2008 est.) ++ $12.44 billion (2007)"
+      "text": "$382.9 million (31 December 2014 est.) ++ $311.7 million (2014 est.)"
     },
     "Stock of direct foreign investment - abroad": {
-      "text": "$3.829 billion (2007)"
+      "text": "$1.266 billion (2014 est.)"
     },
     "Exchange rates": {
-      "text": "Trinidad and Tobago dollars (TTD) per US dollar - ++ 6.4041 (2014 est.) ++ 6.4041 (2013 est.) ++ 6.39 (2012 est.) ++ 6.4094 (2011 est.) ++ 6.3755 (2010 est.)"
+      "text": "Trinidad and Tobago dollars (TTD) per US dollar - ++ 6.3756 (2016 est.) ++ 6.4077 (2015 est.) ++ 6.4041 (2014 est.) ++ 6.4041 (2013 est.) ++ 6.39 (2012 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "12,452"
+      },
+      "electrification - total population": {
+        "text": "99.8%"
+      },
+      "electrification - urban areas": {
+        "text": "100%"
+      },
+      "electrification - rural areas": {
+        "text": "99% (2012)"
+      }
+    },
     "Electricity - production": {
       "text": "8.604 billion kWh (2012 est.)"
     },
@@ -741,18 +758,18 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "290,000"
+        "text": "270,872"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "24 (2014 est.)"
+        "text": "22 (July 2015 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "2 million"
+        "text": "2.123 million"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "162 (2014 est.)"
+        "text": "174 (July 2015 est.)"
       }
     },
     "Telephone system": {
@@ -760,34 +777,45 @@
         "text": "excellent international service; good local service"
       },
       "domestic": {
-        "text": "combined fixed-line and mobile-cellular teledensity roughly 170 telephones per 100 persons"
+        "text": "combined fixed-line and mobile-cellular teledensity over 190 telephones per 100 persons"
       },
       "international": {
-        "text": "country code - 1-868; submarine cable systems provide connectivity to US and parts of the Caribbean and South America; satellite earth station - 1 Intelsat (Atlantic Ocean); tropospheric scatter to Barbados and Guyana (2011)"
+        "text": "country code - 1-868; submarine cable systems provide connectivity to US and parts of the Caribbean and South America; satellite earth station - 1 Intelsat (Atlantic Ocean); tropospheric scatter to Barbados and Guyana (2015)"
       }
     },
     "Broadcast media": {
-      "text": "5 TV networks, one of which is state-owned, broadcast on multiple stations; multiple cable TV subscription service providers; multiple radio networks, one state-owned, broadcast over about 35 stations (2007)"
-    },
-    "Radio broadcast stations": {
-      "text": "AM 2, FM 28, shortwave 0 (2008)"
-    },
-    "Television broadcast stations": {
-      "text": "6 (2005)"
+      "text": "16 TV networks (11 commercial, 5 non-commercial), 2 of which are state-owned that broadcast on multiple stations; 9 TV subscription service providers (cable and satellite); 19 radio networks, 1 state-owned, broadcast over about 35 stations (2016)"
     },
     "Internet country code": {
       "text": ".tt"
     },
     "Internet users": {
       "total": {
-        "text": "779,900"
+        "text": "846,000"
       },
       "percent of population": {
-        "text": "63.7% (2014 est.)"
+        "text": "69.2% (July 2015 est.)"
       }
     }
   },
   "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "1"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "17"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "2,617,842"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "43,198,176 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "9Y (2016)"
+    },
     "Airports": {
       "text": "4 (2013)"
     },
@@ -810,7 +838,7 @@
         "text": "1"
       },
       "under 914 m": {
-        "text": " ++ 1 (2013)"
+        "text": "1 (2013)"
       }
     },
     "Pipelines": {
@@ -818,13 +846,13 @@
     },
     "Roadways": {
       "total": {
-        "text": "8,320 km"
+        "text": "9,592 km"
       },
       "paved": {
-        "text": "4,252 km"
+        "text": "5,524 km"
       },
       "unpaved": {
-        "text": "4,068 km (2001)"
+        "text": "4,068 km (2015)"
       }
     },
     "Merchant marine": {
@@ -850,41 +878,25 @@
       }
     }
   },
-  "Military": {
+  "Military and Security": {
     "Military branches": {
       "text": "Trinidad and Tobago Defense Force (TTDF): Trinidad and Tobago Army, Coast Guard, Air Guard, Defense Force Reserves (2010)"
     },
     "Military service age and obligation": {
       "text": "18-25 years of age for voluntary military service (16 years of age with parental consent); no conscription; Trinidad and Tobago citizenship and completion of secondary school required (2012)"
-    },
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "341,764"
-      },
-      "females age 16-49": {
-        "text": "317,899 (2010 est.)"
-      }
-    },
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "269,824"
-      },
-      "females age 16-49": {
-        "text": "261,735 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "8,164"
-      },
-      "female": {
-        "text": "7,503 (2010 est.)"
-      }
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "Barbados and Trinidad and Tobago abide by the April 2006 Permanent Court of Arbitration decision delimiting a maritime boundary and limiting catches of flying fish in Trinidad and Tobago's exclusive economic zone; in 2005, Barbados and Trinidad and Tobago agreed to compulsory international arbitration under United Nations Convention on the Law of the Sea challenging whether the northern limit of Trinidad and Tobago's and Venezuela's maritime boundary extends into Barbadian waters; Guyana has also expressed its intention to include itself in the arbitration as the Trinidad and Tobago-Venezuela maritime boundary may extend into its waters as well"
+      "text": "Barbados and Trinidad and Tobago abide by the April 2006 Permanent Court of Arbitration decision delimiting a maritime boundary and limiting catches of flying fish in Trinidad and Tobago's EEZ; in 2005, Barbados and Trinidad and Tobago agreed to compulsory international arbitration under UN Convention on the Law of the Sea challenging whether the northern limit of Trinidad and Tobago's and Venezuela's maritime boundary extends into Barbadian waters; Guyana has expressed its intention to include itself in the arbitration, as the Trinidad and Tobago-Venezuela maritime boundary may also extend into its waters"
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "Trinidad and Tobago is a destination, transit, and possible source country for adults and children subjected to sex trafficking and forced labor; women and girls from Venezuela, the Dominican Republic, Guyana, and Colombia have been subjected to sex trafficking in Trinidad and Tobago’s brothels and clubs; some economic migrants from the Caribbean region and Asia are vulnerable to forced labor in domestic service and the retail sector; the steady flow of vessels transiting Trinidad and Tobago’s territorial waters may also increase opportunities for forced labor for fishing; international crime organizations are increasingly involved in trafficking, and boys are coerced to sell drugs and guns; corruption among police and immigration officials impedes anti-trafficking efforts"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch List – Trinidad and Tobago does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; anti-trafficking law enforcement efforts decreased from the initiation of 12 prosecutions in 2013 to 1 in 2014; the government has yet to convict anyone under its 2011 anti-trafficking law, and all prosecutions from previous years remain pending; the government sustained efforts to identify victims and to refer them for care at NGO facilities, which it provided with funding; the government failed to draft a national action plan as mandated under the 2011 anti-trafficking law and did not launch a sufficiently robust awareness campaign to educate the public and officials (2015)"
+      }
     },
     "Illicit drugs": {
       "text": "transshipment point for South American drugs destined for the US and Europe; producer of cannabis"
