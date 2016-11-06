@@ -9,8 +9,8 @@ offers free country profiles in the public domain (that is, no copyright(s), no 
 - [2] [Wikipedia Article: The World Factbook](http://en.wikipedia.org/wiki/The_World_Factbook)
 
 
-Note: All country profiles use the "official" two-letter GEC (formerly FIPS) codes and NOT the ISO codes (you
-might be used to) e.g. `au` for Austria (and not `at`), `gm` for Germany (and not `de`), and so on. 
+> Note: All country profiles use the "official" two-letter GEC (formerly FIPS) codes and NOT the ISO codes (you
+> might be used to) e.g. `au` for Austria (and not `at`), `gm` for Germany (and not `de`), and so on. 
 
 
 ## Examples
@@ -416,7 +416,7 @@ United States (14):
 
 ## Build Your Own Up-to-Date Country Profiles
 
-See the [`factbook`](https://github.com/worlddb/factbook)
+See the [`factbook`](https://github.com/factbook/factbook)
 command line tool and scripts for details.
 
 
