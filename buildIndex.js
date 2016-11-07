@@ -11,11 +11,9 @@ const readFile = (dir, file) => {
     filename: file
   };
 
-  if (country.Government['Country name'] && country.Government['Country name']['conventional short form']) {
-    currentCountry.country = country.Government['Country name']['conventional short form'].text;
-  } else {
-    currentCountry.country = '';
-  }
+  currentCountry.country = (country.Government['Country name'] &&
+    country.Government['Country name']['conventional short form']) ?
+    country.Government['Country name']['conventional short form'].text : '';
 
   countryIndex.push(currentCountry);
 };
