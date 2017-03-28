@@ -8,7 +8,7 @@
 ## Import
 
 Use the `mongoimport` command/tool to import the `factbook.json` documents.
-For example to import the country profile of Austria (that is, `europe/au.json`) use:
+For example, to import the country profile of Austria (that is, `europe/au.json`) use:
 
 ```
 $ mongoimport --db world --collection factbook --file europe/au.json
@@ -104,7 +104,7 @@ db.factbook.find( { "Economy.Imports - partners.text": /Austria/ }, { "Governmen
 
 ```js
 db.factbook.find( { "Government.Suffrage.text": /16/ }, 
-                  { "Government.Country name": 1, "Government.Suffrage": 1 })
+                  { "Government.Country name": 1, "Government.Suffrage": 1 } )
 ```
 
 
