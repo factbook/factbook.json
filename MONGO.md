@@ -7,7 +7,7 @@
 
 ## Import
 
-Use the `mongoimport` command/tool to import the json documents.
+Use the `mongoimport` command/tool to import the `factbook.json` documents.
 For example to import the country profile of Austria (that is, `europe/au.json`) use:
 
 ```
