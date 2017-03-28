@@ -4,7 +4,7 @@
 
 ## Query Examples
 
-###  Find all countries speaking <X>?
+###  Find all countries speaking _X_?
 
 German
 
@@ -18,7 +18,7 @@ English
 db.factbook.find( { "People and Society.Languages.text": /English/}, { "Government.Country name": 1 } )
 ```
 
-### Find all countries with a land border with <X>?
+### Find all countries with a land border with _X_?
 
 Austria
 
@@ -35,7 +35,7 @@ db.factbook.find( { "Geography.Land boundaries.border countries.text": /Germany/
 ```
 
 
-### Find all import partner countries for <X>?
+### Find all import partner countries for _X_?
 
 Austria
 
@@ -51,7 +51,7 @@ db.factbook.find( { "Government.Suffrage.text": /16/},
 ```
 
 
-### Find all countries with <X> membership?
+### Find all countries with _X_ membership?
 
 NATO
 
