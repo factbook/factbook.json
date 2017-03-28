@@ -1,6 +1,63 @@
 
 # Mongo
 
+Import  [#import]
+Query Examples[#query-examples]
+
+
+## Import
+
+Use the `mongoimport` command/tool to import the json documents.
+For example to import the country profile of Austria (that is, `europe/au.json`) use
+
+```
+$ mongoimport --db world --collection factbook --file europe/au.json
+```
+
+To import all documents use a shell script. Example `import.sh`:
+
+``` bash
+#!/bin/bash
+
+MONGOIMPORT=mongoimport
+SOURCE     =.           # assume working folder (as root)
+
+function import {
+	echo "  importing >${1}<..."
+  ${MONGOIMPORT} --db world --collection factbook --file ${1}
+}
+
+function import_region {
+  for file in ${SOURCE}/$1/*.json
+  do
+	  import ${file}
+  done
+}
+
+import_region africa
+import_region antarctica
+import_region australia-oceania
+import_region central-america-n-caribbean
+import_region central-asia
+import_region east-n-southeast-asia
+import_region europe
+import_region middle-east
+import_region north-america
+import_region oceans
+import_region south-america
+import_region south-asia
+import_region world
+```
+
+To check up if all country profiles got imported use a query in the mongo shell e.g.
+
+```
+> use world
+  switched to db world
+> db.factbook.count()
+  261
+```
+
 
 ## Query Examples
 
