@@ -1,8 +1,8 @@
 
 # Mongo
 
-Import  [#import]
-Query Examples[#query-examples]
+[Import](#import)  •
+[Query Examples](#query-examples)
 
 
 ## Import
@@ -19,18 +19,18 @@ To import all documents use a shell script. Example `import.sh`:
 ``` bash
 #!/bin/bash
 
-MONGOIMPORT=mongoimport
-SOURCE     =.           # assume working folder (as root)
+MONGOIMPORT = mongoimport
+SOURCE      = .           # assume working folder (as root)
 
 function import {
-	echo "  importing >${1}<..."
+  echo "  importing >${1}<..."
   ${MONGOIMPORT} --db world --collection factbook --file ${1}
 }
 
 function import_region {
   for file in ${SOURCE}/$1/*.json
   do
-	  import ${file}
+    import ${file}
   done
 }
 
