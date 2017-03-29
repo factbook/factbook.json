@@ -59,6 +59,38 @@ NATO
 db.factbook.find( { "Government.International organization participation.text": /NATO/ } )
 ```
 
+Schengen Convention
+
+```js
+db.factbook.find( { "Government.International organization participation.text": /Schengen Convention/ } )
+```
+
+### Find all chief of states with name of _X_?
+
+Elisabeth
+
+
+### Find all countries with natural resources of _X_?
+
+Gold
+
+
+Diamonds
+
+
+### Sort countries by proven known crude oil reserves?
+
+World
+
+Europe (only)
+
+Middle East (only)
+
+
+### Sort countries by beer consumption (drinking) per capita (person) in liters?
+
+
+
 And so on.
 
 
