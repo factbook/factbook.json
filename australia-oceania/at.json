@@ -15,17 +15,17 @@
       "text": "Southeast Asia"
     },
     "Area": {
-      "total": {
+      "total:": {
         "text": "5 sq km"
       },
-      "land": {
+      "land:": {
         "text": "5 sq km"
       },
-      "water": {
+      "water:": {
         "text": "0 sq km"
       },
       "note": {
-        "text": "includes Ashmore Reef (West, Middle, and East Islets) and Cartier Island"
+        "text": "note: includes Ashmore Reef (West, Middle, and East Islets) and Cartier Island"
       }
     },
     "Area - comparative": {
@@ -38,17 +38,17 @@
       "text": "74.1 km"
     },
     "Maritime claims": {
-      "territorial sea": {
+      "territorial sea:": {
         "text": "12 nm"
       },
-      "contiguous zone": {
+      "contiguous zone:": {
         "text": "12 nm"
       },
-      "exclusive fishing zone": {
-        "text": "200 nm"
-      },
-      "continental shelf": {
+      "continental shelf:": {
         "text": "200-m depth or to the depth of exploitation"
+      },
+      "exclusive fishing zone:": {
+        "text": "200 nm"
       }
     },
     "Climate": {
@@ -58,32 +58,24 @@
       "text": "low with sand and coral"
     },
     "Elevation": {
-      "mean elevation": {
-        "text": "NA"
+      "lowest point:": {
+        "text": "Indian Ocean 0 m"
       },
-      "elevation extremes": {
-        "text": "lowest point: Indian Ocean 0 m ++ highest point: unnamed location 3 m"
+      "highest point:": {
+        "text": "Cartier Island 5 m"
       }
     },
     "Natural resources": {
       "text": "fish"
     },
     "Land use": {
-      "agricultural land": {
-        "text": "0%"
-      },
-      "forest": {
-        "text": "0%"
-      },
-      "other": {
-        "text": "100% (all grass and sand) (2011 est.)"
-      }
+      "text": "0% (2014 est.)"
     },
     "Natural hazards": {
       "text": "surrounded by shoals and reefs that can pose maritime hazards"
     },
     "Environment - current issues": {
-      "text": "illegal killing of protected wildlife by traditional Indonesian fisherman, as well as fishing by non-traditional Indonesian vessels, are ongoing problems"
+      "text": "illegal killing of protected wildlife by traditional Indonesian fisherman, as well as fishing by non-traditional Indonesian vessels, are ongoing problems; sea level rise, changes in sea temperature, and ocean acidification are concerns; marine debris"
     },
     "Geography - note": {
       "text": "Ashmore Reef National Nature Reserve established in August 1983; Cartier Island Marine Reserve established in 2000"
@@ -93,19 +85,19 @@
     "Population": {
       "text": "no indigenous inhabitants",
       "note": {
-        "text": "Indonesian fishermen are allowed access to the lagoon and fresh water at Ashmore Reef's West Island; access to East and Middle Islands is by permit only"
+        "text": "note: Indonesian fishermen are allowed access to the lagoon and fresh water at Ashmore Reef's West Island; access to East and Middle Islands is by permit only"
       }
     }
   },
   "Government": {
     "Country name": {
-      "conventional long form": {
+      "conventional long form:": {
         "text": "Territory of Ashmore and Cartier Islands"
       },
-      "conventional short form": {
+      "conventional short form:": {
         "text": "Ashmore and Cartier Islands"
       },
-      "etymology": {
+      "etymology:": {
         "text": "named after British Captain Samuel ASHMORE, who first sighted his namesake island in 1811, and after the ship Cartier, from which the second island was discovered in 1800"
       }
     },
@@ -116,10 +108,14 @@
       "text": "the laws of the Commonwealth of Australia and the laws of the Northern Territory of Australia, where applicable, apply"
     },
     "Citizenship": {
-      "text": "see Australia"
+      "note": {
+        "text": "see Australia"
+      }
     },
     "Diplomatic representation in the US": {
-      "text": "none (territory of Australia)"
+      "note": {
+        "text": "none (territory of Australia)"
+      }
     },
     "Diplomatic representation from the US": {
       "text": "none (territory of Australia)"
@@ -135,7 +131,9 @@
   },
   "Transportation": {
     "Ports and terminals": {
-      "text": "none; offshore anchorage only"
+      "note": {
+        "text": "none; offshore anchorage only"
+      }
     }
   },
   "Military and Security": {
