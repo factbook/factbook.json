@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "In 1959, three years before independence from Belgium, the majority ethnic group, the Hutus, overthrew the ruling Tutsi king. Over the next several years, thousands of Tutsis were killed, and some 150,000 driven into exile in neighboring countries. The children of these exiles later formed a rebel group, the Rwandan Patriotic Front (RPF), and began a civil war in 1990. The war, along with several political and economic upheavals, exacerbated ethnic tensions, culminating in April 1994 in a state-orchestrated genocide, in which Rwandans killed up to a million of their fellow citizens, including approximately three-quarters of the Tutsi population. The genocide ended later that same year when the predominantly Tutsi RPF, operating out of Uganda and northern Rwanda, defeated the national army and Hutu militias, and established an RPF-led government of national unity. Approximately 2 million Hutu refugees - many fearing Tutsi retribution - fled to neighboring Burundi, Tanzania, Uganda, and former Zaire. Since then, most of the refugees have returned to Rwanda, but several thousand remained in the neighboring Democratic Republic of the Congo (DRC, the former Zaire) and formed an extremist insurgency bent on retaking Rwanda, much as the RPF did in 1990. Rwanda held its first local elections in 1999 and its first post-genocide presidential and legislative elections in 2003. Rwanda in 2009 staged a joint military operation with the Congolese Army in DRC to rout out the Hutu extremist insurgency there, and Kigali and Kinshasa restored diplomatic relations. Rwanda also joined the Commonwealth in late 2009 and assumed a nonpermanent seat on the UN Security Council for the 2013-14 term."
+      "text": "A Rwandan kingdom dominated the region from the mid-18th century onward, with the Tutsi rulers conquering others militarily, centralizing power, and increasingly enacting anti-Hutu policies. German colonial rule began in 1898, but Belgian forces captured Rwanda in 1916 during World War I. Both European nations ruled through the kings and pursued a pro-Tutsi policy. In 1959, three years before independence from Belgium, the majority ethnic group, the Hutus, overthrew the ruling Tutsi king. Over the next several years, thousands of Tutsis were killed, and some 150,000 driven into exile in neighboring countries. The children of these exiles later formed a rebel group, the Rwandan Patriotic Front (RPF), and began a civil war in 1990. The war, along with several political and economic upheavals, exacerbated ethnic tensions, culminating in April 1994 in a state-orchestrated genocide, in which Rwandans killed approximately 800,000 of their fellow citizens, including approximately three-quarters of the Tutsi population. The genocide ended later that same year when the predominantly Tutsi RPF, operating out of Uganda and northern Rwanda, defeated the national army and Hutu militias, and established an RPF-led government of national unity. Rwanda held its first local elections in 1999 and its first post-genocide presidential and legislative elections in 2003. Rwanda joined the Commonwealth in late 2009. President Paul KAGAME won the presidential election in August 2017 after changing the constitution in 2016 to allow him to run for a third term."
     }
   },
   "Geography": {
@@ -40,7 +40,9 @@
       "text": "0 km (landlocked)"
     },
     "Maritime claims": {
-      "text": "none (landlocked)"
+      "note": {
+        "text": "none (landlocked)"
+      }
     },
     "Climate": {
       "text": "temperate; two rainy seasons (February to April, November to January); mild in mountains with frost and snow possible"
@@ -52,8 +54,11 @@
       "mean elevation": {
         "text": "1,598 m"
       },
-      "elevation extremes": {
-        "text": "lowest point: Rusizi River 950 m ++ highest point: Volcan Karisimbi 4,519 m"
+      "lowest point": {
+        "text": "Rusizi River 950 m"
+      },
+      "highest point": {
+        "text": "Volcan Karisimbi 4,519 m"
       }
     },
     "Natural resources": {
@@ -61,10 +66,13 @@
     },
     "Land use": {
       "agricultural land": {
-        "text": "74.5% ++ arable land 47%; permanent crops 10.1%; permanent pasture 17.4%"
+        "text": "74.5% (2011 est.)"
+      },
+      "arable land / permanent crops / permanent pasture": {
+        "text": "47% (2011 est.) / 10.1% (2011 est.) / 17.4% (2011 est.)"
       },
       "forest": {
-        "text": "18%"
+        "text": "18% (2011 est.)"
       },
       "other": {
         "text": "7.5% (2011 est.)"
@@ -73,14 +81,14 @@
     "Irrigated land": {
       "text": "96 sq km (2012)"
     },
+    "Population distribution": {
+      "text": "one of Africa's most densely populated countries; large concentrations tend to be in the central regions and along the shore of Lake Kivu in the west as shown in this population distribution map"
+    },
     "Natural hazards": {
-      "text": "periodic droughts; the volcanic Virunga Mountains are in the northwest along the border with Democratic Republic of the Congo",
-      "volcanism": {
-        "text": "Visoke (elev. 3,711 m), located on the border with the Democratic Republic of the Congo, is the country's only historically active volcano"
-      }
+      "text": "periodic droughts; the volcanic Virunga Mountains are in the northwest along the border with Democratic Republic of the Congo\nvolcanism: Visoke (3,711 m), located on the border with the Democratic Republic of the Congo, is the country's only historically active volcano"
     },
     "Environment - current issues": {
-      "text": "deforestation results from uncontrolled cutting of trees for fuel; overgrazing; soil exhaustion; soil erosion; widespread poaching"
+      "text": "deforestation results from uncontrolled cutting of trees for fuel; overgrazing; land degradation; soil erosion; a decline in soil fertility (soil exhaustion); wetland degradation and loss of biodiversity; widespread poaching"
     },
     "Environment - international agreements": {
       "party to": {
@@ -91,14 +99,14 @@
       }
     },
     "Geography - note": {
-      "text": "landlocked; most of the country is savanna grassland with the population predominantly rural"
+      "text": "landlocked; most of the country is intensively cultivated and rugged with the population predominantly rural"
     }
   },
   "People and Society": {
     "Population": {
-      "text": "12,988,423",
+      "text": "12,712,431 (July 2020 est.)",
       "note": {
-        "text": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2016 est.)"
+        "text": "note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected"
       }
     },
     "Nationality": {
@@ -110,81 +118,84 @@
       }
     },
     "Ethnic groups": {
-      "text": "Hutu (Bantu) 84%, Tutsi (Hamitic) 15%, Twa (Pygmy) 1%"
+      "text": "Hutu, Tutsi, Twa (Pygmy)"
     },
     "Languages": {
-      "text": "Kinyarwanda only (official, universal Bantu vernacular) 93.2%, Kinyarwanda and other language(s) 6.2%, French (official) and other language(s) 0.1%, English (official) and other language(s) 0.1%, Swahili (or Kiswahili, used in commercial centers) 0.02%, other 0.03%, unspecified 0.3% (2002 est.)"
+      "text": "Kinyarwanda (official, universal Bantu vernacular) 93.2%, French (official) <.1, English (official) <.1, Swahili/Kiswahili (official, used in commercial centers) <.1, more than one language, other 6.3%, unspecified 0.3% (2002 est.)"
     },
     "Religions": {
-      "text": "Roman Catholic 49.5%, Protestant 39.4% (includes Adventist 12.2% and other Protestant 27.2%), other Christian 4.5%, Muslim 1.8%, animist 0.1%, other 0.6%, none 3.6% (2001), unspecified 0.5% (2002 est.)"
+      "text": "Protestant 49.5% (includes Adventist 11.8% and other Protestant 37.7%), Roman Catholic 43.7%, Muslim 2%, other 0.9% (includes Jehovah's Witness), none 2.5%, unspecified 1.3% (2012 est.)"
     },
     "Demographic profile": {
-      "text": "Rwanda’s fertility rate declined sharply during the last decade, as a result of the government’s commitment to family planning, the increased use of contraceptives, and a downward trend in ideal family size. Increases in educational attainment, particularly among girls, and exposure to social media also contributed to the reduction in the birth rate. The average number of births per woman decreased from a 5.6 in 2005 to 4.5 in 2016. Despite these significant strides in reducing fertility, Rwanda’s birth rate remains very high and will continue to for an extended period of time because of its large population entering reproductive age. Because Rwanda is one of the most densely populated countries in Africa, its persistent high population growth and increasingly small agricultural landholdings will put additional strain on families’ ability to raise foodstuffs and access potable water. These conditions will also hinder the government’s efforts to reduce poverty and prevent environmental degradation. The UNHCR recommended that effective 30 June 2013 countries invoke a cessation of refugee status for those Rwandans who fled their homeland between 1959 and 1998, including the 1994 genocide, on the grounds that the conditions that drove them to seek protection abroad no longer exist. The UNHCR’s decision is controversial because many Rwandan refugees still fear persecution if they return home, concerns that are supported by the number of Rwandans granted asylum since 1998 and by the number exempted from the cessation. Rwandan refugees can still seek an exemption or local integration, but host countries are anxious to send the refugees back to Rwanda and are likely to avoid options that enable them to stay. Conversely, Rwanda itself hosts more than 155,000 refugees; virtually all of them fleeing conflict in neighboring Burundi and the Democratic Republic of the Congo."
+      "text": "Rwanda’s fertility rate declined sharply during the last decade, as a result of the government’s commitment to family planning, the increased use of contraceptives, and a downward trend in ideal family size. Increases in educational attainment, particularly among girls, and exposure to social media also contributed to the reduction in the birth rate. The average number of births per woman decreased from a 5.6 in 2005 to 4.5 in 2016. Despite these significant strides in reducing fertility, Rwanda’s birth rate remains very high and will continue to for an extended period of time because of its large population entering reproductive age. Because Rwanda is one of the most densely populated countries in Africa, its persistent high population growth and increasingly small agricultural landholdings will put additional strain on families’ ability to raise foodstuffs and access potable water. These conditions will also hinder the government’s efforts to reduce poverty and prevent environmental degradation.\nThe UNHCR recommended that effective 30 June 2013 countries invoke a cessation of refugee status for those Rwandans who fled their homeland between 1959 and 1998, including the 1994 genocide, on the grounds that the conditions that drove them to seek protection abroad no longer exist. The UNHCR’s decision is controversial because many Rwandan refugees still fear persecution if they return home, concerns that are supported by the number of Rwandans granted asylum since 1998 and by the number exempted from the cessation. Rwandan refugees can still seek an exemption or local integration, but host countries are anxious to send the refugees back to Rwanda and are likely to avoid options that enable them to stay. Conversely, Rwanda itself hosts almost 160,000 refugees as of 2017; virtually all of them fleeing conflict in neighboring Burundi and the Democratic Republic of the Congo."
     },
     "Age structure": {
       "0-14 years": {
-        "text": "41.53% (male 2,719,248/female 2,674,688)"
+        "text": "39.95% (male 2,564,893/female 2,513,993)"
       },
       "15-24 years": {
-        "text": "18.87% (male 1,226,141/female 1,225,009)"
+        "text": "20.1% (male 1,280,948/female 1,273,853)"
       },
       "25-54 years": {
-        "text": "32.93% (male 2,142,936/female 2,134,064)"
+        "text": "33.06% (male 2,001,629/female 2,201,132)"
       },
       "55-64 years": {
-        "text": "4.09% (male 249,447/female 282,225)"
+        "text": "4.24% (male 241,462/female 298,163)"
       },
       "65 years and over": {
-        "text": "2.58% (male 138,834/female 195,831) (2016 est.)"
+        "text": "2.65% (male 134,648/female 201,710) (2020 est.)"
       }
     },
     "Dependency ratios": {
       "total dependency ratio": {
-        "text": "78.1%"
+        "text": "74.2"
       },
       "youth dependency ratio": {
-        "text": "73.1%"
+        "text": "68.8"
       },
       "elderly dependency ratio": {
-        "text": "5%"
+        "text": "5.4"
       },
       "potential support ratio": {
-        "text": "20.1% (2015 est.)"
+        "text": "18.4 (2020 est.)"
       }
     },
     "Median age": {
       "total": {
-        "text": "19 years"
+        "text": "19.7 years"
       },
       "male": {
-        "text": "18.7 years"
+        "text": "18.9 years"
       },
       "female": {
-        "text": "19.2 years (2016 est.)"
+        "text": "20.4 years (2020 est.)"
       }
     },
     "Population growth rate": {
-      "text": "2.53% (2016 est.)"
+      "text": "2% (2020 est.)"
     },
     "Birth rate": {
-      "text": "33.3 births/1,000 population (2016 est.)"
+      "text": "27.9 births/1,000 population (2020 est.)"
     },
     "Death rate": {
-      "text": "8.8 deaths/1,000 population (2016 est.)"
+      "text": "6.1 deaths/1,000 population (2020 est.)"
     },
     "Net migration rate": {
-      "text": "0.8 migrant(s)/1,000 population (2016 est.)"
+      "text": "-3.3 migrant(s)/1,000 population (2020 est.)"
+    },
+    "Population distribution": {
+      "text": "one of Africa's most densely populated countries; large concentrations tend to be in the central regions and along the shore of Lake Kivu in the west as shown in this population distribution map"
     },
     "Urbanization": {
       "urban population": {
-        "text": "28.8% of total population (2015)"
+        "text": "17.4% of total population (2020)"
       },
       "rate of urbanization": {
-        "text": "6.43% annual rate of change (2010-15 est.)"
+        "text": "2.86% annual rate of change (2015-20 est.)"
       }
     },
     "Major urban areas - population": {
-      "text": "KIGALI (capital) 1.257 million (2015)"
+      "text": "1.132 million KIGALI (capital) (2020)"
     },
     "Sex ratio": {
       "at birth": {
@@ -194,95 +205,98 @@
         "text": "1.02 male(s)/female"
       },
       "15-24 years": {
-        "text": "1 male(s)/female"
+        "text": "1.01 male(s)/female"
       },
       "25-54 years": {
-        "text": "1 male(s)/female"
+        "text": "0.91 male(s)/female"
       },
       "55-64 years": {
-        "text": "0.88 male(s)/female"
+        "text": "0.81 male(s)/female"
       },
       "65 years and over": {
-        "text": "0.7 male(s)/female"
+        "text": "0.67 male(s)/female"
       },
       "total population": {
-        "text": "1 male(s)/female (2016 est.)"
+        "text": "0.96 male(s)/female (2020 est.)"
       }
     },
     "Mother's mean age at first birth": {
-      "text": "23",
+      "text": "23 years (2014/15 est.)",
       "note": {
-        "text": "median age at first birth among women 25-29 (2014/15 est.)"
+        "text": "note: median age at first birth among women 25-29"
       }
     },
     "Maternal mortality rate": {
-      "text": "290 deaths/100,000 live births (2015 est.)"
+      "text": "248 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "56.8 deaths/1,000 live births"
+        "text": "28 deaths/1,000 live births"
       },
       "male": {
-        "text": "60.2 deaths/1,000 live births"
+        "text": "30.6 deaths/1,000 live births"
       },
       "female": {
-        "text": "53.2 deaths/1,000 live births (2016 est.)"
+        "text": "25.3 deaths/1,000 live births (2020 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "60.1 years"
+        "text": "65.1 years"
       },
       "male": {
-        "text": "58.5 years"
+        "text": "63.2 years"
       },
       "female": {
-        "text": "61.7 years (2016 est.)"
+        "text": "67.1 years (2020 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "4.46 children born/woman (2016 est.)"
+      "text": "3.52 children born/woman (2020 est.)"
     },
     "Contraceptive prevalence rate": {
-      "text": "51.6% (2010/11)"
-    },
-    "Health expenditures": {
-      "text": "7.5% of GDP (2014)"
-    },
-    "Physicians density": {
-      "text": "0.06 physicians/1,000 population (2010)"
-    },
-    "Hospital bed density": {
-      "text": "1.6 beds/1,000 population (2007)"
+      "text": "53.2% (2014/15)"
     },
     "Drinking water source": {
-      "improved": {
-        "text": " ++ urban: 86.6% of population ++ rural: 71.9% of population ++ total: 76.1% of population"
+      "urban": {
+        "text": "unimproved: 8% of population"
       },
-      "unimproved": {
-        "text": " ++ urban: 13.4% of population ++ rural: 28.1% of population ++ total: 23.9% of population (2015 est.)"
+      "rural": {
+        "text": "23.1% of population"
+      },
+      "total": {
+        "text": "20.5% of population (2017 est.)"
       }
     },
+    "Current Health Expenditure": {
+      "text": "6.6% (2017)"
+    },
+    "Physicians density": {
+      "text": "0.14 physicians/1,000 population (2017)"
+    },
     "Sanitation facility access": {
-      "improved": {
-        "text": " ++ urban: 58.5% of population ++ rural: 62.9% of population ++ total: 61.6% of population"
+      "urban": {
+        "text": "unimproved: 11.6% of population"
       },
-      "unimproved": {
-        "text": " ++ urban: 41.5% of population ++ rural: 37.1% of population ++ total: 38.4% of population (2015 est.)"
+      "rural": {
+        "text": "20.6% of population"
+      },
+      "total": {
+        "text": "19.1% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "2.89% (2015 est.)"
+      "text": "2.9% (2019 est.)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
-      "text": "201,900 (2015 est.)"
+      "text": "230,000 (2019 est.)"
     },
     "HIV/AIDS - deaths": {
-      "text": "2,900 (2015 est.)"
+      "text": "2,800 (2019 est.)"
     },
     "Major infectious diseases": {
       "degree of risk": {
-        "text": "very high"
+        "text": "very high (2020)"
       },
       "food or waterborne diseases": {
         "text": "bacterial diarrhea, hepatitis A, and typhoid fever"
@@ -290,31 +304,31 @@
       "vectorborne diseases": {
         "text": "malaria and dengue fever"
       },
-      "animal contact disease": {
-        "text": "rabies (2016)"
+      "animal contact diseases": {
+        "text": "rabies"
       }
     },
     "Obesity - adult prevalence rate": {
-      "text": "3.3% (2014)"
+      "text": "5.8% (2016)"
     },
     "Children under the age of 5 years underweight": {
-      "text": "11.7% (2011)"
+      "text": "9.6% (2015)"
     },
     "Education expenditures": {
-      "text": "5% of GDP (2013)"
+      "text": "3.1% of GDP (2018)"
     },
     "Literacy": {
       "definition": {
         "text": "age 15 and over can read and write"
       },
       "total population": {
-        "text": "70.5%"
-      },
-      "male": {
         "text": "73.2%"
       },
+      "male": {
+        "text": "77.6%"
+      },
       "female": {
-        "text": "68% (2015 est.)"
+        "text": "69.4% (2018)"
       }
     },
     "School life expectancy (primary to tertiary education)": {
@@ -325,22 +339,19 @@
         "text": "11 years"
       },
       "female": {
-        "text": "11 years (2013)"
+        "text": "11 years (2019)"
       }
     },
     "Unemployment, youth ages 15-24": {
       "total": {
-        "text": "4.5%"
+        "text": "20.6%"
       },
       "male": {
-        "text": "3.6%"
+        "text": "18.8%"
       },
       "female": {
-        "text": "5.2% (2012 est.)"
+        "text": "22.6% (2018 est.)"
       }
-    },
-    "People - note": {
-      "text": "Rwanda is the most densely populated country in Africa"
     }
   },
   "Government": {
@@ -376,6 +387,9 @@
       },
       "time difference": {
         "text": "UTC+2 (7 hours ahead of Washington, DC, during Standard Time)"
+      },
+      "note": {
+        "text": "etymology: the city takes its name from nearby Mount Kigali; the name \"Kigali\" is composed of the Bantu prefix \"ki\" and the Rwandan \"gali\" meaning \"broad\" and likely refers to the broad, sprawling hill that has been dignified with the title of \"mount\""
       }
     },
     "Administrative divisions": {
@@ -388,7 +402,12 @@
       "text": "Independence Day, 1 July (1962)"
     },
     "Constitution": {
-      "text": "several previous; latest adopted by referendum 26 May 2003, effective 4 June 2003; amended several times, last in 2015 (2016)"
+      "history": {
+        "text": "several previous; latest adopted by referendum 26 May 2003, effective 4 June 2003"
+      },
+      "amendments": {
+        "text": "proposed by the president of the republic (with Council of Ministers approval) or by two-thirds majority vote of both houses of Parliament; passage requires at least three-quarters majority vote in both houses; changes to constitutional articles on national sovereignty, the presidential term, the form and system of government, and political pluralism also require approval in a referendum; amended 2008, 2010, 2015"
+      }
     },
     "Legal system": {
       "text": "mixed legal system of civil law, based on German and Belgian models, and customary law; judicial review of legislative acts in the Supreme Court"
@@ -418,58 +437,55 @@
         "text": "President Paul KAGAME (since 22 April 2000)"
       },
       "head of government": {
-        "text": "Prime Minister Anastase MUREKEZI (since 24 July 2014)"
+        "text": "Prime Minister Edouard NGIRENTE (since 30 August 2017)"
       },
       "cabinet": {
         "text": "Council of Ministers appointed by the president"
       },
       "elections/appointments": {
-        "text": "president directly elected by simple majority popular vote for a 7-year term (eligible for a second term); note - on December 18, Rwanda held a referendum on constitutional amendments that reduce the length of the terms for the president, senators, and Chief Justice and Deputy Chief from seven to five years; the reforms retained term limits, but included an exception for the current president that allows President KAGAME to serve another seven-year term in 2017, potentiallyy followed by two additional five-year terms; election last held on 9 August 2010 (next to be held in 2017); prime minister appointed by the president"
+        "text": "president directly elected by simple majority vote for a 5-year term (eligible for a second term); note - a constitutional amendment approved in December 2016 reduced the presidential term from 7 to 5 years but included an exception that allowed President KAGAME to serve another 7-year term in 2017, potentially followed by two additional 5-year terms; election last held on 4 August 2017 (next to be held in August 2024); prime minister appointed by the president"
       },
       "election results": {
-        "text": "Paul KAGAME reelected president; Paul KAGAME (RPF) 93.1%, Jean NTAWUKURIRYAYO (PSD) 5.1%, other 1.8%"
+        "text": "Paul KAGAME reelected president; Paul KAGAME (RPF) 98.8%, Philippe MPAYIMANA (independent) 0.7%, Frank HABINEZA (DGPR)0.5%"
       }
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral Parliament consists of the Senate or Senat (26 seats; 12 members indirectly elected by local councils, 8 appointed by the president, 4 appointed by the Political Organizations Forum - a body of registered political parties, and 2 selected by institutions of higher learning; members serve 8-year terms) and the Chamber of Deputies or Chambre des Deputes (80 seats; 53 members directly elected by proportional representation vote, 24 women elected by special interest groups, and 3 selected by youth and disability organizations; members serve 5-year terms)"
+        "text": "bicameral Parliament consists of:Senate or Senat (26 seats; 12 members indirectly elected by local councils, 8 appointed by the president, 4 appointed by the Political Organizations Forum - a body of registered political parties, and 2 selected by institutions of higher learning; members serve 8-year terms) Chamber of Deputies or Chambre des Deputes (80 seats; 53 members directly elected by proportional representation vote, 24 women selected by special interest groups, and 3 selected by youth and disability organizations; members serve 5-year terms)"
       },
       "elections": {
-        "text": "Senate - NA; Chamber of Deputies - last held on 16-18 September 2013 (next to be held in 2018)"
+        "text": "Senate - last held on 16-18 September 2019 (next to be held in 2027) Chamber of Deputies - last held on 3 September 2018 (next to be held in September 2023)"
       },
       "election results": {
-        "text": "Chamber of Deputies percent of vote by party - Rwndan Front Coalition 76.2%, PSD 13%, PL 9.3%, other 1.5%; seats by party - Rwandan Front Coalition 41, PSD 7, PL 5, 27 members indirectly elected"
+        "text": "Senate - percent of vote by party - NA; seats by party - NA; composition - men 16, women 10, percent of women 38.5%Chamber of Deputies - percent of vote by party - NA; seats by party - Rwandan Patriotic Front Coalition 40, PSD 5, PL 4, other 4 indirectly elected 27; composition - men 26, women 54, percent of women 67.5%; note - total Parliament percent of women 60.4%"
       }
     },
     "Judicial branch": {
-      "highest court(s)": {
-        "text": "Supreme Court (consists of the chief and deputy chief justices and 15 judges; normally organized into 3-judge panels); High Court (consists of the court president, vice-president, and a minimum of 24 judges and organized into 5 chambers"
-      },
-      "note": {
-        "text": "Supreme Court judges nominated by the president of the republic after consultation with the Cabinet and the Superior Council of the Judiciary or SCJ (a 27-member body of judges, other judicial officials, and legal professionals), and approved by the Senate; chief and deputy chief justices appointed for 8-year nonrenewable terms; tenure of judges NA; High Court president and vice-president appointed by the president of the republic upon approval by the Senate; judges appointed by the Supreme Court chief justice upon approval of the SCJ; judge tenure NA"
+      "highest courts": {
+        "text": "Supreme Court (consists of the chief and deputy chief justices and 15 judges; normally organized into 3-judge panels); High Court (consists of the court president, vice president, and a minimum of 24 judges and organized into 5 chambers)"
       },
       "judge selection and term of office": {
-        "text": "High Court of the Republic; commercial courts including the High Commercial Court; intermediate courts; primary courts; Gacaca and military specialized courts"
+        "text": "Supreme Court judges nominated by the president after consultation with the Cabinet and the Superior Council of the Judiciary (SCJ), a 27-member body of judges, other judicial officials, and legal professionals) and approved by the Senate; chief and deputy chief justices appointed for 8-year nonrenewable terms; tenure of judges NA; High Court president and vice president appointed by the president of the republic upon approval by the Senate; judges appointed by the Supreme Court chief justice upon approval of the SCJ; judge tenure NA"
       },
       "subordinate courts": {
-        "text": "High Court of the Republic; commercial courts including the High Commercial Court; intermediate courts; primary courts; Gacaca and military specialized courts"
+        "text": "High Court of the Republic; commercial courts including the High Commercial Court; intermediate courts; primary courts; and military specialized courts"
+      },
+      "note": {
+        "text": " "
       }
     },
     "Political parties and leaders": {
-      "text": "Liberal Party or PL [Protais MITALI] ++ Party for Progress and Concord or PPC [Christian MARARA] ++ Rwandan Patriotic Front or RPF [Prosper HIGIRO] ++ Social Democratic Party or PSD [Vincent BIRUTA]"
-    },
-    "Political pressure groups and leaders": {
-      "text": "IBUKA (association of genocide survivors)"
+      "text": "Democratic Green Party of Rwanda or DGPR [Frank HABINEZA]Liberal Party or PL [Donatille MUKABALISA]Party for Progress and Concord or PPC [Dr. Alivera MUKABARAMBA]Party Imberakuri or PS-Imberakuri [Christine MUKABUNANI]Rwandan Patriotic Front or RPF [Paul KAGAME]Rwandan Patriotic Front Coalition (includes RPF, PPC) [Paul KAGAME]Social Democratic Party or PSD [Vincent BIRUTA]"
     },
     "International organization participation": {
       "text": "ACP, AfDB, AU, C, CEPGL, COMESA, EAC, EADB, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMISS, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
     },
     "Diplomatic representation in the US": {
       "chief of mission": {
-        "text": "Ambassador Mathilde MUKANTABANA (since 5 July 2013)"
+        "text": "Ambassador Mathilde MUKANTABANA (since 18 July 2013)"
       },
       "chancery": {
-        "text": "1875 Connecticut Avenue, NW, Suite 418, Washington, DC, 2000"
+        "text": "1875 Connecticut Avenue NW, Suite 418, Washington, DC 20009"
       },
       "telephone": {
         "text": "[1] (202) 232-2882"
@@ -480,16 +496,16 @@
     },
     "Diplomatic representation from the US": {
       "chief of mission": {
-        "text": "Ambassador Erica BARKS-RUGGLES (since 26 January 2015)"
-      },
-      "embassy": {
-        "text": "2657 Avenue de la Gendarmerie, Kigali"
-      },
-      "mailing address": {
-        "text": "B.P. 28, Kigali"
+        "text": "Ambassador Peter H. VROOMAN (since 5 April 2018)"
       },
       "telephone": {
         "text": "[250] 252 596-400"
+      },
+      "embassy": {
+        "text": "2657 Avenue de la Gendarmerie, P. O. Box 28, Kigali"
+      },
+      "mailing address": {
+        "text": "B.P. 28, Kigali"
       },
       "FAX": {
         "text": "[250] 252 580 325"
@@ -509,64 +525,64 @@
         "text": "Faustin MURIGO/Jean-Bosco HASHAKAIMANA"
       },
       "note": {
-        "text": "adopted 2001"
+        "text": "note: adopted 2001"
       }
     }
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Rwanda is a rural country with about 90% of the population engaged in subsistence agriculture and some mineral and agro-processing. Tourism, minerals, coffee and tea are Rwanda's main sources of foreign exchange. Despite Rwanda's fertile ecosystem, food production often does not keep pace with demand, requiring food imports. Energy shortages, instability in neighboring states, and lack of adequate transportation linkages to other countries continue to handicap private sector growth. ++  ++ The 1994 genocide decimated Rwanda's fragile economic base, severely impoverished the population, particularly women, and temporarily stalled the country's ability to attract private and external investment. However, Rwanda has made substantial progress in stabilizing and rehabilitating its economy to pre-1994 levels. GDP has rebounded with an average annual growth of 7%-8% since 2003 and inflation has been reduced to single digits. Nonetheless, in 2015, 39% of the population lived below the poverty line, according to government statistics, compared to 57% in 2006. ++  ++ Africa's most densely populated country is trying to overcome the limitations of its small, landlocked economy by leveraging regional trade; Rwanda joined the East African Community and is aligning its budget, trade, and immigration policies with its regional partners. The government has embraced an expansionary fiscal policy to reduce poverty by improving education, infrastructure, and foreign and domestic investment, and pursuing market-oriented reforms. In recognition of Rwanda's successful management of its macro economy, in 2010, the IMF graduated Rwanda to a Policy Support Instrument. ++  ++ The Rwandan Government is seeking to become a regional leader in information and communication technologies. In 2012, Rwanda completed the first modern Special Economic Zone (SEZ) in Kigali. The SEZ seeks to attract investment in all sectors, but specifically in agribusiness, information and communications, trade and logistics, mining, and construction."
+      "text": "Rwanda is a rural, agrarian country with agriculture accounting for about 63% of export earnings, and with some mineral and agro-processing. Population density is high but, with the exception of the capital Kigali, is not concentrated in large cities – its 12 million people are spread out on a small amount of land (smaller than the state of Maryland). Tourism, minerals, coffee, and tea are Rwanda's main sources of foreign exchange. Despite Rwanda's fertile ecosystem, food production often does not keep pace with demand, requiring food imports. Energy shortages, instability in neighboring states, and lack of adequate transportation linkages to other countries continue to handicap private sector growth. The 1994 genocide decimated Rwanda's fragile economic base, severely impoverished the population, particularly women, and temporarily stalled the country's ability to attract private and external investment. However, Rwanda has made substantial progress in stabilizing and rehabilitating its economy well beyond pre-1994 levels. GDP has rebounded with an average annual growth of 6%-8% since 2003 and inflation has been reduced to single digits. In 2015, 39% of the population lived below the poverty line, according to government statistics, compared to 57% in 2006. The government has embraced an expansionary fiscal policy to reduce poverty by improving education, infrastructure, and foreign and domestic investment. Rwanda consistently ranks well for ease of doing business and transparency. The Rwandan Government is seeking to become a regional leader in information and communication technologies and aims to reach middle-income status by 2020 by leveraging the service industry. In 2012, Rwanda completed the first modern Special Economic Zone (SEZ) in Kigali. The SEZ seeks to attract investment in all sectors, but specifically in agribusiness, information and communications, trade and logistics, mining, and construction. In 2016, the government launched an online system to give investors information about public land and its suitability for agricultural development."
     },
     "GDP (purchasing power parity)": {
-      "text": "$21.97 billion (2016 est.) ++ $20.73 billion (2015 est.) ++ $19.39 billion (2014 est.)",
+      "text": "$24.68 billion (2017 est.) / $23.26 billion (2016 est.) / $21.94 billion (2015 est.)",
       "note": {
-        "text": "data are in 2016 dollars"
+        "text": "note: data are in 2017 dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$8.341 billion (2015 est.)"
+      "text": "$9.136 billion (2017 est.)"
     },
     "GDP - real growth rate": {
-      "text": "6% (2016 est.) ++ 6.9% (2015 est.) ++ 7% (2014 est.)"
+      "text": "6.1% (2017 est.) / 6% (2016 est.) / 8.9% (2015 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$1,900 (2016 est.) ++ $1,800 (2015 est.) ++ $1,800 (2014 est.)",
+      "text": "$2,100 (2017 est.) / $2,000 (2016 est.) / $1,900 (2015 est.)",
       "note": {
-        "text": "data are in 2016 dollars"
+        "text": "note: data are in 2017 dollars"
       }
     },
     "Gross national saving": {
-      "text": "12.9% of GDP (2016 est.) ++ 12.8% of GDP (2015 est.) ++ 15.6% of GDP (2014 est.)"
+      "text": "12.5% of GDP (2017 est.) / 6.1% of GDP (2016 est.) / 7.5% of GDP (2015 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "77.8%"
+        "text": "75.9% (2017 est.)"
       },
       "government consumption": {
-        "text": "11.4%"
+        "text": "15.2% (2017 est.)"
       },
       "investment in fixed capital": {
-        "text": "26.4%"
+        "text": "22.9% (2017 est.)"
       },
       "investment in inventories": {
-        "text": "0.6%"
+        "text": "0.5% (2017 est.)"
       },
       "exports of goods and services": {
-        "text": "13.6%"
+        "text": "18.2% (2017 est.)"
       },
       "imports of goods and services": {
-        "text": "-29.8% (2016 est.)"
+        "text": "-32.8% (2017 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "34.6%"
+        "text": "30.9% (2017 est.)"
       },
       "industry": {
-        "text": "15.1%"
+        "text": "17.6% (2017 est.)"
       },
       "services": {
-        "text": "50.3% (2016 est.)"
+        "text": "51.5% (2017 est.)"
       }
     },
     "Agriculture - products": {
@@ -576,21 +592,24 @@
       "text": "cement, agricultural products, small-scale beverages, soap, furniture, shoes, plastic goods, textiles, cigarettes"
     },
     "Industrial production growth rate": {
-      "text": "6.9% (2016 est.)"
+      "text": "4.2% (2017 est.)"
     },
     "Labor force": {
-      "text": "6.03 million (2016 est.)"
+      "text": "6.227 million (2017 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
-        "text": "90%"
+        "text": "75.3%"
       },
-      "industry and services": {
-        "text": "10% (2000)"
+      "industry": {
+        "text": "6.7%"
+      },
+      "services": {
+        "text": "18% (2012 est.)"
       }
     },
     "Unemployment rate": {
-      "text": "NA%"
+      "text": "2.7% (2014 est.)"
     },
     "Population below poverty line": {
       "text": "39.1% (2015 est.)"
@@ -603,214 +622,209 @@
         "text": "43.2% (2011 est.)"
       }
     },
-    "Distribution of family income - Gini index": {
-      "text": "46.8 (2000) ++ 28.9 (1985)"
-    },
     "Budget": {
       "revenues": {
-        "text": "$1.865 billion"
+        "text": "1.943 billion (2017 est.)"
       },
       "expenditures": {
-        "text": "$2.279 billion (2016 est.)"
+        "text": "2.337 billion (2017 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "22.4% of GDP (2016 est.)"
+      "text": "21.3% (of GDP) (2017 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-5% of GDP (2016 est.)"
+      "text": "-4.3% (of GDP) (2017 est.)"
     },
     "Public debt": {
-      "text": "36.6% of GDP (2016 est.) ++ 33.9% of GDP (2015 est.)"
+      "text": "40.5% of GDP (2017 est.) / 37.3% of GDP (2016 est.)"
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Inflation rate (consumer prices)": {
-      "text": "4.6% (2016 est.) ++ 2.5% (2015 est.)"
-    },
-    "Central bank discount rate": {
-      "text": "7.75% (31 December 2010) ++ 11.25% (31 December 2008)"
-    },
-    "Commercial bank prime lending rate": {
-      "text": "17.3% (31 December 2016 est.) ++ 17.33% (31 December 2015 est.)"
-    },
-    "Stock of narrow money": {
-      "text": "$957.3 million (31 December 2016 est.) ++ $1.013 billion (31 December 2015 est.)"
-    },
-    "Stock of broad money": {
-      "text": "$1.817 billion (31 December 2016 est.) ++ $1.64 billion (31 December 2015 est.)"
-    },
-    "Stock of domestic credit": {
-      "text": "$1.891 billion (31 December 2016 est.) ++ $1.337 billion (31 December 2015 est.)"
-    },
-    "Market value of publicly traded shares": {
-      "text": "$NA"
+      "text": "4.8% (2017 est.) / 5.7% (2016 est.)"
     },
     "Current account balance": {
-      "text": "-$1.385 billion (2016 est.) ++ -$1.096 billion (2015 est.)"
+      "text": "-$622 million (2017 est.) / -$1.336 billion (2016 est.)"
     },
     "Exports": {
-      "text": "$674.9 million (2016 est.) ++ $683.7 million (2015 est.)"
+      "text": "$1.05 billion (2017 est.) / $745 million (2016 est.)"
+    },
+    "Exports - partners": {
+      "text": "UAE 38.3%, Kenya 15.1%, Switzerland 9.9%, Democratic Republic of the Congo 9.5%, US 4.9%, Singapore 4.5% (2017)"
     },
     "Exports - commodities": {
       "text": "coffee, tea, hides, tin ore"
     },
-    "Exports - partners": {
-      "text": "Democratic Republic of the Congo 19.8%, US 10.8%, China 10.3%, Swaziland 7.9%, Malaysia 7%, Pakistan 6.2%, Germany 5.9%, Thailand 5.5% (2015)"
-    },
     "Imports": {
-      "text": "$1.961 billion (2016 est.) ++ $1.917 billion (2015 est.)"
+      "text": "$1.922 billion (2017 est.) / $2.036 billion (2016 est.)"
     },
     "Imports - commodities": {
       "text": "foodstuffs, machinery and equipment, steel, petroleum products, cement and construction material"
     },
     "Imports - partners": {
-      "text": "Uganda 15.7%, Kenya 11.8%, India 8.7%, China 8.7%, UAE 8.6%, Russia 6.6%, Tanzania 5.1% (2015)"
+      "text": "China 20.4%, Uganda 11%, India 7.2%, Kenya 7.1%, Tanzania 5.3%, UAE 5.1% (2017)"
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$756.3 million (31 December 2016 est.) ++ $1.03 billion (31 December 2015 est.)"
+      "text": "$997.6 million (31 December 2017 est.) / $1.104 billion (31 December 2016 est.)"
     },
     "Debt - external": {
-      "text": "$2.442 billion (31 December 2016 est.) ++ $2.178 billion (31 December 2015 est.)"
-    },
-    "Stock of direct foreign investment - at home": {
-      "text": "$1.779 billion (31 December 2016 est.) ++ $1.484 billion (31 December 2015 est.)"
-    },
-    "Stock of direct foreign investment - abroad": {
-      "text": "$25.6 million (31 December 2016 est.) ++ $25.6 million (31 December 2015 est.)"
+      "text": "$3.258 billion (31 December 2017 est.) / $2.611 billion (31 December 2016 est.)"
     },
     "Exchange rates": {
-      "text": "Rwandan francs (RWF) per US dollar - ++ 787.9 (2016 est.) ++ 720.54 (2015 est.) ++ 720.54 (2014 est.) ++ 680.95 (2013 est.) ++ 616.6 (2012 est.)"
+      "text": "Rwandan francs (RWF) per US dollar - / 839.1 (2017 est.) / 787.25 (2016 est.) / 787.25 (2015 est.) / 720.54 (2014 est.) / 680.95 (2013 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "7 million (2017)"
+      },
+      "electrification - total population": {
+        "text": "43% (2017)"
+      },
+      "electrification - urban areas": {
+        "text": "69% (2017)"
+      },
+      "electrification - rural areas": {
+        "text": "37% (2017)"
+      }
+    },
     "Electricity - production": {
-      "text": "500 million kWh (2014 est.)"
+      "text": "525 million kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "500 million kWh (2014 est.)"
+      "text": "527.3 million kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "3 million kWh (2014 est.)"
+      "text": "4 million kWh (2015 est.)"
     },
     "Electricity - imports": {
-      "text": "95 million kWh (2014 est.)"
+      "text": "42 million kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "100,000 kW (2014 est.)"
+      "text": "191,000 kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "34.3% of total installed capacity (2012 est.)"
+      "text": "42% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2012 est.)"
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "65.7% of total installed capacity (2012 est.)"
+      "text": "51% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "0% of total installed capacity (2012 est.)"
+      "text": "7% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "0 bbl/day (2015 est.)"
+      "text": "0 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "0 bbl/day (2013 est.)"
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - imports": {
-      "text": "0 bbl/day (2013 est.)"
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2016 es)"
+      "text": "0 bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "0 bbl/day (2013 est.)"
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "6,000 bbl/day (2014 est.)"
+      "text": "6,700 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "0 bbl/day (2013 est.)"
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "5,979 bbl/day (2013 est.)"
+      "text": "6,628 bbl/day (2015 est.)"
     },
     "Natural gas - production": {
-      "text": "0 cu m (2013 est.)"
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "0 cu m (2013 est.)"
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2013 est.)"
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "0 cu m (2013 est.)"
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "56.63 billion cu m (1 January 2016 es)"
+      "text": "56.63 billion cu m (1 January 2018 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "800,000 Mt (2013 est.)"
+      "text": "985,600 Mt (2017 est.)"
     }
   },
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "16,983"
+        "text": "11,215"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "less than 1 (July 2015 est.)"
+        "text": "less than 1 (2019 est.)"
       }
     },
     "Telephones - mobile cellular": {
-      "total": {
-        "text": "8.76 million"
+      "total subscriptions": {
+        "text": "9,531,609"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "69 (July 2015 est.)"
+        "text": "76.49 (2019 est.)"
       }
     },
-    "Telephone system": {
+    "Telecommunication systems": {
       "general assessment": {
-        "text": "small, inadequate telephone system primarily serves business, education, and government"
+        "text": "govt. invests in smart city infrastructure; expanding wholesale LTE services; govt. launches SIM card registration; growing economy and foreign aid help launch telecom sector, despite widespread poverty; slow to liberalize mobile sector; competing operators roll out national fiber optic backbone that connects to submarine cables of neighboring countries ending expensive dependence on satellite (2020)"
       },
       "domestic": {
-        "text": "the capital, Kigali, is connected to provincial centers by microwave radio relay and, recently, by cellular telephone service; much of the network depends on wire and HF radiotelephone; combined fixed-line and mobile-cellular telephone density has increas"
+        "text": "the capital, Kigali, is connected to provincial centers by microwave radio relay, and recently by cellular telephone service; much of the network depends on wire and HF radiotelephone; fixed-line less than 1 per 100 and mobile-cellular telephone density has increased to 76 telephones per 100 persons (2019)"
       },
       "international": {
-        "text": "country code - 250; international connections employ microwave radio relay to neighboring countries and satellite communications to more distant countries; satellite earth stations - 1 Intelsat (Indian Ocean) in Kigali (includes telex and telefax service) (2015)"
+        "text": "country code - 250; international connections employ microwave radio relay to neighboring countries and satellite communications to more distant countries; satellite earth stations - 1 Intelsat (Indian Ocean) in Kigali (includes telex and telefax service); international submarine fiber-optic cables on the African east coast has brought international bandwidth and lessened the dependency on satellites"
+      },
+      "note": {
+        "text": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
       }
     },
     "Broadcast media": {
-      "text": "government owns and operates the only TV station; government-owned and operated Radio Rwanda has a national reach; 9 private radio stations; transmissions of multiple international broadcasters are available (2007)"
+      "text": "13 TV stations; 35 radio stations registered, including international broadcasters, government owns most popular TV and radio stations; regional satellite-based TV services available"
     },
     "Internet country code": {
       "text": ".rw"
     },
     "Internet users": {
       "total": {
-        "text": "2.279 million"
+        "text": "2,653,197"
       },
       "percent of population": {
-        "text": "18% (July 2015 est.)"
+        "text": "21.77% (July 2018 est.)"
+      }
+    },
+    "Broadband - fixed subscriptions": {
+      "total": {
+        "text": "7,501"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "less than 1 (2018 est.)"
       }
     }
   },
   "Transportation": {
     "National air transport system": {
       "number of registered air carriers": {
-        "text": "1"
+        "text": "1 (2020)"
       },
       "inventory of registered aircraft operated by air carriers": {
-        "text": "9"
+        "text": "12"
       },
       "annual passenger traffic on registered air carriers": {
-        "text": "645,815"
-      },
-      "annual freight traffic on registered air carriers": {
-        "text": "21,382,897 mt-km (2015)"
+        "text": "1,073,528 (2018)"
       }
     },
     "Civil aircraft registration country code prefix": {
@@ -821,7 +835,7 @@
     },
     "Airports - with paved runways": {
       "total": {
-        "text": "4"
+        "text": "4 (2019)"
       },
       "over 3,047 m": {
         "text": "1"
@@ -830,15 +844,15 @@
         "text": "2"
       },
       "under 914 m": {
-        "text": "1 (2013)"
+        "text": "1"
       }
     },
     "Airports - with unpaved runways": {
       "total": {
-        "text": "3"
+        "text": "3 (2013)"
       },
       "914 to 1,523 m": {
-        "text": "2"
+        "text": "2 (2013)"
       },
       "under 914 m": {
         "text": "1 (2013)"
@@ -846,10 +860,10 @@
     },
     "Roadways": {
       "total": {
-        "text": "4,700 km"
+        "text": "4,700 km (2012)"
       },
       "paved": {
-        "text": "1,207 km"
+        "text": "1,207 km (2012)"
       },
       "unpaved": {
         "text": "3,493 km (2012)"
@@ -865,14 +879,23 @@
     }
   },
   "Military and Security": {
-    "Military branches": {
-      "text": "Rwanda Defense Force (RDF): Rwanda Army (Rwanda Land Force), Rwanda Air Force (Force Aerienne Rwandaise, FAR) (2013)"
-    },
-    "Military service age and obligation": {
-      "text": "18 years of age for voluntary military service; no conscription; Rwandan citizenship is required, as is a 9th-grade education for enlisted recruits and an A-level certificate for officer candidates; enlistment is either as contract (5-years, renewable twice) or career; retirement (for officers and senior NCOs) after 20 years of service or at 40-60 years of age (2012)"
+    "Military and security forces": {
+      "text": "Rwanda Defense Force (RDF): Rwanda Army (Rwanda Land Force), Rwanda Air Force (Force Aerienne Rwandaise, FAR), Rwanda Reserve Force (2020)"
     },
     "Military expenditures": {
-      "text": "1.12% of GDP (2012) ++ 1.19% of GDP (2011) ++ 1.12% of GDP (2010)"
+      "text": "1.2% of GDP (2019) / 1.2% of GDP (2018) / 1.3% of GDP (2017) / 1.3% of GDP (2016) / 1.3% of GDP (2015)"
+    },
+    "Military and security service personnel strengths": {
+      "text": "the Rwanda Defense Force (RDF) has approximately 32,500 active personnel (32,000 Army; 500 Air Force) (2019 est.)"
+    },
+    "Military equipment inventories and acquisitions": {
+      "text": "the RDF's inventory includes mostly Soviet-era and older Western - mostly French and South African - equipment; Russia is the largest supplier of equipment to the RDF since 2010 (2019 est.)"
+    },
+    "Military deployments": {
+      "text": "1,380 Central African Republic (MINUSCA); 1,120 Sudan (UNAMID); 2,720 South Sudan (UNMISS) (March 2020)"
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for voluntary military service; no conscription; Rwandan citizenship is required, as is a 9th-grade education for enlisted recruits and an A-level certificate for officer candidates; enlistment is either as contract (5-years, renewable twice) or career; retirement (for officers and senior NCOs) after 20 years of service or at 40-60 years of age (2013)"
     }
   },
   "Transnational Issues": {
@@ -881,10 +904,7 @@
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
-        "text": "73,092 (Democratic Republic of the Congo) (2016); 84,120 (Burundi) (2017)"
-      },
-      "IDPs": {
-        "text": "undetermined (fighting between government and insurgency in 1998-99; returning refugees) (2012)"
+        "text": "77,017 (Democratic Republic of the Congo), 72,007 (Burundi) (2020)"
       }
     }
   }

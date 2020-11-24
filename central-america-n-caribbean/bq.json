@@ -16,7 +16,7 @@
     },
     "Area": {
       "total": {
-        "text": "5.4 sq km"
+        "text": "5 sq km"
       },
       "land": {
         "text": "5.4 sq km"
@@ -49,22 +49,25 @@
       "text": "raised flat to undulating coral and limestone plateau; ringed by vertical white cliffs (9 to 15 m high)"
     },
     "Elevation": {
-      "mean elevation": {
-        "text": "NA"
+      "lowest point": {
+        "text": "Caribbean Sea 0 m"
       },
-      "elevation extremes": {
-        "text": "lowest point: Caribbean Sea 0 m ++ highest point: unnamed elevation on southwest side 77 m"
+      "highest point": {
+        "text": "200 m NNW of lighthouse 85 m"
       }
     },
     "Natural resources": {
-      "text": "guano"
+      "text": "guano (mining discontinued in 1898)"
     },
     "Land use": {
       "agricultural land": {
-        "text": "0% ++ arable land 0%; permanent crops 0%; permanent pasture 0%"
+        "text": "0% (2011 est.)"
+      },
+      "arable land / permanent crops / permanent pasture": {
+        "text": "0% (2011 est.) / 0% (2011 est.) / 0% (2011 est.)"
       },
       "forest": {
-        "text": "0%"
+        "text": "0% (2011 est.)"
       },
       "other": {
         "text": "100% (2011 est.)"
@@ -74,7 +77,7 @@
       "text": "hurricanes"
     },
     "Environment - current issues": {
-      "text": "NA"
+      "text": "some coral bleaching"
     },
     "Geography - note": {
       "text": "strategic location 160 km south of the US Naval Base at Guantanamo Bay, Cuba; mostly exposed rock with numerous solution holes (limestone sinkholes) but with enough grassland to support goat herds; dense stands of fig trees, scattered cactus"
@@ -82,10 +85,10 @@
   },
   "People and Society": {
     "Population": {
-      "text": "uninhabited",
-      "note": {
-        "text": "transient Haitian fishermen and others camp on the island"
-      }
+      "text": "uninhabited; transient Haitian fishermen and others camp on the island"
+    },
+    "Education expenditures": {
+      "text": "NA"
     }
   },
   "Government": {
@@ -97,14 +100,14 @@
         "text": "Navassa Island"
       },
       "etymology": {
-        "text": "the flat island was named \"Navaza\" by some of Christopher COLUMBUS' sailers in 1504; the name derives from the Spanish term \"nava\" meaning \"flat land, plain, or field\""
+        "text": "the flat island was named \"Navaza\" by some of Christopher COLUMBUS' sailors in 1504; the name derives from the Spanish term \"nava\" meaning \"flat land, plain, or field\""
       }
     },
     "Dependency status": {
-      "text": "unorganized, unincorporated territory of the US; administered by the Fish and Wildlife Service, US Department of the Interior from the Caribbean Islands National Wildlife Refuge in Boqueron, Puerto Rico; in September 1996, the Coast Guard ceased operations and maintenance of Navassa Island Light, a 46-meter-tall lighthouse on the southern side of the island; there has also been a private claim advanced against the island"
+      "text": "unorganized, unincorporated territory of the US; administered by the Fish and Wildlife Service, US Department of the Interior from the Caribbean Islands National Wildlife Refuge in Boqueron, Puerto Rico; in September 1996, the Coast Guard ceased operations and maintenance of the Navassa Island Light, a 46-meter-tall lighthouse on the southern side of the island; Haiti has claimed the island since the 19th century"
     },
     "Legal system": {
-      "text": "the laws of the US, where applicable, apply"
+      "text": "the laws of the US apply where applicable"
     },
     "Diplomatic representation from the US": {
       "text": "none (territory of the US)"
@@ -120,7 +123,9 @@
   },
   "Transportation": {
     "Ports and terminals": {
-      "text": "none; offshore anchorage only"
+      "note": {
+        "text": "none; offshore anchorage only"
+      }
     }
   },
   "Military and Security": {

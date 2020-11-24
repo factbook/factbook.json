@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "Burundi's first democratically elected president was assassinated in October 1993 after only 100 days in office, triggering widespread ethnic violence between Hutu and Tutsi factions. More than 200,000 Burundians perished during the conflict that spanned almost a dozen years. Hundreds of thousands of Burundians were internally displaced or became refugees in neighboring countries. An internationally brokered power-sharing agreement between the Tutsi-dominated government and the Hutu rebels in 2003 paved the way for a transition process that integrated defense forces, and established a new constitution and elected a majority Hutu government in 2005. The government of President Pierre NKURUNZIZA, who was reelected in 2010 and again in a disputed election in 2015, continues to face many political and economic challenges."
+      "text": "Burundi is a small country in Central-East Africa bordered by Tanzania, Rwanda, the Democratic Republic of Congo, and Lake Tanganyika. Created in the 17th century, a Burundi Kingdom was preserved under German colonial rule in the late 19th and early 20th century, and then by Belgium after World War I. Burundi gained its independence from Belgium in 1962 as the Kingdom of Burundi, but the monarchy was overthrown in 1966 and a republic established. Political violence and non-democratic transfers of power have marked much of its history; Burundi's first democratically elected president, a Hutu, was assassinated in October 1993 after only 100 days in office. The internationally brokered Arusha Agreement, signed in 2000, and subsequent ceasefire agreements with armed movements ended the 1993-2005 civil war. Burundi’s second democratic elections were held in 2005. Pierre NKURUNZIZA was elected president in 2005 and 2010, and again in a controversial election in 2015. Burundi continues to face many economic and political challenges."
     }
   },
   "Geography": {
@@ -40,7 +40,9 @@
       "text": "0 km (landlocked)"
     },
     "Maritime claims": {
-      "text": "none (landlocked)"
+      "note": {
+        "text": "none (landlocked)"
+      }
     },
     "Climate": {
       "text": "equatorial; high plateau with considerable altitude variation (772 m to 2,670 m above sea level); average annual temperature varies with altitude from 23 to 17 degrees Celsius but is generally moderate as the average altitude is about 1,700 m; average annual rainfall is about 150 cm; two wet seasons (February to May and September to November), and two dry seasons (June to August and December to January)"
@@ -52,8 +54,11 @@
       "mean elevation": {
         "text": "1,504 m"
       },
-      "elevation extremes": {
-        "text": "lowest point: Lake Tanganyika 772 m ++ highest point: Heha 2,670 m"
+      "lowest point": {
+        "text": "Lake Tanganyika 772 m"
+      },
+      "highest point": {
+        "text": "Heha 2,670 m"
       }
     },
     "Natural resources": {
@@ -61,10 +66,13 @@
     },
     "Land use": {
       "agricultural land": {
-        "text": "73.3% ++ arable land 38.9%; permanent crops 15.6%; permanent pasture 18.8%"
+        "text": "73.3% (2011 est.)"
+      },
+      "arable land / permanent crops / permanent pasture": {
+        "text": "38.9% (2011 est.) / 15.6% (2011 est.) / 18.8% (2011 est.)"
       },
       "forest": {
-        "text": "6.6%"
+        "text": "6.6% (2011 est.)"
       },
       "other": {
         "text": "20.1% (2011 est.)"
@@ -72,6 +80,9 @@
     },
     "Irrigated land": {
       "text": "230 sq km (2012)"
+    },
+    "Population distribution": {
+      "text": "one of Africa's most densely populated countries; concentrations tend to be in the north and along the northern shore of Lake Tanganyika in the west; most people live on farms near areas of fertile volcanic soil as shown in this population distribution map"
     },
     "Natural hazards": {
       "text": "flooding; landslides; drought"
@@ -93,9 +104,9 @@
   },
   "People and Society": {
     "Population": {
-      "text": "11,099,298",
+      "text": "11,865,821 (July 2020 est.)",
       "note": {
-        "text": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2016 est.)"
+        "text": "note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected"
       }
     },
     "Nationality": {
@@ -107,81 +118,87 @@
       }
     },
     "Ethnic groups": {
-      "text": "Hutu (Bantu) 85%, Tutsi (Hamitic) 14%, Twa (Pygmy) 1%, Europeans 3,000, South Asians 2,000"
+      "text": "Hutu, Tutsi, Twa (Pygmy)"
     },
     "Languages": {
-      "text": "Kirundi 29.7% (official), Kirundi and other language 9.1%, French (official) and French and other language 0.3%, Swahili and Swahili and other language 0.2% (along Lake Tanganyika and in the Bujumbura area), English and English and other language 0.06%, more than 2 languages 3.7%, unspecified 56.9% (2008 est.)"
+      "text": "Kirundi only 29.7% (official); French only .3% (official); Swahili only .2%; English only .1% (official); Kirundi and French 8.4%; Kirundi, French, and English 2.4%, other language combinations 2%, unspecified 56.9% (2008 est.)",
+      "note": {
+        "text": "note: data represent languages read and written by people 10 years of age or older; spoken Kirundi is nearly universal"
+      }
     },
     "Religions": {
-      "text": "Catholic 62.1%, Protestant 23.9% (includes Adventist 2.3% and other Protestant 21.6%), Muslim 2.5%, other 3.6%, unspecified 7.9% (2008 est.)"
+      "text": "Roman Catholic 62.1%, Protestant 23.9% (includes Adventist 2.3% and other Protestant 21.6%), Muslim 2.5%, other 3.6%, unspecified 7.9% (2008 est.)"
     },
     "Demographic profile": {
-      "text": "Burundi is a densely populated country with a high population growth rate, factors that combined with land scarcity and poverty place a large share of its population at risk of food insecurity. About 90% of the population relies on subsistence agriculture. Subdivision of land to sons, and redistribution to returning refugees, results in smaller, overworked, and less productive plots. Food shortages, poverty, and a lack of clean water contribute to a 60% chronic malnutrition rate among children. A lack of reproductive health services has prevented a significant reduction in Burundi’s maternal mortality and fertility rates, which are both among the world’s highest. With two-thirds of its population under the age of 25 and a birth rate of about 6 children per woman, Burundi’s population will continue to expand rapidly for decades to come, putting additional strain on a poor country. Historically, migration flows into and out of Burundi have consisted overwhelmingly of refugees from violent conflicts. In the last decade, more than a half million Burundian refugees returned home from neighboring countries, mainly Tanzania. Reintegrating the returnees has been problematic due to their prolonged time in exile, land scarcity, poor infrastructure, poverty, and unemployment. Repatriates and existing residents (including internally displaced persons) compete for limited land and other resources. To further complicate matters, international aid organizations reduced their assistance because they no longer classified Burundi as a post-conflict country. Conditions have deteriorated since renewed violence erupted in April 2015, causing another outpouring of refugees. In addition to refugee out-migration, Burundi has hosted thousands of refugees from neighboring countries, mostly from the Democratic Republic of the Congo and lesser numbers from Rwanda."
+      "text": "Burundi is a densely populated country with a high population growth rate, factors that combined with land scarcity and poverty place a large share of its population at risk of food insecurity. About 90% of the population relies on subsistence agriculture. Subdivision of land to sons, and redistribution to returning refugees, results in smaller, overworked, and less productive plots. Food shortages, poverty, and a lack of clean water contribute to a 60% chronic malnutrition rate among children. A lack of reproductive health services has prevented a significant reduction in Burundi’s maternal mortality and fertility rates, which are both among the world’s highest. With two-thirds of its population under the age of 25 and a birth rate of about 6 children per woman, Burundi’s population will continue to expand rapidly for decades to come, putting additional strain on a poor country.\nHistorically, migration flows into and out of Burundi have consisted overwhelmingly of refugees from violent conflicts. In the last decade, more than a half million Burundian refugees returned home from neighboring countries, mainly Tanzania. Reintegrating the returnees has been problematic due to their prolonged time in exile, land scarcity, poor infrastructure, poverty, and unemployment. Repatriates and existing residents (including internally displaced persons) compete for limited land and other resources. To further complicate matters, international aid organizations reduced their assistance because they no longer classified Burundi as a post-conflict country. Conditions have deteriorated since renewed violence erupted in April 2015, causing another outpouring of refugees. In addition to refugee out-migration, Burundi has hosted thousands of refugees from neighboring countries, mostly from the Democratic Republic of the Congo and lesser numbers from Rwanda."
     },
     "Age structure": {
       "0-14 years": {
-        "text": "45.61% (male 2,545,895/female 2,516,480)"
+        "text": "43.83% (male 2,618,868/female 2,581,597)"
       },
       "15-24 years": {
-        "text": "19.17% (male 1,061,538/female 1,066,581)"
+        "text": "19.76% (male 1,172,858/female 1,171,966)"
       },
       "25-54 years": {
-        "text": "28.71% (male 1,589,506/female 1,597,081)"
+        "text": "29.18% (male 1,713,985/female 1,748,167)"
       },
       "55-64 years": {
-        "text": "3.94% (male 205,538/female 231,317)"
+        "text": "4.17% (male 231,088/female 264,131)"
       },
       "65 years and over": {
-        "text": "2.57% (male 121,935/female 163,427) (2016 est.)"
+        "text": "3.06% (male 155,262/female 207,899) (2020 est.)"
       }
     },
     "Dependency ratios": {
       "total dependency ratio": {
-        "text": "89.7%"
+        "text": "91"
       },
       "youth dependency ratio": {
-        "text": "85%"
+        "text": "86.4"
       },
       "elderly dependency ratio": {
-        "text": "4.7%"
+        "text": "4.5"
       },
       "potential support ratio": {
-        "text": "21.3% (2015 est.)"
+        "text": "22 (2020 est.)"
       }
     },
     "Median age": {
       "total": {
-        "text": "17 years"
+        "text": "17.7 years"
       },
       "male": {
-        "text": "16.8 years"
+        "text": "17.4 years"
       },
       "female": {
-        "text": "17.2 years (2016 est.)"
+        "text": "18 years (2020 est.)"
       }
     },
     "Population growth rate": {
-      "text": "3.26% (2016 est.)"
+      "text": "2.85% (2020 est.)"
     },
     "Birth rate": {
-      "text": "41.7 births/1,000 population (2016 est.)"
+      "text": "36.5 births/1,000 population (2020 est.)"
     },
     "Death rate": {
-      "text": "9 deaths/1,000 population (2016 est.)"
+      "text": "6.2 deaths/1,000 population (2020 est.)"
     },
     "Net migration rate": {
-      "text": "0 migrant(s)/1,000 population (2016 est.)"
+      "text": "-0.8 migrant(s)/1,000 population (2020 est.)"
+    },
+    "Population distribution": {
+      "text": "one of Africa's most densely populated countries; concentrations tend to be in the north and along the northern shore of Lake Tanganyika in the west; most people live on farms near areas of fertile volcanic soil as shown in this population distribution map"
     },
     "Urbanization": {
       "urban population": {
-        "text": "12.1% of total population (2015)"
+        "text": "13.7% of total population (2020)"
       },
       "rate of urbanization": {
-        "text": "5.66% annual rate of change (2010-15 est.)"
+        "text": "5.68% annual rate of change (2015-20 est.)"
       }
     },
     "Major urban areas - population": {
-      "text": "BUJUMBURA (capital) 751,000 (2015)"
+      "text": "1,013,000 BUJUMBURA (capital) (2020)"
     },
     "Sex ratio": {
       "at birth": {
@@ -194,89 +211,98 @@
         "text": "1 male(s)/female"
       },
       "25-54 years": {
-        "text": "1 male(s)/female"
+        "text": "0.98 male(s)/female"
       },
       "55-64 years": {
-        "text": "0.89 male(s)/female"
+        "text": "0.87 male(s)/female"
       },
       "65 years and over": {
-        "text": "0.74 male(s)/female"
+        "text": "0.75 male(s)/female"
       },
       "total population": {
-        "text": "0.99 male(s)/female (2016 est.)"
+        "text": "0.99 male(s)/female (2020 est.)"
       }
     },
     "Mother's mean age at first birth": {
-      "text": "21.3",
+      "text": "21.3 years (2010 est.)",
       "note": {
-        "text": "median age at first birth among women 25-29 (2010 est.)"
+        "text": "note: median age at first birth among women 25-29"
       }
     },
     "Maternal mortality rate": {
-      "text": "712 deaths/100,000 live births (2015 est.)"
+      "text": "548 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "60.4 deaths/1,000 live births"
+        "text": "40.1 deaths/1,000 live births"
       },
       "male": {
-        "text": "66.9 deaths/1,000 live births"
+        "text": "44.4 deaths/1,000 live births"
       },
       "female": {
-        "text": "53.6 deaths/1,000 live births (2016 est.)"
+        "text": "35.7 deaths/1,000 live births (2020 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "60.5 years"
+        "text": "66.7 years"
       },
       "male": {
-        "text": "58.8 years"
+        "text": "64.6 years"
       },
       "female": {
-        "text": "62.3 years (2016 est.)"
+        "text": "68.8 years (2020 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "6.04 children born/woman (2016 est.)"
+      "text": "5.28 children born/woman (2020 est.)"
     },
     "Contraceptive prevalence rate": {
-      "text": "21.9% (2010/11)"
-    },
-    "Health expenditures": {
-      "text": "7.5% of GDP (2014)"
-    },
-    "Hospital bed density": {
-      "text": "1.9 beds/1,000 population (2011)"
+      "text": "28.5% (2016/17)"
     },
     "Drinking water source": {
-      "improved": {
-        "text": " ++ urban: 91.1% of population ++ rural: 73.8% of population ++ total: 75.9% of population"
+      "urban": {
+        "text": "unimproved: -1.1% of population"
       },
-      "unimproved": {
-        "text": " ++ urban: 8.9% of population ++ rural: 26.2% of population ++ total: 24.1% of population (2015 est.)"
+      "rural": {
+        "text": "22.2% of population"
+      },
+      "total": {
+        "text": "19.7% of population (2017 est.)"
       }
     },
+    "Current Health Expenditure": {
+      "text": "7.5% (2017)"
+    },
+    "Physicians density": {
+      "text": "0.1 physicians/1,000 population (2017)"
+    },
+    "Hospital bed density": {
+      "text": "0.8 beds/1,000 population (2014)"
+    },
     "Sanitation facility access": {
-      "improved": {
-        "text": " ++ urban: 43.8% of population ++ rural: 48.6% of population ++ total: 48% of population"
+      "urban": {
+        "text": "unimproved: 14.8% of population"
       },
-      "unimproved": {
-        "text": " ++ urban: 56.2% of population ++ rural: 51.4% of population ++ total: 52% of population (2015 est.)"
+      "rural": {
+        "text": "46.6% of population"
+      },
+      "total": {
+        "text": "42.6% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "1.04% (2015 est.)"
+      "text": "1.2% (2019 est.)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
-      "text": "77,400 (2015 est.)"
+      "text": "85,000 (2019 est.)"
     },
     "HIV/AIDS - deaths": {
-      "text": "3,000 (2015 est.)"
+      "text": "1,800 (2019 est.)"
     },
     "Major infectious diseases": {
       "degree of risk": {
-        "text": "very high"
+        "text": "very high (2020)"
       },
       "food or waterborne diseases": {
         "text": "bacterial and protozoal diarrhea, hepatitis A, and typhoid fever"
@@ -287,31 +313,31 @@
       "water contact disease": {
         "text": "schistosomiasis"
       },
-      "animal contact disease": {
-        "text": "rabies (2016)"
+      "animal contact diseases": {
+        "text": "rabies"
       }
     },
     "Obesity - adult prevalence rate": {
-      "text": "2.1% (2014)"
+      "text": "5.4% (2016)"
     },
     "Children under the age of 5 years underweight": {
-      "text": "29.1% (2011)"
+      "text": "27.2% (2018/19)"
     },
     "Education expenditures": {
-      "text": "5.4% of GDP (2013)"
+      "text": "4.8% of GDP (2017)"
     },
     "Literacy": {
       "definition": {
         "text": "age 15 and over can read and write"
       },
       "total population": {
-        "text": "85.6%"
+        "text": "68.4%"
       },
       "male": {
-        "text": "88.2%"
+        "text": "76.3%"
       },
       "female": {
-        "text": "83.1% (2015 est.)"
+        "text": "61.2% (2017)"
       }
     },
     "School life expectancy (primary to tertiary education)": {
@@ -322,15 +348,18 @@
         "text": "11 years"
       },
       "female": {
-        "text": "10 years (2013)"
+        "text": "11 years (2018)"
       }
     },
-    "Child labor - children ages 5-14": {
-      "total number": {
-        "text": "433,187"
+    "Unemployment, youth ages 15-24": {
+      "total": {
+        "text": "2.9%"
       },
-      "percentage": {
-        "text": "19% (2005 est.)"
+      "male": {
+        "text": "4.4%"
+      },
+      "female": {
+        "text": "2% (2014 est.)"
       }
     }
   },
@@ -349,7 +378,7 @@
         "text": "Burundi"
       },
       "former": {
-        "text": "Urundi"
+        "text": "Urundi, German East Africa, Ruanda-Urundi, Kingdom of Burundi"
       },
       "etymology": {
         "text": "name derived from the pre-colonial Kingdom of Burundi (17th-19th century)"
@@ -360,13 +389,16 @@
     },
     "Capital": {
       "name": {
-        "text": "Bujumbura"
+        "text": "Gitega (political capital), Bujumbura (commercial capital); note - in January 2019, the Burundian parliament voted to make Gitega the political capital of the country while Bujumbura would remain its economic capital; all branches of the government are expected to have moved from Bujumbura to Gitega by 2021"
       },
       "geographic coordinates": {
-        "text": "3 22 S, 29 21 E"
+        "text": "3 25 S, 29 55 E"
       },
       "time difference": {
         "text": "UTC+2 (7 hours ahead of Washington, DC, during Standard Time)"
+      },
+      "note": {
+        "text": "etymology: the naming origins for both Gitega and Bujumbura are obscure; Bujumbura's name prior to independence in 1962 was Usumbura"
       }
     },
     "Administrative divisions": {
@@ -379,13 +411,18 @@
       "text": "Independence Day, 1 July (1962)"
     },
     "Constitution": {
-      "text": "several previous; latest ratified by popular referendum 28 February 2005 (2016)"
+      "history": {
+        "text": "several previous; latest ratified by referendum 28 February 2005"
+      },
+      "amendments": {
+        "text": "proposed by the president of the republic after consultation with the government or by absolute majority support of the membership in both houses of Parliament; passage requires at least two-thirds majority vote by the Senate membership and at least four-fifths majority vote by the National Assembly; the president can opt to submit amendment bills to a referendum; constitutional articles including those on national unity, the secularity of Burundi, its democratic form of government, and its sovereignty cannot be amended; amended 2018 (amendments extended the presidential term from 5 to 7 years, reintroduced the position of prime minister, and reduced the number of vice presidents from 2 to 1)"
+      }
     },
     "Legal system": {
       "text": "mixed legal system of Belgian civil law and customary law"
     },
     "International law organization participation": {
-      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+      "text": "has not submitted an ICJ jurisdiction declaration; withdrew from ICCt in October 2017"
     },
     "Citizenship": {
       "citizenship by birth": {
@@ -406,58 +443,52 @@
     },
     "Executive branch": {
       "chief of state": {
-        "text": "President Pierre NKURUNZIZA (since 26 August 2005); First Vice President Gaston SINDIMWO (since 20 August 2015); Second Vice President Joseph BUTORE (since 20 August 2015); note - the president is both chief of state and head of government"
+        "text": "President Evariste NDAYISHIMIYE (since 18 June 2020); Vice President Prosper BAZOMBANZA (since 24 June 2020); note - the president is both chief of state and head of government"
       },
       "head of government": {
-        "text": "President Pierre NKURUNZIZA (since 26 August 2005); First Vice President Prosper BAZOMBAZA (since 13 February 2014); Second Vice President Gervais RUFYIKIRI (since 29 August 2010)"
+        "text": "President Evariste NDAYISHIMIYE (since 18 June 2020); Vice President Prosper BAZOMBANZA (since 24 June 2020); Prime Minister Alain-Guillaume BUNYONI (since 24 June 2020)"
       },
       "cabinet": {
         "text": "Council of Ministers appointed by president"
       },
       "elections/appointments": {
-        "text": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 21 July 2015(next to be held in 2020); vice presidents nominated by the president, endorsed by Parliament"
+        "text": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (eligible for a second term); election last held on 20 May 2020 (next to be held in 2025); vice presidents nominated by the president, endorsed by Parliament; note - a 2018 constitutional referendum effective for the 2020 election, increased the presidential term from 5 to 7 years with a 2-consecutive-term limit, reinstated the position of the prime minister position, and reduced the number of vice presidents from 2 to 1"
       },
       "election results": {
-        "text": "Pierre NKURUNZIZA reelected president; percent of vote - Pierre NKURUNZIZA (CNDD-FDD) 69.4%, Agathon RWASA (National Liberation Forces) 19%, other 11.6%"
+        "text": "Evariste NDAYISHIMIYE elected president; percent of vote - Evariste NDAYISHIMIYE (CNDD-FDD) 71.5%, Agathon RWASA (CNL) 25.2%, Gaston SINDIMWO (UPRONA) 1.7%, OTHER 1.6%"
       }
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral Parliament or Parlement consists of the Senate or Inama Nkenguzamateka (49 seats in the July 2015 election; 34 members indirectly elected by an electoral college of provincial councils using a three-round voting system which requires a two-thirds majority vote in the first two rounds and a simple majority vote for the two leading candidates in the final round; 4 seats reserved for former heads of state, 3 seats reserved for Twas, and 8 seats for women; members serve 5-year terms) and the National Assembly or Inama Nshingamateka (121 seats in the June 2015 election; 100 members directly elected in multi-seat constituencies by proportional representation vote and 21 co-opted members – 3 Twas and 18 women; members serve 5-year terms)"
+        "text": "bicameral Parliament or Parlement consists of:Senate or Inama Nkenguzamateka (39 seats in the July 2020 election); 36 members indirectly elected by an electoral college of provincial councils using a three-round voting system, which requires a two-thirds majority vote in the first two rounds and simple majority vote for the two leading candidates in the final round; 3 seats reserved for Twas, and 30% of all votes reserved for women; members serve 5-year terms)National Assembly or Inama Nshingamateka (123 seats in the May 2020 election; 100 members directly elected in multi-seat constituencies by proportional representation vote and 23 co-opted members; 60% of seats allocated to Hutu and 40% to Tutsi; 3 seats reserved for Twas; 30% of total seats reserved for women; members serve 5-year terms)"
       },
       "elections": {
-        "text": "Senate - last held on 24 July 2015 (next to be held in 2019); National Assembly - last held on 29 June 2015 (next to be held on 2020)"
+        "text": "Senate - last held on 20 July 2020 (next to be held in 2025)National Assembly - last held on 20 May 2020 (next to be held in 2025)"
       },
       "election results": {
-        "text": "Senate - percent of vote by party - NA; seats by party - CNDD-FDD 30, FRODEBU 3, CNDD 1, and 4 seats reserved for heads of state, 3 seats for Twas, and 8 seats for women; National Assembly - percent of vote by party (preliminary results) - CNDD-FDD 60.3%, Burundians' Hope Independent 11.2% UPRONA 2.5%, other 26%; seats by party - CNDD-FDD 77, Burundians' Hope Independent 21, UPRONA 2, seats for women 18, seats for Twas 3"
+        "text": "Senate - percent of vote by party - CNDD-FDD 87.2%, Twa 7.7%, CNL 2.6%, UPRONA 2.6%; seats by party - CNDD-FDD 34, CNL 1, UPRONA 1, Twa 3; composition - men 23, women 16, percent of women 37.2% National Assembly - percent of vote by party - CNDD-FDD 70.9%, CNL 23.4%, UPRONA 2.5%, other (co-opted Twa) 3.2%; seats by party - CNDD-FDD 86, CNL 32, UPRONA 2, Twa 3; composition - men 76, women 47, percent of women 38.2%; note - total Parliament percent of women 38%"
       }
     },
     "Judicial branch": {
-      "highest court(s)": {
+      "highest courts": {
         "text": "Supreme Court (consists of 9 judges and organized into judicial, administrative, and cassation chambers); Constitutional Court (consists of 7 members)"
       },
       "judge selection and term of office": {
-        "text": "Supreme Court judges nominated by the Judicial Service Commission, a 15-member independent body of judicial and legal profession officials), appointed by the president, and confirmed by the Senate; judge tenure NA; Constitutional Court judges appointed by the president and confirmed by the Senate and serve 6-year nonrenewable terms"
+        "text": "Supreme Court judges nominated by the Judicial Service Commission, a 15-member independent body of judicial and legal profession officials), appointed by the president and confirmed by the Senate; judge tenure NA; Constitutional Court judges appointed by the president and confirmed by the Senate and serve 6-year nonrenewable terms"
       },
       "subordinate courts": {
         "text": "Courts of Appeal; County Courts; Courts of Residence; Martial Court; Court Against Corruption; Commercial Court"
       }
     },
     "Political parties and leaders": {
-      "text": "Front for Democracy in Burundi or FRODEBU ++ National Council for the Defense of Democracy - Front for the Defense of Democracy or CNDD-FDD [Pascal NYABENDA] ++ National Liberation Forces or FNL [Agathon RWASA] ++ National Council for the Defense of Democracy or CNDD [Leonard NYANGOMA] ++ National Resistance Movement for the Rehabilitation of the Citizen or MRC-Rurenzangemero [Epitace BANYAGANAKANDI] ++ Party for National Redress or PARENA [Zenon NIMU BONA] ++ Union for National Progress (Union pour le Progress Nationale) or UPRONA"
-    },
-    "Political pressure groups and leaders": {
-      "text": "Forum for the Strengthening of Civil Society or FORSC [Pacifique NININAHAZWE] (civil society umbrella organization)",
-      "other": {
-        "text": "Hutu and Tutsi militias"
-      }
+      "text": "Front for Democracy in Burundi-Nyakuri or FRODEBU-Nyakuri [Keffa NIBIZI]Front for Democracy in Burundi-Sahwanya or FRODEBU-Sahwanya [Pierre Claver NAHIMANA]National Congress for Liberty or CNL [Agathon RWASA]National Council for the Defense of Democracy - Front for the Defense of Democracy or CNDD-FDD [Evariste NDAYISHIMIYE]National Liberation Forces or FNL [Jacques BIGITIMANA]Union for National Progress (Union pour le Progress Nationale) or UPRONA [Abel GASHATSI]"
     },
     "International organization participation": {
       "text": "ACP, AfDB, AU, CEMAC, CEPGL, CICA, COMESA, EAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
     },
     "Diplomatic representation in the US": {
       "chief of mission": {
-        "text": "Ambassador Ernest NDABASHINZE (since 21 May 2014)"
+        "text": "Ambassador S.E. Gandence SINDAYIGAYA (since 20 September 2019)"
       },
       "chancery": {
         "text": "2233 Wisconsin Avenue NW, Suite 408, Washington, DC 20007"
@@ -471,16 +502,16 @@
     },
     "Diplomatic representation from the US": {
       "chief of mission": {
-        "text": "Ambassador Anne S. CASPER (since 2016)"
-      },
-      "embassy": {
-        "text": "Avenue Des Etats-Unis, Bujumbura"
-      },
-      "mailing address": {
-        "text": "B.P. 1720, Bujumbura"
+        "text": "Ambassador (vacant); Charge d’Affaires Eunice S. REDDICK (since May 2019)"
       },
       "telephone": {
         "text": "[257] 22-207-000"
+      },
+      "embassy": {
+        "text": "Avenue Des Etats-Unis, Bujumbura, BP1720"
+      },
+      "mailing address": {
+        "text": "B.P. 1720, Bujumbura"
       },
       "FAX": {
         "text": "[257] 22-222-926"
@@ -500,77 +531,77 @@
         "text": "Jean-Baptiste NTAHOKAJA/Marc BARENGAYABO"
       },
       "note": {
-        "text": "adopted 1962"
+        "text": "note: adopted 1962"
       }
     }
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Burundi is a landlocked, resource-poor country with an underdeveloped manufacturing sector. Agriculture accounts for over 40% of GDP and employs more than 90% of the population. Burundi's primary exports are coffee and tea, which account for 90% of foreign exchange earnings. Thus, Burundi's export earnings - and its ability to pay for imports - rest primarily on weather conditions and international coffee and tea prices, although exports are a relatively small share of GDP. Burundi is heavily dependent on aid from bilateral and multilateral donors. Foreign aid in 2014 represented 42% of Burundi's national income, the second highest rate in Sub-Saharan Africa. Burundi joined the East African Community (EAC) in 2009. ++  ++ An ethnic war that ended in 2005 resulted in more than 200,000 deaths, forced more than 48,000 refugees into Tanzania, and displaced 140,000 others internally. Political stability, aid flows, and economic activity improved following the end of the civil war, but underlying weaknesses - a high poverty rate, poor education rates, a weak legal system, a poor transportation network, overburdened utilities, and low administrative capacity – have prevented the government from implementing planned economic reforms. Government corruption has also hindered the development of a private sector as companies have to deal with ever changing rules. The purchasing power of most Burundians has decreased as wage increases have not kept pace with inflation. ++  ++ In 2015, Burundi’s economy suffered from political turmoil over President NKURUNZIZA’s controversial third term. Blocked transportation routes disrupted the flow of agricultural goods. And donors withdrew aid, increasing Burundi’s budget deficit. When the unrest ends, regional infrastructure improvements driven by the EAC and funded by the World Bank may help improve Burundi’s transport connections and lower transportation costs."
+      "text": "Burundi is a landlocked, resource-poor country with an underdeveloped manufacturing sector. Agriculture accounts for over 40% of GDP and employs more than 90% of the population. Burundi's primary exports are coffee and tea, which account for more than half of foreign exchange earnings, but these earnings are subject to fluctuations in weather and international coffee and tea prices, Burundi is heavily dependent on aid from bilateral and multilateral donors, as well as foreign exchange earnings from participation in the African Union Mission to Somalia (AMISOM). Foreign aid represented 48% of Burundi's national income in 2015, one of the highest percentages in Sub-Saharan Africa, but this figure decreased to 33.5% in 2016 due to political turmoil surrounding President NKURUNZIZA’s bid for a third term. Burundi joined the East African Community (EAC) in 2009. Burundi faces several underlying weaknesses – low governmental capacity, corruption, a high poverty rate, poor educational levels, a weak legal system, a poor transportation network, and overburdened utilities – that have prevented the implementation of planned economic reforms. The purchasing power of most Burundians has decreased as wage increases have not kept pace with inflation, which reached approximately 18% in 2017. Real GDP growth dropped precipitously following political events in 2015 and has yet to recover to pre-conflict levels. Continued resistance by donors and the international community will restrict Burundi’s economic growth as the country deals with a large current account deficit."
     },
     "GDP (purchasing power parity)": {
-      "text": "$7.892 billion (2016 est.) ++ $7.933 billion (2015 est.) ++ $8.259 billion (2014 est.)",
+      "text": "$8.007 billion (2017 est.) / $8.007 billion (2016 est.) / $8.091 billion (2015 est.)",
       "note": {
-        "text": "data are in 2016 dollars"
+        "text": "note: data are in 2017 dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$2.742 billion (2015 est.)"
+      "text": "$3.396 billion (2017 est.)"
     },
     "GDP - real growth rate": {
-      "text": "-0.5% (2016 est.) ++ -4% (2015 est.) ++ 4.5% (2014 est.)"
+      "text": "0% (2017 est.) / -1% (2016 est.) / -4% (2015 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$800 (2016 est.) ++ $800 (2015 est.) ++ $900 (2014 est.)",
+      "text": "$700 (2017 est.) / $800 (2016 est.) / $800 (2015 est.)",
       "note": {
-        "text": "data are in 2016 dollars"
+        "text": "note: data are in 2017 dollars"
       }
     },
     "Gross national saving": {
-      "text": "-0.1% of GDP (2016 est.) ++ -4.9% of GDP (2015 est.) ++ -2.7% of GDP (2014 est.)"
+      "text": "-5.3% of GDP (2017 est.) / -4.1% of GDP (2016 est.) / -6.7% of GDP (2015 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "92.4%"
+        "text": "83% (2017 est.)"
       },
       "government consumption": {
-        "text": "16.5%"
+        "text": "20.8% (2017 est.)"
       },
       "investment in fixed capital": {
-        "text": "24.3%"
+        "text": "16% (2017 est.)"
       },
       "investment in inventories": {
-        "text": "-8.1%"
+        "text": "0% (2017 est.)"
       },
       "exports of goods and services": {
-        "text": "7.5%"
+        "text": "5.5% (2017 est.)"
       },
       "imports of goods and services": {
-        "text": "-32.6% (2016 est.)"
+        "text": "-25.3% (2017 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "45.8%"
+        "text": "39.5% (2017 est.)"
       },
       "industry": {
-        "text": "17.1%"
+        "text": "16.4% (2017 est.)"
       },
       "services": {
-        "text": "37.1% (2016 est.)"
+        "text": "44.2% (2017 est.)"
       }
     },
     "Agriculture - products": {
-      "text": "coffee, cotton, tea, corn, sorghum, sweet potatoes, bananas, cassava (manioc, tapioca); beef, milk, hides"
+      "text": "coffee, cotton, tea, corn, beans, sorghum, sweet potatoes, bananas, cassava (manioc, tapioca); beef, milk, hides"
     },
     "Industries": {
-      "text": "light consumer goods (blankets, shoes, soap, beer); assembly of imported components; public works construction; food processing"
+      "text": "light consumer goods (sugar, shoes, soap, beer); cement, assembly of imported components; public works construction; food processing (fruits)"
     },
     "Industrial production growth rate": {
-      "text": "0.8% (2016 est.)"
+      "text": "-2% (2017 est.)"
     },
     "Labor force": {
-      "text": "5.255 million (2016 est.)"
+      "text": "5.012 million (2017 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -584,10 +615,12 @@
       }
     },
     "Unemployment rate": {
-      "text": "NA%"
+      "note": {
+        "text": "NA"
+      }
     },
     "Population below poverty line": {
-      "text": "68% (2002 est.)"
+      "text": "64.6% (2014 est.)"
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
@@ -597,192 +630,196 @@
         "text": "28% (2006)"
       }
     },
-    "Distribution of family income - Gini index": {
-      "text": "42.4 (1998)"
-    },
     "Budget": {
       "revenues": {
-        "text": "$525.1 million"
+        "text": "536.7 million (2017 est.)"
       },
       "expenditures": {
-        "text": "$656.9 million (2016 est.)"
+        "text": "729.6 million (2017 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "19.2% of GDP (2016 est.)"
+      "text": "15.8% (of GDP) (2017 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-4.8% of GDP (2016 est.)"
+      "text": "-5.7% (of GDP) (2017 est.)"
     },
     "Public debt": {
-      "text": "43.4% of GDP (2016 est.) ++ 39.8% of GDP (2015 est.)"
+      "text": "51.7% of GDP (2017 est.) / 48.4% of GDP (2016 est.)"
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Inflation rate (consumer prices)": {
-      "text": "6.5% (2016 est.) ++ 5.5% (2015 est.)"
-    },
-    "Central bank discount rate": {
-      "text": "11.25% (31 December 2010) ++ 10% (31 December 2009)"
-    },
-    "Commercial bank prime lending rate": {
-      "text": "13.9% (31 December 2016 est.) ++ 15.3% (31 December 2015 est.)"
-    },
-    "Stock of narrow money": {
-      "text": "$364.9 million (31 December 2016 est.) ++ $397.7 million (31 December 2015 est.)"
-    },
-    "Stock of broad money": {
-      "text": "$523.5 million (31 December 2016 est.) ++ $571.2 million (31 December 2015 est.)"
-    },
-    "Stock of domestic credit": {
-      "text": "$809.8 million (31 December 2016 est.) ++ $851.3 million (31 December 2015 est.)"
-    },
-    "Market value of publicly traded shares": {
-      "text": "$NA"
+      "text": "16.6% (2017 est.) / 5.5% (2016 est.)"
     },
     "Current account balance": {
-      "text": "-$127 million (2016 est.) ++ -$455 million (2015 est.)"
+      "text": "-$418 million (2017 est.) / -$411 million (2016 est.)"
     },
     "Exports": {
-      "text": "$132.4 million (2016 est.) ++ $119.6 million (2015 est.)"
+      "text": "$119 million (2017 est.) / $109.7 million (2016 est.)"
+    },
+    "Exports - partners": {
+      "text": "Democratic Republic of the Congo 25.5%, Switzerland 18.4%, UAE 14.9%, Belgium 6% (2017)"
     },
     "Exports - commodities": {
       "text": "coffee, tea, sugar, cotton, hides"
     },
-    "Exports - partners": {
-      "text": "Germany 12.3%, Pakistan 10.7%, Democratic Republic of the Congo 10.7%, Uganda 8.1%, Sweden 7.8%, US 7.1%, Belgium 6.3%, Rwanda 4.6%, France 4.4% (2015)"
-    },
     "Imports": {
-      "text": "$683.4 million (2016 est.) ++ $800.1 million (2015 est.)"
+      "text": "$603.8 million (2017 est.) / $527.2 million (2016 est.)"
     },
     "Imports - commodities": {
       "text": "capital goods, petroleum products, foodstuffs"
     },
     "Imports - partners": {
-      "text": "Kenya 15%, Saudi Arabia 14%, Belgium 9.9%, Tanzania 8.3%, Uganda 7.3%, China 7.1%, India 4.9%, France 4% (2015)"
+      "text": "India 18.5%, China 13%, Kenya 7.9%, UAE 6.8%, Saudi Arabia 6.8%, Uganda 6%, Tanzania 5.4%, Zambia 4.6% (2017)"
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$100.2 million (31 December 2016 est.) ++ $136.2 million (31 December 2015 est.)"
+      "text": "$97.4 million (31 December 2017 est.) / $95.17 million (31 December 2016 est.)"
     },
     "Debt - external": {
-      "text": "$705.2 million (31 December 2016 est.) ++ $684.1 million (31 December 2015 est.)"
+      "text": "$610.9 million (31 December 2017 est.) / $622.4 million (31 December 2016 est.)"
     },
     "Exchange rates": {
-      "text": "Burundi francs (BIF) per US dollar - ++ 1,665 (2016 est.) ++ 1,571.9 (2015 est.) ++ 1,571.9 (2014 est.) ++ 1,546.7 (2013 est.) ++ 1,442.51 (2012 est.)"
+      "text": "Burundi francs (BIF) per US dollar - / 1,731 (2017 est.) / 1,654.63 (2016 est.) / 1,654.63 (2015 est.) / 1,571.9 (2014 est.) / 1,546.7 (2013 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "10 million (2017)"
+      },
+      "electrification - total population": {
+        "text": "7.6% (2016)"
+      },
+      "electrification - urban areas": {
+        "text": "49.7% (2016)"
+      },
+      "electrification - rural areas": {
+        "text": "1.7% (2016)"
+      }
+    },
     "Electricity - production": {
-      "text": "300 million kWh (2014 est.)"
+      "text": "304 million kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "400 million kWh (2014 est.)"
+      "text": "382.7 million kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "0 kWh (2013 est.)"
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - imports": {
-      "text": "100 million kWh (2014 est.)"
+      "text": "100 million kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "66,000 kW (2014 est.)"
+      "text": "68,000 kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "1.8% of total installed capacity (2012 est.)"
+      "text": "14% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2012 est.)"
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "98.2% of total installed capacity (2012 est.)"
+      "text": "73% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "0% of total installed capacity (2012 est.)"
+      "text": "14% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "0 bbl/day (2015 est.)"
+      "text": "0 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "0 bbl/day (2013 est.)"
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - imports": {
-      "text": "0 bbl/day (2013 est.)"
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2016 es)"
+      "text": "0 bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "0 bbl/day (2013 est.)"
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "1,500 bbl/day (2014 est.)"
+      "text": "1,500 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "0 bbl/day (2013 est.)"
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "1,636 bbl/day (2013 est.)"
+      "text": "1,374 bbl/day (2015 est.)"
     },
     "Natural gas - production": {
-      "text": "0 cu m (2013 est.)"
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "0 cu m (2013 est.)"
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2013 est.)"
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "0 cu m (2013 est.)"
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "0 cu m (1 January 2014 es)"
+      "text": "0 cu m (1 January 2014 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "300,000 Mt (2013 est.)"
+      "text": "217,000 Mt (2017 est.)"
     }
   },
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "21,774"
+        "text": "20,758"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "less than 1 (July 2015 est.)"
+        "text": "less than 1 (2019 est.)"
       }
     },
     "Telephones - mobile cellular": {
-      "total": {
-        "text": "4.998 million"
+      "total subscriptions": {
+        "text": "6,644,833"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "47 (July 2015 est.)"
+        "text": "57.62 (2019 est.)"
       }
     },
-    "Telephone system": {
+    "Telecommunication systems": {
       "general assessment": {
-        "text": "sparse system of open-wire, radiotelephone communications, and low-capacity microwave radio relays"
+        "text": "with the great population density Burundi remains one of the most alluring telecom markets in Africa for investors; the government in early 2018 began the Burundi Broadband project, which plans to deliver nationwide connectivity by 2025; mobile operators have launched 3G and LTE mobile services to capitalize on the expanding demand for Internet access; mobile penetration is at 52%, and remains low by regional standards; future plans to privatize the national telecoms (2020)"
       },
       "domestic": {
-        "text": "telephone density one of the lowest in the world; fixed-line connections stand at well less than 1 per 100 persons; mobile-cellular usage has increased to roughly 45 per 100 persons"
+        "text": "telephone density one of the lowest in the world; fixed-line connections stand at well less than 1 per 100 persons; mobile-cellular usage is 58 per 100 persons (2019)"
       },
       "international": {
-        "text": "country code - 257; satellite earth station - 1 Intelsat (Indian Ocean) (2015)"
+        "text": "country code - 257; satellite earth station - 1 Intelsat (Indian Ocean); the government, supported by the Word Bank, has backed a joint venture with a number of prominent telecoms to build a national fiber backbone network, offering onward connectivity to submarine cable infrastructure landings in Kenya and Tanzania (2019)"
+      },
+      "note": {
+        "text": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
       }
     },
     "Broadcast media": {
-      "text": "state-controlled La Radiodiffusion et Television Nationale de Burundi (RTNB) operates the lone TV station and the only national radio network; about 10 privately owned radio stations; transmissions of several international broadcasters are available in Bu (2007)"
+      "text": "state-controlled Radio Television Nationale de Burundi (RTNB) operates a TV station and a national radio network; 3 private TV stations and about 10 privately owned radio stations; transmissions of several international broadcasters are available in Bujumbura (2019)"
     },
     "Internet country code": {
       "text": ".bi"
     },
     "Internet users": {
       "total": {
-        "text": "523,000"
+        "text": "298,684"
       },
       "percent of population": {
-        "text": "4.9% (July 2015 est.)"
+        "text": "2.66% (July 2018 est.)"
+      }
+    },
+    "Broadband - fixed subscriptions": {
+      "total": {
+        "text": "3,935"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "less than 1 (2018 est.)"
       }
     }
   },
@@ -795,18 +832,18 @@
     },
     "Airports - with paved runways": {
       "total": {
-        "text": "1"
+        "text": "1 (2019)"
       },
       "over 3,047 m": {
-        "text": "1 (2013)"
+        "text": "1"
       }
     },
     "Airports - with unpaved runways": {
       "total": {
-        "text": "6"
+        "text": "6 (2013)"
       },
       "914 to 1,523 m": {
-        "text": "4"
+        "text": "4 (2013)"
       },
       "under 914 m": {
         "text": "2 (2013)"
@@ -817,13 +854,13 @@
     },
     "Roadways": {
       "total": {
-        "text": "12,322 km"
+        "text": "12,322 km (2016)"
       },
       "paved": {
-        "text": "1,286 km"
+        "text": "1,500 km (2016)"
       },
       "unpaved": {
-        "text": "11,036 km (2004)"
+        "text": "10,822 km (2016)"
       }
     },
     "Waterways": {
@@ -836,14 +873,26 @@
     }
   },
   "Military and Security": {
-    "Military branches": {
-      "text": "National Defense Forces (Forces de Defense Nationale, FDN): Army (includes maritime wing, Air Wing), National Gendarmerie (2013)"
-    },
-    "Military service age and obligation": {
-      "text": "18 years of age for voluntary military service; the armed forces law of 31 December 2004 did not specify a minimum age for enlistment, but the government claimed that no one younger than 18 was being recruited; mandatory retirement age 45 (enlisted), 50 (NCOs), and 55 (officers) (2012)"
+    "Military and security forces": {
+      "text": "National Defense Forces (Forces de Defense Nationale, FDN): Army (includes maritime wing, air wing), National Police (Police Nationale du Burundi) (2019)"
     },
     "Military expenditures": {
-      "text": "2.39% of GDP (2012) ++ NA% (2011) ++ 2.39% of GDP (2010)"
+      "text": "1.8% of GDP (2019) / 1.9% of GDP (2018) / 1.8% of GDP (2017) / 2.2% of GDP (2016) / 2.1% of GDP (2015)"
+    },
+    "Military and security service personnel strengths": {
+      "text": "the National Defense Forces (FDN) have approximately 25,000 active duty Army troops (includes small air and maritime wings) (2019 est.)"
+    },
+    "Military equipment inventories and acquisitions": {
+      "text": "the FDN is armed mostly with weapons from Russia and the former Soviet Union, with some Western equipment, largely from France; since 2010, the FDN has received small amounts of mostly second-hand equipment from China, South Africa, and the US (2019 )"
+    },
+    "Military deployments": {
+      "text": "750 Central African Republic (MINUSCA); 5,400 Somalia (AMISOM) (April 2020)"
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for voluntary military service; the armed forces law of 31 December 2004 did not specify a minimum age for enlistment, but the government claimed that no one younger than 18 was being recruited; mandatory retirement ages: 45 (enlisted), 50 (NCOs), 55 (officers), and 60 (officers with the rank of general) (2017)"
+    },
+    "Military - note": {
+      "text": "in addition to its foreign deployments, the FDN is focused on internal security missions, particularly against rebel groups opposed to the regime such as National Forces of Liberation (FNL), the Resistance for the Rule of Law-Tabara (aka RED Tabara), and Popular Forces of Burundi (FPB or FOREBU); the groups are based in the neighboring Democratic Republic of Congo and have carried out sporadic attacks in Burundi (2020)"
     }
   },
   "Transnational Issues": {
@@ -852,13 +901,13 @@
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
-        "text": "54,932 (Democratic Republic of the Congo) (2016)"
+        "text": "77,757 (Democratic Republic of the Congo) (refugees and asylum seekers) (2020)"
       },
       "IDPs": {
-        "text": "57,926 (some ethnic Tutsis remain displaced from intercommunal violence that broke out after the 1993 coup and fighting between government forces and rebel groups; violence since April 2015 has caused internal displacement, but exact figures are unknown because of insecurity and fear of reprisal attacks for self-identification as an IDP) (2016)"
+        "text": "135,058 (some ethnic Tutsis remain displaced from intercommunal violence that broke out after the 1,993 coup and fighting between government forces and rebel groups; violence since April 2015) (2020)"
       },
       "stateless persons": {
-        "text": "1,302 (2015)"
+        "text": "974 (2018)"
       }
     },
     "Trafficking in persons": {

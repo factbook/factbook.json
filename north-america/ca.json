@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "A land of vast distances and rich natural resources, Canada became a self-governing dominion in 1867, while retaining ties to the British crown. Economically and technologically, the nation has developed in parallel with the US, its neighbor to the south across the world's longest international border. Canada faces the political challenges of meeting public demands for quality improvements in health care, education, social services, and economic competitiveness, as well as responding to the particular concerns of predominantly francophone Quebec. Canada also aims to develop its diverse energy resources while maintaining its commitment to the environment."
+      "text": "A land of vast distances and rich natural resources, Canada became a self-governing dominion in 1867, while retaining ties to the British crown. Canada repatriated its constitution from the UK in 1982, severing a final colonial tie. Economically and technologically, the nation has developed in parallel with the US, its neighbor to the south across the world's longest international border. Canada faces the political challenges of meeting public demands for quality improvements in health care, education, social services, and economic competitiveness, as well as responding to the particular concerns of predominantly francophone Quebec. Canada also aims to develop its diverse energy resources while maintaining its commitment to the environment."
     }
   },
   "Geography": {
@@ -33,27 +33,27 @@
         "text": "8,893 km"
       },
       "border countries": {
-        "text": "US 8,893 km (includes 2,477 km with Alaska)"
+        "text": "US 8893 km (includes 2477 km with Alaska)"
       },
       "note": {
-        "text": "Canada is the world's largest country that borders only one country"
+        "text": "note: Canada is the world's largest country that borders only one country"
       }
     },
     "Coastline": {
       "text": "202,080 km",
       "note": {
-        "text": "the Canadian Arctic Archipelago - consisting of 36,563 islands, several of them some of the world's largest - contributes to Canada easily having the longest coastline in the world"
+        "text": "note: the Canadian Arctic Archipelago - consisting of 36,563 islands, several of them some of the world's largest - contributes to Canada easily having the longest coastline in the world"
       }
     },
     "Maritime claims": {
       "territorial sea": {
         "text": "12 nm"
       },
-      "contiguous zone": {
-        "text": "24 nm"
-      },
       "exclusive economic zone": {
         "text": "200 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
       },
       "continental shelf": {
         "text": "200 nm or to the edge of the continental margin"
@@ -69,19 +69,25 @@
       "mean elevation": {
         "text": "487 m"
       },
-      "elevation extremes": {
-        "text": "lowest point: Atlantic Ocean 0 m ++ highest point: Mount Logan 5,959 m"
+      "lowest point": {
+        "text": "Atlantic Ocean 0 m"
+      },
+      "highest point": {
+        "text": "Mount Logan 5,959 m"
       }
     },
     "Natural resources": {
-      "text": "iron ore, nickel, zinc, copper, gold, lead, rare earth elements, molybdenum, potash, diamonds, silver, fish, timber, wildlife, coal, petroleum, natural gas, hydropower"
+      "text": "bauxite, iron ore, nickel, zinc, copper, gold, lead, rare earth elements, molybdenum, potash, diamonds, silver, fish, timber, wildlife, coal, petroleum, natural gas, hydropower"
     },
     "Land use": {
       "agricultural land": {
-        "text": "6.8% ++ arable land 4.7%; permanent crops 0.5%; permanent pasture 1.6%"
+        "text": "6.8% (2011 est.)"
+      },
+      "arable land / permanent crops / permanent pasture": {
+        "text": "4.7% (2011 est.) / 0.5% (2011 est.) / 1.6% (2011 est.)"
       },
       "forest": {
-        "text": "34.1%"
+        "text": "34.1% (2011 est.)"
       },
       "other": {
         "text": "59.1% (2011 est.)"
@@ -90,17 +96,14 @@
     "Irrigated land": {
       "text": "8,700 sq km (2012)"
     },
-    "Population - distribution": {
-      "text": "vast majority of Canadians are positioned in a discontinuous band within approximately 300 km (180 mi) of the southern border with the United States; the most populated province is Ontario, followed by Quebec and British Columbia"
+    "Population distribution": {
+      "text": "vast majority of Canadians are positioned in a discontinuous band within approximately 300 km of the southern border with the United States; the most populated province is Ontario, followed by Quebec and British Columbia"
     },
     "Natural hazards": {
-      "text": "continuous permafrost in north is a serious obstacle to development; cyclonic storms form east of the Rocky Mountains, a result of the mixing of air masses from the Arctic, Pacific, and North American interior, and produce most of the country's rain and snow east of the mountains",
-      "volcanism": {
-        "text": "the vast majority of volcanoes in Western Canada's Coast Mountains remain dormant"
-      }
+      "text": "continuous permafrost in north is a serious obstacle to development; cyclonic storms form east of the Rocky Mountains, a result of the mixing of air masses from the Arctic, Pacific, and North American interior, and produce most of the country's rain and snow east of the mountains\nvolcanism: the vast majority of volcanoes in Western Canada's Coast Mountains remain dormant"
     },
     "Environment - current issues": {
-      "text": "metal smelting, coal-burning utilities, and vehicle emissions impacting on agricultural and forest productivity; air pollution and resulting acid rain severely affecting lakes and damaging forests; ocean waters becoming contaminated due to agricultural, industrial, mining, and forestry activities"
+      "text": "metal smelting, coal-burning utilities, and vehicle emissions impacting agricultural and forest productivity; air pollution and resulting acid rain severely affecting lakes and damaging forests; ocean waters becoming contaminated due to agricultural, industrial, mining, and forestry activities"
     },
     "Environment - international agreements": {
       "party to": {
@@ -111,12 +114,14 @@
       }
     },
     "Geography - note": {
-      "text": "second-largest country in world (after Russia) and largest in the Americas; strategic location between Russia and US via north polar route; approximately 90% of the population is concentrated within 160 km (100 mi) of the US border; Canada has more fresh water than any other country and almost 9% of Canadian territory is water; Canada has at least 2 million and possibly over 3 million lakes - that is more than all other countries combined"
+      "note": {
+        "text": "note 1: second-largest country in world (after Russia) and largest in the Americas; strategic location between Russia and US via north polar route; approximately 90% of the population is concentrated within 160 km (100 mi) of the US border note 2: Canada has more fresh water than any other country and almost 9% of Canadian territory is water; Canada has at least 2 million and possibly over 3 million lakes - that is more than all other countries combined"
+      }
     }
   },
   "People and Society": {
     "Population": {
-      "text": "35,362,905 (July 2016 est.)"
+      "text": "37,694,085 (July 2020 est.)"
     },
     "Nationality": {
       "noun": {
@@ -127,9 +132,9 @@
       }
     },
     "Ethnic groups": {
-      "text": "Canadian 32.2%, English 19.8%, French 15.5%, Scottish 14.4%, Irish 13.8%, German 9.8%, Italian 4.5%, Chinese 4.5%, North American Indian 4.2%, other 50.9%",
+      "text": "Canadian 32.3%, English 18.3%, Scottish 13.9%, French 13.6%, Irish 13.4%, German 9.6%, Chinese 5.1%, Italian 4.6%, North American Indian 4.4%, East Indian 4%, other 51.6% (2016 est.)",
       "note": {
-        "text": "percentages add up to more than 100% because respondents were able to identify more than one ethnic origin (2011 est.)"
+        "text": "note: percentages add up to more than 100% because respondents were able to identify more than one ethnic origin"
       }
     },
     "Languages": {
@@ -140,149 +145,155 @@
     },
     "Age structure": {
       "0-14 years": {
-        "text": "15.44% (male 2,799,758/female 2,661,645)"
+        "text": "15.99% (male 3,094,008/female 2,931,953)"
       },
       "15-24 years": {
-        "text": "12.12% (male 2,204,127/female 2,080,587)"
+        "text": "11.14% (male 2,167,013/female 2,032,064)"
       },
       "25-54 years": {
-        "text": "40.32% (male 7,231,200/female 7,028,692)"
+        "text": "39.81% (male 7,527,554/female 7,478,737)"
       },
       "55-64 years": {
-        "text": "13.94% (male 2,443,452/female 2,484,788)"
+        "text": "14.08% (male 2,624,474/female 2,682,858)"
       },
       "65 years and over": {
-        "text": "18.18% (male 2,863,114/female 3,565,542) (2016 est.)"
+        "text": "18.98% (male 3,274,298/female 3,881,126) (2020 est.)"
       }
     },
     "Dependency ratios": {
       "total dependency ratio": {
-        "text": "47.3%"
+        "text": "51.2"
       },
       "youth dependency ratio": {
-        "text": "23.5%"
+        "text": "23.9"
       },
       "elderly dependency ratio": {
-        "text": "23.8%"
+        "text": "27.4"
       },
       "potential support ratio": {
-        "text": "4.2% (2015 est.)"
+        "text": "3.7 (2020 est.)"
       }
     },
     "Median age": {
       "total": {
-        "text": "42 years"
+        "text": "41.8 years"
       },
       "male": {
-        "text": "40.8 years"
+        "text": "40.6 years"
       },
       "female": {
-        "text": "43.3 years (2016 est.)"
+        "text": "42.9 years (2020 est.)"
       }
     },
     "Population growth rate": {
-      "text": "0.74% (2016 est.)"
+      "text": "0.81% (2020 est.)"
     },
     "Birth rate": {
-      "text": "10.3 births/1,000 population (2016 est.)"
+      "text": "10.2 births/1,000 population (2020 est.)"
     },
     "Death rate": {
-      "text": "8.5 deaths/1,000 population (2016 est.)"
+      "text": "7.9 deaths/1,000 population (2020 est.)"
     },
     "Net migration rate": {
-      "text": "5.7 migrant(s)/1,000 population (2016 est.)"
+      "text": "5.6 migrant(s)/1,000 population (2020 est.)"
     },
     "Population distribution": {
       "text": "vast majority of Canadians are positioned in a discontinuous band within approximately 300 km of the southern border with the United States; the most populated province is Ontario, followed by Quebec and British Columbia"
     },
     "Urbanization": {
       "urban population": {
-        "text": "81.8% of total population (2015)"
+        "text": "81.6% of total population (2020)"
       },
       "rate of urbanization": {
-        "text": "1.22% annual rate of change (2010-15 est.)"
+        "text": "0.97% annual rate of change (2015-20 est.)"
       }
     },
     "Major urban areas - population": {
-      "text": "Toronto 5.993 million; Montreal 3.981 million; Vancouver 2.485 million; Calgary 1.337 million; OTTAWA (capital) 1.326 million; Edmonton 1.272 million (2015)"
+      "text": "6.197 million Toronto, 4.221 million Montreal, 2.581 million Vancouver, 1.547 million Calgary, 1.461 million Edmonton, 1.393 million OTTAWA (capital) (2020)"
     },
     "Sex ratio": {
       "at birth": {
-        "text": "1.06 male(s)/female"
-      },
-      "0-14 years": {
         "text": "1.05 male(s)/female"
       },
-      "15-24 years": {
+      "0-14 years": {
         "text": "1.06 male(s)/female"
       },
+      "15-24 years": {
+        "text": "1.07 male(s)/female"
+      },
       "25-54 years": {
-        "text": "1.03 male(s)/female"
+        "text": "1.01 male(s)/female"
       },
       "55-64 years": {
         "text": "0.98 male(s)/female"
       },
       "65 years and over": {
-        "text": "0.8 male(s)/female"
+        "text": "0.84 male(s)/female"
       },
       "total population": {
-        "text": "0.98 male(s)/female (2016 est.)"
+        "text": "0.98 male(s)/female (2020 est.)"
       }
     },
     "Mother's mean age at first birth": {
-      "text": "28.1 (2011 est.)"
+      "text": "29 years (2017 est.)"
     },
     "Maternal mortality rate": {
-      "text": "7 deaths/100,000 live births (2015 est.)"
+      "text": "10 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "4.6 deaths/1,000 live births"
+        "text": "4.3 deaths/1,000 live births"
       },
       "male": {
-        "text": "4.9 deaths/1,000 live births"
+        "text": "4.5 deaths/1,000 live births"
       },
       "female": {
-        "text": "4.3 deaths/1,000 live births (2016 est.)"
+        "text": "4.1 deaths/1,000 live births (2020 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "81.9 years"
+        "text": "83.4 years"
       },
       "male": {
-        "text": "79.2 years"
+        "text": "81.1 years"
       },
       "female": {
-        "text": "84.6 years (2016 est.)"
+        "text": "85.9 years (2020 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "1.6 children born/woman (2016 est.)"
-    },
-    "Health expenditures": {
-      "text": "10.4% of GDP (2014)"
-    },
-    "Physicians density": {
-      "text": "2.07 physicians/1,000 population (2010)"
-    },
-    "Hospital bed density": {
-      "text": "2.7 beds/1,000 population (2010)"
+      "text": "1.57 children born/woman (2020 est.)"
     },
     "Drinking water source": {
-      "improved": {
-        "text": " ++ urban: 100% of population ++ rural: 99% of population ++ total: 99.8% of population"
+      "urban": {
+        "text": "unimproved: 0% of population"
       },
-      "unimproved": {
-        "text": " ++ urban: 0% of population ++ rural: 1% of population ++ total: 0.2% of population (2015 est.)"
+      "rural": {
+        "text": "1.1% of population"
+      },
+      "total": {
+        "text": "0% of population (2017 est.)"
       }
     },
+    "Current Health Expenditure": {
+      "text": "10.6% (2017)"
+    },
+    "Physicians density": {
+      "text": "2.31 physicians/1,000 population (2017)"
+    },
+    "Hospital bed density": {
+      "text": "2.5 beds/1,000 population (2017)"
+    },
     "Sanitation facility access": {
-      "improved": {
-        "text": " ++ urban: 100% of population ++ rural: 99% of population ++ total: 99.8% of population"
+      "urban": {
+        "text": "unimproved: 0% of population"
       },
-      "unimproved": {
-        "text": " ++ urban: 0% of population ++ rural: 1% of population ++ total: 0.2% of population (2015 est.)"
+      "rural": {
+        "text": "1.3% of population"
+      },
+      "total": {
+        "text": "0% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -292,23 +303,34 @@
       "text": "NA"
     },
     "HIV/AIDS - deaths": {
-      "text": "fewer than 400 (2013 est.)"
+      "text": "NA"
     },
     "Obesity - adult prevalence rate": {
-      "text": "30.1% (2014)"
+      "text": "29.4% (2016)"
     },
     "Education expenditures": {
       "text": "5.3% of GDP (2011)"
     },
-    "Unemployment, youth ages 15-24": {
+    "School life expectancy (primary to tertiary education)": {
       "total": {
-        "text": "13.5%"
+        "text": "16 years"
       },
       "male": {
-        "text": "15%"
+        "text": "16 years"
       },
       "female": {
-        "text": "11.9% (2014 est.)"
+        "text": "17 years (2018)"
+      }
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": {
+        "text": "11.1%"
+      },
+      "male": {
+        "text": "12.5%"
+      },
+      "female": {
+        "text": "9.6% (2018 est.)"
       }
     }
   },
@@ -321,11 +343,11 @@
         "text": "Canada"
       },
       "etymology": {
-        "text": "the country name derives from the St. Lawrence Iroquoian word \"kanata\" meaning village or settlement"
+        "text": "the country name likely derives from the St. Lawrence Iroquoian word \"kanata\" meaning village or settlement"
       }
     },
     "Government type": {
-      "text": "federal parliamentary democracy (Parliament of Canada) under a constitutional monarchy; a Commonwealth realm"
+      "text": "federal parliamentary democracy (Parliament of Canada) under a constitutional monarchy; a Commonwealth realm; federal and state authorities and responsibilities regulated in constitution"
     },
     "Capital": {
       "name": {
@@ -341,7 +363,7 @@
         "text": "+1hr, begins second Sunday in March; ends first Sunday in November"
       },
       "note": {
-        "text": "Canada has six time zones"
+        "text": "note: Canada has six time zonesetymology: the city lies on the south bank of the Ottawa River, from which it derives its name; the river name comes from the Algonquin word \"adawe\" meaning \"to trade\" and refers to the indigenous peoples who used the river as a trade highway"
       }
     },
     "Administrative divisions": {
@@ -354,7 +376,12 @@
       "text": "Canada Day, 1 July (1867)"
     },
     "Constitution": {
-      "text": "made up of unwritten and written acts, customs, judicial decisions, and traditions dating from 1763; the written part of the constitution consists of the Constitution Act of 29 March 1867, which created a federation of four provinces, and the Constitution Act of 17 April 1982; several amendments to the 1982 Constitution Act, last in 2011 (2016)"
+      "history": {
+        "text": "consists of unwritten and written acts, customs, judicial decisions, and traditions dating from 1763; the written part of the constitution consists of the Constitution Act of 29 March 1867, which created a federation of four provinces, and the Constitution Act of 17 April 1982"
+      },
+      "amendments": {
+        "text": "proposed by either house of Parliament or by the provincial legislative assemblies; there are 5 methods for passage though most require approval by both houses of Parliament, approval of at least two thirds of the provincial legislative assemblies and assent and formalization as a proclamation by the governor general in council; the most restrictive method is reserved for amendments affecting fundamental sections of the constitution, such as the office of the monarch or the governor general, and the constitutional amendment procedures, which require unanimous approval by both houses and by all the provincial assemblies, and assent of the governor general in council; amended 11 times, last in 2011 (Fair Representation Act, 2011)"
+      }
     },
     "Legal system": {
       "text": "common law system except in Quebec, where civil law based on the French civil code prevails"
@@ -366,69 +393,67 @@
       "citizenship by birth": {
         "text": "yes"
       },
-      "citizenship by descent": {
+      "citizenship by descent only": {
         "text": "yes"
       },
       "dual citizenship recognized": {
         "text": "yes"
       },
       "residency requirement for naturalization": {
-        "text": "3 years"
+        "text": "minimum of 3 of last 5 years resident in Canada"
       }
     },
     "Suffrage": {
       "text": "18 years of age; universal"
     },
     "Executive branch": {
-      "head of state": {
-        "text": "Queen ELIZABETH II (since 6 February 1952); represented by Governor General David JOHNSTON (since 1 October 2010)"
+      "chief of state": {
+        "text": "Queen ELIZABETH II (since 6 February 1952); represented by Governor General Julie PAYETTE (since 2 October 2017)"
       },
       "head of government": {
         "text": "Prime Minister Justin Pierre James TRUDEAU (Liberal Party) (since 4 November 2015)"
       },
       "cabinet": {
-        "text": "Federal Ministry chosen by the prime minister usually from among members of his own party sitting in Parliament"
+        "text": "Federal Ministry chosen by the prime minister usually from among members of his/her own party sitting in Parliament"
       },
       "elections/appointments": {
         "text": "the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister for a 5-year term; following legislative elections, the leader of the majority party or majority coalition in the House of Commons generally designated prime minister by the governor general"
+      },
+      "note": {
+        "text": "note: the governor general position is largely ceremonial; Julie PAYETTE, a former space shuttle astronaut, is Canada's fourth female governor general but the first to have flown in space"
       }
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral Parliament or Parlement consists of the Senate or Senat (105 seats; members appointed by the governor general on the advice of the prime minister and can serve until age 75) and the House of Commons or Chambre des Communes (338 seats; members directly elected in single-seat constituencies by simple majority vote to serve a maximum of 4-year terms)"
+        "text": "bicameral Parliament or Parlement consists of:Senate or Senat (105 seats; members appointed by the governor general on the advice of the prime minister and can serve until age 75) House of Commons or Chambre des Communes (338 seats; members directly elected in single-seat constituencies by simple majority vote with terms up to 4 years)"
       },
       "elections": {
-        "text": "House of Commons - last held on 19 October 2015 (next to be held in 2019)"
+        "text": "Senate - appointed; latest appointments in December 2018 House of Commons - last held on 21 October 2019 (next to be held in October 2023)"
       },
       "election results": {
-        "text": "House of Commons - percent of vote by party - Liberal Party 39.5%, Conservative Party 31.9%, NDP 19.7%, Bloc Quebecois 4.7%, Greens 3.4%, other .8%; seats by party - Liberal Party 184, Conservative Party 99, NDP 44, Bloc Quebecois 10, Greens 1"
+        "text": "Senate - composition as of December 2018 - men 51, women 54, percent of women 51.4% House of Commons - percent of vote by party - CPC 34.4%, Liberal Party 33.1%, NDP 15.9%, Bloc Quebecois 7.7%, Greens 6.5%, other 2.4%; seats by party - Liberal Party 157, CPC 121, NDP 24, Bloc Quebecois 32, Greens 4; composition - men 240, women 98, percent of women 29%; note - total Parliament percent of women 34.3%"
       }
     },
     "Judicial branch": {
-      "highest court(s)": {
+      "highest courts": {
         "text": "Supreme Court of Canada (consists of the chief justice and 8 judges); note - in 1949, Canada abolished all appeals beyond its Supreme Court, which prior to that time, were heard by the Judicial Committee of the Privy Council (in London)"
       },
       "judge selection and term of office": {
         "text": "chief justice and judges appointed by the prime minister in council; all judges appointed for life with mandatory retirement at age 75"
       },
       "subordinate courts": {
-        "text": "subordinate courts: federal level: Federal Court of Appeal; Federal Court; Tax Court; federal administrative tribunals; courts martial; provincial/territorial level: provincial superior, appeals, first instance, and specialized courts; in 1999, the Nunavut Court - a circuit court with the power of a provincial superior court as well as a territorial court - was established to serve isolated settlements"
+        "text": "federal level: Federal Court of Appeal; Federal Court; Tax Court; federal administrative tribunals; Courts Martial; provincial/territorial level: provincial superior, appeals, first instance, and specialized courts; note -  in 1999, the Nunavut Court - a circuit court with the power of a provincial superior court, as well as a territorial court - was established to serve isolated settlements"
       }
     },
     "Political parties and leaders": {
-      "text": "Bloc Quebecois [Rheal FORTIN (interim leader)] ++ Conservative Party of Canada or CPC [Rona AMBROSE (interim leader)] ++ Green Party [Elizabeth MAY] ++ Liberal Party [Justin TRUDEAU] ++ New Democratic Party or NDP [Thomas MULCAIR]"
-    },
-    "Political pressure groups and leaders": {
-      "other": {
-        "text": "agricultural sector; automobile industry; business groups; chemical industry; commercial banks; communications sector; energy industry; environmentalists; public administration groups; steel industry; trade unions"
-      }
+      "text": "Bloc Quebecois [Mario BEAULIEU]Conservative Party of Canada or CPC [Erin O'TOOLE]Green Party [Annamie PAUL]Liberal Party [Justin TRUDEAU]New Democratic Party or NDP [Jagmeet SINGH]People's Party of Canada [Maxime BERNIER]"
     },
     "International organization participation": {
       "text": "ADB (nonregional member), AfDB (nonregional member), APEC, Arctic Council, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CDB, CE (observer), EAPC, EBRD, EITI (implementing country), FAO, FATF, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSTAH, MONUSCO, NAFTA, NATO, NEA, NSG, OAS, OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNMISS, UNRWA, UNTSO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
     },
     "Diplomatic representation in the US": {
       "chief of mission": {
-        "text": "Ambassador David Brookes MACNAUGHTON (since 2 March 2016)"
+        "text": "Ambassador Kirsten HILLMAN (since 17 July 2020)"
       },
       "chancery": {
         "text": "501 Pennsylvania Avenue NW, Washington, DC 20001"
@@ -448,7 +473,10 @@
     },
     "Diplomatic representation from the US": {
       "chief of mission": {
-        "text": "Ambassador Bruce A. HEYMAN (since 8 April 2014)"
+        "text": "Ambassador (vacant); Charge d'Affaires Richard M. MILLS, Jr. (since 23 August 2019)"
+      },
+      "telephone": {
+        "text": "[1] (613) 688-5335"
       },
       "embassy": {
         "text": "490 Sussex Drive, Ottawa, Ontario K1N 1G8"
@@ -456,14 +484,14 @@
       "mailing address": {
         "text": "P. O. Box 5000, Ogdensburg, NY 13669-0430; P.O. Box 866, Station B, Ottawa, Ontario K1P 5T1"
       },
-      "telephone": {
-        "text": "[1] (613) 688-5335"
-      },
       "FAX": {
         "text": "[1] (613) 688-3082"
       },
       "consulate(s) general": {
         "text": "Calgary, Halifax, Montreal, Quebec City, Toronto, Vancouver"
+      },
+      "consulate(s)": {
+        "text": "Winnipeg"
       }
     },
     "Flag description": {
@@ -474,70 +502,70 @@
     },
     "National anthem": {
       "name": {
-        "text": "\"O Canada\""
+        "text": "O Canada"
       },
       "lyrics/music": {
         "text": "Adolphe-Basile ROUTHIER [French], Robert Stanley WEIR [English]/Calixa LAVALLEE"
       },
       "note": {
-        "text": "adopted 1980; originally written in 1880, \"O Canada\" served as an unofficial anthem many years before its official adoption; the anthem has French and English versions whose lyrics differ; as a Commonwealth realm, in addition to the national anthem, \"God Save the Queen\" serves as the royal anthem (see United Kingdom)"
+        "text": "note: adopted 1980; originally written in 1880, \"O Canada\" served as an unofficial anthem many years before its official adoption; the anthem has French and English versions whose lyrics differ; as a Commonwealth realm, in addition to the national anthem, \"God Save the Queen\" serves as the royal anthem (see United Kingdom)"
       }
     }
   },
   "Economy": {
     "Economy - overview": {
-      "text": "As a high-tech industrial society in the trillion-dollar class, Canada resembles the US in its market-oriented economic system, pattern of production, and high living standards. Since World War II, the impressive growth of the manufacturing, mining, and service sectors has transformed the nation from a largely rural economy into one primarily industrial and urban. In addition, the country's petroleum sector is rapidly expanding, because Alberta's oil sands significantly boosted Canada's proven oil reserves. Canada now ranks third in the world in proved oil reserves behind Venezuela and Saudi Arabia and is the world’s fifth-largest oil producer. ++  ++ The 1989 US-Canada Free Trade Agreement and the 1994 North American Free Trade Agreement (which includes Mexico) touched off a dramatic increase in trade and economic integration with the US, its principal trading partner. Canada enjoys a substantial trade surplus with the US, which absorbs about three-fourths of Canadian merchandise exports each year. Canada is the US's largest foreign supplier of energy, including oil, gas, and electric power, and a top source of US uranium imports. ++  ++ Given its abundant natural resources, highly skilled labor force, and modern capital plant, Canada enjoyed solid economic growth from 1993 through 2007. Buffeted by the global economic crisis, the economy dropped into a sharp recession in the final months of 2008, and Ottawa posted its first fiscal deficit in 2009 after 12 years of surplus. Canada's major banks, however, emerged from the financial crisis of 2008-09 among the strongest in the world, owing to the early intervention by the Bank of Canada and the financial sector's tradition of conservative lending practices and strong capitalization. Canada achieved marginal growth in 2010-15, despite the recent drop in oil prices."
+      "text": "Canada resembles the US in its market-oriented economic system, pattern of production, and high living standards. Since World War II, the impressive growth of the manufacturing, mining, and service sectors has transformed the nation from a largely rural economy into one primarily industrial and urban. Canada has a large oil and natural gas sector with the majority of crude oil production derived from oil sands in the western provinces, especially Alberta. Canada now ranks third in the world in proved oil reserves behind Venezuela and Saudi Arabia and is the world’s seventh-largest oil producer. TThe 1989 Canada-US Free Trade Agreement and the 1994 North American Free Trade Agreement (which includes Mexico) dramatically increased trade and economic integration between the US and Canada. Canada and the US enjoy the world’s most comprehensive bilateral trade and investment relationship, with goods and services trade totaling more than $680 billion in 2017, and two-way investment stocks of more than $800 billion. Over three-fourths of Canada’s merchandise exports are destined for the US each year. Canada is the largest foreign supplier of energy to the US, including oil, natural gas, and electric power, and a top source of US uranium imports. Given its abundant natural resources, highly skilled labor force, and modern capital stock, Canada enjoyed solid economic growth from 1993 through 2007. The global economic crisis of 2007-08 moved the Canadian economy into sharp recession by late 2008, and Ottawa posted its first fiscal deficit in 2009 after 12 years of surplus. Canada's major banks emerged from the financial crisis of 2008-09 among the strongest in the world, owing to the financial sector's tradition of conservative lending practices and strong capitalization. Canada’s economy posted strong growth in 2017 at 3%, but most analysts are projecting Canada’s economic growth will drop back closer to 2% in 2018."
     },
     "GDP (purchasing power parity)": {
-      "text": "$1.674 trillion (2016 est.) ++ $1.655 trillion (2015 est.) ++ $1.638 trillion (2014 est.)",
+      "text": "$1.774 trillion (2017 est.) / $1.721 trillion (2016 est.) / $1.697 trillion (2015 est.)",
       "note": {
-        "text": "data are in 2016 dollars"
+        "text": "note: data are in 2017 dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$1.532 trillion (2015 est.)"
+      "text": "$1.653 trillion (2017 est.)"
     },
     "GDP - real growth rate": {
-      "text": "1.2% (2016 est.) ++ 1.1% (2015 est.) ++ 2.5% (2014 est.)"
+      "text": "3% (2017 est.) / 1.4% (2016 est.) / 1% (2015 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$46,200 (2016 est.) ++ $46,200 (2015 est.) ++ $46,100 (2014 est.)",
+      "text": "$48,400 (2017 est.) / $47,500 (2016 est.) / $47,400 (2015 est.)",
       "note": {
-        "text": "data are in 2016 dollars"
+        "text": "note: data are in 2017 dollars"
       }
     },
     "Gross national saving": {
-      "text": "19.4% of GDP (2016 est.) ++ 20.4% of GDP (2015 est.) ++ 22% of GDP (2014 est.)"
+      "text": "20.8% of GDP (2017 est.) / 20% of GDP (2016 est.) / 20.5% of GDP (2015 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "57.9%"
+        "text": "57.8% (2017 est.)"
       },
       "government consumption": {
-        "text": "21.3%"
+        "text": "20.8% (2017 est.)"
       },
       "investment in fixed capital": {
-        "text": "22.2%"
+        "text": "23% (2017 est.)"
       },
       "investment in inventories": {
-        "text": "0.3%"
+        "text": "0.7% (2017 est.)"
       },
       "exports of goods and services": {
-        "text": "31.9%"
+        "text": "30.9% (2017 est.)"
       },
       "imports of goods and services": {
-        "text": "-33.6% (2016 est.)"
+        "text": "-33.2% (2017 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "1.6%"
+        "text": "1.6% (2017 est.)"
       },
       "industry": {
-        "text": "27.7%"
+        "text": "28.2% (2017 est.)"
       },
       "services": {
-        "text": "70.7% (2016 est.)"
+        "text": "70.2% (2017 est.)"
       }
     },
     "Agriculture - products": {
@@ -547,35 +575,35 @@
       "text": "transportation equipment, chemicals, processed and unprocessed minerals, food products, wood and paper products, fish products, petroleum, natural gas"
     },
     "Industrial production growth rate": {
-      "text": "-0.3% (2016 est.)"
+      "text": "4.9% (2017 est.)"
     },
     "Labor force": {
-      "text": "19.42 million (2016 est.)"
+      "text": "19.52 million (2017 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
         "text": "2%"
       },
-      "manufacturing": {
+      "industry": {
         "text": "13%"
       },
-      "construction": {
+      "services": {
         "text": "6%"
       },
-      "services": {
+      "industry and services": {
         "text": "76%"
       },
-      "other": {
+      "manufacturing": {
         "text": "3% (2006 est.)"
       }
     },
     "Unemployment rate": {
-      "text": "7.1% (2016 est.) ++ 6.9% (2015 est.)"
+      "text": "6.3% (2017 est.) / 7% (2016 est.)"
     },
     "Population below poverty line": {
-      "text": "9.4%",
+      "text": "9.4% (2008 est.)",
       "note": {
-        "text": "this figure is the Low Income Cut-Off, a calculation that results in higher figures than found in many comparable economies; Canada does not have an official poverty line (2008 est.)"
+        "text": "note: this figure is the Low Income Cut-Off, a calculation that results in higher figures than found in many comparable economies; Canada does not have an official poverty line"
       }
     },
     "Household income or consumption by percentage share": {
@@ -586,217 +614,206 @@
         "text": "24.8% (2000)"
       }
     },
-    "Distribution of family income - Gini index": {
-      "text": "32.1 (2005) ++ 31.5 (1994)"
-    },
     "Budget": {
       "revenues": {
-        "text": "$594.7 billion"
+        "text": "649.6 billion (2017 est.)"
       },
       "expenditures": {
-        "text": "$632.4 billion (2016 est.)"
+        "text": "665.7 billion (2017 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "38.8% of GDP (2016 est.)"
+      "text": "39.3% (of GDP) (2017 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-2.5% of GDP (2016 est.)"
+      "text": "-1% (of GDP) (2017 est.)"
     },
     "Public debt": {
-      "text": "98.8% of GDP (2016 est.) ++ 98.6% of GDP (2015 est.)",
+      "text": "89.7% of GDP (2017 est.) / 91.1% of GDP (2016 est.)",
       "note": {
-        "text": "figures are for gross general government debt, as opposed to net federal debt; gross general government debt includes both intragovernmental debt and the debt of public entities at the sub-national level"
+        "text": "note: figures are for gross general government debt, as opposed to net federal debt; gross general government debt includes both intragovernmental debt and the debt of public entities at the sub-national level"
       }
     },
     "Fiscal year": {
       "text": "1 April - 31 March"
     },
     "Inflation rate (consumer prices)": {
-      "text": "1.6% (2016 est.) ++ 1.1% (2015 est.)"
-    },
-    "Central bank discount rate": {
-      "text": "1% (31 December 2010) ++ 0.25% (31 December 2009)"
-    },
-    "Commercial bank prime lending rate": {
-      "text": "2.7% (31 December 2016 est.) ++ 2.78% (31 December 2015 est.)"
-    },
-    "Stock of narrow money": {
-      "text": "$635.5 billion (31 December 2016 est.) ++ $568.8 billion (31 December 2015 est.)"
-    },
-    "Stock of broad money": {
-      "text": "$1.486 trillion (31 December 2014 est.) ++ $1.47 trillion (31 December 2013 est.)"
-    },
-    "Stock of domestic credit": {
-      "text": "$2.932 trillion (31 December 2016 est.) ++ $2.642 trillion (31 December 2015 est.)"
-    },
-    "Market value of publicly traded shares": {
-      "text": "$1.593 trillion (31 December 2015 est.) ++ $2.095 trillion (31 December 2014 est.) ++ $2.114 trillion (31 December 2013 est.)"
+      "text": "1.6% (2017 est.) / 1.4% (2016 est.)"
     },
     "Current account balance": {
-      "text": "-$56.73 billion (2016 est.) ++ -$48.97 billion (2015 est.)"
+      "text": "-$48.75 billion (2017 est.) / -$49.32 billion (2016 est.)"
     },
     "Exports": {
-      "text": "$402.4 billion (2016 est.) ++ $411 billion (2015 est.)"
+      "text": "$423.5 billion (2017 est.) / $393.5 billion (2016 est.)"
+    },
+    "Exports - partners": {
+      "text": "US 76.4%, China 4.3% (2017)"
     },
     "Exports - commodities": {
       "text": "motor vehicles and parts, industrial machinery, aircraft, telecommunications equipment; chemicals, plastics, fertilizers; wood pulp, timber, crude petroleum, natural gas, electricity, aluminum"
     },
-    "Exports - partners": {
-      "text": "US 76.7% (2015)"
-    },
     "Imports": {
-      "text": "$419 billion (2016 est.) ++ $428.7 billion (2015 est.)"
+      "text": "$442.1 billion (2017 est.) / $413.4 billion (2016 est.)"
     },
     "Imports - commodities": {
       "text": "machinery and equipment, motor vehicles and parts, crude oil, chemicals, electricity, durable consumer goods"
     },
     "Imports - partners": {
-      "text": "US 53.1%, China 12.2%, Mexico 5.8% (2015)"
+      "text": "US 51.5%, China 12.6%, Mexico 6.3% (2017)"
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$82.5 billion (31 December 2016 est.) ++ $79.75 billion (31 December 2015 est.)"
+      "text": "$86.68 billion (31 December 2017 est.) / $82.72 billion (31 December 2016 est.)"
     },
     "Debt - external": {
-      "text": "$1.608 trillion (31 March 2016 est.) ++ $1.55 trillion (31 March 2015 est.)"
-    },
-    "Stock of direct foreign investment - at home": {
-      "text": "$1.099 trillion (31 December 2016 est.) ++ $1.065 trillion (31 December 2015 est.)"
-    },
-    "Stock of direct foreign investment - abroad": {
-      "text": "$1.334 trillion (31 December 2016 est.) ++ $1.256 trillion (31 December 2015 est.)"
+      "text": "$1.608 trillion (31 March 2016 est.) / $1.55 trillion (31 March 2015 est.)"
     },
     "Exchange rates": {
-      "text": "Canadian dollars (CAD) per US dollar - ++ 1.331 (2016 est.) ++ 1.2788 (2015 est.) ++ 1.2788 (2014 est.) ++ 1.0298 (2013 est.) ++ 0.9992 (2012 est.)"
+      "text": "Canadian dollars (CAD) per US dollar - / 1.308 (2017 est.) / 1.3256 (2016 est.) / 1.3256 (2015 est.) / 1.2788 (2014 est.) / 1.0298 (2013 est.)"
     }
   },
   "Energy": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
+    },
     "Electricity - production": {
-      "text": "633 billion kWh (2014 est.)"
+      "text": "649.6 billion kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "528 billion kWh (2014 est.)"
+      "text": "522.2 billion kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "58.4 billion kWh (2014 est.)"
+      "text": "73.35 billion kWh (2016 est.)"
     },
     "Electricity - imports": {
-      "text": "13 billion kWh (2014 est.)"
+      "text": "2.682 billion kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "137 million kW (2014 est.)"
+      "text": "143.5 million kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "25.7% of total installed capacity (2012 est.)"
+      "text": "23% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "10% of total installed capacity (2012 est.)"
+      "text": "9% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "55.8% of total installed capacity (2012 est.)"
+      "text": "56% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "8.3% of total installed capacity (2012 est.)"
+      "text": "12% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "3.677 million bbl/day (2015 est.)"
+      "text": "4.264 million bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "3.21 million bbl/day (2015 est.)"
+      "text": "2.818 million bbl/day (2017 est.)"
     },
     "Crude oil - imports": {
-      "text": "581,300 bbl/day (2015 est.)"
+      "text": "806,700 bbl/day (2017 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "171 billion bbl (1 January 2016 es)"
+      "text": "170.5 billion bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "1.868 million bbl/day (2015 est.)"
+      "text": "2.009 million bbl/day (2017 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "2.406 million bbl/day (2015 est.)"
+      "text": "2.445 million bbl/day (2017 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "491,900 bbl/day (2015 est.)"
+      "text": "1.115 million bbl/day (2017 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "251,900 bbl/day (2015 est.)"
+      "text": "405,700 bbl/day (2017 est.)"
     },
     "Natural gas - production": {
-      "text": "151.5 billion cu m (2014 est.)"
+      "text": "159.1 billion cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "116.5 billion cu m (2014 est.)"
+      "text": "124.4 billion cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "77.96 billion cu m (2014 est.)"
+      "text": "83.96 billion cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "21.89 billion cu m (2014 est.)"
+      "text": "26.36 billion cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "1.996 trillion cu m (1 January 2016 es)"
+      "text": "2.056 trillion cu m (1 January 2018 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "564 million Mt (2013 est.)"
+      "text": "640.6 million Mt (2017 est.)"
     }
   },
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "15.902 million"
+        "text": "13,258,721"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "45 (July 2015 est.)"
+        "text": "35.46 (2019 est.)"
       }
     },
     "Telephones - mobile cellular": {
-      "total": {
-        "text": "29.39 million"
+      "total subscriptions": {
+        "text": "34,597,559"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "84 (July 2015 est.)"
+        "text": "92.53 (2019 est.)"
       }
     },
-    "Telephone system": {
+    "Telecommunication systems": {
       "general assessment": {
-        "text": "excellent service provided by modern technology"
+        "text": "excellent service provided by first-rate technology; offers 99% coverage with LTE; consumer demand for mobile data services have prompted telecom companies to invest and advance LTE infrastructure, and further investment in 5G; govt. policy has aided the extension of broadband to rural and regional areas, with the result that services are almost universally accessible; govt. sets up $400 million public-private partnership to exploit benefits of 5G (2020)"
       },
       "domestic": {
-        "text": "domestic satellite system with about 300 earth stations"
+        "text": "35 per 100 fixed-line; 93 per 100 mobile-cellular; comparatively low mobile penetration provides further room for growth; domestic satellite system with about 300 earth stations (2019)"
       },
       "international": {
-        "text": "country code - 1; submarine cables provide links to the US and Europe; satellite earth stations - 7 (5 Intelsat - 4 Atlantic Ocean and 1 Pacific Ocean, and 2 Intersputnik - Atlantic Ocean region) (2011)"
+        "text": "country code - 1; landing points for the Nunavut Undersea Fiber Optic Network System, Greenland Connect, Persona, GTT Atlantic, and Express, KetchCan 1 Submarine Fiber Cable system, St Pierre and Miquelon Cable submarine cables providing links to the US and Europe; satellite earth stations - 7 (5 Intelsat - 4 Atlantic Ocean and 1 Pacific Ocean, and 2 Intersputnik - Atlantic Ocean region) (2019)"
+      },
+      "note": {
+        "text": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
       }
     },
     "Broadcast media": {
-      "text": "2 public TV broadcasting networks each with a large number of network affiliates; several private-commercial networks also with multiple network affiliates; overall, about 150 TV stations; multi-channel satellite and cable systems provide access to a wide (2008)"
+      "text": "2 public TV broadcasting networks, 1 in English and 1 in French, each with a large number of network affiliates; several private-commercial networks also with multiple network affiliates; overall, about 150 TV stations; multi-channel satellite and cable systems provide access to a wide range of stations including US stations; mix of public and commercial radio broadcasters with the Canadian Broadcasting Corporation (CBC), the public radio broadcaster, operating 4 radio networks, Radio Canada International, and radio services to indigenous populations in the north; roughly 1,119 licensed radio stations (2016)"
     },
     "Internet country code": {
       "text": ".ca"
     },
     "Internet users": {
       "total": {
-        "text": "31.053 million"
+        "text": "33,743,954"
       },
       "percent of population": {
-        "text": "88.5% (July 2015 est.)"
+        "text": "91% (July 2018 est.)"
+      }
+    },
+    "Broadband - fixed subscriptions": {
+      "total": {
+        "text": "14,445,606"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "39 (2018 est.)"
       }
     }
   },
   "Transportation": {
     "National air transport system": {
       "number of registered air carriers": {
-        "text": "51"
+        "text": "51 (2020)"
       },
       "inventory of registered aircraft operated by air carriers": {
         "text": "879"
       },
       "annual passenger traffic on registered air carriers": {
-        "text": "80,228,301"
+        "text": "89.38 million (2018)"
       },
       "annual freight traffic on registered air carriers": {
-        "text": "2,074,830,881 mt-km (2015)"
+        "text": "3,434,070,000 mt-km (2018)"
       }
     },
     "Civil aircraft registration country code prefix": {
@@ -807,33 +824,33 @@
     },
     "Airports - with paved runways": {
       "total": {
-        "text": "523"
+        "text": "523 (2017)"
       },
       "over 3,047 m": {
-        "text": "21"
+        "text": "21 (2017)"
       },
       "2,438 to 3,047 m": {
-        "text": "19"
+        "text": "19 (2017)"
       },
       "1,524 to 2,437 m": {
-        "text": "147"
+        "text": "147 (2017)"
       },
       "914 to 1,523 m": {
-        "text": "257"
+        "text": "257 (2017)"
       },
       "under 914 m": {
-        "text": "79 (2013)"
+        "text": "79 (2017)"
       }
     },
     "Airports - with unpaved runways": {
       "total": {
-        "text": "944"
+        "text": "944 (2013)"
       },
       "1,524 to 2,437 m": {
-        "text": "75"
+        "text": "75 (2013)"
       },
       "914 to 1,523 m": {
-        "text": "385"
+        "text": "385 (2013)"
       },
       "under 914 m": {
         "text": "484 (2013)"
@@ -843,11 +860,11 @@
       "text": "26 (2013)"
     },
     "Pipelines": {
-      "text": "gas and liguid petroleum 100,000 km (2013)"
+      "text": "110000 km gas and liquid petroleum (2017)"
     },
     "Railways": {
       "total": {
-        "text": "77,932 km"
+        "text": "77,932 km (2014)"
       },
       "standard gauge": {
         "text": "77,932 km 1.435-m gauge (2014)"
@@ -855,10 +872,10 @@
     },
     "Roadways": {
       "total": {
-        "text": "1,042,300 km"
+        "text": "1,042,300 km (2011)"
       },
       "paved": {
-        "text": "415,600 km (includes 17,000 km of expressways)"
+        "text": "415,600 km (includes 17,000 km of expressways) (2011)"
       },
       "unpaved": {
         "text": "626,700 km (2011)"
@@ -869,48 +886,65 @@
     },
     "Merchant marine": {
       "total": {
-        "text": "181"
+        "text": "669"
       },
       "by type": {
-        "text": "bulk carrier 62, cargo 15, carrier 1, chemical tanker 15, combination ore/oil 1, container 2, passenger 5, passenger/cargo 63, petroleum tanker 11, roll on/roll off 6"
-      },
-      "foreign-owned": {
-        "text": "19 (Estonia 1, France 1, Netherlands 1, Norway 4, Sweden 2, US 10)"
-      },
-      "registered in other countries": {
-        "text": "225 (Australia 5, Bahamas 96, Barbados 11, Cambodia 2, Cyprus 2, Honduras 1, Hong Kong 77, Liberia 2, Malta 5, Marshall Islands 8, Norway 1, Panama 6, Spain 4, Vanuatu 5) (2010)"
+        "text": "bulk carrier 18, container ship 1, general cargo 76, oil tanker 16, other 558 (2019)"
       }
     },
     "Ports and terminals": {
       "major seaport(s)": {
         "text": "Halifax, Saint John (New Brunswick), Vancouver"
       },
-      "river and lake port(s)": {
-        "text": "Montreal, Quebec City, Sept-Isles (St. Lawrence); Fraser River Port (Fraser); Hamilton (Lake Ontario)"
-      },
       "oil terminal(s)": {
         "text": "Lower Lakes terminal"
+      },
+      "container port(s) (TEUs)": {
+        "text": "Montreal (1,537,669), Vancouver (3,252,225) (2017)"
+      },
+      "LNG terminal(s) (import)": {
+        "text": "Saint John"
+      },
+      "river and lake port(s)": {
+        "text": "Montreal, Quebec City, Sept-Isles (St. Lawrence)"
       },
       "dry bulk cargo port(s)": {
         "text": "Port-Cartier (iron ore and grain),"
       },
-      "container port(s)": {
-        "text": "Montreal (1,362,975), Vancouver (2,507,032)(2011)"
-      },
-      "LNG terminal(s) (import)": {
-        "text": "Saint John"
+      "note": {
+        "text": "Fraser River Port (Fraser) Hamilton (Lake Ontario)"
       }
     }
   },
   "Military and Security": {
-    "Military branches": {
-      "text": "Canadian Forces: Canadian Army, Royal Canadian Navy, Royal Canadian Air Force, Canadian Joint Operations Command (2015)"
+    "Military and security forces": {
+      "text": "Canadian Forces: Canadian Army, Royal Canadian Navy, Royal Canadian Air Force, Canadian Joint Operations Command, Canadian Special Operations Forces Command; Primary Reserve (army, air, naval reserves); Coast Guard (Department of Fisheries and Oceans) (2019)",
+      "note": {
+        "text": "note: the Army reserves include the Canadian Rangers, which provides a limited presence in Canada's northern, coastal, and isolated areas for sovereignty, public safety, and surveillance roles"
+      }
+    },
+    "Military expenditures": {
+      "text": "1.31% of GDP (2019 est.) / 1.31% of GDP (2018) / 1.44% of GDP (2017) / 1.16% of GDP (2016) / 1.2% of GDP (2015)"
+    },
+    "Military and security service personnel strengths": {
+      "text": "the Canadian Armed (CAF) Forces have approximately 66,000 total active personnel (23,000 Army; 8,300 Navy; 12,000 Air Force; 23,000 other uniformed personnel) (2019 est.)"
+    },
+    "Military equipment inventories and acquisitions": {
+      "text": "the CAF's inventory is a mix of domestically-produced equipment and imported weapons systems from Australia, Europe, Israel, and the US; since 2010, the leading supplier is the US; Canada's defense industry develops, maintains, and produces a range of equipment, including aircraft, combat vehicles, naval vessels, and associated components (2019 est.)"
+    },
+    "Military deployments": {
+      "text": "540 Latvia (NATO); 150 Ukraine (training mission); up to 850 Middle East (multiple missions, including Global Coalition to Defeat ISIS and NATO assistance mission Iraq) (2020)"
     },
     "Military service age and obligation": {
       "text": "17 years of age for voluntary male and female military service (with parental consent); 16 years of age for Reserve and Military College applicants; Canadian citizenship or permanent residence status required; maximum 34 years of age; service obligation 3-9 years (2012)"
-    },
-    "Military expenditures": {
-      "text": "1% of GDP (2015) ++ 1% of GDP (2014) ++ 1% of GDP (2013) ++ 1.24% of GDP (2012) ++ 1.31% of GDP (2011)"
+    }
+  },
+  "Terrorism": {
+    "Terrorist group(s)": {
+      "text": "Islamic State of Iraq and ash-Sham (ISIS) (2019)",
+      "note": {
+        "text": "note: details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T"
+      }
     }
   },
   "Transnational Issues": {
@@ -919,7 +953,10 @@
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
-        "text": "13,666 (Colombia); 11,415 (China); 8,807 (Haiti); 8,807 (Sri Lanka); 7,207 (Pakistan); 6,414 (Mexico) (2015)"
+        "text": "7,356 (Colombia), 6,640 (Nigeria), 6,563 (Haiti), 6,060 (China), 5,876 (Turkey), 5,498 (Pakistan) (2018); 6,751 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2019)"
+      },
+      "stateless persons": {
+        "text": "3,790 (2018)"
       }
     },
     "Illicit drugs": {

@@ -49,11 +49,11 @@
       "text": "Heard Island - 80% ice-covered, bleak and mountainous, dominated by a large massif (Big Ben) and an active volcano (Mawson Peak); McDonald Islands - small and rocky"
     },
     "Elevation": {
-      "mean elevation": {
-        "text": "NA"
+      "lowest point": {
+        "text": "Indian Ocean 0 m"
       },
-      "elevation extremes": {
-        "text": "lowest point: Indian Ocean 0 m ++ highest point: Mawson Peak on Big Ben volcano 2,745 m"
+      "highest point": {
+        "text": "Mawson Peak on Big Ben volcano 2,745 m"
       }
     },
     "Natural resources": {
@@ -61,10 +61,13 @@
     },
     "Land use": {
       "agricultural land": {
-        "text": "0% ++ arable land 0%; permanent crops 0%; permanent pasture 0%"
+        "text": "0% (2011 est.)"
+      },
+      "arable land / permanent crops / permanent pasture": {
+        "text": "0% (2011 est.) / 0% (2011 est.) / 0% (2011 est.)"
       },
       "forest": {
-        "text": "0%"
+        "text": "0% (2011 est.)"
       },
       "other": {
         "text": "100% (2011 est.)"
@@ -74,7 +77,7 @@
       "text": "Mawson Peak, an active volcano, is on Heard Island"
     },
     "Environment - current issues": {
-      "text": "NA"
+      "text": "none; uninhabited and mostly ice covered"
     },
     "Geography - note": {
       "text": "Mawson Peak on Heard Island is the highest Australian mountain (at 2,745 meters, it is taller than Mt. Kosciuszko in Australia proper), and one of only two active volcanoes located in Australian territory, the other being McDonald Island; in 1992, McDonald Island broke its dormancy and began erupting; it has erupted several times since, most recently in 2005"
@@ -104,10 +107,12 @@
       "text": "territory of Australia; administered from Canberra by the Department of Sustainability, Environment, Water, Population and Communities (Australian Antarctic Division)"
     },
     "Legal system": {
-      "text": "the laws of Australia, where applicable, apply"
+      "text": "the laws of Australia apply where applicable"
     },
     "Diplomatic representation in the US": {
-      "text": "none (territory of Australia)"
+      "note": {
+        "text": "none (territory of Australia)"
+      }
     },
     "Diplomatic representation from the US": {
       "text": "none (territory of Australia)"
@@ -128,7 +133,9 @@
   },
   "Transportation": {
     "Ports and terminals": {
-      "text": "none; offshore anchorage only"
+      "note": {
+        "text": "none; offshore anchorage only"
+      }
     }
   },
   "Military and Security": {

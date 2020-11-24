@@ -49,11 +49,11 @@
       "text": "low-lying coral atolls enclosing large lagoons"
     },
     "Elevation": {
-      "mean elevation": {
-        "text": "NA"
+      "lowest point": {
+        "text": "Pacific Ocean 0 m"
       },
-      "elevation extremes": {
-        "text": "lowest point: Pacific Ocean 0 m ++ highest point: unnamed location 5 m"
+      "highest point": {
+        "text": "unnamed location 5 m"
       }
     },
     "Natural resources": {
@@ -61,10 +61,13 @@
     },
     "Land use": {
       "agricultural land": {
-        "text": "60% ++ arable land 0%; permanent crops 60%; permanent pasture 0%"
+        "text": "60% (2011 est.)"
+      },
+      "arable land / permanent crops / permanent pasture": {
+        "text": "0% (2011 est.) / 60% (2011 est.) / 0% (2011 est.)"
       },
       "forest": {
-        "text": "0%"
+        "text": "0% (2011 est.)"
       },
       "other": {
         "text": "40% (2011 est.)"
@@ -73,11 +76,14 @@
     "Irrigated land": {
       "text": "0 sq km (2012)"
     },
+    "Population distribution": {
+      "text": "the country's small population is fairly evenly distributed amongst the three atolls"
+    },
     "Natural hazards": {
-      "text": "lies in Pacific typhoon belt"
+      "text": "lies in Pacific cyclone belt"
     },
     "Environment - current issues": {
-      "text": "limited natural resources and overcrowding are contributing to emigration to New Zealand"
+      "text": "overexploitation of certain fish and other marine species, coastal sand, and forest resources; pollution of freshwater lenses and coastal waters from improper disposal of chemicals"
     },
     "Geography - note": {
       "text": "consists of three atolls (Atafu, Fakaofo, Nukunonu), each with a lagoon surrounded by a number of reef-bound islets of varying length and rising to over 3 m above sea level"
@@ -85,7 +91,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "1,337 (July 2014 est.)"
+      "text": "1,647 (2019 est. est.)"
     },
     "Nationality": {
       "noun": {
@@ -96,34 +102,39 @@
       }
     },
     "Ethnic groups": {
-      "text": "Tokelauan 65.3%, part Tokelauan/Samoan 8.7%, part Tokelauan/Tuvaluan 6.9%, part Tokelauan/other Pacific islander 1.9%, part Tokelauan/European 1%, Samoan 6.7%, Tuvaluan 2.8%, other Pacific islander 1.1%, other 5.1%, unspecified 0.4% (2011 est.)"
+      "text": "Tokelauan 64.5%, part Tokelauan/Samoan 9.7%, part Tokelauan/Tuvaluan 2.8%, Tuvaluan 7.5%, Samoan 5.8%, other Pacific Islander 3.4%, other 5.6%, unspecified 0.8% (2016 est.)"
     },
     "Languages": {
-      "text": "Tokelauan 93.5% (a Polynesian language), English 58.9%, Samoan 45.5%, Tuvaluan 11.6%, Kiribati 2.7%, other 2.5%, none 4.1%, unspecified 0.6%",
+      "text": "Tokelauan 88.1% (a Polynesian language), English 48.6%, Samoan 26.7%, Tuvaluan 11.2%, Kiribati 1.5%, other 2.8%, none 2.8%, unspecified 0.8% (2016 ests.)",
       "note": {
-        "text": "shares sum to more than 100% because some respondents gave more than one answer on the census (2011 ests.)"
+        "text": "note: shares sum to more than 100% because some respondents gave more than one answer on the census"
       }
     },
     "Religions": {
-      "text": "Congregational Christian Church 58.2%, Roman Catholic 36.6%, Presbyterian 1.8%, other Christian 2.8%, Spiritualism and New Age 0.1%, unspecified 0.5% (2011 est.)"
+      "text": "Congregational Christian Church 50.4%, Roman Catholic 38.7%, Presbyterian 5.9%, other Christian 4.2%, unspecified 0.8% (2016 est.)"
     },
     "Population growth rate": {
       "text": "-0.01% (2014 est.)"
     },
+    "Population distribution": {
+      "text": "the country's small population is fairly evenly distributed amongst the three atolls"
+    },
     "Urbanization": {
       "urban population": {
-        "text": "0% of total population (2015)"
+        "text": "0% of total population (2020)"
       },
       "rate of urbanization": {
-        "text": "0% annual rate of change (2010-15 est.)"
+        "text": "0% annual rate of change (2015-20 est.)"
       }
     },
     "Sex ratio": {
-      "text": "NA"
+      "note": {
+        "text": "NA"
+      }
     },
     "Infant mortality rate": {
       "total": {
-        "text": "NA"
+        "text": "NA (2018)"
       },
       "male": {
         "text": "NA"
@@ -134,7 +145,7 @@
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "NA"
+        "text": "NA (2017 est.)"
       },
       "male": {
         "text": "NA"
@@ -147,19 +158,22 @@
       "text": "NA"
     },
     "Drinking water source": {
-      "improved": {
-        "text": " ++ rural: 100% of population ++ total: 100% of population"
+      "rural": {
+        "text": "unimproved: 0% of population"
       },
-      "unimproved": {
-        "text": " ++ rural: 0% of population ++ total: 0% of population (2015 est.)"
+      "total": {
+        "text": "0% of population (2017 est.)"
       }
     },
+    "Physicians density": {
+      "text": "2.72 physicians/1,000 population (2010)"
+    },
     "Sanitation facility access": {
-      "improved": {
-        "text": " ++ rural: 90.5% of population ++ total: 90.5% of population"
+      "rural": {
+        "text": "unimproved: 0% of population"
       },
-      "unimproved": {
-        "text": " ++ rural: 9.5% of population ++ total: 9.5% of population (2015 est.)"
+      "total": {
+        "text": "0% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -170,6 +184,17 @@
     },
     "HIV/AIDS - deaths": {
       "text": "NA"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "high (2020)"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial diarrhea"
+      },
+      "vectorborne diseases": {
+        "text": "malaria"
+      }
     },
     "Education expenditures": {
       "text": "NA"
@@ -183,21 +208,21 @@
       "conventional short form": {
         "text": "Tokelau"
       },
+      "former": {
+        "text": "Union Islands, Tokelau Islands"
+      },
       "etymology": {
         "text": "\"tokelau\" is a Polynesian word meaning \"north wind\""
       }
     },
     "Dependency status": {
-      "text": "self-administering territory of New Zealand; note - Tokelau and New Zealand have agreed to a draft constitution as Tokelau moves toward free association with New Zealand; a UN-sponsored referendum on self governance in October 2007 did not produce the two-thirds majority vote necessary for changing the political status"
+      "text": "self-administering territory of New Zealand; note - Tokelau and New Zealand have agreed to a draft constitution as Tokelau moves toward free association with New Zealand; a UN-sponsored referendum on self governance in October 2007 did not meet the two-thirds majority vote necessary for changing the political status"
     },
     "Government type": {
-      "text": "parliamentary democratic dependency (General Fono); a territory of New Zealand"
+      "text": "parliamentary democracy under a constitutional monarchy"
     },
     "Capital": {
-      "text": "none; each atoll has its own administrative center",
-      "time difference": {
-        "text": "UTC+13 (18 hours ahead of Washington, DC during Standard Time)"
-      }
+      "text": "UTC+13 (18 hours ahead of Washington, DC during Standard Time)"
     },
     "Administrative divisions": {
       "text": "none (territory of New Zealand)"
@@ -209,29 +234,39 @@
       "text": "Waitangi Day (Treaty of Waitangi established British sovereignty over New Zealand), 6 February (1840)"
     },
     "Constitution": {
-      "text": "many previous; latest effective 1 January 1949 (Tokelau Islands Act 1948); amended many times, last in 2007 (2016)"
+      "history": {
+        "text": "many previous; latest effective 1 January 1949 (Tokelau Islands Act 1948)"
+      },
+      "amendments": {
+        "text": "proposed as a resolution by the General Fono; passage requires support by each village and approval by the General Fono; amended many times, last in 2007"
+      }
     },
     "Legal system": {
       "text": "common law system of New Zealand"
     },
     "Citizenship": {
-      "text": "see New Zealand"
+      "note": {
+        "text": "see New Zealand"
+      }
     },
     "Suffrage": {
       "text": "21 years of age; universal"
     },
     "Executive branch": {
       "chief of state": {
-        "text": "Queen ELIZABETH II (since 6 February 1952); represented by Governor General of New Zealand Anand SATYANAND (since 23 August 2006); New Zealand is represented by Administrator Jonathan KINGS (since February 2011)"
+        "text": "Queen ELIZABETH II (since 6 February 1952); represented by Governor General of New Zealand Governor General Dame Patricia Lee REDDY (since 28 September 2016); New Zealand is represented by Administrator Jonathan KINGS (since 30 August 2017)"
       },
       "head of government": {
-        "text": "Siopili PEREZ (since 23 February 2015); note - position rotates annually among the 3 Faipule (village leaders)"
+        "text": "Afega GAULOFA (since 10 March 2016); note - position rotates annually among the three Faipule (village leaders)"
       },
       "cabinet": {
-        "text": "the Council for the Ongoing Government of Tokelau functions as a cabinet; consists of 3 Faipule (village leaders) and 3 Pulenuku (village mayors)"
+        "text": "Council for the Ongoing Government of Tokelau (or Tokelau Council) functions as a cabinet; consists of 3 Faipule (village leaders) and 3 Pulenuku (village mayors)"
       },
       "elections/appointments": {
         "text": "the monarchy is hereditary; governor general appointed by the monarch; administrator appointed by the Minister of Foreign Affairs and Trade in New Zealand; head of government chosen from the Council of Faipule to serve a 1-year term"
+      },
+      "note": {
+        "text": "note: the meeting place of the Tokelau Council rotates annually among the three atolls; this tradition has given rise to the somewhat misleading description that the capital rotates yearly between the three atolls; in actuality, it is the seat of the government councilors that rotates since Tokelau has no capital"
       }
     },
     "Legislative branch": {
@@ -239,37 +274,38 @@
         "text": "unicameral General Fono (20 seats apportioned by island - Atafu 7, Fakaofo 7, Nukunonu 6; members directly elected by simple majority vote to serve 3-year terms); note - the Tokelau Amendment Act of 1996 confers limited legislative power to the General Fono"
       },
       "elections": {
-        "text": "last held on 23 January 2014 (next to be held in 2017)"
+        "text": "last held on 23, 27, and 31 January 2017 depending on island (next to be held in 2020)"
       },
       "election results": {
-        "text": "independent 20"
+        "text": "percent of vote by party - NA; seats by party - independent 20; composition - men 17, women 3, percent of women 15%"
       }
     },
     "Judicial branch": {
-      "highest court(s)": {
-        "text": "Court of Appeal in New Zealand (consists of the court president and 8 judges sitting in 3- or 5-judge panels depending on the case)"
+      "highest courts": {
+        "text": "Court of Appeal (in New Zealand) (consists of the court president and 8 judges sitting in 3- or 5-judge panels, depending on the case)"
       },
       "judge selection and term of office": {
-        "text": "judges nominated by the Judicial Selection Committee and approved by three-quarters majority of the Parliament; judges appointed for life"
+        "text": "judges nominated by the Judicial Selection Committee and approved by three-quarters majority of the Parliament; judges serve for life"
       },
       "subordinate courts": {
-        "text": "High Court, in New Zealand; Council of Elders or Taupulega"
+        "text": "High Court (in New Zealand); Council of Elders or Taupulega"
       }
     },
     "Political parties and leaders": {
-      "text": "none"
-    },
-    "Political pressure groups and leaders": {
       "text": "none"
     },
     "International organization participation": {
       "text": "PIF (associate member), SPC, UNESCO (associate), UPU"
     },
     "Diplomatic representation in the US": {
-      "text": "none (territory of New Zealand)"
+      "note": {
+        "text": "none (territory of New Zealand)"
+      }
     },
     "Diplomatic representation from the US": {
-      "text": "none (territory of New Zealand)"
+      "note": {
+        "text": "none (territory of New Zealand)"
+      }
     },
     "Flag description": {
       "text": "a yellow stylized Tokelauan canoe on a dark blue field sails toward the manu - the Southern Cross constellation of four, white, five-pointed stars at the hoist side; the Southern Cross represents the role of Christianity in Tokelauan culture and, in conjunction with the canoe, symbolizes the country navigating into the future; the color yellow indicates happiness and peace, and the blue field represents the ocean on which the community relies"
@@ -285,35 +321,37 @@
         "text": "unknown/Falani KALOLO"
       },
       "note": {
-        "text": "adopted 2008; in preparation for eventual self governance, Tokelau held a national contest to choose an anthem; as a territory of New Zealand, \"God Defend New Zealand\" and \"God Save the Queen\" are official (see New Zealand)"
+        "text": "note: adopted 2008; in preparation for eventual self governance, Tokelau held a national contest to choose an anthem; as a territory of New Zealand, \"God Defend New Zealand\" and \"God Save the Queen\" are official (see New Zealand)"
       }
     }
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Tokelau's small size (three villages), isolation, and lack of resources greatly restrain economic development and confine agriculture to the subsistence level. The principal sources of revenue come from sales of copra, postage stamps, souvenir coins, and handicrafts. Money is also remitted to families from relatives in New Zealand. ++  ++ The people rely heavily on aid from New Zealand - about $15 million annually in FY12/13 and FY13/14 - to maintain public services. New Zealand's support amounts to 80% of Tokelau's recurrent government budget. An international trust fund, currently worth nearly $32 million, was established in 2004 by New Zealand to provide Tokelau an independent source of revenue."
+      "text": "Tokelau's small size (three villages), isolation, and lack of resources greatly restrain economic development and confine agriculture to the subsistence level. The principal sources of revenue are from sales of copra, postage stamps, souvenir coins, and handicrafts. Money is also remitted to families from relatives in New Zealand. The people rely heavily on aid from New Zealand - about $15 million annually in FY12/13 and FY13/14 - to maintain public services. New Zealand's support amounts to 80% of Tokelau's recurrent government budget. An international trust fund, currently worth nearly $32 million, was established in 2004 by New Zealand to provide Tokelau an independent source of revenue."
     },
     "GDP (purchasing power parity)": {
       "text": "$1.5 million (1993 est.)"
     },
     "GDP (official exchange rate)": {
-      "text": "$NA"
+      "text": "NA"
     },
     "GDP - real growth rate": {
-      "text": "NA%"
+      "note": {
+        "text": "NA"
+      }
     },
     "GDP - per capita (PPP)": {
       "text": "$1,000 (1993 est.)"
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "NA%"
+        "text": "NA"
       },
       "industry": {
-        "text": "NA%"
+        "text": "NA"
       },
       "services": {
-        "text": "NA%"
+        "text": "NA"
       }
     },
     "Agriculture - products": {
@@ -326,24 +364,28 @@
       "text": "440 (2001)"
     },
     "Unemployment rate": {
-      "text": "NA%"
+      "note": {
+        "text": "NA"
+      }
     },
     "Population below poverty line": {
-      "text": "NA%"
+      "text": "NA"
     },
     "Budget": {
       "revenues": {
-        "text": "$430,800"
+        "text": "430,800 (1987 est.)"
       },
       "expenditures": {
-        "text": "$2.8 million (1987 est.)"
+        "text": "2.8 million (1987 est.)"
       }
     },
     "Fiscal year": {
       "text": "1 April - 31 March"
     },
     "Inflation rate (consumer prices)": {
-      "text": "NA%"
+      "note": {
+        "text": "NA"
+      }
     },
     "Exports": {
       "text": "$0 (2002 est.)"
@@ -358,12 +400,12 @@
       "text": "foodstuffs, building materials, fuel"
     },
     "Exchange rates": {
-      "text": "New Zealand dollars (NZD) per US dollar - ++ 1.441 (2016 est.) ++ 1.4279 (2015 est.) ++ 1.2039 (2014 est.) ++ 1.2039 (2013 est.) ++ 1.23 (2012 est.)"
+      "text": "New Zealand dollars (NZD) per US dollar - / 1.416 (2017 est.) / 1.4279 (2016 est.) / 1.4279 (2015) / 1.4279 (2014 est.) / 1.2039 (2013 est.)"
     }
   },
   "Energy": {
     "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2016 es)"
+      "text": "0 bbl (1 January 2010 est.)"
     }
   },
   "Communications": {
@@ -372,22 +414,25 @@
         "text": "300"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "21 (July 2010 est.)"
+        "text": "21 (July 2016 est.)"
       }
     },
-    "Telephone system": {
+    "Telecommunication systems": {
       "general assessment": {
-        "text": "modern satellite-based communications system"
+        "text": "modern satellite-based communications system; demand for mobile broadband increasing due to mobile services being the method of access for Internet across the region; 2G widespread with some 4G LTE service; satellite services has improved with the launch of the Kacific-1 satellite launched in 2019 (2020)"
       },
       "domestic": {
-        "text": "radiotelephone service between islands"
+        "text": "radiotelephone service between islands; fixed-line 21 per 100 persons (2019)"
       },
       "international": {
-        "text": "country code - 690; radiotelephone service to Samoa; government-regulated telephone service (TeleTok); satellite earth stations - 3 (2015)"
+        "text": "country code - 690; landing point for the Southern Cross NEXT submarine cable linking Australia, Tokelau, Samoa, Kiribati, Fiji, New Zealand and Los Angeles, CA (USA); radiotelephone service to Samoa; government-regulated telephone service (TeleTok); satellite earth stations - 3 (2020)"
+      },
+      "note": {
+        "text": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
       }
     },
     "Broadcast media": {
-      "text": "no TV stations; each atoll operates a radio service that provides shipping news and weather reports (2009)"
+      "text": "Sky TV access for around 30% of the population; each atoll operates a radio service that provides shipping news and weather reports (2019)"
     },
     "Internet country code": {
       "text": ".tk"
@@ -397,13 +442,20 @@
         "text": "805"
       },
       "percent of population": {
-        "text": "60.2% (July 2015 est.)"
+        "text": "60.2% (July 2016 est.)"
       }
     }
   },
   "Transportation": {
+    "Roadways": {
+      "total": {
+        "text": "10 km (2019)"
+      }
+    },
     "Ports and terminals": {
-      "text": "none; offshore anchorage only"
+      "note": {
+        "text": "none; offshore anchorage only"
+      }
     }
   },
   "Military and Security": {
