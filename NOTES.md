@@ -13,3 +13,16 @@ Should be "04 51 N, 31 37 E" to avoid problems down the line.
 It's the only example of this kind I found in my use of the repo so far.
 e.g. comma separator missing.
 
+
+### Country Names - Curacao (cc), Sint Maarten (sk)
+
+@mn113 writes:
+
+A couple of countries in the dataset don't conform to a standard way to programmatically access their names. I think it's just Curacao (cc) and Sint Maarten (sk).
+
+Every other country uses `["Government"]["Country name"]["conventional short form"]`.
+
+I gather this is just a harvested dataset rather than a curated one, but how do you feel about this? If people want to use this data programatically, 
+it's inconvenient that something as major as the _name_ of a country can't be reliably retrieved. (Other more complex properties, I can understand).
+
+PS: European Union (ee) is another file which uses a different convention.
