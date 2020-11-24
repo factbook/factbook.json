@@ -1,5 +1,16 @@
 # Notes
 
+## F.A.Q
+
+### Q: Why not just transform the country codes to ISO? Not a bug, a feature request
+
+A:  The factbook has many more entities / countries than ISO and sometimes with a different definition - it's NOT an easy 1:1 mapping, see <https://www.cia.gov/library/publications/the-world-factbook/appendix/appendix-d.html>.
+
+### Q: I noticed that you've got Zambian data under ZA for the African region... It should be South African data...
+
+A:  See why not ISO codes -  Uhhh... nevermind, I see it's stored under SF. Weird, but, ok :)
+
+
 ## Data (Consistency) Issues
 
 ### South Sudan capital lat/long
