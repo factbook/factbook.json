@@ -252,14 +252,11 @@
       "text": "1.61 children born/woman (2020 est.)"
     },
     "Drinking water source": {
-      "urban": {
-        "text": "unimproved: 0% of population"
+      "improved": {
+        "text": "urban: 100% of population / rural: 100% of population / total: 100% of population"
       },
-      "rural": {
-        "text": "0% of population"
-      },
-      "total": {
-        "text": "0% of population (2017 est.)"
+      "unimproved": {
+        "text": "urban: 0% of population / rural: 0% of population / total: 0% of population (2017 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -272,14 +269,11 @@
       "text": "4.7 beds/1,000 population (2017)"
     },
     "Sanitation facility access": {
-      "urban": {
-        "text": "unimproved: 0% of population"
+      "improved": {
+        "text": "urban: 100% of population / rural: 100% of population / total: 100% of population"
       },
-      "rural": {
-        "text": "0% of population"
-      },
-      "total": {
-        "text": "0% of population (2017 est.)"
+      "unimproved": {
+        "text": "urban: 0% of population / rural: 0% of population / total: 0% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -384,7 +378,7 @@
       }
     },
     "Administrative divisions": {
-      "text": "15 urban municipalities (linnad, singular - linn), 64 rural municipalities (vallad, singular vald) urban municipalities: Haapsalu, Keila, Kohtla-Jarve, Loksa, Maardu, Narva, Narva-Joesuu, Paide, Parnu, Rakvere, Sillamae, Tallinn, Tartu, Viljandi, Vorurural municipalities: Alutaguse, Anija, Antsla, Elva, Haademeeste, Haljala, Harku, Hiiumaa, Jarva, Joelahtme, Jogeva, Johvi, Kadrina, Kambja, Kanepi, Kastre, Kehtna, Kihnu, Kiili, Kohila, Kose, Kuusalu, Laane-Harju, Laane-Nigula, Laaneranna, Luganuse, Luunja, Marjamaa, Muhu, Mulgi, Mustvee, Noo, Otepaa, Peipsiaare, Pohja-Parnumaa, Pohja-Sakala, Poltsamaa, Polva, Raasiku, Rae, Rakvere, Räpina, Rapla, Rouge, Ruhnu, Saarde, Saaremaa, Saku, Saue, Setomaa, Tapa, Tartu, Toila, Tori, Torva, Turi, Vaike-Maarja, Valga, Viimsi, Viljandi, Vinni, Viru-Nigula, Vormsi, Voru"
+      "text": "15 urban municipalities (linnad, singular - linn), 64 rural municipalities (vallad, singular vald) ++ urban municipalities: Haapsalu, Keila, Kohtla-Jarve, Loksa, Maardu, Narva, Narva-Joesuu, Paide, Parnu, Rakvere, Sillamae, Tallinn, Tartu, Viljandi, Voru ++ rural municipalities: Alutaguse, Anija, Antsla, Elva, Haademeeste, Haljala, Harku, Hiiumaa, Jarva, Joelahtme, Jogeva, Johvi, Kadrina, Kambja, Kanepi, Kastre, Kehtna, Kihnu, Kiili, Kohila, Kose, Kuusalu, Laane-Harju, Laane-Nigula, Laaneranna, Luganuse, Luunja, Marjamaa, Muhu, Mulgi, Mustvee, Noo, Otepaa, Peipsiaare, Pohja-Parnumaa, Pohja-Sakala, Poltsamaa, Polva, Raasiku, Rae, Rakvere, Räpina, Rapla, Rouge, Ruhnu, Saarde, Saaremaa, Saku, Saue, Setomaa, Tapa, Tartu, Toila, Tori, Torva, Turi, Vaike-Maarja, Valga, Viimsi, Viljandi, Vinni, Viru-Nigula, Vormsi, Voru"
     },
     "Independence": {
       "text": "24 February 1918 (from Soviet Russia); 20 August 1991 (declared from the Soviet Union); 6 September 1991 (recognized by the Soviet Union)"
@@ -463,7 +457,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Center Party of Estonia (Keskerakond) or K [Juri RATAS]Estonia 200 [Kristina KALLAS]Estonian Conservative People's Party (Konservatiivne Rahvaerakond) or EKRE [Mart HELME]Estonian Reform Party (Reformierakond) or RE [Kaja KALLAS]Free Party or EV [Andres HERKEL]Pro Patria (Isamaa) [Helir-Valdor SEEDER]Social Democratic Party or SDE [Jevgeni OSSINOVSKI]"
+      "text": "Center Party of Estonia (Keskerakond) or K [Juri RATAS] ++ Estonia 200 [Kristina KALLAS] ++ Estonian Conservative People's Party (Konservatiivne Rahvaerakond) or EKRE [Mart HELME] ++ Estonian Reform Party (Reformierakond) or RE [Kaja KALLAS] ++ Free Party or EV [Andres HERKEL] ++ Pro Patria (Isamaa) [Helir-Valdor SEEDER] ++ Social Democratic Party or SDE [Jevgeni OSSINOVSKI]"
     },
     "International organization participation": {
       "text": "Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating state), EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NIB, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNTSO, UPU, WCO, WHO, WIPO, WMO, WTO"
@@ -522,7 +516,7 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Estonia, a member of the EU since 2004 and the euro zone since 2011, has a modern market-based economy and one of the higher per capita income levels in Central Europe and the Baltic region, but its economy is highly dependent on trade, leaving it vulnerable to external shocks. Estonia's successive governments have pursued a free market, pro-business economic agenda, and sound fiscal policies that have resulted in balanced budgets and the lowest debt-to-GDP ratio in the EU. The economy benefits from strong electronics and telecommunications sectors and strong trade ties with Finland, Sweden, Germany, and Russia. The economy’s 4.9% GDP growth in 2017 was the fastest in the past six years, leaving the Estonian economy in its best position since the financial crisis 10 years ago. For the first time in many years, labor productivity increased faster than labor costs in 2017. Inflation also rose in 2017 to 3.5% alongside increased global prices for food and energy, which make up a large share of Estonia’s consumption. Estonia is challenged by a shortage of labor, both skilled and unskilled, although the government has amended its immigration law to allow easier hiring of highly qualified foreign workers, and wage growth that outpaces productivity gains. The government is also pursuing efforts to boost productivity growth with a focus on innovations that emphasize technology start-ups and e-commerce."
+      "text": "Estonia, a member of the EU since 2004 and the euro zone since 2011, has a modern market-based economy and one of the higher per capita income levels in Central Europe and the Baltic region, but its economy is highly dependent on trade, leaving it vulnerable to external shocks. Estonia's successive governments have pursued a free market, pro-business economic agenda, and sound fiscal policies that have resulted in balanced budgets and the lowest debt-to-GDP ratio in the EU. ++ The economy benefits from strong electronics and telecommunications sectors and strong trade ties with Finland, Sweden, Germany, and Russia. The economy's 4.9% GDP growth in 2017 was the fastest in the past six years, leaving the Estonian economy in its best position since the financial crisis 10 years ago. For the first time in many years, labor productivity increased faster than labor costs in 2017. Inflation also rose in 2017 to 3.5% alongside increased global prices for food and energy, which make up a large share of Estonia's consumption. ++ Estonia is challenged by a shortage of labor, both skilled and unskilled, although the government has amended its immigration law to allow easier hiring of highly qualified foreign workers, and wage growth that outpaces productivity gains. The government is also pursuing efforts to boost productivity growth with a focus on innovations that emphasize technology start-ups and e-commerce."
     },
     "GDP (purchasing power parity)": {
       "text": "$41.65 billion (2017 est.) / $39.72 billion (2016 est.) / $38.92 billion (2015 est.)",

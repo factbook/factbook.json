@@ -258,14 +258,11 @@
       "text": "66.7% (2018)"
     },
     "Drinking water source": {
-      "urban": {
-        "text": "unimproved: 0% of population"
+      "improved": {
+        "text": "urban: 100% of population / rural: 100% of population / total: 100% of population"
       },
-      "rural": {
-        "text": "0% of population"
-      },
-      "total": {
-        "text": "0% of population (2017 est.)"
+      "unimproved": {
+        "text": "urban: 0% of population / rural: 0% of population / total: 0% of population (2017 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -278,14 +275,11 @@
       "text": "5.7 beds/1,000 population (2017)"
     },
     "Sanitation facility access": {
-      "urban": {
-        "text": "unimproved: 0% of population"
+      "improved": {
+        "text": "urban: 100% of population / rural: 100% of population / total: 100% of population"
       },
-      "rural": {
-        "text": "0% of population"
-      },
-      "total": {
-        "text": "0% of population (2017 est.)"
+      "unimproved": {
+        "text": "urban: 0% of population / rural: 0% of population / total: 0% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -423,13 +417,13 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral Parliament consists of:Senate or Senaat (in Dutch), Senat (in French) (60 seats; 50 members indirectly elected by the community and regional parliaments based on their election results, and 10 elected by the 50 other senators; members serve 5-year terms) Chamber of Representatives or Kamer van Volksvertegenwoordigers (in Dutch), Chambre des Representants (in French) (150 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)"
+        "text": "bicameral Parliament consists of: Senate or Senaat (in Dutch), Senat (in French) (60 seats; 50 members indirectly elected by the community and regional parliaments based on their election results, and 10 elected by the 50 other senators; members serve 5-year terms) ++ Chamber of Representatives or Kamer van Volksvertegenwoordigers (in Dutch), Chambre des Representants (in French) (150 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)"
       },
       "elections": {
         "text": "Senate - last held 26 May 2019 (next to be held in 2024) Chamber of Representatives - last held on 26 May 2019 (next to be held in 2024); note - elections coincided with the EU elections"
       },
       "election results": {
-        "text": "Senate - percent of vote by party - NA; seats by party - NA; composition men 32, women 28, percent of women 46.7%Chamber of Representatives - percent of vote by party - N-VA 16.0%, VB 11.9%, PS 9.5%, CD&V 8.9%, PVDA+/PTB 8.62%, Open VLD 8.5%, MR 7.6%, SP.A 6.7%, Ecolo 6.1%, Groen 6.1%, CDH 3.7%, Defi 2.2%, PP 1.1%, other 20.1%; seats by party - N-VA 25, VB 18, PS 20, CD&V 12, PVDA+PTB 12, Open VLD 12, MR 14, SP.A 9, Ecolo 13, Groen 8, CDH 5, Defi 2; composition - men 86, women 64, percent of women 42.7%"
+        "text": "Senate - percent of vote by party - NA; seats by party - NA; composition men 32, women 28, percent of women 46.7% ++ Chamber of Representatives - percent of vote by party - N-VA 16.0%, VB 11.9%, PS 9.5%, CD&V 8.9%, PVDA+/PTB 8.62%, Open VLD 8.5%, MR 7.6%, SP.A 6.7%, Ecolo 6.1%, Groen 6.1%, CDH 3.7%, Defi 2.2%, PP 1.1%, other 20.1%; seats by party - N-VA 25, VB 18, PS 20, CD&V 12, PVDA+PTB 12, Open VLD 12, MR 14, SP.A 9, Ecolo 13, Groen 8, CDH 5, Defi 2; composition - men 86, women 64, percent of women 42.7%"
       },
       "note": {
         "text": "note: the 1993 constitutional revision that further devolved Belgium into a federal state created three levels of government (federal, regional, and linguistic community) with a complex division of responsibilities; this reality leaves six governments, each with its own legislative assembly; changes above occurred since the sixth state reform"
@@ -447,7 +441,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Flemish parties: Christian Democratic and Flemish or CD&V [Wouter BEKE]Flemish Liberals and Democrats or Open VLD [Gwendolyn RUTTEN]Groen [Meyrem ALMACI] (formerly AGALEV, Flemish Greens)New Flemish Alliance or N-VA [Bart DE WEVER]Social Progressive Alternative or SP.A [John CROMBEZ]Vlaams Belang (Flemish Interest) or VB [Tom VAN GRIEKEN]Francophone parties: Ecolo (Francophone Greens) [Jean-Marc NOLLET, Zakia KHATTABI]Francophone Federalist Democrats or Defi [Olivier MAINGAIN]Humanist and Democratic Center or CDH [Maxine PREVOT]People's Party or PP [Mischael MODRIKAMEN]Reform Movement or MR [Charles MICHEL]Socialist Party or PS [Elio DI RUPO]Workers' Party or PTB [Peter MERTENS]other minor parties"
+      "text": "Flemish parties: ++ Christian Democratic and Flemish or CD&V [Wouter BEKE] ++ Flemish Liberals and Democrats or Open VLD [Gwendolyn RUTTEN] ++ Groen [Meyrem ALMACI] (formerly AGALEV, Flemish Greens) ++ New Flemish Alliance or N-VA [Bart DE WEVER] ++ Social Progressive Alternative or SP.A [John CROMBEZ] ++ Vlaams Belang (Flemish Interest) or VB [Tom VAN GRIEKEN] ++ Francophone parties: ++ Ecolo (Francophone Greens) [Jean-Marc NOLLET, Zakia KHATTABI] ++ Francophone Federalist Democrats or Defi [Olivier MAINGAIN] ++ Humanist and Democratic Center or CDH [Maxine PREVOT] ++ People's Party or PP [Mischael MODRIKAMEN] ++ Reform Movement or MR [Charles MICHEL] ++ Socialist Party or PS [Elio DI RUPO] ++ Workers' Party or PTB [Peter MERTENS] ++ other minor parties"
     },
     "International organization participation": {
       "text": "ADB (nonregional members), AfDB (nonregional members), Australia Group, Benelux, BIS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNRWA, UNTSO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC"
@@ -506,7 +500,7 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Belgium’s central geographic location and highly developed transport network have helped develop a well-diversified economy, with a broad mix of transport, services, manufacturing, and high tech. Service and high-tech industries are concentrated in the northern Flanders region while the southern region of Wallonia is home to industries like coal and steel manufacturing. Belgium is completely reliant on foreign sources of fossil fuels, and the planned closure of its seven nuclear plants by 2025 should increase its dependence on foreign energy. Its role as a regional logistical hub makes its economy vulnerable to shifts in foreign demand, particularly with EU trading partners. Roughly three-quarters of Belgium's trade is with other EU countries, and the port of Zeebrugge conducts almost half its trade with the United Kingdom alone, leaving Belgium’s economy vulnerable to the outcome of negotiations on the UK’s exit from the EU. Belgium’s GDP grew by 1.7% in 2017 and the budget deficit was 1.5% of GDP. Unemployment stood at 7.3%, however the unemployment rate is lower in Flanders than Wallonia, 4.4% compared to 9.4%, because of industrial differences between the regions. The economy largely recovered from the March 2016 terrorist attacks that mainly impacted the Brussels region tourist and hospitality industry. Prime Minister Charles MICHEL's center-right government has pledged to further reduce the deficit in response to EU pressure to decrease Belgium's high public debt of about 104% of GDP, but such efforts would also dampen economic growth. In addition to restrained public spending, low wage growth and higher inflation promise to curtail a more robust recovery in private consumption. The government has pledged to pursue a reform program to improve Belgium’s competitiveness, including changes to labor market rules and welfare benefits. These changes have generally made Belgian wages more competitive regionally, but have raised tensions with trade unions, which have called for extended strikes. In 2017, Belgium approved a tax reform plan to ease corporate rates from 33% to 29% by 2018 and down to 25% by 2020. The tax plan also included benefits for innovation and SMEs, intended to spur competitiveness and private investment."
+      "text": "Belgium's central geographic location and highly developed transport network have helped develop a well-diversified economy, with a broad mix of transport, services, manufacturing, and high tech. Service and high-tech industries are concentrated in the northern Flanders region while the southern region of Wallonia is home to industries like coal and steel manufacturing. Belgium is completely reliant on foreign sources of fossil fuels, and the planned closure of its seven nuclear plants by 2025 should increase its dependence on foreign energy. Its role as a regional logistical hub makes its economy vulnerable to shifts in foreign demand, particularly with EU trading partners. Roughly three-quarters of Belgium's trade is with other EU countries, and the port of Zeebrugge conducts almost half its trade with the United Kingdom alone, leaving Belgium's economy vulnerable to the outcome of negotiations on the UK's exit from the EU. ++ Belgium's GDP grew by 1.7% in 2017 and the budget deficit was 1.5% of GDP. Unemployment stood at 7.3%, however the unemployment rate is lower in Flanders than Wallonia, 4.4% compared to 9.4%, because of industrial differences between the regions. The economy largely recovered from the March 2016 terrorist attacks that mainly impacted the Brussels region tourist and hospitality industry. Prime Minister Charles MICHEL's center-right government has pledged to further reduce the deficit in response to EU pressure to decrease Belgium's high public debt of about 104% of GDP, but such efforts would also dampen economic growth. In addition to restrained public spending, low wage growth and higher inflation promise to curtail a more robust recovery in private consumption. ++ The government has pledged to pursue a reform program to improve Belgium's competitiveness, including changes to labor market rules and welfare benefits. These changes have generally made Belgian wages more competitive regionally, but have raised tensions with trade unions, which have called for extended strikes. In 2017, Belgium approved a tax reform plan to ease corporate rates from 33% to 29% by 2018 and down to 25% by 2020. The tax plan also included benefits for innovation and SMEs, intended to spur competitiveness and private investment."
     },
     "GDP (purchasing power parity)": {
       "text": "$529.2 billion (2017 est.) / $520.2 billion (2016 est.) / $513 billion (2015 est.)",

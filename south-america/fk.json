@@ -177,25 +177,19 @@
       "text": "NA"
     },
     "Drinking water source": {
-      "urban": {
-        "text": "unimproved: 0% of population"
+      "improved": {
+        "text": "urban: 100% of population / rural: 78.2% of population / total: 92% of population"
       },
-      "rural": {
-        "text": "21.8% of population"
-      },
-      "total": {
-        "text": "5% of population (2017 est.)"
+      "unimproved": {
+        "text": "urban: 0% of population / rural: 21.8% of population / total: 5% of population (2017 est.)"
       }
     },
     "Sanitation facility access": {
-      "urban": {
-        "text": "unimproved: 5% of population"
+      "improved": {
+        "text": "urban: 95% of population / rural: 78% of population / total: 100% of population"
       },
-      "rural": {
-        "text": "22% of population"
-      },
-      "total": {
-        "text": "0% of population (2017)"
+      "unimproved": {
+        "text": "urban: 5% of population / rural: 22% of population / total: 0% of population (2017)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -338,7 +332,7 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "The economy was formerly based on agriculture, mainly sheep farming, but fishing and tourism currently comprise the bulk of economic activity. In 1987, the government began selling fishing licenses to foreign trawlers operating within the Falkland Islands' exclusive fishing zone. These license fees net more than $40 million per year, which help support the island's health, education, and welfare system. The waters around the Falkland Islands are known for their squid, which account for around 75% of the annual 200,000-ton catch. Dairy farming supports domestic consumption; crops furnish winter fodder. Foreign exchange earnings come from shipments of high-grade wool to the UK and from the sale of postage stamps and coins. Tourism, especially ecotourism, is increasing rapidly, with about 69,000 visitors in 2009 and adds approximately $5.5 million to the Falkland’s annual GDP. The British military presence also provides a sizable economic boost. The islands are now self-financing except for defense. In 1993, the British Geological Survey announced a 200-mile oil exploration zone around the islands, and early seismic surveys suggest substantial reserves capable of producing 500,000 barrels per day. Political tensions between the UK and Argentina remain high following the start of oil drilling activities in the waters. In May 2010 the first commercial oil discovery was made, signaling the potential for the development of a long term hydrocarbon industry in the Falkland Islands."
+      "text": "The economy was formerly based on agriculture, mainly sheep farming, but fishing and tourism currently comprise the bulk of economic activity. In 1987, the government began selling fishing licenses to foreign trawlers operating within the Falkland Islands' exclusive fishing zone. These license fees net more than $40 million per year, which help support the island's health, education, and welfare system. The waters around the Falkland Islands are known for their squid, which account for around 75% of the annual 200,000-ton catch. ++ Dairy farming supports domestic consumption; crops furnish winter fodder. Foreign exchange earnings come from shipments of high-grade wool to the UK and from the sale of postage stamps and coins. ++ Tourism, especially ecotourism, is increasing rapidly, with about 69,000 visitors in 2009 and adds approximately $5.5 million to the Falkland's annual GDP. The British military presence also provides a sizable economic boost. The islands are now self-financing except for defense. ++ In 1993, the British Geological Survey announced a 200-mile oil exploration zone around the islands, and early seismic surveys suggest substantial reserves capable of producing 500,000 barrels per day. Political tensions between the UK and Argentina remain high following the start of oil drilling activities in the waters. In May 2010 the first commercial oil discovery was made, signaling the potential for the development of a long term hydrocarbon industry in the Falkland Islands."
     },
     "GDP (purchasing power parity)": {
       "text": "$206.4 million (2015 est.) / $164.5 million (2014 est.) / $167.5 million (2013 est.)"

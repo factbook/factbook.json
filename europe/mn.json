@@ -118,7 +118,7 @@
       }
     },
     "Ethnic groups": {
-      "text": "Monegasque 32.1%, French 19.9%, Italian 15.3%, British 5%, Belgian 2.3%, Swiss 2%, German 1.9%, Russian 1.8%, American 1.1%, Dutch 1.1%, Moroccan 1%, other 16.6%note: data represent population by country of birthFrench 24.9%, Monegasque 22.5%, Italian 21.9%, British 7.5%, Swiss 3.2%, Belgian 2.9%, German 2.4%, Russian 2%, Dutch 1.5%, Portuguese 1.4%, Greek 1.1%, American 1%, other 7.7%note: data represent population by nationality (2016 est.)"
+      "text": "Monegasque 32.1%, French 19.9%, Italian 15.3%, British 5%, Belgian 2.3%, Swiss 2%, German 1.9%, Russian 1.8%, American 1.1%, Dutch 1.1%, Moroccan 1%, other 16.6% ++ note: data represent population by country of birth ++ French 24.9%, Monegasque 22.5%, Italian 21.9%, British 7.5%, Swiss 3.2%, Belgian 2.9%, German 2.4%, Russian 2%, Dutch 1.5%, Portuguese 1.4%, Greek 1.1%, American 1%, other 7.7% ++ note: data represent population by nationality (2016 est.)"
     },
     "Languages": {
       "text": "French (official), English, Italian, Monegasque"
@@ -229,11 +229,11 @@
       "text": "1.55 children born/woman (2020 est.)"
     },
     "Drinking water source": {
-      "urban": {
-        "text": "unimproved: 0% of population"
+      "improved": {
+        "text": "urban: 100% of population / total: 100% of population"
       },
-      "total": {
-        "text": "0% of population (2017 est.)"
+      "unimproved": {
+        "text": "urban: 0% of population / total: 0% of population (2017 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -246,11 +246,11 @@
       "text": "13.8 beds/1,000 population (2012)"
     },
     "Sanitation facility access": {
-      "urban": {
-        "text": "unimproved: 0% of population"
+      "improved": {
+        "text": "urban: 100% of population / total: 100% of population"
       },
-      "total": {
-        "text": "0% of population (2017 est.)"
+      "unimproved": {
+        "text": "urban: 0% of population / total: 0% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -389,7 +389,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Horizon Monaco [Laurent NOUVION]Priorite Monaco [Stephane VALERI]Renaissance [SBM (public corporation)]Union Monegasque [Jean-Francois ROBILLON]"
+      "text": "Horizon Monaco [Laurent NOUVION] ++ Priorite Monaco [Stephane VALERI] ++ Renaissance [SBM (public corporation)] ++ Union Monegasque [Jean-Francois ROBILLON]"
     },
     "International organization participation": {
       "text": "CD, CE, FAO, IAEA, ICAO, ICC (national committees), ICRM, IFRCS, IHO, IMO, IMSO, Interpol, IOC, IPU, ITSO, ITU, OAS (observer), OIF, OPCW, OSCE, Schengen Convention (de facto member), UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WHO, WIPO, WMO"
@@ -437,7 +437,7 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Monaco, bordering France on the Mediterranean coast, is a popular resort, attracting tourists to its casino and pleasant climate. The principality also is a banking center and has successfully sought to diversify into services and small, high-value-added, nonpolluting industries. The state retains monopolies in a number of sectors, including tobacco, the telephone network, and the postal service. Living standards are high, roughly comparable to those in prosperous French metropolitan areas. The state has no income tax and low business taxes and thrives as a tax haven both for individuals who have established residence and for foreign companies that have set up businesses and offices. Monaco, however, is not a tax-free shelter; it charges nearly 20% value-added tax, collects stamp duties, and companies face a 33% tax on profits unless they can show that three-quarters of profits are generated within the principality. Monaco was formally removed from the OECD's \"grey list\" of uncooperative tax jurisdictions in late 2009, but continues to face international pressure to abandon its banking secrecy laws and help combat tax evasion. In October 2014, Monaco officially became the 84th jurisdiction participating in the OECD’s Multilateral Convention on Mutual Administrative Assistance in Tax Matters, an effort to combat offshore tax avoidance and evasion. Monaco's reliance on tourism and banking for its economic growth has left it vulnerable to downturns in France and other European economies which are the principality's main trade partners. In 2009, Monaco's GDP fell by 11.5% as the euro-zone crisis precipitated a sharp drop in tourism and retail activity and home sales. A modest recovery ensued in 2010 and intensified in 2013, with GDP growth of more than 9%, but Monaco's economic prospects remain uncertain."
+      "text": "Monaco, bordering France on the Mediterranean coast, is a popular resort, attracting tourists to its casino and pleasant climate. The principality also is a banking center and has successfully sought to diversify into services and small, high-value-added, nonpolluting industries. The state retains monopolies in a number of sectors, including tobacco, the telephone network, and the postal service. Living standards are high, roughly comparable to those in prosperous French metropolitan areas. ++ The state has no income tax and low business taxes and thrives as a tax haven both for individuals who have established residence and for foreign companies that have set up businesses and offices. Monaco, however, is not a tax-free shelter; it charges nearly 20% value-added tax, collects stamp duties, and companies face a 33% tax on profits unless they can show that three-quarters of profits are generated within the principality. Monaco was formally removed from the OECD's \"grey list\" of uncooperative tax jurisdictions in late 2009, but continues to face international pressure to abandon its banking secrecy laws and help combat tax evasion. In October 2014, Monaco officially became the 84th jurisdiction participating in the OECD's Multilateral Convention on Mutual Administrative Assistance in Tax Matters, an effort to combat offshore tax avoidance and evasion. ++ Monaco's reliance on tourism and banking for its economic growth has left it vulnerable to downturns in France and other European economies which are the principality's main trade partners. In 2009, Monaco's GDP fell by 11.5% as the euro-zone crisis precipitated a sharp drop in tourism and retail activity and home sales. A modest recovery ensued in 2010 and intensified in 2013, with GDP growth of more than 9%, but Monaco's economic prospects remain uncertain."
     },
     "GDP (purchasing power parity)": {
       "text": "$7.672 billion (2015 est.) / $7.279 billion (2014 est.) / $6.79 billion (2013 est.)",
@@ -627,7 +627,7 @@
   },
   "Military and Security": {
     "Military and security forces": {
-      "text": "no regular military forces; Ministry of Interior: Compagnie des Carabiniers du Prince (Prince’s Company of Carabiniers (Palace Guard)), Corps des Sapeurs-pompiers de Monaco (Fire and Emergency), Police Department (2019)"
+      "text": "no regular military forces; Ministry of Interior: Compagnie des Carabiniers du Prince (Prince's Company of Carabiniers (Palace Guard)), Corps des Sapeurs-pompiers de Monaco (Fire and Emergency), Police Department (2019)"
     },
     "Military - note": {
       "text": "defense is the responsibility of France"

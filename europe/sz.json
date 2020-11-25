@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "The Swiss Confederation was founded in 1291 as a defensive alliance among three cantons. In succeeding years, other localities joined the original three. The Swiss Confederation secured its independence from the Holy Roman Empire in 1499. A constitution of 1848, subsequently modified in 1874 to allow voters to introduce referenda on proposed laws, replaced the confederation with a centralized federal government. Switzerland's sovereignty and neutrality have long been honored by the major European powers, and the country was not involved in either of the two world wars. The political and economic integration of Europe over the past half century, as well as Switzerland's role in many UN and international organizations, has strengthened Switzerland's ties with its neighbors. However, the country did not officially become a UN member until 2002. Switzerland remains active in many UN and international organizations but retains a strong commitment to neutrality.  "
+      "text": "The Swiss Confederation was founded in 1291 as a defensive alliance among three cantons. In succeeding years, other localities joined the original three. The Swiss Confederation secured its independence from the Holy Roman Empire in 1499. A constitution of 1848, subsequently modified in 1874 to allow voters to introduce referenda on proposed laws, replaced the confederation with a centralized federal government. Switzerland's sovereignty and neutrality have long been honored by the major European powers, and the country was not involved in either of the two world wars. The political and economic integration of Europe over the past half century, as well as Switzerland's role in many UN and international organizations, has strengthened Switzerland's ties with its neighbors. However, the country did not officially become a UN member until 2002. Switzerland remains active in many UN and international organizations but retains a strong commitment to neutrality. ++  "
     }
   },
   "Geography": {
@@ -255,14 +255,11 @@
       "text": "71.6% (2017)"
     },
     "Drinking water source": {
-      "urban": {
-        "text": "unimproved: 0% of population"
+      "improved": {
+        "text": "urban: 100% of population / rural: 100% of population / total: 100% of population"
       },
-      "rural": {
-        "text": "0% of population"
-      },
-      "total": {
-        "text": "0% of population (2017 est.)"
+      "unimproved": {
+        "text": "urban: 0% of population / rural: 0% of population / total: 0% of population (2017 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -275,14 +272,11 @@
       "text": "4.7 beds/1,000 population (2017)"
     },
     "Sanitation facility access": {
-      "urban": {
-        "text": "unimproved: 0% of population"
+      "improved": {
+        "text": "urban: 100% of population / rural: 100% of population / total: 100% of population"
       },
-      "rural": {
-        "text": "0% of population"
-      },
-      "total": {
-        "text": "0% of population (2017 est.)"
+      "unimproved": {
+        "text": "urban: 0% of population / rural: 0% of population / total: 0% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -426,13 +420,13 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "description: bicameral Federal Assembly or Bundesversammlung (in German), Assemblée Fédérale (in French), Assemblea Federale (in Italian) consists of:Council of States or Ständerat (in German), Conseil des États (in French), Consiglio degli Stati (in Italian) (46 seats; members in multi-seat constituencies representing cantons and single-seat constituencies representing half cantons directly elected by simple majority vote except Jura and Neuchatel cantons which use proportional representation vote; member term governed by cantonal law)National Council or Nationalrat (in German), Conseil National (in French), Consiglio Nazionale (in Italian) (200 seats; 195 members in cantons directly elected by proportional representation vote and 6 in half cantons directly elected by simple majority vote; members serve 4-year terms) (e.g. 2019)"
+        "text": "description: bicameral Federal Assembly or Bundesversammlung (in German), Assemblée Fédérale (in French), Assemblea Federale (in Italian) consists of: Council of States or Ständerat (in German), Conseil des États (in French), Consiglio degli Stati (in Italian) (46 seats; members in multi-seat constituencies representing cantons and single-seat constituencies representing half cantons directly elected by simple majority vote except Jura and Neuchatel cantons which use proportional representation vote; member term governed by cantonal law) ++ National Council or Nationalrat (in German), Conseil National (in French), Consiglio Nazionale (in Italian) (200 seats; 195 members in cantons directly elected by proportional representation vote and 6 in half cantons directly elected by simple majority vote; members serve 4-year terms) (e.g. 2019)"
       },
       "elections": {
-        "text": "Council of States - last held in most cantons on 20 October 2019 (each canton determines when the next election will be held) National Council - last held on 20 October 2019 (next to be held in 2023) (e.g. 2019)"
+        "text": "Council of States - last held in most cantons on 20 October 2019 (each canton determines when the next election will be held) ++ National Council - last held on 20 October 2019 (next to be held in 2023) (e.g. 2019)"
       },
       "election results": {
-        "text": "Council of States - percent of vote by party - NA; seats by party - CVP 13, FDP 12, SDP 9, Green Party 5, other 1; composition - NA National Council - percent of vote by party - SVP 25.6%, SP 16.8%, FDP 15.1%, Green Party 13.2%, CVP 11.4%, GLP 7.8%, other 10.1%; seats by party - SVP 53, SP 39, FDP 29, Green Party 28, CVP 25, GLP 16, other 10; composition - men 116, women 84, percent of women 42% (e.g. 2019)"
+        "text": "Council of States - percent of vote by party - NA; seats by party - CVP 13, FDP 12, SDP 9, Green Party 5, other 1; composition - NA ++ National Council - percent of vote by party - SVP 25.6%, SP 16.8%, FDP 15.1%, Green Party 13.2%, CVP 11.4%, GLP 7.8%, other 10.1%; seats by party - SVP 53, SP 39, FDP 29, Green Party 28, CVP 25, GLP 16, other 10; composition - men 116, women 84, percent of women 42% (e.g. 2019)"
       }
     },
     "Judicial branch": {
@@ -447,7 +441,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Christian Democratic People's Party (Christlichdemokratische Volkspartei der Schweiz or CVP, Parti Democrate-Chretien Suisse or PDC, Partito Popolare Democratico Svizzero or PPD, Partida Cristiandemocratica dalla Svizra or PCD) [Gerhard PFISTER]Conservative Democratic Party (Buergerlich-Demokratische Partei Schweiz or BDP, Parti Bourgeois Democratique Suisse or PBD, Partito Borghese Democratico Svizzero or PBD, Partido burgais democratica Svizera or PBD) [Martin LANDOLT]Free Democratic Party or FDP.The Liberals (FDP.Die Liberalen, PLR.Les Liberaux-Radicaux, PLR.I Liberali, Ils Liberals) [Petra GOESSI]Green Liberal Party (Gruenliberale Partei or GLP, Parti vert liberale or PVL, Partito Verde-Liberale or PVL, Partida Verde Liberale or PVL) [Juerg GROSSEN]Green Party (Gruene Partei der Schweiz or Gruene, Parti Ecologiste Suisse or Les Verts, Partito Ecologista Svizzero or I Verdi, Partida Ecologica Svizra or La Verda) [Regula RYTZ]Social Democratic Party (Sozialdemokratische Partei der Schweiz or SP, Parti Socialiste Suisse or PSS, Partito Socialista Svizzero or PSS, Partida Socialdemocratica de la Svizra or PSS) [Christian LEVRAT]Swiss People's Party (Schweizerische Volkspartei or SVP, Union Democratique du Centre or UDC, Unione Democratica di Centro or UDC, Uniun Democratica dal Center or UDC) [Albert ROESTI]other minor parties"
+      "text": "Christian Democratic People's Party (Christlichdemokratische Volkspartei der Schweiz or CVP, Parti Democrate-Chretien Suisse or PDC, Partito Popolare Democratico Svizzero or PPD, Partida Cristiandemocratica dalla Svizra or PCD) [Gerhard PFISTER] ++ Conservative Democratic Party (Buergerlich-Demokratische Partei Schweiz or BDP, Parti Bourgeois Democratique Suisse or PBD, Partito Borghese Democratico Svizzero or PBD, Partido burgais democratica Svizera or PBD) [Martin LANDOLT] ++ Free Democratic Party or FDP.The Liberals (FDP.Die Liberalen, PLR.Les Liberaux-Radicaux, PLR.I Liberali, Ils Liberals) [Petra GOESSI] ++ Green Liberal Party (Gruenliberale Partei or GLP, Parti vert liberale or PVL, Partito Verde-Liberale or PVL, Partida Verde Liberale or PVL) [Juerg GROSSEN] ++ Green Party (Gruene Partei der Schweiz or Gruene, Parti Ecologiste Suisse or Les Verts, Partito Ecologista Svizzero or I Verdi, Partida Ecologica Svizra or La Verda) [Regula RYTZ] ++ Social Democratic Party (Sozialdemokratische Partei der Schweiz or SP, Parti Socialiste Suisse or PSS, Partito Socialista Svizzero or PSS, Partida Socialdemocratica de la Svizra or PSS) [Christian LEVRAT] ++ Swiss People's Party (Schweizerische Volkspartei or SVP, Union Democratique du Centre or UDC, Unione Democratica di Centro or UDC, Uniun Democratica dal Center or UDC) [Albert ROESTI] ++ other minor parties"
     },
     "International organization participation": {
       "text": "ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, CD, CE, CERN, EAPC, EBRD, EFTA, EITI (implementing country), ESA, FAO, FATF, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINUSMA, MONUSCO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNMISS, UNMOGIP, UNRWA, UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC"
@@ -501,7 +495,7 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Switzerland, a country that espouses neutrality, is a prosperous and modern market economy with low unemployment, a highly skilled labor force, and a per capita GDP among the highest in the world. Switzerland's economy benefits from a highly developed service sector, led by financial services, and a manufacturing industry that specializes in high-technology, knowledge-based production. Its economic and political stability, transparent legal system, exceptional infrastructure, efficient capital markets, and low corporate tax rates also make Switzerland one of the world's most competitive economies. The Swiss have brought their economic practices largely into conformity with the EU's to gain access to the Union’s Single Market and enhance the country’s international competitiveness. Some trade protectionism remains, however, particularly for its small agricultural sector. The fate of the Swiss economy is tightly linked to that of its neighbors in the euro zone, which purchases half of Swiss exports. The global financial crisis of 2008 and resulting economic downturn in 2009 stalled demand for Swiss exports and put Switzerland into a recession. During this period, the Swiss National Bank (SNB) implemented a zero-interest rate policy to boost the economy, as well as to prevent appreciation of the franc, and Switzerland's economy began to recover in 2010. The sovereign debt crises unfolding in neighboring euro-zone countries, however, coupled with economic instability in Russia and other Eastern European economies drove up demand for the Swiss franc by investors seeking a safehaven currency. In January 2015, the SNB abandoned the Swiss franc’s peg to the euro, roiling global currency markets and making active SNB intervention a necessary hallmark of present-day Swiss monetary policy. The independent SNB has upheld its zero interest rate policy and conducted major market interventions to prevent further appreciation of the Swiss franc, but parliamentarians have urged it to do more to weaken the currency. The franc's strength has made Swiss exports less competitive and weakened the country's growth outlook; GDP growth fell below 2% per year from 2011 through 2017. In recent years, Switzerland has responded to increasing pressure from neighboring countries and trading partners to reform its banking secrecy laws, by agreeing to conform to OECD regulations on administrative assistance in tax matters, including tax evasion. The Swiss Government has also renegotiated its double taxation agreements with numerous countries, including the US, to incorporate OECD standards."
+      "text": "Switzerland, a country that espouses neutrality, is a prosperous and modern market economy with low unemployment, a highly skilled labor force, and a per capita GDP among the highest in the world. Switzerland's economy benefits from a highly developed service sector, led by financial services, and a manufacturing industry that specializes in high-technology, knowledge-based production. Its economic and political stability, transparent legal system, exceptional infrastructure, efficient capital markets, and low corporate tax rates also make Switzerland one of the world's most competitive economies. ++ The Swiss have brought their economic practices largely into conformity with the EU's to gain access to the Union's Single Market and enhance the country's international competitiveness. Some trade protectionism remains, however, particularly for its small agricultural sector. The fate of the Swiss economy is tightly linked to that of its neighbors in the euro zone, which purchases half of Swiss exports. The global financial crisis of 2008 and resulting economic downturn in 2009 stalled demand for Swiss exports and put Switzerland into a recession. During this period, the Swiss National Bank (SNB) implemented a zero-interest rate policy to boost the economy, as well as to prevent appreciation of the franc, and Switzerland's economy began to recover in 2010. ++ The sovereign debt crises unfolding in neighboring euro-zone countries, however, coupled with economic instability in Russia and other Eastern European economies drove up demand for the Swiss franc by investors seeking a safehaven currency. In January 2015, the SNB abandoned the Swiss franc's peg to the euro, roiling global currency markets and making active SNB intervention a necessary hallmark of present-day Swiss monetary policy. The independent SNB has upheld its zero interest rate policy and conducted major market interventions to prevent further appreciation of the Swiss franc, but parliamentarians have urged it to do more to weaken the currency. The franc's strength has made Swiss exports less competitive and weakened the country's growth outlook; GDP growth fell below 2% per year from 2011 through 2017. ++ In recent years, Switzerland has responded to increasing pressure from neighboring countries and trading partners to reform its banking secrecy laws, by agreeing to conform to OECD regulations on administrative assistance in tax matters, including tax evasion. The Swiss Government has also renegotiated its double taxation agreements with numerous countries, including the US, to incorporate OECD standards."
     },
     "GDP (purchasing power parity)": {
       "text": "$523.1 billion (2017 est.) / $514.5 billion (2016 est.) / $506.5 billion (2015 est.)",
@@ -851,7 +845,7 @@
         "text": "1,630 km 1.200-m gauge (2 km electrified) (includes 19 km in neighboring countries) (2015)"
       },
       "note": {
-        "text": "1188 km 1.000-m gauge (1,167.3 km electrified)36 km 0.800-m gauge (36.4 km electrified)"
+        "text": "1188 km 1.000-m gauge (1,167.3 km electrified) ++ 36 km 0.800-m gauge (36.4 km electrified)"
       }
     },
     "Roadways": {

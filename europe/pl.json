@@ -258,14 +258,11 @@
       "text": "62.3% (2014)"
     },
     "Drinking water source": {
-      "urban": {
-        "text": "unimproved: 0% of population"
+      "improved": {
+        "text": "urban: 100% of population / rural: 100% of population / total: 100% of population"
       },
-      "rural": {
-        "text": "0% of population"
-      },
-      "total": {
-        "text": "0% of population (2017 est.)"
+      "unimproved": {
+        "text": "urban: 0% of population / rural: 0% of population / total: 0% of population (2017 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -278,14 +275,11 @@
       "text": "6.6 beds/1,000 population (2017)"
     },
     "Sanitation facility access": {
-      "urban": {
-        "text": "unimproved: 0.3% of population"
+      "improved": {
+        "text": "urban: 99.7% of population / rural: 100% of population / total: 99.8% of population"
       },
-      "rural": {
-        "text": "0% of population"
-      },
-      "total": {
-        "text": "0.2% of population (2017 est.)"
+      "unimproved": {
+        "text": "urban: 0.3% of population / rural: 0% of population / total: 0.2% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -448,13 +442,13 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral legislature consists of:Senate or Senat (100 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms) Sejm (460 seats; members elected in multi-seat constituencies by party-list proportional representation vote with 5% threshold of total votes needed for parties and 8% for coalitions to gain seats; minorities exempt from threshold; members serve 4-year terms)"
+        "text": "bicameral legislature consists of: Senate or Senat (100 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms) ++ Sejm (460 seats; members elected in multi-seat constituencies by party-list proportional representation vote with 5% threshold of total votes needed for parties and 8% for coalitions to gain seats; minorities exempt from threshold; members serve 4-year terms)"
       },
       "elections": {
-        "text": "Senate - last held on 13 October 2019 (next to be held in October 2023) Sejm - last held on 13 October 2019 (next to be held in October 2023)"
+        "text": "Senate - last held on 13 October 2019 (next to be held in October 2023) ++ Sejm - last held on 13 October 2019 (next to be held in October 2023)"
       },
       "election results": {
-        "text": "Senate - percent of vote by party - NA; seats by party - PiS 48, KO 43, PSL 3, SLD 2, independent 4; composition - men 87, women 13, percent of women 13% Sejm - percent of vote by party - PiS 43.6%, KO 27.4%, SLD 12.6%, PSL 8.5% Confederation 6.8%, other 1.1%; seats by party - PiS 235, KO 134, SLD 49, PSL 30, KWiN 11, MN 1; men 334, women 126, percent of women 27.4%; note - total legislature percent of women 24.8%"
+        "text": "Senate - percent of vote by party - NA; seats by party - PiS 48, KO 43, PSL 3, SLD 2, independent 4; composition - men 87, women 13, percent of women 13% ++ Sejm - percent of vote by party - PiS 43.6%, KO 27.4%, SLD 12.6%, PSL 8.5% Confederation 6.8%, other 1.1%; seats by party - PiS 235, KO 134, SLD 49, PSL 30, KWiN 11, MN 1; men 334, women 126, percent of women 27.4%; note - total legislature percent of women 24.8%"
       },
       "note": {
         "text": "note: the designation National Assembly or Zgromadzenie Narodowe is only used on those rare occasions when the 2 houses meet jointly"
@@ -472,7 +466,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Civic Coalition or KO [Grzegorz SCHETYNA]Confederation Liberty and Independence or KWiN [Janusz KORWIN-MIKKE, Robert WINNICKI, Grzegorz BRAUN]Democratic Left Alliance or SLD [Wlodzimierz CZARZASTY]German Minority or MN [Ryszard GALLA]Kukiz 15 or K15 [Pawel KUKIZ]Law and Justice or PiS [Jaroslaw KACZYNSKI]TERAZ! (NOW!) [Ryszard PETRU]Nowoczesna (Modern) or N [Katarzyna LUBNAUER]Polish People's Party or PSL [Wladyslaw KOSINIAK-KAMYSZ]Razem (Together) [collective leadership]Wiosna (Spring) [Robert BIEDRON]"
+      "text": "Civic Coalition or KO [Grzegorz SCHETYNA] ++ Confederation Liberty and Independence or KWiN [Janusz KORWIN-MIKKE, Robert WINNICKI, Grzegorz BRAUN] ++ Democratic Left Alliance or SLD [Wlodzimierz CZARZASTY] ++ German Minority or MN [Ryszard GALLA] ++ Kukiz 15 or K15 [Pawel KUKIZ] ++ Law and Justice or PiS [Jaroslaw KACZYNSKI] ++ TERAZ! (NOW!) [Ryszard PETRU] ++ Nowoczesna (Modern) or N [Katarzyna LUBNAUER] ++ Polish People's Party or PSL [Wladyslaw KOSINIAK-KAMYSZ] ++ Razem (Together) [collective leadership] ++ Wiosna (Spring) [Robert BIEDRON]"
     },
     "International organization participation": {
       "text": "Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNOCI, UN Security Council (temporary), UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
@@ -537,7 +531,7 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Poland has the sixth-largest economy in the EU and has long had a reputation as a business-friendly country with largely sound macroeconomic policies. Since 1990, Poland has pursued a policy of economic liberalization. During the 2008-09 economic slowdown Poland was the only EU country to avoid a recession, in part because of the government’s loose fiscal policy combined with a commitment to rein in spending in the medium-term Poland is the largest recipient of EU development funds and their cyclical allocation can significantly impact the rate of economic growth. The Polish economy performed well during the 2014-17 period, with the real GDP growth rate generally exceeding 3%, in part because of increases in government social spending that have helped to accelerate consumer-driven growth. However, since 2015, Poland has implemented new business restrictions and taxes on foreign-dominated economic sectors, including banking and insurance, energy, and healthcare, that have dampened investor sentiment and has increased the government’s ownership of some firms. The government reduced the retirement age in 2016 and has had mixed success in introducing new taxes and boosting tax compliance to offset the increased costs of social spending programs and relieve upward pressure on the budget deficit. Some credit ratings agencies estimate that Poland during the next few years is at risk of exceeding the EU’s 3%-of-GDP limit on budget deficits, possibly impacting its access to future EU funds. Poland’s economy is projected to perform well in the next few years in part because of an anticipated cyclical increase in the use of its EU development funds and continued, robust household spending. Poland faces several systemic challenges, which include addressing some of the remaining deficiencies in its road and rail infrastructure, business environment, rigid labor code, commercial court system, government red tape, and burdensome tax system, especially for entrepreneurs. Additional long-term challenges include diversifying Poland’s energy mix, strengthening investments in innovation, research, and development, as well as stemming the outflow of educated young Poles to other EU member states, especially in light of a coming demographic contraction due to emigration, persistently low fertility rates, and the aging of the Solidarity-era baby boom generation."
+      "text": "Poland has the sixth-largest economy in the EU and has long had a reputation as a business-friendly country with largely sound macroeconomic policies. Since 1990, Poland has pursued a policy of economic liberalization. During the 2008-09 economic slowdown Poland was the only EU country to avoid a recession, in part because of the government's loose fiscal policy combined with a commitment to rein in spending in the medium-term Poland is the largest recipient of EU development funds and their cyclical allocation can significantly impact the rate of economic growth. ++ The Polish economy performed well during the 2014-17 period, with the real GDP growth rate generally exceeding 3%, in part because of increases in government social spending that have helped to accelerate consumer-driven growth. However, since 2015, Poland has implemented new business restrictions and taxes on foreign-dominated economic sectors, including banking and insurance, energy, and healthcare, that have dampened investor sentiment and has increased the government's ownership of some firms. The government reduced the retirement age in 2016 and has had mixed success in introducing new taxes and boosting tax compliance to offset the increased costs of social spending programs and relieve upward pressure on the budget deficit. Some credit ratings agencies estimate that Poland during the next few years is at risk of exceeding the EU's 3%-of-GDP limit on budget deficits, possibly impacting its access to future EU funds. Poland's economy is projected to perform well in the next few years in part because of an anticipated cyclical increase in the use of its EU development funds and continued, robust household spending. ++ Poland faces several systemic challenges, which include addressing some of the remaining deficiencies in its road and rail infrastructure, business environment, rigid labor code, commercial court system, government red tape, and burdensome tax system, especially for entrepreneurs. Additional long-term challenges include diversifying Poland's energy mix, strengthening investments in innovation, research, and development, as well as stemming the outflow of educated young Poles to other EU member states, especially in light of a coming demographic contraction due to emigration, persistently low fertility rates, and the aging of the Solidarity-era baby boom generation."
     },
     "GDP (purchasing power parity)": {
       "text": "$1.126 trillion (2017 est.) / $1.076 trillion (2016 est.) / $1.045 trillion (2015 est.)",

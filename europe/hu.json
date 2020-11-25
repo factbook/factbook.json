@@ -249,14 +249,11 @@
       "text": "1.47 children born/woman (2020 est.)"
     },
     "Drinking water source": {
-      "urban": {
-        "text": "unimproved: 0% of population"
+      "improved": {
+        "text": "urban: 100% of population / rural: 100% of population / total: 100% of population"
       },
-      "rural": {
-        "text": "0% of population"
-      },
-      "total": {
-        "text": "0% of population (2017 est.)"
+      "unimproved": {
+        "text": "urban: 0% of population / rural: 0% of population / total: 0% of population (2017 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -269,14 +266,11 @@
       "text": "7 beds/1,000 population (2017)"
     },
     "Sanitation facility access": {
-      "urban": {
-        "text": "unimproved: 0% of population"
+      "improved": {
+        "text": "urban: 100% of population / rural: 100% of population / total: 100% of population"
       },
-      "rural": {
-        "text": "0% of population"
-      },
-      "total": {
-        "text": "0% of population (2017 est.)"
+      "unimproved": {
+        "text": "urban: 0% of population / rural: 0% of population / total: 0% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -381,7 +375,7 @@
       }
     },
     "Administrative divisions": {
-      "text": "19 counties (megyek, singular - megye), 23 cities with county rights (megyei jogu varosok, singular - megyei jogu varos), and 1 capital city (fovaros) counties: Bacs-Kiskun, Baranya, Bekes, Borsod-Abauj-Zemplen, Csongrad, Fejer, Gyor-Moson-Sopron, Hajdu-Bihar, Heves, Jasz-Nagykun-Szolnok, Komarom-Esztergom, Nograd, Pest, Somogy, Szabolcs-Szatmar-Bereg, Tolna, Vas, Veszprem, Zala cities with county rights: Bekescsaba, Debrecen, Dunaujvaros, Eger, Erd, Gyor, Hodmezovasarhely, Kaposvar, Kecskemet, Miskolc, Nagykanizsa, Nyiregyhaza, Pecs, Salgotarjan, Sopron, Szeged, Szekesfehervar, Szekszard, Szolnok, Szombathely, Tatabanya, Veszprem, Zalaegerszeg capital city: Budapest"
+      "text": "19 counties (megyek, singular - megye), 23 cities with county rights (megyei jogu varosok, singular - megyei jogu varos), and 1 capital city (fovaros) ++ counties: Bacs-Kiskun, Baranya, Bekes, Borsod-Abauj-Zemplen, Csongrad, Fejer, Gyor-Moson-Sopron, Hajdu-Bihar, Heves, Jasz-Nagykun-Szolnok, Komarom-Esztergom, Nograd, Pest, Somogy, Szabolcs-Szatmar-Bereg, Tolna, Vas, Veszprem, Zala ++ cities with county rights: Bekescsaba, Debrecen, Dunaujvaros, Eger, Erd, Gyor, Hodmezovasarhely, Kaposvar, Kecskemet, Miskolc, Nagykanizsa, Nyiregyhaza, Pecs, Salgotarjan, Sopron, Szeged, Szekesfehervar, Szekszard, Szolnok, Szombathely, Tatabanya, Veszprem, Zalaegerszeg ++ capital city: Budapest"
     },
     "Independence": {
       "text": "16 November 1918 (republic proclaimed); notable earlier dates: 25 December 1000 (crowning of King STEPHEN I, traditional founding date); 30 March 1867 (Austro-Hungarian dual monarchy established)"
@@ -460,7 +454,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Christian Democratic People's Party or KDNP [Zsolt SEMJEN]Democratic Coalition or DK [Ferenc GYURCSANY]Dialogue for Hungary (Parbeszed) or PM [Gergely KARACSONY, Timea SZABO]Fidesz-Hungarian Civic Alliance or Fidesz [Viktor ORBAN]Hungarian Socialist Party or MSZP [Bertalan TOTH]Momentum Movement (Momentum Mozgalom) [Andras FEKETE-GYOR]Movement for a Better Hungary or Jobbik [Tamas SNEIDER]National Self-Government of Germans in Hungary or LdU [Olivia SCHUBERT]Politics Can Be Different or LMP [Marta DEMETER, Laszlo LORANT-KERESZTES]Together (Egyutt)"
+      "text": "Christian Democratic People's Party or KDNP [Zsolt SEMJEN] ++ Democratic Coalition or DK [Ferenc GYURCSANY] ++ Dialogue for Hungary (Parbeszed) or PM [Gergely KARACSONY, Timea SZABO] ++ Fidesz-Hungarian Civic Alliance or Fidesz [Viktor ORBAN] ++ Hungarian Socialist Party or MSZP [Bertalan TOTH] ++ Momentum Movement (Momentum Mozgalom) [Andras FEKETE-GYOR] ++ Movement for a Better Hungary or Jobbik [Tamas SNEIDER] ++ National Self-Government of Germans in Hungary or LdU [Olivia SCHUBERT] ++ Politics Can Be Different or LMP [Marta DEMETER, Laszlo LORANT-KERESZTES] ++ Together (Egyutt)"
     },
     "International organization participation": {
       "text": "Australia Group, BIS, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA (cooperating state), EU, FAO, G-9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
@@ -519,7 +513,7 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Hungary has transitioned from a centrally planned to a market-driven economy with a per capita income approximately two thirds of the EU-28 average; however, in recent years the government has become more involved in managing the economy. Budapest has implemented unorthodox economic policies to boost household consumption and has relied on EU-funded development projects to generate growth.   Following the fall of communism in 1990, Hungary experienced a drop-off in exports and financial assistance from the former Soviet Union. Hungary embarked on a series of economic reforms, including privatization of state-owned enterprises and reduction of social spending programs, to shift from a centrally planned to a market-driven economy, and to reorient its economy towards trade with the West. These efforts helped to spur growth, attract investment, and reduce Hungary’s debt burden and fiscal deficits. Despite these reforms, living conditions for the average Hungarian initially deteriorated as inflation increased and unemployment reached double digits. Conditions slowly improved over the 1990s as the reforms came to fruition and export growth accelerated. Economic policies instituted during that decade helped position Hungary to join the European Union in 2004. Hungary has not yet joined the euro-zone. Hungary suffered a historic economic contraction as a result of the global economic slowdown in 2008-09 as export demand and domestic consumption dropped, prompting it to take an IMF-EU financial assistance package.   Since 2010, the government has backpedaled on many economic reforms and taken a more populist approach towards economic management. The government has favored national industries and government-linked businesses through legislation, regulation, and public procurements. In 2011 and 2014, Hungary nationalized private pension funds, which squeezed financial service providers out of the system, but also helped Hungary curb its public debt and lower its budget deficit to below 3% of GDP, as subsequent pension contributions have been channeled into the state-managed pension fund. Hungary’s public debt (at 74.5% of GDP) is still high compared to EU peers in Central Europe. Real GDP growth has been robust in the past few years due to increased EU funding, higher EU demand for Hungarian exports, and a rebound in domestic household consumption. To further boost household consumption ahead of the 2018 election, the government embarked on a six-year phased increase to minimum wages and public sector salaries, decreased taxes on foodstuffs and services, cut the personal income tax from 16% to 15%, and implemented a uniform 9% business tax for small and medium-sized enterprises and large companies. Real GDP growth slowed in 2016 due to a cyclical decrease in EU funding, but increased to 3.8% in 2017 as the government pre-financed EU funded projects ahead of the 2018 election.   Systemic economic challenges include pervasive corruption, labor shortages driven by demographic declines and migration, widespread poverty in rural areas, vulnerabilities to changes in demand for exports, and a heavy reliance on Russian energy imports."
+      "text": "Hungary has transitioned from a centrally planned to a market-driven economy with a per capita income approximately two thirds of the EU-28 average; however, in recent years the government has become more involved in managing the economy. Budapest has implemented unorthodox economic policies to boost household consumption and has relied on EU-funded development projects to generate growth. ++   ++ Following the fall of communism in 1990, Hungary experienced a drop-off in exports and financial assistance from the former Soviet Union. Hungary embarked on a series of economic reforms, including privatization of state-owned enterprises and reduction of social spending programs, to shift from a centrally planned to a market-driven economy, and to reorient its economy towards trade with the West. These efforts helped to spur growth, attract investment, and reduce Hungary's debt burden and fiscal deficits. Despite these reforms, living conditions for the average Hungarian initially deteriorated as inflation increased and unemployment reached double digits. Conditions slowly improved over the 1990s as the reforms came to fruition and export growth accelerated. Economic policies instituted during that decade helped position Hungary to join the European Union in 2004. Hungary has not yet joined the euro-zone. Hungary suffered a historic economic contraction as a result of the global economic slowdown in 2008-09 as export demand and domestic consumption dropped, prompting it to take an IMF-EU financial assistance package. ++   ++ Since 2010, the government has backpedaled on many economic reforms and taken a more populist approach towards economic management. The government has favored national industries and government-linked businesses through legislation, regulation, and public procurements. In 2011 and 2014, Hungary nationalized private pension funds, which squeezed financial service providers out of the system, but also helped Hungary curb its public debt and lower its budget deficit to below 3% of GDP, as subsequent pension contributions have been channeled into the state-managed pension fund. Hungary's public debt (at 74.5% of GDP) is still high compared to EU peers in Central Europe. Real GDP growth has been robust in the past few years due to increased EU funding, higher EU demand for Hungarian exports, and a rebound in domestic household consumption. To further boost household consumption ahead of the 2018 election, the government embarked on a six-year phased increase to minimum wages and public sector salaries, decreased taxes on foodstuffs and services, cut the personal income tax from 16% to 15%, and implemented a uniform 9% business tax for small and medium-sized enterprises and large companies. Real GDP growth slowed in 2016 due to a cyclical decrease in EU funding, but increased to 3.8% in 2017 as the government pre-financed EU funded projects ahead of the 2018 election. ++   ++ Systemic economic challenges include pervasive corruption, labor shortages driven by demographic declines and migration, widespread poverty in rural areas, vulnerabilities to changes in demand for exports, and a heavy reliance on Russian energy imports."
     },
     "GDP (purchasing power parity)": {
       "text": "$289.6 billion (2017 est.) / $278.5 billion (2016 est.) / $272.5 billion (2015 est.)",

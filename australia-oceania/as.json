@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "Prehistoric settlers arrived on the continent from Southeast Asia at least 40,000 years before the first Europeans began exploration in the 17th century. No formal territorial claims were made until 1770, when Capt. James COOK took possession of the east coast in the name of Great Britain (all of Australia was claimed as British territory in 1829 with the creation of the colony of Western Australia). Six colonies were created in the late 18th and 19th centuries; they federated and became the Commonwealth of Australia in 1901. The new country took advantage of its natural resources to rapidly develop agricultural and manufacturing industries and to make a major contribution to the Allied effort in World Wars I and II. In recent decades, Australia has become an internationally competitive, advanced market economy due in large part to economic reforms adopted in the 1980s and its location in one of the fastest growing regions of the world economy. Long-term concerns include an aging population, pressure on infrastructure, and environmental issues such as floods, droughts, and bushfires. Australia is the driest inhabited continent on earth, making it particularly vulnerable to the challenges of climate change. Australia is home to 10% of the world's biodiversity, and a great number of its flora and fauna exist nowhere else in the world."
+      "text": "Prehistoric settlers arrived on the continent from Southeast Asia at least 40,000 years before the first Europeans began exploration in the 17th century. No formal territorial claims were made until 1770, when Capt. James COOK took possession of the east coast in the name of Great Britain (all of Australia was claimed as British territory in 1829 with the creation of the colony of Western Australia). Six colonies were created in the late 18th and 19th centuries; they federated and became the Commonwealth of Australia in 1901. The new country took advantage of its natural resources to rapidly develop agricultural and manufacturing industries and to make a major contribution to the Allied effort in World Wars I and II. ++ In recent decades, Australia has become an internationally competitive, advanced market economy due in large part to economic reforms adopted in the 1980s and its location in one of the fastest growing regions of the world economy. Long-term concerns include an aging population, pressure on infrastructure, and environmental issues such as floods, droughts, and bushfires. Australia is the driest inhabited continent on earth, making it particularly vulnerable to the challenges of climate change. Australia is home to 10% of the world's biodiversity, and a great number of its flora and fauna exist nowhere else in the world."
     }
   },
   "Geography": {
@@ -92,7 +92,7 @@
       "text": "population is primarily located on the periphery, with the highest concentration of people residing in the east and southeast; a secondary population center is located in and around Perth in the west; of the States and Territories, New South Wales has, by far, the largest population; the interior, or \"outback\", has a very sparse population"
     },
     "Natural hazards": {
-      "text": "cyclones along the coast; severe droughts; forest fires\nvolcanism: volcanic activity on Heard and McDonald Islands"
+      "text": "cyclones along the coast; severe droughts; forest fires ++ volcanism: volcanic activity on Heard and McDonald Islands"
     },
     "Environment - current issues": {
       "text": "soil erosion from overgrazing, deforestation, industrial development, urbanization, and poor farming practices; limited natural freshwater resources; soil salinity rising due to the use of poor quality water; drought, desertification; clearing for agricultural purposes threatens the natural habitat of many unique animal and plant species; disruption of the fragile ecosystem has resulted in significant floral extinctions; the Great Barrier Reef off the northeast coast, the largest coral reef in the world, is threatened by increased shipping and its popularity as a tourist site; overfishing, pollution, and invasive species are also problems"
@@ -107,7 +107,7 @@
     },
     "Geography - note": {
       "note": {
-        "text": "note 1: world's smallest continent but sixth-largest country; the largest country in Oceania, the largest country entirely in the Southern Hemisphere, and the largest country without land borders; the only continent without glaciers; the invigorating sea breeze known as the \"Fremantle Doctor\" affects the city of Perth on the west coast and is one of the most consistent winds in the worldnote 2: the Great Dividing Range that runs along eastern Australia is that continent’s longest mountain range and the third-longest land-based range in the world; the term \"Great Dividing Range\" refers to the fact that the mountains form a watershed crest from which all of the rivers of eastern Australia flow – east, west, north, and south"
+        "text": "note 1: world's smallest continent but sixth-largest country; the largest country in Oceania, the largest country entirely in the Southern Hemisphere, and the largest country without land borders; the only continent without glaciers; the invigorating sea breeze known as the \"Fremantle Doctor\" affects the city of Perth on the west coast and is one of the most consistent winds in the world ++ note 2: the Great Dividing Range that runs along eastern Australia is that continent's longest mountain range and the third-longest land-based range in the world; the term \"Great Dividing Range\" refers to the fact that the mountains form a watershed crest from which all of the rivers of eastern Australia flow – east, west, north, and south"
       }
     }
   },
@@ -270,14 +270,11 @@
       }
     },
     "Drinking water source": {
-      "urban": {
-        "text": "unimproved: 0% of population"
+      "improved": {
+        "text": "urban: 100% of population / rural: 100% of population / total: 100% of population"
       },
-      "rural": {
-        "text": "0% of population"
-      },
-      "total": {
-        "text": "0% of population (2017 est.)"
+      "unimproved": {
+        "text": "urban: 0% of population / rural: 0% of population / total: 0% of population (2017 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -290,8 +287,11 @@
       "text": "3.8 beds/1,000 population (2016)"
     },
     "Sanitation facility access": {
-      "total": {
-        "text": "unimproved: 0% of population (2017 est.)"
+      "improved": {
+        "text": "total: 100% of population"
+      },
+      "unimproved": {
+        "text": "total: 0% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -361,7 +361,7 @@
         "text": "+1hr, begins first Sunday in October; ends first Sunday in April"
       },
       "note": {
-        "text": "note: Australia has four time zones, including Lord Howe Island (UTC+10:30)etymolgy: the name is claimed to derive from either Kambera or Camberry, which are names corrupted from the original native designation for the area \"Nganbra\" or \"Nganbira\""
+        "text": "note: Australia has four time zones, including Lord Howe Island (UTC+10:30) ++ etymolgy: the name is claimed to derive from either Kambera or Camberry, which are names corrupted from the original native designation for the area \"Nganbra\" or \"Nganbira\" ++ ++"
       }
     },
     "Administrative divisions": {
@@ -381,7 +381,7 @@
         "text": "approved in a series of referenda from 1898 through 1900 and became law 9 July 1900, effective 1 January 1901"
       },
       "amendments": {
-        "text": "proposed by Parliament; passage requires approval of a referendum bill by absolute majority vote in both houses of Parliament, approval in a referendum by a majority of voters in at least four states and in the territories, and Royal Assent; proposals that would reduce a state’s representation in either house or change a state’s boundaries require that state’s approval prior to Royal Assent; amended several times, last in 1977"
+        "text": "proposed by Parliament; passage requires approval of a referendum bill by absolute majority vote in both houses of Parliament, approval in a referendum by a majority of voters in at least four states and in the territories, and Royal Assent; proposals that would reduce a state's representation in either house or change a state's boundaries require that state's approval prior to Royal Assent; amended several times, last in 1977"
       }
     },
     "Legal system": {
@@ -423,13 +423,13 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral Federal Parliament consists of:Senate (76 seats; 12 members from each of the 6 states and 2 each from the 2 mainland territories; members directly elected in multi-seat constituencies by proportional representation vote; members serve 6-year terms with one-half of state membership renewed every 3 years and territory membership renewed every 3 years)House of Representatives (151 seats; members directly elected in single-seat constituencies by majority preferential vote; members serve terms of up to 3 years)"
+        "text": "bicameral Federal Parliament consists of: Senate (76 seats; 12 members from each of the 6 states and 2 each from the 2 mainland territories; members directly elected in multi-seat constituencies by proportional representation vote; members serve 6-year terms with one-half of state membership renewed every 3 years and territory membership renewed every 3 years) ++ House of Representatives (151 seats; members directly elected in single-seat constituencies by majority preferential vote; members serve terms of up to 3 years)"
       },
       "elections": {
-        "text": "Senate - last held on 18 May 2019 (next to be held in 2022)House of Representatives - last held on 18 May 2019 (next to be held in 2022)"
+        "text": "Senate - last held on 18 May 2019 (next to be held in 2022) ++ House of Representatives - last held on 18 May 2019 (next to be held in 2022)"
       },
       "election results": {
-        "text": "Senate - percent of vote by party - Liberal/National coalition 37.99%, ALP 28.79%, The Greens 10.19%, One Nation 5.4%, Centre Alliance .19%, Lambie Network .21%, other 17.23%; seats by party - Liberal/National coalition 35, ALP 26, The Greens 9, One Nation 2, Centre Alliance 2, Lambie Network 1, independents 1House of Representatives - percent of vote by party - Liberal/National coalition 41.4%, ALP 33.3%, The Greens 10.4%, Katter's Australian Party .49%, Centre Alliance .33%, independents 3.37%, other 10.63%; seats by party - Liberal/National Coalition 77, ALP 68, The Greens 1, Katter's Australian Party 1, Centre Alliance 1, independent 3"
+        "text": "Senate - percent of vote by party - Liberal/National coalition 37.99%, ALP 28.79%, The Greens 10.19%, One Nation 5.4%, Centre Alliance .19%, Lambie Network .21%, other 17.23%; seats by party - Liberal/National coalition 35, ALP 26, The Greens 9, One Nation 2, Centre Alliance 2, Lambie Network 1, independents 1 ++ House of Representatives - percent of vote by party - Liberal/National coalition 41.4%, ALP 33.3%, The Greens 10.4%, Katter's Australian Party .49%, Centre Alliance .33%, independents 3.37%, other 10.63%; seats by party - Liberal/National Coalition 77, ALP 68, The Greens 1, Katter's Australian Party 1, Centre Alliance 1, independent 3"
       }
     },
     "Judicial branch": {
@@ -444,7 +444,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Australian Greens Party [Adam BANDT]Australian Labor Party or ALP [Anthony ALBANESE]Country Liberal Party or CLP [Gary HIGGINS]Liberal National Party of Queensland or LNP [Deborah FRECKLINGTON]Liberal Party of Australia [Scott MORRISON]The Nationals [Michael MCCORMACK]Centre Alliance [Nick XENOPHON] Pauline Hanson’s One Nation [Pauline HANSON]"
+      "text": "Australian Greens Party [Adam BANDT] ++ Australian Labor Party or ALP [Anthony ALBANESE] ++ Country Liberal Party or CLP [Gary HIGGINS] ++ Liberal National Party of Queensland or LNP [Deborah FRECKLINGTON] ++ Liberal Party of Australia [Scott MORRISON] ++ The Nationals [Michael MCCORMACK] ++ Centre Alliance [Nick XENOPHON] ++ Pauline Hanson's One Nation [Pauline HANSON]"
     },
     "International organization participation": {
       "text": "ADB, ANZUS, APEC, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CP, EAS, EBRD, EITI (implementing country), FAO, FATF, G-20, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NEA, NSG, OECD, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, PIF, SAARC (observer), SICA (observer), Sparteca, SPC, UN, UNCTAD, UNESCO, UNHCR, UNMISS, UNMIT, UNRWA, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
@@ -506,7 +506,7 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Australia is an open market with minimal restrictions on imports of goods and services. The process of opening up has increased productivity, stimulated growth, and made the economy more flexible and dynamic. Australia plays an active role in the WTO, APEC, the G20, and other trade forums. Australia’s free trade agreement (FTA) with China entered into force in 2015, adding to existing FTAs with the Republic of Korea, Japan, Chile, Malaysia, New Zealand, Singapore, Thailand, and the US, and a regional FTA with ASEAN and New Zealand. Australia continues to negotiate bilateral agreements with Indonesia, as well as larger agreements with its Pacific neighbors and the Gulf Cooperation Council countries, and an Asia-wide Regional Comprehensive Economic Partnership that includes the 10 ASEAN countries and China, Japan, Korea, New Zealand, and India. Australia is a significant exporter of natural resources, energy, and food. Australia's abundant and diverse natural resources attract high levels of foreign investment and include extensive reserves of coal, iron, copper, gold, natural gas, uranium, and renewable energy sources. A series of major investments, such as the US$40 billion Gorgon Liquid Natural Gas Project, will significantly expand the resources sector. For nearly two decades up till 2017, Australia had benefited from a dramatic surge in its terms of trade. As export prices increased faster than import prices, the economy experienced continuous growth, low unemployment, contained inflation, very low public debt, and a strong and stable financial system. Australia entered 2018 facing a range of growth constraints, principally driven by the sharp fall in global prices of key export commodities. Demand for resources and energy from Asia and especially China is growing at a slower pace and sharp drops in export prices have impacted growth."
+      "text": "Australia is an open market with minimal restrictions on imports of goods and services. The process of opening up has increased productivity, stimulated growth, and made the economy more flexible and dynamic. Australia plays an active role in the WTO, APEC, the G20, and other trade forums. Australia's free trade agreement (FTA) with China entered into force in 2015, adding to existing FTAs with the Republic of Korea, Japan, Chile, Malaysia, New Zealand, Singapore, Thailand, and the US, and a regional FTA with ASEAN and New Zealand. Australia continues to negotiate bilateral agreements with Indonesia, as well as larger agreements with its Pacific neighbors and the Gulf Cooperation Council countries, and an Asia-wide Regional Comprehensive Economic Partnership that includes the 10 ASEAN countries and China, Japan, Korea, New Zealand, and India. ++ Australia is a significant exporter of natural resources, energy, and food. Australia's abundant and diverse natural resources attract high levels of foreign investment and include extensive reserves of coal, iron, copper, gold, natural gas, uranium, and renewable energy sources. A series of major investments, such as the US$40 billion Gorgon Liquid Natural Gas Project, will significantly expand the resources sector. ++ For nearly two decades up till 2017, Australia had benefited from a dramatic surge in its terms of trade. As export prices increased faster than import prices, the economy experienced continuous growth, low unemployment, contained inflation, very low public debt, and a strong and stable financial system. Australia entered 2018 facing a range of growth constraints, principally driven by the sharp fall in global prices of key export commodities. Demand for resources and energy from Asia and especially China is growing at a slower pace and sharp drops in export prices have impacted growth."
     },
     "GDP (purchasing power parity)": {
       "text": "$1.248 trillion (2017 est.) / $1.221 trillion (2016 est.) / $1.19 trillion (2015 est.)",

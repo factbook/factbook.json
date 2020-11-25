@@ -109,7 +109,7 @@
     },
     "Geography - note": {
       "note": {
-        "text": "note 1: extending 1,650 km north to south, the country is only 50 km across at its narrowest point note 2: Son Doong in Phong Nha-Ke Bang National Park is the world's largest cave (greatest cross sectional area) and is the largest known cave passage in the world by volume; it currently measures a total of 38.5 million cu m (about 1.35 billion cu ft); it connects to Thung cave (but not yet officially); when recognized, it will add an additional 1.6 million cu m in volume; Son Doong is so massive that it contains its own jungle, underground river, and localized weather system; clouds form inside the cave and spew out from its exits and two dolines (openings (sinkhole skylights) created by collapsed ceilings that allow sunlight to stream in)"
+        "text": "note 1: extending 1,650 km north to south, the country is only 50 km across at its narrowest point ++ note 2: Son Doong in Phong Nha-Ke Bang National Park is the world's largest cave (greatest cross sectional area) and is the largest known cave passage in the world by volume; it currently measures a total of 38.5 million cu m (about 1.35 billion cu ft); it connects to Thung cave (but not yet officially); when recognized, it will add an additional 1.6 million cu m in volume; Son Doong is so massive that it contains its own jungle, underground river, and localized weather system; clouds form inside the cave and spew out from its exits and two dolines (openings (sinkhole skylights) created by collapsed ceilings that allow sunlight to stream in) ++ ++"
       }
     }
   },
@@ -260,14 +260,11 @@
       "text": "77.5% (2016)"
     },
     "Drinking water source": {
-      "urban": {
-        "text": "unimproved: 1.4% of population"
+      "improved": {
+        "text": "urban: 98.6% of population / rural: 92.6% of population / total: 94.7% of population"
       },
-      "rural": {
-        "text": "7.4% of population"
-      },
-      "total": {
-        "text": "5.3% of population (2017 est.)"
+      "unimproved": {
+        "text": "urban: 1.4% of population / rural: 7.4% of population / total: 5.3% of population (2017 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -280,14 +277,11 @@
       "text": "2.6 beds/1,000 population (2014)"
     },
     "Sanitation facility access": {
-      "urban": {
-        "text": "unimproved: 3.1% of population"
+      "improved": {
+        "text": "urban: 96.9% of population / rural: 82.1% of population / total: 87.3% of population"
       },
-      "rural": {
-        "text": "17.9% of population"
-      },
-      "total": {
-        "text": "12.7% of population (2017 est.)"
+      "unimproved": {
+        "text": "urban: 3.1% of population / rural: 17.9% of population / total: 12.7% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -384,7 +378,7 @@
       }
     },
     "Administrative divisions": {
-      "text": "58 provinces (tinh, singular and plural) and 5 municipalities (thanh pho, singular and plural) provinces: An Giang, Bac Giang, Bac Kan, Bac Lieu, Bac Ninh, Ba Ria-Vung Tau, Ben Tre, Binh Dinh, Binh Duong, Binh Phuoc, Binh Thuan, Ca Mau, Cao Bang, Dak Lak, Dak Nong, Dien Bien, Dong Nai, Dong Thap, Gia Lai, Ha Giang, Ha Nam, Ha Tinh, Hai Duong, Hau Giang, Hoa Binh, Hung Yen, Khanh Hoa, Kien Giang, Kon Tum, Lai Chau, Lam Dong, Lang Son, Lao Cai, Long An, Nam Dinh, Nghe An, Ninh Binh, Ninh Thuan, Phu Tho, Phu Yen, Quang Binh, Quang Nam, Quang Ngai, Quang Ninh, Quang Tri, Soc Trang, Son La, Tay Ninh, Thai Binh, Thai Nguyen, Thanh Hoa, Thua Thien-Hue, Tien Giang, Tra Vinh, Tuyen Quang, Vinh Long, Vinh Phuc, Yen Bai municipalities: Can Tho, Da Nang, Ha Noi (Hanoi), Hai Phong, Ho Chi Minh City (Saigon)"
+      "text": "58 provinces (tinh, singular and plural) and 5 municipalities (thanh pho, singular and plural) ++ provinces: An Giang, Bac Giang, Bac Kan, Bac Lieu, Bac Ninh, Ba Ria-Vung Tau, Ben Tre, Binh Dinh, Binh Duong, Binh Phuoc, Binh Thuan, Ca Mau, Cao Bang, Dak Lak, Dak Nong, Dien Bien, Dong Nai, Dong Thap, Gia Lai, Ha Giang, Ha Nam, Ha Tinh, Hai Duong, Hau Giang, Hoa Binh, Hung Yen, Khanh Hoa, Kien Giang, Kon Tum, Lai Chau, Lam Dong, Lang Son, Lao Cai, Long An, Nam Dinh, Nghe An, Ninh Binh, Ninh Thuan, Phu Tho, Phu Yen, Quang Binh, Quang Nam, Quang Ngai, Quang Ninh, Quang Tri, Soc Trang, Son La, Tay Ninh, Thai Binh, Thai Nguyen, Thanh Hoa, Thua Thien-Hue, Tien Giang, Tra Vinh, Tuyen Quang, Vinh Long, Vinh Phuc, Yen Bai ++ municipalities: Can Tho, Da Nang, Ha Noi (Hanoi), Hai Phong, Ho Chi Minh City (Saigon)"
     },
     "Independence": {
       "text": "2 September 1945 (from France)"
@@ -397,7 +391,7 @@
         "text": "several previous; latest adopted 28 November 2013, effective 1 January 2014"
       },
       "amendments": {
-        "text": "proposed by the president, by the National Assembly’s Standing Committee, or by at least two thirds of the National Assembly membership; a decision to draft an amendment requires approval by at least a two-thirds majority vote of the Assembly membership, followed by the formation of a constitutional drafting committee to write a draft and collect citizens’ opinions; passage requires at least two-thirds majority of the Assembly membership; the Assembly can opt to conduct a referendum"
+        "text": "proposed by the president, by the National Assembly's Standing Committee, or by at least two thirds of the National Assembly membership; a decision to draft an amendment requires approval by at least a two-thirds majority vote of the Assembly membership, followed by the formation of a constitutional drafting committee to write a draft and collect citizens' opinions; passage requires at least two-thirds majority of the Assembly membership; the Assembly can opt to conduct a referendum"
       }
     },
     "Legal system": {
@@ -463,7 +457,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Communist Party of Vietnam or CPV [Nguyen Phu TRONG]",
+      "text": "Communist Party of Vietnam or CPV [Nguyen Phu TRONG] ++",
       "note": {
         "text": "note: other parties proscribed"
       }
@@ -531,7 +525,7 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Vietnam is a densely populated developing country that has been transitioning since 1986 from the rigidities of a centrally planned, highly agrarian economy to a more industrial and market based economy, and it has raised incomes substantially. Vietnam exceeded its 2017 GDP growth target of 6.7% with growth of 6.8%, primarily due to unexpected increases in domestic demand, and strong manufacturing exports. Vietnam has a young population, stable political system, commitment to sustainable growth, relatively low inflation, stable currency, strong FDI inflows, and strong manufacturing sector. In addition, the country is committed to continuing its global economic integration. Vietnam joined the WTO in January 2007 and concluded several free trade agreements in 2015-16, including the EU-Vietnam Free Trade Agreement (which the EU has not yet ratified), the Korean Free Trade Agreement, and the Eurasian Economic Union Free Trade Agreement. In 2017, Vietnam successfully chaired the Asia-Pacific Economic Cooperation (APEC) Conference with its key priorities including inclusive growth, innovation, strengthening small and medium enterprises, food security, and climate change. Seeking to diversify its opportunities, Vietnam also signed the Comprehensive and Progressive Agreement for the Transpacific Partnership in 2018 and continued to pursue the Regional Comprehensive Economic Partnership. To continue its trajectory of strong economic growth, the government acknowledges the need to spark a ‘second wave’ of reforms, including reforming state-owned-enterprises, reducing red tape, increasing business sector transparency, reducing the level of non-performing loans in the banking sector, and increasing financial sector transparency. Vietnam’s public debt to GDP ratio is nearing the government mandated ceiling of 65%. In 2016, Vietnam cancelled its civilian nuclear energy development program, citing public concerns about safety and the high cost of the program; it faces growing pressure on energy infrastructure. Overall, the country’s infrastructure fails to meet the needs of an expanding middle class. Vietnam has demonstrated a commitment to sustainable growth over the last several years, but despite the recent speed-up in economic growth the government remains cautious about the risk of external shocks."
+      "text": "Vietnam is a densely populated developing country that has been transitioning since 1986 from the rigidities of a centrally planned, highly agrarian economy to a more industrial and market based economy, and it has raised incomes substantially. Vietnam exceeded its 2017 GDP growth target of 6.7% with growth of 6.8%, primarily due to unexpected increases in domestic demand, and strong manufacturing exports. ++ Vietnam has a young population, stable political system, commitment to sustainable growth, relatively low inflation, stable currency, strong FDI inflows, and strong manufacturing sector. In addition, the country is committed to continuing its global economic integration. Vietnam joined the WTO in January 2007 and concluded several free trade agreements in 2015-16, including the EU-Vietnam Free Trade Agreement (which the EU has not yet ratified), the Korean Free Trade Agreement, and the Eurasian Economic Union Free Trade Agreement. In 2017, Vietnam successfully chaired the Asia-Pacific Economic Cooperation (APEC) Conference with its key priorities including inclusive growth, innovation, strengthening small and medium enterprises, food security, and climate change. Seeking to diversify its opportunities, Vietnam also signed the Comprehensive and Progressive Agreement for the Transpacific Partnership in 2018 and continued to pursue the Regional Comprehensive Economic Partnership. ++ To continue its trajectory of strong economic growth, the government acknowledges the need to spark a ‘second wave' of reforms, including reforming state-owned-enterprises, reducing red tape, increasing business sector transparency, reducing the level of non-performing loans in the banking sector, and increasing financial sector transparency. Vietnam's public debt to GDP ratio is nearing the government mandated ceiling of 65%. ++ In 2016, Vietnam cancelled its civilian nuclear energy development program, citing public concerns about safety and the high cost of the program; it faces growing pressure on energy infrastructure. Overall, the country's infrastructure fails to meet the needs of an expanding middle class. Vietnam has demonstrated a commitment to sustainable growth over the last several years, but despite the recent speed-up in economic growth the government remains cautious about the risk of external shocks."
     },
     "GDP (purchasing power parity)": {
       "text": "$648.7 billion (2017 est.) / $607.4 billion (2016 est.) / $571.9 billion (2015 est.)",
@@ -783,7 +777,7 @@
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "despite being a communist country there are plans to part privatize the state’s holdings in telecom companies as well as a large number of other enterprises; competition is thriving in the market place; mobile dominates over fixed-line; FttH market growing, as is e-commerce; govt. is the driving force for growth and moving towards commercializing 5G services with test licenses issued in 2019; 5 major operators; Ho Chi Minh City to become the first smart city in Vietnam with cloud computing infrastructure, big data, data centers and security-monitoring centers (2020)"
+        "text": "despite being a communist country there are plans to part privatize the state's holdings in telecom companies as well as a large number of other enterprises; competition is thriving in the market place; mobile dominates over fixed-line; FttH market growing, as is e-commerce; govt. is the driving force for growth and moving towards commercializing 5G services with test licenses issued in 2019; 5 major operators; Ho Chi Minh City to become the first smart city in Vietnam with cloud computing infrastructure, big data, data centers and security-monitoring centers (2020)"
       },
       "domestic": {
         "text": "all provincial exchanges are digitalized and connected to Hanoi, Da Nang, and Ho Chi Minh City by fiber-optic cable or microwave radio relay networks; main lines have been increased, and the use of mobile telephones is growing rapidly; fixed-line 4 per 100 and mobile-cellular 141 per 100 (2019)"
@@ -929,7 +923,7 @@
       "text": "2.3% of GDP (2018) / 2.3% of GDP (2017) / 2.5% of GDP (2016) / 2.4% of GDP (2015) / 2.3% of GDP (2014)"
     },
     "Military and security service personnel strengths": {
-      "text": "information is limited and estimates of the size of the People’s Army of Vietnam (PAVN) vary; approximately 475,000 active duty troops (405,000 ground; 40,000 naval; 30,000 air); est. 40,000 Border Defense Force and Coast Guard (2019)"
+      "text": "information is limited and estimates of the size of the People's Army of Vietnam (PAVN) vary; approximately 475,000 active duty troops (405,000 ground; 40,000 naval; 30,000 air); est. 40,000 Border Defense Force and Coast Guard (2019)"
     },
     "Military equipment inventories and acquisitions": {
       "text": "the PAVN is armed largely with weapons and equipment from Russia and the former Soviet Union; Russia remains the main supplier of newer PAVN military equipment, although in recent years Vietnam has begun diversifying its procurement with purchases from other countries including Belarus, India, Israel, and Ukraine (2019 est.)"
@@ -943,7 +937,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "southeast Asian states have enhanced border surveillance to check the spread of Asian swine fever; Cambodia and Laos protest Vietnamese squatters and armed encroachments along border; Cambodia accuses Vietnam of a wide variety of illicit cross-border activities; progress on a joint development area with Cambodia is hampered by an unresolved dispute over sovereignty of offshore islands; an estimated 300,000 Vietnamese refugees reside in China; establishment of a maritime boundary with Cambodia is hampered by unresolved dispute over the sovereignty of offshore islands; the decade-long demarcation of the China-Vietnam land boundary was completed in 2009; China occupies the Paracel Islands also claimed by Vietnam and Taiwan; Brunei claims a maritime boundary extending beyond as far as a median with Vietnam, thus asserting an implicit claim to Lousia Reef; the 2002 \"Declaration on the Conduct of Parties in the South China Sea\" eased tensions but differences between the parties negotiating the Code of Conduct continue; Vietnam continues to expand construction of facilities in the Spratly Islands; in March 2005, the national oil companies of China, the Philippines, and Vietnam signed a joint accord to conduct marine seismic activities in the Spratly Islands; Economic Exclusion Zone negotiations with Indonesia are ongoing, and the two countries in Fall 2011 agreed to work together to reduce illegal fishing along their maritime boundary; in May 2018, Russia’s RosneftVietnam unit started drilling at a block southeast of Vietnam which is within the area outlined by China’s nine-dash line and Beijing issued a warning"
+      "text": "southeast Asian states have enhanced border surveillance to check the spread of Asian swine fever; Cambodia and Laos protest Vietnamese squatters and armed encroachments along border; Cambodia accuses Vietnam of a wide variety of illicit cross-border activities; progress on a joint development area with Cambodia is hampered by an unresolved dispute over sovereignty of offshore islands; an estimated 300,000 Vietnamese refugees reside in China; establishment of a maritime boundary with Cambodia is hampered by unresolved dispute over the sovereignty of offshore islands; the decade-long demarcation of the China-Vietnam land boundary was completed in 2009; China occupies the Paracel Islands also claimed by Vietnam and Taiwan; Brunei claims a maritime boundary extending beyond as far as a median with Vietnam, thus asserting an implicit claim to Lousia Reef; the 2002 \"Declaration on the Conduct of Parties in the South China Sea\" eased tensions but differences between the parties negotiating the Code of Conduct continue; Vietnam continues to expand construction of facilities in the Spratly Islands; in March 2005, the national oil companies of China, the Philippines, and Vietnam signed a joint accord to conduct marine seismic activities in the Spratly Islands; Economic Exclusion Zone negotiations with Indonesia are ongoing, and the two countries in Fall 2011 agreed to work together to reduce illegal fishing along their maritime boundary; in May 2018, Russia's RosneftVietnam unit started drilling at a block southeast of Vietnam which is within the area outlined by China's nine-dash line and Beijing issued a warning"
     },
     "Refugees and internally displaced persons": {
       "stateless persons": {

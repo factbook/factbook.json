@@ -94,7 +94,7 @@
       "text": "most Norweigans live in the south where the climate is milder and there is better connectivity to mainland Europe; population clusters are found all along the North Sea coast in the southwest, and Skaggerak in the southeast; the interior areas of the north remain sparsely populated"
     },
     "Natural hazards": {
-      "text": "rockslides, avalanches\nvolcanism: Beerenberg (2,227 m) on Jan Mayen Island in the Norwegian Sea is the country's only active volcano"
+      "text": "rockslides, avalanches ++ volcanism: Beerenberg (2,227 m) on Jan Mayen Island in the Norwegian Sea is the country's only active volcano"
     },
     "Environment - current issues": {
       "text": "water pollution; acid rain damaging forests and adversely affecting lakes, threatening fish stocks; air pollution from vehicle emissions"
@@ -267,14 +267,11 @@
       "text": "1.84 children born/woman (2020 est.)"
     },
     "Drinking water source": {
-      "urban": {
-        "text": "unimproved: 0% of population"
+      "improved": {
+        "text": "urban: 100% of population / rural: 100% of population / total: 100% of population"
       },
-      "rural": {
-        "text": "0% of population"
-      },
-      "total": {
-        "text": "0% of population (2017 est.)"
+      "unimproved": {
+        "text": "urban: 0% of population / rural: 0% of population / total: 0% of population (2017 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -287,14 +284,11 @@
       "text": "3.6 beds/1,000 population (2017)"
     },
     "Sanitation facility access": {
-      "urban": {
-        "text": "unimproved: 0% of population"
+      "improved": {
+        "text": "urban: 100% of population / rural: 100% of population / total: 100% of population"
       },
-      "rural": {
-        "text": "0% of population"
-      },
-      "total": {
-        "text": "0% of population (2017 est.)"
+      "unimproved": {
+        "text": "urban: 0% of population / rural: 0% of population / total: 0% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -453,7 +447,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Center Party or Sp [Trygve Slagsvold VEDUM]Christian Democratic Party or KrF [Kjell Ingolf ROPSTADT]Conservative Party or H [Erna SOLBERG]Green Party or MDG [Rasmus HANSSON and Une Aina BASTHOLM]Labor Party or Ap [Jonas Gahr STORE]Liberal Party or V [Trine SKEI GRANDE]Progress Party or FrP [Siv JENSEN]Red Party or R [Bionar MOXNES]Socialist Left Party or SV [Audun LYSBAKKEN]"
+      "text": "Center Party or Sp [Trygve Slagsvold VEDUM] ++ Christian Democratic Party or KrF [Kjell Ingolf ROPSTADT] ++ Conservative Party or H [Erna SOLBERG] ++ Green Party or MDG [Rasmus HANSSON and Une Aina BASTHOLM] ++ Labor Party or Ap [Jonas Gahr STORE] ++ Liberal Party or V [Trine SKEI GRANDE] ++ Progress Party or FrP [Siv JENSEN] ++ Red Party or R [Bionar MOXNES] ++ Socialist Left Party or SV [Audun LYSBAKKEN]"
     },
     "International organization participation": {
       "text": "ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, EFTA, EITI (implementing country), ESA, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNMISS, UNRWA, UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC"
@@ -512,7 +506,7 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Norway has a stable economy with a vibrant private sector, a large state sector, and an extensive social safety net. Norway opted out of the EU during a referendum in November 1994. However, as a member of the European Economic Area, Norway partially participates in the EU’s single market and contributes sizably to the EU budget. The country is richly endowed with natural resources such as oil and gas, fish, forests, and minerals. Norway is a leading producer and the world’s second largest exporter of seafood, after China. The government manages the country’s petroleum resources through extensive regulation. The petroleum sector provides about 9% of jobs, 12% of GDP, 13% of the state’s revenue, and 37% of exports, according to official national estimates. Norway is one of the world's leading petroleum exporters, although oil production is close to 50% below its peak in 2000. Gas production, conversely, has more than doubled since 2000. Although oil production is historically low, it rose in 2016 for the third consecutive year due to the higher production of existing oil fields and to new fields coming on stream. Norway’s domestic electricity production relies almost entirely on hydropower. In anticipation of eventual declines in oil and gas production, Norway saves state revenue from petroleum sector activities in the world's largest sovereign wealth fund, valued at over $1 trillion at the end of 2017. To help balance the federal budget each year, the government follows a \"fiscal rule,\" which states that spending of revenues from petroleum and fund investments shall correspond to the expected real rate of return on the fund, an amount it estimates is sustainable over time. In February 2017, the government revised the expected rate of return for the fund downward from 4% to 3%. After solid GDP growth in the 2004-07 period, the economy slowed in 2008, and contracted in 2009, before returning to modest, positive growth from 2010 to 2017. The Norwegian economy has been adjusting to lower energy prices, as demonstrated by growth in labor force participation and employment in 2017. GDP growth was about 1.5% in 2017, driven largely by domestic demand, which has been boosted by the rebound in the labor market and supportive fiscal policies. Economic growth is expected to remain constant or improve slightly in the next few years."
+      "text": "Norway has a stable economy with a vibrant private sector, a large state sector, and an extensive social safety net. Norway opted out of the EU during a referendum in November 1994. However, as a member of the European Economic Area, Norway partially participates in the EU's single market and contributes sizably to the EU budget. ++ The country is richly endowed with natural resources such as oil and gas, fish, forests, and minerals. Norway is a leading producer and the world's second largest exporter of seafood, after China. The government manages the country's petroleum resources through extensive regulation. The petroleum sector provides about 9% of jobs, 12% of GDP, 13% of the state's revenue, and 37% of exports, according to official national estimates. Norway is one of the world's leading petroleum exporters, although oil production is close to 50% below its peak in 2000. Gas production, conversely, has more than doubled since 2000. Although oil production is historically low, it rose in 2016 for the third consecutive year due to the higher production of existing oil fields and to new fields coming on stream. Norway's domestic electricity production relies almost entirely on hydropower. ++ In anticipation of eventual declines in oil and gas production, Norway saves state revenue from petroleum sector activities in the world's largest sovereign wealth fund, valued at over $1 trillion at the end of 2017. To help balance the federal budget each year, the government follows a \"fiscal rule,\" which states that spending of revenues from petroleum and fund investments shall correspond to the expected real rate of return on the fund, an amount it estimates is sustainable over time. In February 2017, the government revised the expected rate of return for the fund downward from 4% to 3%. ++ After solid GDP growth in the 2004-07 period, the economy slowed in 2008, and contracted in 2009, before returning to modest, positive growth from 2010 to 2017. The Norwegian economy has been adjusting to lower energy prices, as demonstrated by growth in labor force participation and employment in 2017. GDP growth was about 1.5% in 2017, driven largely by domestic demand, which has been boosted by the rebound in the labor market and supportive fiscal policies. Economic growth is expected to remain constant or improve slightly in the next few years."
     },
     "GDP (purchasing power parity)": {
       "text": "$381.2 billion (2017 est.) / $374 billion (2016 est.) / $370 billion (2015 est.)",

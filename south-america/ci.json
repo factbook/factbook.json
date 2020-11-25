@@ -97,7 +97,7 @@
       "text": "90% of the population is located in the middle third of the country around the capital of Santiago; the far north (anchored by the Atacama Desert) and the extreme south are relatively underpopulated"
     },
     "Natural hazards": {
-      "text": "severe earthquakes; active volcanism; tsunamis\nvolcanism: significant volcanic activity due to more than three-dozen active volcanoes along the Andes Mountains; Lascar (5,592 m), which last erupted in 2007, is the most active volcano in the northern Chilean Andes; Llaima (3,125 m) in central Chile, which last erupted in 2009, is another of the country's most active; Chaiten's 2008 eruption forced major evacuations; other notable historically active volcanoes include Cerro Hudson, Calbuco, Copahue, Guallatiri, Llullaillaco, Nevados de Chillan, Puyehue, San Pedro, and Villarrica; see note 2 under \"Geography - note\""
+      "text": "severe earthquakes; active volcanism; tsunamis ++ volcanism: significant volcanic activity due to more than three-dozen active volcanoes along the Andes Mountains; Lascar (5,592 m), which last erupted in 2007, is the most active volcano in the northern Chilean Andes; Llaima (3,125 m) in central Chile, which last erupted in 2009, is another of the country's most active; Chaiten's 2008 eruption forced major evacuations; other notable historically active volcanoes include Cerro Hudson, Calbuco, Copahue, Guallatiri, Llullaillaco, Nevados de Chillan, Puyehue, San Pedro, and Villarrica; see note 2 under \"Geography - note\""
     },
     "Environment - current issues": {
       "text": "air pollution from industrial and vehicle emissions; water pollution from raw sewage; noise pollution; improper garbage disposal; soil degradation; widespread deforestation and mining threaten the environment; wildlife conservation"
@@ -112,7 +112,7 @@
     },
     "Geography - note": {
       "note": {
-        "text": "note 1: the longest north-south trending country in the world, extending across 39 degrees of latitude; strategic location relative to sea lanes between the Atlantic and Pacific Oceans (Strait of Magellan, Beagle Channel, Drake Passage) note 2: Chile is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire note 3: the Atacama Desert - the driest desert in the world - spreads across the northern part of the country; Ojos del Salado (6,893 m) in the Atacama Desert is the highest active volcano in the world, Chile's tallest mountain, and the second highest in the Western Hemisphere and the Southern Hemisphere - its small crater lake (at 6,390 m) is the world's highest lake"
+        "text": "note 1: the longest north-south trending country in the world, extending across 39 degrees of latitude; strategic location relative to sea lanes between the Atlantic and Pacific Oceans (Strait of Magellan, Beagle Channel, Drake Passage) ++ note 2: Chile is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire ++ note 3: the Atacama Desert - the driest desert in the world - spreads across the northern part of the country; Ojos del Salado (6,893 m) in the Atacama Desert is the highest active volcano in the world, Chile's tallest mountain, and the second highest in the Western Hemisphere and the Southern Hemisphere - its small crater lake (at 6,390 m) is the world's highest lake"
       }
     }
   },
@@ -141,7 +141,7 @@
       "text": "Roman Catholic 66.7%, Evangelical or Protestant 16.4%, Jehovah's Witness 1%, other 3.4%, none 11.5%, unspecified 1.1% (2012 est.)"
     },
     "Demographic profile": {
-      "text": "Chile is in the advanced stages of demographic transition and is becoming an aging society - with fertility below replacement level, low mortality rates, and life expectancy on par with developed countries. Nevertheless, with its dependency ratio nearing its low point, Chile could benefit from its favorable age structure. It will need to keep its large working-age population productively employed, while preparing to provide for the needs of its growing proportion of elderly people, especially as women - the traditional caregivers - increasingly enter the workforce. Over the last two decades, Chile has made great strides in reducing its poverty rate, which is now lower than most Latin American countries. However, its severe income inequality ranks as the worst among members of the Organization for Economic Cooperation and Development. Unequal access to quality education perpetuates this uneven income distribution.\nChile has historically been a country of emigration but has slowly become more attractive to immigrants since transitioning to democracy in 1990 and improving its economic stability (other regional destinations have concurrently experienced deteriorating economic and political conditions). Most of Chile's small but growing foreign-born population consists of transplants from other Latin American countries, especially Peru."
+      "text": "Chile is in the advanced stages of demographic transition and is becoming an aging society - with fertility below replacement level, low mortality rates, and life expectancy on par with developed countries. Nevertheless, with its dependency ratio nearing its low point, Chile could benefit from its favorable age structure. It will need to keep its large working-age population productively employed, while preparing to provide for the needs of its growing proportion of elderly people, especially as women - the traditional caregivers - increasingly enter the workforce. Over the last two decades, Chile has made great strides in reducing its poverty rate, which is now lower than most Latin American countries. However, its severe income inequality ranks as the worst among members of the Organization for Economic Cooperation and Development. Unequal access to quality education perpetuates this uneven income distribution. ++ Chile has historically been a country of emigration but has slowly become more attractive to immigrants since transitioning to democracy in 1990 and improving its economic stability (other regional destinations have concurrently experienced deteriorating economic and political conditions). Most of Chile's small but growing foreign-born population consists of transplants from other Latin American countries, especially Peru."
     },
     "Age structure": {
       "0-14 years": {
@@ -266,14 +266,11 @@
       "text": "76.3% (2015/16)"
     },
     "Drinking water source": {
-      "urban": {
-        "text": "unimproved: 0% of population"
+      "improved": {
+        "text": "urban: 100% of population / rural: 100% of population / total: 100% of population"
       },
-      "rural": {
-        "text": "0% of population"
-      },
-      "total": {
-        "text": "0% of population (2017 est.)"
+      "unimproved": {
+        "text": "urban: 0% of population / rural: 0% of population / total: 0% of population (2017 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -286,14 +283,11 @@
       "text": "2.1 beds/1,000 population (2017)"
     },
     "Sanitation facility access": {
-      "urban": {
-        "text": "unimproved: 0% of population"
+      "improved": {
+        "text": "urban: 100% of population / rural: 100% of population / total: 100% of population"
       },
-      "rural": {
-        "text": "0% of population"
-      },
-      "total": {
-        "text": "0% of population (2017 est.)"
+      "unimproved": {
+        "text": "urban: 0% of population / rural: 0% of population / total: 0% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -386,7 +380,7 @@
         "text": "+1hr, begins second Sunday in August; ends second Sunday in May; note - Punta Arenas observes DST throughout the year"
       },
       "note": {
-        "text": "note: Chile has three time zones: the continental portion at UTC-3; the southern Magallanes region, which does not use daylight savings time and remains at UTC-3 for the summer months; and Easter Island at UTC-5etymology: Santiago is named after the biblical figure Saint James (ca. A.D. 3-44), patron saint of Spain, but especially revered in Galicia; \"Santiago\" derives from the local Galician evolution of the Vulgar Latin \"Sanctu Iacobu\"; Valparaiso derives from the Spanish \"Valle Paraiso\" meaning \"Paradise Valley\""
+        "text": "note: Chile has three time zones: the continental portion at UTC-3; the southern Magallanes region, which does not use daylight savings time and remains at UTC-3 for the summer months; and Easter Island at UTC-5 ++ etymology: Santiago is named after the biblical figure Saint James (ca. A.D. 3-44), patron saint of Spain, but especially revered in Galicia; \"Santiago\" derives from the local Galician evolution of the Vulgar Latin \"Sanctu Iacobu\"; Valparaiso derives from the Spanish \"Valle Paraiso\" meaning \"Paradise Valley\" ++ ++"
       }
     },
     "Administrative divisions": {
@@ -451,13 +445,13 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral National Congress or Congreso Nacional consists of:Senate or Senado (43 seats following the 2017 election; to increase to 50 in 2021); members directly elected in multi-seat constituencies by open party-list proportional representation vote to serve 8-year terms with one-half of the membership renewed every 4 years) Chamber of Deputies or Camara de Diputados (155 seats; members directly elected in multi-seat constituencies by oen party-list proportional representation vote to serve 4-year terms)"
+        "text": "bicameral National Congress or Congreso Nacional consists of: Senate or Senado (43 seats following the 2017 election; to increase to 50 in 2021); members directly elected in multi-seat constituencies by open party-list proportional representation vote to serve 8-year terms with one-half of the membership renewed every 4 years) ++ Chamber of Deputies or Camara de Diputados (155 seats; members directly elected in multi-seat constituencies by oen party-list proportional representation vote to serve 4-year terms)"
       },
       "elections": {
-        "text": "Senate - last held on 19 November 2017 (next to be held in 2021) Chamber of Deputies - last held on 19 November 2017 (next to be held in 2021)"
+        "text": "Senate - last held on 19 November 2017 (next to be held in 2021) ++ Chamber of Deputies - last held on 19 November 2017 (next to be held in 2021)"
       },
       "election results": {
-        "text": "Senate - percent of vote by party - NA; seats by party - New Majority Coalition (formerly known as Concertacion) 19 (PDC 6, PS 6, PPD 6, MAS 1), Let's Go Chile Coalition (formerly known as the Coalition for Change and the Alianza coalition) 15 (RN 6, UDI 8, Amplitude Party 1), independent 4; composition - men 33, women 10, percent of women 23.3% Chamber of Deputies - percent of vote by party - NA; seats by party - New Majority 68 (PDC 21, PS 16, PPD 14, PC 6, PRSD 6, Citizen Left 1, independent 4), Coalition for Change 47 (UDI 29, RN 14, independent 3, EP 1), Liberal Party 1, independent 4; composition -men 120, women 35, percent of women 22.6%; note - total National Congress percent of women 22.7%"
+        "text": "Senate - percent of vote by party - NA; seats by party - New Majority Coalition (formerly known as Concertacion) 19 (PDC 6, PS 6, PPD 6, MAS 1), Let's Go Chile Coalition (formerly known as the Coalition for Change and the Alianza coalition) 15 (RN 6, UDI 8, Amplitude Party 1), independent 4; composition - men 33, women 10, percent of women 23.3% ++ Chamber of Deputies - percent of vote by party - NA; seats by party - New Majority 68 (PDC 21, PS 16, PPD 14, PC 6, PRSD 6, Citizen Left 1, independent 4), Coalition for Change 47 (UDI 29, RN 14, independent 3, EP 1), Liberal Party 1, independent 4; composition -men 120, women 35, percent of women 22.6%; note - total National Congress percent of women 22.7%"
       }
     },
     "Judicial branch": {
@@ -472,7 +466,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Amplitude (Amplitud) [Lily PEREZ]Broad Front Coalition (Frente Amplio) or FA (includes RD, PL, PH, PEV, Igualdad, and Poder) [Beatriz SANCHEZ]Broad Social Movement of Leftist Citizens (includes former MAS and Izquierda Ciudadana) [Fernando ZAMORANO]Christian Democratic Party or PDC [Fuad CHAHIN]Citizen Power (Poder) [Karina OLIVA]Communist Party of Chile or PC [Guillermo TEILLIER del Valle]Democratic Revolution or RD [Rodrigo ECHECOPAR]Equality Party (Igualdad) [Guillermo GONZALEZ]Green Ecological Party or PEV [Felix GONZALEZ]Humanist Party or PH [Octavio GONZALEZ]Independent Democratic Union or UDI [Jacqueline VAN RYSSELBERGHE Herrera])Independent Regionalist Democratic Party or PRI [Hugo ORTIZ de Filippi]Let’s Go Chile Coalition (Chile Vamos) [Sebastian PINERA] (includes EVOPOLI, PRI, RN, UDI)Liberal Party (Partido Liberal de Chile) or PL [Luis Felipe RAMOS]National Renewal or RN [Mario DESBORDES]New Majority Coalition (Nueva Mayoria) [Michelle BACHELET] (includes PDC, PC, PPD, PRSD, PS); note - dissolved in March 2018Party for Democracy or PPD [Heraldo MUNOZ]Political Evolution or EVOPOLI [Hernan LARRAIN MATTE]Progressive Party or PRO [Camilo LAGOS]Radical Social Democratic Party or PRSD [Carlos MALDONADO Curti],Socialist Party or PS [Alvaro ELIZALDE Soto] (formerly known as Concertacion)"
+      "text": "Amplitude (Amplitud) [Lily PEREZ] ++ Broad Front Coalition (Frente Amplio) or FA (includes RD, PL, PH, PEV, Igualdad, and Poder) [Beatriz SANCHEZ] ++ Broad Social Movement of Leftist Citizens (includes former MAS and Izquierda Ciudadana) [Fernando ZAMORANO] ++ Christian Democratic Party or PDC [Fuad CHAHIN] ++ Citizen Power (Poder) [Karina OLIVA] ++ Communist Party of Chile or PC [Guillermo TEILLIER del Valle] ++ Democratic Revolution or RD [Rodrigo ECHECOPAR] ++ Equality Party (Igualdad) [Guillermo GONZALEZ] ++ Green Ecological Party or PEV [Felix GONZALEZ] ++ Humanist Party or PH [Octavio GONZALEZ] ++ Independent Democratic Union or UDI [Jacqueline VAN RYSSELBERGHE Herrera]) ++ Independent Regionalist Democratic Party or PRI [Hugo ORTIZ de Filippi] ++ Let's Go Chile Coalition (Chile Vamos) [Sebastian PINERA] (includes EVOPOLI, PRI, RN, UDI) ++ Liberal Party (Partido Liberal de Chile) or PL [Luis Felipe RAMOS] ++ National Renewal or RN [Mario DESBORDES] ++ New Majority Coalition (Nueva Mayoria) [Michelle BACHELET] (includes PDC, PC, PPD, PRSD, PS); note - dissolved in March 2018 ++ Party for Democracy or PPD [Heraldo MUNOZ] ++ Political Evolution or EVOPOLI [Hernan LARRAIN MATTE] ++ Progressive Party or PRO [Camilo LAGOS] ++ Radical Social Democratic Party or PRSD [Carlos MALDONADO Curti], ++ Socialist Party or PS [Alvaro ELIZALDE Soto] (formerly known as Concertacion)"
     },
     "International organization participation": {
       "text": "APEC, BIS, CAN (associate), CD, CELAC, FAO, G-15, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, NAM, OAS, OECD (enhanced engagement), OPANAL, OPCW, Pacific Alliance, PCA, SICA (observer), UN, UNASUR, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, Union Latina, UNMOGIP, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
@@ -534,7 +528,7 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Chile has a market-oriented economy characterized by a high level of foreign trade and a reputation for strong financial institutions and sound policy that have given it the strongest sovereign bond rating in South America. Exports of goods and services account for approximately one-third of GDP, with commodities making up some 60% of total exports. Copper is Chile’s top export and provides 20% of government revenue. From 2003 through 2013, real growth averaged almost 5% per year, despite a slight contraction in 2009 that resulted from the global financial crisis. Growth slowed to an estimated 1.4% in 2017. A continued drop in copper prices prompted Chile to experience its third consecutive year of slow growth. Chile deepened its longstanding commitment to trade liberalization with the signing of a free trade agreement with the US, effective 1 January 2004. Chile has 26 trade agreements covering 60 countries including agreements with the EU, Mercosur, China, India, South Korea, and Mexico. In May 2010, Chile signed the OECD Convention, becoming the first South American country to join the OECD. In October 2015, Chile signed the Trans-Pacific Partnership trade agreement, which was finalized as the Comprehensive and Progressive Trans-Pacific Partnership (CPTPP) and signed at a ceremony in Chile in March 2018. The Chilean Government has generally followed a countercyclical fiscal policy, under which it accumulates surpluses in sovereign wealth funds during periods of high copper prices and economic growth, and generally allows deficit spending only during periods of low copper prices and growth. As of 31 October 2016, those sovereign wealth funds - kept mostly outside the country and separate from Central Bank reserves - amounted to more than $23.5 billion. Chile used these funds to finance fiscal stimulus packages during the 2009 economic downturn. In 2014, then-President Michelle BACHELET introduced tax reforms aimed at delivering her campaign promise to fight inequality and to provide access to education and health care. The reforms are expected to generate additional tax revenues equal to 3% of Chile’s GDP, mostly by increasing corporate tax rates to OECD averages."
+      "text": "Chile has a market-oriented economy characterized by a high level of foreign trade and a reputation for strong financial institutions and sound policy that have given it the strongest sovereign bond rating in South America. Exports of goods and services account for approximately one-third of GDP, with commodities making up some 60% of total exports. Copper is Chile's top export and provides 20% of government revenue. ++ From 2003 through 2013, real growth averaged almost 5% per year, despite a slight contraction in 2009 that resulted from the global financial crisis. Growth slowed to an estimated 1.4% in 2017. A continued drop in copper prices prompted Chile to experience its third consecutive year of slow growth. ++ Chile deepened its longstanding commitment to trade liberalization with the signing of a free trade agreement with the US, effective 1 January 2004. Chile has 26 trade agreements covering 60 countries including agreements with the EU, Mercosur, China, India, South Korea, and Mexico. In May 2010, Chile signed the OECD Convention, becoming the first South American country to join the OECD. In October 2015, Chile signed the Trans-Pacific Partnership trade agreement, which was finalized as the Comprehensive and Progressive Trans-Pacific Partnership (CPTPP) and signed at a ceremony in Chile in March 2018. ++ The Chilean Government has generally followed a countercyclical fiscal policy, under which it accumulates surpluses in sovereign wealth funds during periods of high copper prices and economic growth, and generally allows deficit spending only during periods of low copper prices and growth. As of 31 October 2016, those sovereign wealth funds - kept mostly outside the country and separate from Central Bank reserves - amounted to more than $23.5 billion. Chile used these funds to finance fiscal stimulus packages during the 2009 economic downturn. ++ In 2014, then-President Michelle BACHELET introduced tax reforms aimed at delivering her campaign promise to fight inequality and to provide access to education and health care. The reforms are expected to generate additional tax revenues equal to 3% of Chile's GDP, mostly by increasing corporate tax rates to OECD averages."
     },
     "GDP (purchasing power parity)": {
       "text": "$452.1 billion (2017 est.) / $445.5 billion (2016 est.) / $439.9 billion (2015 est.)",

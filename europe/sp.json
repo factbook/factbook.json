@@ -97,7 +97,7 @@
       "text": "with the notable exception of Madrid, Sevilla, and Zaragoza, the largest urban agglomerations are found along the Mediterranean and Atlantic coasts; numerous smaller cities are spread throughout the interior reflecting Spain's agrarian heritage; very dense settlement around the capital of Madrid, as well as the port city of Barcelona"
     },
     "Natural hazards": {
-      "text": "periodic droughts, occasional flooding\nvolcanism: volcanic activity in the Canary Islands, located off Africa's northwest coast; Teide (3,715 m) has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; La Palma (2,426 m), which last erupted in 1971, is the most active of the Canary Islands volcanoes; Lanzarote is the only other historically active volcano"
+      "text": "periodic droughts, occasional flooding ++ volcanism: volcanic activity in the Canary Islands, located off Africa's northwest coast; Teide (3,715 m) has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; La Palma (2,426 m), which last erupted in 1971, is the most active of the Canary Islands volcanoes; Lanzarote is the only other historically active volcano"
     },
     "Environment - current issues": {
       "text": "pollution of the Mediterranean Sea from raw sewage and effluents from the offshore production of oil and gas; water quality and quantity nationwide; air pollution; deforestation; desertification"
@@ -273,14 +273,11 @@
       }
     },
     "Drinking water source": {
-      "urban": {
-        "text": "unimproved: 0% of population"
+      "improved": {
+        "text": "urban: 100% of population / rural: 100% of population / total: 100% of population"
       },
-      "rural": {
-        "text": "0% of population"
-      },
-      "total": {
-        "text": "0% of population (2017 est.)"
+      "unimproved": {
+        "text": "urban: 0% of population / rural: 0% of population / total: 0% of population (2017 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -293,14 +290,11 @@
       "text": "3 beds/1,000 population (2017)"
     },
     "Sanitation facility access": {
-      "urban": {
-        "text": "unimproved: 0% of population"
+      "improved": {
+        "text": "urban: 100% of population (5 est.) / rural: 100% of population / total: 100% of population"
       },
-      "rural": {
-        "text": "0% of population"
-      },
-      "total": {
-        "text": "0% of population (2017 est.)"
+      "unimproved": {
+        "text": "urban: 0% of population / rural: 0% of population / total: 0% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -396,7 +390,7 @@
         "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
       },
       "note": {
-        "text": "note: Spain has two time zones, including the Canary Islands (UTC 0)etymology: the Romans named the original settlement \"Matrice\" after the river that ran through it; under Arab rule it became \"Majerit,\" meaning \"source of water\"; in medieval Romance dialects (Mozarabic) it became \"Matrit,\" which over time changed to \"Madrid\""
+        "text": "note: Spain has two time zones, including the Canary Islands (UTC 0) ++ etymology: the Romans named the original settlement \"Matrice\" after the river that ran through it; under Arab rule it became \"Majerit,\" meaning \"source of water\"; in medieval Romance dialects (Mozarabic) it became \"Matrit,\" which over time changed to \"Madrid\""
       }
     },
     "Administrative divisions": {
@@ -464,13 +458,13 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral General Courts or Las Cortes Generales consists of:Senate or Senado (266 seats; 208 members directly elected in multi-seat constituencies by simple majority vote and 58 members indirectly elected by the legislatures of the autonomous communities; members serve 4-year terms) Congress of Deputies or Congreso de los Diputados (350 seats; 348 members directly elected in 50 multi-seat constituencies by closed-list proportional representation vote, with a 3% threshold needed to gain a seat, and 2 directly elected from the North African Ceuta and Melilla enclaves by simple majority vote; members serve 4-year terms or until the government is dissolved)"
+        "text": "bicameral General Courts or Las Cortes Generales consists of: Senate or Senado (266 seats; 208 members directly elected in multi-seat constituencies by simple majority vote and 58 members indirectly elected by the legislatures of the autonomous communities; members serve 4-year terms) ++ Congress of Deputies or Congreso de los Diputados (350 seats; 348 members directly elected in 50 multi-seat constituencies by closed-list proportional representation vote, with a 3% threshold needed to gain a seat, and 2 directly elected from the North African Ceuta and Melilla enclaves by simple majority vote; members serve 4-year terms or until the government is dissolved)"
       },
       "elections": {
-        "text": "Senate - last held on 10 November 2019 (next to be held no later than November 2023) Congress of Deputies - last held on 10 November 2019 (next to be held no later than November 2023)"
+        "text": "Senate - last held on 10 November 2019 (next to be held no later than November 2023) ++ Congress of Deputies - last held on 10 November 2019 (next to be held no later than November 2023)"
       },
       "election results": {
-        "text": "Senate - percent of vote by party - NA; seats by party - PSOE 113, PP 97, ERC 15, EAJ/PNV 10, C's 9, other 22; composition - men 163, women 103; percent of women 39% Congress of Deputies - percent of vote by party - PSOE 28.7%, PP 20.8%,Vox 15.1%, Unidos Podemos 12.8%, C's 6.8%, ERC 3.6%, other 12.8%; seats by party - PSOE 120, PP 88, Vox 52,  Unidos Podemos 35, C's 10, ERC 13, other 23; composition - men 184, women 166; percent of women 47.4%; note - total  General Courts percent of women 43.7%"
+        "text": "Senate - percent of vote by party - NA; seats by party - PSOE 113, PP 97, ERC 15, EAJ/PNV 10, C's 9, other 22; composition - men 163, women 103; percent of women 39% ++ Congress of Deputies - percent of vote by party - PSOE 28.7%, PP 20.8%,Vox 15.1%, Unidos Podemos 12.8%, C's 6.8%, ERC 3.6%, other 12.8%; seats by party - PSOE 120, PP 88, Vox 52,  Unidos Podemos 35, C's 10, ERC 13, other 23; composition - men 184, women 166; percent of women 47.4%; note - total  General Courts percent of women 43.7%"
       }
     },
     "Judicial branch": {
@@ -485,7 +479,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Asturias Forum or FAC [Carmen MORIYON]Basque Country Unite (Euskal Herria Bildu) or EH Bildu (coalition of 4 Basque pro-independence parties)Basque Nationalist Party or PNV or EAJ [Andoni ORTUZAR]Canarian Coalition or CC [Ana ORAMAS] (coalition of 5 parties)Junts per Catalunia or JxCat  [Carles PUIDGEMONT]Ciudadanos Party or C's [Albert RIVERA]Compromis - Communist Coalition [Joan BALDOVI]New Canary or NCa [Pedro QUEVEDOS]Unidas Podemos [Pablo IGLESIAS Turrion] (formerly Podemos IU; electoral coalition formed for May 2016 election)People's Party or PP [Pablo CASADO]Republican Left of Catalonia or ERC [Oriol JUNQUERAS i Vies]Spanish Socialist Workers Party or PSOE [Pedro SANCHEZ]JxCat-Junts Together for Catalonia [Jordi SANCHEZ]Union of People of Navarra or UPN [Javier ESPARZA]Navarra Suma (electoral Coaltion formed by Navarrese People's Union (UPN), Ciudadanos (C's), and the Popular Partty (PP) ahead of the 2019 election)Vox or Vox [Santiago ABASCAL]"
+      "text": "Asturias Forum or FAC [Carmen MORIYON] ++ Basque Country Unite (Euskal Herria Bildu) or EH Bildu (coalition of 4 Basque pro-independence parties) ++ Basque Nationalist Party or PNV or EAJ [Andoni ORTUZAR] ++ Canarian Coalition or CC [Ana ORAMAS] (coalition of 5 parties) ++ Junts per Catalunia or JxCat  [Carles PUIDGEMONT] ++ Ciudadanos Party or C's [Albert RIVERA] ++ Compromis - Communist Coalition [Joan BALDOVI] ++ New Canary or NCa [Pedro QUEVEDOS] ++ Unidas Podemos [Pablo IGLESIAS Turrion] (formerly Podemos IU; electoral coalition formed for May 2016 election) ++ People's Party or PP [Pablo CASADO] ++ Republican Left of Catalonia or ERC [Oriol JUNQUERAS i Vies] ++ Spanish Socialist Workers Party or PSOE [Pedro SANCHEZ] ++ JxCat-Junts Together for Catalonia [Jordi SANCHEZ] ++ Union of People of Navarra or UPN [Javier ESPARZA] ++ Navarra Suma (electoral Coaltion formed by Navarrese People's Union (UPN), Ciudadanos (C's), and the Popular Partty (PP) ahead of the 2019 election) ++ Vox or Vox [Santiago ABASCAL]"
     },
     "International organization participation": {
       "text": "ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BCIE, BIS, CAN (observer), CBSS (observer), CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Schengen Convention, SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, Union Latina, UNOCI, UNRWA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC"
@@ -553,7 +547,7 @@
   },
   "Economy": {
     "Economy - overview": {
-      "text": "After a prolonged recession that began in 2008 in the wake of the global financial crisis, Spain marked the fourth full year of positive economic growth in 2017, with economic activity surpassing its pre-crisis peak, largely because of increased private consumption. The financial crisis of 2008 broke 16 consecutive years of economic growth for Spain, leading to an economic contraction that lasted until late 2013. In that year, the government successfully shored up its struggling banking sector - heavily exposed to the collapse of Spain’s real estate boom - with the help of an EU-funded restructuring and recapitalization program. Until 2014, contraction in bank lending, fiscal austerity, and high unemployment constrained domestic consumption and investment. The unemployment rate rose from a low of about 8% in 2007 to more than 26% in 2013, but labor reforms prompted a modest reduction to 16.4% in 2017. High unemployment strained Spain's public finances, as spending on social benefits increased while tax revenues fell. Spain’s budget deficit peaked at 11.4% of GDP in 2010, but Spain gradually reduced the deficit to about 3.3% of GDP in 2017. Public debt has increased substantially – from 60.1% of GDP in 2010 to nearly 96.7% in 2017. Strong export growth helped bring Spain's current account into surplus in 2013 for the first time since 1986 and sustain Spain’s economic growth. Increasing labor productivity and an internal devaluation resulting from moderating labor costs and lower inflation have improved Spain’s export competitiveness and generated foreign investor interest in the economy, restoring FDI flows. In 2017, the Spanish Government’s minority status constrained its ability to implement controversial labor, pension, health care, tax, and education reforms. The European Commission expects the government to meet its 2017 budget deficit target and anticipates that expected economic growth in 2018 will help the government meet its deficit target. Spain’s borrowing costs are dramatically lower since their peak in mid-2012, and increased economic activity has generated a modest level of inflation, at 2% in 2017."
+      "text": "After a prolonged recession that began in 2008 in the wake of the global financial crisis, Spain marked the fourth full year of positive economic growth in 2017, with economic activity surpassing its pre-crisis peak, largely because of increased private consumption. The financial crisis of 2008 broke 16 consecutive years of economic growth for Spain, leading to an economic contraction that lasted until late 2013. In that year, the government successfully shored up its struggling banking sector - heavily exposed to the collapse of Spain's real estate boom - with the help of an EU-funded restructuring and recapitalization program. ++ Until 2014, contraction in bank lending, fiscal austerity, and high unemployment constrained domestic consumption and investment. The unemployment rate rose from a low of about 8% in 2007 to more than 26% in 2013, but labor reforms prompted a modest reduction to 16.4% in 2017. High unemployment strained Spain's public finances, as spending on social benefits increased while tax revenues fell. Spain's budget deficit peaked at 11.4% of GDP in 2010, but Spain gradually reduced the deficit to about 3.3% of GDP in 2017. Public debt has increased substantially – from 60.1% of GDP in 2010 to nearly 96.7% in 2017. ++ Strong export growth helped bring Spain's current account into surplus in 2013 for the first time since 1986 and sustain Spain's economic growth. Increasing labor productivity and an internal devaluation resulting from moderating labor costs and lower inflation have improved Spain's export competitiveness and generated foreign investor interest in the economy, restoring FDI flows. ++ In 2017, the Spanish Government's minority status constrained its ability to implement controversial labor, pension, health care, tax, and education reforms. The European Commission expects the government to meet its 2017 budget deficit target and anticipates that expected economic growth in 2018 will help the government meet its deficit target. Spain's borrowing costs are dramatically lower since their peak in mid-2012, and increased economic activity has generated a modest level of inflation, at 2% in 2017."
     },
     "GDP (purchasing power parity)": {
       "text": "$1.778 trillion (2017 est.) / $1.727 trillion (2016 est.) / $1.674 trillion (2015 est.)",
@@ -959,7 +953,7 @@
   },
   "Terrorism": {
     "Terrorist group(s)": {
-      "text": "Basque Fatherland and Liberty (disbanded); Islamic State of Iraq and ash-Sham; al-Qa’ida (2019)",
+      "text": "Basque Fatherland and Liberty (disbanded); Islamic State of Iraq and ash-Sham; al-Qa'ida (2019)",
       "note": {
         "text": "note: details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T"
       }
@@ -967,7 +961,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any \"shared sovereignty\" arrangement; the Government of Gibraltar insists on equal participation in talks between the UK and Spain; Spain disapproves of UK plans to grant Gibraltar greater autonomy; after voters in the UK chose to leave the EU in a June 2016 referendum, Spain again proposed shared sovereignty of Gibraltar; UK officials rejected Spain’s joint sovereignty proposal; Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas, and surrounding waters; both countries claim Isla Perejil (Leila Island); Morocco serves as the primary launching site of illegal migration into Spain from North Africa; Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz"
+      "text": "in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any \"shared sovereignty\" arrangement; the Government of Gibraltar insists on equal participation in talks between the UK and Spain; Spain disapproves of UK plans to grant Gibraltar greater autonomy; after voters in the UK chose to leave the EU in a June 2016 referendum, Spain again proposed shared sovereignty of Gibraltar; UK officials rejected Spain's joint sovereignty proposal; Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas, and surrounding waters; both countries claim Isla Perejil (Leila Island); Morocco serves as the primary launching site of illegal migration into Spain from North Africa; Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz"
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
