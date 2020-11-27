@@ -3,14 +3,42 @@
 What's the World Factbook?
 
 The World Factbook [1][2] published by the Central Intelligence Agency (CIA)
-offers free country profiles in the public domain (that is, no copyright(s), no rights reserved).
+offers free country profiles in the public domain (that is, no copyright(s), no rights reserved, no license).
 
 - [1] [The World Factbook](https://www.cia.gov/library/publications/the-world-factbook/)
 - [2] [Wikipedia Article: The World Factbook](http://en.wikipedia.org/wiki/The_World_Factbook)
 
+**Note: All country profiles use the original / official two-letter GEC (formerly FIPS) codes and NOT the ISO codes (you
+ might be used to) e.g. `au.json` for Austria (and NOT `at.json`), `gm.json` for Germany (and NOT `de.json`), and so on.** 
 
-> Note: All country profiles use the "official" two-letter GEC (formerly FIPS) codes and NOT the ISO codes (you
-> might be used to) e.g. `au` for Austria (and not `at`), `gm` for Germany (and not `de`), and so on. 
+
+
+## Background
+
+For a little background on this factbook project from the humble author, 
+see the all-in-one page talk slides / notes titled [Turn the World Factbook into Open (Structured) Data](https://github.com/geraldb/talks/blob/master/factbook.md).
+
+Find some more notes on [query examples (and import instructions) for MongoDB](MONGO.md) 
+from another talk. Happy exploring the world with JavaScript Object Notation (JSON) datasets / documents.
+
+
+## Frequently Asked Questions (F.A.Qs) & Answers
+
+### Q: Why not just use the ISO country codes? Not a bug, a feature request.
+
+A: The factbook has many more entities / countries than ISO and sometimes with a different definition - 
+it's NOT an easy 1:1 mapping, see [Appendix D - Cross-Reference List of Country Data Codes](https://www.cia.gov/library/publications/the-world-factbook/appendix/appendix-d.html).
+
+### Q: I noticed that you've got Zambian data under ZA for the African region... It should be South African data...
+
+A: See why not ISO codes -  Uhhh... nevermind, I see it's stored under SF. Weird, but, ok :)
+
+### Q: Can you update the datasets? 
+
+A: Since November 2020 the datasets get auto-updated using / fetching the original
+online CIA World Factbook country profile web pages twice a month, that is,
+every 1st and 15th of every month. See the [GitHub Actions log](https://github.com/factbook/factbook/actions) for details.  
+
 
 
 ## Examples
@@ -63,7 +91,7 @@ Europe/Austria - `au.json`:
                some snow in lowlands and snow in mountains;
                moderate summers with occasional showers"
     },
-    "Elevation extremes": {
+    "Elevation": {
       "lowest point": {
         "text": "Neusiedler See 115 m"
       },
@@ -76,6 +104,7 @@ Europe/Austria - `au.json`:
                magnesite, tungsten, graphite, salt, hydropower"
     },
     ...
+}
 ```
 
 
@@ -414,10 +443,18 @@ United States (14):
 `xx` World
 
 
+
 ## Build Your Own Up-to-Date Country Profiles
 
 See the [`factbook`](https://github.com/factbook/factbook)
 command line tool and scripts for details.
+
+
+
+## Real-World Usage
+
+
+
 
 
 ## License
