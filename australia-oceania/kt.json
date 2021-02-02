@@ -23,14 +23,15 @@
       },
       "water": {
         "text": "0 sq km"
-      },
-      "country comparison to the world": 221
+      }
     },
     "Area - comparative": {
       "text": "about three-quarters the size of Washington, DC"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "138.9 km"
@@ -67,8 +68,14 @@
       "agricultural land": {
         "text": "0% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "0% (2011 est.) / 0% (2011 est.) / 0% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 0% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 0% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 0% (2011 est.)"
       },
       "other": {
         "text": "100% (2011 est.)"
@@ -92,8 +99,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "2,205 (2016 est.)",
-      "country comparison to the world": 230
+      "text": "2,205 (2016 est.)"
     },
     "Nationality": {
       "noun": {
@@ -105,11 +111,11 @@
     },
     "Ethnic groups": {
       "text": "Chinese 70%, European 20%, Malay 10% (2001)",
-      "note": "note: no indigenous population"
+      "note": "<p><strong>note:</strong> no indigenous population</p>"
     },
     "Languages": {
       "text": "English (official) 27.6%, Mandarin 17.2%, Malay 17.1%, Cantonese 3.9%, Min Nan 1.6%, Tagalog 1%, other 4.5%, unspecified 27.1% (2016 est.)",
-      "note": "note: data represent language spoken at home"
+      "note": "<p><strong>note:</strong> data represent language spoken at home</p>"
     },
     "Religions": {
       "text": "Muslim 19.4%, Buddhist 18.3%, Roman Catholic 8.8%, Protestant 6.5% (includes Anglican 3.6%, Uniting Church 1.2%, other 1.7%), other Christian 3.3%, other 0.6%, none 15.3%, unspecified 27.7% (2016 est.)"
@@ -132,14 +138,13 @@
       }
     },
     "Population growth rate": {
-      "text": "1.11% (2014 est.)",
-      "country comparison to the world": 94
+      "text": "1.11% (2014 est.)"
     },
     "Population distribution": {
       "text": "majority of the population lives on the northern tip of the island"
     },
     "Sex ratio": {
-      "note": "NA"
+      "text": "NA"
     },
     "Infant mortality rate": {
       "total": {
@@ -204,7 +209,7 @@
       "time difference": {
         "text": "UTC+7 (12 hours ahead of Washington, DC, during Standard Time)"
       },
-      "note": "etymology: self-descriptive name for the main locus of population"
+      "note": "<br><br><strong>etymology:</strong> self-descriptive name for the main locus of population"
     },
     "Administrative divisions": {
       "text": "none (territory of Australia)"
@@ -227,7 +232,7 @@
       "text": "legal system is under the authority of the governor general of Australia and Australian law"
     },
     "Citizenship": {
-      "note": "see Australia"
+      "text": "see Australia"
     },
     "Suffrage": {
       "text": "18 years of age"
@@ -248,14 +253,16 @@
         "text": "unicameral Christmas Island Shire Council (9 seats; members directly elected by simple majority vote to serve 4-year terms with a portion of the membership renewed every 2 years)"
       },
       "elections": {
-        "text": "held every 2 years with half the members standing for election; last held on 21 October 2017 (next to be held in October 2019)"
+        "text": "held every 2 years with half the members standing for election; last held on&nbsp;21 October 2017 (next to be held in October 2019)"
       },
       "election results": {
         "text": "percent of vote - NA; seats by party - independent 9; composition as of 17 October 2015 - men 7, women 2, percent of women 22.2%"
       }
     },
     "Judicial branch": {
-      "text": "under the terms of the Territorial Law Reform Act 1992, Western Australia provides court services as needed for the island, including the Supreme Court and subordinate courts (District Court, Magistrate Court, Family Court, Children's Court, and Coroners' Court)"
+      "highest courts": {
+        "text": "under the terms of the Territorial Law Reform Act 1992, Western Australia provides court services as needed for the island, including the Supreme Court and subordinate courts (District Court, Magistrate Court, Family Court, Children's Court, and Coroners' Court)"
+      }
     },
     "Political parties and leaders": {
       "text": "none"
@@ -264,32 +271,32 @@
       "text": "none"
     },
     "Diplomatic representation in the US": {
-      "note": "none (territory of Australia)"
+      "text": "none (territory of Australia)"
     },
     "Diplomatic representation from the US": {
-      "text": "none (territory of Australia)"
+      "embassy": {
+        "text": "none (territory of Australia)"
+      }
     },
     "Flag description": {
       "text": "territorial flag; divided diagonally from upper hoist to lower fly; the upper triangle is green with a yellow image of the Golden Bosun Bird superimposed; the lower triangle is blue with the Southern Cross constellation, representing Australia, superimposed; a centered yellow disk displays a green map of the island",
-      "note": "note: the flag of Australia is used for official purposes"
+      "note": "<p><strong>note:</strong> the flag of Australia is used for official purposes</p>"
     },
     "National symbol(s)": {
       "text": "golden bosun bird"
     },
     "National anthem": {
-      "note": "note: as a territory of Australia, \"Advance Australia Fair\" remains official as the national anthem, while \"God Save the Queen\" serves as the royal anthem (see Australia)"
+      "text": "<p><strong>note:</strong> as a territory of Australia, \"Advance Australia Fair\" remains official as the national anthem, while \"God Save the Queen\" serves as the royal anthem (see Australia)</p>"
     }
   },
   "Economy": {
     "Economic overview": {
       "text": "The main economic activities on Christmas Island are the mining of low grade phosphate, limited tourism, the provision of government services and, since 2005, the construction and operation of the Immigration Detention Center. The government sector includes administration, health, education, policing, customs, quarantine, and defense."
     },
-    "GDP (purchasing power parity) - real": {
-      "note": "NA"
+    "Real GDP (purchasing power parity)": {
+      "text": "<p>NA</p>"
     },
-    "Ease of Doing Business Index scores": {
-    },
-    "Agriculture - products": {
+    "Agricultural products": {
       "text": "NA"
     },
     "Industries": {
@@ -310,19 +317,36 @@
       "text": "1 July - 30 June"
     },
     "Exports": {
-      "note": "NA"
+      "text": "<p>NA</p>"
     },
     "Exports - commodities": {
       "text": "phosphate"
     },
     "Imports": {
-      "note": "NA"
+      "text": "<p>NA</p>"
     },
     "Imports - commodities": {
       "text": "consumer goods"
     },
     "Exchange rates": {
-      "text": "Australian dollars (AUD) per US dollar - / 1.311 (2017 est.) / 1.3442 (2016 est.) / 1.3442 (2015) / 1.3291 (2014 est.) / 1.1094 (2013 est.)"
+      "currency": {
+        "text": "Australian dollars (AUD) per US dollar -"
+      },
+      "Exchange rates 2017": {
+        "text": "1.311 (2017 est.)"
+      },
+      "Exchange rates 2016": {
+        "text": "1.3442 (2016 est.)"
+      },
+      "Exchange rates 2015": {
+        "text": "1.3442 (2015)"
+      },
+      "Exchange rates 2014": {
+        "text": "1.3291 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "1.1094 (2013 est.)"
+      }
     }
   },
   "Communications": {
@@ -349,14 +373,14 @@
       },
       "percent of population": {
         "text": "35.8% (July 2016 est.)"
-      },
-      "country comparison to the world": 227
+      }
     }
   },
   "Transportation": {
     "Airports": {
-      "text": "1 (2020)",
-      "country comparison to the world": 216
+      "total": {
+        "text": "1 (2020)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -373,8 +397,7 @@
       "standard gauge": {
         "text": "18 km 1.435-m (not in operation) (2017)"
       },
-      "note": "note: the 18-km Christmas Island Phosphate Company Railway between Flying Fish Cove and South Point was decommissioned in 1987; some tracks and scrap remain in place",
-      "country comparison to the world": 134
+      "note": "<p><strong>note:</strong> the 18-km Christmas Island Phosphate Company Railway between Flying Fish Cove and South Point was decommissioned in 1987; some tracks and scrap remain in place</p>"
     },
     "Roadways": {
       "total": {
@@ -385,8 +408,7 @@
       },
       "unpaved": {
         "text": "110 km (2011)"
-      },
-      "country comparison to the world": 210
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -401,7 +423,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "none"
+      "text": "<p>none</p>"
     }
   }
 }

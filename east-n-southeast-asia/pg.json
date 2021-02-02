@@ -24,20 +24,21 @@
       "water": {
         "text": "0 sq km"
       },
-      "note": "note: includes 100 or so islets, coral reefs, and sea mounts scattered over an area of nearly 410,000 sq km (158,000 sq mi) of the central South China Sea",
-      "country comparison to the world": 250
+      "note": "<p><strong>note:</strong> includes 100 or so islets, coral reefs, and sea mounts scattered over an area of nearly 410,000 sq km (158,000 sq mi) of the central South China Sea</p>"
     },
     "Area - comparative": {
       "text": "land area is about seven times the size of the National Mall in Washington, DC"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "926 km"
     },
     "Maritime claims": {
-      "note": "NA"
+      "text": "NA"
     },
     "Climate": {
       "text": "tropical"
@@ -60,8 +61,14 @@
       "agricultural land": {
         "text": "0% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "0% (2011 est.) / 0% (2011 est.) / 0% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 0% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 0% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 0% (2011 est.)"
       },
       "forest": {
         "text": "0% (2011 est.)"
@@ -82,8 +89,42 @@
   },
   "People and Society": {
     "Population": {
-      "text": "no indigenous inhabitants",
-      "note": "note: there are scattered garrisons occupied by military personnel of several claimant states"
+      "text": "7,399,757 no indigenous inhabitants (July 2021 est.)",
+      "note": "<p><strong>note:</strong> there are scattered garrisons occupied by military personnel of several claimant states</p>"
+    },
+    "Population growth rate": {
+      "text": "1.61% (2021 est.)"
+    },
+    "Death rate": {
+      "text": "5.97 deaths/1,000 population (2021 est.)"
+    },
+    "Net migration rate": {
+      "text": "0 migrant(s)/1,000 population (2021 est.)"
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "40.33 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "45.32 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "35.09 deaths/1,000 live births (2021 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "69.86 years"
+      },
+      "male": {
+        "text": "67.37 years"
+      },
+      "female": {
+        "text": "72.48 years (2021 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "2.79 children born/woman (2021 est.)"
     }
   },
   "Government": {
@@ -102,14 +143,13 @@
   "Economy": {
     "Economic overview": {
       "text": "Economic activity is limited to commercial fishing. The proximity to nearby oil- and gas-producing sedimentary basins indicate potential oil and gas deposits, but the region is largely unexplored. No reliable estimates of potential reserves are available. Commercial exploitation has yet to be developed."
-    },
-    "Ease of Doing Business Index scores": {
     }
   },
   "Transportation": {
     "Airports": {
-      "text": "8 (2020)",
-      "country comparison to the world": 162
+      "total": {
+        "text": "8 (2020)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -137,17 +177,17 @@
       "text": "5 (2020)"
     },
     "Ports and terminals": {
-      "note": "none; offshore anchorage only"
+      "text": "none; offshore anchorage only"
     }
   },
   "Military and Security": {
     "Military - note": {
-      "text": "Spratly Islands consist of more than 100 small islands or reefs of which about 45 are claimed and occupied by China, Malaysia, the Philippines, Taiwan, and Vietnam ++ China: assessed to have 7 outposts (Fiery Cross, Mischief, Subi, Cuarteron, Gavin, Hughes, and Johnson reefs); the outposts on Fiery Cross, Mischief, and Subi include air bases with helipads and dozens of fighter jet hangers, naval port facilities, surveillance radars, air defense sites, anti-ship cruise missiles, and other military infrastructure such as communications, barracks, maintenance facilities, and ammunition and fuel bunkers ++ Malaysia: assessed to have 5 outposts in the southern portion of the archipelago, closest to the Malaysian state of Sabah (Ardasier Reef, Eric Reef, Mariveles Reef, Shallow Reef, and Investigator Shoal); all the outposts have helicopter landing pads, while Shallow Reef also has an airstrip ++ Philippines: assessed to occupy 9 features (Commodore Reef, Second Thomas Shoal, Flat Island, Loaita Cay, Loaita Island, Nanshan Island, Northeast Cay, Thitu Island, and West York Island); Thitu Island has the only Philippine airstrip in the Spratlys ++ Taiwan: maintains an outpost with an airstrip on Itu Aba Island ++ Vietnam: assessed to occupy about 49 outposts spread across 27 features, including facilities on 21 rocks and reefs in the Spratlys, plus 14 platforms known as \"economic, scientific, and technological service stations,\" or Dịch vụ-Khoa (DK1), on six underwater banks to the southeast that Vietnam does not consider part of the disputed island chain, although China and Taiwan disagree; Spratly Islands outposts are on Alison Reef, Amboyna Cay, Barque Canada Reef, Central Reef, Collins Reef, Cornwallis South Reef, Discovery Great Reef, East Reef, Grierson Reef, Ladd Reef, Landsdowne Reef, Namyit Island, Pearson Reef, Petley Reef, Sand Cay, Sin Cowe Island, South Reef, Southwest Cay, Spratly Island, Tennent Reef, West Reef; Spratly Island includes an airstrip with aircraft hangers; the six underwater banks with outposts include Vanguard, Rifleman, Prince of Wales, Prince Consort, Grainger, and Alexandra (2020)"
+      "text": "Spratly Islands consist of more than 100 small islands or reefs of which about 45 are claimed and occupied by China, Malaysia, the Philippines, Taiwan, and Vietnam<br /><br /><strong>China: </strong>assessed to have 7 outposts (Fiery Cross, Mischief, Subi, Cuarteron, Gavin, Hughes, and Johnson reefs); the outposts on Fiery Cross, Mischief, and Subi include air bases with helipads and dozens of fighter jet hangers, naval port facilities, surveillance radars, air defense sites, anti-ship cruise missiles, and other military infrastructure such as communications, barracks, maintenance facilities, and ammunition and fuel bunkers <br /> <p><strong>Malaysia:&nbsp; </strong>assessed to have 5 outposts in the southern portion of the archipelago, closest to the Malaysian state of Sabah (Ardasier Reef, Eric Reef, Mariveles Reef, Shallow Reef, and Investigator Shoal); all the outposts have helicopter landing pads, while Shallow Reef also has an airstrip</p> <p><strong>Philippines: </strong>assessed to occupy 9 features (Commodore Reef, Second Thomas Shoal, Flat Island, Loaita Cay, Loaita Island, Nanshan Island, Northeast Cay, Thitu Island, and West York Island); Thitu Island has the only Philippine airstrip in the Spratlys</p> <p><strong>Taiwan: </strong>maintains an outpost with an airstrip on Itu Aba Island</p> <p><strong>Vietnam: </strong>assessed to occupy about 49 outposts spread across 27 features, including facilities on 21 rocks and reefs in the Spratlys, plus 14 platforms known as &ldquo;economic, scientific, and technological service stations,&rdquo; or <em>Dịch vụ-Khoa</em> (DK1), on six underwater banks to the southeast that Vietnam does not consider part of the disputed island chain, although China and Taiwan disagree; Spratly Islands outposts are on Alison Reef, Amboyna Cay, Barque Canada Reef, Central Reef, Collins Reef, Cornwallis South Reef, Discovery Great Reef, East Reef, Grierson Reef, Ladd Reef, Landsdowne Reef, Namyit Island, Pearson Reef, Petley Reef, Sand Cay, Sin Cowe Island, South Reef, Southwest Cay, Spratly Island, Tennent Reef, West Reef; Spratly Island includes an airstrip with aircraft hangers; the six underwater banks with outposts include Vanguard, Rifleman, Prince of Wales, Prince Consort, Grainger, and Alexandra</p> (2020)"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "all of the Spratly Islands are claimed by China (including Taiwan) and Vietnam; parts of them are claimed by Brunei, Malaysia and the Philippines; despite no public territorial claim to Louisa Reef, Brunei implicitly lays claim by including it within the natural prolongation of its continental shelf and basis for a seabed median with Vietnam; claimants in November 2002 signed the \"Declaration on the Conduct of Parties in the South China Sea,\" which has eased tensions but falls short of a legally binding \"code of conduct\"; in March 2005, the national oil companies of China, the Philippines, and Vietnam signed a joint accord to conduct marine seismic activities in the Spratly Islands"
+      "text": "<p>all of the Spratly Islands are claimed by China (including Taiwan) and Vietnam; parts of them are claimed by Brunei, Malaysia and the Philippines; despite no public territorial claim to Louisa Reef, Brunei implicitly lays claim by including it within the natural prolongation of its continental shelf and basis for a seabed median with Vietnam; claimants in November 2002 signed the \"Declaration on the Conduct of Parties in the South China Sea,\" which has eased tensions but falls short of a legally binding \"code of conduct\"; in March 2005, the national oil companies of China, the Philippines, and Vietnam signed a joint accord to conduct marine seismic activities in the Spratly Islands</p>"
     }
   }
 }

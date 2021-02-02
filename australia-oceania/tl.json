@@ -23,14 +23,15 @@
       },
       "water": {
         "text": "0 sq km"
-      },
-      "country comparison to the world": 241
+      }
     },
     "Area - comparative": {
       "text": "about 17 times the size of the National Mall in Washington, DC"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "101 km"
@@ -64,8 +65,14 @@
       "agricultural land": {
         "text": "60% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "0% (2011 est.) / 60% (2011 est.) / 0% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 0% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 60% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 0% (2011 est.)"
       },
       "forest": {
         "text": "0% (2011 est.)"
@@ -92,8 +99,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "1,647 (2019 est.)",
-      "country comparison to the world": 233
+      "text": "1,413,958 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -108,14 +114,19 @@
     },
     "Languages": {
       "text": "Tokelauan 88.1% (a Polynesian language), English 48.6%, Samoan 26.7%, Tuvaluan 11.2%, Kiribati 1.5%, other 2.8%, none 2.8%, unspecified 0.8% (2016 ests.)",
-      "note": "note: shares sum to more than 100% because some respondents gave more than one answer on the census"
+      "note": "<p><strong>note:</strong> shares sum to more than 100% because some respondents gave more than one answer on the census</p>"
     },
     "Religions": {
       "text": "Congregational Christian Church 50.4%, Roman Catholic 38.7%, Presbyterian 5.9%, other Christian 4.2%, unspecified 0.8% (2016 est.)"
     },
     "Population growth rate": {
-      "text": "-0.01% (2014 est.)",
-      "country comparison to the world": 195
+      "text": "2.19% (2021 est.)"
+    },
+    "Death rate": {
+      "text": "5.67 deaths/1,000 population (2021 est.)"
+    },
+    "Net migration rate": {
+      "text": "-3.84 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "the country's small population is fairly evenly distributed amongst the three atolls"
@@ -129,50 +140,62 @@
       }
     },
     "Sex ratio": {
-      "note": "NA"
+      "text": "NA"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "NA (2018)"
+        "text": "34.47 deaths/1,000 live births NA"
       },
       "male": {
-        "text": "NA"
+        "text": "37.85 deaths/1,000 live births NA"
       },
       "female": {
-        "text": "NA"
+        "text": "30.86 deaths/1,000 live births NA (2021 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "NA (2017 est.)"
+        "text": "69.62 years NA"
       },
       "male": {
-        "text": "NA"
+        "text": "67.94 years NA"
       },
       "female": {
-        "text": "NA"
+        "text": "71.41 years NA (2021 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "NA"
+      "text": "4.32 children born/woman NA (2021 est.)"
     },
     "Drinking water source": {
-      "improved": {
-        "text": "rural: 100% of population / total: 100% of population"
+      "improved: rural": {
+        "text": "rural: 100% of population"
       },
-      "unimproved": {
-        "text": "rural: 0% of population / total: 0% of population (2017 est.)"
+      "improved: total": {
+        "text": "total: 100% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 0% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 0% of population (2017 est.)"
       }
     },
     "Physicians density": {
       "text": "2.72 physicians/1,000 population (2010)"
     },
     "Sanitation facility access": {
-      "improved": {
-        "text": "rural: 100% of population / total: 100% of population"
+      "improved: rural": {
+        "text": "rural: 100% of population"
       },
-      "unimproved": {
-        "text": "rural: 0% of population / total: 0% of population (2017 est.)"
+      "improved: total": {
+        "text": "total: 100% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 0% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 0% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -218,11 +241,13 @@
       "text": "self-administering territory of New Zealand; note - Tokelau and New Zealand have agreed to a draft constitution as Tokelau moves toward free association with New Zealand; a UN-sponsored referendum on self governance in October 2007 did not meet the two-thirds majority vote necessary for changing the political status"
     },
     "Government type": {
-      "text": "parliamentary democracy under a constitutional monarchy"
+      "text": "<p>parliamentary democracy under a constitutional monarchy</p>"
     },
     "Capital": {
-      "text": "UTC+13 (18 hours ahead of Washington, DC during Standard Time)",
-      "note": "note: there is no designated, official capital for Tokelau; the location of the capital rotates among the three atolls along with the head of government or Ulu o Tokelau"
+      "time difference": {
+        "text": "UTC+13 (18 hours ahead of Washington, DC during Standard Time)"
+      },
+      "note": "<br><br>note: there is no designated, official capital for Tokelau; the location of the capital rotates among the three atolls along with the head of government or Ulu o Tokelau"
     },
     "Administrative divisions": {
       "text": "none (territory of New Zealand)"
@@ -245,7 +270,7 @@
       "text": "common law system of New Zealand"
     },
     "Citizenship": {
-      "note": "see New Zealand"
+      "text": "see New Zealand"
     },
     "Suffrage": {
       "text": "21 years of age; universal"
@@ -263,7 +288,7 @@
       "elections/appointments": {
         "text": "the monarchy is hereditary; governor general appointed by the monarch; administrator appointed by the Minister of Foreign Affairs and Trade in New Zealand; head of government chosen from the Council of Faipule to serve a 1-year term"
       },
-      "note": "note: the meeting place of the Tokelau Council rotates annually among the three atolls; this tradition has given rise to the somewhat misleading description that the capital rotates yearly between the three atolls; in actuality, it is the seat of the government councilors that rotates since Tokelau has no capital"
+      "note": "<p><strong>note:</strong> the meeting place of the Tokelau Council rotates annually among the three atolls; this tradition has given rise to the somewhat misleading description that the capital rotates yearly between the three atolls; in actuality, it is the seat of the government councilors that rotates since Tokelau has no capital</p>"
     },
     "Legislative branch": {
       "description": {
@@ -294,10 +319,10 @@
       "text": "PIF (associate member), SPC, UNESCO (associate), UPU"
     },
     "Diplomatic representation in the US": {
-      "note": "none (territory of New Zealand)"
+      "text": "none (territory of New Zealand)"
     },
     "Diplomatic representation from the US": {
-      "note": "none (territory of New Zealand)"
+      "text": "none (territory of New Zealand)"
     },
     "Flag description": {
       "text": "a yellow stylized Tokelauan canoe on a dark blue field sails toward the manu - the Southern Cross constellation of four, white, five-pointed stars at the hoist side; the Southern Cross represents the role of Christianity in Tokelauan culture and, in conjunction with the canoe, symbolizes the country navigating into the future; the color yellow indicates happiness and peace, and the blue field represents the ocean on which the community relies"
@@ -312,33 +337,49 @@
       "lyrics/music": {
         "text": "unknown/Falani KALOLO"
       },
-      "note": "note: adopted 2008; in preparation for eventual self governance, Tokelau held a national contest to choose an anthem; as a territory of New Zealand, \"God Defend New Zealand\" and \"God Save the Queen\" are official (see New Zealand)"
+      "note": "<p><strong>note:</strong> adopted 2008; in preparation for eventual self governance, Tokelau held a national contest to choose an anthem; as a territory of New Zealand, \"God Defend New Zealand\" and \"God Save the Queen\" are official (see New Zealand)</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "Tokelau's small size (three villages), isolation, and lack of resources greatly restrain economic development and confine agriculture to the subsistence level. The principal sources of revenue are from sales of copra, postage stamps, souvenir coins, and handicrafts. Money is also remitted to families from relatives in New Zealand. ++ The people rely heavily on aid from New Zealand - about $15 million annually in FY12/13 and FY13/14 - to maintain public services. New Zealand's support amounts to 80% of Tokelau's recurrent government budget. An international trust fund, currently worth nearly $32 million, was established in 2004 by New Zealand to provide Tokelau an independent source of revenue."
+      "text": "<p>Tokelau's small size (three villages), isolation, and lack of resources greatly restrain economic development and confine agriculture to the subsistence level. The principal sources of revenue are from sales of copra, postage stamps, souvenir coins, and handicrafts. Money is also remitted to families from relatives in New Zealand.</p><p></p><p>The people rely heavily on aid from New Zealand - about $15 million annually in FY12/13 and FY13/14 - to maintain public services. New Zealand's support amounts to 80% of Tokelau's recurrent government budget. An international trust fund, currently worth nearly $32 million, was established in 2004 by New Zealand to provide Tokelau an independent source of revenue.</p>"
     },
-    "GDP real growth rate": {
-      "note": "NA"
+    "Real GDP growth rate": {
+      "text": "<p>NA</p>"
     },
     "Inflation rate (consumer prices)": {
-      "text": "4% (2020 est.) / 2.5% (2019 est.) / 11% (2017 est.)",
-      "note": "note: Tokelau notes that its wide inflation swings are due almost entirely due to cigarette prices, a chief import.",
-      "country comparison to the world": 168
+      "Inflation rate (consumer prices) 2020": {
+        "text": "4% (2020 est.)"
+      },
+      "Inflation rate (consumer prices) 2019": {
+        "text": "2.5% (2019 est.)"
+      },
+      "Inflation rate (consumer prices) 2017": {
+        "text": "11% (2017 est.)"
+      },
+      "note": "<p><strong>note: </strong>Tokelau notes that its wide inflation swings are due almost entirely due to cigarette prices, a chief import.</p>"
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$7,711,583 (2017 est.)",
-      "note": "note: data are in 2017 dollars."
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2017": {
+        "text": "$7,711,583 (2017 est.)"
+      },
+      "note": "<br><br><strong>note:</strong> data are in 2017 dollars."
     },
     "GDP (official exchange rate)": {
       "text": "$12.658 million (2017 est.)",
-      "note": "note: data uses New Zealand Dollar (NZD) as the currency of exchange."
+      "note": "<br><br><strong>note:</strong> data uses New Zealand Dollar (NZD) as the currency of exchange."
     },
-    "GDP - per capita (PPP)": {
-      "text": "$6,004 (2017 est.) / $4,855 (2016 est.) / $4,292 (2015 est.)",
-      "note": "note: data are in 2017 dollars.",
-      "country comparison to the world": 146
+    "Real GDP per capita": {
+      "Real GDP per capita 2017": {
+        "text": "$6,004 (2017 est.)"
+      },
+      "Real GDP per capita 2016": {
+        "text": "$4,855 (2016 est.)"
+      },
+      "Real GDP per capita 2015": {
+        "text": "$4,292 (2015 est.)"
+      },
+      "note": "<br><br><strong>note:</strong> data are in 2017 dollars."
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -351,22 +392,20 @@
         "text": "NA"
       }
     },
-    "Ease of Doing Business Index scores": {
-    },
-    "Agriculture - products": {
-      "text": "coconuts, copra, breadfruit, papayas, bananas; pigs, poultry, goats; fish"
+    "Agricultural products": {
+      "text": "coconuts, roots/tubers nes, tropical fruit, pork, bananas, eggs, poultry, pig offals, pig fat, fruit"
     },
     "Industries": {
       "text": "small-scale enterprises for copra production, woodworking, plaited craft goods; stamps, coins; fishing"
     },
     "Labor force": {
-      "text": "1,100 (2019 est.)",
-      "country comparison to the world": 228
+      "text": "1,100 (2019 est.)"
     },
     "Unemployment rate": {
-      "text": "2% (2015 est.)",
-      "note": "note: Underemployment may be as high as 6.6%",
-      "country comparison to the world": 21
+      "Unemployment rate 2015": {
+        "text": "2% (2015 est.)"
+      },
+      "note": "<br><br><strong>note:</strong> Underemployment may be as high as 6.6%"
     },
     "Population below poverty line": {
       "text": "NA"
@@ -383,8 +422,12 @@
       "text": "1 April - 31 March"
     },
     "Exports": {
-      "text": "$103,000 (2015 est.) / $102,826 (2002 est.)",
-      "country comparison to the world": 222
+      "Exports 2015": {
+        "text": "$103,000 (2015 est.)"
+      },
+      "Exports 2002": {
+        "text": "$102,826 (2002 est.)"
+      }
     },
     "Exports - partners": {
       "text": "Samoa, Cook Islands, New Zealand (2020)"
@@ -393,23 +436,28 @@
       "text": "fishery supplies, handicrafts, recyclables, stamps"
     },
     "Imports": {
-      "text": "$15,792,720 (2015 est.)",
-      "country comparison to the world": 223
-    },
-    "Imports - commodities": {
-      "text": "alcohol, automobiles, building materials, foodstuffs, fuel, tobacco"
+      "Imports 2015": {
+        "text": "$15,792,720 (2015 est.)"
+      }
     },
     "Imports - partners": {
       "text": "Samoa, New Zealand, Cook Islands (2020)"
     },
+    "Imports - commodities": {
+      "text": "alcohol, automobiles, building materials, foodstuffs, fuel, tobacco"
+    },
     "Exchange rates": {
-      "text": "New Zealand dollars (NZD) per US dollar - / 1.543 (2017 est.)"
+      "currency": {
+        "text": "New Zealand dollars (NZD) per US dollar -"
+      },
+      "Exchange rates 2017": {
+        "text": "1.543 (2017 est.)"
+      }
     }
   },
   "Energy": {
     "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2010 est.)",
-      "country comparison to the world": 205
+      "text": "0 bbl (1 January 2010 est.)"
     }
   },
   "Communications": {
@@ -419,8 +467,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "21 (July 2016 est.)"
-      },
-      "country comparison to the world": 220
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
@@ -432,7 +479,7 @@
       "international": {
         "text": "country code - 690; landing point for the Southern Cross NEXT submarine cable linking Australia, Tokelau, Samoa, Kiribati, Fiji, New Zealand and Los Angeles, CA (USA); radiotelephone service to Samoa; government-regulated telephone service (TeleTok); satellite earth stations - 3 (2020)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "Sky TV access for around 30% of the population; each atoll operates a radio service that provides shipping news and weather reports (2019)"
@@ -446,19 +493,17 @@
       },
       "percent of population": {
         "text": "60.2% (July 2016 est.)"
-      },
-      "country comparison to the world": 226
+      }
     }
   },
   "Transportation": {
     "Roadways": {
       "total": {
         "text": "10 km (2019)"
-      },
-      "country comparison to the world": 222
+      }
     },
     "Ports and terminals": {
-      "note": "none; offshore anchorage only"
+      "text": "none; offshore anchorage only"
     }
   },
   "Military and Security": {
@@ -468,7 +513,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "Tokelau included American Samoa's Swains Island (Olosega) in its 2006 draft independence constitution"
+      "text": "<p>Tokelau included American Samoa's Swains Island (Olosega) in its 2006 draft independence constitution</p>"
     }
   }
 }

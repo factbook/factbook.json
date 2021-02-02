@@ -23,8 +23,7 @@
       },
       "water": {
         "text": "0 sq km"
-      },
-      "country comparison to the world": 254
+      }
     },
     "Area - comparative": {
       "text": "about three times the size of the National Mall in Washington, DC"
@@ -69,8 +68,14 @@
       "agricultural land": {
         "text": "1% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "0% (2011 est.) / 1% (2011 est.) / 0% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 0% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 1% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 0% (2011 est.)"
       },
       "forest": {
         "text": "0% (2011 est.)"
@@ -105,9 +110,8 @@
   },
   "People and Society": {
     "Population": {
-      "text": "39,000 (2019 est.)",
-      "note": "note: immigrants make up almost 68% of the total population, according to UN data (2019)",
-      "country comparison to the world": 213
+      "text": "31,223 (July 2021 est.)",
+      "note": "<p><strong>note:</strong> immigrants make up almost 68% of the total population, according to UN data (2019)</p>"
     },
     "Nationality": {
       "noun": {
@@ -118,7 +122,7 @@
       }
     },
     "Ethnic groups": {
-      "text": "Monegasque 32.1%, French 19.9%, Italian 15.3%, British 5%, Belgian 2.3%, Swiss 2%, German 1.9%, Russian 1.8%, American 1.1%, Dutch 1.1%, Moroccan 1%, other 16.6% ++ note: data represent population by country of birth (2016 est.)"
+      "text": "Monegasque 32.1%, French 19.9%, Italian 15.3%, British 5%, Belgian 2.3%, Swiss 2%, German 1.9%, Russian 1.8%, American 1.1%, Dutch 1.1%, Moroccan 1%, other 16.6%<br /><br /><strong>note:</strong> data represent population by country of birth (2016 est.)"
     },
     "Languages": {
       "text": "French (official), English, Italian, Monegasque"
@@ -152,24 +156,19 @@
       },
       "female": {
         "text": "57 years (2020 est.)"
-      },
-      "country comparison to the world": 1
+      }
     },
     "Population growth rate": {
-      "text": "0.37% (2020 est.)",
-      "country comparison to the world": 164
+      "text": "0.53% (2021 est.)"
     },
     "Birth rate": {
-      "text": "6.4 births/1,000 population (2020 est.)",
-      "country comparison to the world": 228
+      "text": "6.63 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "10.8 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 24
+      "text": "10.47 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "8.3 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 10
+      "text": "9.16 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "the second most densely populated country in the world (after Macau); its entire population living on 2 square km"
@@ -210,38 +209,41 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "1.9 deaths/1,000 live births"
+        "text": "1.78 deaths/1,000 live births"
       },
       "male": {
-        "text": "2.1 deaths/1,000 live births"
+        "text": "2.09 deaths/1,000 live births"
       },
       "female": {
-        "text": "1.6 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 226
+        "text": "1.46 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "89.3 years"
+        "text": "89.4 years"
       },
       "male": {
-        "text": "85.4 years"
+        "text": "85.55 years"
       },
       "female": {
-        "text": "93.3 years (2020 est.)"
-      },
-      "country comparison to the world": 1
+        "text": "93.4 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "1.55 children born/woman (2020 est.)",
-      "country comparison to the world": 194
+      "text": "1.52 children born/woman (2021 est.)"
     },
     "Drinking water source": {
-      "improved": {
-        "text": "urban: 100% of population / total: 100% of population"
+      "improved: urban": {
+        "text": "urban: 100% of population"
       },
-      "unimproved": {
-        "text": "urban: 0% of population / total: 0% of population (2017 est.)"
+      "improved: total": {
+        "text": "total: 100% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 0% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 0% of population (2017 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -254,11 +256,17 @@
       "text": "13.8 beds/1,000 population (2012)"
     },
     "Sanitation facility access": {
-      "improved": {
-        "text": "urban: 100% of population / total: 100% of population"
+      "improved: urban": {
+        "text": "urban: 100% of population"
       },
-      "unimproved": {
-        "text": "urban: 0% of population / total: 0% of population (2017 est.)"
+      "improved: total": {
+        "text": "total: 100% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 0% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 0% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -271,8 +279,7 @@
       "text": "NA"
     },
     "Education expenditures": {
-      "text": "1.5% of GDP (2017)",
-      "country comparison to the world": 167
+      "text": "1.5% of GDP (2017)"
     },
     "Unemployment, youth ages 15-24": {
       "total": {
@@ -283,8 +290,7 @@
       },
       "female": {
         "text": "27.9% (2016 est.)"
-      },
-      "country comparison to the world": 43
+      }
     }
   },
   "Government": {
@@ -399,7 +405,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Horizon Monaco [Laurent NOUVION] ++ Priorite Monaco [Stephane VALERI] ++ Renaissance [SBM (public corporation)] ++ Union Monegasque [Jean-Francois ROBILLON]"
+      "text": "Horizon Monaco [Laurent NOUVION]<br />Priorite Monaco [Stephane VALERI]<br />Renaissance [SBM (public corporation)]<br />Union Monegasque [Jean-Francois ROBILLON]"
     },
     "International organization participation": {
       "text": "CD, CE, FAO, IAEA, ICAO, ICC (national committees), ICRM, IFRCS, IHO, IMO, IMSO, Interpol, IOC, IPU, ITSO, ITU, OAS (observer), OIF, OPCW, OSCE, Schengen Convention (de facto member), UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WHO, WIPO, WMO"
@@ -422,11 +428,13 @@
       }
     },
     "Diplomatic representation from the US": {
-      "text": "US does not have an embassy in Monaco; the US Ambassador to France is accredited to Monaco; the US Consul General in Marseille (France), under the authority of the US Ambassador to France, handles diplomatic and consular matters concerning Monaco; +(33)(1) 43-12-22-22, enter zero \"0\" after the automated greeting; US Embassy Paris, 2 Avenue Gabriel, 75008 Paris, France"
+      "embassy": {
+        "text": "US does not have an embassy in Monaco; the US Ambassador to France is accredited to Monaco; the US Consul General in Marseille (France), under the authority of the US Ambassador to France, handles diplomatic and consular matters concerning Monaco; +(33)(1) 43-12-22-22, enter zero \"0\" after the automated greeting; US Embassy Paris, 2 Avenue Gabriel, 75008 Paris, France"
+      }
     },
     "Flag description": {
       "text": "two equal horizontal bands of red (top) and white; the colors are those of the ruling House of Grimaldi and have been in use since 1339, making the flag one of the world's oldest national banners",
-      "note": "note: similar to the flag of Indonesia which is longer and the flag of Poland which is white (top) and red"
+      "note": "<p><strong>note:</strong> similar to the flag of Indonesia which is longer and the flag of Poland which is white (top) and red</p>"
     },
     "National symbol(s)": {
       "text": "red and white lozenges (diamond shapes); national colors: red, white"
@@ -438,31 +446,54 @@
       "lyrics/music": {
         "text": "Louis NOTARI/Charles ALBRECHT"
       },
-      "note": "note: music adopted 1867, lyrics adopted 1931; although French is commonly spoken, only the Monegasque lyrics are official; the French version is known as \"Hymne Monegasque\" (Monegasque Anthem); the words are generally only sung on official occasions"
+      "note": "<p><strong>note:</strong> music adopted 1867, lyrics adopted 1931; although French is commonly spoken, only the Monegasque lyrics are official; the French version is known as \"Hymne Monegasque\" (Monegasque Anthem); the words are generally only sung on official occasions</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "Monaco, bordering France on the Mediterranean coast, is a popular resort, attracting tourists to its casino and pleasant climate. The principality also is a banking center and has successfully sought to diversify into services and small, high-value-added, nonpolluting industries. The state retains monopolies in a number of sectors, including tobacco, the telephone network, and the postal service. Living standards are high, roughly comparable to those in prosperous French metropolitan areas. ++ The state has no income tax and low business taxes and thrives as a tax haven both for individuals who have established residence and for foreign companies that have set up businesses and offices. Monaco, however, is not a tax-free shelter; it charges nearly 20% value-added tax, collects stamp duties, and companies face a 33% tax on profits unless they can show that three-quarters of profits are generated within the principality. Monaco was formally removed from the OECD's \"grey list\" of uncooperative tax jurisdictions in late 2009, but continues to face international pressure to abandon its banking secrecy laws and help combat tax evasion. In October 2014, Monaco officially became the 84th jurisdiction participating in the OECD's Multilateral Convention on Mutual Administrative Assistance in Tax Matters, an effort to combat offshore tax avoidance and evasion. ++ Monaco's reliance on tourism and banking for its economic growth has left it vulnerable to downturns in France and other European economies which are the principality's main trade partners. In 2009, Monaco's GDP fell by 11.5% as the euro-zone crisis precipitated a sharp drop in tourism and retail activity and home sales. A modest recovery ensued in 2010 and intensified in 2013, with GDP growth of more than 9%, but Monaco's economic prospects remain uncertain."
+      "text": "<p>Monaco, bordering France on the Mediterranean coast, is a popular resort, attracting tourists to its casino and pleasant climate. The principality also is a banking center and has successfully sought to diversify into services and small, high-value-added, nonpolluting industries. The state retains monopolies in a number of sectors, including tobacco, the telephone network, and the postal service. Living standards are high, roughly comparable to those in prosperous French metropolitan areas.</p><p></p><p>The state has no income tax and low business taxes and thrives as a tax haven both for individuals who have established residence and for foreign companies that have set up businesses and offices. Monaco, however, is not a tax-free shelter; it charges nearly 20% value-added tax, collects stamp duties, and companies face a 33% tax on profits unless they can show that three-quarters of profits are generated within the principality. Monaco was formally removed from the OECD's \"grey list\" of uncooperative tax jurisdictions in late 2009, but continues to face international pressure to abandon its banking secrecy laws and help combat tax evasion. In October 2014, Monaco officially became the 84th jurisdiction participating in the OECD’s Multilateral Convention on Mutual Administrative Assistance in Tax Matters, an effort to combat offshore tax avoidance and evasion.</p><p></p><p>Monaco's reliance on tourism and banking for its economic growth has left it vulnerable to downturns in France and other European economies which are the principality's main trade partners. In 2009, Monaco's GDP fell by 11.5% as the euro-zone crisis precipitated a sharp drop in tourism and retail activity and home sales. A modest recovery ensued in 2010 and intensified in 2013, with GDP growth of more than 9%, but Monaco's economic prospects remain uncertain.</p>"
     },
-    "GDP real growth rate": {
-      "text": "5.4% (2015 est.) / 7.2% (2014 est.) / 9.6% (2013 est.)",
-      "country comparison to the world": 35
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2015": {
+        "text": "5.4% (2015 est.)"
+      },
+      "Real GDP growth rate 2014": {
+        "text": "7.2% (2014 est.)"
+      },
+      "Real GDP growth rate 2013": {
+        "text": "9.6% (2013 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "1.5% (2010)",
-      "country comparison to the world": 90
+      "Inflation rate (consumer prices) 2010": {
+        "text": "1.5% (2010)"
+      }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$7.672 billion (2015 est.) / $7.279 billion (2014 est.) / $6.79 billion (2013 est.)",
-      "note": "note: data are in 2015 US dollars"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2015": {
+        "text": "$7.672 billion (2015 est.)"
+      },
+      "Real GDP (purchasing power parity) 2014": {
+        "text": "$7.279 billion (2014 est.)"
+      },
+      "Real GDP (purchasing power parity) 2013": {
+        "text": "$6.79 billion (2013 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2015 US dollars</p>"
     },
     "GDP (official exchange rate)": {
       "text": "$6.006 billion (2015 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$115,700 (2015 est.) / $109,200 (2014 est.) / $101,900 (2013 est.)",
-      "country comparison to the world": 3
+    "Real GDP per capita": {
+      "Real GDP per capita 2015": {
+        "text": "$115,700 (2015 est.)"
+      },
+      "Real GDP per capita 2014": {
+        "text": "$109,200 (2014 est.)"
+      },
+      "Real GDP per capita 2013": {
+        "text": "$101,900 (2013 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -475,22 +506,18 @@
         "text": "86% (2013)"
       }
     },
-    "Ease of Doing Business Index scores": {
-    },
-    "Agriculture - products": {
+    "Agricultural products": {
       "text": "none"
     },
     "Industries": {
       "text": "banking, insurance, tourism, construction, small-scale industrial and consumer products"
     },
     "Industrial production growth rate": {
-      "text": "6.8% (2015)",
-      "country comparison to the world": 33
+      "text": "6.8% (2015)"
     },
     "Labor force": {
       "text": "52,000 (2014 est.)",
-      "note": "note: includes all foreign workers",
-      "country comparison to the world": 189
+      "note": "<p><strong>note:</strong> includes all foreign workers</p>"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -504,8 +531,9 @@
       }
     },
     "Unemployment rate": {
-      "text": "2% (2012)",
-      "country comparison to the world": 20
+      "Unemployment rate 2012": {
+        "text": "2% (2012)"
+      }
     },
     "Population below poverty line": {
       "text": "NA"
@@ -527,31 +555,54 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "14.9% (of GDP) (2011 est.)",
-      "country comparison to the world": 196
+      "text": "14.9% (of GDP) (2011 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-1% (of GDP) (2011 est.)",
-      "country comparison to the world": 80
+      "text": "-1% (of GDP) (2011 est.)"
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Exports": {
-      "text": "$964.6 million (2017 est.) / $1.115 billion (2011)",
-      "note": "note: full customs integration with France, which collects and rebates Monegasque trade duties; also participates in EU market system through customs union with France",
-      "country comparison to the world": 161
+      "Exports 2017": {
+        "text": "$964.6 million (2017 est.)"
+      },
+      "Exports 2011": {
+        "text": "$1.115 billion (2011)"
+      },
+      "note": "<p><strong>note:</strong> full customs integration with France, which collects and rebates Monegasque trade duties; also participates in EU market system through customs union with France</p>"
     },
     "Imports": {
-      "text": "$1.371 billion (2017 est.) / $1.162 billion (2011 est.)",
-      "note": "note: full customs integration with France, which collects and rebates Monegasque trade duties; also participates in EU market system through customs union with France",
-      "country comparison to the world": 177
+      "Imports 2017": {
+        "text": "$1.371 billion (2017 est.)"
+      },
+      "Imports 2011": {
+        "text": "$1.162 billion (2011 est.)"
+      },
+      "note": "<p><strong>note:</strong> full customs integration with France, which collects and rebates Monegasque trade duties; also participates in EU market system through customs union with France</p>"
     },
     "Debt - external": {
-      "note": "NA"
+      "text": "<p>&nbsp;NA</p>"
     },
     "Exchange rates": {
-      "text": "euros (EUR) per US dollar - / 0.885 (2017 est.) / 0.903 (2016 est.) / 0.9214 (2015 est.) / 0.885 (2014 est.) / 0.7634 (2013 est.)"
+      "currency": {
+        "text": "euros (EUR) per US dollar -"
+      },
+      "Exchange rates 2017": {
+        "text": "0.885 (2017 est.)"
+      },
+      "Exchange rates 2016": {
+        "text": "0.903 (2016 est.)"
+      },
+      "Exchange rates 2015": {
+        "text": "0.9214 (2015 est.)"
+      },
+      "Exchange rates 2014": {
+        "text": "0.885 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "0.7634 (2013 est.)"
+      }
     }
   },
   "Energy": {
@@ -568,8 +619,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "113.23 (2019 est.)"
-      },
-      "country comparison to the world": 166
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -577,8 +627,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "86.7 (2019 est.)"
-      },
-      "country comparison to the world": 211
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
@@ -590,7 +639,7 @@
       "international": {
         "text": "country code - 377; landing points for the EIG and Italy-Monaco submarine cables connecting Monaco to Europe, Africa, the Middle East and Asia; no satellite earth stations; connected by cable into the French communications system (2019)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "TV Monte-Carlo operates a TV network; cable TV available; Radio Monte-Carlo has extensive radio networks in France and Italy with French-language broadcasts to France beginning in the 1960s and Italian-language broadcasts to Italy beginning in the 1970s; other radio stations include Riviera Radio and Radio Monaco"
@@ -604,8 +653,7 @@
       },
       "percent of population": {
         "text": "97.05% (July 2018 est.)"
-      },
-      "country comparison to the world": 204
+      }
     },
     "Broadband - fixed subscriptions": {
       "total": {
@@ -613,8 +661,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "65 (2018 est.)"
-      },
-      "country comparison to the world": 152
+      }
     }
   },
   "Transportation": {
@@ -625,7 +672,7 @@
       "text": "1 (2012)"
     },
     "Railways": {
-      "note": "note: Monaco has a single railway station but does not operate its own train service; the French operator SNCF operates rail services in Monaco"
+      "text": "<strong>note:</strong> Monaco has a single railway station but does not operate its own train service;&nbsp; the French operator SNCF operates rail services in Monaco"
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -635,7 +682,7 @@
   },
   "Military and Security": {
     "Military and security forces": {
-      "text": "no regular military forces; Ministry of Interior: Compagnie des Carabiniers du Prince (Prince's Company of Carabiniers (Palace Guard)), Corps des Sapeurs-pompiers de Monaco (Fire and Emergency), Police Department (2019)"
+      "text": "no regular military forces; Ministry of Interior: Compagnie des Carabiniers du Prince (Prince&rsquo;s Company of Carabiniers (Palace Guard)), Corps des Sapeurs-pompiers de Monaco (Fire and Emergency), Police Department (2019)"
     },
     "Military - note": {
       "text": "defense is the responsibility of France"
@@ -643,7 +690,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "none"
+      "text": "<p>none</p>"
     }
   }
 }

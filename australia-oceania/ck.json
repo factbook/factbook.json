@@ -24,14 +24,15 @@
       "water": {
         "text": "0 sq km"
       },
-      "note": "note: includes the two main islands of West Island and Home Island",
-      "country comparison to the world": 240
+      "note": "<p><strong>note:</strong> includes the two main islands of West Island and Home Island</p>"
     },
     "Area - comparative": {
       "text": "about 24 times the size of The Mall in Washington, DC"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "26 km"
@@ -65,8 +66,14 @@
       "agricultural land": {
         "text": "0% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "0% (2011 est.) / 0% (2011 est.) / 0% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 0% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 0% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 0% (2011 est.)"
       },
       "forest": {
         "text": "0% (2011 est.)"
@@ -93,8 +100,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "596 (July 2014 est.)",
-      "country comparison to the world": 236
+      "text": "8,327 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -109,42 +115,47 @@
     },
     "Languages": {
       "text": "English 22.3%, Malay (Cocos dialect) 68.8%, unspecified 8.9% (2016 est.)",
-      "note": "note: data represent language spoken at home"
+      "note": "<p><strong>note:</strong> data represent language spoken at home</p>"
     },
     "Religions": {
       "text": "Muslim (predominantly Sunni) 75%, Anglican 3.5%, Roman Catholic 2.2%, none 12.9%, unspecified 6.3% (2016 est.)"
     },
     "Population growth rate": {
-      "text": "0% (2014 est.)",
-      "country comparison to the world": 193
+      "text": "-2.46% (2021 est.)"
+    },
+    "Death rate": {
+      "text": "8.89 deaths/1,000 population (2021 est.)"
+    },
+    "Net migration rate": {
+      "text": "-28.58 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "only Home Island and West Island are populated"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "NA (2018)"
+        "text": "16.33 deaths/1,000 live births NA"
       },
       "male": {
-        "text": "NA"
+        "text": "20.54 deaths/1,000 live births NA"
       },
       "female": {
-        "text": "NA"
+        "text": "11.91 deaths/1,000 live births NA (2021 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "NA (2017 est.)"
+        "text": "76.89 years NA"
       },
       "male": {
-        "text": "NA"
+        "text": "74.05 years NA"
       },
       "female": {
-        "text": "NA"
+        "text": "79.88 years NA (2021 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "NA"
+      "text": "2.09 children born/woman NA (2021 est.)"
     },
     "HIV/AIDS - adult prevalence rate": {
       "text": "NA"
@@ -206,7 +217,7 @@
       "text": "common law based on the Australian model"
     },
     "Citizenship": {
-      "note": "see Australia"
+      "text": "see Australia"
     },
     "Suffrage": {
       "text": "18 years of age"
@@ -237,7 +248,9 @@
       }
     },
     "Judicial branch": {
-      "text": "under the terms of the Territorial Law Reform Act 1992, Western Australia provides court services as needed for the island including the Supreme Court and subordinate courts (District Court, Magistrate Court, Family Court, Children's Court, and Coroners' Court)"
+      "highest courts": {
+        "text": "under the terms of the Territorial Law Reform Act 1992, Western Australia provides court services as needed for the island including the Supreme Court and subordinate courts (District Court, Magistrate Court, Family Court, Children's Court, and Coroners' Court)"
+      }
     },
     "Political parties and leaders": {
       "text": "none"
@@ -246,32 +259,33 @@
       "text": "none"
     },
     "Diplomatic representation in the US": {
-      "note": "none (territory of Australia)"
+      "text": "none (territory of Australia)"
     },
     "Diplomatic representation from the US": {
-      "text": "none (territory of Australia)"
+      "embassy": {
+        "text": "none (territory of Australia)"
+      }
     },
     "Flag description": {
       "text": "the flag of Australia is used"
     },
     "National anthem": {
-      "note": "note: as a territory of Australia, \"Advance Australia Fair\" remains official as the national anthem, while \"God Save the Queen\" serves as the royal anthem (see Australia)"
+      "text": "<p><strong>note:</strong> as a territory of Australia, \"Advance Australia Fair\" remains official as the national anthem, while \"God Save the Queen\" serves as the royal anthem (see Australia)</p>"
     }
   },
   "Economy": {
     "Economic overview": {
       "text": "Coconuts, grown throughout the islands, are the sole cash crop. Small local gardens and fishing contribute to the food supply, but additional food and most other necessities must be imported from Australia. There is a small tourist industry."
     },
-    "GDP real growth rate": {
-      "text": "1% (2003)",
-      "country comparison to the world": 172
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2003": {
+        "text": "1% (2003)"
+      }
     },
-    "GDP (purchasing power parity) - real": {
-      "note": "NA"
+    "Real GDP (purchasing power parity)": {
+      "text": "<p>NA</p>"
     },
-    "Ease of Doing Business Index scores": {
-    },
-    "Agriculture - products": {
+    "Agricultural products": {
       "text": "vegetables, bananas, pawpaws, coconuts"
     },
     "Industries": {
@@ -281,11 +295,15 @@
       "text": "NA"
     },
     "Labor force - by occupation": {
-      "note": "note: the Cocos Islands Cooperative Society Ltd. employs construction workers, stevedores, and lighterage workers; tourism is the other main source of employment"
+      "text": "<p><strong>note:</strong> the Cocos Islands Cooperative Society Ltd. employs construction workers, stevedores, and lighterage workers; tourism is the other main source of employment</p>"
     },
     "Unemployment rate": {
-      "text": "0.1% (2011) / 60% (2000 est.)",
-      "country comparison to the world": 1
+      "Unemployment rate 2011": {
+        "text": "0.1% (2011)"
+      },
+      "Unemployment rate 2000": {
+        "text": "60% (2000 est.)"
+      }
     },
     "Budget": {
       "revenues": {
@@ -299,19 +317,36 @@
       "text": "1 July - 30 June"
     },
     "Exports": {
-      "note": "NA"
+      "text": "<p>NA</p>"
     },
     "Exports - commodities": {
       "text": "copra"
     },
     "Imports": {
-      "note": "NA"
+      "text": "<p>NA</p>"
     },
     "Imports - commodities": {
       "text": "foodstuffs"
     },
     "Exchange rates": {
-      "text": "Australian dollars (AUD) per US dollar - / 1.311 (2017 est.) / 1.3442 (2016 est.) / 1.3442 (2015) / 1.3291 (2014) / 1.1094 (2013)"
+      "currency": {
+        "text": "Australian dollars (AUD) per US dollar -"
+      },
+      "Exchange rates 2017": {
+        "text": "1.311 (2017 est.)"
+      },
+      "Exchange rates 2016": {
+        "text": "1.3442 (2016 est.)"
+      },
+      "Exchange rates 2015": {
+        "text": "1.3442 (2015)"
+      },
+      "Exchange rates 2014": {
+        "text": "1.3291 (2014)"
+      },
+      "Exchange rates 2013": {
+        "text": "1.1094 (2013)"
+      }
     }
   },
   "Communications": {
@@ -335,8 +370,9 @@
   },
   "Transportation": {
     "Airports": {
-      "text": "1 (2020)",
-      "country comparison to the world": 217
+      "total": {
+        "text": "1 (2020)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -355,8 +391,7 @@
       },
       "unpaved": {
         "text": "12 km (2007)"
-      },
-      "country comparison to the world": 221
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -371,7 +406,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "none"
+      "text": "<p>none</p>"
     }
   }
 }

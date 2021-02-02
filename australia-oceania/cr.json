@@ -24,14 +24,15 @@
       "water": {
         "text": "0 sq km"
       },
-      "note": "note: includes numerous small islands and reefs scattered over a sea area of about 780,000 sq km (300,000 sq mi) with the Willis Islets the most important",
-      "country comparison to the world": 252
+      "note": "<p><strong>note:</strong> includes numerous small islands and reefs scattered over a sea area of about 780,000 sq km (300,000 sq mi) with the Willis Islets the most important</p>"
     },
     "Area - comparative": {
       "text": "about four times the size of the National Mall in Washington, DC"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "3,095 km"
@@ -65,8 +66,14 @@
       "agricultural land": {
         "text": "0% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "0% (2011 est.) / 0% (2011 est.) / 0% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 0% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 0% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 0% (2011 est.)"
       },
       "forest": {
         "text": "0% (2011 est.)"
@@ -87,8 +94,42 @@
   },
   "People and Society": {
     "Population": {
-      "text": "no indigenous inhabitants (2017 est.)",
-      "note": "note: there is a staff of four at the meteorological station on Willis Island"
+      "text": "5,151,140 no indigenous inhabitants (July 2021 est.)",
+      "note": "<p><strong>note:</strong> there is a staff of four at the meteorological station on Willis Island</p>"
+    },
+    "Population growth rate": {
+      "text": "1.04% (2021 est.)"
+    },
+    "Death rate": {
+      "text": "4.86 deaths/1,000 population (2021 est.)"
+    },
+    "Net migration rate": {
+      "text": "0.78 migrant(s)/1,000 population (2021 est.)"
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "8.59 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "9.66 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "7.46 deaths/1,000 live births (2021 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "79.41 years"
+      },
+      "male": {
+        "text": "76.75 years"
+      },
+      "female": {
+        "text": "82.22 years (2021 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.87 children born/woman (2021 est.)"
     }
   },
   "Government": {
@@ -110,13 +151,15 @@
       "text": "the common law legal system of Australia applies where applicable"
     },
     "Citizenship": {
-      "note": "see Australia"
+      "text": "see Australia"
     },
     "Diplomatic representation in the US": {
-      "note": "none (territory of Australia)"
+      "text": "none (territory of Australia)"
     },
     "Diplomatic representation from the US": {
-      "text": "none (territory of Australia)"
+      "embassy": {
+        "text": "none (territory of Australia)"
+      }
     },
     "Flag description": {
       "text": "the flag of Australia is used"
@@ -125,8 +168,6 @@
   "Economy": {
     "Economic overview": {
       "text": "no economic activity"
-    },
-    "Ease of Doing Business Index scores": {
     }
   },
   "Communications": {
@@ -136,7 +177,7 @@
   },
   "Transportation": {
     "Ports and terminals": {
-      "note": "none; offshore anchorage only"
+      "text": "none; offshore anchorage only"
     }
   },
   "Military and Security": {
@@ -146,7 +187,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "none"
+      "text": "<p>none</p>"
     }
   }
 }

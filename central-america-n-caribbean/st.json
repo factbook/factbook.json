@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "The island, with its fine natural harbor at Castries and burgeoning sugar industry, was contested between England and France throughout the 17th and early 18th centuries (changing possession 14 times); it was finally ceded to the UK in 1814 and became part of the British Windward Islands colony. Even after the abolition of slavery on its plantations in 1834, Saint Lucia remained an agricultural island, dedicated to producing tropical commodity crops. In the mid-20th century, Saint Lucia joined the West Indies Federation (1958–1962) and in 1967 became one of the six members of the West Indies Associated States, with internal self-government. In 1979, Saint Lucia gained full independence."
+      "text": "The island, with its fine natural harbor at Castries and burgeoning sugar industry, was contested between England and France throughout the 17th and early 18th centuries (changing possession 14 times); it was finally ceded to the UK in 1814 and became part of the British Windward Islands colony. Even after the abolition of slavery on its plantations in 1834, Saint Lucia remained an agricultural island, dedicated to producing tropical commodity crops. In the mid-20th century, Saint Lucia joined the West Indies Federation (1958&ndash;1962) and in 1967 became one of the six members of the West Indies Associated States, with internal self-government. In 1979, Saint Lucia gained full independence."
     }
   },
   "Geography": {
@@ -23,14 +23,15 @@
       },
       "water": {
         "text": "10 sq km"
-      },
-      "country comparison to the world": 192
+      }
     },
     "Area - comparative": {
       "text": "three and a half times the size of Washington, DC"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "158 km"
@@ -39,11 +40,11 @@
       "territorial sea": {
         "text": "12 nm"
       },
-      "exclusive economic zone": {
-        "text": "200 nm"
-      },
       "contiguous zone": {
         "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
       },
       "continental shelf": {
         "text": "200 nm or to the edge of the continental margin"
@@ -70,8 +71,14 @@
       "agricultural land": {
         "text": "17.4% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "4.9% (2011 est.) / 11.5% (2011 est.) / 1% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 4.9% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 11.5% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 1% (2011 est.)"
       },
       "forest": {
         "text": "77% (2011 est.)"
@@ -87,7 +94,7 @@
       "text": "most of the population is found on the periphery of the island, with a larger concentration in the north around the capital of Castries"
     },
     "Natural hazards": {
-      "text": "hurricanes ++ volcanism: Mount Gimie (948 m), also known as Qualibou, is a caldera on the west of the island; the iconic twin pyramidal peaks of Gros Piton (771 m) and Petit Piton (743 m) are lava dome remnants associated with the Soufriere volcano; there have been no historical magmatic eruptions, but a minor steam eruption in 1766 spread a thin layer of ash over a wide area; Saint Lucia is part of the volcanic island arc of the Lesser Antilles that extends from Saba in the north to Grenada in the south"
+      "text": "<p>hurricanes</p><p><strong>volcanism:</strong> Mount Gimie (948 m), also known as Qualibou, is a caldera on the west of the island; the iconic twin pyramidal peaks of Gros Piton (771 m) and Petit Piton (743 m) are lava dome remnants associated with the Soufriere volcano; there have been no historical magmatic eruptions, but a minor steam eruption in 1766 spread a thin layer of ash over a wide area; Saint Lucia is part of the volcanic island arc of the Lesser Antilles that extends from Saba in the north to Grenada in the south</p>"
     },
     "Environment - current issues": {
       "text": "deforestation; soil erosion, particularly in the northern region"
@@ -106,8 +113,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "166,487 (July 2020 est.)",
-      "country comparison to the world": 186
+      "text": "166,637 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -166,24 +172,19 @@
       },
       "female": {
         "text": "38 years (2020 est.)"
-      },
-      "country comparison to the world": 75
+      }
     },
     "Population growth rate": {
-      "text": "0.29% (2020 est.)",
-      "country comparison to the world": 171
+      "text": "0.3% (2021 est.)"
     },
     "Birth rate": {
-      "text": "12.5 births/1,000 population (2020 est.)",
-      "country comparison to the world": 154
+      "text": "12.27 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "8.1 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 90
+      "text": "7.96 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "-1.7 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 159
+      "text": "-1.37 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "most of the population is found on the periphery of the island, with a larger concentration in the north around the capital of Castries"
@@ -223,46 +224,54 @@
       }
     },
     "Maternal mortality rate": {
-      "text": "117 deaths/100,000 live births (2017 est.)",
-      "country comparison to the world": 67
+      "text": "117 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "10.1 deaths/1,000 live births"
+        "text": "12.23 deaths/1,000 live births"
       },
       "male": {
-        "text": "9.8 deaths/1,000 live births"
+        "text": "11.44 deaths/1,000 live births"
       },
       "female": {
-        "text": "10.4 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 129
+        "text": "13.07 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "78.5 years"
+        "text": "78.71 years"
       },
       "male": {
-        "text": "75.7 years"
+        "text": "75.96 years"
       },
       "female": {
-        "text": "81.4 years (2020 est.)"
-      },
-      "country comparison to the world": 66
+        "text": "81.62 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "1.73 children born/woman (2020 est.)",
-      "country comparison to the world": 166
+      "text": "1.73 children born/woman (2021 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "55.5% (2011/12)"
     },
     "Drinking water source": {
-      "improved": {
-        "text": "urban: 100% of population / rural: 100% of population / total: 100% of population"
+      "improved: urban": {
+        "text": "urban: 100% of population"
       },
-      "unimproved": {
-        "text": "urban: 0% of population / rural: 0% of population / total: 0% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 100% of population"
+      },
+      "improved: total": {
+        "text": "total: 100% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 0% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 0% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 0% of population (2017 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -275,16 +284,27 @@
       "text": "1.3 beds/1,000 population (2017)"
     },
     "Sanitation facility access": {
-      "improved": {
-        "text": "urban: 95.6% of population / rural: 100% of population / total: 99.2% of population"
+      "improved: urban": {
+        "text": "urban: 95.6% of population"
       },
-      "unimproved": {
-        "text": "urban: 4.4% of population / rural: 0% of population / total: 0.8% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 100% of population"
+      },
+      "improved: total": {
+        "text": "total: 99.2% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 4.4% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 0% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 0.8% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "0.6% (2018)",
-      "country comparison to the world": 64
+      "text": "0.6% (2018)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
       "text": "<1000 (2018)"
@@ -293,16 +313,13 @@
       "text": "<100 (2018)"
     },
     "Obesity - adult prevalence rate": {
-      "text": "19.7% (2016)",
-      "country comparison to the world": 111
+      "text": "19.7% (2016)"
     },
     "Children under the age of 5 years underweight": {
-      "text": "2.8% (2012)",
-      "country comparison to the world": 104
+      "text": "2.8% (2012)"
     },
     "Education expenditures": {
-      "text": "3.3% of GDP (2018)",
-      "country comparison to the world": 123
+      "text": "3.3% of GDP (2018)"
     },
     "School life expectancy (primary to tertiary education)": {
       "total": {
@@ -324,8 +341,7 @@
       },
       "female": {
         "text": "51% (2016 est.)"
-      },
-      "country comparison to the world": 6
+      }
     }
   },
   "Government": {
@@ -339,7 +355,7 @@
       "etymology": {
         "text": "named after Saint LUCY of Syracuse by French sailors who were shipwrecked on the island on 13 December 1502, the saint's feast day; Saint Lucia is the only country named specifically after a woman"
       },
-      "note": "note: pronounced saynt-looshya"
+      "note": "<p><strong>note:</strong> pronounced saynt-looshya</p>"
     },
     "Government type": {
       "text": "parliamentary democracy under a constitutional monarchy; a Commonwealth realm"
@@ -354,7 +370,7 @@
       "time difference": {
         "text": "UTC-4 (1 hour ahead of Washington, DC, during Standard Time)"
       },
-      "note": "etymology: in 1785, the village of Carenage was renamed Castries, after Charles Eugene Gabriel de La Croix de Castries (1727-1801), who was then the French Minister of the Navy and Colonies"
+      "note": "<br><br><strong>etymology:</strong> in 1785, the village of Carenage was renamed Castries, after Charles Eugene Gabriel de La Croix de Castries (1727-1801), who was then the French Minister of the Navy and Colonies"
     },
     "Administrative divisions": {
       "text": "10 districts; Anse-la-Raye, Canaries, Castries, Choiseul, Dennery, Gros-Islet, Laborie, Micoud, Soufriere, Vieux-Fort"
@@ -412,13 +428,13 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral Parliament consists of: Senate (11 seats; 6 members appointed on the advice of the prime minister, 3 on the advice of the leader of the opposition, and 2 upon consultation with religious, economic, and social groups; members serve 5-year terms) ++ House of Assembly (17 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)"
+        "text": "bicameral Parliament consists of:<br />Senate (11 seats; 6 members appointed on the advice of the prime minister, 3 on the advice of the leader of the opposition, and 2 upon consultation with religious, economic, and social groups; members serve 5-year terms)<br /> House of Assembly (17 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)"
       },
       "elections": {
-        "text": "Senate - last appointments on 12 July 2016 (next in 2021) ++ House of Assembly - last held on 6 June 2016 (next to be held in 2021)"
+        "text": "Senate - last appointments on 12 July 2016 (next in 2021)<br /> House of Assembly - last held on 6 June 2016 (next to be held in 2021)"
       },
       "election results": {
-        "text": "Senate - percent of vote by party - NA; seats by party - NA; composition - men 8, women 3, percent of women 27.3% ++ House of Assembly - percent of vote by party - UWP 54.8%, SLP 44.1%, other 1.1%; seats by party - UWP 11, SLP 6; composition - men 14, women 3, percent of women 17.6%; note - total Parliament percent of women 21.4%"
+        "text": "Senate - percent of vote by party - NA; seats by party - NA; composition - men 8, women 3, percent of women 27.3%<br /> House of Assembly - percent of vote by party - UWP 54.8%, SLP 44.1%, other 1.1%; seats by party - UWP 11, SLP 6; composition - men 14, women 3, percent of women 17.6%; note - total Parliament percent of women 21.4%"
       }
     },
     "Judicial branch": {
@@ -433,7 +449,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Lucian People's Movement or LPM [Therold PRUDENT] ++ Saint Lucia Labor Party or SLP [Philip J. PIERRE] ++ United Workers Party or UWP [Allen CHASTANET]"
+      "text": "Lucian People's Movement or LPM [Therold PRUDENT]<br />Saint Lucia Labor Party or SLP [Philip J. PIERRE]<br />United Workers Party or UWP [Allen CHASTANET]"
     },
     "International organization participation": {
       "text": "ACP, AOSIS, C, Caricom, CD, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ISO, ITU, ITUC (NGOs), MIGA, NAM, OAS, OECS, OIF, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
@@ -456,7 +472,9 @@
       }
     },
     "Diplomatic representation from the US": {
-      "text": "the US does not have an embassy in Saint Lucia; the US Ambassador to Barbados is accredited to Saint Lucia"
+      "embassy": {
+        "text": "the US does not have an embassy in Saint Lucia; the US Ambassador to Barbados is accredited to Saint Lucia"
+      }
     },
     "Flag description": {
       "text": "cerulean blue with a gold isosceles triangle below a black arrowhead; the upper edges of the arrowhead have a white border; the blue color represents the sky and sea, gold stands for sunshine and prosperity, and white and black the racial composition of the island (with the latter being dominant); the two major triangles invoke the twin Pitons (Gros Piton and Petit Piton), cone-shaped volcanic plugs that are a symbol of the island"
@@ -471,36 +489,69 @@
       "lyrics/music": {
         "text": "Charles JESSE/Leton Felix THOMAS"
       },
-      "note": "note: adopted 1967"
+      "note": "<p><strong>note:</strong> adopted 1967</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "The island nation has been able to attract foreign business and investment, especially in its offshore banking and tourism industries. Tourism is Saint Lucia's main source of jobs and income - accounting for 65% of GDP - and the island's main source of foreign exchange earnings. The manufacturing sector is the most diverse in the Eastern Caribbean area. Crops such as bananas, mangos, and avocados continue to be grown for export, but St. Lucia's once solid banana industry has been devastated by strong competition. ++ Saint Lucia is vulnerable to a variety of external shocks, including volatile tourism receipts, natural disasters, and dependence on foreign oil. Furthermore, high public debt - 77% of GDP in 2012 - and high debt servicing obligations constrain the CHASTANET administration's ability to respond to adverse external shocks. ++ St. Lucia has experienced anemic growth since the onset of the global financial crisis in 2008, largely because of a slowdown in tourism - airlines cut back on their routes to St. Lucia in 2012. Also, St. Lucia introduced a value added tax in 2012 of 15%, becoming the last country in the Eastern Caribbean to do so. In 2013, the government introduced a National Competitiveness and Productivity Council to address St. Lucia's high public wages and lack of productivity."
+      "text": "<p>The island nation has been able to attract foreign business and investment, especially in its offshore banking and tourism industries. Tourism is Saint Lucia's main source of jobs and income - accounting for 65% of GDP - and the island's main source of foreign exchange earnings. The manufacturing sector is the most diverse in the Eastern Caribbean area. Crops such as bananas, mangos, and avocados continue to be grown for export, but St. Lucia's once solid banana industry has been devastated by strong competition.</p><p></p><p>Saint Lucia is vulnerable to a variety of external shocks, including volatile tourism receipts, natural disasters, and dependence on foreign oil. Furthermore, high public debt - 77% of GDP in 2012 - and high debt servicing obligations constrain the CHASTANET administration's ability to respond to adverse external shocks.</p><p></p><p>St. Lucia has experienced anemic growth since the onset of the global financial crisis in 2008, largely because of a slowdown in tourism - airlines cut back on their routes to St. Lucia in 2012. Also, St. Lucia introduced a value added tax in 2012 of 15%, becoming the last country in the Eastern Caribbean to do so. In 2013, the government introduced a National Competitiveness and Productivity Council to address St. Lucia's high public wages and lack of productivity.</p>"
     },
-    "GDP real growth rate": {
-      "text": "3% (2017 est.) / 3.4% (2016 est.) / -0.9% (2015 est.)",
-      "country comparison to the world": 100
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2017": {
+        "text": "3% (2017 est.)"
+      },
+      "Real GDP growth rate 2016": {
+        "text": "3.4% (2016 est.)"
+      },
+      "Real GDP growth rate 2015": {
+        "text": "-0.9% (2015 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "0.1% (2017 est.) / -3.1% (2016 est.)",
-      "country comparison to the world": 24
+      "Inflation rate (consumer prices) 2017": {
+        "text": "0.1% (2017 est.)"
+      },
+      "Inflation rate (consumer prices) 2016": {
+        "text": "-3.1% (2016 est.)"
+      }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$2.542 billion (2017 est.) / $2.469 billion (2016 est.) / $2.388 billion (2015 est.)",
-      "note": "note: data are in 2017 dollars"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2017": {
+        "text": "$2.542 billion (2017 est.)"
+      },
+      "Real GDP (purchasing power parity) 2016": {
+        "text": "$2.469 billion (2016 est.)"
+      },
+      "Real GDP (purchasing power parity) 2015": {
+        "text": "$2.388 billion (2015 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2017 dollars</p>"
     },
     "GDP (official exchange rate)": {
       "text": "$1.686 billion (2017 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$14,400 (2017 est.) / $14,200 (2016 est.) / $13,800 (2015 est.)",
-      "note": "note: data are in 2017 dollars",
-      "country comparison to the world": 98
+    "Real GDP per capita": {
+      "Real GDP per capita 2017": {
+        "text": "$14,400 (2017 est.)"
+      },
+      "Real GDP per capita 2016": {
+        "text": "$14,200 (2016 est.)"
+      },
+      "Real GDP per capita 2015": {
+        "text": "$13,800 (2015 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2017 dollars</p>"
     },
     "Gross national saving": {
-      "text": "19.4% of GDP (2017 est.) / 15.5% of GDP (2016 est.) / 24.3% of GDP (2015 est.)",
-      "country comparison to the world": 102
+      "Gross national saving 2017": {
+        "text": "19.4% of GDP (2017 est.)"
+      },
+      "Gross national saving 2016": {
+        "text": "15.5% of GDP (2016 est.)"
+      },
+      "Gross national saving 2015": {
+        "text": "24.3% of GDP (2015 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -534,21 +585,21 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "text": "73.9 (2020)"
+      "Overall Ease of Doing Business score 2020": {
+        "text": "73.9 (2020)"
+      }
     },
-    "Agriculture - products": {
-      "text": "bananas, coconuts, vegetables, citrus, root crops, cocoa"
+    "Agricultural products": {
+      "text": "bananas, coconuts, fruit, tropical fruit, plantains, roots/tubers nes, cassava, poultry, vegetables, mangoes/guavas"
     },
     "Industries": {
       "text": "tourism; clothing, assembly of electronic components, beverages, corrugated cardboard boxes, lime processing, coconut processing"
     },
     "Industrial production growth rate": {
-      "text": "6% (2017 est.)",
-      "country comparison to the world": 42
+      "text": "6% (2017 est.)"
     },
     "Labor force": {
-      "text": "79,700 (2012 est.)",
-      "country comparison to the world": 182
+      "text": "79,700 (2012 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -562,11 +613,17 @@
       }
     },
     "Unemployment rate": {
-      "text": "20% (2003 est.)",
-      "country comparison to the world": 190
+      "Unemployment rate 2003": {
+        "text": "20% (2003 est.)"
+      }
     },
     "Population below poverty line": {
       "text": "NA"
+    },
+    "Gini Index coefficient - distribution of family income": {
+      "Gini Index coefficient - distribution of family income 2016": {
+        "text": "51.2 (2016 est.)"
+      }
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
@@ -585,27 +642,37 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "23.6% (of GDP) (2017 est.)",
-      "country comparison to the world": 125
+      "text": "23.6% (of GDP) (2017 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "0.3% (of GDP) (2017 est.)",
-      "country comparison to the world": 41
+      "text": "0.3% (of GDP) (2017 est.)"
     },
     "Public debt": {
-      "text": "70.7% of GDP (2017 est.) / 69.2% of GDP (2016 est.)",
-      "country comparison to the world": 49
+      "Public debt 2017": {
+        "text": "70.7% of GDP (2017 est.)"
+      },
+      "Public debt 2016": {
+        "text": "69.2% of GDP (2016 est.)"
+      }
     },
     "Fiscal year": {
       "text": "1 April - 31 March"
     },
     "Current account balance": {
-      "text": "$21 million (2017 est.) / -$31 million (2016 est.)",
-      "country comparison to the world": 60
+      "Current account balance 2017": {
+        "text": "$21 million (2017 est.)"
+      },
+      "Current account balance 2016": {
+        "text": "-$31 million (2016 est.)"
+      }
     },
     "Exports": {
-      "text": "$185.1 million (2017 est.) / $188.2 million (2016 est.)",
-      "country comparison to the world": 193
+      "Exports 2017": {
+        "text": "$185.1 million (2017 est.)"
+      },
+      "Exports 2016": {
+        "text": "$188.2 million (2016 est.)"
+      }
     },
     "Exports - partners": {
       "text": "US 67.6%, UK 5.9%, Trinidad and Tobago 5.5% (2017)"
@@ -614,25 +681,54 @@
       "text": "bananas 41%, clothing, cocoa, avocados, mangoes, coconut oil (2010 est.)"
     },
     "Imports": {
-      "text": "$600 million (2017 est.) / $575.9 million (2016 est.)",
-      "country comparison to the world": 196
-    },
-    "Imports - commodities": {
-      "text": "food, manufactured goods, machinery and transportation equipment, chemicals, fuels"
+      "Imports 2017": {
+        "text": "$600 million (2017 est.)"
+      },
+      "Imports 2016": {
+        "text": "$575.9 million (2016 est.)"
+      }
     },
     "Imports - partners": {
       "text": "US 53.3%, Trinidad and Tobago 10.8% (2017)"
     },
+    "Imports - commodities": {
+      "text": "food, manufactured goods, machinery and transportation equipment, chemicals, fuels"
+    },
     "Reserves of foreign exchange and gold": {
-      "text": "$321.8 million (31 December 2017 est.) / $320.7 million (31 December 2016 est.)",
-      "country comparison to the world": 166
+      "Reserves of foreign exchange and gold 31 December 2017": {
+        "text": "$321.8 million (31 December 2017 est.)"
+      },
+      "Reserves of foreign exchange and gold 31 December 2016": {
+        "text": "$320.7 million (31 December 2016 est.)"
+      }
     },
     "Debt - external": {
-      "text": "$570.6 million (31 December 2017 est.) / $529 million (31 December 2015 est.)",
-      "country comparison to the world": 175
+      "Debt - external 31 December 2017": {
+        "text": "$570.6 million (31 December 2017 est.)"
+      },
+      "Debt - external 31 December 2015": {
+        "text": "$529 million (31 December 2015 est.)"
+      }
     },
     "Exchange rates": {
-      "text": "East Caribbean dollars (XCD) per US dollar - / 2.7 (2017 est.) / 2.7 (2016 est.) / 2.7 (2015 est.) / 2.7 (2014 est.) / 2.7 (2013 est.)"
+      "currency": {
+        "text": "East Caribbean dollars (XCD) per US dollar -"
+      },
+      "Exchange rates 2017": {
+        "text": "2.7 (2017 est.)"
+      },
+      "Exchange rates 2016": {
+        "text": "2.7 (2016 est.)"
+      },
+      "Exchange rates 2015": {
+        "text": "2.7 (2015 est.)"
+      },
+      "Exchange rates 2014": {
+        "text": "2.7 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "2.7 (2013 est.)"
+      }
     }
   },
   "Energy": {
@@ -648,96 +744,73 @@
       }
     },
     "Electricity - production": {
-      "text": "369 million kWh (2016 est.)",
-      "country comparison to the world": 174
+      "text": "369 million kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "343.2 million kWh (2016 est.)",
-      "country comparison to the world": 181
+      "text": "343.2 million kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 189
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - imports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 191
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "89,000 kW (2016 est.)",
-      "country comparison to the world": 180
+      "text": "89,000 kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "99% of total installed capacity (2016 est.)",
-      "country comparison to the world": 24
+      "text": "99% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 173
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 196
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "1% of total installed capacity (2017 est.)",
-      "country comparison to the world": 165
+      "text": "1% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "0 bbl/day (2018 est.)",
-      "country comparison to the world": 192
+      "text": "0 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 185
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - imports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 187
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2018 est.)",
-      "country comparison to the world": 187
+      "text": "0 bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 194
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "3,100 bbl/day (2016 est.)",
-      "country comparison to the world": 187
+      "text": "3,100 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 195
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "3,113 bbl/day (2015 est.)",
-      "country comparison to the world": 184
+      "text": "3,113 bbl/day (2015 est.)"
     },
     "Natural gas - production": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 189
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 191
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 174
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 180
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "0 cu m (1 January 2014 est.)",
-      "country comparison to the world": 186
+      "text": "0 cu m (1 January 2014 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "437,900 Mt (2017 est.)",
-      "country comparison to the world": 186
+      "text": "437,900 Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -747,8 +820,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "20.05 (2019 est.)"
-      },
-      "country comparison to the world": 169
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -756,8 +828,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "101.68 (2019 est.)"
-      },
-      "country comparison to the world": 187
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
@@ -767,9 +838,9 @@
         "text": "fixed-line teledensity is 20 per 100 persons and mobile-cellular teledensity is roughly 102 per 100 persons (2019)"
       },
       "international": {
-        "text": "country code - 1-758; landing points for the ECFS and Southern Caribbean Fiber submarine cables providing connectivity to numerous Caribbean islands; direct microwave radio relay link with Martinique and Saint Vincent and the Grenadines; tropospheric scatter to Barbados (2019)"
+        "text": "country code - 1-758; landing points for the ECFS&nbsp;and Southern Caribbean Fiber submarine cables providing connectivity to numerous Caribbean islands; direct microwave radio relay link with Martinique and Saint Vincent and the Grenadines; tropospheric scatter to Barbados (2019)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "3 privately owned TV stations; 1 public TV station operating on a cable network; multi-channel cable TV service available; a mix of state-owned and privately owned broadcasters operate nearly 25 radio stations including repeater transmission stations"
@@ -783,8 +854,7 @@
       },
       "percent of population": {
         "text": "50.82% (July 2018 est.)"
-      },
-      "country comparison to the world": 180
+      }
     },
     "Broadband - fixed subscriptions": {
       "total": {
@@ -792,8 +862,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "19 (2018 est.)"
-      },
-      "country comparison to the world": 140
+      }
     }
   },
   "Transportation": {
@@ -801,8 +870,9 @@
       "text": "J6 (2016)"
     },
     "Airports": {
-      "text": "2 (2013)",
-      "country comparison to the world": 203
+      "total": {
+        "text": "2 (2013)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -824,8 +894,7 @@
       },
       "unpaved": {
         "text": "363 km (2011)"
-      },
-      "country comparison to the world": 179
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -843,7 +912,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "joins other Caribbean states to counter Venezuela's claim that Aves Island sustains human habitation, a criterion under UN Convention on the Law of the Sea, which permits Venezuela to extend its EEZ/continental shelf over a large portion of the eastern Caribbean Sea"
+      "text": "<p>joins other Caribbean states to counter Venezuela's claim that Aves Island sustains human habitation, a criterion under UN Convention on the Law of the Sea, which permits Venezuela to extend its EEZ/continental shelf over a large portion of the eastern Caribbean Sea</p>"
     },
     "Illicit drugs": {
       "text": "transit point for South American drugs destined for the US and Europe"

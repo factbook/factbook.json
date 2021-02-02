@@ -23,14 +23,15 @@
       },
       "water": {
         "text": "0 sq km"
-      },
-      "country comparison to the world": 225
+      }
     },
     "Area - comparative": {
       "text": "about 0.6 times the size of Washington, DC"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "40 km"
@@ -64,8 +65,14 @@
       "agricultural land": {
         "text": "30% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "20% (2011 est.) / 0% (2011 est.) / 10% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 20% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 0% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 10% (2011 est.)"
       },
       "forest": {
         "text": "25% (2011 est.)"
@@ -81,7 +88,7 @@
       "text": "only the northern half of the island is populated, the southern portion is uninhabitable due to volcanic activity"
     },
     "Natural hazards": {
-      "text": "volcanic eruptions; severe hurricanes (June to November) ++ volcanism: Soufriere Hills volcano (915 m), has erupted continuously since 1995; a massive eruption in 1997 destroyed most of the capital, Plymouth, and resulted in approximately half of the island becoming uninhabitable; the island of Montserrat is part of the volcanic island arc of the Lesser Antilles that extends from Saba in the north to Grenada in the south"
+      "text": "<p>volcanic eruptions; severe hurricanes (June to November)</p><p><strong>volcanism:</strong> Soufriere Hills volcano (915 m), has erupted continuously since 1995; a massive eruption in 1997 destroyed most of the capital, Plymouth, and resulted in approximately half of the island becoming uninhabitable; the island of Montserrat is part of the volcanic island arc of the Lesser Antilles that extends from Saba in the north to Grenada in the south</p>"
     },
     "Environment - current issues": {
       "text": "land erosion occurs on slopes that have been cleared for cultivation"
@@ -92,9 +99,8 @@
   },
   "People and Society": {
     "Population": {
-      "text": "5,373 (July 2020 est.)",
-      "note": "note: an estimated 8,000 refugees left the island following the resumption of volcanic activity in July 1995; some have returned",
-      "country comparison to the world": 226
+      "text": "5,387 (July 2021 est.)",
+      "note": "<p><strong>note:</strong> an estimated 8,000 refugees left the island following the resumption of volcanic activity in July 1995; some have returned</p>"
     },
     "Nationality": {
       "noun": {
@@ -139,24 +145,19 @@
       },
       "female": {
         "text": "35.6 years (2020 est.)"
-      },
-      "country comparison to the world": 88
+      }
     },
     "Population growth rate": {
-      "text": "0.58% (2020 est.)",
-      "country comparison to the world": 151
+      "text": "0.52% (2021 est.)"
     },
     "Birth rate": {
-      "text": "11.7 births/1,000 population (2020 est.)",
-      "country comparison to the world": 166
+      "text": "11.14 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "6 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 163
+      "text": "5.94 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "0 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 90
+      "text": "0 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "only the northern half of the island is populated, the southern portion is uninhabitable due to volcanic activity"
@@ -194,38 +195,47 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "11.1 deaths/1,000 live births"
+        "text": "10.7 deaths/1,000 live births"
       },
       "male": {
-        "text": "8.9 deaths/1,000 live births"
+        "text": "8.59 deaths/1,000 live births"
       },
       "female": {
-        "text": "13.4 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 120
+        "text": "12.9 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "75.3 years"
+        "text": "75.49 years"
       },
       "male": {
-        "text": "76.4 years"
+        "text": "76.52 years"
       },
       "female": {
-        "text": "74.1 years (2020 est.)"
-      },
-      "country comparison to the world": 118
+        "text": "74.41 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "1.36 children born/woman (2020 est.)",
-      "country comparison to the world": 219
+      "text": "1.31 children born/woman (2021 est.)"
     },
     "Drinking water source": {
-      "improved": {
-        "text": "urban: 99% of population / rural: 99% of population / total: 99% of population"
+      "improved: urban": {
+        "text": "urban: 99% of population"
       },
-      "unimproved": {
-        "text": "urban: 1% of population / rural: 1% of population / total: 1% of population (2015 est.)"
+      "improved: rural": {
+        "text": "rural: 99% of population"
+      },
+      "improved: total": {
+        "text": "total: 99% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 1% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 1% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 1% of population (2015 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -238,8 +248,7 @@
       "text": "NA"
     },
     "Education expenditures": {
-      "text": "8.8% of GDP (2019)",
-      "country comparison to the world": 4
+      "text": "8.8% of GDP (2019)"
     },
     "School life expectancy (primary to tertiary education)": {
       "total": {
@@ -281,7 +290,7 @@
       "time difference": {
         "text": "UTC-4 (1 hour ahead of Washington, DC, during Standard Time)"
       },
-      "note": "etymology and note: now entirely deserted because of volcanic activity, the city was originally named after Plymouth, England; de jure, Plymouth remains the capital city of Montserrat; it is therefore the only ghost town that serves as the capital of a political entity"
+      "note": "<br><br><strong>etymology and note:</strong> now entirely deserted because of volcanic activity, the city was originally named after Plymouth, England; <em>de jure</em>, Plymouth remains the capital city of Montserrat; it is therefore the only ghost town that serves as the capital of a political entity"
     },
     "Administrative divisions": {
       "text": "3 parishes; Saint Anthony, Saint Georges, Saint Peter"
@@ -304,7 +313,7 @@
       "text": "English common law"
     },
     "Citizenship": {
-      "note": "see United Kingdom"
+      "text": "see United Kingdom"
     },
     "Suffrage": {
       "text": "18 years of age; universal"
@@ -314,7 +323,7 @@
         "text": "Queen ELIZABETH II (since 6 February 1952); represented by Governor Andrew PEARCE (since 1 February 2018)"
       },
       "head of government": {
-        "text": "Premier Easton TAYLOR-FARRELL (since 19 November 2019); note - effective with The Constitution Order 2010, effective October 2010, the office of premier replaced the office of chief minister"
+        "text": "Premier Easton TAYLOR-FARRELL (since&nbsp;19 November 2019); note - effective with The Constitution Order 2010, effective October 2010, the office of premier replaced the office of chief minister"
       },
       "cabinet": {
         "text": "Executive Council consists of the governor, the premier, 3 other ministers, the attorney general, and the finance secretary"
@@ -331,7 +340,7 @@
         "text": "last held on 18 November 2019 (next scheduled for 2024)"
       },
       "election results": {
-        "text": "percent of vote by party - MCAP 42.7%, PDM 29.9%, other 17.1%; seats by party - MCAP 5, PDM 3, independent 1"
+        "text": "percent of vote by party -&nbsp;MCAP 42.7%, PDM 29.9%, other 17.1%; seats by party - MCAP 5, PDM 3, independent 1"
       }
     },
     "Judicial branch": {
@@ -346,50 +355,75 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Movement for Change and Prosperity or MCAP [Easton Taylor FARRELL] ++ People's Democratic Movement or PDM [Donaldson ROMERO]"
+      "text": "Movement for Change and Prosperity or MCAP [Easton Taylor FARRELL]<br />People's Democratic Movement or PDM [Donaldson ROMERO]"
     },
     "International organization participation": {
       "text": "Caricom, CDB, Interpol (subbureau), OECS, UPU"
     },
     "Diplomatic representation in the US": {
-      "note": "none (overseas territory of the UK)"
+      "text": "none (overseas territory of the UK)"
     },
     "Diplomatic representation from the US": {
-      "text": "none (overseas territory of the UK); alternate contact is the US Embassy in Barbados [1] (246) 227-4000; US Embassy in Bridgetown, Wildey Business Park, St. Michael BB 14006, Barbados, WI"
+      "embassy": {
+        "text": "none (overseas territory of the UK); alternate contact is the US Embassy in Barbados [1] (246) 227-4000; US Embassy in Bridgetown, Wildey Business Park, St. Michael BB 14006, Barbados, WI"
+      }
     },
     "Flag description": {
       "text": "blue with the flag of the UK in the upper hoist-side quadrant and the Montserratian coat of arms centered in the outer half of the flag; the arms feature a woman in green dress, Erin, the female personification of Ireland, standing beside a yellow harp and embracing a large dark cross with her right arm; Erin and the harp are symbols of Ireland reflecting the territory's Irish ancestry; blue represents awareness, trustworthiness, determination, and righteousness"
     },
     "National anthem": {
-      "note": "note: as a territory of the UK, \"God Save the Queen\" is official (see United Kingdom)"
+      "text": "<p><strong>note:</strong> as a territory of the UK, \"God Save the Queen\" is official (see United Kingdom)</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "Severe volcanic activity, which began in July 1995, has put a damper on this small, open economy. A catastrophic eruption in June 1997 closed the airport and seaports, causing further economic and social dislocation. Two-thirds of the 12,000 inhabitants fled the island. Some began to return in 1998 but lack of housing limited the number. The agriculture sector continued to be affected by the lack of suitable land for farming and the destruction of crops. ++ Prospects for the economy depend largely on developments in relation to the volcanic activity and on public sector construction activity. Half of the island remains uninhabitable. In January 2013, the EU announced the disbursement of a $55.2 million aid package to Montserrat in order to boost the country's economic recovery, with a specific focus on public finance management, public sector reform, and prudent economic management. Montserrat is tied to the EU through the UK. Although the UK is leaving the EU, Montserrat's aid will not be affected as Montserrat maintains a direct agreement with the EU regarding aid."
+      "text": "<p>Severe volcanic activity, which began in July 1995, has put a damper on this small, open economy. A catastrophic eruption in June 1997 closed the airport and seaports, causing further economic and social dislocation. Two-thirds of the 12,000 inhabitants fled the island. Some began to return in 1998 but lack of housing limited the number. The agriculture sector continued to be affected by the lack of suitable land for farming and the destruction of crops.</p><p></p><p>Prospects for the economy depend largely on developments in relation to the volcanic activity and on public sector construction activity. Half of the island remains uninhabitable. In January 2013, the EU announced the disbursement of a $55.2 million aid package to Montserrat in order to boost the country's economic recovery, with a specific focus on public finance management, public sector reform, and prudent economic management. Montserrat is tied to the EU through the UK. Although the UK is leaving the EU, Montserrat’s aid will not be affected as Montserrat maintains a direct agreement with the EU regarding aid.</p>"
     },
-    "GDP real growth rate": {
-      "text": "7.4% (2011 est.) / -4.2% (2010 est.)",
-      "country comparison to the world": 14
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2011": {
+        "text": "7.4% (2011 est.)"
+      },
+      "Real GDP growth rate 2010": {
+        "text": "-4.2% (2010 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "1.2% (2017 est.) / -0.2% (2016 est.)",
-      "country comparison to the world": 76
+      "Inflation rate (consumer prices) 2017": {
+        "text": "1.2% (2017 est.)"
+      },
+      "Inflation rate (consumer prices) 2016": {
+        "text": "-0.2% (2016 est.)"
+      }
     },
     "Credit ratings": {
       "Standard & Poors rating": {
         "text": "BBB- (2020)"
       }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$167.4 billion (2011 est.) / $155.9 billion (2010 est.) / $162.7 billion (2009 est.)"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2011": {
+        "text": "$167.4 billion (2011 est.)"
+      },
+      "Real GDP (purchasing power parity) 2010": {
+        "text": "$155.9 billion (2010 est.)"
+      },
+      "Real GDP (purchasing power parity) 2009": {
+        "text": "$162.7 billion (2009 est.)"
+      }
     },
     "GDP (official exchange rate)": {
       "text": "$167.4 million (2011 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$34,000 (2011 est.) / $31,100 (2010 est.) / $32,300 (2009 est.)",
-      "country comparison to the world": 51
+    "Real GDP per capita": {
+      "Real GDP per capita 2011": {
+        "text": "$34,000 (2011 est.)"
+      },
+      "Real GDP per capita 2010": {
+        "text": "$31,100 (2010 est.)"
+      },
+      "Real GDP per capita 2009": {
+        "text": "$32,300 (2009 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -422,21 +456,17 @@
         "text": "-88.6% (2017 est.)"
       }
     },
-    "Ease of Doing Business Index scores": {
-    },
-    "Agriculture - products": {
+    "Agricultural products": {
       "text": "cabbages, carrots, cucumbers, tomatoes, onions, peppers; livestock products"
     },
     "Industries": {
       "text": "tourism, rum, textiles, electronic appliances"
     },
     "Industrial production growth rate": {
-      "text": "-21% (2017 est.)",
-      "country comparison to the world": 200
+      "text": "-21% (2017 est.)"
     },
     "Labor force": {
-      "text": "4,521 (2012)",
-      "country comparison to the world": 221
+      "text": "4,521 (2012)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -450,8 +480,12 @@
       }
     },
     "Unemployment rate": {
-      "text": "5.6% (2017 est.) / 6% (1998 est.)",
-      "country comparison to the world": 90
+      "Unemployment rate 2017": {
+        "text": "5.6% (2017 est.)"
+      },
+      "Unemployment rate 1998": {
+        "text": "6% (1998 est.)"
+      }
     },
     "Population below poverty line": {
       "text": "NA"
@@ -476,12 +510,20 @@
       "text": "1 April - 31 March"
     },
     "Current account balance": {
-      "text": "-$15.4 million (2017 est.) / -$12.2 million (2016 est.)",
-      "country comparison to the world": 71
+      "Current account balance 2017": {
+        "text": "-$15.4 million (2017 est.)"
+      },
+      "Current account balance 2016": {
+        "text": "-$12.2 million (2016 est.)"
+      }
     },
     "Exports": {
-      "text": "$4.4 million (2017 est.) / $5.2 million (2016 est.)",
-      "country comparison to the world": 218
+      "Exports 2017": {
+        "text": "$4.4 million (2017 est.)"
+      },
+      "Exports 2016": {
+        "text": "$5.2 million (2016 est.)"
+      }
     },
     "Exports - partners": {
       "text": "US 29%, France 23%, Saint Kitts and Nevis 22.2% (2017)"
@@ -490,119 +532,122 @@
       "text": "electronic components, plastic bags, apparel; hot peppers, limes, live plants; cattle"
     },
     "Imports": {
-      "text": "$39.44 million (2017 est.) / $36.1 million (2016 est.)",
-      "country comparison to the world": 221
-    },
-    "Imports - commodities": {
-      "text": "machinery and transportation equipment, foodstuffs, manufactured goods, fuels, lubricants"
+      "Imports 2017": {
+        "text": "$39.44 million (2017 est.)"
+      },
+      "Imports 2016": {
+        "text": "$36.1 million (2016 est.)"
+      }
     },
     "Imports - partners": {
       "text": "US 72.8%, Trinidad and Tobago 6%, UK 4.1% (2017)"
     },
+    "Imports - commodities": {
+      "text": "machinery and transportation equipment, foodstuffs, manufactured goods, fuels, lubricants"
+    },
     "Reserves of foreign exchange and gold": {
-      "text": "$47.58 million (31 December 2017 est.) / $51.47 million (31 December 2015 est.)",
-      "country comparison to the world": 187
+      "Reserves of foreign exchange and gold 31 December 2017": {
+        "text": "$47.58 million (31 December 2017 est.)"
+      },
+      "Reserves of foreign exchange and gold 31 December 2015": {
+        "text": "$51.47 million (31 December 2015 est.)"
+      }
     },
     "Debt - external": {
-      "text": "$8.9 million (1997)",
-      "country comparison to the world": 200
+      "Debt - external 1997": {
+        "text": "$8.9 million (1997)"
+      }
     },
     "Exchange rates": {
-      "text": "East Caribbean dollars (XCD) per US dollar - / 2.7 (2017 est.) / 2.7 (2016 est.) / 2.7 (2015 est.) / 2.7 (2014 est.) / 2.7 (2013 est.)"
+      "currency": {
+        "text": "East Caribbean dollars (XCD) per US dollar -"
+      },
+      "Exchange rates 2017": {
+        "text": "2.7 (2017 est.)"
+      },
+      "Exchange rates 2016": {
+        "text": "2.7 (2016 est.)"
+      },
+      "Exchange rates 2015": {
+        "text": "2.7 (2015 est.)"
+      },
+      "Exchange rates 2014": {
+        "text": "2.7 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "2.7 (2013 est.)"
+      }
     }
   },
   "Energy": {
     "Electricity - production": {
-      "text": "24 million kWh (2016 est.)",
-      "country comparison to the world": 211
+      "text": "24 million kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "22.32 million kWh (2016 est.)",
-      "country comparison to the world": 211
+      "text": "22.32 million kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 173
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - imports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 176
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "5,000 kW (2016 est.)",
-      "country comparison to the world": 212
+      "text": "5,000 kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "100% of total installed capacity (2016 est.)",
-      "country comparison to the world": 13
+      "text": "100% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 147
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 187
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 202
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "0 bbl/day (2018 est.)",
-      "country comparison to the world": 177
+      "text": "0 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 168
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - imports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 170
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2018 est.)",
-      "country comparison to the world": 172
+      "text": "0 bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 181
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "400 bbl/day (2016 est.)",
-      "country comparison to the world": 211
+      "text": "400 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 184
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "406 bbl/day (2015 est.)",
-      "country comparison to the world": 207
+      "text": "406 bbl/day (2015 est.)"
     },
     "Natural gas - production": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 174
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 178
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 155
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 160
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "0 cu m (1 January 2014 est.)",
-      "country comparison to the world": 173
+      "text": "0 cu m (1 January 2014 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "57,180 Mt (2017 est.)",
-      "country comparison to the world": 209
+      "text": "57,180 Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -612,8 +657,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "60.4 (2019 est.)"
-      },
-      "country comparison to the world": 211
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -621,12 +665,11 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "100.66 (2019 est.)"
-      },
-      "country comparison to the world": 217
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "telecom market one of growth in Caribbean and fully digitalized; high dependency on tourism and offshore financial services; operators expand FttP (Fiber to Home) services; LTE launches and operators invest in mobile networks; effective competition in all sectors (2020)"
+        "text": "telecom market one of growth in Caribbean and fully digitalized;&nbsp;high dependency on tourism and offshore financial&nbsp;services; operators expand FttP (Fiber to Home) services; LTE launches and operators invest in mobile networks; effective competition in all sectors (2020)"
       },
       "domestic": {
         "text": "fixed-line 60 per 100 and mobile-cellular teledensity 101 per 100 persons (2019)"
@@ -634,7 +677,7 @@
       "international": {
         "text": "country code - 1-664; landing point for the ECFS optic submarine cable with links to 14 other islands in the eastern Caribbean extending from the British Virgin Islands to Trinidad (2019)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "Radio Montserrat, a public radio broadcaster, transmits on 1 station and has a repeater transmission to a second station; repeater transmissions from the GEM Radio Network of Trinidad and Tobago provide another 2 radio stations; cable and satellite TV available (2007)"
@@ -648,8 +691,7 @@
       },
       "percent of population": {
         "text": "54.6% (July 2016 est.)"
-      },
-      "country comparison to the world": 222
+      }
     }
   },
   "Transportation": {
@@ -665,8 +707,9 @@
       "text": "VP-M (2016)"
     },
     "Airports": {
-      "text": "1 (2013)",
-      "country comparison to the world": 228
+      "total": {
+        "text": "1 (2013)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -677,7 +720,7 @@
       }
     },
     "Roadways": {
-      "note": "note: volcanic eruptions that began in 1995 destroyed most of the 227 km road system; a new road infrastructure has been built on the north end of the island"
+      "text": "<p><strong>note:</strong> volcanic eruptions that began in 1995 destroyed most of the 227 km road system; a new road infrastructure has been built on the north end of the island</p>"
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -687,7 +730,7 @@
   },
   "Military and Security": {
     "Military and security forces": {
-      "text": "no regular military forces; Royal Montserrat Defence Force (ceremonial, civil defense duties), Montserrat Police Force (2019)"
+      "text": "no regular military forces; Royal Montserrat Defence Force (ceremonial, civil defense duties),&nbsp; Montserrat Police Force (2019)"
     },
     "Military - note": {
       "text": "defense is the responsibility of the UK"
@@ -695,7 +738,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "none"
+      "text": "<p>none</p>"
     },
     "Illicit drugs": {
       "text": "transshipment point for South American narcotics destined for the US and Europe"

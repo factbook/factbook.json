@@ -23,14 +23,15 @@
       },
       "water": {
         "text": "0 sq km"
-      },
-      "country comparison to the world": 207
+      }
     },
     "Area - comparative": {
       "text": "twice the size of Washington, DC"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "121 km"
@@ -64,8 +65,14 @@
       "agricultural land": {
         "text": "32.3% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "8.8% (2011 est.) / 20.6% (2011 est.) / 2.9% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 8.8% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 20.6% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 2.9% (2011 est.)"
       },
       "forest": {
         "text": "50% (2011 est.)"
@@ -81,7 +88,7 @@
       "text": "approximately one-third of the population is found in the capital of St. George's; the island's population is concentrated along the coast"
     },
     "Natural hazards": {
-      "text": "lies on edge of hurricane belt; hurricane season lasts from June to November ++ volcanism: Mount Saint Catherine (840 m) lies on the island of Grenada; Kick 'em Jenny, an active submarine volcano (seamount) on the Caribbean Sea floor, lies about 8 km north of the island of Grenada; these two volcanoes are at the southern end of the volcanic island arc of the Lesser Antilles that extends up to the Netherlands dependency of Saba in the north"
+      "text": "<p>lies on edge of hurricane belt; hurricane season lasts from June to November</p><p><strong>volcanism:</strong> Mount Saint Catherine (840 m) lies on the island of Grenada; Kick 'em Jenny, an active submarine volcano (seamount) on the Caribbean Sea floor, lies about 8 km north of the island of Grenada; these two volcanoes are at the southern end of the volcanic island arc of the Lesser Antilles that extends up to the Netherlands dependency of Saba in the north</p>"
     },
     "Environment - current issues": {
       "text": "deforestation causing habitat destruction and species loss; coastal erosion and contamination; pollution and sedimentation; inadequate solid waste management"
@@ -100,8 +107,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "113,094 (July 2020 est.)",
-      "country comparison to the world": 189
+      "text": "113,570 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -160,24 +166,19 @@
       },
       "female": {
         "text": "33.4 years (2020 est.)"
-      },
-      "country comparison to the world": 99
+      }
     },
     "Population growth rate": {
-      "text": "0.38% (2020 est.)",
-      "country comparison to the world": 163
+      "text": "0.35% (2021 est.)"
     },
     "Birth rate": {
-      "text": "14.6 births/1,000 population (2020 est.)",
-      "country comparison to the world": 124
+      "text": "14.27 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "8.3 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 78
+      "text": "8.29 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "-2.6 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 170
+      "text": "-2.53 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "approximately one-third of the population is found in the capital of St. George's; the island's population is concentrated along the coast"
@@ -217,42 +218,38 @@
       }
     },
     "Maternal mortality rate": {
-      "text": "25 deaths/100,000 live births (2017 est.)",
-      "country comparison to the world": 122
+      "text": "25 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "8.9 deaths/1,000 live births"
+        "text": "9.6 deaths/1,000 live births"
       },
       "male": {
-        "text": "8.6 deaths/1,000 live births"
+        "text": "9.11 deaths/1,000 live births"
       },
       "female": {
-        "text": "9.4 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 140
+        "text": "10.14 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "75.2 years"
+        "text": "75.48 years"
       },
       "male": {
-        "text": "72.6 years"
+        "text": "72.86 years"
       },
       "female": {
-        "text": "78.1 years (2020 est.)"
-      },
-      "country comparison to the world": 119
+        "text": "78.36 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "1.96 children born/woman (2020 est.)",
-      "country comparison to the world": 115
+      "text": "1.95 children born/woman (2021 est.)"
     },
     "Drinking water source": {
-      "improved": {
+      "improved: total": {
         "text": "total: 96.8% of population"
       },
-      "unimproved": {
+      "unimproved: total": {
         "text": "total: 3.2% of population (2017 est.)"
       }
     },
@@ -266,16 +263,15 @@
       "text": "3.6 beds/1,000 population (2017)"
     },
     "Sanitation facility access": {
-      "improved": {
+      "improved: total": {
         "text": "total: 93.7% of population"
       },
-      "unimproved": {
+      "unimproved: total": {
         "text": "total: 6.3% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "0.5% (2018)",
-      "country comparison to the world": 69
+      "text": "0.5% (2018)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
       "text": "<500 (2018)"
@@ -284,12 +280,10 @@
       "text": "<100 (2018)"
     },
     "Obesity - adult prevalence rate": {
-      "text": "21.3% (2016)",
-      "country comparison to the world": 90
+      "text": "21.3% (2016)"
     },
     "Education expenditures": {
-      "text": "3.2% of GDP (2017)",
-      "country comparison to the world": 125
+      "text": "3.2% of GDP (2017)"
     },
     "Literacy": {
       "definition": {
@@ -342,7 +336,7 @@
       "time difference": {
         "text": "UTC-4 (1 hour ahead of Washington, DC, during Standard Time)"
       },
-      "note": "etymology: the 1763 Treaty of Paris transferred possession of Grenada from France to Great Britain; the new administration renamed Ville de Fort Royal (Fort Royal Town) to Saint George's Town, after the patron saint of England; eventually the name became simply Saint George's"
+      "note": "<br><br><strong>etymology:</strong> the 1763 Treaty of Paris transferred possession of Grenada from France to Great Britain; the new administration renamed Ville de Fort Royal (Fort Royal Town) to Saint George's Town, after the patron saint of England; eventually the name became simply Saint George's"
     },
     "Administrative divisions": {
       "text": "6 parishes and 1 dependency*; Carriacou and Petite Martinique*, Saint Andrew, Saint David, Saint George, Saint John, Saint Mark, Saint Patrick"
@@ -400,13 +394,13 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral Parliament consists of: Senate (13 seats; members appointed by the governor general - 10 on the advice of the prime minister and 3 on the advice of the leader of the opposition party; members serve 5-year terms) ++ House of Representatives (15 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)"
+        "text": "bicameral Parliament consists of:<br />Senate (13 seats; members appointed by the governor general - 10 on the advice of the prime minister and 3 on the advice of the leader of the opposition party; members serve 5-year terms)<br /> House of Representatives (15 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)"
       },
       "elections": {
-        "text": "Senate - last appointments on 27 April 2018 (next no later than2023) ++ House of Representatives - last held on 13 March 2018 (next no later than 2023)"
+        "text": "Senate - last appointments on 27 April 2018 (next no later than2023)<br /> House of Representatives - last held on 13 March 2018 (next no later than 2023)"
       },
       "election results": {
-        "text": "Senate - percent by party - NA; seats by party - NA; composition - men 11, women 2 percent of women 15.4% ++ House of Representatives - percent of vote by party - NNP 58.9%, NDC 40.5%; other 0.6% seats by party - NNP 15; composition - men 8, women 7, percent of women 46.7%; note - total Parliament percent of women 32.1%"
+        "text": "Senate - percent by party - NA; seats by party - NA; composition - men 11, women 2 percent of women 15.4%<br /> House of Representatives - percent of vote by party - NNP 58.9%, NDC 40.5%; other 0.6% seats by party - NNP 15; composition - men 8, women 7, percent of women 46.7%; note - total Parliament percent of women 32.1%"
       }
     },
     "Judicial branch": {
@@ -421,14 +415,14 @@
       }
     },
     "Political parties and leaders": {
-      "text": "National Democratic Congress or NDC [Nazim BURKE] ++ New National Party or NNP [Keith MITCHELL]"
+      "text": "National Democratic Congress or NDC [Nazim BURKE]<br />New National Party or NNP [Keith MITCHELL]"
     },
     "International organization participation": {
       "text": "ACP, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ITU, ITUC, LAES, MIGA, NAM, OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WTO"
     },
     "Diplomatic representation in the US": {
       "chief of mission": {
-        "text": "Ambassador Yolande Yvonne SMITH (since 8 April 2019)"
+        "text": "Ambassador Yolande Yvonne&nbsp;SMITH (since 8 April 2019)"
       },
       "chancery": {
         "text": "1701 New Hampshire Avenue NW, Washington, DC 20009"
@@ -445,7 +439,7 @@
     },
     "Diplomatic representation from the US": {
       "chief of mission": {
-        "text": "the US does not have an official embassy in Grenada; the US Ambassador to Barbados is accredited to Grenada"
+        "text": "<span style=\"display: inline !important; float: none; background-color: #ffffff; color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 18px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">the US does not have an official embassy in Grenada; the US Ambassador to Barbados is accredited to Grenada</span>"
       },
       "telephone": {
         "text": "[1] (473) 444-1173 through 1176"
@@ -473,41 +467,74 @@
       "lyrics/music": {
         "text": "Irva Merle BAPTISTE/Louis Arnold MASANTO"
       },
-      "note": "note: adopted 1974"
+      "note": "<p><strong>note:</strong> adopted 1974</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "Grenada relies on tourism and revenue generated by St. George's University - a private university offering degrees in medicine, veterinary medicine, public health, the health sciences, nursing, arts and sciences, and business - as its main source of foreign exchange. In the past two years the country expanded its sources of revenue, including from selling passports under its citizenship by investment program. These projects produced a resurgence in the construction and manufacturing sectors of the economy. ++ In 2017, Grenada experienced its fifth consecutive year of growth and the government successfully marked the completion of its five-year structural adjustment program that included among other things austerity measures, increased tax revenue and debt restructuring. Public debt-to-GDP was reduced from 100% of GDP in 2013 to 71.8% in 2017."
+      "text": "<p>Grenada relies on tourism and revenue generated by St. George’s University - a private university offering degrees in medicine, veterinary medicine, public health, the health sciences, nursing, arts and sciences, and business - as its main source of foreign exchange. In the past two years the country expanded its sources of revenue, including from selling passports under its citizenship by investment program. These projects produced a resurgence in the construction and manufacturing sectors of the economy.</p><p></p><p>In 2017, Grenada experienced its fifth consecutive year of growth and the government successfully marked the completion of its five-year structural adjustment program that included among other things austerity measures, increased tax revenue and debt restructuring. Public debt-to-GDP was reduced from 100% of GDP in 2013 to 71.8% in 2017.</p>"
     },
-    "GDP real growth rate": {
-      "text": "5.1% (2017 est.) / 3.7% (2016 est.) / 6.4% (2015 est.)",
-      "country comparison to the world": 43
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2017": {
+        "text": "5.1% (2017 est.)"
+      },
+      "Real GDP growth rate 2016": {
+        "text": "3.7% (2016 est.)"
+      },
+      "Real GDP growth rate 2015": {
+        "text": "6.4% (2015 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "0.9% (2017 est.) / 1.7% (2016 est.)",
-      "country comparison to the world": 59
+      "Inflation rate (consumer prices) 2017": {
+        "text": "0.9% (2017 est.)"
+      },
+      "Inflation rate (consumer prices) 2016": {
+        "text": "1.7% (2016 est.)"
+      }
     },
     "Credit ratings": {
       "Standard & Poors rating": {
         "text": "SD (2013)"
       }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$1.634 billion (2017 est.) / $1.555 billion (2016 est.) / $1.5 billion (2015 est.)",
-      "note": "note: data are in 2017 dollars"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2019": {
+        "text": "$1.908 billion (2019 est.)"
+      },
+      "Real GDP (purchasing power parity) 2018": {
+        "text": "$1.872 billion (2018 est.)"
+      },
+      "Real GDP (purchasing power parity) 2017": {
+        "text": "$1.798 billion (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2017 dollars</p>"
     },
     "GDP (official exchange rate)": {
       "text": "$1.119 billion (2017 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$15,100 (2017 est.) / $14,500 (2016 est.) / $14,000 (2015 est.)",
-      "note": "note: data are in 2017 dollars",
-      "country comparison to the world": 90
+    "Real GDP per capita": {
+      "Real GDP per capita 2019": {
+        "text": "$17,039 (2019 est.)"
+      },
+      "Real GDP per capita 2018": {
+        "text": "$16,801 (2018 est.)"
+      },
+      "Real GDP per capita 2017": {
+        "text": "$16,218 (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2017 dollars</p>"
     },
     "Gross national saving": {
-      "text": "11.7% of GDP (2017 est.) / 17% of GDP (2016 est.) / 13.9% of GDP (2015 est.)",
-      "country comparison to the world": 153
+      "Gross national saving 2017": {
+        "text": "11.7% of GDP (2017 est.)"
+      },
+      "Gross national saving 2016": {
+        "text": "17% of GDP (2016 est.)"
+      },
+      "Gross national saving 2015": {
+        "text": "13.9% of GDP (2015 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -541,21 +568,21 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "text": "53.4 (2020)"
+      "Overall Ease of Doing Business score 2020": {
+        "text": "53.4 (2020)"
+      }
     },
-    "Agriculture - products": {
-      "text": "bananas, cocoa, nutmeg, mace, soursop, citrus, avocados, root crops, corn, vegetables, fish"
+    "Agricultural products": {
+      "text": "bananas, watermelons, sweet potatoes, sugar cane, tomatoes, plantains, coconuts, melons, cucumbers, cabbages"
     },
     "Industries": {
       "text": "food and beverages, textiles, light assembly operations, tourism, construction, education, call-center operations"
     },
     "Industrial production growth rate": {
-      "text": "10% (2017 est.)",
-      "country comparison to the world": 16
+      "text": "10% (2017 est.)"
     },
     "Labor force": {
-      "text": "55,270 (2017 est.)",
-      "country comparison to the world": 188
+      "text": "55,270 (2017 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -569,8 +596,12 @@
       }
     },
     "Unemployment rate": {
-      "text": "24% (2017 est.) / 28.2% (2016 est.)",
-      "country comparison to the world": 196
+      "Unemployment rate 2017": {
+        "text": "24% (2017 est.)"
+      },
+      "Unemployment rate 2016": {
+        "text": "28.2% (2016 est.)"
+      }
     },
     "Population below poverty line": {
       "text": "38% (2008 est.)"
@@ -592,27 +623,37 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "25.8% (of GDP) (2017 est.)",
-      "country comparison to the world": 116
+      "text": "25.8% (of GDP) (2017 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "3.2% (of GDP) (2017 est.)",
-      "country comparison to the world": 12
+      "text": "3.2% (of GDP) (2017 est.)"
     },
     "Public debt": {
-      "text": "70.4% of GDP (2017 est.) / 82% of GDP (2016 est.)",
-      "country comparison to the world": 50
+      "Public debt 2017": {
+        "text": "70.4% of GDP (2017 est.)"
+      },
+      "Public debt 2016": {
+        "text": "82% of GDP (2016 est.)"
+      }
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Current account balance": {
-      "text": "-$77 million (2017 est.) / -$34 million (2016 est.)",
-      "country comparison to the world": 84
+      "Current account balance 2017": {
+        "text": "-$77 million (2017 est.)"
+      },
+      "Current account balance 2016": {
+        "text": "-$34 million (2016 est.)"
+      }
     },
     "Exports": {
-      "text": "$39.9 million (2017 est.) / $44.2 million (2016 est.)",
-      "country comparison to the world": 206
+      "Exports 2017": {
+        "text": "$39.9 million (2017 est.)"
+      },
+      "Exports 2016": {
+        "text": "$44.2 million (2016 est.)"
+      }
     },
     "Exports - partners": {
       "text": "US 25.3%, Japan 10.1%, Guyana 8.7%, Dominica 6.6%, St. Lucia 6.4%, Netherlands 4.7%, Barbados 4.1%, St. Kitts and Nevis 4% (2017)"
@@ -621,25 +662,54 @@
       "text": "nutmeg, bananas, cocoa, fruit and vegetables, clothing, mace, chocolate, fish"
     },
     "Imports": {
-      "text": "$316 million (2017 est.) / $314.7 million (2016 est.)",
-      "country comparison to the world": 205
-    },
-    "Imports - commodities": {
-      "text": "food, manufactured goods, machinery, chemicals, fuel"
+      "Imports 2017": {
+        "text": "$316 million (2017 est.)"
+      },
+      "Imports 2016": {
+        "text": "$314.7 million (2016 est.)"
+      }
     },
     "Imports - partners": {
       "text": "US 31.7%, Trinidad and Tobago 24.9%, China 6.7% (2017)"
     },
+    "Imports - commodities": {
+      "text": "food, manufactured goods, machinery, chemicals, fuel"
+    },
     "Reserves of foreign exchange and gold": {
-      "text": "$199.1 million (31 December 2017 est.) / $198 million (31 December 2015 est.)",
-      "country comparison to the world": 175
+      "Reserves of foreign exchange and gold 31 December 2017": {
+        "text": "$199.1 million (31 December 2017 est.)"
+      },
+      "Reserves of foreign exchange and gold 31 December 2015": {
+        "text": "$198 million (31 December 2015 est.)"
+      }
     },
     "Debt - external": {
-      "text": "$793.5 million (2017 est.) / $682.3 million (2016 est.)",
-      "country comparison to the world": 168
+      "Debt - external 2017": {
+        "text": "$793.5 million (2017 est.)"
+      },
+      "Debt - external 2016": {
+        "text": "$682.3 million (2016 est.)"
+      }
     },
     "Exchange rates": {
-      "text": "East Caribbean dollars (XCD) per US dollar - / 2.7 (2017 est.) / 2.7 (2016 est.) / 2.7 (2015 est.) / 2.7 (2014 est.) / 2.7 (2013 est.)"
+      "currency": {
+        "text": "East Caribbean dollars (XCD) per US dollar -"
+      },
+      "Exchange rates 2017": {
+        "text": "2.7 (2017 est.)"
+      },
+      "Exchange rates 2016": {
+        "text": "2.7 (2016 est.)"
+      },
+      "Exchange rates 2015": {
+        "text": "2.7 (2015 est.)"
+      },
+      "Exchange rates 2014": {
+        "text": "2.7 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "2.7 (2013 est.)"
+      }
     }
   },
   "Energy": {
@@ -649,96 +719,73 @@
       }
     },
     "Electricity - production": {
-      "text": "202.1 million kWh (2016 est.)",
-      "country comparison to the world": 192
+      "text": "202.1 million kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "185.1 million kWh (2016 est.)",
-      "country comparison to the world": 194
+      "text": "185.1 million kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 142
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - imports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 154
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "51,100 kW (2016 est.)",
-      "country comparison to the world": 190
+      "text": "51,100 kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "96% of total installed capacity (2016 est.)",
-      "country comparison to the world": 38
+      "text": "96% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 100
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 174
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "4% of total installed capacity (2017 est.)",
-      "country comparison to the world": 112
+      "text": "4% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "0 bbl/day (2018 est.)",
-      "country comparison to the world": 143
+      "text": "0 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 131
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - imports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 134
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2018 est.)",
-      "country comparison to the world": 139
+      "text": "0 bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 151
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "2,000 bbl/day (2016 est.)",
-      "country comparison to the world": 194
+      "text": "2,000 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 160
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "1,886 bbl/day (2015 est.)",
-      "country comparison to the world": 191
+      "text": "1,886 bbl/day (2015 est.)"
     },
     "Natural gas - production": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 139
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 152
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 114
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 132
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "0 cu m (1 January 2014 est.)",
-      "country comparison to the world": 141
+      "text": "0 cu m (1 January 2014 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "283,600 Mt (2017 est.)",
-      "country comparison to the world": 193
+      "text": "283,600 Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -748,8 +795,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "29.3 (2019 est.)"
-      },
-      "country comparison to the world": 170
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -757,8 +803,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "102.08 (2019 est.)"
-      },
-      "country comparison to the world": 192
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
@@ -768,9 +813,9 @@
         "text": "interisland VHF and UHF radiotelephone links; 29 per 100 for fixed-line and 102 per 100 for mobile-cellular (2019)"
       },
       "international": {
-        "text": "country code - 1-473; landing points for the ECFS, Southern Caribbean Fiber and CARCIP submarine cables with links to 13 Caribbean islands extending from the British Virgin Islands to Trinidad & Tobago including Puerto Rico and Barbados; SHF radiotelephone links to Trinidad and Tobago and Saint Vincent; VHF and UHF radio links to Trinidad (2019)"
+        "text": "country code - 1-473; landing points for the&nbsp;ECFS, Southern Caribbean Fiber and CARCIP&nbsp;submarine cables with links to&nbsp;13 Caribbean islands extending from the British Virgin Islands to Trinidad &amp; Tobago including Puerto Rico and Barbados; SHF radiotelephone links to Trinidad and Tobago and Saint Vincent; VHF and UHF radio links to Trinidad (2019)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "multiple publicly and privately owned television and radio stations; Grenada Information Service (GIS) is government-owned and provides television and radio services; the Grenada Broadcasting Network, jointly owned by the government and the Caribbean Communications Network of Trinidad and Tobago, operates a TV station and 2 radio stations; Meaningful Television (MTV) broadcasts island-wide and is part of a locally-owned media house, Moving Target Company, that also includes an FM radio station and a weekly newspaper; multi-channel cable TV subscription service is provided by Columbus Communications Grenada (FLOW GRENADA) and is available island wide; approximately 25 private radio stations also broadcast throughout the country (2019)"
@@ -784,8 +829,7 @@
       },
       "percent of population": {
         "text": "59.07% (July 2018 est.)"
-      },
-      "country comparison to the world": 191
+      }
     },
     "Broadband - fixed subscriptions": {
       "total": {
@@ -793,8 +837,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "20 (2017 est.)"
-      },
-      "country comparison to the world": 151
+      }
     }
   },
   "Transportation": {
@@ -802,8 +845,9 @@
       "text": "J3 (2016)"
     },
     "Airports": {
-      "text": "3 (2013)",
-      "country comparison to the world": 194
+      "total": {
+        "text": "3 (2013)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -828,17 +872,15 @@
       },
       "unpaved": {
         "text": "225 km (2017)"
-      },
-      "country comparison to the world": 182
+      }
     },
     "Merchant marine": {
       "total": {
         "text": "6"
       },
       "by type": {
-        "text": "general cargo 3, other 3 (2019)"
-      },
-      "country comparison to the world": 163
+        "text": "general cargo 3, other 3 (2020)"
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -853,7 +895,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "none"
+      "text": "<p>none</p>"
     },
     "Illicit drugs": {
       "text": "small-scale cannabis cultivation; lesser transshipment point for marijuana and cocaine to US"

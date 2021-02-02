@@ -24,14 +24,15 @@
       "water": {
         "text": "0 sq km"
       },
-      "note": "note: includes Spitsbergen and Bjornoya (Bear Island)",
-      "country comparison to the world": 125
+      "note": "<p><strong>note:</strong> includes Spitsbergen and Bjornoya (Bear Island)</p>"
     },
     "Area - comparative": {
       "text": "slightly smaller than West Virginia"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "3,587 km"
@@ -71,8 +72,14 @@
       "agricultural land": {
         "text": "0% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "0% (2011 est.) / 0% (2011 est.) / 0% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 0% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 0% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 0% (2011 est.)"
       },
       "forest": {
         "text": "0% (2011 est.)"
@@ -96,50 +103,54 @@
   },
   "People and Society": {
     "Population": {
-      "text": "2,926 (July 2019 est.)",
-      "country comparison to the world": 229
+      "text": "6,528,135 (July 2021 est.)"
     },
     "Ethnic groups": {
       "text": "Norwegian 58%, foreign population 42% (consists primarily of Russians, Thais, Swedes, Filipinos, and Ukrainians) (2019 est.)",
-      "note": "note: foreigners account for almost one third of the population of the Norwegian settlements, Longyearbyen and Ny-Alesund (where the majority of Svalbard's resident population lives), as of mid-2019"
+      "note": "<br><br><strong>note:</strong> foreigners account for almost one third of the population of the Norwegian settlements, Longyearbyen and Ny-Alesund (where the majority of Svalbard's resident population lives), as of mid-2019"
     },
     "Languages": {
       "text": "Norwegian, Russian"
     },
     "Population growth rate": {
-      "text": "-0.03% (2014 est.)",
-      "country comparison to the world": 196
+      "text": "0.67% (2021 est.)"
+    },
+    "Death rate": {
+      "text": "5.91 deaths/1,000 population (2021 est.)"
+    },
+    "Net migration rate": {
+      "text": "-5.57 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "the small population is primarily concentrated on the island of Spitsbergen in a handful of settlements on the south side of the Isfjorden, with Longyearbyen being the largest"
     },
     "Sex ratio": {
-      "note": "NA"
+      "text": "NA"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "NA (2018)"
+        "text": "12.38 deaths/1,000 live births NA"
       },
       "male": {
-        "text": "NA"
+        "text": "14.03 deaths/1,000 live births NA"
       },
       "female": {
-        "text": "NA"
+        "text": "10.64 deaths/1,000 live births NA (2021 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "NA (2017 est.)"
+        "text": "75.11 years NA"
       },
       "male": {
-        "text": "NA"
+        "text": "71.6 years NA"
       },
       "female": {
-        "text": "NA"
+        "text": "78.79 years NA (2021 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "NA"
+      "text": "2.07 children born/woman NA (2021 est.)"
     },
     "HIV/AIDS - adult prevalence rate": {
       "text": "NA"
@@ -179,7 +190,7 @@
       "daylight saving time": {
         "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
       },
-      "note": "etymology: the name in Norwegian means Longyear Town; the site was established by and named after John LONGYEAR, whose Arctic Coal Company began mining operations there in 1906"
+      "note": "<br><br><strong>etymology:</strong> the name in Norwegian means Longyear Town; the site was established by and named after John LONGYEAR, whose Arctic Coal Company began mining operations there in 1906"
     },
     "Independence": {
       "text": "none (territory of Norway)"
@@ -188,7 +199,7 @@
       "text": "the laws of Norway where applicable apply; only the laws of Norway made explicitly applicable to Svalbard have effect there; the Svalbard Act and the Svalbard Environmental Protection Act, and certain regulations, apply only to Svalbard; the Spitsbergen Treaty and the Svalbard Treaty grant certain rights to citizens and corporations of signatory nations; as of June 2017, 45 nations had ratified the Svalbard Treaty"
     },
     "Citizenship": {
-      "note": "see Norway"
+      "text": "see Norway"
     },
     "Executive branch": {
       "chief of state": {
@@ -213,10 +224,12 @@
       }
     },
     "Judicial branch": {
-      "text": "none; note - Svalbard is subordinate to Norway's Nord-Troms District Court and Halogaland Court of Appeal, both located in Tromso"
+      "highest courts": {
+        "text": "none; note - Svalbard is subordinate to Norway's Nord-Troms District Court and Halogaland Court of Appeal, both located in Tromso"
+      }
     },
     "Political parties and leaders": {
-      "text": "Svalbard Conservative Party [Kjetil FIGENSCHOU] ++ Svalbard Green Party [Helga Bardsdatter KRISTIANSEN, Espen Klungseth ROTEVATN] ++ Svalbard Labor Party [Elise STROMSENG] ++ Svalbard Liberal Party [Erik BERGER]"
+      "text": "Svalbard Conservative Party [Kjetil FIGENSCHOU]<br />Svalbard Green Party [Helga Bardsdatter KRISTIANSEN, Espen Klungseth ROTEVATN]<br />Svalbard Labor Party [Elise STROMSENG]<br />Svalbard Liberal Party [Erik BERGER]"
     },
     "International organization participation": {
       "text": "none"
@@ -225,21 +238,18 @@
       "text": "the flag of Norway is used"
     },
     "National anthem": {
-      "note": "note: as a territory of Norway, \"Ja, vi elsker dette landet\" is official (see Norway)"
+      "text": "<p><strong>note:</strong> as a territory of Norway, \"Ja, vi elsker dette landet\" is official (see Norway)</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "Coal mining, tourism, and international research are Svalbard's major industries. Coal mining has historically been the dominant economic activity, and the Spitzbergen Treaty of 9 February 1920 gives the 45 countries that so far have ratified the treaty equal rights to exploit mineral deposits, subject to Norwegian regulation. Although US, UK, Dutch, and Swedish coal companies have mined in the past, the only companies still engaging in this are Norwegian and Russian. Low coal prices have forced the Norwegian coal company, Store Norske Spitsbergen Kulkompani, to close one of its two mines and to considerably reduce the activity of the other. Since the 1990s, the tourism and hospitality industry has grown rapidly, and Svalbard now receives 60,000 visitors annually. ++ The settlements on Svalbard were established as company towns, and at their height in the 1950s, the Norwegian state-owned coal company supported nearly 1,000 jobs. Today, only about 300 people work in the mining industry. ++ Goods such as alcohol, tobacco, and vehicles, normally highly taxed on mainland Norway, are considerably cheaper in Svalbard in an effort by the Norwegian Government to entice more people to live on the Arctic archipelago. By law, Norway collects only enough taxes to pay for the needs of the local government; none of tax proceeds go to the central government."
+      "text": "<p>Coal mining, tourism, and international research are Svalbard's major industries. Coal mining has historically been the dominant economic activity, and the Spitzbergen Treaty of 9 February 1920 gives the 45 countries that so far have ratified the treaty equal rights to exploit mineral deposits, subject to Norwegian regulation. Although US, UK, Dutch, and Swedish coal companies have mined in the past, the only companies still engaging in this are Norwegian and Russian. Low coal prices have forced the Norwegian coal company, Store Norske Spitsbergen Kulkompani, to close one of its two mines and to considerably reduce the activity of the other. Since the 1990s, the tourism and hospitality industry has grown rapidly, and Svalbard now receives 60,000 visitors annually.</p><p></p><p>The settlements on Svalbard were established as company towns, and at their height in the 1950s, the Norwegian state-owned coal company supported nearly 1,000 jobs. Today, only about 300 people work in the mining industry.</p><p></p><p>Goods such as alcohol, tobacco, and vehicles, normally highly taxed on mainland Norway, are considerably cheaper in Svalbard in an effort by the Norwegian Government to entice more people to live on the Arctic archipelago. By law, Norway collects only enough taxes to pay for the needs of the local government; none of tax proceeds go to the central government.</p>"
     },
     "GDP real growth rate": {
-      "note": "NA"
-    },
-    "Ease of Doing Business Index scores": {
+      "text": "<p>NA</p>"
     },
     "Labor force": {
-      "text": "1,590 (2013)",
-      "country comparison to the world": 227
+      "text": "1,590 (2013)"
     },
     "Budget": {
       "revenues": {
@@ -256,55 +266,62 @@
       "text": "NA"
     },
     "Exports": {
-      "note": "NA"
+      "text": "<p>NA</p>"
     },
     "Imports": {
-      "note": "$NA"
+      "text": "<p>$NA</p>"
     },
     "Exchange rates": {
-      "text": "Norwegian kroner (NOK) per US dollar - / 8.308 (2017 est.) / 8.0646 (2016 est.) / 8.0646 (2015) / 8.0646 (2014 est.) / 6.3021 (2013 est.)"
+      "currency": {
+        "text": "Norwegian kroner (NOK) per US dollar -"
+      },
+      "Exchange rates 2017": {
+        "text": "8.308 (2017 est.)"
+      },
+      "Exchange rates 2016": {
+        "text": "8.0646 (2016 est.)"
+      },
+      "Exchange rates 2015": {
+        "text": "8.0646 (2015)"
+      },
+      "Exchange rates 2014": {
+        "text": "8.0646 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "6.3021 (2013 est.)"
+      }
     }
   },
   "Energy": {
     "Crude oil - production": {
-      "text": "194,300 bbl/day (2014 est.)",
-      "country comparison to the world": 36
+      "text": "194,300 bbl/day (2014 est.)"
     },
     "Crude oil - exports": {
-      "text": "16,070 bbl/day (2012 est.)",
-      "country comparison to the world": 53
+      "text": "16,070 bbl/day (2012 est.)"
     },
     "Crude oil - imports": {
-      "text": "0 bbl/day (2012 est.)",
-      "country comparison to the world": 200
+      "text": "0 bbl/day (2012 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "80,250 bbl/day (2013 est.)",
-      "country comparison to the world": 87
+      "text": "80,250 bbl/day (2013 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "4,488 bbl/day (2012 est.)",
-      "country comparison to the world": 93
+      "text": "4,488 bbl/day (2012 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "18,600 bbl/day (2012 est.)",
-      "country comparison to the world": 127
+      "text": "18,600 bbl/day (2012 est.)"
     },
     "Natural gas - production": {
-      "text": "0 cu m (2013 est.)",
-      "country comparison to the world": 203
+      "text": "0 cu m (2013 est.)"
     },
     "Natural gas - consumption": {
-      "text": "0 cu m (2013 est.)",
-      "country comparison to the world": 204
+      "text": "0 cu m (2013 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2013 est.)",
-      "country comparison to the world": 192
+      "text": "0 cu m (2013 est.)"
     },
     "Natural gas - imports": {
-      "text": "0 cu m (2013 est.)",
-      "country comparison to the world": 195
+      "text": "0 cu m (2013 est.)"
     }
   },
   "Communications": {
@@ -318,7 +335,7 @@
       "international": {
         "text": "country code - 47-790; the Svalbard Undersea Cable System is a twin communications cable that connects Svalbard to mainland Norway; the system is the sole telecommunications link to the archipelago (2019)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "the Norwegian Broadcasting Corporation (NRK) began direct TV transmission to Svalbard via satellite in 1984; Longyearbyen households have access to 3 NRK radio and 2 TV stations"
@@ -329,8 +346,9 @@
   },
   "Transportation": {
     "Airports": {
-      "text": "4 (2013)",
-      "country comparison to the world": 188
+      "total": {
+        "text": "4 (2013)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -354,8 +372,7 @@
     "Roadways": {
       "total": {
         "text": "40 km (2020)"
-      },
-      "country comparison to the world": 218
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -373,7 +390,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "despite recent discussions, Russia and Norway dispute their maritime limits in the Barents Sea and Russia's fishing rights beyond Svalbard's territorial limits within the Svalbard Treaty zone"
+      "text": "<p>despite recent discussions, Russia and Norway dispute their maritime limits in the Barents Sea and Russia's fishing rights beyond Svalbard's territorial limits within the Svalbard Treaty zone</p>"
     }
   }
 }

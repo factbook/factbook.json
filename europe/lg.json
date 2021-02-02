@@ -23,8 +23,7 @@
       },
       "water": {
         "text": "2,340 sq km"
-      },
-      "country comparison to the world": 124
+      }
     },
     "Area - comparative": {
       "text": "slightly larger than West Virginia"
@@ -75,8 +74,14 @@
       "agricultural land": {
         "text": "29.2% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "18.6% (2011 est.) / 0.1% (2011 est.) / 10.5% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 18.6% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 0.1% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 10.5% (2011 est.)"
       },
       "forest": {
         "text": "54.1% (2011 est.)"
@@ -87,7 +92,7 @@
     },
     "Irrigated land": {
       "text": "12 sq km (2012)",
-      "note": "note: land in Latvia is often too wet and in need of drainage not irrigation; approximately 16,000 sq km or 85% of agricultural land has been improved by drainage"
+      "note": "<p><strong>note:</strong> land in Latvia is often too wet and in need of drainage not irrigation; approximately 16,000 sq km or 85% of agricultural land has been improved by drainage</p>"
     },
     "Population distribution": {
       "text": "largest concentration of people is found in and around the port and capital city of Riga; small agglomerations are scattered throughout the country"
@@ -112,8 +117,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "1,881,232 (July 2020 est.)",
-      "country comparison to the world": 153
+      "text": "1,862,687 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -128,7 +132,7 @@
     },
     "Languages": {
       "text": "Latvian (official) 56.3%, Russian 33.8%, other 0.6% (includes Polish, Ukrainian, and Belarusian), unspecified 9.4% (2011 est.)",
-      "note": "note: data represent language usually spoken at home"
+      "note": "<p><strong>note:</strong> data represent language usually spoken at home</p>"
     },
     "Religions": {
       "text": "Lutheran 36.2%, Roman Catholic 19.5%, Orthodox 19.1%, other Christian 1.6%, other 0.1%, unspecified/none 23.5% (2017 est.)"
@@ -173,24 +177,19 @@
       },
       "female": {
         "text": "48 years (2020 est.)"
-      },
-      "country comparison to the world": 16
+      }
     },
     "Population growth rate": {
-      "text": "-1.12% (2020 est.)",
-      "country comparison to the world": 230
+      "text": "-1.1% (2021 est.)"
     },
     "Birth rate": {
-      "text": "9.2 births/1,000 population (2020 est.)",
-      "country comparison to the world": 203
+      "text": "8.96 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "14.6 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 4
+      "text": "14.63 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "-5.9 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 201
+      "text": "-5.32 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "largest concentration of people is found in and around the port and capital city of Riga; small agglomerations are scattered throughout the country"
@@ -233,43 +232,51 @@
       "text": "27.6 years (2017 est.)"
     },
     "Maternal mortality rate": {
-      "text": "19 deaths/100,000 live births (2017 est.)",
-      "country comparison to the world": 124
+      "text": "19 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "5 deaths/1,000 live births"
+        "text": "4.93 deaths/1,000 live births"
       },
       "male": {
-        "text": "5.4 deaths/1,000 live births"
+        "text": "5.34 deaths/1,000 live births"
       },
       "female": {
-        "text": "4.6 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 176
+        "text": "4.5 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "75.4 years"
+        "text": "75.65 years"
       },
       "male": {
-        "text": "70.9 years"
+        "text": "71.19 years"
       },
       "female": {
-        "text": "80.1 years (2020 est.)"
-      },
-      "country comparison to the world": 116
+        "text": "80.33 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "1.53 children born/woman (2020 est.)",
-      "country comparison to the world": 197
+      "text": "1.54 children born/woman (2021 est.)"
     },
     "Drinking water source": {
-      "improved": {
-        "text": "urban: 98.8% of population / rural: 98.2% of population / total: 98.6% of population"
+      "improved: urban": {
+        "text": "urban: 98.8% of population"
       },
-      "unimproved": {
-        "text": "urban: 1.2% of population / rural: 1.8% of population / total: 1.4% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 98.2% of population"
+      },
+      "improved: total": {
+        "text": "total: 98.6% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 1.2% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 1.8% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 1.4% of population (2017 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -282,20 +289,30 @@
       "text": "5.6 beds/1,000 population (2017)"
     },
     "Sanitation facility access": {
-      "improved": {
-        "text": "urban: 98.9% of population / rural: 84.6% of population / total: 94.3% of population"
+      "improved: urban": {
+        "text": "urban: 98.9% of population"
       },
-      "unimproved": {
-        "text": "urban: 1.1% of population / rural: 15.4% of population / total: 5.7% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 84.6% of population"
+      },
+      "improved: total": {
+        "text": "total: 94.3% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 1.1% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 15.4% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 5.7% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "0.3% (2019 est.)",
-      "country comparison to the world": 91
+      "text": "0.3% (2019 est.)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
-      "text": "5,600 (2019 est.)",
-      "country comparison to the world": 122
+      "text": "5,600 (2019 est.)"
     },
     "HIV/AIDS - deaths": {
       "text": "<100 (2019 est.)"
@@ -309,12 +326,10 @@
       }
     },
     "Obesity - adult prevalence rate": {
-      "text": "23.6% (2016)",
-      "country comparison to the world": 65
+      "text": "23.6% (2016)"
     },
     "Education expenditures": {
-      "text": "4.4% of GDP (2017)",
-      "country comparison to the world": 82
+      "text": "4.4% of GDP (2017)"
     },
     "Literacy": {
       "definition": {
@@ -350,8 +365,7 @@
       },
       "female": {
         "text": "11.8% (2018 est.)"
-      },
-      "country comparison to the world": 109
+      }
     }
   },
   "Government": {
@@ -391,10 +405,10 @@
       "daylight saving time": {
         "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
       },
-      "note": "etymology: of the several theories explaining the name's origin, the one relating to the city's role in Baltic and North Sea commerce is the most probable; the name is likely related to the Latvian word \"rija,\" meaning \"warehouse,\" where the 'j' became a 'g' under the heavy German influence in the city from the late Middle Ages to the early 20th century"
+      "note": "<br><br><strong>etymology:</strong> of the several theories explaining the name's origin, the one relating to the city's role in Baltic and North Sea commerce is the most probable; the name is likely related to the Latvian word \"rija,\" meaning \"warehouse,\" where the 'j' became a 'g' under the heavy German influence in the city from the late Middle Ages to the early 20th century"
     },
     "Administrative divisions": {
-      "text": "110 municipalities (novadi, singular - novads) and 9 cities ++ municipalities: Adazi, Aglona, Aizkraukle, Aizpute, Akniste, Aloja, Alsunga, Aluksne, Amata, Ape, Auce, Babite, Baldone, Baltinava, Balvi, Bauska, Beverina, Broceni, Burtnieki, Carnikava, Cesis, Cesvaine, Cibla, Dagda, Daugavpils, Dobele, Dundaga, Durbe, Engure, Ergli, Garkalne, Grobina, Gulbene, Iecava, Ikskile, Ilukste, Incukalns, Jaunjelgava, Jaunpiebalga, Jaunpils, Jekabpils, Jelgava, Kandava, Karsava, Kegums, Kekava, Koceni, Koknese, Kraslava, Krimulda, Krustpils, Kuldiga, Lielvarde, Ligatne, Limbazi, Livani, Lubanas, Ludza, Madona, Malpils, Marupe, Mazsalaca, Mersrags, Naukseni, Nereta, Nica, Ogre, Olaine, Ozolnieki, Pargauja, Pavilosta, Plavinas, Preili, Priekule, Priekuli, Rauna, Rezekne, Riebini, Roja, Ropazi, Rucava, Rugaji, Rujiena, Rundale, Salacgriva, Sala, Salaspils, Saldus, Saulkrasti, Seja, Sigulda, Skriveri, Skrunda, Smiltene, Stopini, Strenci, Talsi, Tervete, Tukums, Vainode, Valka, Varaklani, Varkava, Vecpiebalga, Vecumnieki, Ventspils, Viesites, Vilaka, Vilani, Zilupe ++ cities: Daugavpils, Jekabpils, Jelgava, Jurmala, Liepaja, Rezekne, Riga, Valmiera, Ventspils"
+      "text": "<p>110 municipalities (novadi, singular - novads) and 9 cities</p> <p><strong>municipalities:</strong> Adazi, Aglona, Aizkraukle, Aizpute, Akniste, Aloja, Alsunga, Aluksne, Amata, Ape, Auce, Babite, Baldone, Baltinava, Balvi, Bauska, Beverina, Broceni, Burtnieki, Carnikava, Cesis, Cesvaine, Cibla, Dagda, Daugavpils, Dobele, Dundaga, Durbe, Engure, Ergli, Garkalne, Grobina, Gulbene, Iecava, Ikskile, Ilukste, Incukalns, Jaunjelgava, Jaunpiebalga, Jaunpils, Jekabpils, Jelgava, Kandava, Karsava, Kegums, Kekava, Koceni, Koknese, Kraslava, Krimulda, Krustpils, Kuldiga, Lielvarde, Ligatne, Limbazi, Livani, Lubanas, Ludza, Madona, Malpils, Marupe, Mazsalaca, Mersrags, Naukseni, Nereta, Nica, Ogre, Olaine, Ozolnieki, Pargauja, Pavilosta, Plavinas, Preili, Priekule, Priekuli, Rauna, Rezekne, Riebini, Roja, Ropazi, Rucava, Rugaji, Rujiena, Rundale, Salacgriva, Sala, Salaspils, Saldus, Saulkrasti, Seja, Sigulda, Skriveri, Skrunda, Smiltene, Stopini, Strenci, Talsi, Tervete, Tukums, Vainode, Valka, Varaklani, Varkava, Vecpiebalga, Vecumnieki, Ventspils, Viesites, Vilaka, Vilani, Zilupe</p> <p><strong>cities:</strong> Daugavpils, Jekabpils, Jelgava, Jurmala, Liepaja, Rezekne, Riga, Valmiera, Ventspils</p>"
     },
     "Independence": {
       "text": "18 November 1918 (from Soviet Russia); 4 May 1990 (declared from the Soviet Union); 6 September 1991 (recognized by the Soviet Union)"
@@ -447,7 +461,7 @@
         "text": "president indirectly elected by Parliament for a 4-year term (eligible for a second term); election last held on 29 May 2019 (next to be held in 2023); prime minister appointed by the president, confirmed by Parliament"
       },
       "election results": {
-        "text": "Egils LEVITS elected president; Parliament vote - Egils LEVITS 61 votes, Didzis SMITS 24, Juris JANSONS 8; Krisjanis KARINS confirmed prime minister 61-39"
+        "text": "Egils LEVITS elected president; Parliament vote - Egils LEVITS 61 votes,&nbsp;Didzis SMITS 24, Juris JANSONS 8; Krisjanis KARINS confirmed prime minister 61-39"
       }
     },
     "Legislative branch": {
@@ -473,7 +487,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Development/For! or AP! [Daniels PAVLUTS, Juris PUCE] ++ National Alliance \"All For Latvia!\"-\"For Fatherland and Freedom/LNNK\" or NA [Raivis DZINTARS] New Conservative Party or JKP [Janis BORDANS] ++ Social Democratic Party \"Harmony\" or SDPS [Nils USAKOVS] Union of Greens and Farmers or ZZS [Armands KRAUZE] Unity or V [Arvils ASERADENS] ++ Who Owns the State? or KPV LV [Artuss KAIMINS]"
+      "text": "Development/For! or AP! [Daniels PAVLUTS, Juris PUCE]<br />National Alliance \"All For Latvia!\"-\"For Fatherland and Freedom/LNNK\" or NA [Raivis DZINTARS] New Conservative Party or JKP [Janis BORDANS]<br />Social Democratic Party \"Harmony\" or SDPS [Nils USAKOVS] Union of Greens and Farmers or ZZS [Armands KRAUZE] Unity or V [Arvils ASERADENS]<br />Who Owns the State? or KPV LV [Artuss KAIMINS]"
     },
     "International organization participation": {
       "text": "Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating state), EU, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NATO, NIB, NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
@@ -522,20 +536,34 @@
       "lyrics/music": {
         "text": "Karlis BAUMANIS"
       },
-      "note": "note: adopted 1920, restored 1990; first performed in 1873 while Latvia was a part of Russia; banned during the Soviet occupation from 1940 to 1990"
+      "note": "<p><strong>note:</strong> adopted 1920, restored 1990; first performed in 1873 while Latvia was a part of Russia; banned during the Soviet occupation from 1940 to 1990</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "Latvia is a small, open economy with exports contributing more than half of GDP. Due to its geographical location, transit services are highly-developed, along with timber and wood-processing, agriculture and food products, and manufacturing of machinery and electronics industries. Corruption continues to be an impediment to attracting foreign direct investment and Latvia's low birth rate and decreasing population are major challenges to its long-term economic vitality. ++ Latvia's economy experienced GDP growth of more than 10% per year during 2006-07, but entered a severe recession in 2008 as a result of an unsustainable current account deficit and large debt exposure amid the slowing world economy. Triggered by the collapse of the second largest bank, GDP plunged by more than 14% in 2009 and, despite strong growth since 2011, the economy took until 2017 return to pre-crisis levels in real terms. Strong investment and consumption, the latter stoked by rising wages, helped the economy grow by more than 4% in 2017, while inflation rose to 3%. Continued gains in competitiveness and investment will be key to maintaining economic growth, especially in light of unfavorable demographic trends, including the emigration of skilled workers, and one of the highest levels of income inequality in the EU. ++ In the wake of the 2008-09 crisis, the IMF, EU, and other international donors provided substantial financial assistance to Latvia as part of an agreement to defend the currency's peg to the euro in exchange for the government's commitment to stringent austerity measures. The IMF/EU program successfully concluded in December 2011, although, the austerity measures imposed large social costs. The majority of companies, banks, and real estate have been privatized, although the state still holds sizable stakes in a few large enterprises, including 80% ownership of the Latvian national airline. Latvia officially joined the World Trade Organization in February 1999 and the EU in May 2004. Latvia also joined the euro zone in 2014 and the OECD in 2016."
+      "text": "<p>Latvia is a small, open economy with exports contributing more than half of GDP. Due to its geographical location, transit services are highly-developed, along with timber and wood-processing, agriculture and food products, and manufacturing of machinery and electronics industries. Corruption continues to be an impediment to attracting foreign direct investment and Latvia's low birth rate and decreasing population are major challenges to its long-term economic vitality.</p><p></p><p>Latvia's economy experienced GDP growth of more than 10% per year during 2006-07, but entered a severe recession in 2008 as a result of an unsustainable current account deficit and large debt exposure amid the slowing world economy. Triggered by the collapse of the second largest bank, GDP plunged by more than 14% in 2009 and, despite strong growth since 2011, the economy took until 2017 return to pre-crisis levels in real terms. Strong investment and consumption, the latter stoked by rising wages, helped the economy grow by more than 4% in 2017, while inflation rose to 3%. Continued gains in competitiveness and investment will be key to maintaining economic growth, especially in light of unfavorable demographic trends, including the emigration of skilled workers, and one of the highest levels of income inequality in the EU.</p><p></p><p>In the wake of the 2008-09 crisis, the IMF, EU, and other international donors provided substantial financial assistance to Latvia as part of an agreement to defend the currency's peg to the euro in exchange for the government's commitment to stringent austerity measures. The IMF/EU program successfully concluded in December 2011, although, the austerity measures imposed large social costs. The majority of companies, banks, and real estate have been privatized, although the state still holds sizable stakes in a few large enterprises, including 80% ownership of the Latvian national airline. Latvia officially joined the World Trade Organization in February 1999 and the EU in May 2004. Latvia also joined the euro zone in 2014 and the OECD in 2016.</p>"
     },
-    "GDP real growth rate": {
-      "text": "2.08% (2019 est.) / 4.2% (2018 est.) / 3.23% (2017 est.)",
-      "country comparison to the world": 133
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2019": {
+        "text": "2.08% (2019 est.)"
+      },
+      "Real GDP growth rate 2018": {
+        "text": "4.2% (2018 est.)"
+      },
+      "Real GDP growth rate 2017": {
+        "text": "3.23% (2017 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "2.8% (2019 est.) / 2.5% (2018 est.) / 2.9% (2017 est.)",
-      "country comparison to the world": 143
+      "Inflation rate (consumer prices) 2019": {
+        "text": "2.8% (2019 est.)"
+      },
+      "Inflation rate (consumer prices) 2018": {
+        "text": "2.5% (2018 est.)"
+      },
+      "Inflation rate (consumer prices) 2017": {
+        "text": "2.9% (2017 est.)"
+      }
     },
     "Credit ratings": {
       "Fitch rating": {
@@ -548,21 +576,43 @@
         "text": "A+ (2020)"
       }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$56.651 billion (2019 est.) / $55.507 billion (2018 est.) / $53.268 billion (2017 est.)",
-      "note": "note: data are in 2010 dollars"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2019": {
+        "text": "$56.651 billion (2019 est.)"
+      },
+      "Real GDP (purchasing power parity) 2018": {
+        "text": "$55.507 billion (2018 est.)"
+      },
+      "Real GDP (purchasing power parity) 2017": {
+        "text": "$53.268 billion (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
     },
     "GDP (official exchange rate)": {
       "text": "$34.084 billion (2019 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$16,778 (2019 est.) / $16,254 (2018 est.) / $15,417 (2017 est.)",
-      "note": "note: data are in 2010 dollars",
-      "country comparison to the world": 86
+    "Real GDP per capita": {
+      "Real GDP per capita 2019": {
+        "text": "$16,778 (2019 est.)"
+      },
+      "Real GDP per capita 2018": {
+        "text": "$16,254 (2018 est.)"
+      },
+      "Real GDP per capita 2017": {
+        "text": "$15,417 (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
     },
     "Gross national saving": {
-      "text": "20.7% of GDP (2017 est.) / 21% of GDP (2016 est.) / 21.8% of GDP (2015 est.)",
-      "country comparison to the world": 91
+      "Gross national saving 2017": {
+        "text": "20.7% of GDP (2017 est.)"
+      },
+      "Gross national saving 2016": {
+        "text": "21% of GDP (2016 est.)"
+      },
+      "Gross national saving 2015": {
+        "text": "21.8% of GDP (2015 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -596,21 +646,21 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "text": "94.1 (2020)"
+      "Overall Ease of Doing Business score 2020": {
+        "text": "94.1 (2020)"
+      }
     },
-    "Agriculture - products": {
-      "text": "grain, rapeseed, potatoes, vegetables; pork, poultry, milk, eggs; fish"
+    "Agricultural products": {
+      "text": "wheat, milk, rapeseed, barley, oats, potatoes, rye, beans, pork, poultry"
     },
     "Industries": {
       "text": "processed foods, processed wood products, textiles, processed metals, pharmaceuticals, railroad cars, synthetic fibers, electronics"
     },
     "Industrial production growth rate": {
-      "text": "10.6% (2017 est.)",
-      "country comparison to the world": 12
+      "text": "10.6% (2017 est.)"
     },
     "Labor force": {
-      "text": "885,000 (2020 est.)",
-      "country comparison to the world": 142
+      "text": "885,000 (2020 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -624,11 +674,23 @@
       }
     },
     "Unemployment rate": {
-      "text": "6.14% (2019 est.) / 6.51% (2018 est.)",
-      "country comparison to the world": 100
+      "Unemployment rate 2019": {
+        "text": "6.14% (2019 est.)"
+      },
+      "Unemployment rate 2018": {
+        "text": "6.51% (2018 est.)"
+      }
     },
     "Population below poverty line": {
       "text": "25.5% (2015)"
+    },
+    "Gini Index coefficient - distribution of family income": {
+      "Gini Index coefficient - distribution of family income 2017": {
+        "text": "35.6 (2017 est.)"
+      },
+      "Gini Index coefficient - distribution of family income 2014": {
+        "text": "35.4 (2014)"
+      }
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
@@ -647,28 +709,41 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "37.5% (of GDP) (2017 est.)",
-      "country comparison to the world": 54
+      "text": "37.5% (of GDP) (2017 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-0.5% (of GDP) (2017 est.)",
-      "country comparison to the world": 62
+      "text": "-0.5% (of GDP) (2017 est.)"
     },
     "Public debt": {
-      "text": "36.3% of GDP (2017 est.) / 37.4% of GDP (2016 est.)",
-      "note": "note: data cover general government debt, and includes debt instruments issued (or owned) by government entities, including sub-sectors of central government, state government, local government, and social security funds",
-      "country comparison to the world": 147
+      "Public debt 2017": {
+        "text": "36.3% of GDP (2017 est.)"
+      },
+      "Public debt 2016": {
+        "text": "37.4% of GDP (2016 est.)"
+      },
+      "note": "<p><strong>note:</strong> data cover general government debt, and includes debt instruments issued (or owned) by government entities, including sub-sectors of central government, state government, local government, and social security funds</p>"
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Current account balance": {
-      "text": "-$222 million (2019 est.) / -$99 million (2018 est.)",
-      "country comparison to the world": 102
+      "Current account balance 2019": {
+        "text": "-$222 million (2019 est.)"
+      },
+      "Current account balance 2018": {
+        "text": "-$99 million (2018 est.)"
+      }
     },
     "Exports": {
-      "text": "$20.444 billion (2019 est.) / $20.007 billion (2018 est.) / $19.153 billion (2017 est.)",
-      "country comparison to the world": 79
+      "Exports 2019": {
+        "text": "$20.444 billion (2019 est.)"
+      },
+      "Exports 2018": {
+        "text": "$20.007 billion (2018 est.)"
+      },
+      "Exports 2017": {
+        "text": "$19.153 billion (2017 est.)"
+      }
     },
     "Exports - partners": {
       "text": "Lithuania 15.8%, Russia 14%, Estonia 10.9%, Germany 6.9%, Sweden 5.7%, UK 4.9%, Poland 4.3%, Denmark 4.1% (2017)"
@@ -677,25 +752,57 @@
       "text": "foodstuffs, wood and wood products, metals, machinery and equipment, textiles"
     },
     "Imports": {
-      "text": "$22.049 billion (2019 est.) / $21.397 billion (2018 est.) / $20.096 billion (2017 est.)",
-      "country comparison to the world": 78
-    },
-    "Imports - commodities": {
-      "text": "machinery and equipment, consumer goods, chemicals, fuels, vehicles"
+      "Imports 2019": {
+        "text": "$22.049 billion (2019 est.)"
+      },
+      "Imports 2018": {
+        "text": "$21.397 billion (2018 est.)"
+      },
+      "Imports 2017": {
+        "text": "$20.096 billion (2017 est.)"
+      }
     },
     "Imports - partners": {
       "text": "Lithuania 17.6%, Germany 11.7%, Poland 8.7%, Estonia 7.6%, Russia 7.1%, Netherlands 4.2%, Finland 4.2%, Italy 4% (2017)"
     },
+    "Imports - commodities": {
+      "text": "machinery and equipment, consumer goods, chemicals, fuels, vehicles"
+    },
     "Reserves of foreign exchange and gold": {
-      "text": "$4.614 billion (31 December 2017 est.) / $3.514 billion (31 December 2016 est.)",
-      "country comparison to the world": 97
+      "Reserves of foreign exchange and gold 31 December 2017": {
+        "text": "$4.614 billion (31 December 2017 est.)"
+      },
+      "Reserves of foreign exchange and gold 31 December 2016": {
+        "text": "$3.514 billion (31 December 2016 est.)"
+      }
     },
     "Debt - external": {
-      "text": "$40.02 billion (31 March 2016 est.) / $38.19 billion (31 March 2015 est.)",
-      "country comparison to the world": 74
+      "Debt - external 31 March 2016": {
+        "text": "$40.02 billion (31 March 2016 est.)"
+      },
+      "Debt - external 31 March 2015": {
+        "text": "$38.19 billion (31 March 2015 est.)"
+      }
     },
     "Exchange rates": {
-      "text": "euros (EUR) per US dollar - / 0.82771 (2020 est.) / 0.90338 (2019 est.) / 0.87789 (2018 est.) / 0.885 (2014 est.) / 0.7634 (2013 est.)"
+      "currency": {
+        "text": "euros (EUR) per US dollar -"
+      },
+      "Exchange rates 2020": {
+        "text": "0.82771 (2020 est.)"
+      },
+      "Exchange rates 2019": {
+        "text": "0.90338 (2019 est.)"
+      },
+      "Exchange rates 2018": {
+        "text": "0.87789 (2018 est.)"
+      },
+      "Exchange rates 2014": {
+        "text": "0.885 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "0.7634 (2013 est.)"
+      }
     }
   },
   "Energy": {
@@ -705,96 +812,73 @@
       }
     },
     "Electricity - production": {
-      "text": "6.241 billion kWh (2016 est.)",
-      "country comparison to the world": 115
+      "text": "6.241 billion kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "6.798 billion kWh (2016 est.)",
-      "country comparison to the world": 109
+      "text": "6.798 billion kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "3.795 billion kWh (2016 est.)",
-      "country comparison to the world": 38
+      "text": "3.795 billion kWh (2016 est.)"
     },
     "Electricity - imports": {
-      "text": "4.828 billion kWh (2016 est.)",
-      "country comparison to the world": 39
+      "text": "4.828 billion kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "2.932 million kW (2016 est.)",
-      "country comparison to the world": 98
+      "text": "2.932 million kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "39% of total installed capacity (2016 est.)",
-      "country comparison to the world": 172
+      "text": "39% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 125
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "53% of total installed capacity (2017 est.)",
-      "country comparison to the world": 33
+      "text": "53% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "8% of total installed capacity (2017 est.)",
-      "country comparison to the world": 87
+      "text": "8% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "0 bbl/day (2018 est.)",
-      "country comparison to the world": 160
+      "text": "0 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "0 bbl/day (2017 est.)",
-      "country comparison to the world": 152
+      "text": "0 bbl/day (2017 est.)"
     },
     "Crude oil - imports": {
-      "text": "0 bbl/day (2017 est.)",
-      "country comparison to the world": 150
+      "text": "0 bbl/day (2017 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2018 est.)",
-      "country comparison to the world": 155
+      "text": "0 bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "0 bbl/day (2017 est.)",
-      "country comparison to the world": 163
+      "text": "0 bbl/day (2017 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "44,600 bbl/day (2017 est.)",
-      "country comparison to the world": 111
+      "text": "44,600 bbl/day (2017 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "16,180 bbl/day (2017 est.)",
-      "country comparison to the world": 72
+      "text": "16,180 bbl/day (2017 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "54,370 bbl/day (2017 est.)",
-      "country comparison to the world": 77
+      "text": "54,370 bbl/day (2017 est.)"
     },
     "Natural gas - production": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 155
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "1.218 billion cu m (2017 est.)",
-      "country comparison to the world": 88
+      "text": "1.218 billion cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 136
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "1.246 billion cu m (2017 est.)",
-      "country comparison to the world": 58
+      "text": "1.246 billion cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "0 cu m (2014 est.)",
-      "country comparison to the world": 156
+      "text": "0 cu m (2014 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "8.632 million Mt (2017 est.)",
-      "country comparison to the world": 114
+      "text": "8.632 million Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -804,8 +888,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "11.94 (2019 est.)"
-      },
-      "country comparison to the world": 120
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -813,12 +896,11 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "108.66 (2019 est.)"
-      },
-      "country comparison to the world": 151
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "recent efforts focused on bringing competition to the telecommunications sector; the number of fixed-line is decreasing as mobile-cellular telephone service expands; EU regulatory policies, and framework provide guidelines for growth; govt. adopted measures to build a national fiber broadband network, part-funded by European Commission; new competition in mobile markets with extensive LTE-A technologies and 5G service growth (2020)"
+        "text": "recent efforts focused on bringing competition to the telecommunications sector; the number of fixed-line is decreasing as mobile-cellular telephone service expands; EU regulatory policies, and framework provide guidelines for growth; govt.&nbsp;adopted measures to build a national fiber broadband network, part-funded by European Commission; new competition in mobile markets&nbsp;with extensive LTE-A technologies and 5G service growth (2020)"
       },
       "domestic": {
         "text": "fixed-line 12 per 100 and mobile-cellular 109 per 100 subscriptions (2019)"
@@ -826,7 +908,7 @@
       "international": {
         "text": "country code - 371; the Latvian network is now connected via fiber-optic cable to Estonia, Finland, and Sweden"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "several national and regional commercial TV stations are foreign-owned, 2 national TV stations are publicly owned; system supplemented by privately owned regional and local TV stations; cable and satellite multi-channel TV services with domestic and foreign broadcasts available; publicly owned broadcaster operates 4 radio networks with dozens of stations throughout the country; dozens of private broadcasters also operate radio stations"
@@ -840,8 +922,7 @@
       },
       "percent of population": {
         "text": "83.58% (July 2018 est.)"
-      },
-      "country comparison to the world": 129
+      }
     },
     "Broadband - fixed subscriptions": {
       "total": {
@@ -849,8 +930,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "27 (2018 est.)"
-      },
-      "country comparison to the world": 83
+      }
     }
   },
   "Transportation": {
@@ -872,8 +952,9 @@
       "text": "YL (2016)"
     },
     "Airports": {
-      "text": "42 (2013)",
-      "country comparison to the world": 101
+      "total": {
+        "text": "42 (2013)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -918,8 +999,7 @@
       },
       "broad gauge": {
         "text": "1,826 km 1.520-m gauge (2018)"
-      },
-      "country comparison to the world": 75
+      }
     },
     "Roadways": {
       "total": {
@@ -930,21 +1010,18 @@
       },
       "unpaved": {
         "text": "55,086 km (2018)"
-      },
-      "country comparison to the world": 70
+      }
     },
     "Waterways": {
-      "text": "300 km (navigable year-round) (2010)",
-      "country comparison to the world": 92
+      "text": "300 km (navigable year-round) (2010)"
     },
     "Merchant marine": {
       "total": {
-        "text": "58"
+        "text": "66"
       },
       "by type": {
-        "text": "general cargo 11, oil tanker 8, other 39 (2019)"
-      },
-      "country comparison to the world": 110
+        "text": "general cargo 16, oil tanker 9, other 41 (2020)"
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -957,8 +1034,21 @@
       "text": "National Armed Forces (Nacionalie Brunotie Speki): Land Forces (Latvijas Sauszemes Speki), Naval Force (Latvijas Juras Speki, includes Coast Guard (Latvijas Kara Flote)), Air Force (Latvijas Gaisa Speki), National Guard (2019)"
     },
     "Military expenditures": {
-      "text": "2.01% of GDP (2019 est.) / 2.08% of GDP (2018) / 1.59% of GDP (2017) / 1.45% of GDP (2016) / 1.04% of GDP (2015)",
-      "country comparison to the world": 49
+      "Military Expenditures 2019": {
+        "text": "2.01% of GDP (2019 est.)"
+      },
+      "Military Expenditures 2018": {
+        "text": "2.08% of GDP (2018)"
+      },
+      "Military Expenditures 2017": {
+        "text": "1.59% of GDP (2017)"
+      },
+      "Military Expenditures 2016": {
+        "text": "1.45% of GDP (2016)"
+      },
+      "Military Expenditures 2015": {
+        "text": "1.04% of GDP (2015)"
+      }
     },
     "Military and security service personnel strengths": {
       "text": "the National Armed Forces of Latvia have approximately 6,000 active duty troops (5,000 Land Forces, inc. joint service personnel and active duty National Guard; 500 Naval Force/Coast Guard; 500 Air Force) (2019 est.)"
@@ -972,7 +1062,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "Russia demands better Latvian treatment of ethnic Russians in Latvia; boundary demarcated with Latvia and Lithuania; the Latvian parliament has not ratified its 1998 maritime boundary treaty with Lithuania, primarily due to concerns over oil exploration rights; as a member state that forms part of the EU's external border, Latvia has implemented the strict Schengen border rules with Russia"
+      "text": "<p>Russia demands better Latvian treatment of ethnic Russians in Latvia; boundary demarcated with Latvia and Lithuania; the Latvian parliament has not ratified its 1998 maritime boundary treaty with Lithuania, primarily due to concerns over oil exploration rights; as a member state that forms part of the EU's external border, Latvia has implemented the strict Schengen border rules with Russia</p>"
     },
     "Refugees and internally displaced persons": {
       "stateless persons": {

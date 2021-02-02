@@ -23,14 +23,15 @@
       },
       "water": {
         "text": "160 sq km"
-      },
-      "country comparison to the world": 166
+      }
     },
     "Area - comparative": {
       "text": "about half the size of New Jersey; slightly smaller than Connecticut"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "1,022 km"
@@ -39,16 +40,16 @@
       "territorial sea": {
         "text": "12 nm"
       },
-      "exclusive economic zone": {
-        "text": "200 nm"
-      },
       "contiguous zone": {
         "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
       },
       "continental shelf": {
         "text": "200 nm or to edge of the continental margin"
       },
-      "note": "measured from claimed archipelagic straight baselines"
+      "note": "<br><br>measured from claimed archipelagic straight baselines"
     },
     "Climate": {
       "text": "tropical; hot, humid; temperate interior"
@@ -74,8 +75,14 @@
       "agricultural land": {
         "text": "41.4% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "11.1% (2011 est.) / 9.2% (2011 est.) / 21.1% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 11.1% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 9.2% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 21.1% (2011 est.)"
       },
       "forest": {
         "text": "31.1% (2011 est.)"
@@ -110,8 +117,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "2,808,570 (July 2020 est.)",
-      "country comparison to the world": 140
+      "text": "2,816,602 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -170,24 +176,19 @@
       },
       "female": {
         "text": "30.1 years (2020 est.)"
-      },
-      "country comparison to the world": 131
+      }
     },
     "Population growth rate": {
-      "text": "-0.07% (2020 est.)",
-      "country comparison to the world": 200
+      "text": "0.06% (2021 est.)"
     },
     "Birth rate": {
-      "text": "16.1 births/1,000 population (2020 est.)",
-      "country comparison to the world": 107
+      "text": "16.03 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "7.5 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 103
+      "text": "7.42 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "-9.4 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 215
+      "text": "-7.98 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "population density is high throughout, but increases in and around Kingston, Montego Bay, and Port Esquivel"
@@ -228,46 +229,54 @@
     },
     "Mother's mean age at first birth": {
       "text": "21.2 years (2008 est.)",
-      "note": "note: median age at first birth among women 25-29"
+      "note": "<p><strong>note:</strong> median age at first birth among women 25-29</p>"
     },
     "Maternal mortality rate": {
-      "text": "80 deaths/100,000 live births (2017 est.)",
-      "country comparison to the world": 79
+      "text": "80 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "11.6 deaths/1,000 live births"
+        "text": "11.42 deaths/1,000 live births"
       },
       "male": {
-        "text": "13 deaths/1,000 live births"
+        "text": "12.72 deaths/1,000 live births"
       },
       "female": {
-        "text": "10.1 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 110
+        "text": "10.06 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "75.2 years"
+        "text": "75.49 years"
       },
       "male": {
-        "text": "73.4 years"
+        "text": "73.71 years"
       },
       "female": {
-        "text": "77.1 years (2020 est.)"
-      },
-      "country comparison to the world": 120
+        "text": "77.35 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "2.07 children born/woman (2020 est.)",
-      "country comparison to the world": 102
+      "text": "2.06 children born/woman (2021 est.)"
     },
     "Drinking water source": {
-      "improved": {
-        "text": "urban: 98.5% of population / rural: 93% of population / total: 96% of population"
+      "improved: urban": {
+        "text": "urban: 98.5% of population"
       },
-      "unimproved": {
-        "text": "urban: 1.5% of population / rural: 7% of population / total: 4% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 93% of population"
+      },
+      "improved: total": {
+        "text": "total: 96% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 1.5% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 7% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 4% of population (2017 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -280,36 +289,42 @@
       "text": "1.7 beds/1,000 population (2017)"
     },
     "Sanitation facility access": {
-      "improved": {
-        "text": "urban: 98.5% of population / rural: 99.5% of population / total: 99% of population"
+      "improved: urban": {
+        "text": "urban: 98.5% of population"
       },
-      "unimproved": {
-        "text": "urban: 1.5% of population / rural: 0.5% of population / total: 1% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 99.5% of population"
+      },
+      "improved: total": {
+        "text": "total: 99% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 1.5% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 0.5% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 1% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "1.4% (2019 est.)",
-      "country comparison to the world": 34
+      "text": "1.4% (2019 est.)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
-      "text": "32,000 (2019 est.)",
-      "country comparison to the world": 73
+      "text": "32,000 (2019 est.)"
     },
     "HIV/AIDS - deaths": {
-      "text": "1,000 (2019 est.)",
-      "country comparison to the world": 59
+      "text": "1,000 (2019 est.)"
     },
     "Obesity - adult prevalence rate": {
-      "text": "24.7% (2016)",
-      "country comparison to the world": 55
+      "text": "24.7% (2016)"
     },
     "Children under the age of 5 years underweight": {
-      "text": "2.2% (2014)",
-      "country comparison to the world": 109
+      "text": "2.2% (2014)"
     },
     "Education expenditures": {
-      "text": "5.2% of GDP (2019)",
-      "country comparison to the world": 50
+      "text": "5.2% of GDP (2019)"
     },
     "Literacy": {
       "definition": {
@@ -345,8 +360,7 @@
       },
       "female": {
         "text": "29.3% (2018 est.)"
-      },
-      "country comparison to the world": 51
+      }
     }
   },
   "Government": {
@@ -374,11 +388,11 @@
       "time difference": {
         "text": "UTC-5 (same time as Washington, DC, during Standard Time)"
       },
-      "note": "etymology: the name is a blending of the words \"king's\" and \"town\"; the English king at the time of the city's founding in 1692 was William III (r. 1689-1702)"
+      "note": "<br><br><strong>etymology:</strong> the name is a blending of the words \"king's\" and \"town\"; the English king at the time of the city's founding in 1692 was William III (r. 1689-1702)"
     },
     "Administrative divisions": {
       "text": "14 parishes; Clarendon, Hanover, Kingston, Manchester, Portland, Saint Andrew, Saint Ann, Saint Catherine, Saint Elizabeth, Saint James, Saint Mary, Saint Thomas, Trelawny, Westmoreland",
-      "note": "note: for local government purposes, Kingston and Saint Andrew were amalgamated in 1923 into the present single corporate body known as the Kingston and Saint Andrew Corporation"
+      "note": "<p><strong>note:</strong> for local government purposes, Kingston and Saint Andrew were amalgamated in 1923 into the present single corporate body known as the Kingston and Saint Andrew Corporation</p>"
     },
     "Independence": {
       "text": "6 August 1962 (from the UK)"
@@ -422,7 +436,7 @@
         "text": "Queen ELIZABETH II (since 6 February 1952); represented by Governor General Sir Patrick L. ALLEN (since 26 February 2009)"
       },
       "head of government": {
-        "text": "Prime Minister Andrew HOLNESS (since 3 March 2016)"
+        "text": "&nbsp;Prime Minister Andrew HOLNESS (since 3 March 2016)&nbsp;"
       },
       "cabinet": {
         "text": "Cabinet appointed by the governor general on the advice of the prime minister"
@@ -433,13 +447,13 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral Parliament consists of: Senate (21 seats; members appointed by the governor general on the recommendation of the prime minister and the opposition leader - 13 seats allocated to the ruling party and 8 to the opposition party; members serve 5-year terms or until Parliament is dissolved) ++ House of Representatives (63 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms or until Parliament is dissolved)"
+        "text": "bicameral Parliament consists of:<br />Senate (21 seats; members appointed by the governor general on the recommendation of the prime minister and the opposition leader - 13 seats allocated to the ruling party and 8 to the opposition party; members serve 5-year terms or until Parliament is dissolved)<br />House of Representatives (63 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms or until Parliament is dissolved)"
       },
       "elections": {
-        "text": "Senate - last full slate of appointments on 10 March 2016 (next full slate early on 3 September 2020, following dissolution in mid-August) ++ House of Representatives - last held on 3 September 2020 (next to be held in 2025)"
+        "text": "Senate - last full slate of appointments on 10 March 2016 (next full slate early on 3 September 2020, following dissolution in mid-August)<br />House of Representatives - last held on 3 September 2020 (next to be held in 2025)"
       },
       "election results": {
-        "text": "Senate - percent by party - NA; seats by party - NA; composition - men 16, women 5, percent of women 23.8% ++ House of Representatives - percent of vote by party - JLP 57%, PNP 42.8%, independent 0.2%; seats by party - JLP 48, PNP 15; composition - men 45, women 18; percent of women 28.6%; note - total Parliament percent of women 27.4%"
+        "text": "Senate - percent by party - NA; seats by party - NA; composition - men 16, women 5, percent of women 23.8%<br />House of Representatives - percent of vote by party - JLP 57%, PNP 42.8%, independent 0.2%; seats by party - JLP 48, PNP 15; composition - men 45, women 18; percent of women 28.6%; note - total Parliament percent of women 27.4%"
       }
     },
     "Judicial branch": {
@@ -454,7 +468,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Jamaica Labor Party or JLP [Andrew Michael HOLNESS] ++ People's National Party or PNP [Dr. Peter David PHILLIPS] ++ National Democratic Movement or NDM [Peter TOWNSEND]"
+      "text": "Jamaica Labor Party or JLP [Andrew Michael HOLNESS]<br />People's National Party or PNP [Dr. Peter David PHILLIPS]<br />National Democratic Movement or NDM [Peter TOWNSEND]"
     },
     "International organization participation": {
       "text": "ACP, AOSIS, C, Caricom, CDB, CELAC, FAO, G-15, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, ISO, ITSO, ITU, LAES, MIGA, NAM, OAS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UNITAR, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
@@ -509,20 +523,34 @@
       "lyrics/music": {
         "text": "Hugh Braham SHERLOCK/Robert Charles LIGHTBOURNE"
       },
-      "note": "note: adopted 1962"
+      "note": "<p><strong>note:</strong> adopted 1962</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "The Jamaican economy is heavily dependent on services, which accounts for more than 70% of GDP. The country derives most of its foreign exchange from tourism, remittances, and bauxite/alumina. Earnings from remittances and tourism each account for 14% and 20% of GDP, while bauxite/alumina exports have declined to less than 5% of GDP. ++ Jamaica's economy has grown on average less than 1% a year for the last three decades and many impediments remain to growth: a bloated public sector which crowds out spending on important projects; high crime and corruption; red-tape; and a high debt-to-GDP ratio. Jamaica, however, has made steady progress in reducing its debt-to-GDP ratio from a high of almost 150% in 2012 to less than 110% in 2017, in close collaboration with the International Monetary Fund (IMF). The current IMF Stand-By Agreement requires Jamaica to produce an annual primary surplus of 7%, in an attempt to reduce its debt burden below 60% by 2025. ++ Economic growth reached 1.6% in 2016, but declined to 0.9% in 2017 after intense rainfall, demonstrating the vulnerability of the economy to weather-related events. The HOLNESS administration therefore faces the difficult prospect of maintaining fiscal discipline to reduce the debt load while simultaneously implementing growth inducing policies and attacking a serious crime problem. High unemployment exacerbates the crime problem, including gang violence fueled by advanced fee fraud (lottery scamming) and the drug trade."
+      "text": "<p>The Jamaican economy is heavily dependent on services, which accounts for more than 70% of GDP. The country derives most of its foreign exchange from tourism, remittances, and bauxite/alumina. Earnings from remittances and tourism each account for 14% and 20% of GDP, while bauxite/alumina exports have declined to less than 5% of GDP.</p><p></p><p>Jamaica's economy has grown on average less than 1% a year for the last three decades and many impediments remain to growth: a bloated public sector which crowds out spending on important projects; high crime and corruption; red-tape; and a high debt-to-GDP ratio. Jamaica, however, has made steady progress in reducing its debt-to-GDP ratio from a high of almost 150% in 2012 to less than 110% in 2017, in close collaboration with the International Monetary Fund (IMF). The current IMF Stand-By Agreement requires Jamaica to produce an annual primary surplus of 7%, in an attempt to reduce its debt burden below 60% by 2025.</p><p></p><p>Economic growth reached 1.6% in 2016, but declined to 0.9% in 2017 after intense rainfall, demonstrating the vulnerability of the economy to weather-related events. The HOLNESS administration therefore faces the difficult prospect of maintaining fiscal discipline to reduce the debt load while simultaneously implementing growth inducing policies and attacking a serious crime problem. High unemployment exacerbates the crime problem, including gang violence fueled by advanced fee fraud (lottery scamming) and the drug trade.</p>"
     },
-    "GDP real growth rate": {
-      "text": "0.7% (2017 est.) / 1.5% (2016 est.) / 0.9% (2015 est.)",
-      "country comparison to the world": 181
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2017": {
+        "text": "0.7% (2017 est.)"
+      },
+      "Real GDP growth rate 2016": {
+        "text": "1.5% (2016 est.)"
+      },
+      "Real GDP growth rate 2015": {
+        "text": "0.9% (2015 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "3.9% (2019 est.) / 3.7% (2018 est.) / 4.3% (2017 est.)",
-      "country comparison to the world": 164
+      "Inflation rate (consumer prices) 2019": {
+        "text": "3.9% (2019 est.)"
+      },
+      "Inflation rate (consumer prices) 2018": {
+        "text": "3.7% (2018 est.)"
+      },
+      "Inflation rate (consumer prices) 2017": {
+        "text": "4.3% (2017 est.)"
+      }
     },
     "Credit ratings": {
       "Fitch rating": {
@@ -535,21 +563,43 @@
         "text": "B+ (2019)"
       }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$26.06 billion (2017 est.) / $25.89 billion (2016 est.) / $25.51 billion (2015 est.)",
-      "note": "note: data are in 2017 dollars"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2019": {
+        "text": "$28.779 billion (2019 est.)"
+      },
+      "Real GDP (purchasing power parity) 2018": {
+        "text": "$28.579 billion (2018 est.)"
+      },
+      "Real GDP (purchasing power parity) 2017": {
+        "text": "$28.035 billion (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2017 dollars</p>"
     },
     "GDP (official exchange rate)": {
       "text": "$15.847 billion (2019 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$9,200 (2017 est.) / $9,200 (2016 est.) / $9,100 (2015 est.)",
-      "note": "note: data are in 2017 dollars",
-      "country comparison to the world": 121
+    "Real GDP per capita": {
+      "Real GDP per capita 2019": {
+        "text": "$9,762 (2019 est.)"
+      },
+      "Real GDP per capita 2018": {
+        "text": "$9,738 (2018 est.)"
+      },
+      "Real GDP per capita 2017": {
+        "text": "$9,598 (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2017 dollars</p>"
     },
     "Gross national saving": {
-      "text": "18.3% of GDP (2017 est.) / 20.6% of GDP (2016 est.) / 18% of GDP (2015 est.)",
-      "country comparison to the world": 109
+      "Gross national saving 2017": {
+        "text": "18.3% of GDP (2017 est.)"
+      },
+      "Gross national saving 2016": {
+        "text": "20.6% of GDP (2016 est.)"
+      },
+      "Gross national saving 2015": {
+        "text": "18% of GDP (2015 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -583,21 +633,21 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "text": "97.4 (2020)"
+      "Overall Ease of Doing Business score 2020": {
+        "text": "97.4 (2020)"
+      }
     },
-    "Agriculture - products": {
-      "text": "sugar cane, bananas, coffee, citrus, yams, ackees, vegetables; poultry, goats, milk; shellfish"
+    "Agricultural products": {
+      "text": "sugar cane, goat milk, yams, poultry, coconuts, oranges, bananas, gourds, plantains, grapefruit"
     },
     "Industries": {
       "text": "agriculture, mining, manufacture, construction, financial and insurance services, tourism, telecommunications"
     },
     "Industrial production growth rate": {
-      "text": "0.9% (2017 est.)",
-      "country comparison to the world": 162
+      "text": "0.9% (2017 est.)"
     },
     "Labor force": {
-      "text": "1.113 million (2020 est.)",
-      "country comparison to the world": 138
+      "text": "1.113 million (2020 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -611,11 +661,23 @@
       }
     },
     "Unemployment rate": {
-      "text": "7.72% (2019 est.) / 9.13% (2018 est.)",
-      "country comparison to the world": 121
+      "Unemployment rate 2019": {
+        "text": "7.72% (2019 est.)"
+      },
+      "Unemployment rate 2018": {
+        "text": "9.13% (2018 est.)"
+      }
     },
     "Population below poverty line": {
       "text": "17.1% (2016 est.)"
+    },
+    "Gini Index coefficient - distribution of family income": {
+      "Gini Index coefficient - distribution of family income 2016": {
+        "text": "35 (2016)"
+      },
+      "Gini Index coefficient - distribution of family income 2015": {
+        "text": "38 (2015)"
+      }
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
@@ -634,27 +696,37 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "29.7% (of GDP) (2017 est.)",
-      "country comparison to the world": 81
+      "text": "29.7% (of GDP) (2017 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "0.5% (of GDP) (2017 est.)",
-      "country comparison to the world": 37
+      "text": "0.5% (of GDP) (2017 est.)"
     },
     "Public debt": {
-      "text": "101% of GDP (2017 est.) / 113.6% of GDP (2016 est.)",
-      "country comparison to the world": 16
+      "Public debt 2017": {
+        "text": "101% of GDP (2017 est.)"
+      },
+      "Public debt 2016": {
+        "text": "113.6% of GDP (2016 est.)"
+      }
     },
     "Fiscal year": {
       "text": "1 April - 31 March"
     },
     "Current account balance": {
-      "text": "-$298 million (2019 est.) / -$288 million (2018 est.)",
-      "country comparison to the world": 107
+      "Current account balance 2019": {
+        "text": "-$298 million (2019 est.)"
+      },
+      "Current account balance 2018": {
+        "text": "-$288 million (2018 est.)"
+      }
     },
     "Exports": {
-      "text": "$5.114 billion (2018 est.) / $4.747 billion (2017 est.)",
-      "country comparison to the world": 115
+      "Exports 2018": {
+        "text": "$5.114 billion (2018 est.)"
+      },
+      "Exports 2017": {
+        "text": "$4.747 billion (2017 est.)"
+      }
     },
     "Exports - partners": {
       "text": "US 39.1%, Netherlands 12.3%, Canada 8.4% (2017)"
@@ -663,25 +735,54 @@
       "text": "alumina, bauxite, chemicals, coffee, mineral fuels, waste and scrap metals, sugar, yams"
     },
     "Imports": {
-      "text": "$7.314 billion (2018 est.) / $6.924 billion (2017 est.)",
-      "country comparison to the world": 122
-    },
-    "Imports - commodities": {
-      "text": "food and other consumer goods, industrial supplies, fuel, parts and accessories of capital goods, machinery and transport equipment, construction materials"
+      "Imports 2018": {
+        "text": "$7.314 billion (2018 est.)"
+      },
+      "Imports 2017": {
+        "text": "$6.924 billion (2017 est.)"
+      }
     },
     "Imports - partners": {
       "text": "US 40.6%, Colombia 6.8%, Japan 5.8%, China 5.8%, Trinidad and Tobago 4.7% (2017)"
     },
+    "Imports - commodities": {
+      "text": "food and other consumer goods, industrial supplies, fuel, parts and accessories of capital goods, machinery and transport equipment, construction materials"
+    },
     "Reserves of foreign exchange and gold": {
-      "text": "$3.781 billion (31 December 2017 est.) / $2.719 billion (31 December 2016 est.)",
-      "country comparison to the world": 100
+      "Reserves of foreign exchange and gold 31 December 2017": {
+        "text": "$3.781 billion (31 December 2017 est.)"
+      },
+      "Reserves of foreign exchange and gold 31 December 2016": {
+        "text": "$2.719 billion (31 December 2016 est.)"
+      }
     },
     "Debt - external": {
-      "text": "$14.94 billion (31 December 2017 est.) / $10.24 billion (31 December 2016 est.)",
-      "country comparison to the world": 103
+      "Debt - external 31 December 2017": {
+        "text": "$14.94 billion (31 December 2017 est.)"
+      },
+      "Debt - external 31 December 2016": {
+        "text": "$10.24 billion (31 December 2016 est.)"
+      }
     },
     "Exchange rates": {
-      "text": "Jamaican dollars (JMD) per US dollar - / 128.36 (2017 est.) / 125.14 (2016 est.) / 125.126 (2015 est.) / 116.898 (2014 est.) / 110.935 (2013 est.)"
+      "currency": {
+        "text": "Jamaican dollars (JMD) per US dollar -"
+      },
+      "Exchange rates 2017": {
+        "text": "128.36 (2017 est.)"
+      },
+      "Exchange rates 2016": {
+        "text": "125.14 (2016 est.)"
+      },
+      "Exchange rates 2015": {
+        "text": "125.126 (2015 est.)"
+      },
+      "Exchange rates 2014": {
+        "text": "116.898 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "110.935 (2013 est.)"
+      }
     }
   },
   "Energy": {
@@ -697,96 +798,73 @@
       }
     },
     "Electricity - production": {
-      "text": "4.007 billion kWh (2016 est.)",
-      "country comparison to the world": 128
+      "text": "4.007 billion kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "2.847 billion kWh (2016 est.)",
-      "country comparison to the world": 137
+      "text": "2.847 billion kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 151
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - imports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 162
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "1.078 million kW (2016 est.)",
-      "country comparison to the world": 126
+      "text": "1.078 million kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "83% of total installed capacity (2016 est.)",
-      "country comparison to the world": 75
+      "text": "83% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 115
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "3% of total installed capacity (2017 est.)",
-      "country comparison to the world": 134
+      "text": "3% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "15% of total installed capacity (2017 est.)",
-      "country comparison to the world": 59
+      "text": "15% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "0 bbl/day (2018 est.)",
-      "country comparison to the world": 153
+      "text": "0 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 142
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - imports": {
-      "text": "24,360 bbl/day (2015 est.)",
-      "country comparison to the world": 61
+      "text": "24,360 bbl/day (2015 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2018 est.)",
-      "country comparison to the world": 149
+      "text": "0 bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "24,250 bbl/day (2017 est.)",
-      "country comparison to the world": 87
+      "text": "24,250 bbl/day (2017 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "55,000 bbl/day (2016 est.)",
-      "country comparison to the world": 99
+      "text": "55,000 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "823 bbl/day (2015 est.)",
-      "country comparison to the world": 109
+      "text": "823 bbl/day (2015 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "30,580 bbl/day (2015 est.)",
-      "country comparison to the world": 100
+      "text": "30,580 bbl/day (2015 est.)"
     },
     "Natural gas - production": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 149
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "198.2 million cu m (2017 est.)",
-      "country comparison to the world": 104
+      "text": "198.2 million cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 127
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "198.2 million cu m (2017 est.)",
-      "country comparison to the world": 71
+      "text": "198.2 million cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "0 cu m (1 January 2014 est.)",
-      "country comparison to the world": 150
+      "text": "0 cu m (1 January 2014 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "8.9 million Mt (2017 est.)",
-      "country comparison to the world": 112
+      "text": "8.9 million Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -796,8 +874,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "13.5 (2019 est.)"
-      },
-      "country comparison to the world": 103
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -805,8 +882,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "102.56 (2019 est.)"
-      },
-      "country comparison to the world": 143
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
@@ -818,7 +894,7 @@
       "international": {
         "text": "country code - 1-876 and 1-658; landing points for the ALBA-1, CFX-1, Fibralink, East-West, and Cayman-Jamaican Fiber System submarine cables providing connections to South America, parts of the Caribbean, Central America and the US; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "3 free-to-air TV stations, subscription cable services, and roughly 30 radio stations (2019)"
@@ -832,8 +908,7 @@
       },
       "percent of population": {
         "text": "55.07% (July 2018 est.)"
-      },
-      "country comparison to the world": 130
+      }
     },
     "Broadband - fixed subscriptions": {
       "total": {
@@ -841,8 +916,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "10 (2018 est.)"
-      },
-      "country comparison to the world": 103
+      }
     }
   },
   "Transportation": {
@@ -855,8 +929,9 @@
       "text": "6Y (2016)"
     },
     "Airports": {
-      "text": "28 (2013)",
-      "country comparison to the world": 121
+      "total": {
+        "text": "28 (2013)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -892,17 +967,15 @@
       },
       "unpaved": {
         "text": "5,973 km (2011)"
-      },
-      "country comparison to the world": 110
+      }
     },
     "Merchant marine": {
       "total": {
-        "text": "39"
+        "text": "46"
       },
       "by type": {
-        "text": "bulk carrier 1, container ship 8, general cargo 6, other 24 (2019)"
-      },
-      "country comparison to the world": 122
+        "text": "bulk carrier 1, container ship 7, general cargo 8, oil tanker 1, other 29 (2020)"
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -918,8 +991,21 @@
       "text": "Jamaica Defense Force (JDF): Jamaica Regiment (Ground Forces), Maritime-Air-Cyber Command (2020)"
     },
     "Military expenditures": {
-      "text": "1.6% of GDP (2019) / 1.3% of GDP (2018) / 1% of GDP (2017) / 1% of GDP (2016) / 1% of GDP (2015)",
-      "country comparison to the world": 74
+      "Military Expenditures 2019": {
+        "text": "1.6% of GDP (2019)"
+      },
+      "Military Expenditures 2018": {
+        "text": "1.3% of GDP (2018)"
+      },
+      "Military Expenditures 2017": {
+        "text": "1% of GDP (2017)"
+      },
+      "Military Expenditures 2016": {
+        "text": "1% of GDP (2016)"
+      },
+      "Military Expenditures 2015": {
+        "text": "1% of GDP (2015)"
+      }
     },
     "Military and security service personnel strengths": {
       "text": "assessments of the size of the the Jamaica Defense Forces vary; approximately 3,500 active personnel (3,000 Ground Forces; 300 Coast Guard; 200 Air Wing) (2019)"
@@ -933,7 +1019,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "none"
+      "text": "<p>none</p>"
     },
     "Trafficking in persons": {
       "current situation": {

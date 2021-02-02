@@ -23,14 +23,15 @@
       },
       "water": {
         "text": "10 sq km"
-      },
-      "country comparison to the world": 190
+      }
     },
     "Area - comparative": {
       "text": "slightly more than 3.5 times the size of Washington, DC"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "193 km"
@@ -64,8 +65,14 @@
       "agricultural land": {
         "text": "1% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "0.9% (2011 est.) / 0.1% (2011 est.) / 0% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 0.9% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 0.1% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 0% (2011 est.)"
       },
       "forest": {
         "text": "3.3% (2011 est.)"
@@ -100,8 +107,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "6,209,660 (July 2020 est.)",
-      "country comparison to the world": 110
+      "text": "5,866,139 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -113,11 +119,11 @@
     },
     "Ethnic groups": {
       "text": "Chinese 74.3%, Malay 13.4%, Indian 9%, other 3.2% (2018 est.)",
-      "note": "note: individuals self-identify; the population is divided into four categories: Chinese, Malay (includes indigenous Malays and Indonesians), Indian (includes Indian, Pakistani, Bangladeshi, or Sri Lankan), and other ethnic groups (includes Eurasians, Caucasians, Japanese, Filipino, Vietnamese)"
+      "note": "<p><strong>note:</strong> individuals self-identify; the population is divided into four categories: Chinese, Malay (includes indigenous Malays and Indonesians), Indian (includes Indian, Pakistani, Bangladeshi, or Sri Lankan), and other ethnic groups (includes Eurasians, Caucasians, Japanese, Filipino, Vietnamese)</p>"
     },
     "Languages": {
       "text": "English (official) 36.9%, Mandarin (official) 34.9%, other Chinese dialects (includes Hokkien, Cantonese, Teochew, Hakka) 12.2%, Malay (official) 10.7%, Tamil (official) 3.3%, other 2% (2015 est.)",
-      "note": "note: data represent language most frequently spoken at home"
+      "note": "<p><strong>note:</strong> data represent language most frequently spoken at home</p>"
     },
     "Religions": {
       "text": "Buddhist 33.2%, Christian 18.8%, Muslim 14%, Taoist 10%, Hindu 5%, other 0.6%, none 18.5% (2015 est.)"
@@ -162,24 +168,19 @@
       },
       "female": {
         "text": "35.7 years (2020 est.)"
-      },
-      "country comparison to the world": 82
+      }
     },
     "Population growth rate": {
-      "text": "1.73% (2020 est.)",
-      "country comparison to the world": 58
+      "text": "0.95% (2021 est.)"
     },
     "Birth rate": {
-      "text": "8.9 births/1,000 population (2020 est.)",
-      "country comparison to the world": 206
+      "text": "9.13 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "3.6 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 217
+      "text": "3.93 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "11.8 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 5
+      "text": "4.26 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "most of the urbanization is along the southern coast, with relatively dense population clusters found in the central areas"
@@ -220,46 +221,48 @@
     },
     "Mother's mean age at first birth": {
       "text": "30.5 years (2015 est.)",
-      "note": "median age"
+      "note": "<br><br>median age"
     },
     "Maternal mortality rate": {
-      "text": "8 deaths/100,000 live births (2017 est.)",
-      "country comparison to the world": 153
+      "text": "8 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "2.3 deaths/1,000 live births"
+        "text": "1.56 deaths/1,000 live births"
       },
       "male": {
-        "text": "2.4 deaths/1,000 live births"
+        "text": "1.72 deaths/1,000 live births"
       },
       "female": {
-        "text": "2 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 223
+        "text": "1.4 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "86 years"
+        "text": "86.19 years"
       },
       "male": {
-        "text": "83.3 years"
+        "text": "83.48 years"
       },
       "female": {
-        "text": "88.9 years (2020 est.)"
-      },
-      "country comparison to the world": 3
+        "text": "89.05 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "0.87 children born/woman (2020 est.)",
-      "country comparison to the world": 227
+      "text": "1.15 children born/woman (2021 est.)"
     },
     "Drinking water source": {
-      "improved": {
-        "text": "urban: 100% of population / total: 100% of population"
+      "improved: urban": {
+        "text": "urban: 100% of population"
       },
-      "unimproved": {
-        "text": "urban: 0% of population / total: 0% of population (2017 est.)"
+      "improved: total": {
+        "text": "total: 100% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 0% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 0% of population (2017 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -272,31 +275,33 @@
       "text": "2.5 beds/1,000 population (2017)"
     },
     "Sanitation facility access": {
-      "improved": {
-        "text": "urban: 100% of population (2015 est.) / total: 100% of population"
+      "improved: urban": {
+        "text": "urban: 100% of population (2015 est.)"
       },
-      "unimproved": {
-        "text": "urban: 0% of population / total: 0% of population (2017 est.)"
+      "improved: total": {
+        "text": "total: 100% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 0% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 0% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "0.2% (2019 est.)",
-      "country comparison to the world": 109
+      "text": "0.2% (2019 est.)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
-      "text": "7,900 (2019 est.)",
-      "country comparison to the world": 111
+      "text": "7,900 (2019 est.)"
     },
     "HIV/AIDS - deaths": {
       "text": "<100 (2019 est.)"
     },
     "Obesity - adult prevalence rate": {
-      "text": "6.1% (2016)",
-      "country comparison to the world": 171
+      "text": "6.1% (2016)"
     },
     "Education expenditures": {
-      "text": "2.9% of GDP (2013)",
-      "country comparison to the world": 138
+      "text": "2.9% of GDP (2013)"
     },
     "Literacy": {
       "definition": {
@@ -332,8 +337,7 @@
       },
       "female": {
         "text": "12.5% (2016 est.)"
-      },
-      "country comparison to the world": 134
+      }
     }
   },
   "Government": {
@@ -367,7 +371,7 @@
       "time difference": {
         "text": "UTC+8 (13 hours ahead of Washington, DC, during Standard Time)"
       },
-      "note": "etymology: name derives from the Sanskrit words \"simha\" (lion) and \"pura\" (city), thus creating the city's epithet \"lion city\""
+      "note": "<br><br><strong>etymology:</strong> name derives from the Sanskrit words \"simha\" (lion) and \"pura\" (city), thus creating the city's epithet \"lion city\""
     },
     "Administrative divisions": {
       "text": "no first order administrative divisions; there are five community development councils: Central Singapore Development Council, North East Development Council, North West Development Council, South East Development Council, South West Development Council (2019)"
@@ -414,13 +418,13 @@
         "text": "President HALIMAH Yacob (since 14 September 2017); note - President TAN's term ended on 31 August 2017; HALIMAH is Singapore's first female president; the head of the Council of Presidential Advisors, J.Y. PILLAY, served as acting president until HALIMAH was sworn in as president on 14 September 2017"
       },
       "head of government": {
-        "text": "Prime Minister LEE Hsien Loong (since 12 August 2004, reelected 10 July 2020); Deputy Prime Ministers HENG Swee Keat (since 1 May 2019) (2019)"
+        "text": "Prime Minister LEE Hsien Loong (since 12 August 2004, reelected 10 July 2020); Deputy Prime Ministers HENG Swee Keat (since 1 May 2019) <span class=\"subfield-date\" aria-label=\"Date of information: 2019\">(2019)</span>"
       },
       "cabinet": {
-        "text": "Cabinet appointed by the president on the advice of the prime minister; Cabinet responsible to Parliament"
+        "text": "Cabinet appointed by the president on the advice of the prime minister; Cabinet responsible to Parliament&nbsp;"
       },
       "elections/appointments": {
-        "text": "president directly elected by simple majority popular vote for a fixed term of 6-years (there are no term limits); election last held on 13 September 2017 (next to be held in 2023); following legislative elections, leader of majority party or majority coalition appointed prime minister by president; deputy prime ministers appointed by the president"
+        "text": "president directly elected by simple majority popular vote for a fixed term of 6-years&nbsp;(there are no term limits); election last held on 13 September 2017 (next to be held in 2023); following legislative elections, leader of majority party or majority coalition appointed prime minister by president; deputy prime ministers appointed by the president"
       },
       "election results": {
         "text": "HALIMAH Yacob was declared president on 13 September 2017, being the only eligible candidate; Tony TAN Keng Yam elected president in the previous contested election on 27 August 2011; percent of vote - Tony TAN Keng Yam (independent) 35.2% , TAN Cheng Bock (independent) 34.9%, TAN Jee Say (independent) 25%, TAN Kin Lian (independent) 4.9%"
@@ -428,7 +432,7 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "unicameral Parliament (104 seats; 93 members directly elected by popular vote, up to 9 nominated by a parliamentary selection committee and appointed by the president, and up to 12 non-constituency members from opposition parties to ensure political diversity; members serve 5-year terms); note - the number of nominated members will increase to 12 for the 2020 election for the first time (2020)"
+        "text": "unicameral Parliament (104 seats;&nbsp;93 members directly elected by popular vote, up to 9 nominated by a parliamentary selection committee and appointed by the president, and up to&nbsp;12 non-constituency members from opposition parties to ensure political diversity; members serve 5-year terms); note - the number of nominated members will increase to 12 for the&nbsp;2020 election for the first time (2020)"
       },
       "elections": {
         "text": "last held on 10 July 2020 (next must be held by 2025)"
@@ -439,7 +443,7 @@
     },
     "Judicial branch": {
       "highest courts": {
-        "text": "Supreme Court (although the number of judges varies - as of April 2019, the court totaled 20 judges, 7 judicial commissioners, 4 judges of appeal, and 16 international judges); the court is organized into an upper tier Appeal Court and a lower tier High Court"
+        "text": "Supreme Court (although the number of judges varies - as of April 2019,&nbsp;the court&nbsp;totaled 20 judges, 7 judicial commissioners, 4 judges of appeal, and 16 international judges); the court is organized into an upper tier Appeal Court and a lower tier High Court"
       },
       "judge selection and term of office": {
         "text": "judges appointed by the president from candidates recommended by the prime minister after consultation with the chief justice; judges usually serve until retirement at age 65, but terms can be extended"
@@ -449,7 +453,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "National Solidarity Party or NSP [Reno FONG] ++ People's Action Party or PAP [LEE Hsien Loong] ++ People's Power Party or (PPP) [Goh Meng SENG] ++ People's Voice or PV [Lim TEAN] ++ Progress Singapore Party or PSP [Tan Cheng Bock] ++ Red Dot United or RDU [Ravi PHILEMON] ++ Reform Party or RP [Kenneth JEYARETNAM] ++ Singapore Democratic Alliance or SDA [Abu MOHAMED] ++ Singapore Democratic Party or SDP [Dr. CHEE Soon Juan] ++ Singapore People's Party or SPP [Steve Chia] ++ Workers' Party or WP [Pritam SINGH] (2020)"
+      "text": "National Solidarity Party or NSP [Reno FONG]<br />People's Action Party or PAP [LEE Hsien Loong]<br />People's Power Party or (PPP) [Goh Meng SENG]<br />People's Voice or PV [Lim TEAN]<br />Progress Singapore Party or PSP [Tan Cheng Bock]<br />Red Dot United or RDU [Ravi PHILEMON]<br />Reform Party or RP [Kenneth JEYARETNAM]<br />Singapore Democratic Alliance or SDA [Abu MOHAMED]<br />Singapore Democratic Party or SDP [Dr. CHEE Soon Juan]<br />Singapore People's Party or SPP [Steve Chia]<br />Workers' Party or WP [Pritam SINGH] (2020)"
     },
     "International organization participation": {
       "text": "ADB, AOSIS, APEC, Arctic Council (observer), ARF, ASEAN, BIS, C, CP, EAS, FAO, FATF, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, Pacific Alliance (observer), PCA, UN, UNCTAD, UNESCO, UNHCR, UPU, WCO, WHO, WIPO, WMO, WTO"
@@ -504,20 +508,34 @@
       "lyrics/music": {
         "text": "ZUBIR Said"
       },
-      "note": "note: adopted 1965; first performed in 1958 at the Victoria Theatre, the anthem is sung only in Malay"
+      "note": "<p><strong>note:</strong> adopted 1965; first performed in 1958 at the Victoria Theatre, the anthem is sung only in Malay</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "Singapore has a highly developed and successful free-market economy. It enjoys an open and corruption-free environment, stable prices, and a per capita GDP higher than that of most developed countries. Unemployment is very low. The economy depends heavily on exports, particularly of electronics, petroleum products, chemicals, medical and optical devices, pharmaceuticals, and on Singapore's vibrant transportation, business, and financial services sectors. ++ The economy contracted 0.6% in 2009 as a result of the global financial crisis, but has continued to grow since 2010. Growth from 2012-2017 was slower than during the previous decade, a result of slowing structural growth - as Singapore reached high-income levels - and soft global demand for exports. Growth recovered to 3.6% in 2017 with a strengthening global economy. ++ The government is attempting to restructure Singapore's economy to reduce its dependence on foreign labor, raise productivity growth, and increase wages amid slowing labor force growth and an aging population. Singapore has attracted major investments in advanced manufacturing, pharmaceuticals, and medical technology production and will continue efforts to strengthen its position as Southeast Asia's leading financial and technology hub. Singapore is a signatory of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP), and a party to the Regional Comprehensive Economic Partnership (RCEP) negotiations with nine other ASEAN members plus Australia, China, India, Japan, South Korea, and New Zealand. In 2015, Singapore formed, with the other ASEAN members, the ASEAN Economic Community."
+      "text": "<p>Singapore has a highly developed and successful free-market economy. It enjoys an open and corruption-free environment, stable prices, and a per capita GDP higher than that of most developed countries. Unemployment is very low. The economy depends heavily on exports, particularly of electronics, petroleum products, chemicals, medical and optical devices, pharmaceuticals, and on Singapore’s vibrant transportation, business, and financial services sectors.</p><p></p><p>The economy contracted 0.6% in 2009 as a result of the global financial crisis, but has continued to grow since 2010. Growth from 2012-2017 was slower than during the previous decade, a result of slowing structural growth - as Singapore reached high-income levels - and soft global demand for exports. Growth recovered to 3.6% in 2017 with a strengthening global economy.</p><p></p><p>The government is attempting to restructure Singapore’s economy to reduce its dependence on foreign labor, raise productivity growth, and increase wages amid slowing labor force growth and an aging population. Singapore has attracted major investments in advanced manufacturing, pharmaceuticals, and medical technology production and will continue efforts to strengthen its position as Southeast Asia's leading financial and technology hub. Singapore is a signatory of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP), and a party to the Regional Comprehensive Economic Partnership (RCEP) negotiations with nine other ASEAN members plus Australia, China, India, Japan, South Korea, and New Zealand. In 2015, Singapore formed, with the other ASEAN members, the ASEAN Economic Community.</p>"
     },
-    "GDP real growth rate": {
-      "text": "0.73% (2019 est.) / 3.48% (2018 est.) / 4.34% (2017 est.)",
-      "country comparison to the world": 180
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2019": {
+        "text": "0.73% (2019 est.)"
+      },
+      "Real GDP growth rate 2018": {
+        "text": "3.48% (2018 est.)"
+      },
+      "Real GDP growth rate 2017": {
+        "text": "4.34% (2017 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "0.5% (2019 est.) / 0.4% (2018 est.) / 0.5% (2017 est.)",
-      "country comparison to the world": 43
+      "Inflation rate (consumer prices) 2019": {
+        "text": "0.5% (2019 est.)"
+      },
+      "Inflation rate (consumer prices) 2018": {
+        "text": "0.4% (2018 est.)"
+      },
+      "Inflation rate (consumer prices) 2017": {
+        "text": "0.5% (2017 est.)"
+      }
     },
     "Credit ratings": {
       "Fitch rating": {
@@ -530,21 +548,43 @@
         "text": "AAA (1995)"
       }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$555.648 billion (2019 est.) / $551.621 billion (2018 est.) / $533.189 billion (2017 est.)",
-      "note": "note: data are in 2010 dollars"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2019": {
+        "text": "$555.648 billion (2019 est.)"
+      },
+      "Real GDP (purchasing power parity) 2018": {
+        "text": "$551.621 billion (2018 est.)"
+      },
+      "Real GDP (purchasing power parity) 2017": {
+        "text": "$533.189 billion (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
     },
     "GDP (official exchange rate)": {
       "text": "$372.088 billion (2019 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$57,853 (2019 est.) / $57,901 (2018 est.) / $56,451 (2017 est.)",
-      "note": "note: data are in 2010 dollars",
-      "country comparison to the world": 20
+    "Real GDP per capita": {
+      "Real GDP per capita 2019": {
+        "text": "$57,853 (2019 est.)"
+      },
+      "Real GDP per capita 2018": {
+        "text": "$57,901 (2018 est.)"
+      },
+      "Real GDP per capita 2017": {
+        "text": "$56,451 (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
     },
     "Gross national saving": {
-      "text": "46.5% of GDP (2017 est.) / 46% of GDP (2016 est.) / 45.7% of GDP (2015 est.)",
-      "country comparison to the world": 5
+      "Gross national saving 2017": {
+        "text": "46.5% of GDP (2017 est.)"
+      },
+      "Gross national saving 2016": {
+        "text": "46% of GDP (2016 est.)"
+      },
+      "Gross national saving 2015": {
+        "text": "45.7% of GDP (2015 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -578,22 +618,22 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "text": "89.6 (2020)"
+      "Overall Ease of Doing Business score 2020": {
+        "text": "89.6 (2020)"
+      }
     },
-    "Agriculture - products": {
-      "text": "vegetables; poultry, eggs; fish, ornamental fish, orchids"
+    "Agricultural products": {
+      "text": "poultry, eggs, vegetables, pork, duck meat, spinach, pig offals, bird eggs, pig fat, cabbages"
     },
     "Industries": {
       "text": "electronics, chemicals, financial services, oil drilling equipment, petroleum refining, biomedical products, scientific instruments, telecommunication equipment, processed food and beverages, ship repair, offshore platform construction, entrepot trade"
     },
     "Industrial production growth rate": {
-      "text": "5.7% (2017 est.)",
-      "country comparison to the world": 46
+      "text": "5.7% (2017 est.)"
     },
     "Labor force": {
       "text": "3.778 million (2019 est.)",
-      "note": "note: excludes non-residents",
-      "country comparison to the world": 92
+      "note": "<p><strong>note:</strong> excludes non-residents</p>"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -605,14 +645,26 @@
       "services": {
         "text": "73.7% (2017)"
       },
-      "note": "note: excludes non-residents"
+      "note": "<p><strong>note:</strong> excludes non-residents</p>"
     },
     "Unemployment rate": {
-      "text": "2.25% (2019 est.) / 2.1% (2018 est.)",
-      "country comparison to the world": 23
+      "Unemployment rate 2019": {
+        "text": "2.25% (2019 est.)"
+      },
+      "Unemployment rate 2018": {
+        "text": "2.1% (2018 est.)"
+      }
     },
     "Population below poverty line": {
       "text": "NA"
+    },
+    "Gini Index coefficient - distribution of family income": {
+      "Gini Index coefficient - distribution of family income 2017": {
+        "text": "45.9 (2017)"
+      },
+      "Gini Index coefficient - distribution of family income 2016": {
+        "text": "45.8 (2016)"
+      }
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
@@ -629,31 +681,44 @@
       "expenditures": {
         "text": "51.87 billion (2017 est.)"
       },
-      "note": "note: expenditures include both operational and development expenditures"
+      "note": "<p><strong>note:</strong> expenditures include both operational and development expenditures</p>"
     },
     "Taxes and other revenues": {
-      "text": "15.7% (of GDP) (2017 est.)",
-      "country comparison to the world": 187
+      "text": "15.7% (of GDP) (2017 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-0.3% (of GDP) (2017 est.)",
-      "country comparison to the world": 55
+      "text": "-0.3% (of GDP) (2017 est.)"
     },
     "Public debt": {
-      "text": "111.1% of GDP (2017 est.) / 106.8% of GDP (2016 est.)",
-      "note": "note: Singapore's public debt consists largely of Singapore Government Securities (SGS) issued to assist the Central Provident Fund (CPF), which administers Singapore's defined contribution pension fund; special issues of SGS are held by the CPF, and are non-tradable; the government has not borrowed to finance deficit expenditures since the 1980s; Singapore has no external public debt",
-      "country comparison to the world": 11
+      "Public debt 2017": {
+        "text": "111.1% of GDP (2017 est.)"
+      },
+      "Public debt 2016": {
+        "text": "106.8% of GDP (2016 est.)"
+      },
+      "note": "<p><strong>note:</strong> Singapore's public debt consists largely of Singapore Government Securities (SGS) issued to assist the Central Provident Fund (CPF), which administers Singapore's defined contribution pension fund; special issues of SGS are held by the CPF, and are non-tradable; the government has not borrowed to finance deficit expenditures since the 1980s; Singapore has no external public debt</p>"
     },
     "Fiscal year": {
       "text": "1 April - 31 March"
     },
     "Current account balance": {
-      "text": "$63.109 billion (2019 est.) / $64.042 billion (2018 est.)",
-      "country comparison to the world": 8
+      "Current account balance 2019": {
+        "text": "$63.109 billion (2019 est.)"
+      },
+      "Current account balance 2018": {
+        "text": "$64.042 billion (2018 est.)"
+      }
     },
     "Exports": {
-      "text": "$626.68 billion (2019 est.) / $636.565 billion (2018 est.) / $588.576 billion (2017 est.)",
-      "country comparison to the world": 10
+      "Exports 2019": {
+        "text": "$626.68 billion (2019 est.)"
+      },
+      "Exports 2018": {
+        "text": "$636.565 billion (2018 est.)"
+      },
+      "Exports 2017": {
+        "text": "$588.576 billion (2017 est.)"
+      }
     },
     "Exports - partners": {
       "text": "China 14.7%, Hong Kong 12.6%, Malaysia 10.8%, US 6.6%, Indonesia 5.8%, Japan 4.7%, South Korea 4.6%, Thailand 4% (2017)"
@@ -662,25 +727,57 @@
       "text": "machinery and equipment (including electronics and telecommunications), pharmaceuticals and other chemicals, refined petroleum products, foodstuffs and beverages"
     },
     "Imports": {
-      "text": "$533.478 billion (2019 est.) / $542.802 billion (2018 est.) / $505.736 billion (2017 est.)",
-      "country comparison to the world": 14
-    },
-    "Imports - commodities": {
-      "text": "machinery and equipment, mineral fuels, chemicals, foodstuffs, consumer goods"
+      "Imports 2019": {
+        "text": "$533.478 billion (2019 est.)"
+      },
+      "Imports 2018": {
+        "text": "$542.802 billion (2018 est.)"
+      },
+      "Imports 2017": {
+        "text": "$505.736 billion (2017 est.)"
+      }
     },
     "Imports - partners": {
       "text": "China 13.9%, Malaysia 12%, US 10.7%, Japan 6.3%, South Korea 5% (2017)"
     },
+    "Imports - commodities": {
+      "text": "machinery and equipment, mineral fuels, chemicals, foodstuffs, consumer goods"
+    },
     "Reserves of foreign exchange and gold": {
-      "text": "$279.9 billion (31 December 2017 est.) / $271.8 billion (31 December 2016 est.)",
-      "country comparison to the world": 11
+      "Reserves of foreign exchange and gold 31 December 2017": {
+        "text": "$279.9 billion (31 December 2017 est.)"
+      },
+      "Reserves of foreign exchange and gold 31 December 2016": {
+        "text": "$271.8 billion (31 December 2016 est.)"
+      }
     },
     "Debt - external": {
-      "text": "$566.1 billion (31 December 2017 est.) / $464.1 billion (30 September 2017 est.)",
-      "country comparison to the world": 20
+      "Debt - external 31 December 2017": {
+        "text": "$566.1 billion (31 December 2017 est.)"
+      },
+      "Debt - external 30 September 2017": {
+        "text": "$464.1 billion (30 September 2017 est.)"
+      }
     },
     "Exchange rates": {
-      "text": "Singapore dollars (SGD) per US dollar - / 1.33685 (2020 est.) / 1.35945 (2019 est.) / 1.3699 (2018 est.) / 1.3748 (2014 est.) / 1.2671 (2013 est.)"
+      "currency": {
+        "text": "Singapore dollars (SGD) per US dollar -"
+      },
+      "Exchange rates 2020": {
+        "text": "1.33685 (2020 est.)"
+      },
+      "Exchange rates 2019": {
+        "text": "1.35945 (2019 est.)"
+      },
+      "Exchange rates 2018": {
+        "text": "1.3699 (2018 est.)"
+      },
+      "Exchange rates 2014": {
+        "text": "1.3748 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "1.2671 (2013 est.)"
+      }
     }
   },
   "Energy": {
@@ -690,96 +787,73 @@
       }
     },
     "Electricity - production": {
-      "text": "48.66 billion kWh (2016 est.)",
-      "country comparison to the world": 55
+      "text": "48.66 billion kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "47.69 billion kWh (2016 est.)",
-      "country comparison to the world": 51
+      "text": "47.69 billion kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 198
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - imports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 200
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "13.35 million kW (2016 est.)",
-      "country comparison to the world": 53
+      "text": "13.35 million kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "98% of total installed capacity (2016 est.)",
-      "country comparison to the world": 28
+      "text": "98% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 183
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 200
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "2% of total installed capacity (2017 est.)",
-      "country comparison to the world": 144
+      "text": "2% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "0 bbl/day (2018 est.)",
-      "country comparison to the world": 200
+      "text": "0 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "14,780 bbl/day (2015 est.)",
-      "country comparison to the world": 54
+      "text": "14,780 bbl/day (2015 est.)"
     },
     "Crude oil - imports": {
-      "text": "783,300 bbl/day (2015 est.)",
-      "country comparison to the world": 15
+      "text": "783,300 bbl/day (2015 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2018 est.)",
-      "country comparison to the world": 195
+      "text": "0 bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "755,000 bbl/day (2015 est.)",
-      "country comparison to the world": 24
+      "text": "755,000 bbl/day (2015 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "1.322 million bbl/day (2016 est.)",
-      "country comparison to the world": 17
+      "text": "1.322 million bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "1.82 million bbl/day (2015 est.)",
-      "country comparison to the world": 4
+      "text": "1.82 million bbl/day (2015 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "2.335 million bbl/day (2015 est.)",
-      "country comparison to the world": 1
+      "text": "2.335 million bbl/day (2015 est.)"
     },
     "Natural gas - production": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 196
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "12.97 billion cu m (2017 est.)",
-      "country comparison to the world": 44
+      "text": "12.97 billion cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "622.9 million cu m (2017 est.)",
-      "country comparison to the world": 41
+      "text": "622.9 million cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "13.48 billion cu m (2017 est.)",
-      "country comparison to the world": 23
+      "text": "13.48 billion cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "0 cu m (1 January 2017 est.)",
-      "country comparison to the world": 194
+      "text": "0 cu m (1 January 2017 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "249.5 million Mt (2017 est.)",
-      "country comparison to the world": 27
+      "text": "249.5 million Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -789,8 +863,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "32.83 (2019 est.)"
-      },
-      "country comparison to the world": 54
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -798,23 +871,22 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "156.38 (2019 est.)"
-      },
-      "country comparison to the world": 89
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "excellent service; world leader in telecommunications and perhaps the first 'Smart Nation' where a sensor network is implemented, for water and air, smart logistics and smart sensor in the home of elderly or chronically ill; roll out of 4G and 5G networks to ensure faster speeds; wireless and fiber broadband growing segments of telecommunications; roll out of 'Next Generation Network' (NGNBN) almost complete with FttH and wireless network fiber based services; mobile sector saturated, but with mobile operators competing to offer more to the consumer such as value-added services; 4 MNVO; demand for data storage in Singapore (2020)"
+        "text": "excellent service; world leader in telecommunications and perhaps the first 'Smart Nation' where a sensor network is implemented, for water and air, smart logistics and smart sensor in the home of elderly or chronically ill;&nbsp;roll out of 4G and 5G networks to ensure faster speeds; wireless and fiber broadband growing segments of telecommunications; roll out of 'Next Generation Network' (NGNBN) almost complete with FttH and wireless network&nbsp;fiber based services; mobile sector saturated, but with mobile operators competing to&nbsp;offer more to the consumer such as value-added services; 4 MNVO; demand for data storage in Singapore (2020)"
       },
       "domestic": {
         "text": "excellent domestic facilities; fixed-line 33 per 100 and mobile-cellular 156 per 100 teledensity; multiple providers of high-speed Internet connectivity (2019)"
       },
       "international": {
-        "text": "country code - 65; landing points for INDIGO-West, SeaMeWe -3,-4,-5, SIGMAR, SJC, i2icn, PGASCOM, BSCS, IGG, B3JS, SAEx2, APCN-2, APG, ASC, SEAX-1, ASE, EAC-C2C, Matrix Cable System and SJC2 submarine cables providing links throughout Asia, Southeast Asia, Africa, Australia, the Middle East, and Europe; satellite earth stations - 3, Bukit Timah, Seletar, and Sentosa; supplemented by VSAT coverage (2019 )"
+        "text": "country code - 65; landing points for INDIGO-West, SeaMeWe -3,-4,-5, SIGMAR, SJC, i2icn,&nbsp;PGASCOM, BSCS,&nbsp;IGG,&nbsp;B3JS, SAEx2, APCN-2, APG, ASC, SEAX-1, ASE, EAC-C2C, Matrix Cable System and SJC2 submarine cables providing links throughout Asia, Southeast Asia, Africa, Australia, the Middle East, and Europe; satellite earth stations - 3, Bukit Timah, Seletar, and Sentosa; supplemented by VSAT coverage (2019 )"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
-      "text": "state controls broadcast media; 6 domestic TV stations operated by MediaCorp which is wholly owned by a state investment company; broadcasts from Malaysian and Indonesian stations available; satellite dishes banned; multi-channel cable TV services available; a total of 19 domestic radio stations broadcasting, with MediaCorp operating 11, Singapore Press Holdings, also government-linked, another 5, 2 controlled by the Singapore Armed Forces Reservists Association and one owned by BBC Radio; Malaysian and Indonesian radio stations are available as is BBC; a number of Internet service radio stations are also available (2019)"
+      "text": "state controls broadcast media;&nbsp;6 domestic TV stations operated by MediaCorp which is wholly owned by a state investment company; broadcasts from Malaysian and Indonesian stations available; satellite dishes banned; multi-channel cable TV services available; a total of 19 domestic radio stations broadcasting, with MediaCorp operating 11, Singapore Press Holdings, also government-linked, another 5,&nbsp;2 controlled by the Singapore Armed Forces Reservists Association and one owned by BBC Radio; Malaysian and Indonesian radio stations are available as is BBC; a number of Internet service radio stations are also available (2019)"
     },
     "Internet country code": {
       "text": ".sg"
@@ -825,8 +897,7 @@
       },
       "percent of population": {
         "text": "88.17% (July 2018 est.)"
-      },
-      "country comparison to the world": 80
+      }
     },
     "Broadband - fixed subscriptions": {
       "total": {
@@ -834,8 +905,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "27 (2018 est.)"
-      },
-      "country comparison to the world": 60
+      }
     }
   },
   "Transportation": {
@@ -857,8 +927,9 @@
       "text": "9V (2016)"
     },
     "Airports": {
-      "text": "9 (2013)",
-      "country comparison to the world": 158
+      "total": {
+        "text": "9 (2013)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -889,17 +960,15 @@
       },
       "paved": {
         "text": "3,500 km (includes 164 km of expressways) (2017)"
-      },
-      "country comparison to the world": 158
+      }
     },
     "Merchant marine": {
       "total": {
-        "text": "3,433"
+        "text": "3,420"
       },
       "by type": {
-        "text": "bulk carrier 585, container ship 492, general cargo 130, oil tanker 724, other 1,502 (2019)"
-      },
-      "country comparison to the world": 8
+        "text": "bulk carrier 570, container ship 497, general cargo 123, oil tanker 748, other 1,482 (2020)"
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -915,11 +984,24 @@
   },
   "Military and Security": {
     "Military and security forces": {
-      "text": "Singapore Armed Forces: Singapore Army, Republic of Singapore Navy, Republic of Singapore Air Force (includes air defense); Police Coast Guard (subordinate to the Singapore Police Force) (2019)"
+      "text": "Singapore Armed Forces: Singapore Army, Republic of Singapore Navy, Republic of Singapore Air Force (includes air defense);&nbsp; Police Coast Guard (subordinate to the Singapore Police Force) (2019)"
     },
     "Military expenditures": {
-      "text": "3.2% of GDP (2019) / 3.1% of GDP (2018) / 3.1% of GDP (2017) / 3.2% of GDP (2016) / 3.1% of GDP (2015)",
-      "country comparison to the world": 24
+      "Military Expenditures 2019": {
+        "text": "3.2% of GDP (2019)"
+      },
+      "Military Expenditures 2018": {
+        "text": "3.1% of GDP (2018)"
+      },
+      "Military Expenditures 2017": {
+        "text": "3.1% of GDP (2017)"
+      },
+      "Military Expenditures 2016": {
+        "text": "3.2% of GDP (2016)"
+      },
+      "Military Expenditures 2015": {
+        "text": "3.1% of GDP (2015)"
+      }
     },
     "Military and security service personnel strengths": {
       "text": "the Singapore Armed Forces (SAF) have approximately 62,000 active duty troops (45,000 Army; 7,000 Navy; 10,000 Air Force) (2019)"
@@ -941,7 +1023,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "disputes with Malaysia over territorial waters, airspace, the price of fresh water delivered to Singapore from Malaysia, Singapore's extensive land reclamation works, bridge construction, and maritime boundaries in the Johor and Singapore Straits; in 2008, ICJ awarded sovereignty of Pedra Branca (Pulau Batu Puteh/Horsburgh Island) to Singapore, and Middle Rocks to Malaysia, but did not rule on maritime regimes, boundaries, or disposition of South Ledge; Indonesia and Singapore continue to work on finalization of their 1973 maritime boundary agreement by defining unresolved areas north of Indonesia's Batam Island; piracy remains a problem in the Malacca Strait"
+      "text": "<p>disputes with Malaysia over territorial waters, airspace, the price of fresh water delivered to Singapore from Malaysia, Singapore's extensive land reclamation works, bridge construction, and maritime boundaries in the Johor and Singapore Straits; in 2008, ICJ awarded sovereignty of Pedra Branca (Pulau Batu Puteh/Horsburgh Island) to Singapore, and Middle Rocks to Malaysia, but did not rule on maritime regimes, boundaries, or disposition of South Ledge; Indonesia and Singapore continue to work on finalization of their 1973 maritime boundary agreement by defining unresolved areas north of Indonesia's Batam Island; piracy remains a problem in the Malacca Strait</p>"
     },
     "Refugees and internally displaced persons": {
       "stateless persons": {

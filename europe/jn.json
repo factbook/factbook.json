@@ -23,14 +23,15 @@
       },
       "water": {
         "text": "0 sq km"
-      },
-      "country comparison to the world": 205
+      }
     },
     "Area - comparative": {
       "text": "slightly more than twice the size of Washington, DC"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "124.1 km"
@@ -39,11 +40,11 @@
       "territorial sea": {
         "text": "12 nm"
       },
-      "exclusive economic zone": {
-        "text": "200 nm"
-      },
       "contiguous zone": {
         "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
       },
       "continental shelf": {
         "text": "200-m depth or to the depth of exploitation"
@@ -62,7 +63,7 @@
       "highest point": {
         "text": "Haakon VII Toppen on Beerenberg 2,277"
       },
-      "note": "note: Beerenberg volcano has numerous peaks; the highest point on the volcano rim is named Haakon VII Toppen, after Norway's first king following the reestablishment of Norwegian independence in 1905"
+      "note": "<br><br><strong>note:</strong> Beerenberg volcano has numerous peaks; the highest point on the volcano rim is named Haakon VII Toppen, after Norway's first king following the reestablishment of Norwegian independence in 1905"
     },
     "Natural resources": {
       "text": "none"
@@ -71,8 +72,14 @@
       "agricultural land": {
         "text": "0% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "0% (2011 est.) / 0% (2011 est.) / 0% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 0% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 0% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 0% (2011 est.)"
       },
       "forest": {
         "text": "0% (2011 est.)"
@@ -85,7 +92,7 @@
       "text": "0 sq km (2012)"
     },
     "Natural hazards": {
-      "text": "dominated by the volcano Beerenberg ++ volcanism: Beerenberg (2,227 m) is Norway's only active volcano; volcanic activity resumed in 1970; the most recent eruption occurred in 1985"
+      "text": "<p>dominated by the volcano Beerenberg</p><p><strong>volcanism:</strong> Beerenberg (2,227 m) is Norway's only active volcano; volcanic activity resumed in 1970; the most recent eruption occurred in 1985</p>"
     },
     "Environment - current issues": {
       "text": "pollutants transported from southerly latitudes by winds, ocean currents, and rivers accumulate in the food chains of native animals; climate change"
@@ -97,7 +104,7 @@
   "People and Society": {
     "Population": {
       "text": "no indigenous inhabitants",
-      "note": "note: military personnel operate the the weather and coastal services radio station"
+      "note": "<p><strong>note:</strong> military personnel operate the the weather and coastal services radio station</p>"
     }
   },
   "Government": {
@@ -116,7 +123,7 @@
       "text": "territory of Norway; since August 1994, administered from Oslo through the county governor (fylkesmann) of Nordland; however, authority has been delegated to a station commander of the Norwegian Defense Communication Service; in 2010, Norway designated the majority of Jan Mayen as a nature reserve"
     },
     "Legal system": {
-      "text": "the laws of Norway apply where applicable"
+      "text": "the laws of Norway apply where applicable&nbsp;"
     },
     "Flag description": {
       "text": "the flag of Norway is used"
@@ -125,8 +132,6 @@
   "Economy": {
     "Economic overview": {
       "text": "Jan Mayen is a volcanic island with no exploitable natural resources, although surrounding waters contain substantial fish stocks and potential untapped petroleum resources. Economic activity is limited to providing services for employees of Norway's radio and meteorological stations on the island."
-    },
-    "Ease of Doing Business Index scores": {
     }
   },
   "Communications": {
@@ -136,8 +141,9 @@
   },
   "Transportation": {
     "Airports": {
-      "text": "1 (2013)",
-      "country comparison to the world": 224
+      "total": {
+        "text": "1 (2013)"
+      }
     },
     "Airports - with unpaved runways": {
       "total": {
@@ -148,7 +154,7 @@
       }
     },
     "Ports and terminals": {
-      "note": "none; offshore anchorage only"
+      "text": "none; offshore anchorage only"
     }
   },
   "Military and Security": {
@@ -158,7 +164,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "none"
+      "text": "<p>none</p>"
     }
   }
 }

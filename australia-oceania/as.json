@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "Prehistoric settlers arrived on the continent from Southeast Asia at least 40,000 years before the first Europeans began exploration in the 17th century. No formal territorial claims were made until 1770, when Capt. James COOK took possession of the east coast in the name of Great Britain (all of Australia was claimed as British territory in 1829 with the creation of the colony of Western Australia). Six colonies were created in the late 18th and 19th centuries; they federated and became the Commonwealth of Australia in 1901. The new country took advantage of its natural resources to rapidly develop agricultural and manufacturing industries and to make a major contribution to the Allied effort in World Wars I and II. ++ In recent decades, Australia has become an internationally competitive, advanced market economy due in large part to economic reforms adopted in the 1980s and its location in one of the fastest growing regions of the world economy. Long-term concerns include an aging population, pressure on infrastructure, and environmental issues such as floods, droughts, and bushfires. Australia is the driest inhabited continent on earth, making it particularly vulnerable to the challenges of climate change. Australia is home to 10% of the world's biodiversity, and a great number of its flora and fauna exist nowhere else in the world."
+      "text": "<p>Prehistoric settlers arrived on the continent from Southeast Asia at least 40,000 years before the first Europeans began exploration in the 17th century. No formal territorial claims were made until 1770, when Capt. James COOK took possession of the east coast in the name of Great Britain (all of Australia was claimed as British territory in 1829 with the creation of the colony of Western Australia). Six colonies were created in the late 18th and 19th centuries; they federated and became the Commonwealth of Australia in 1901. The new country took advantage of its natural resources to rapidly develop agricultural and manufacturing industries and to make a major contribution to the Allied effort in World Wars I and II.</p> <p>In recent decades, Australia has become an internationally competitive, advanced market economy due in large part to economic reforms adopted in the 1980s and its location in one of the fastest growing regions of the world economy. Long-term concerns include an aging population, pressure on infrastructure, and environmental issues such as floods, droughts, and bushfires. Australia is the driest inhabited continent on earth, making it particularly vulnerable to the challenges of climate change. Australia is home to 10% of the world's biodiversity, and a great number of its flora and fauna exist nowhere else in the world.</p>"
     }
   },
   "Geography": {
@@ -24,14 +24,15 @@
       "water": {
         "text": "58,920 sq km"
       },
-      "note": "note: includes Lord Howe Island and Macquarie Island",
-      "country comparison to the world": 7
+      "note": "<p><strong>note:</strong> includes Lord Howe Island and Macquarie Island</p>"
     },
     "Area - comparative": {
       "text": "slightly smaller than the US contiguous 48 states"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "25,760 km"
@@ -40,11 +41,11 @@
       "territorial sea": {
         "text": "12 nm"
       },
-      "exclusive economic zone": {
-        "text": "200 nm"
-      },
       "contiguous zone": {
         "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
       },
       "continental shelf": {
         "text": "200 nm or to the edge of the continental margin"
@@ -68,20 +69,26 @@
       }
     },
     "Natural resources": {
-      "text": "alumina, coal, iron ore, copper, tin, gold, silver, uranium, nickel, tungsten, rare earth elements, mineral sands, lead, zinc, diamonds, natural gas, petroleum; note - Australia is the world's largest net exporter of coal accounting for 29% of global coal exports"
+      "text": "alumina, coal, iron ore, copper, tin, gold, silver, uranium, nickel, tungsten, rare earth elements, mineral sands, lead, zinc, diamonds, natural gas, petroleum; note -&nbsp;Australia is the world's largest net exporter of coal accounting for 29% of global coal exports"
     },
     "Land use": {
       "agricultural land": {
-        "text": "52.9% (2016 est.)"
+        "text": "52.9% (2018 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "11.6% (2016 est.) / 0.09% (2016 est.) / 88.4% (2016 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 11.6% (2018 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 0.09% (2018 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 88.4% (2018 est.)"
       },
       "forest": {
-        "text": "16.2% (2016 est.)"
+        "text": "16.2% (2018 est.)"
       },
       "other": {
-        "text": "30.9% (2016 est.)"
+        "text": "30.9% (2018 est.)"
       }
     },
     "Irrigated land": {
@@ -91,7 +98,7 @@
       "text": "population is primarily located on the periphery, with the highest concentration of people residing in the east and southeast; a secondary population center is located in and around Perth in the west; of the States and Territories, New South Wales has, by far, the largest population; the interior, or \"outback\", has a very sparse population"
     },
     "Natural hazards": {
-      "text": "cyclones along the coast; severe droughts; forest fires ++ volcanism: volcanic activity on Heard and McDonald Islands"
+      "text": "<p>cyclones along the coast; severe droughts; forest fires</p><p><strong>volcanism:</strong> volcanic activity on Heard and McDonald Islands</p>"
     },
     "Environment - current issues": {
       "text": "soil erosion from overgrazing, deforestation, industrial development, urbanization, and poor farming practices; limited natural freshwater resources; soil salinity rising due to the use of poor quality water; drought, desertification; clearing for agricultural purposes threatens the natural habitat of many unique animal and plant species; disruption of the fragile ecosystem has resulted in significant floral extinctions; the Great Barrier Reef off the northeast coast, the largest coral reef in the world, is threatened by increased shipping and its popularity as a tourist site; overfishing, pollution, and invasive species are also problems"
@@ -105,13 +112,12 @@
       }
     },
     "Geography - note": {
-      "note": "note 1: world's smallest continent but sixth-largest country; the largest country in Oceania, the largest country entirely in the Southern Hemisphere, and the largest country without land borders; the only continent without glaciers; the invigorating sea breeze known as the \"Fremantle Doctor\" affects the city of Perth on the west coast and is one of the most consistent winds in the world ++ note 2: the Great Dividing Range that runs along eastern Australia is that continent's longest mountain range and the third-longest land-based range in the world; the term \"Great Dividing Range\" refers to the fact that the mountains form a watershed crest from which all of the rivers of eastern Australia flow – east, west, north, and south"
+      "text": "<strong>note 1:</strong> world's smallest continent but sixth-largest country; the largest country in Oceania, the largest country entirely in the Southern Hemisphere, and the largest country without land borders; the only continent without glaciers; the invigorating sea breeze known as the \"Fremantle Doctor\" affects the city of Perth on the west coast and is one of the most consistent winds in the world<br /><br /><strong>note 2:</strong> the Great Dividing Range that runs along eastern Australia is that continent&rsquo;s longest mountain range and the third-longest land-based range in the world; the term \"Great Dividing Range\" refers to the fact that the mountains form a watershed crest from which all of the rivers of eastern Australia flow &ndash; east, west, north, and south"
     }
   },
   "People and Society": {
     "Population": {
-      "text": "25,466,459 (July 2020 est.)",
-      "country comparison to the world": 55
+      "text": "25,809,973 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -123,11 +129,11 @@
     },
     "Ethnic groups": {
       "text": "English 25.9%, Australian 25.4%, Irish 7.5%, Scottish 6.4%, Italian 3.3%, German 3.2%, Chinese 3.1%, Indian 1.4%, Greek 1.4%, Dutch 1.2%, other 15.8% (includes Australian aboriginal .5%), unspecified 5.4% (2011 est.)",
-      "note": "note: data represent self-identified ancestry, over a third of respondents reported two ancestries"
+      "note": "<p><strong>note:</strong> data represent self-identified ancestry, over a third of respondents reported two ancestries</p>"
     },
     "Languages": {
       "text": "English 72.7%, Mandarin 2.5%, Arabic 1.4%, Cantonese 1.2%, Vietnamese 1.2%, Italian 1.2%, Greek 1%, other 14.8%, unspecified 6.5% (2016 est.)",
-      "note": "note: data represent language spoken at home"
+      "note": "<p><strong>note:</strong> data represent language spoken at home</p>"
     },
     "Religions": {
       "text": "Protestant 23.1% (Anglican 13.3%, Uniting Church 3.7%, Presbyterian and Reformed 2.3%, Baptist 1.5%, Pentecostal 1.1%, Lutheran .7%, other Protestant .5%), Roman Catholic 22.6%, other Christian 4.2%, Muslim 2.6%, Buddhist 2.4%, Orthodox 2.3% (Eastern Orthodox 2.1%, Oriental Orthodox .2%), Hindu 1.9%, other 1.3%, none 30.1%, unspecified 9.6% (2016 est.)"
@@ -172,24 +178,19 @@
       },
       "female": {
         "text": "38.5 years (2020 est.)"
-      },
-      "country comparison to the world": 69
+      }
     },
     "Population growth rate": {
-      "text": "1.4% (2020 est.)",
-      "country comparison to the world": 78
+      "text": "1.31% (2021 est.)"
     },
     "Birth rate": {
-      "text": "12.4 births/1,000 population (2020 est.)",
-      "country comparison to the world": 155
+      "text": "12.35 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "6.9 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 127
+      "text": "6.78 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "8.1 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 11
+      "text": "7.49 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "population is primarily located on the periphery, with the highest concentration of people residing in the east and southeast; a secondary population center is located in and around Perth in the west; of the States and Territories, New South Wales has, by far, the largest population; the interior, or \"outback\", has a very sparse population"
@@ -201,7 +202,7 @@
       "rate of urbanization": {
         "text": "1.43% annual rate of change (2015-20 est.)"
       },
-      "note": "note: data include Christmas Island, Cocos Islands, and Norfolk Island"
+      "note": "<p><strong>note:</strong> data include Christmas Island, Cocos Islands, and Norfolk Island</p>"
     },
     "Major urban areas - population": {
       "text": "4.968 million Melbourne, 4.926 million Sydney, 2.406 million Brisbane, 2.042 million Perth, 1.336 million Adelaide, 457,000 CANBERRA (capital) (2020)"
@@ -233,47 +234,55 @@
       "text": "28.7 years (2014 est.)"
     },
     "Maternal mortality rate": {
-      "text": "6 deaths/100,000 live births (2017 est.)",
-      "country comparison to the world": 159
+      "text": "6 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "3.1 deaths/1,000 live births"
+        "text": "3.05 deaths/1,000 live births"
       },
       "male": {
-        "text": "3.3 deaths/1,000 live births"
+        "text": "3.29 deaths/1,000 live births"
       },
       "female": {
-        "text": "2.9 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 213
+        "text": "2.8 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "82.7 years"
+        "text": "82.89 years"
       },
       "male": {
-        "text": "80.5 years"
+        "text": "80.73 years"
       },
       "female": {
-        "text": "85 years (2020 est.)"
-      },
-      "country comparison to the world": 14
+        "text": "85.17 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "1.74 children born/woman (2020 est.)",
-      "country comparison to the world": 161
+      "text": "1.74 children born/woman (2021 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "66.9% (2015/16)",
-      "note": "note: percent of women aged 18-45"
+      "note": "<p><strong>note:</strong> percent of women aged 18-45</p>"
     },
     "Drinking water source": {
-      "improved": {
-        "text": "urban: 100% of population / rural: 100% of population / total: 100% of population"
+      "improved: urban": {
+        "text": "urban: 100% of population"
       },
-      "unimproved": {
-        "text": "urban: 0% of population / rural: 0% of population / total: 0% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 100% of population"
+      },
+      "improved: total": {
+        "text": "total: 100% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 0% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 0% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 0% of population (2017 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -286,31 +295,27 @@
       "text": "3.8 beds/1,000 population (2016)"
     },
     "Sanitation facility access": {
-      "improved": {
+      "improved: total": {
         "text": "total: 100% of population"
       },
-      "unimproved": {
+      "unimproved: total": {
         "text": "total: 0% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "0.1% (2019 est.)",
-      "country comparison to the world": 117
+      "text": "0.1% (2019 est.)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
-      "text": "29,000 (2019 est.)",
-      "country comparison to the world": 76
+      "text": "29,000 (2019 est.)"
     },
     "HIV/AIDS - deaths": {
       "text": "<100 (201 est.)"
     },
     "Obesity - adult prevalence rate": {
-      "text": "29% (2016)",
-      "country comparison to the world": 27
+      "text": "29% (2016)"
     },
     "Education expenditures": {
-      "text": "5.1% of GDP (2017)",
-      "country comparison to the world": 53
+      "text": "5.1% of GDP (2017)"
     },
     "School life expectancy (primary to tertiary education)": {
       "total": {
@@ -332,8 +337,7 @@
       },
       "female": {
         "text": "10.7% (2018 est.)"
-      },
-      "country comparison to the world": 110
+      }
     }
   },
   "Government": {
@@ -349,7 +353,7 @@
       }
     },
     "Government type": {
-      "text": "federal parliamentary democracy under a constitutional monarchy; a Commonwealth realm"
+      "text": "federal parliamentary democracy&nbsp;under a constitutional monarchy; a Commonwealth realm"
     },
     "Capital": {
       "name": {
@@ -364,7 +368,7 @@
       "daylight saving time": {
         "text": "+1hr, begins first Sunday in October; ends first Sunday in April"
       },
-      "note": "note: Australia has four time zones, including Lord Howe Island (UTC+10:30) ++ etymolgy: the name is claimed to derive from either Kambera or Camberry, which are names corrupted from the original native designation for the area \"Nganbra\" or \"Nganbira\" ++ ++"
+      "note": "<p><strong>note: </strong>Australia has four time zones, including Lord Howe Island (UTC+10:30)<strong><br /><br />etymolgy: </strong>the name is claimed to derive from either Kambera or Camberry, which are names corrupted from the original native designation for the area \"Nganbra\" or \"Nganbira\"<br /><strong><br /><br /></strong></p>"
     },
     "Administrative divisions": {
       "text": "6 states and 2 territories*; Australian Capital Territory*, New South Wales, Northern Territory*, Queensland, South Australia, Tasmania, Victoria, Western Australia"
@@ -383,7 +387,7 @@
         "text": "approved in a series of referenda from 1898 through 1900 and became law 9 July 1900, effective 1 January 1901"
       },
       "amendments": {
-        "text": "proposed by Parliament; passage requires approval of a referendum bill by absolute majority vote in both houses of Parliament, approval in a referendum by a majority of voters in at least four states and in the territories, and Royal Assent; proposals that would reduce a state's representation in either house or change a state's boundaries require that state's approval prior to Royal Assent; amended several times, last in 1977"
+        "text": "proposed by Parliament; passage requires approval of a referendum bill by absolute majority vote in both houses of Parliament, approval in a referendum by a majority of voters in at least four states and in the territories, and Royal Assent; proposals that would reduce a state&rsquo;s representation in either house or change a state&rsquo;s boundaries require that state&rsquo;s approval prior to Royal Assent; amended several times, last in 1977"
       }
     },
     "Legal system": {
@@ -425,13 +429,13 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral Federal Parliament consists of: Senate (76 seats; 12 members from each of the 6 states and 2 each from the 2 mainland territories; members directly elected in multi-seat constituencies by proportional representation vote; members serve 6-year terms with one-half of state membership renewed every 3 years and territory membership renewed every 3 years) ++ House of Representatives (151 seats; members directly elected in single-seat constituencies by majority preferential vote; members serve terms of up to 3 years)"
+        "text": "bicameral Federal Parliament consists of:<br />Senate (76 seats; 12 members from each of the 6 states and 2 each from the 2 mainland territories; members directly elected in multi-seat constituencies by proportional representation vote; members serve 6-year terms with one-half of state membership renewed every 3 years and territory membership renewed every 3 years)<br />House of Representatives (151 seats; members directly elected in single-seat constituencies by majority preferential vote; members serve terms of up to 3 years)"
       },
       "elections": {
-        "text": "Senate - last held on 18 May 2019 (next to be held in 2022) ++ House of Representatives - last held on 18 May 2019 (next to be held in 2022)"
+        "text": "<br />Senate - last held on 18 May 2019 (next to be held&nbsp;in 2022)<br />House of Representatives - last held on 18 May 2019 (next to be held in 2022)"
       },
       "election results": {
-        "text": "Senate - percent of vote by party - Liberal/National coalition 37.99%, ALP 28.79%, The Greens 10.19%, One Nation 5.4%, Centre Alliance .19%, Lambie Network .21%, other 17.23%; seats by party - Liberal/National coalition 35, ALP 26, The Greens 9, One Nation 2, Centre Alliance 2, Lambie Network 1, independents 1 ++ House of Representatives - percent of vote by party - Liberal/National coalition 41.4%, ALP 33.3%, The Greens 10.4%, Katter's Australian Party .49%, Centre Alliance .33%, independents 3.37%, other 10.63%; seats by party - Liberal/National Coalition 77, ALP 68, The Greens 1, Katter's Australian Party 1, Centre Alliance 1, independent 3"
+        "text": "<br />Senate - percent of vote by party - Liberal/National coalition 37.99%, ALP 28.79%, The Greens 10.19%, One Nation 5.4%, Centre Alliance .19%, Lambie Network .21%, other 17.23%; seats by party - Liberal/National coalition 35, ALP 26, The Greens 9, One Nation 2, Centre Alliance 2, Lambie Network 1, independents 1<br />House of Representatives - percent of vote by party - Liberal/National coalition 41.4%, ALP 33.3%, The Greens 10.4%, Katter's Australian Party .49%, Centre Alliance .33%, independents 3.37%, other 10.63%; seats by party - Liberal/National Coalition 77, ALP 68, The Greens 1, Katter's Australian Party 1, Centre Alliance 1, independent 3"
       }
     },
     "Judicial branch": {
@@ -442,18 +446,18 @@
         "text": "justices appointed by the governor-general in council for life with mandatory retirement at age 70"
       },
       "subordinate courts": {
-        "text": "at the federal level: Federal Court; Federal Magistrates' Courts of Australia; Family Court; at the state and territory level: Local Court - New South Wales; Magistrates' Courts – Victoria, Queensland, South Australia, Western Australia, Tasmania, Northern Territory, Australian Capital Territory; District Courts – New South Wales, Queensland, South Australia, Western Australia; County Court – Victoria; Family Court – Western Australia; Court of Petty Sessions – Norfolk Island"
+        "text": "<em>at the federal level:</em> Federal Court; Federal Magistrates' Courts of Australia; Family Court; <em>at the state and territory level:</em> Local Court - New South Wales; Magistrates' Courts &ndash; Victoria, Queensland, South Australia, Western Australia, Tasmania, Northern Territory, Australian Capital Territory; District Courts &ndash; New South Wales, Queensland, South Australia, Western Australia; County Court &ndash; Victoria; Family Court &ndash; Western Australia; Court of Petty Sessions &ndash; Norfolk Island"
       }
     },
     "Political parties and leaders": {
-      "text": "Australian Greens Party [Adam BANDT] ++ Australian Labor Party or ALP [Anthony ALBANESE] ++ Country Liberal Party or CLP [Gary HIGGINS] ++ Liberal National Party of Queensland or LNP [Deborah FRECKLINGTON] ++ Liberal Party of Australia [Scott MORRISON] ++ The Nationals [Michael MCCORMACK] ++ Centre Alliance [Nick XENOPHON] ++ Pauline Hanson's One Nation [Pauline HANSON]"
+      "text": "Australian Greens Party [Adam BANDT]<br />Australian Labor Party or ALP [Anthony ALBANESE]<br />Country Liberal Party or CLP [Gary HIGGINS]<br />Liberal National Party of Queensland or LNP [Deborah FRECKLINGTON]<br />Liberal Party of Australia [Scott MORRISON]<br />The Nationals [Michael MCCORMACK]<br />Centre Alliance [Nick XENOPHON] <br />Pauline Hanson&rsquo;s One Nation [Pauline HANSON]"
     },
     "International organization participation": {
       "text": "ADB, ANZUS, APEC, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CP, EAS, EBRD, EITI (implementing country), FAO, FATF, G-20, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NEA, NSG, OECD, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, PIF, SAARC (observer), SICA (observer), Sparteca, SPC, UN, UNCTAD, UNESCO, UNHCR, UNMISS, UNMIT, UNRWA, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
     },
     "Diplomatic representation in the US": {
       "chief of mission": {
-        "text": "Ambassador Arthur SINODINOS (since 6 February 2020)"
+        "text": "Ambassador <span style=\"margin: 0px; line-height: 107%; font-family: 'Times New Roman',serif; font-size: 12pt;\">Arthur SINODINOS </span>(since 6 February 2020)"
       },
       "chancery": {
         "text": "1601 Massachusetts Avenue NW, Washington, DC 20036"
@@ -501,20 +505,34 @@
       "lyrics/music": {
         "text": "Peter Dodds McCORMICK"
       },
-      "note": "note: adopted 1984; although originally written in the late 19th century, the anthem was not used for all official occasions until 1984; as a Commonwealth country, in addition to the national anthem, \"God Save the Queen\" serves as the royal anthem (see United Kingdom)"
+      "note": "<p><strong>note:</strong> adopted 1984; although originally written in the late 19th century, the anthem was not used for all official occasions until 1984; as a Commonwealth country, in addition to the national anthem, \"God Save the Queen\" serves as the royal anthem (see United Kingdom)</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "Australia is an open market with minimal restrictions on imports of goods and services. The process of opening up has increased productivity, stimulated growth, and made the economy more flexible and dynamic. Australia plays an active role in the WTO, APEC, the G20, and other trade forums. Australia's free trade agreement (FTA) with China entered into force in 2015, adding to existing FTAs with the Republic of Korea, Japan, Chile, Malaysia, New Zealand, Singapore, Thailand, and the US, and a regional FTA with ASEAN and New Zealand. Australia continues to negotiate bilateral agreements with Indonesia, as well as larger agreements with its Pacific neighbors and the Gulf Cooperation Council countries, and an Asia-wide Regional Comprehensive Economic Partnership that includes the 10 ASEAN countries and China, Japan, Korea, New Zealand, and India. ++ Australia is a significant exporter of natural resources, energy, and food. Australia's abundant and diverse natural resources attract high levels of foreign investment and include extensive reserves of coal, iron, copper, gold, natural gas, uranium, and renewable energy sources. A series of major investments, such as the US$40 billion Gorgon Liquid Natural Gas Project, will significantly expand the resources sector. ++ For nearly two decades up till 2017, Australia had benefited from a dramatic surge in its terms of trade. As export prices increased faster than import prices, the economy experienced continuous growth, low unemployment, contained inflation, very low public debt, and a strong and stable financial system. Australia entered 2018 facing a range of growth constraints, principally driven by the sharp fall in global prices of key export commodities. Demand for resources and energy from Asia and especially China is growing at a slower pace and sharp drops in export prices have impacted growth."
+      "text": "<p>Australia is an open market with minimal restrictions on imports of goods and services. The process of opening up has increased productivity, stimulated growth, and made the economy more flexible and dynamic. Australia plays an active role in the WTO, APEC, the G20, and other trade forums. Australia’s free trade agreement (FTA) with China entered into force in 2015, adding to existing FTAs with the Republic of Korea, Japan, Chile, Malaysia, New Zealand, Singapore, Thailand, and the US, and a regional FTA with ASEAN and New Zealand. Australia continues to negotiate bilateral agreements with Indonesia, as well as larger agreements with its Pacific neighbors and the Gulf Cooperation Council countries, and an Asia-wide Regional Comprehensive Economic Partnership that includes the 10 ASEAN countries and China, Japan, Korea, New Zealand, and India.</p><p></p><p>Australia is a significant exporter of natural resources, energy, and food. Australia's abundant and diverse natural resources attract high levels of foreign investment and include extensive reserves of coal, iron, copper, gold, natural gas, uranium, and renewable energy sources. A series of major investments, such as the US$40 billion Gorgon Liquid Natural Gas Project, will significantly expand the resources sector.</p><p></p><p>For nearly two decades up till 2017, Australia had benefited from a dramatic surge in its terms of trade. As export prices increased faster than import prices, the economy experienced continuous growth, low unemployment, contained inflation, very low public debt, and a strong and stable financial system. Australia entered 2018 facing a range of growth constraints, principally driven by the sharp fall in global prices of key export commodities. Demand for resources and energy from Asia and especially China is growing at a slower pace and sharp drops in export prices have impacted growth.</p>"
     },
-    "GDP real growth rate": {
-      "text": "1.84% (2019 est.) / 2.77% (2018 est.) / 2.45% (2017 est.)",
-      "country comparison to the world": 146
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2019": {
+        "text": "1.84% (2019 est.)"
+      },
+      "Real GDP growth rate 2018": {
+        "text": "2.77% (2018 est.)"
+      },
+      "Real GDP growth rate 2017": {
+        "text": "2.45% (2017 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "1.6% (2019 est.) / 1.9% (2018 est.) / 1.9% (2017 est.)",
-      "country comparison to the world": 93
+      "Inflation rate (consumer prices) 2019": {
+        "text": "1.6% (2019 est.)"
+      },
+      "Inflation rate (consumer prices) 2018": {
+        "text": "1.9% (2018 est.)"
+      },
+      "Inflation rate (consumer prices) 2017": {
+        "text": "1.9% (2017 est.)"
+      }
     },
     "Credit ratings": {
       "Fitch rating": {
@@ -527,21 +545,43 @@
         "text": "AAA (2003)"
       }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$1,143,419,000,000 (2019 est.) / $1,121,637,000,000 (2018 est.) / $1,090,642,000,000 (2017 est.)",
-      "note": "note: data are in 2010 dollars"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2019": {
+        "text": "$1,143,419,000,000 (2019 est.)"
+      },
+      "Real GDP (purchasing power parity) 2018": {
+        "text": "$1,121,637,000,000 (2018 est.)"
+      },
+      "Real GDP (purchasing power parity) 2017": {
+        "text": "$1,090,642,000,000 (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
     },
     "GDP (official exchange rate)": {
       "text": "$1,390,790,000,000 (2019 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$62,753 (2019 est.) / $62,311 (2018 est.) / $61,362 (2017 est.)",
-      "note": "note: data are in 2010 dollars",
-      "country comparison to the world": 15
+    "Real GDP per capita": {
+      "Real GDP per capita 2019": {
+        "text": "$62,753 (2019 est.)"
+      },
+      "Real GDP per capita 2018": {
+        "text": "$62,311 (2018 est.)"
+      },
+      "Real GDP per capita 2017": {
+        "text": "$61,362 (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
     },
     "Gross national saving": {
-      "text": "21% of GDP (2017 est.) / 20.5% of GDP (2016 est.) / 21.5% of GDP (2015 est.)",
-      "country comparison to the world": 88
+      "Gross national saving 2017": {
+        "text": "21% of GDP (2017 est.)"
+      },
+      "Gross national saving 2016": {
+        "text": "20.5% of GDP (2016 est.)"
+      },
+      "Gross national saving 2015": {
+        "text": "21.5% of GDP (2015 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -575,21 +615,21 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "text": "79.0 (2020)"
+      "Overall Ease of Doing Business score 2020": {
+        "text": "79.0 (2020)"
+      }
     },
-    "Agriculture - products": {
-      "text": "wheat, barley, sugarcane, fruits; cattle, sheep, poultry"
+    "Agricultural products": {
+      "text": "sugar cane, wheat, barley, milk, rapeseed, beef, cotton, grapes, poultry, potatoes"
     },
     "Industries": {
       "text": "mining, industrial and transportation equipment, food processing, chemicals, steel"
     },
     "Industrial production growth rate": {
-      "text": "1.4% (2017 est.)",
-      "country comparison to the world": 144
+      "text": "1.4% (2017 est.)"
     },
     "Labor force": {
-      "text": "12.568 million (2020 est.)",
-      "country comparison to the world": 43
+      "text": "12.568 million (2020 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -603,11 +643,23 @@
       }
     },
     "Unemployment rate": {
-      "text": "5.16% (2019 est.) / 5.29% (2018 est.)",
-      "country comparison to the world": 83
+      "Unemployment rate 2019": {
+        "text": "5.16% (2019 est.)"
+      },
+      "Unemployment rate 2018": {
+        "text": "5.29% (2018 est.)"
+      }
     },
     "Population below poverty line": {
       "text": "NA"
+    },
+    "Gini Index coefficient - distribution of family income": {
+      "Gini Index coefficient - distribution of family income 2014": {
+        "text": "34.4 (2014 est.)"
+      },
+      "Gini Index coefficient - distribution of family income 1994": {
+        "text": "35.2 (1994)"
+      }
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
@@ -626,27 +678,40 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "35.5% (of GDP) (2017 est.)",
-      "country comparison to the world": 61
+      "text": "35.5% (of GDP) (2017 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-0.5% (of GDP) (2017 est.)",
-      "country comparison to the world": 60
+      "text": "-0.5% (of GDP) (2017 est.)"
     },
     "Public debt": {
-      "text": "40.8% of GDP (2017 est.) / 40.6% of GDP (2016 est.)",
-      "country comparison to the world": 123
+      "Public debt 2017": {
+        "text": "40.8% of GDP (2017 est.)"
+      },
+      "Public debt 2016": {
+        "text": "40.6% of GDP (2016 est.)"
+      }
     },
     "Fiscal year": {
       "text": "1 July - 30 June"
     },
     "Current account balance": {
-      "text": "$8.146 billion (2019 est.) / -$29.777 billion (2018 est.)",
-      "country comparison to the world": 27
+      "Current account balance 2019": {
+        "text": "$8.146 billion (2019 est.)"
+      },
+      "Current account balance 2018": {
+        "text": "-$29.777 billion (2018 est.)"
+      }
     },
     "Exports": {
-      "text": "$404.562 billion (2019 est.) / $391.563 billion (2018 est.) / $372.516 billion (2017 est.)",
-      "country comparison to the world": 20
+      "Exports 2019": {
+        "text": "$404.562 billion (2019 est.)"
+      },
+      "Exports 2018": {
+        "text": "$391.563 billion (2018 est.)"
+      },
+      "Exports 2017": {
+        "text": "$372.516 billion (2017 est.)"
+      }
     },
     "Exports - partners": {
       "text": "China 33.5%, Japan 14.6%, South Korea 6.6%, India 5%, Hong Kong 4% (2017)"
@@ -655,25 +720,57 @@
       "text": "iron ore, coal, gold, natural gas, beef, aluminum ores and conc, wheat, meat (excluding beef), wool, alumina, alcohol"
     },
     "Imports": {
-      "text": "$334.279 billion (2019 est.) / $337.716 billion (2018 est.) / $324.644 billion (2017 est.)",
-      "country comparison to the world": 22
-    },
-    "Imports - commodities": {
-      "text": "motor vehicles, refined petroleum, telecommunication equipment and parts; crude petroleum, medicaments, goods vehicles, gold, computers"
+      "Imports 2019": {
+        "text": "$334.279 billion (2019 est.)"
+      },
+      "Imports 2018": {
+        "text": "$337.716 billion (2018 est.)"
+      },
+      "Imports 2017": {
+        "text": "$324.644 billion (2017 est.)"
+      }
     },
     "Imports - partners": {
       "text": "China 22.9%, US 10.8%, Japan 7.5%, Thailand 5.1%, Germany 4.9%, South Korea 4.5% (2017)"
     },
+    "Imports - commodities": {
+      "text": "motor vehicles, refined petroleum, telecommunication equipment and parts; crude petroleum, medicaments, goods vehicles, gold, computers"
+    },
     "Reserves of foreign exchange and gold": {
-      "text": "$66.58 billion (31 December 2017 est.) / $55.07 billion (31 December 2016 est.)",
-      "country comparison to the world": 33
+      "Reserves of foreign exchange and gold 31 December 2017": {
+        "text": "$66.58 billion (31 December 2017 est.)"
+      },
+      "Reserves of foreign exchange and gold 31 December 2016": {
+        "text": "$55.07 billion (31 December 2016 est.)"
+      }
     },
     "Debt - external": {
-      "text": "$1.714 trillion (31 December 2017 est.) / $1.547 trillion (31 December 2016 est.)",
-      "country comparison to the world": 11
+      "Debt - external 31 December 2017": {
+        "text": "$1.714 trillion (31 December 2017 est.)"
+      },
+      "Debt - external 31 December 2016": {
+        "text": "$1.547 trillion (31 December 2016 est.)"
+      }
     },
     "Exchange rates": {
-      "text": "Australian dollars (AUD) per US dollar - / 1.34048 (2020 est.) / 1.46402 (2019 est.) / 1.38552 (2018 est.) / 1.3291 (2014 est.) / 1.1094 (2013 est.)"
+      "currency": {
+        "text": "Australian dollars (AUD) per US dollar -"
+      },
+      "Exchange rates 2020": {
+        "text": "1.34048 (2020 est.)"
+      },
+      "Exchange rates 2019": {
+        "text": "1.46402 (2019 est.)"
+      },
+      "Exchange rates 2018": {
+        "text": "1.38552 (2018 est.)"
+      },
+      "Exchange rates 2014": {
+        "text": "1.3291 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "1.1094 (2013 est.)"
+      }
     }
   },
   "Energy": {
@@ -683,96 +780,73 @@
       }
     },
     "Electricity - production": {
-      "text": "243 billion kWh (2016 est.)",
-      "country comparison to the world": 19
+      "text": "243 billion kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "229.4 billion kWh (2016 est.)",
-      "country comparison to the world": 19
+      "text": "229.4 billion kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 101
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - imports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 122
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "65.56 million kW (2016 est.)",
-      "country comparison to the world": 18
+      "text": "65.56 million kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "72% of total installed capacity (2016 est.)",
-      "country comparison to the world": 100
+      "text": "72% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 40
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "11% of total installed capacity (2017 est.)",
-      "country comparison to the world": 113
+      "text": "11% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "17% of total installed capacity (2017 est.)",
-      "country comparison to the world": 49
+      "text": "17% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "284,000 bbl/day (2018 est.)",
-      "country comparison to the world": 31
+      "text": "284,000 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "192,500 bbl/day (2017 est.)",
-      "country comparison to the world": 31
+      "text": "192,500 bbl/day (2017 est.)"
     },
     "Crude oil - imports": {
-      "text": "341,700 bbl/day (2017 est.)",
-      "country comparison to the world": 24
+      "text": "341,700 bbl/day (2017 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "1.821 billion bbl (1 January 2018 est.)",
-      "country comparison to the world": 35
+      "text": "1.821 billion bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "462,500 bbl/day (2017 est.)",
-      "country comparison to the world": 35
+      "text": "462,500 bbl/day (2017 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "1.175 million bbl/day (2017 est.)",
-      "country comparison to the world": 20
+      "text": "1.175 million bbl/day (2017 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "64,120 bbl/day (2017 est.)",
-      "country comparison to the world": 48
+      "text": "64,120 bbl/day (2017 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "619,600 bbl/day (2017 est.)",
-      "country comparison to the world": 12
+      "text": "619,600 bbl/day (2017 est.)"
     },
     "Natural gas - production": {
-      "text": "105.2 billion cu m (2017 est.)",
-      "country comparison to the world": 9
+      "text": "105.2 billion cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "45.25 billion cu m (2017 est.)",
-      "country comparison to the world": 19
+      "text": "45.25 billion cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "67.96 billion cu m (2017 est.)",
-      "country comparison to the world": 6
+      "text": "67.96 billion cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "5.776 billion cu m (2017 est.)",
-      "country comparison to the world": 33
+      "text": "5.776 billion cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "1.989 trillion cu m (1 January 2018 est.)",
-      "country comparison to the world": 17
+      "text": "1.989 trillion cu m (1 January 2018 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "439.1 million Mt (2017 est.)",
-      "country comparison to the world": 15
+      "text": "439.1 million Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -782,8 +856,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "31.03 (2019 est.)"
-      },
-      "country comparison to the world": 20
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -791,8 +864,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "110.62 (2019 est.)"
-      },
-      "country comparison to the world": 47
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
@@ -802,9 +874,9 @@
         "text": "31 per 100 fixed-line, 111 per 100 mobile-cellular; more subscribers to mobile services than there are people; 90% of all mobile device sales are now smartphones, growth in mobile traffic brisk (2019)"
       },
       "international": {
-        "text": "country code - 61; landing points for more than 20 submarine cables including: the SeaMeWe-3 optical telecommunications submarine cable with links to Asia, the Middle East, and Europe; the INDIGO-Central, INDIGO West and ASC, North West Cable System, Australia-Papua New Guinea cable, CSCS, PPC-1, Gondwana-1, SCCN, Hawaiki, TGA, Basslink, Bass Strait-1, Bass Strait-2, JGA-S, with links to other Australian cities, New Zealand and many countries in southeast Asia, US and Europe; the H2 Cable, AJC, Telstra Endeavor, Southern Cross NEXT with links to Japan, Hong Kong, and other Pacific Ocean countries as well as the US; satellite earth stations - 10 Intelsat (4 Indian Ocean and 6 Pacific Ocean), 2 Inmarsat, 2 Globalstar, 5 other (2019)"
+        "text": "country code - 61; landing points for&nbsp;more than&nbsp;20 submarine cables including: the SeaMeWe-3 optical telecommunications submarine cable with links to Asia, the Middle East, and Europe; the INDIGO-Central, INDIGO West and ASC, North West Cable System, Australia-Papua New Guinea cable, CSCS, PPC-1, Gondwana-1, SCCN, Hawaiki, TGA, Basslink, Bass Strait-1, Bass Strait-2, JGA-S, with links to other Australian cities, New Zealand&nbsp;and many countries in southeast Asia, US and Europe; the H2 Cable, AJC, Telstra Endeavor, Southern Cross NEXT with links to Japan, Hong Kong, and other Pacific Ocean countries as well as the US; satellite earth stations - 10 Intelsat (4 Indian Ocean and 6 Pacific Ocean), 2 Inmarsat, 2 Globalstar, 5 other (2019)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note</strong>: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "the Australian Broadcasting Corporation (ABC) runs multiple national and local radio networks and TV stations, as well as Australia Network, a TV service that broadcasts throughout the Asia-Pacific region and is the main public broadcaster; Special Broadcasting Service (SBS), a second large public broadcaster, operates radio and TV networks broadcasting in multiple languages; several large national commercial TV networks, a large number of local commercial TV stations, and hundreds of commercial radio stations are accessible; cable and satellite systems are available"
@@ -818,8 +890,7 @@
       },
       "percent of population": {
         "text": "86.55% (July 2018 est.)"
-      },
-      "country comparison to the world": 35
+      }
     },
     "Broadband - fixed subscriptions": {
       "total": {
@@ -827,8 +898,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "31 (2018 est.)"
-      },
-      "country comparison to the world": 22
+      }
     }
   },
   "Transportation": {
@@ -850,8 +920,9 @@
       "text": "VH (2016)"
     },
     "Airports": {
-      "text": "418 (2020)",
-      "country comparison to the world": 19
+      "total": {
+        "text": "418 (2020)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -905,8 +976,7 @@
       },
       "broad gauge": {
         "text": "3,247 km 1.600-m gauge (372 km electrified) (2015)"
-      },
-      "country comparison to the world": 8
+      }
     },
     "Roadways": {
       "total": {
@@ -917,21 +987,18 @@
       },
       "non-urban": {
         "text": "727,645 km (2015)"
-      },
-      "country comparison to the world": 9
+      }
     },
     "Waterways": {
-      "text": "2,000 km (mainly used for recreation on Murray and Murray-Darling River systems) (2011)",
-      "country comparison to the world": 42
+      "text": "2,000 km (mainly used for recreation on Murray and Murray-Darling River systems) (2011)"
     },
     "Merchant marine": {
       "total": {
-        "text": "579"
+        "text": "581"
       },
       "by type": {
-        "text": "bulk carrier 4general cargo 80, oil tanker 7, other 488 (2019)"
-      },
-      "country comparison to the world": 39
+        "text": "bulk carrier 3, general cargo 78, oil tanker 6, other 494 (2020)"
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -941,7 +1008,7 @@
         "text": "Melbourne (2,806,436), Sydney (2,530,122) (2017)"
       },
       "LNG terminal(s) (export)": {
-        "text": "Australia Pacific, Barrow Island, Burrup (Pluto), Curtis Island, Darwin, Karratha, Bladin Point (Ichthys), Gladstone, Prelude (offshore FLNG), Wheatstone"
+        "text": "Australia Pacific, Barrow Island, Burrup (Pluto), Curtis Island, Darwin, Karratha, Bladin Point (Ichthys), Gladstone,&nbsp;Prelude (offshore FLNG), Wheatstone"
       },
       "dry bulk cargo port(s)": {
         "text": "Dampier (iron ore), Dalrymple Bay (coal), Hay Point (coal), Port Hedland (iron ore), Port Walcott (iron ore)"
@@ -953,8 +1020,21 @@
       "text": "Australian Defense Force (ADF): Australian Army (includes Special Operations Command), Royal Australian Navy (includes Naval Aviation Force), Royal Australian Air Force, Joint Operations Command (JOC) (2019)"
     },
     "Military expenditures": {
-      "text": "1.9% of GDP (2019) / 1.9% of GDP (2018) / 2% of GDP (2017) / 2.1% of GDP (2016) / 2% of GDP (2015)",
-      "country comparison to the world": 54
+      "Military Expenditures 2019": {
+        "text": "1.9% of GDP (2019)"
+      },
+      "Military Expenditures 2018": {
+        "text": "1.9% of GDP (2018)"
+      },
+      "Military Expenditures 2017": {
+        "text": "2% of GDP (2017)"
+      },
+      "Military Expenditures 2016": {
+        "text": "2.1% of GDP (2016)"
+      },
+      "Military Expenditures 2015": {
+        "text": "2% of GDP (2015)"
+      }
     },
     "Military and security service personnel strengths": {
       "text": "the Australian Defense Force has approximately 60,000 total active troops (30,800 Army; 14,700 Navy; 14,300 Air Force) (2019 est.)"
@@ -972,12 +1052,12 @@
   "Terrorism": {
     "Terrorist group(s)": {
       "text": "Islamic State of Iraq and ash-Sham (2020)",
-      "note": "note: details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T"
+      "note": "<p><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in <a title=\"Appendix-T\" href=\"../appendix/appendix-t.html\">Appendix-T</a></p>"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "In 2007, Australia and Timor-Leste agreed to a 50-year development zone and revenue sharing arrangement and deferred a maritime boundary; Australia asserts land and maritime claims to Antarctica; Australia's 2004 submission to the Commission on the Limits of the Continental Shelf extends its continental margins over 3.37 million square kilometers, expanding its seabed roughly 30 percent beyond its claimed EEZ; all borders between Indonesia and Australia have been agreed upon bilaterally, but a 1997 treaty that would settle the last of their maritime and EEZ boundary has yet to be ratified by Indonesia's legislature; Indonesian groups challenge Australia's claim to Ashmore Reef; Australia closed parts of the Ashmore and Cartier reserve to Indonesian traditional fishing"
+      "text": "<p>In 2007, Australia and Timor-Leste agreed to a 50-year development zone and revenue sharing arrangement and deferred a maritime boundary; Australia asserts land and maritime claims to Antarctica; Australia's 2004 submission to the Commission on the Limits of the Continental Shelf extends its continental margins over 3.37 million square kilometers, expanding its seabed roughly 30 percent beyond its claimed EEZ; all borders between Indonesia and Australia have been agreed upon bilaterally, but a 1997 treaty that would settle the last of their maritime and EEZ boundary has yet to be ratified by Indonesia's legislature; Indonesian groups challenge Australia's claim to Ashmore Reef; Australia closed parts of the Ashmore and Cartier reserve to Indonesian traditional fishing</p>"
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {

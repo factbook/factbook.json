@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "Once the seat of Viking raiders and later a major north European power, Denmark has evolved into a modern, prosperous nation that is participating in the general political and economic integration of Europe. It joined NATO in 1949 and the EEC (now the EU) in 1973. However, the country has opted out of certain elements of the EU's Maastricht Treaty, including the European Economic and Monetary Union, European defense cooperation, and issues concerning certain justice and home affairs."
+      "text": "<p>Once the seat of Viking raiders and later a major north European power, Denmark has evolved into a modern, prosperous nation that is participating in the general political and economic integration of Europe. It joined NATO in 1949 and the EEC (now the EU) in 1973. However, the country has opted out of certain elements of the EU's Maastricht Treaty, including the European Economic and Monetary Union, European defense cooperation, and issues concerning certain justice and home affairs.</p>"
     }
   },
   "Geography": {
@@ -24,8 +24,7 @@
       "water": {
         "text": "660 sq km"
       },
-      "note": "note: includes the island of Bornholm in the Baltic Sea and the rest of metropolitan Denmark (the Jutland Peninsula, and the major islands of Sjaelland and Fyn), but excludes the Faroe Islands and Greenland",
-      "country comparison to the world": 133
+      "note": "<p><strong>note:</strong> includes the island of Bornholm in the Baltic Sea and the rest of metropolitan Denmark (the Jutland Peninsula, and the major islands of Sjaelland and Fyn), but excludes the Faroe Islands and Greenland</p>"
     },
     "Area - comparative": {
       "text": "slightly less than twice the size of Massachusetts; about two-thirds the size of West Virginia"
@@ -45,11 +44,11 @@
       "territorial sea": {
         "text": "12 nm"
       },
-      "exclusive economic zone": {
-        "text": "200 nm"
-      },
       "contiguous zone": {
         "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
       },
       "continental shelf": {
         "text": "200-m depth or to the depth of exploitation"
@@ -79,8 +78,14 @@
       "agricultural land": {
         "text": "63.4% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "58.9% (2011 est.) / 0.1% (2011 est.) / 4.4% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 58.9% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 0.1% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 4.4% (2011 est.)"
       },
       "forest": {
         "text": "12.9% (2011 est.)"
@@ -88,7 +93,7 @@
       "other": {
         "text": "23.7% (2011 est.)"
       },
-      "note": "note: highest percentage of arable land for any country in the world"
+      "note": "<p><strong>note:</strong> highest percentage of arable land for any country in the world</p>"
     },
     "Irrigated land": {
       "text": "4,350 sq km (2012)"
@@ -116,8 +121,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "5,869,410 (July 2020 est.)",
-      "country comparison to the world": 115
+      "text": "5,894,687 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -129,11 +133,11 @@
     },
     "Ethnic groups": {
       "text": "Danish (includes Greenlandic (who are predominantly Inuit) and Faroese) 86.3%, Turkish 1.1%, other 12.6% (largest groups are Polish, Syrian, German, Iraqi, and Romanian) (2018 est.)",
-      "note": "note: data represent population by ancestry"
+      "note": "<p><strong>note:</strong> data represent population by ancestry</p>"
     },
     "Languages": {
       "text": "Danish, Faroese, Greenlandic (an Inuit dialect), German (small minority)",
-      "note": "note: English is the predominant second language"
+      "note": "<p><strong>note:</strong> English is the predominant second language</p>"
     },
     "Religions": {
       "text": "Evangelical Lutheran (official) 74.7%, Muslim 5.5%, other/none/unspecified (denominations of less than 1% each in descending order of size include Roman Catholic, Jehovah's Witness, Serbian Orthodox Christian, Jewish, Baptist, Buddhist, Mormon, Pentecostal, and nondenominational Christian) 19.8% (2019 est.)"
@@ -178,24 +182,19 @@
       },
       "female": {
         "text": "43.1 years (2020 est.)"
-      },
-      "country comparison to the world": 38
+      }
     },
     "Population growth rate": {
-      "text": "0.48% (2020 est.)",
-      "country comparison to the world": 156
+      "text": "0.44% (2021 est.)"
     },
     "Birth rate": {
-      "text": "11.1 births/1,000 population (2020 est.)",
-      "country comparison to the world": 177
+      "text": "11.17 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "9.5 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 45
+      "text": "9.5 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "2.8 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 38
+      "text": "2.74 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "with excellent access to the North Sea, Skagerrak, Kattegat, and the Baltic Sea, population centers tend to be along coastal areas, particularly in Copenhagen and the eastern side of the country's mainland"
@@ -238,43 +237,51 @@
       "text": "29.2 years (2017 est.)"
     },
     "Maternal mortality rate": {
-      "text": "4 deaths/100,000 live births (2017 est.)",
-      "country comparison to the world": 172
+      "text": "4 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "3.2 deaths/1,000 live births"
+        "text": "3.09 deaths/1,000 live births"
       },
       "male": {
-        "text": "3.6 deaths/1,000 live births"
+        "text": "3.54 deaths/1,000 live births"
       },
       "female": {
-        "text": "2.7 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 209
+        "text": "2.6 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "81.2 years"
+        "text": "81.45 years"
       },
       "male": {
-        "text": "79.3 years"
+        "text": "79.52 years"
       },
       "female": {
-        "text": "83.3 years (2020 est.)"
-      },
-      "country comparison to the world": 35
+        "text": "83.51 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "1.78 children born/woman (2020 est.)",
-      "country comparison to the world": 150
+      "text": "1.77 children born/woman (2021 est.)"
     },
     "Drinking water source": {
-      "improved": {
-        "text": "urban: 100% of population / rural: 100% of population / total: 100% of population"
+      "improved: urban": {
+        "text": "urban: 100% of population"
       },
-      "unimproved": {
-        "text": "urban: 0% of population / rural: 0% of population / total: 0% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 100% of population"
+      },
+      "improved: total": {
+        "text": "total: 100% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 0% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 0% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 0% of population (2017 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -287,31 +294,39 @@
       "text": "2.6 beds/1,000 population (2017)"
     },
     "Sanitation facility access": {
-      "improved": {
-        "text": "urban: 100% of population / rural: 100% of population / total: 100% of population"
+      "improved: urban": {
+        "text": "urban: 100% of population"
       },
-      "unimproved": {
-        "text": "urban: 0% of population / rural: 0% of population / total: 0% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 100% of population"
+      },
+      "improved: total": {
+        "text": "total: 100% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 0% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 0% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 0% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "0.1% (2018 est.)",
-      "country comparison to the world": 121
+      "text": "0.1% (2018 est.)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
-      "text": "6,200 (2018 est.)",
-      "country comparison to the world": 117
+      "text": "6,200 (2018 est.)"
     },
     "HIV/AIDS - deaths": {
       "text": "<100 (2018 est.)"
     },
     "Obesity - adult prevalence rate": {
-      "text": "19.7% (2016)",
-      "country comparison to the world": 109
+      "text": "19.7% (2016)"
     },
     "Education expenditures": {
-      "text": "7.8% of GDP (2017)",
-      "country comparison to the world": 6
+      "text": "7.8% of GDP (2017)"
     },
     "School life expectancy (primary to tertiary education)": {
       "total": {
@@ -333,8 +348,7 @@
       },
       "female": {
         "text": "8.2% (2018 est.)"
-      },
-      "country comparison to the world": 130
+      }
     }
   },
   "Government": {
@@ -371,7 +385,7 @@
       "daylight saving time": {
         "text": "+1hr, begins last Sunday in March; ends last Sunday in October; note - applies to continental Denmark only, not to its North Atlantic components"
       },
-      "note": "etymology: name derives from the city's Danish appellation Kobenhavn, meaning \"Merchant's Harbor\" ++"
+      "note": "<p><strong>etymology: </strong>name derives from the city's Danish appellation Kobenhavn, meaning \"Merchant's Harbor\" <strong><br /></strong></p>"
     },
     "Administrative divisions": {
       "text": "metropolitan Denmark - 5 regions (regioner, singular - region); Hovedstaden (Capital), Midtjylland (Central Jutland), Nordjylland (North Jutland), Sjaelland (Zealand), Syddanmark (Southern Denmark)"
@@ -450,7 +464,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "The Alternative A or AP (vacant) ++ Conservative People's Party or DKF or C [Soren PAPE POULSEN] ++ Danish People's Party or DF or O [Kristian THULESEN DAHL] ++ Liberal Alliance or LA [Alex VANOPSLAGH] ++ Liberal Party (Venstre) or V [Jakob ELLEMAN-JENSEN] ++ New Right Party or D or NB [Pernille VERMUND] ++ Red-Green Alliance (Unity List) or EL [collective leadership, Pernille SKIPPER, spokesperson] ++ Social Democrats or A or SDP [Mette FREDERIKSEN] ++ Social Liberal Party or B or SLP [Sofie CARSTEN] ++ Socialist People's Party or SF [Pia OLSEN DYHR]"
+      "text": "The Alternative A or AP (vacant)<br />Conservative People's Party or DKF or C [Soren PAPE POULSEN]<br />Danish People's Party or DF or O [Kristian THULESEN DAHL]<br />Liberal Alliance or LA [Alex VANOPSLAGH]<br />Liberal Party (Venstre) or V [Jakob ELLEMAN-JENSEN]<br />New Right Party or D or NB [Pernille VERMUND]<br />Red-Green Alliance (Unity List) or EL [collective leadership, Pernille SKIPPER, spokesperson]<br />Social Democrats or A or SDP [Mette FREDERIKSEN]<br />Social Liberal Party or B or SLP [Sofie CARSTEN]<br />Socialist People's Party or SF [Pia OLSEN DYHR]"
     },
     "International organization participation": {
       "text": "ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNRWA, UNTSO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC"
@@ -491,7 +505,7 @@
     },
     "Flag description": {
       "text": "red with a white cross that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side; the banner is referred to as the Dannebrog (Danish flag) and is one of the oldest national flags in the world; traditions as to the origin of the flag design vary, but the best known is a legend that the banner fell from the sky during an early-13th century battle; caught up by the Danish king before it ever touched the earth, this heavenly talisman inspired the royal army to victory; in actuality, the flag may derive from a crusade banner or ensign",
-      "note": "note: the shifted cross design element was subsequently adopted by the other Nordic countries of Finland, Iceland, Norway, and Sweden"
+      "note": "<p><strong>note:</strong> the shifted cross design element was subsequently adopted by the other Nordic countries of Finland, Iceland, Norway, and Sweden</p>"
     },
     "National symbol(s)": {
       "text": "lion, mute swan; national colors: red, white"
@@ -503,20 +517,34 @@
       "lyrics/music": {
         "text": "Adam Gottlob OEHLENSCHLAGER/Hans Ernst KROYER; Johannes EWALD/unknown"
       },
-      "note": "note: Denmark has two national anthems with equal status; \"Der er et yndigt land,\" adopted 1844, is a national anthem, while \"Kong Christian,\" adopted 1780, serves as both a national and royal anthem; \"Kong Christian\" is also known as \"Kong Christian stod ved hojen mast\" (King Christian Stood by the Lofty Mast) and \"Kongesangen\" (The King's Anthem); within Denmark, the royal anthem is played only when royalty is present and is usually followed by the national anthem; when royalty is not present, only the national anthem is performed; outside Denmark, the royal anthem is played, unless the national anthem is requested"
+      "note": "<p><strong>note:</strong> Denmark has two national anthems with equal status; \"Der er et yndigt land,\" adopted 1844, is a national anthem, while \"Kong Christian,\" adopted 1780, serves as both a national and royal anthem; \"Kong Christian\" is also known as \"Kong Christian stod ved hojen mast\" (King Christian Stood by the Lofty Mast) and \"Kongesangen\" (The King's Anthem); within Denmark, the royal anthem is played only when royalty is present and is usually followed by the national anthem; when royalty is not present, only the national anthem is performed; outside Denmark, the royal anthem is played, unless the national anthem is requested</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "This thoroughly modern market economy features advanced industry with world-leading firms in pharmaceuticals, maritime shipping, and renewable energy, and a high-tech agricultural sector. Danes enjoy a high standard of living, and the Danish economy is characterized by extensive government welfare measures and an equitable distribution of income. An aging population will be a long-term issue. ++ Denmark's small open economy is highly dependent on foreign trade, and the government strongly supports trade liberalization. Denmark is a net exporter of food, oil, and gas and enjoys a comfortable balance of payments surplus, but depends on imports of raw materials for the manufacturing sector. ++ Denmark is a member of the EU but not the eurozone. Despite previously meeting the criteria to join the European Economic and Monetary Union, Denmark has negotiated an opt-out with the EU and is not required to adopt the euro. ++ Denmark is experiencing a modest economic expansion. The economy grew by 2.0% in 2016 and 2.1% in 2017. The expansion is expected to decline slightly in 2018. Unemployment stood at 5.5% in 2017, based on the national labor survey. The labor market was tight in 2017, with corporations experiencing some difficulty finding appropriately-skilled workers to fill billets. The Danish Government offers extensive programs to train unemployed persons to work in sectors that need qualified workers. ++ Denmark maintained a healthy budget surplus for many years up to 2008, but the global financial crisis swung the budget balance into deficit. Since 2014 the balance has shifted between surplus and deficit. In 2017 there was a surplus of 1.0%. The government projects a lower deficit in 2018 and 2019 of 0.7%, and public debt (EMU debt) as a share of GDP is expected to decline to 35.6% in 2018 and 34.8% in 2019. The Danish Government plans to address increasing municipal, public housing and integration spending in 2018."
+      "text": "<p>This thoroughly modern market economy features advanced industry with world-leading firms in pharmaceuticals, maritime shipping, and renewable energy, and a high-tech agricultural sector. Danes enjoy a high standard of living, and the Danish economy is characterized by extensive government welfare measures and an equitable distribution of income. An aging population will be a long-term issue.</p><p></p><p>Denmark’s small open economy is highly dependent on foreign trade, and the government strongly supports trade liberalization. Denmark is a net exporter of food, oil, and gas and enjoys a comfortable balance of payments surplus, but depends on imports of raw materials for the manufacturing sector.</p><p></p><p>Denmark is a member of the EU but not the eurozone. Despite previously meeting the criteria to join the European Economic and Monetary Union, Denmark has negotiated an opt-out with the EU and is not required to adopt the euro.</p><p></p><p>Denmark is experiencing a modest economic expansion. The economy grew by 2.0% in 2016 and 2.1% in 2017. The expansion is expected to decline slightly in 2018. Unemployment stood at 5.5% in 2017, based on the national labor survey. The labor market was tight in 2017, with corporations experiencing some difficulty finding appropriately-skilled workers to fill billets. The Danish Government offers extensive programs to train unemployed persons to work in sectors that need qualified workers.</p><p></p><p>Denmark maintained a healthy budget surplus for many years up to 2008, but the global financial crisis swung the budget balance into deficit. Since 2014 the balance has shifted between surplus and deficit. In 2017 there was a surplus of 1.0%. The government projects a lower deficit in 2018 and 2019 of 0.7%, and public debt (EMU debt) as a share of GDP is expected to decline to 35.6% in 2018 and 34.8% in 2019. The Danish Government plans to address increasing municipal, public housing and integration spending in 2018.</p>"
     },
-    "GDP real growth rate": {
-      "text": "2.85% (2019 est.) / 2.18% (2018 est.) / 2.83% (2017 est.)",
-      "country comparison to the world": 102
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2019": {
+        "text": "2.85% (2019 est.)"
+      },
+      "Real GDP growth rate 2018": {
+        "text": "2.18% (2018 est.)"
+      },
+      "Real GDP growth rate 2017": {
+        "text": "2.83% (2017 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "0.7% (2019 est.) / 0.8% (2018 est.) / 1.1% (2017 est.)",
-      "country comparison to the world": 52
+      "Inflation rate (consumer prices) 2019": {
+        "text": "0.7% (2019 est.)"
+      },
+      "Inflation rate (consumer prices) 2018": {
+        "text": "0.8% (2018 est.)"
+      },
+      "Inflation rate (consumer prices) 2017": {
+        "text": "1.1% (2017 est.)"
+      }
     },
     "Credit ratings": {
       "Fitch rating": {
@@ -529,21 +557,43 @@
         "text": "AAA (2001)"
       }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$283.94 billion (2019 est.) / $276.073 billion (2018 est.) / $270.195 billion (2017 est.)",
-      "note": "note: data are in 2010 dollars"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2019": {
+        "text": "$336.335 billion (2019 est.)"
+      },
+      "Real GDP (purchasing power parity) 2018": {
+        "text": "$327.017 billion (2018 est.)"
+      },
+      "Real GDP (purchasing power parity) 2017": {
+        "text": "$320.053 billion (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
     },
     "GDP (official exchange rate)": {
       "text": "$350.037 billion (2019 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$66,351 (2019 est.) / $64,734 (2018 est.) / $63,575 (2017 est.)",
-      "note": "note: data are in 2010 dollars",
-      "country comparison to the world": 14
+    "Real GDP per capita": {
+      "Real GDP per capita 2019": {
+        "text": "$57,804 (2019 est.)"
+      },
+      "Real GDP per capita 2018": {
+        "text": "$56,444 (2018 est.)"
+      },
+      "Real GDP per capita 2017": {
+        "text": "$55,517 (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
     },
     "Gross national saving": {
-      "text": "28.8% of GDP (2017 est.) / 28.3% of GDP (2016 est.) / 28.7% of GDP (2015 est.)",
-      "country comparison to the world": 35
+      "Gross national saving 2017": {
+        "text": "28.8% of GDP (2017 est.)"
+      },
+      "Gross national saving 2016": {
+        "text": "28.3% of GDP (2016 est.)"
+      },
+      "Gross national saving 2015": {
+        "text": "28.7% of GDP (2015 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -577,21 +627,21 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "text": "85.3 (2020)"
+      "Overall Ease of Doing Business score 2020": {
+        "text": "85.3 (2020)"
+      }
     },
-    "Agriculture - products": {
-      "text": "barley, wheat, potatoes, sugar beets; pork, dairy products; fish"
+    "Agricultural products": {
+      "text": "milk, wheat, barley, potatoes, sugar beet, pork, rye, rapeseed, oats, poultry"
     },
     "Industries": {
       "text": "wind turbines, pharmaceuticals, medical equipment, shipbuilding and refurbishment, iron, steel, nonferrous metals, chemicals, food processing, machinery and transportation equipment, textiles and clothing, electronics, construction, furniture and other wood products"
     },
     "Industrial production growth rate": {
-      "text": "2.5% (2017 est.)",
-      "country comparison to the world": 116
+      "text": "2.5% (2017 est.)"
     },
     "Labor force": {
-      "text": "2.736 million (2020 est.)",
-      "country comparison to the world": 107
+      "text": "2.736 million (2020 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -605,12 +655,24 @@
       }
     },
     "Unemployment rate": {
-      "text": "3.05% (2019 est.) / 3.07% (2018 est.)",
-      "country comparison to the world": 40
+      "Unemployment rate 2019": {
+        "text": "3.05% (2019 est.)"
+      },
+      "Unemployment rate 2018": {
+        "text": "3.07% (2018 est.)"
+      }
     },
     "Population below poverty line": {
       "text": "13.4% (2011 est.)",
-      "note": "note: excludes students"
+      "note": "<p><strong>note:</strong> excludes students</p>"
+    },
+    "Gini Index coefficient - distribution of family income": {
+      "Gini Index coefficient - distribution of family income 2017": {
+        "text": "28.7 (2017 est.)"
+      },
+      "Gini Index coefficient - distribution of family income 2010": {
+        "text": "27.5 (2010 est.)"
+      }
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
@@ -629,28 +691,41 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "53% (of GDP) (2017 est.)",
-      "country comparison to the world": 12
+      "text": "53% (of GDP) (2017 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "1.1% (of GDP) (2017 est.)",
-      "country comparison to the world": 30
+      "text": "1.1% (of GDP) (2017 est.)"
     },
     "Public debt": {
-      "text": "35.3% of GDP (2017 est.) / 37.9% of GDP (2016 est.)",
-      "note": "note: data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intra-governmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions",
-      "country comparison to the world": 151
+      "Public debt 2017": {
+        "text": "35.3% of GDP (2017 est.)"
+      },
+      "Public debt 2016": {
+        "text": "37.9% of GDP (2016 est.)"
+      },
+      "note": "<p><strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intra-governmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions</p>"
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Current account balance": {
-      "text": "$30.935 billion (2019 est.) / $24.821 billion (2018 est.)",
-      "country comparison to the world": 12
+      "Current account balance 2019": {
+        "text": "$30.935 billion (2019 est.)"
+      },
+      "Current account balance 2018": {
+        "text": "$24.821 billion (2018 est.)"
+      }
     },
     "Exports": {
-      "text": "$226.589 billion (2019 est.) / $215.725 billion (2018 est.) / $208.941 billion (2017 est.)",
-      "country comparison to the world": 33
+      "Exports 2019": {
+        "text": "$226.589 billion (2019 est.)"
+      },
+      "Exports 2018": {
+        "text": "$215.725 billion (2018 est.)"
+      },
+      "Exports 2017": {
+        "text": "$208.941 billion (2017 est.)"
+      }
     },
     "Exports - partners": {
       "text": "Germany 15.5%, Sweden 11.6%, UK 8.2%, US 7.5%, Norway 6%, China 4.4%, Netherlands 4.4% (2017)"
@@ -659,25 +734,57 @@
       "text": "wind turbines, pharmaceuticals, machinery and instruments, meat and meat products, dairy products, fish, furniture and design"
     },
     "Imports": {
-      "text": "$197.818 billion (2019 est.) / $193.107 billion (2018 est.) / $184.338 billion (2017 est.)",
-      "country comparison to the world": 35
-    },
-    "Imports - commodities": {
-      "text": "machinery and equipment, raw materials and semimanufactures for industry, chemicals, grain and foodstuffs, consumer goods"
+      "Imports 2019": {
+        "text": "$197.818 billion (2019 est.)"
+      },
+      "Imports 2018": {
+        "text": "$193.107 billion (2018 est.)"
+      },
+      "Imports 2017": {
+        "text": "$184.338 billion (2017 est.)"
+      }
     },
     "Imports - partners": {
       "text": "Germany 21.3%, Sweden 11.9%, Netherlands 7.8%, China 7.1%, Norway 6.3%, Poland 4% (2017)"
     },
+    "Imports - commodities": {
+      "text": "machinery and equipment, raw materials and semimanufactures for industry, chemicals, grain and foodstuffs, consumer goods"
+    },
     "Reserves of foreign exchange and gold": {
-      "text": "$75.25 billion (31 December 2017 est.) / $64.25 billion (31 December 2016 est.)",
-      "country comparison to the world": 30
+      "Reserves of foreign exchange and gold 31 December 2017": {
+        "text": "$75.25 billion (31 December 2017 est.)"
+      },
+      "Reserves of foreign exchange and gold 31 December 2016": {
+        "text": "$64.25 billion (31 December 2016 est.)"
+      }
     },
     "Debt - external": {
-      "text": "$484.8 billion (31 March 2016 est.) / $519.8 billion (31 March 2015 est.)",
-      "country comparison to the world": 25
+      "Debt - external 31 March 2016": {
+        "text": "$484.8 billion (31 March 2016 est.)"
+      },
+      "Debt - external 31 March 2015": {
+        "text": "$519.8 billion (31 March 2015 est.)"
+      }
     },
     "Exchange rates": {
-      "text": "Danish kroner (DKK) per US dollar - / 6.16045 (2020 est.) / 6.7506 (2019 est.) / 6.5533 (2018 est.) / 6.7236 (2014 est.) / 5.6125 (2013 est.)"
+      "currency": {
+        "text": "Danish kroner (DKK) per US dollar -"
+      },
+      "Exchange rates 2020": {
+        "text": "6.16045 (2020 est.)"
+      },
+      "Exchange rates 2019": {
+        "text": "6.7506 (2019 est.)"
+      },
+      "Exchange rates 2018": {
+        "text": "6.5533 (2018 est.)"
+      },
+      "Exchange rates 2014": {
+        "text": "6.7236 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "5.6125 (2013 est.)"
+      }
     }
   },
   "Energy": {
@@ -687,96 +794,73 @@
       }
     },
     "Electricity - production": {
-      "text": "29.84 billion kWh (2016 est.)",
-      "country comparison to the world": 65
+      "text": "29.84 billion kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "33.02 billion kWh (2016 est.)",
-      "country comparison to the world": 59
+      "text": "33.02 billion kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "9.919 billion kWh (2016 est.)",
-      "country comparison to the world": 20
+      "text": "9.919 billion kWh (2016 est.)"
     },
     "Electricity - imports": {
-      "text": "14.98 billion kWh (2016 est.)",
-      "country comparison to the world": 14
+      "text": "14.98 billion kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "14.34 million kW (2016 est.)",
-      "country comparison to the world": 52
+      "text": "14.34 million kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "46% of total installed capacity (2016 est.)",
-      "country comparison to the world": 157
+      "text": "46% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 77
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 167
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "54% of total installed capacity (2017 est.)",
-      "country comparison to the world": 3
+      "text": "54% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "115,000 bbl/day (2018 est.)",
-      "country comparison to the world": 41
+      "text": "115,000 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "82,980 bbl/day (2017 est.)",
-      "country comparison to the world": 36
+      "text": "82,980 bbl/day (2017 est.)"
     },
     "Crude oil - imports": {
-      "text": "98,240 bbl/day (2017 est.)",
-      "country comparison to the world": 44
+      "text": "98,240 bbl/day (2017 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "439 million bbl (1 January 2018 est.)",
-      "country comparison to the world": 46
+      "text": "439 million bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "183,900 bbl/day (2017 est.)",
-      "country comparison to the world": 55
+      "text": "183,900 bbl/day (2017 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "158,500 bbl/day (2017 est.)",
-      "country comparison to the world": 64
+      "text": "158,500 bbl/day (2017 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "133,700 bbl/day (2017 est.)",
-      "country comparison to the world": 38
+      "text": "133,700 bbl/day (2017 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "109,700 bbl/day (2017 est.)",
-      "country comparison to the world": 51
+      "text": "109,700 bbl/day (2017 est.)"
     },
     "Natural gas - production": {
-      "text": "4.842 billion cu m (2017 est.)",
-      "country comparison to the world": 52
+      "text": "4.842 billion cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "3.115 billion cu m (2017 est.)",
-      "country comparison to the world": 73
+      "text": "3.115 billion cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "2.237 billion cu m (2017 est.)",
-      "country comparison to the world": 37
+      "text": "2.237 billion cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "509.7 million cu m (2017 est.)",
-      "country comparison to the world": 65
+      "text": "509.7 million cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "12.86 billion cu m (1 January 2018 est.)",
-      "country comparison to the world": 77
+      "text": "12.86 billion cu m (1 January 2018 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "37.45 million Mt (2017 est.)",
-      "country comparison to the world": 70
+      "text": "37.45 million Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -786,8 +870,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "17.41 (2019 est.)"
-      },
-      "country comparison to the world": 74
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -795,20 +878,19 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "125.5 (2019 est.)"
-      },
-      "country comparison to the world": 102
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "excellent telephone and Internet services; Denmark's competitive telecom market has led to the country having the second highest broadband penetration rate in Europe; the fixed-line sector continues to see a decline in revenue while customers move to VoIP (Voice over Internet Protocol) and mobile alternatives; comprehensive LTE coverage and a fast-developing 5G segment; the government is able to offer broadband coverage in rural areas (2020)"
+        "text": "excellent telephone and Internet services; Denmark's competitive telecom market has led to the country having the second highest broadband penetration rate in Europe;&nbsp;the fixed-line sector continues to see a decline in revenue while customers move to VoIP (Voice over Internet Protocol) and mobile alternatives; comprehensive LTE coverage and a fast-developing 5G segment;&nbsp;the government is able to offer broadband coverage&nbsp;in rural areas (2020)"
       },
       "domestic": {
         "text": "fixed-line 17 per 100, 126 per 100 for mobile-cellular (2019)"
       },
       "international": {
-        "text": "country code - 45; landing points for the NSC, COBRAcable, CANTAT-3, DANICE, Havfrue/AEC-2, TAT-14m Denmark-Norway-5 & 6, Skagenfiber West & East, GC1, GC2, GC3, GC-KPN, Kattegat 1 & 2 & 3, Energinet Lyngsa-Laeso, Energinet Laeso-Varberg, Fehmarn Balt, Baltica, German-Denmark 2 & 3, Ronne-Rodvig, Denmark-Sweden 15 & 16 & 17 & 18, IP-Only Denmark-Sweden, Scandinavian South, Scandinavian Ring North, Danica North, 34 series of fiber-optic submarine cables link Denmark with Canada, Faroe Islands, Germany, Iceland, Netherlands, Norway, Poland, Russia, Sweden, US and UK; satellite earth stations - 18 (6 Intelsat, 10 Eutelsat, 1 Orion, 1 Inmarsat (Blaavand-Atlantic-East)); note - the Nordic countries (Denmark, Finland, Iceland, Norway, and Sweden) share the Danish earth station and the Eik, Norway, station for worldwide Inmarsat access (2019)"
+        "text": "country code - 45; landing points for the NSC, COBRAcable, CANTAT-3, DANICE, Havfrue/AEC-2, TAT-14m Denmark-Norway-5 &amp;&nbsp;6, Skagenfiber West &amp;&nbsp;East, GC1,&nbsp;GC2, GC3, GC-KPN, Kattegat 1 &amp;&nbsp;2 &amp;&nbsp;3, Energinet Lyngsa-Laeso,&nbsp;Energinet Laeso-Varberg, Fehmarn Balt, Baltica, German-Denmark 2 &amp; 3, Ronne-Rodvig, Denmark-Sweden 15 &amp; 16 &amp; 17 &amp; 18, IP-Only Denmark-Sweden, Scandinavian&nbsp;South, Scandinavian Ring North, Danica North, 34&nbsp;series of fiber-optic submarine cables link Denmark with Canada, Faroe Islands, Germany, Iceland, Netherlands, Norway, Poland, Russia, Sweden, US and UK; satellite earth stations - 18 (6 Intelsat, 10 Eutelsat, 1 Orion, 1 Inmarsat (Blaavand-Atlantic-East)); note - the Nordic countries (Denmark, Finland, Iceland, Norway, and Sweden) share the Danish earth station and the Eik, Norway, station for worldwide Inmarsat access (2019)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "strong public-sector TV presence with state-owned Danmarks Radio (DR) operating 6 channels and publicly owned TV2 operating roughly a half-dozen channels; broadcasts of privately owned stations are available via satellite and cable feed; DR operates 4 nationwide FM radio stations, 10 digital audio broadcasting stations, and 14 web-based radio stations; 140 commercial and 187 community (non-commercial) radio stations (2019)"
@@ -822,8 +904,7 @@
       },
       "percent of population": {
         "text": "97.64% (July 2018 est.)"
-      },
-      "country comparison to the world": 79
+      }
     },
     "Broadband - fixed subscriptions": {
       "total": {
@@ -831,8 +912,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "44 (2018 est.)"
-      },
-      "country comparison to the world": 48
+      }
     }
   },
   "Transportation": {
@@ -854,8 +934,9 @@
       "text": "OY (2016)"
     },
     "Airports": {
-      "text": "80 (2013)",
-      "country comparison to the world": 68
+      "total": {
+        "text": "80 (2013)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -897,8 +978,7 @@
       },
       "standard gauge": {
         "text": "3,476 km 1.435-m gauge (1,756 km electrified) (2017)"
-      },
-      "country comparison to the world": 57
+      }
     },
     "Roadways": {
       "total": {
@@ -906,21 +986,18 @@
       },
       "paved": {
         "text": "74,558 km (includes 1,205 km of expressways) (2017)"
-      },
-      "country comparison to the world": 67
+      }
     },
     "Waterways": {
-      "text": "400 km (2010)",
-      "country comparison to the world": 87
+      "text": "400 km (2010)"
     },
     "Merchant marine": {
       "total": {
-        "text": "682"
+        "text": "692"
       },
       "by type": {
-        "text": "bulk carrier 7, container ship 149, general cargo 59, oil tanker 77, other 390 (2019)"
-      },
-      "country comparison to the world": 32
+        "text": "bulk carrier 1, container ship 148, general cargo 62, oil tanker 87, other 394 (2020)"
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -935,17 +1012,30 @@
       "dry bulk cargo port(s)": {
         "text": "Ensted (coal)"
       },
-      "note": "North Sea - Esbjerg,"
+      "note": "<br><br>North Sea - Esbjerg,"
     }
   },
   "Military and Security": {
     "Military and security forces": {
       "text": "Royal Danish Army, Royal Danish Navy, Royal Danish Air Force, Danish Home Guard (Reserves) (2020)",
-      "note": "note: the Danish military also maintains a Joint Arctic Command"
+      "note": "<br><br>note: the Danish military also maintains a Joint Arctic Command"
     },
     "Military expenditures": {
-      "text": "1.32% of GDP (2019) / 1.3% of GDP (2018) / 1.15% of GDP (2017) / 1.15% of GDP (2016) / 1.11% of GDP (2015)",
-      "country comparison to the world": 89
+      "Military Expenditures 2019": {
+        "text": "1.32% of GDP (2019)"
+      },
+      "Military Expenditures 2018": {
+        "text": "1.3% of GDP (2018)"
+      },
+      "Military Expenditures 2017": {
+        "text": "1.15% of GDP (2017)"
+      },
+      "Military Expenditures 2016": {
+        "text": "1.15% of GDP (2016)"
+      },
+      "Military Expenditures 2015": {
+        "text": "1.11% of GDP (2015)"
+      }
     },
     "Military and security service personnel strengths": {
       "text": "the Danish military has approximately 16,000 active duty personnel (8,500 Army; 2,500 Navy; 3,000 Air Force; 2,000 joint service, other) (2019 est.)"
@@ -966,12 +1056,12 @@
   "Terrorism": {
     "Terrorist group(s)": {
       "text": "Islamic State of Iraq and ash-Sham; Islamic Revolutionary Guard Corps/Qods Force (2019)",
-      "note": "note: details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T"
+      "note": "<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in <a title=\"Appendix-T\" href=\"../appendix/appendix-t.html\">Appendix-T</a>"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; sovereignty dispute with Canada over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission"
+      "text": "<p>Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; sovereignty dispute with Canada over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission</p>"
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {

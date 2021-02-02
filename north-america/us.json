@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "Britain's American colonies broke with the mother country in 1776 and were recognized as the new nation of the United States of America following the Treaty of Paris in 1783. During the 19th and 20th centuries, 37 new states were added to the original 13 as the nation expanded across the North American continent and acquired a number of overseas possessions. The two most traumatic experiences in the nation's history were the Civil War (1861-65), in which a northern Union of states defeated a secessionist Confederacy of 11 southern slave states, and the Great Depression of the 1930s, an economic downturn during which about a quarter of the labor force lost its jobs. Buoyed by victories in World Wars I and II and the end of the Cold War in 1991, the US remains the world's most powerful nation state. Since the end of World War II, the economy has achieved relatively steady growth, low unemployment and inflation, and rapid advances in technology."
+      "text": "<p>Britain's American colonies broke with the mother country in 1776 and were recognized as the new nation of the United States of America following the Treaty of Paris in 1783. During the 19th and 20th centuries, 37 new states were added to the original 13 as the nation expanded across the North American continent and acquired a number of overseas possessions. The two most traumatic experiences in the nation's history were the Civil War (1861-65), in which a northern Union of states defeated a secessionist Confederacy of 11 southern slave states, and the Great Depression of the 1930s, an economic downturn during which about a quarter of the labor force lost its jobs. Buoyed by victories in World Wars I and II and the end of the Cold War in 1991, the US remains the world's most powerful nation state. Since the end of World War II, the economy has achieved relatively steady growth, low unemployment and inflation, and rapid advances in technology.</p>"
     }
   },
   "Geography": {
@@ -24,8 +24,7 @@
       "water": {
         "text": "685,924 sq km"
       },
-      "note": "note: includes only the 50 states and District of Columbia, no overseas territories",
-      "country comparison to the world": 4
+      "note": "<p><strong>note:</strong> includes only the 50 states and District of Columbia, no overseas territories</p>"
     },
     "Area - comparative": {
       "text": "about half the size of Russia; about three-tenths the size of Africa; about half the size of South America (or slightly larger than Brazil); slightly larger than China; more than twice the size of the European Union"
@@ -37,7 +36,7 @@
       "border countries": {
         "text": "Canada 8893 km (including 2477 km with Alaska), Mexico 3155 km"
       },
-      "note": "note: US Naval Base at Guantanamo Bay, Cuba is leased by the US and is part of Cuba; the base boundary is 28.5 km"
+      "note": "<p><strong>note:</strong> US Naval Base at Guantanamo Bay, Cuba is leased by the US and is part of Cuba; the base boundary is 28.5 km</p>"
     },
     "Coastline": {
       "text": "19,924 km"
@@ -46,18 +45,19 @@
       "territorial sea": {
         "text": "12 nm"
       },
-      "exclusive economic zone": {
-        "text": "200 nm"
-      },
       "contiguous zone": {
         "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
       },
       "continental shelf": {
         "text": "not specified"
       }
     },
     "Climate": {
-      "text": "mostly temperate, but tropical in Hawaii and Florida, arctic in Alaska, semiarid in the great plains west of the Mississippi River, and arid in the Great Basin of the southwest; low winter temperatures in the northwest are ameliorated occasionally in January and February by warm chinook winds from the eastern slopes of the Rocky Mountains"
+      "text": "mostly temperate, but tropical in Hawaii and Florida, arctic in Alaska, semiarid in the great plains west of the Mississippi River, and arid in the Great Basin of the southwest; low winter temperatures in the northwest are ameliorated occasionally in January and February by warm chinook winds from the eastern slopes of the Rocky Mountains",
+      "note": "<br><br><strong>note:</strong> many consider Denali, the highest peak in the US, to be the world&rsquo;s coldest mountain because of its combination of high elevation and its subarctic location at 63 degrees north latitude; permanent snow and ice cover over 75 percent of the mountain, and enormous glaciers, up to 45 miles long and 3,700 feet thick, spider out from its base in every direction; it is home to some of the world&rsquo;s coldest and most violent weather, where winds of over 150 miles per hour and temperatures of -93˚F have been recorded. &nbsp;"
     },
     "Terrain": {
       "text": "vast central plain, mountains in west, hills and low mountains in east; rugged mountains and broad river valleys in Alaska; rugged, volcanic topography in Hawaii"
@@ -72,7 +72,7 @@
       "highest point": {
         "text": "Denali 6,190 m (Mount McKinley) (highest point in North America)"
       },
-      "note": "note: the peak of Mauna Kea (4,207 m above sea level) on the island of Hawaii rises about 10,200 m above the Pacific Ocean floor; by this measurement, it is the world's tallest mountain - higher than Mount Everest (8,850 m), which is recognized as the tallest mountain above sea level"
+      "note": "<br><br><strong>note: </strong>Denali is one of the most striking features on the entire planet; at 20,310 feet, it is the crowning peak of the Alaska Range and the highest mountain on North America; it towers three and one-half vertical miles above its base, making it a mile taller from base to summit than Mt. Everest; Denali's base sits at about 2,000 feet above sea level and rises over three and one-half miles to its 20,310 foot summit; Everest begins on a 14,000-foot high plain, then summits at 29,028 feet.<strong><br />note:</strong>&nbsp;the peak of Mauna Kea (4,207 m above sea level) on the island of Hawaii rises about 10,200 m above the Pacific Ocean floor; by this measurement, it is the world's tallest mountain - higher than Mount Everest (8,850 m), which is recognized as the tallest mountain above sea level"
     },
     "Natural resources": {
       "text": "coal, copper, lead, molybdenum, phosphates, rare earth elements, uranium, bauxite, gold, iron, mercury, nickel, potash, silver, tungsten, zinc, petroleum, natural gas, timber, arable land, note, the US has the world's largest coal reserves with 491 billion short tons accounting for 27% of the world's total"
@@ -81,8 +81,14 @@
       "agricultural land": {
         "text": "44.5% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "16.8% (2011 est.) / 0.3% (2011 est.) / 27.4% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 16.8% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 0.3% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 27.4% (2011 est.)"
       },
       "forest": {
         "text": "33.3% (2011 est.)"
@@ -98,7 +104,7 @@
       "text": "large urban clusters are spread throughout the eastern half of the US (particularly the Great Lakes area, northeast, east, and southeast) and the western tier states; mountainous areas, principally the Rocky Mountains and Appalachian chain, deserts in the southwest, the dense boreal forests in the extreme north, and the central prarie states are less densely populated; Alaska's population is concentrated along its southern coast - with particular emphasis on the city of Anchorage - and Hawaii's is centered on the island of Oahu"
     },
     "Natural hazards": {
-      "text": "tsunamis; volcanoes; earthquake activity around Pacific Basin; hurricanes along the Atlantic and Gulf of Mexico coasts; tornadoes in the Midwest and Southeast; mud slides in California; forest fires in the west; flooding; permafrost in northern Alaska, a major impediment to development ++ volcanism: volcanic activity in the Hawaiian Islands, Western Alaska, the Pacific Northwest, and in the Northern Mariana Islands; both Mauna Loa (4,170 m) in Hawaii and Mount Rainier (4,392 m) in Washington have been deemed Decade Volcanoes by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to their explosive history and close proximity to human populations; Pavlof (2,519 m) is the most active volcano in Alaska's Aleutian Arc and poses a significant threat to air travel since the area constitutes a major flight path between North America and East Asia; St. Helens (2,549 m), famous for the devastating 1980 eruption, remains active today; numerous other historically active volcanoes exist, mostly concentrated in the Aleutian arc and Hawaii; they include: in Alaska: Aniakchak, Augustine, Chiginagak, Fourpeaked, Iliamna, Katmai, Kupreanof, Martin, Novarupta, Redoubt, Spurr, Wrangell, Trident, Ugashik-Peulik, Ukinrek Maars, Veniaminof; in Hawaii: Haleakala, Kilauea, Loihi; in the Northern Mariana Islands: Anatahan; and in the Pacific Northwest: Mount Baker, Mount Hood; see note 2 under \"Geography - note\""
+      "text": "<p>tsunamis; volcanoes; earthquake activity around Pacific Basin; hurricanes along the Atlantic and Gulf of Mexico coasts; tornadoes in the Midwest and Southeast; mud slides in California; forest fires in the west; flooding; permafrost in northern Alaska, a major impediment to development</p><p><strong>volcanism:</strong> volcanic activity in the Hawaiian Islands, Western Alaska, the Pacific Northwest, and in the Northern Mariana Islands; both Mauna Loa (4,170 m) in Hawaii and Mount Rainier (4,392 m) in Washington have been deemed Decade Volcanoes by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to their explosive history and close proximity to human populations; Pavlof (2,519 m) is the most active volcano in Alaska's Aleutian Arc and poses a significant threat to air travel since the area constitutes a major flight path between North America and East Asia; St. Helens (2,549 m), famous for the devastating 1980 eruption, remains active today; numerous other historically active volcanoes exist, mostly concentrated in the Aleutian arc and Hawaii; they include: in Alaska: Aniakchak, Augustine, Chiginagak, Fourpeaked, Iliamna, Katmai, Kupreanof, Martin, Novarupta, Redoubt, Spurr, Wrangell, Trident, Ugashik-Peulik, Ukinrek Maars, Veniaminof; in Hawaii: Haleakala, Kilauea, Loihi; in the Northern Mariana Islands: Anatahan; and in the Pacific Northwest: Mount Baker, Mount Hood; see note 2 under \"Geography - note\"</p>"
     },
     "Environment - current issues": {
       "text": "air pollution; large emitter of carbon dioxide from the burning of fossil fuels; water pollution from runoff of pesticides and fertilizers; limited natural freshwater resources in much of the western part of the country require careful management; deforestation; mining; desertification; species conservation; invasive species (the Hawaiian Islands are particularly vulnerable)"
@@ -112,13 +118,12 @@
       }
     },
     "Geography - note": {
-      "note": "note 1: world's third-largest country by size (after Russia and Canada) and by population (after China and India); Denali (Mt. McKinley) is the highest point in North America and Death Valley the lowest point on the continent ++ note 2: the western coast of the United States and southern coast of Alaska lie along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire ++ note 3: the Aleutian Islands are a chain of volcanic islands that divide the Bering Sea (north) from the main Pacific Ocean (south); they extend about 1,800 km westward from the Alaskan Peninsula; the archipelago consists of 14 larger islands, 55 smaller islands, and hundreds of islets; there are 41 active volcanoes on the islands, which together form a large northern section of the Ring of Fire ++ note 4: Mammoth Cave, in west-central Kentucky, is the world's longest known cave system with more than 650 km (405 miles) of surveyed passageways, which is nearly twice as long as the second-longest cave system, the Sac Actun underwater cave in Mexico - the world's longest underwater cave system (see \"Geography - note\" under Mexico); ++ note 5: Kazumura Cave on the island of Hawaii is the world's longest and deepest lava tube cave; it has been surveyed at 66 km (41 mi) long and 1,102 m (3,614 ft) deep ++ note 6: Bracken Cave outside of San Antonio, Texas is the world's largest bat cave; it is the summer home to the largest colony of bats in the world; an estimated 20 million Mexican free-tailed bats roost in the cave from March to October making it the world's largest known concentration of mammals"
+      "text": "<p><strong>note 1:</strong> world's third-largest country by size (after Russia and Canada) and by population (after China and India); Denali (Mt. McKinley) is the highest point in North America and Death Valley the lowest point on the continent</p> <p><strong>note 2:</strong> the western coast of the United States and southern coast of Alaska lie along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p> <p><strong>note 3:</strong> the Aleutian Islands are a chain of volcanic islands that divide the Bering Sea (north) from the main Pacific Ocean (south); they extend about 1,800 km westward from the Alaskan Peninsula; the archipelago consists of 14 larger islands, 55 smaller islands, and hundreds of islets; there are 41 active volcanoes on the islands, which together form a large northern section of the Ring of Fire<br /><br /><strong>note 4: </strong>Mammoth Cave, in west-central Kentucky, is the world's longest known cave system with more than 650 km (405 miles) of surveyed passageways, which is nearly twice as long as the second-longest cave system, the Sac Actun underwater cave in Mexico - the world's longest underwater cave system (see \"Geography - note\" under Mexico); <br /><br /><strong>note 5:</strong> Kazumura Cave on the island of Hawaii is the world's longest and deepest lava tube cave; it has been surveyed at 66 km (41 mi) long and 1,102 m (3,614 ft) deep <br /><br /><strong>note 6: </strong>Bracken Cave outside of San Antonio, Texas is the world's largest bat cave; it is the summer home to the largest colony of bats in the world; an estimated 20 million Mexican free-tailed bats roost in the cave from March to October making it the world's largest known concentration of mammals</p>"
     }
   },
   "People and Society": {
     "Population": {
-      "text": "332,639,102 (July 2020 est.)",
-      "country comparison to the world": 3
+      "text": "334,998,398 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -130,11 +135,11 @@
     },
     "Ethnic groups": {
       "text": "White 72.4%, Black 12.6%, Asian 4.8%, Amerindian and Alaska native 0.9%, native Hawaiian and other Pacific islander 0.2%, other 6.2%, two or more races 2.9% (2010 est.)",
-      "note": "note: a separate listing for Hispanic is not included because the US Census Bureau considers Hispanic to mean persons of Spanish/Hispanic/Latino origin including those of Mexican, Cuban, Puerto Rican, Dominican Republic, Spanish, and Central or South American origin living in the US who may be of any race or ethnic group (white, black, Asian, etc.); an estimated 16.3% of the total US population is Hispanic as of 2010"
+      "note": "<p><strong>note:</strong> a separate listing for Hispanic is not included because the US Census Bureau considers Hispanic to mean persons of Spanish/Hispanic/Latino origin including those of Mexican, Cuban, Puerto Rican, Dominican Republic, Spanish, and Central or South American origin living in the US who may be of any race or ethnic group (white, black, Asian, etc.); an estimated 16.3% of the total US population is Hispanic as of 2010</p>"
     },
     "Languages": {
       "text": "English only 78.2%, Spanish 13.4%, Chinese 1.1%, other 7.3% (2017 est.)",
-      "note": "note: data represent the language spoken at home; the US has no official national language, but English has acquired official status in 32 of the 50 states; Hawaiian is an official language in the state of Hawaii, and 20 indigenous languages are official in Alaska"
+      "note": "<p><strong>note:</strong> data represent the language spoken at home; the US has no official national language, but English has acquired official status in 32 of the 50 states; Hawaiian is an official language in the state of Hawaii, and 20 indigenous languages are official in Alaska</p>"
     },
     "Religions": {
       "text": "Protestant 46.5%, Roman Catholic 20.8%, Jewish 1.9%, Mormon 1.6%, other Christian 0.9%, Muslim 0.9%, Jehovah's Witness 0.8%, Buddhist 0.7%, Hindu 0.7%, other 1.8%, unaffiliated 22.8%, don't know/refused 0.6% (2014 est.)"
@@ -179,24 +184,19 @@
       },
       "female": {
         "text": "39.8 years (2020 est.)"
-      },
-      "country comparison to the world": 61
+      }
     },
     "Population growth rate": {
-      "text": "0.72% (2020 est.)",
-      "country comparison to the world": 136
+      "text": "0.7% (2021 est.)"
     },
     "Birth rate": {
-      "text": "12.4 births/1,000 population (2020 est.)",
-      "country comparison to the world": 156
+      "text": "12.33 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "8.3 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 83
+      "text": "8.35 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "3 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 36
+      "text": "3.03 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "large urban clusters are spread throughout the eastern half of the US (particularly the Great Lakes area, northeast, east, and southeast) and the western tier states; mountainous areas, principally the Rocky Mountains and Appalachian chain, deserts in the southwest, the dense boreal forests in the extreme north, and the central prarie states are less densely populated; Alaska's population is concentrated along its southern coast - with particular emphasis on the city of Anchorage - and Hawaii's is centered on the island of Oahu"
@@ -239,46 +239,54 @@
       "text": "26.4 years (2015 est.)"
     },
     "Maternal mortality rate": {
-      "text": "19 deaths/100,000 live births (2017 est.)",
-      "country comparison to the world": 129
+      "text": "19 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "5.3 deaths/1,000 live births"
+        "text": "5.22 deaths/1,000 live births"
       },
       "male": {
-        "text": "5.7 deaths/1,000 live births"
+        "text": "5.61 deaths/1,000 live births"
       },
       "female": {
-        "text": "4.9 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 173
+        "text": "4.81 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "80.3 years"
+        "text": "80.43 years"
       },
       "male": {
-        "text": "78 years"
+        "text": "78.18 years"
       },
       "female": {
-        "text": "82.5 years (2020 est.)"
-      },
-      "country comparison to the world": 45
+        "text": "82.65 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "1.84 children born/woman (2020 est.)",
-      "country comparison to the world": 141
+      "text": "1.84 children born/woman (2021 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "75.9% (2015/17)"
     },
     "Drinking water source": {
-      "improved": {
-        "text": "urban: 100% of population / rural: 97% of population / total: 99% of population"
+      "improved: urban": {
+        "text": "urban: 100% of population"
       },
-      "unimproved": {
-        "text": "urban: 0% of population / rural: 3% of population / total: 1% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 97% of population"
+      },
+      "improved: total": {
+        "text": "total: 99% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 0% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 3% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 1% of population (2017 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -288,11 +296,23 @@
       "text": "2.61 physicians/1,000 population (2017)"
     },
     "Sanitation facility access": {
-      "improved": {
-        "text": "urban: 100% of population / rural: 100% of population / total: 100% of population"
+      "improved: urban": {
+        "text": "urban: 100% of population"
       },
-      "unimproved": {
-        "text": "urban: 0% of population / rural: 0% of population / total: 0% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 100% of population"
+      },
+      "improved: total": {
+        "text": "total: 100% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 0% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 0% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 0% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -305,16 +325,13 @@
       "text": "NA"
     },
     "Obesity - adult prevalence rate": {
-      "text": "36.2% (2016)",
-      "country comparison to the world": 12
+      "text": "36.2% (2016)"
     },
     "Children under the age of 5 years underweight": {
-      "text": "0.5% (2012)",
-      "country comparison to the world": 131
+      "text": "0.5% (2012)"
     },
     "Education expenditures": {
-      "text": "5% of GDP (2014)",
-      "country comparison to the world": 61
+      "text": "5% of GDP (2014)"
     },
     "School life expectancy (primary to tertiary education)": {
       "total": {
@@ -336,8 +353,7 @@
       },
       "female": {
         "text": "7.7% (2018 est.)"
-      },
-      "country comparison to the world": 140
+      }
     }
   },
   "Government": {
@@ -371,14 +387,14 @@
       "daylight saving time": {
         "text": "+1hr, begins second Sunday in March; ends first Sunday in November"
       },
-      "note": "note: the 50 United States cover six time zones ++ etymology: named after George Washington (1732-1799), the first president of the United States"
+      "note": "<p><strong>note:</strong> the 50 United States cover six time zones<br /><br /><strong>etymology:</strong> named after George Washington (1732-1799), the first president of the United States</p>"
     },
     "Administrative divisions": {
       "text": "50 states and 1 district*; Alabama, Alaska, Arizona, Arkansas, California, Colorado, Connecticut, Delaware, District of Columbia*, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming"
     },
     "Dependent areas": {
       "text": "American Samoa, Baker Island, Guam, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands, Navassa Island, Northern Mariana Islands, Palmyra Atoll, Puerto Rico, Virgin Islands, Wake Island",
-      "note": "note: from 18 July 1947 until 1 October 1994, the US administered the Trust Territory of the Pacific Islands; it entered into a political relationship with all four political entities: the Northern Mariana Islands is a commonwealth in political union with the US (effective 3 November 1986); the Republic of the Marshall Islands signed a Compact of Free Association with the US (effective 21 October 1986); the Federated States of Micronesia signed a Compact of Free Association with the US (effective 3 November 1986); Palau concluded a Compact of Free Association with the US (effective 1 October 1994)"
+      "note": "<p><strong>note:</strong> from 18 July 1947 until 1 October 1994, the US administered the Trust Territory of the Pacific Islands; it entered into a political relationship with all four political entities: the Northern Mariana Islands is a commonwealth in political union with the US (effective 3 November 1986); the Republic of the Marshall Islands signed a Compact of Free Association with the US (effective 21 October 1986); the Federated States of Micronesia signed a Compact of Free Association with the US (effective 3 November 1986); Palau concluded a Compact of Free Association with the US (effective 1 October 1994)</p>"
     },
     "Independence": {
       "text": "4 July 1776 (declared independence from Great Britain); 3 September 1783 (recognized by Great Britain)"
@@ -419,32 +435,32 @@
     },
     "Executive branch": {
       "chief of state": {
-        "text": "President Donald J. TRUMP (since 20 January 2017); Vice President Michael R. PENCE (since 20 January 2017); note - the president is both chief of state and head of government"
+        "text": "President Joseph R. BIDEN Jr. (since 20 January 2021); Vice President Kamala D. HARRIS (since 20 January 2021); note - the president is both chief of state and head of government"
       },
       "head of government": {
-        "text": "President Donald J. TRUMP (since 20 January 2017); Vice President Michael R. PENCE (since 20 January 2017)"
+        "text": "President Joseph R. BIDEN Jr. (since 20 January 2021); Vice President Kamala D. HARRIS (since 20 January 2021)"
       },
       "cabinet": {
         "text": "Cabinet appointed by the president, approved by the Senate"
       },
       "elections/appointments": {
-        "text": "president and vice president indirectly elected on the same ballot by the Electoral College of 'electors' chosen from each state; president and vice president serve a 4-year term (eligible for a second term); election last held on 8 November 2016 (next to be held on 3 November 2020)"
+        "text": "president and vice president indirectly elected on the same ballot by the Electoral College of 'electors' chosen from each state; president and vice president serve a 4-year term (eligible for a second term); election last held on 3 November 2020 (next to be held on 5 November 2024)"
       },
       "election results": {
-        "text": "Donald J. TRUMP elected president; electoral vote - Donald J. TRUMP (Republican Party) 304, Hillary D. CLINTON (Democratic Party) 227, other 7; percent of direct popular vote - Hillary D. CLINTON 48.2%, Donald J. TRUMP 46.1%, other 5.7%"
+        "text": "Joseph R. BIDEN Jr. elected president; electoral vote - Joseph R. BIDEN Jr. (Democratic Party) 306, Donald J. TRUMP (Republican Party) 232; percent of direct popular vote - Joseph R. BIDEN Jr. 51.3%, Donald J. TRUMP 46.9%, other 1.8%"
       }
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral Congress consists of: Senate (100 seats; 2 members directly elected in each of the 50 state constituencies by simple majority vote except in Georgia and Louisiana which require an absolute majority vote with a second round if needed; members serve 6-year terms with one-third of membership renewed every 2 years) ++ House of Representatives (435 seats; members directly elected in single-seat constituencies by simple majority vote except in Georgia which requires an absolute majority vote with a second round if needed; members serve 2-year terms)"
+        "text": "bicameral Congress consists of:<br />Senate (100 seats; 2 members directly elected in each of the 50 state constituencies by simple majority vote except in Georgia and Louisiana which require an absolute majority vote with a second round if needed; members serve 6-year terms with one-third of membership renewed every 2 years)<br />House of Representatives (435 seats; members directly elected in single-seat constituencies by simple majority vote except in Georgia which requires an absolute majority vote with a second round if needed; members serve 2-year terms)"
       },
       "elections": {
-        "text": "Senate - last held on 6 November 2018 (next to be held on 3 November 2020) ++ House of Representatives - last held on 6 November 2018 (next to be held on 3 November 2020)"
+        "text": "<br />Senate - last held on 3 November 2020 (next to be held on 8 November 2022)<br />House of Representatives - last held on 3 November 2020 (next to be held on 8 November 2022)"
       },
       "election results": {
-        "text": "Senate - percent of vote by party - NA; seats by party - Republican Party 53, Democratic Party 45, independent 2; composition - men 75, women 25, percent of women 25% ++ House of Representatives - percent of vote by party - NA; seats by party - Democratic Party 234, Republican Party 200, 1 seat still undecided; composition - men 328, women 106, percent of women 24.4%; note - total US Congress percent of women 24.5%"
+        "text": "<br />Senate - percent of vote by party - NA; seats by party - Republican Party 50, Democratic Party 50; composition - men 76, women 24, percent of women 24% <br />House of Representatives - percent of vote by party - NA; seats by party - Democratic Party 221, Republican Party 211, 3 seats vacant; composition - men 312, women 120, percent of women 27.8%; note - total US Congress percent of women 27.1%"
       },
-      "note": "note: in addition to the regular members of the House of Representatives there are 6 non-voting delegates elected from the District of Columbia and the US territories of American Samoa, Guam, Puerto Rico, the Northern Mariana Islands, and the Virgin Islands; these are single seat constituencies directly elected by simple majority vote to serve a 2-year term (except for the resident commissioner of Puerto Rico who serves a 4-year term); the delegate can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a \"full floor\" House vote; election of delegates last held on 6 November 2018 (next to be held on 3 November 2020)"
+      "note": "<br><br><strong>note:</strong> in addition to the regular members of the House of Representatives there are 6 non-voting delegates elected from the District of Columbia and the US territories of American Samoa, Guam, Puerto Rico, the Northern Mariana Islands, and the Virgin Islands; these are single seat constituencies directly elected by simple majority vote to serve a 2-year term (except for the resident commissioner of Puerto Rico who serves a 4-year term); the delegate can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a &ldquo;full floor&rdquo; House vote; election of delegates last held on 3 November 2020 (next to be held on 8 November 2022)"
     },
     "Judicial branch": {
       "highest courts": {
@@ -456,17 +472,17 @@
       "subordinate courts": {
         "text": "Courts of Appeal (includes the US Court of Appeal for the Federal District and 12 regional appeals courts); 94 federal district courts in 50 states and territories"
       },
-      "note": "note: the US court system consists of the federal court system and the state court systems; although each court system is responsible for hearing certain types of cases, neither is completely independent of the other, and the systems often interact"
+      "note": "<p><strong>note:</strong> the US court system consists of the federal court system and the state court systems; although each court system is responsible for hearing certain types of cases, neither is completely independent of the other, and the systems often interact</p>"
     },
     "Political parties and leaders": {
-      "text": "Democratic Party [Tom PEREZ] ++ Green Party [collective leadership] ++ Libertarian Party [Nicholas SARWARK] ++ Republican Party [Ronna Romney MCDANIEL]"
+      "text": "Democratic Party [Tom PEREZ]<br />Green Party [collective leadership]<br />Libertarian Party [Nicholas SARWARK]<br />Republican Party [Ronna Romney MCDANIEL]"
     },
     "International organization participation": {
       "text": "ADB (nonregional member), AfDB (nonregional member), ANZUS, APEC, Arctic Council, ARF, ASEAN (dialogue partner), Australia Group, BIS, BSEC (observer), CBSS (observer), CD, CE (observer), CERN (observer), CICA (observer), CP, EAPC, EAS, EBRD, EITI (implementing country), FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MINUSTAH, MONUSCO, NAFTA, NATO, NEA, NSG, OAS, OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), SAARC (observer), SELEC (observer), SICA (observer), SPC, UN, UNCTAD, UNESCO, UNHCR, UNITAR, UNMIL, UNMISS, UNRWA, UN Security Council (permanent), UNTSO, UPU, WCO, WIPO, WMO, WTO, ZC"
     },
     "Flag description": {
       "text": "13 equal horizontal stripes of red (top and bottom) alternating with white; there is a blue rectangle in the upper hoist-side corner bearing 50 small, white, five-pointed stars arranged in nine offset horizontal rows of six stars (top and bottom) alternating with rows of five stars; the 50 stars represent the 50 states, the 13 stripes represent the 13 original colonies; blue stands for loyalty, devotion, truth, justice, and friendship, red symbolizes courage, zeal, and fervency, while white denotes purity and rectitude of conduct; commonly referred to by its nickname of Old Glory",
-      "note": "note: the design and colors have been the basis for a number of other flags, including Chile, Liberia, Malaysia, and Puerto Rico"
+      "note": "<p><strong>note:</strong> the design and colors have been the basis for a number of other flags, including Chile, Liberia, Malaysia, and Puerto Rico</p>"
     },
     "National symbol(s)": {
       "text": "bald eagle; national colors: red, white, blue"
@@ -478,20 +494,34 @@
       "lyrics/music": {
         "text": "Francis Scott KEY/John Stafford SMITH"
       },
-      "note": "note: adopted 1931; during the War of 1812, after witnessing the successful American defense of Fort McHenry in Baltimore following British naval bombardment, Francis Scott KEY wrote the lyrics to what would become the national anthem; the lyrics were set to the tune of \"The Anacreontic Song\"; only the first verse is sung"
+      "note": "<p><strong>note:</strong> adopted 1931; during the War of 1812, after witnessing the successful American defense of Fort McHenry in Baltimore following British naval bombardment, Francis Scott KEY wrote the lyrics to what would become the national anthem; the lyrics were set to the tune of \"The Anacreontic Song\"; only the first verse is sung</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "The US has the most technologically powerful economy in the world, with a per capita GDP of $59,500. US firms are at or near the forefront in technological advances, especially in computers, pharmaceuticals, and medical, aerospace, and military equipment; however, their advantage has narrowed since the end of World War II. Based on a comparison of GDP measured at purchasing power parity conversion rates, the US economy in 2014, having stood as the largest in the world for more than a century, slipped into second place behind China, which has more than tripled the US growth rate for each year of the past four decades. ++ In the US, private individuals and business firms make most of the decisions, and the federal and state governments buy needed goods and services predominantly in the private marketplace. US business firms enjoy greater flexibility than their counterparts in Western Europe and Japan in decisions to expand capital plant, to lay off surplus workers, and to develop new products. At the same time, businesses face higher barriers to enter their rivals' home markets than foreign firms face entering US markets. ++ Long-term problems for the US include stagnation of wages for lower-income families, inadequate investment in deteriorating infrastructure, rapidly rising medical and pension costs of an aging population, energy shortages, and sizable current account and budget deficits. ++ The onrush of technology has been a driving factor in the gradual development of a \"two-tier\" labor market in which those at the bottom lack the education and the professional/technical skills of those at the top and, more and more, fail to get comparable pay raises, health insurance coverage, and other benefits. But the globalization of trade, and especially the rise of low-wage producers such as China, has put additional downward pressure on wages and upward pressure on the return to capital. Since 1975, practically all the gains in household income have gone to the top 20% of households. Since 1996, dividends and capital gains have grown faster than wages or any other category of after-tax income. ++ Imported oil accounts for more than 50% of US consumption and oil has a major impact on the overall health of the economy. Crude oil prices doubled between 2001 and 2006, the year home prices peaked; higher gasoline prices ate into consumers' budgets and many individuals fell behind in their mortgage payments. Oil prices climbed another 50% between 2006 and 2008, and bank foreclosures more than doubled in the same period. Besides dampening the housing market, soaring oil prices caused a drop in the value of the dollar and a deterioration in the US merchandise trade deficit, which peaked at $840 billion in 2008. Because the US economy is energy-intensive, falling oil prices since 2013 have alleviated many of the problems the earlier increases had created. ++ The sub-prime mortgage crisis, falling home prices, investment bank failures, tight credit, and the global economic downturn pushed the US into a recession by mid-2008. GDP contracted until the third quarter of 2009, the deepest and longest downturn since the Great Depression. To help stabilize financial markets, the US Congress established a $700 billion Troubled Asset Relief Program in October 2008. The government used some of these funds to purchase equity in US banks and industrial corporations, much of which had been returned to the government by early 2011. In January 2009, Congress passed and former President Barack OBAMA signed a bill providing an additional $787 billion fiscal stimulus to be used over 10 years - two-thirds on additional spending and one-third on tax cuts - to create jobs and to help the economy recover. In 2010 and 2011, the federal budget deficit reached nearly 9% of GDP. In 2012, the Federal Government reduced the growth of spending and the deficit shrank to 7.6% of GDP. US revenues from taxes and other sources are lower, as a percentage of GDP, than those of most other countries. ++ Wars in Iraq and Afghanistan required major shifts in national resources from civilian to military purposes and contributed to the growth of the budget deficit and public debt. Through FY 2018, the direct costs of the wars will have totaled more than $1.9 trillion, according to US Government figures. ++ In March 2010, former President OBAMA signed into law the Patient Protection and Affordable Care Act (ACA), a health insurance reform that was designed to extend coverage to an additional 32 million Americans by 2016, through private health insurance for the general population and Medicaid for the impoverished. Total spending on healthcare - public plus private - rose from 9.0% of GDP in 1980 to 17.9% in 2010. ++ In July 2010, the former president signed the DODD-FRANK Wall Street Reform and Consumer Protection Act, a law designed to promote financial stability by protecting consumers from financial abuses, ending taxpayer bailouts of financial firms, dealing with troubled banks that are \"too big to fail,\" and improving accountability and transparency in the financial system - in particular, by requiring certain financial derivatives to be traded in markets that are subject to government regulation and oversight. ++ The Federal Reserve Board (Fed) announced plans in December 2012 to purchase $85 billion per month of mortgage-backed and Treasury securities in an effort to hold down long-term interest rates, and to keep short-term rates near zero until unemployment dropped below 6.5% or inflation rose above 2.5%. The Fed ended its purchases during the summer of 2014, after the unemployment rate dropped to 6.2%, inflation stood at 1.7%, and public debt fell below 74% of GDP. In December 2015, the Fed raised its target for the benchmark federal funds rate by 0.25%, the first increase since the recession began. With continued low growth, the Fed opted to raise rates several times since then, and in December 2017, the target rate stood at 1.5%. ++ In December 2017, Congress passed and President Donald TRUMP signed the Tax Cuts and Jobs Act, which, among its various provisions, reduces the corporate tax rate from 35% to 21%; lowers the individual tax rate for those with the highest incomes from 39.6% to 37%, and by lesser percentages for those at lower income levels; changes many deductions and credits used to calculate taxable income; and eliminates in 2019 the penalty imposed on taxpayers who do not obtain the minimum amount of health insurance required under the ACA. The new taxes took effect on 1 January 2018; the tax cut for corporations are permanent, but those for individuals are scheduled to expire after 2025. The Joint Committee on Taxation (JCT) under the Congressional Budget Office estimates that the new law will reduce tax revenues and increase the federal deficit by about $1.45 trillion over the 2018-2027 period. This amount would decline if economic growth were to exceed the JCT's estimate."
+      "text": "<p>The US has the most technologically powerful economy in the world, with a per capita GDP of $59,500. US firms are at or near the forefront in technological advances, especially in computers, pharmaceuticals, and medical, aerospace, and military equipment; however, their advantage has narrowed since the end of World War II. Based on a comparison of GDP measured at purchasing power parity conversion rates, the US economy in 2014, having stood as the largest in the world for more than a century, slipped into second place behind China, which has more than tripled the US growth rate for each year of the past four decades.</p> <p>&nbsp;</p> <p>In the US, private individuals and business firms make most of the decisions, and the federal and state governments buy needed goods and services predominantly in the private marketplace. US business firms enjoy greater flexibility than their counterparts in Western Europe and Japan in decisions to expand capital plant, to lay off surplus workers, and to develop new products. At the same time, businesses face higher barriers to enter their rivals' home markets than foreign firms face entering US markets.</p> <p>&nbsp;</p> <p>Long-term problems for the US include stagnation of wages for lower-income families, inadequate investment in deteriorating infrastructure, rapidly rising medical and pension costs of an aging population, energy shortages, and sizable current account and budget deficits.</p> <p>&nbsp;</p> <p>The onrush of technology has been a driving factor in the gradual development of a \"two-tier\" labor market in which those at the bottom lack the education and the professional/technical skills of those at the top and, more and more, fail to get comparable pay raises, health insurance coverage, and other benefits. But the globalization of trade, and especially the rise of low-wage producers such as China, has put additional downward pressure on wages and upward pressure on the return to capital. Since 1975, practically all the gains in household income have gone to the top 20% of households. Since 1996, dividends and capital gains have grown faster than wages or any other category of after-tax income.</p> <p>&nbsp;</p> <p>Imported oil accounts for more than 50% of US consumption and oil has a major impact on the overall health of the economy. Crude oil prices doubled between 2001 and 2006, the year home prices peaked; higher gasoline prices ate into consumers' budgets and many individuals fell behind in their mortgage payments. Oil prices climbed another 50% between 2006 and 2008, and bank foreclosures more than doubled in the same period. Besides dampening the housing market, soaring oil prices caused a drop in the value of the dollar and a deterioration in the US merchandise trade deficit, which peaked at $840 billion in 2008. Because the US economy is energy-intensive, falling oil prices since 2013 have alleviated many of the problems the earlier increases had created.</p> <p>&nbsp;</p> <p>The sub-prime mortgage crisis, falling home prices, investment bank failures, tight credit, and the global economic downturn pushed the US into a recession by mid-2008. GDP contracted until the third quarter of 2009, the deepest and longest downturn since the Great Depression. To help stabilize financial markets, the US Congress established a $700 billion Troubled Asset Relief Program in October 2008. The government used some of these funds to purchase equity in US banks and industrial corporations, much of which had been returned to the government by early 2011. In January 2009, Congress passed and former President Barack OBAMA signed a bill providing an additional $787 billion fiscal stimulus to be used over 10 years - two-thirds on additional spending and one-third on tax cuts - to create jobs and to help the economy recover. In 2010 and 2011, the federal budget deficit reached nearly 9% of GDP. In 2012, the Federal Government reduced the growth of spending and the deficit shrank to 7.6% of GDP. US revenues from taxes and other sources are lower, as a percentage of GDP, than those of most other countries.</p> <p>&nbsp;</p> <p>Wars in Iraq and Afghanistan required major shifts in national resources from civilian to military purposes and contributed to the growth of the budget deficit and public debt. Through FY 2018, the direct costs of the wars will have totaled more than $1.9 trillion, according to US Government figures.</p> <p>&nbsp;</p> <p>In March 2010, former President OBAMA signed into law the Patient Protection and Affordable Care Act (ACA), a health insurance reform that was designed to extend coverage to an additional 32 million Americans by 2016, through private health insurance for the general population and Medicaid for the impoverished. Total spending on healthcare - public plus private - rose from 9.0% of GDP in 1980 to 17.9% in 2010.</p> <p>&nbsp;</p> <p>In July 2010, the former president signed the DODD-FRANK Wall Street Reform and Consumer Protection Act, a law designed to promote financial stability by protecting consumers from financial abuses, ending taxpayer bailouts of financial firms, dealing with troubled banks that are \"too big to fail,\" and improving accountability and transparency in the financial system - in particular, by requiring certain financial derivatives to be traded in markets that are subject to government regulation and oversight.</p> <p>&nbsp;</p> <p>The Federal Reserve Board (Fed) announced plans in December 2012 to purchase $85 billion per month of mortgage-backed and Treasury securities in an effort to hold down long-term interest rates, and to keep short-term rates near zero until unemployment dropped below 6.5% or inflation rose above 2.5%. The Fed ended its purchases during the summer of 2014, after the unemployment rate dropped to 6.2%, inflation stood at 1.7%, and public debt fell below 74% of GDP. In December 2015, the Fed raised its target for the benchmark federal funds rate by 0.25%, the first increase since the recession began. With continued low growth, the Fed opted to raise rates several times since then, and in December 2017, the target rate stood at 1.5%.</p> <p>&nbsp;</p> <p>In December 2017, Congress passed and former President Donald TRUMP signed the Tax Cuts and Jobs Act, which, among its various provisions, reduces the corporate tax rate from 35% to 21%; lowers the individual tax rate for those with the highest incomes from 39.6% to 37%, and by lesser percentages for those at lower income levels; changes many deductions and credits used to calculate taxable income; and eliminates in 2019 the penalty imposed on taxpayers who do not obtain the minimum amount of health insurance required under the ACA. The new taxes took effect on 1 January 2018; the tax cut for corporations are permanent, but those for individuals are scheduled to expire after 2025. The Joint Committee on Taxation (JCT) under the Congressional Budget Office estimates that the new law will reduce tax revenues and increase the federal deficit by about $1.45 trillion over the 2018-2027 period. This amount would decline if economic growth were to exceed the JCT&rsquo;s estimate.</p>"
     },
-    "GDP real growth rate": {
-      "text": "2.16% (2019 est.) / 3% (2018 est.) / 2.33% (2017 est.)",
-      "country comparison to the world": 130
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2019": {
+        "text": "2.16% (2019 est.)"
+      },
+      "Real GDP growth rate 2018": {
+        "text": "3% (2018 est.)"
+      },
+      "Real GDP growth rate 2017": {
+        "text": "2.33% (2017 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "1.8% (2019 est.) / 2.4% (2018 est.) / 2.1% (2017 est.)",
-      "country comparison to the world": 104
+      "Inflation rate (consumer prices) 2019": {
+        "text": "1.8% (2019 est.)"
+      },
+      "Inflation rate (consumer prices) 2018": {
+        "text": "2.4% (2018 est.)"
+      },
+      "Inflation rate (consumer prices) 2017": {
+        "text": "2.1% (2017 est.)"
+      }
     },
     "Credit ratings": {
       "Fitch rating": {
@@ -504,21 +534,43 @@
         "text": "AA+ (2011)"
       }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$18,349,107,000,000 (2019 est.) / $17,960,939,000,000 (2018 est.) / $17,438,404,000,000 (2017 est.)",
-      "note": "note: data are in 2010 dollars"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2019": {
+        "text": "$20,524,945,000,000 (2019 est.)"
+      },
+      "Real GDP (purchasing power parity) 2018": {
+        "text": "$20,090,748,000,000 (2018 est.)"
+      },
+      "Real GDP (purchasing power parity) 2017": {
+        "text": "$19,519,353,000,000 (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
     },
     "GDP (official exchange rate)": {
       "text": "$21,433,228,000,000 (2019 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$55,761 (2019 est.) / $54,910 (2018 est.) / $53,643 (2017 est.)",
-      "note": "note: data are in 2010 dollars",
-      "country comparison to the world": 23
+    "Real GDP per capita": {
+      "Real GDP per capita 2019": {
+        "text": "$62,530 (2019 est.)"
+      },
+      "Real GDP per capita 2018": {
+        "text": "$61,498 (2018 est.)"
+      },
+      "Real GDP per capita 2017": {
+        "text": "$60,062 (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
     },
     "Gross national saving": {
-      "text": "18.9% of GDP (2017 est.) / 18.6% of GDP (2016 est.) / 20.1% of GDP (2015 est.)",
-      "country comparison to the world": 106
+      "Gross national saving 2017": {
+        "text": "18.9% of GDP (2017 est.)"
+      },
+      "Gross national saving 2016": {
+        "text": "18.6% of GDP (2016 est.)"
+      },
+      "Gross national saving 2015": {
+        "text": "20.1% of GDP (2015 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -552,22 +604,22 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "text": "92.0 (2020)"
+      "Overall Ease of Doing Business score 2020": {
+        "text": "92.0 (2020)"
+      }
     },
-    "Agriculture - products": {
-      "text": "wheat, corn, other grains, fruits, vegetables, cotton; beef, pork, poultry, dairy products; fish; forest products"
+    "Agricultural products": {
+      "text": "maize, milk, soybeans, wheat, sugar cane, sugar beet, poultry, potatoes, cotton, pork"
     },
     "Industries": {
       "text": "highly diversified, world leading, high-technology innovator, second-largest industrial output in the world; petroleum, steel, motor vehicles, aerospace, telecommunications, chemicals, electronics, food processing, consumer goods, lumber, mining"
     },
     "Industrial production growth rate": {
-      "text": "2.3% (2017 est.)",
-      "country comparison to the world": 122
+      "text": "2.3% (2017 est.)"
     },
     "Labor force": {
-      "text": "35.412 million (2020 est.)",
-      "note": "note: includes unemployed",
-      "country comparison to the world": 16
+      "text": "146.128 million (2020 est.)",
+      "note": "<p><strong>note:</strong> includes unemployed</p>"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -600,14 +652,26 @@
       "other services": {
         "text": "17.6% (2009)"
       },
-      "note": "note: figures exclude the unemployed"
+      "note": "<p><strong>note:</strong> figures exclude the unemployed</p>"
     },
     "Unemployment rate": {
-      "text": "3.89% (2018 est.) / 4.4% (2017 est.)",
-      "country comparison to the world": 58
+      "Unemployment rate 2018": {
+        "text": "3.89% (2018 est.)"
+      },
+      "Unemployment rate 2017": {
+        "text": "4.4% (2017 est.)"
+      }
     },
     "Population below poverty line": {
       "text": "15.1% (2010 est.)"
+    },
+    "Gini Index coefficient - distribution of family income": {
+      "Gini Index coefficient - distribution of family income 2016": {
+        "text": "41.1 (2016 est.)"
+      },
+      "Gini Index coefficient - distribution of family income 1997": {
+        "text": "40.8 (1997)"
+      }
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
@@ -624,32 +688,45 @@
       "expenditures": {
         "text": "3.981 trillion (2017 est.)"
       },
-      "note": "note: revenues exclude social contributions of approximately $1.0 trillion; expenditures exclude social benefits of approximately $2.3 trillion"
+      "note": "<p><strong>note:</strong> revenues exclude social contributions of approximately $1.0 trillion; expenditures exclude social benefits of approximately $2.3 trillion</p>"
     },
     "Taxes and other revenues": {
       "text": "17% (of GDP) (2017 est.)",
-      "note": "note: excludes contributions for social security and other programs; if social contributions were added, taxes and other revenues would amount to approximately 22% of GDP",
-      "country comparison to the world": 172
+      "note": "<p><strong>note:</strong> excludes contributions for social security and other programs; if social contributions were added, taxes and other revenues would amount to approximately 22% of GDP</p>"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-3.4% (of GDP) (2017 est.)",
-      "country comparison to the world": 145
+      "text": "-3.4% (of GDP) (2017 est.)"
     },
     "Public debt": {
-      "text": "78.8% of GDP (2017 est.) / 81.2% of GDP (2016 est.)",
-      "note": "note: data cover only what the United States Treasury denotes as \"Debt Held by the Public,\" which includes all debt instruments issued by the Treasury that are owned by non-US Government entities; the data include Treasury debt held by foreign entities; the data exclude debt issued by individual US states, as well as intragovernmental debt; intragovernmental debt consists of Treasury borrowings from surpluses in the trusts for Federal Social Security, Federal Employees, Hospital and Supplemental Medical Insurance (Medicare), Disability and Unemployment, and several other smaller trusts; if data for intragovernment debt were added, \"gross debt\" would increase by about one-third of GDP",
-      "country comparison to the world": 36
+      "Public debt 2017": {
+        "text": "78.8% of GDP (2017 est.)"
+      },
+      "Public debt 2016": {
+        "text": "81.2% of GDP (2016 est.)"
+      },
+      "note": "<p><strong>note:</strong> data cover only what the United States Treasury denotes as \"Debt Held by the Public,\" which includes all debt instruments issued by the Treasury that are owned by non-US Government entities; the data include Treasury debt held by foreign entities; the data exclude debt issued by individual US states, as well as intragovernmental debt; intragovernmental debt consists of Treasury borrowings from surpluses in the trusts for Federal Social Security, Federal Employees, Hospital and Supplemental Medical Insurance (Medicare), Disability and Unemployment, and several other smaller trusts; if data for intragovernment debt were added, \"gross debt\" would increase by about one-third of GDP</p>"
     },
     "Fiscal year": {
       "text": "1 October - 30 September"
     },
     "Current account balance": {
-      "text": "-$480.225 billion (2019 est.) / -$449.694 billion (2018 est.)",
-      "country comparison to the world": 206
+      "Current account balance 2019": {
+        "text": "-$480.225 billion (2019 est.)"
+      },
+      "Current account balance 2018": {
+        "text": "-$449.694 billion (2018 est.)"
+      }
     },
     "Exports": {
-      "text": "$2,377,156,000,000 (2019 est.) / $2,379,936,000,000 (2018 est.) / $2,310,851,000,000 (2017 est.)",
-      "country comparison to the world": 2
+      "Exports 2019": {
+        "text": "$2,377,156,000,000 (2019 est.)"
+      },
+      "Exports 2018": {
+        "text": "$2,379,936,000,000 (2018 est.)"
+      },
+      "Exports 2017": {
+        "text": "$2,310,851,000,000 (2017 est.)"
+      }
     },
     "Exports - partners": {
       "text": "Canada 18.3%, Mexico 15.7%, China 8.4%, Japan 4.4% (2017)"
@@ -658,26 +735,41 @@
       "text": "agricultural products (soybeans, fruit, corn) 9.2%, industrial supplies (organic chemicals) 26.8%, capital goods (transistors, aircraft, motor vehicle parts, computers, telecommunications equipment) 49.0%, consumer goods (automobiles, medicines) 15.0% (2008 est.)"
     },
     "Imports": {
-      "text": "$3,214,184,000,000 (2019 est.) / $3,179,875,000,000 (2018 est.) / $3,054,759,000,000 (2017 est.)",
-      "country comparison to the world": 1
-    },
-    "Imports - commodities": {
-      "text": "agricultural products 4.9%, industrial supplies 32.9% (crude oil 8.2%), capital goods 30.4% (computers, telecommunications equipment, motor vehicle parts, office machines, electric power machinery), consumer goods 31.8% (automobiles, clothing, medicines, furniture, toys) (2008 est.)"
+      "Imports 2019": {
+        "text": "$3,214,184,000,000 (2019 est.)"
+      },
+      "Imports 2018": {
+        "text": "$3,179,875,000,000 (2018 est.)"
+      },
+      "Imports 2017": {
+        "text": "$3,054,759,000,000 (2017 est.)"
+      }
     },
     "Imports - partners": {
       "text": "China 21.6%, Mexico 13.4%, Canada 12.8%, Japan 5.8%, Germany 5% (2017)"
     },
+    "Imports - commodities": {
+      "text": "agricultural products 4.9%, industrial supplies 32.9% (crude oil 8.2%), capital goods 30.4% (computers, telecommunications equipment, motor vehicle parts, office machines, electric power machinery), consumer goods 31.8% (automobiles, clothing, medicines, furniture, toys) (2008 est.)"
+    },
     "Reserves of foreign exchange and gold": {
-      "text": "$123.3 billion (31 December 2017 est.) / $117.6 billion (31 December 2015 est.)",
-      "country comparison to the world": 20
+      "Reserves of foreign exchange and gold 31 December 2017": {
+        "text": "$123.3 billion (31 December 2017 est.)"
+      },
+      "Reserves of foreign exchange and gold 31 December 2015": {
+        "text": "$117.6 billion (31 December 2015 est.)"
+      }
     },
     "Debt - external": {
-      "text": "$17.91 trillion (31 March 2016 est.) / $17.85 trillion (31 March 2015 est.)",
-      "note": "note: approximately 4/5ths of US external debt is denominated in US dollars; foreign lenders have been willing to hold US dollar denominated debt instruments because they view the dollar as the world's reserve currency",
-      "country comparison to the world": 1
+      "Debt - external 31 March 2016": {
+        "text": "$17.91 trillion (31 March 2016 est.)"
+      },
+      "Debt - external 31 March 2015": {
+        "text": "$17.85 trillion (31 March 2015 est.)"
+      },
+      "note": "<br><br><strong>note:</strong> approximately 4/5ths of US external debt is denominated in US dollars; foreign lenders have been willing to hold US dollar denominated debt instruments because they view the dollar as the world's reserve currency"
     },
     "Exchange rates": {
-      "note": "British pounds per US dollar: 0.7836 (2017 est.), 0.738 (2016 est.), 0.738 (2015 est.), 0.607 (2014 est), 0.6391 (2013 est.) ++ Canadian dollars per US dollar: 1, 1.308 (2017 est.), 1.3256 (2016 est.), 1.3256 (2015 est.), 1.2788 (2014 est.), 1.0298 (2013 est.) ++ Chinese yuan per US dollar: 1, 6.7588 (2017 est.), 6.6445 (2016 est.), 6.2275 (2015 est.), 6.1434 (2014 est.), 6.1958 (2013 est.) ++ euros per US dollar: 0.885 (2017 est.), 0.903 (2016 est.), 0.9214(2015 est.), 0.885 (2014 est.), 0.7634 (2013 est.) ++ Japanese yen per US dollar: 111.10 (2017 est.), 108.76 (2016 est.), 108.76 (2015 est.), 121.02 (2014 est.), 97.44 (2013 est.)"
+      "text": "<strong>British pounds per US dollar: </strong>0.7836 (2017 est.), 0.738 (2016 est.), 0.738 (2015 est.), 0.607 (2014 est), 0.6391 (2013 est.)<br /> <strong>Canadian dollars per US dollar: </strong>1, 1.308 (2017 est.), 1.3256 (2016 est.), 1.3256 (2015 est.), 1.2788 (2014 est.), 1.0298 (2013 est.)<br /> <strong>Chinese yuan per US dollar: </strong>1, 6.7588 (2017 est.), 6.6445 (2016 est.), 6.2275 (2015 est.), 6.1434 (2014 est.), 6.1958 (2013 est.)<br /> <strong>euros per US dollar: </strong>0.885 (2017 est.), 0.903 (2016 est.), 0.9214(2015 est.), 0.885 (2014 est.), 0.7634 (2013 est.)<br /> <strong>Japanese yen per US dollar: </strong>111.10 (2017 est.), 108.76 (2016 est.), 108.76 (2015 est.), 121.02 (2014 est.), 97.44 (2013 est.)"
     }
   },
   "Energy": {
@@ -687,95 +779,73 @@
       }
     },
     "Electricity - production": {
-      "text": "4.095 trillion kWh (2016 est.)",
-      "country comparison to the world": 2
+      "text": "4.095 trillion kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "3.902 trillion kWh (2016 est.)",
-      "country comparison to the world": 2
+      "text": "3.902 trillion kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "9.695 billion kWh (2016 est.)",
-      "country comparison to the world": 22
+      "text": "9.695 billion kWh (2016 est.)"
     },
     "Electricity - imports": {
-      "text": "72.72 billion kWh (2016 est.)",
-      "country comparison to the world": 1
+      "text": "72.72 billion kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "1.087 billion kW (2016 est.)",
-      "country comparison to the world": 2
+      "text": "1.087 billion kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "70% of total installed capacity (2016 est.)",
-      "country comparison to the world": 110
+      "text": "70% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "9% of total installed capacity (2017 est.)",
-      "country comparison to the world": 18
+      "text": "9% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "7% of total installed capacity (2017 est.)",
-      "country comparison to the world": 128
+      "text": "7% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "14% of total installed capacity (2017 est.)",
-      "country comparison to the world": 65
+      "text": "14% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "10.962 million bbl/day (2018 est.)",
-      "country comparison to the world": 1
+      "text": "10.962 million bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "1.158 million bbl/day (2017 est.)",
-      "country comparison to the world": 12
+      "text": "1.158 million bbl/day (2017 est.)"
     },
     "Crude oil - imports": {
-      "text": "7.969 million bbl/day (2017 est.)",
-      "country comparison to the world": 1
+      "text": "7.969 million bbl/day (2017 est.)"
     },
     "Crude oil - proved reserves": {
       "text": "NA bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "20.3 million bbl/day (2017 est.)",
-      "country comparison to the world": 1
+      "text": "20.3 million bbl/day (2017 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "19.96 million bbl/day (2017 est.)",
-      "country comparison to the world": 1
+      "text": "19.96 million bbl/day (2017 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "5.218 million bbl/day (2017 est.)",
-      "country comparison to the world": 1
+      "text": "5.218 million bbl/day (2017 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "2.175 million bbl/day (2017 est.)",
-      "country comparison to the world": 2
+      "text": "2.175 million bbl/day (2017 est.)"
     },
     "Natural gas - production": {
-      "text": "772.8 billion cu m (2017 est.)",
-      "country comparison to the world": 1
+      "text": "772.8 billion cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "767.6 billion cu m (2017 est.)",
-      "country comparison to the world": 1
+      "text": "767.6 billion cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "89.7 billion cu m (2017 est.)",
-      "country comparison to the world": 4
+      "text": "89.7 billion cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "86.15 billion cu m (2017 est.)",
-      "country comparison to the world": 4
+      "text": "86.15 billion cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "0 cu m (1 January 2017 est.)",
-      "country comparison to the world": 203
+      "text": "0 cu m (1 January 2017 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "5.242 billion Mt (2017 est.)",
-      "country comparison to the world": 2
+      "text": "5.242 billion Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -785,8 +855,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "32.6 (2019 est.)"
-      },
-      "country comparison to the world": 2
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -794,20 +863,19 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "123.69 (2019 est.)"
-      },
-      "country comparison to the world": 3
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "a large, technologically advanced, multipurpose communications system; mobile subscriber penetration rate of about 129%; national LTE-M services, closes down 2G infrastructure and reassigns spectrum for 5G; FttP rather than FttN efforts (2020)"
+        "text": "a large, technologically advanced, multipurpose communications system; mobile subscriber penetration rate of about 129%;&nbsp;national LTE-M services, closes down 2G infrastructure and reassigns spectrum for 5G;&nbsp;FttP rather than FttN efforts (2020)"
       },
       "domestic": {
         "text": "a large system of fiber-optic cable, microwave radio relay, coaxial cable, and domestic satellites carries every form of telephone traffic; a rapidly growing cellular system carries mobile telephone traffic throughout the country; fixed-line 33 per 100 and mobile-cellular 124 per 100 (2019)"
       },
       "international": {
-        "text": "country code - 1; landing points for the Quintillion Subsea Cable Network, TERRA SW, AU-Aleutian, KKFL, AKORN, Alaska United -West, & -East & -Southeast, North Star, Lynn Canal Fiber, KetchCar 1, PC-1, SCCN, Tat TGN-Pacific & -Atlantic, Jupiter, Hawaiki, NCP, FASTER, HKA, JUS, AAG, BtoBE, Currie, Southern Cross NEXT, SxS, PLCN, Utility EAC-Pacific, SEA-US, Paniolo Cable Network, HICS, HIFN, ASH, Telstra Endeavor, Honotua, AURORA, ARCOS, AMX-1, Americas -I & -II, Columbus IIb & -III, Maya-1, MAC, GTMO-1, BICS, CFX-1, GlobeNet, Monet, SAm-1, Bahamas 2, PCCS, BRUSA, Dunant, MAREA, SAE x1, TAT 14, Apollo, Gemini Bermuda, Havfrue/AEC-2, Seabras-1, WALL-LI, NYNJ-1, FLAG Atalantic-1, Yellow, Atlantic Crossing-1, AE Connect -1, sea2shore, Challenger Bermuda-1, and GTT Atlantic submarine cable systems providing international connectivity to Europe, Africa, the Middle East, Asia, Southeast Asia, Australia, New Zealand, Pacific, & Atlantic, and Indian Ocean Islands, Central and South America, Caribbean, Canada and US; satellite earth stations - 61 Intelsat (45 Atlantic Ocean and 16 Pacific Ocean), 5 Intersputnik (Atlantic Ocean region), and 4 Inmarsat (Pacific and Atlantic Ocean regions) (2020)"
+        "text": "country code - 1; landing points for the Quintillion Subsea Cable Network, TERRA SW, AU-Aleutian, KKFL, AKORN, Alaska United -West, &amp; -East &amp; -Southeast, North Star, Lynn Canal Fiber, KetchCar 1, PC-1, SCCN, Tat TGN-Pacific &amp; -Atlantic, Jupiter, Hawaiki, NCP, FASTER, HKA, JUS, AAG, BtoBE, Currie, Southern Cross NEXT, SxS, PLCN, Utility EAC-Pacific, SEA-US, Paniolo Cable Network, HICS, HIFN, ASH, Telstra Endeavor, Honotua, AURORA, ARCOS, AMX-1, Americas -I &amp;&nbsp;-II, Columbus IIb &amp; -III, Maya-1, MAC, GTMO-1, BICS, CFX-1, GlobeNet, Monet, SAm-1, Bahamas 2, PCCS, BRUSA, Dunant, MAREA, SAE x1,&nbsp;TAT 14,&nbsp;Apollo, Gemini Bermuda, Havfrue/AEC-2, Seabras-1,&nbsp;WALL-LI, NYNJ-1, FLAG Atalantic-1, Yellow, Atlantic Crossing-1,&nbsp;AE Connect -1, sea2shore, Challenger Bermuda-1, and&nbsp;GTT Atlantic&nbsp;submarine cable systems providing international connectivity to Europe, Africa,&nbsp;the Middle East, Asia, Southeast Asia, Australia,&nbsp;New Zealand, Pacific, &amp;&nbsp;Atlantic, and Indian Ocean&nbsp;Islands, Central and South America, Caribbean, Canada&nbsp;and US; satellite earth stations - 61 Intelsat (45 Atlantic Ocean and 16 Pacific Ocean), 5 Intersputnik (Atlantic Ocean region), and 4 Inmarsat (Pacific and Atlantic Ocean regions) (2020)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "4 major terrestrial TV networks with affiliate stations throughout the country, plus cable and satellite networks, independent stations, and a limited public broadcasting sector that is largely supported by private grants; overall, thousands of TV stations broadcasting; multiple national radio networks with many affiliate stations; while most stations are commercial, National Public Radio (NPR) has a network of some 900 member stations; satellite radio available; in total, over 15,000 radio stations operating (2018)"
@@ -821,8 +889,7 @@
       },
       "percent of population": {
         "text": "87.27% (July 2018 est.)"
-      },
-      "country comparison to the world": 3
+      }
     },
     "Broadband - fixed subscriptions": {
       "total": {
@@ -830,11 +897,10 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "34 (2018 est.)"
-      },
-      "country comparison to the world": 2
+      }
     },
     "Communications - note": {
-      "text": "note 1: The Library of Congress, Washington DC, USA, claims to be the largest library in the world with more than 167 million items (as of 2018); its collections are universal, not limited by subject, format, or national boundary, and include materials from all parts of the world and in over 450 languages; collections include: books, newspapers, magazines, sheet music, sound and video recordings, photographic images, artwork, architectural drawings, and copyright data ++ note 2: Cape Canaveral, Florida, USA, hosts one of four dedicated ground antennas that assist in the operation of the Global Positioning System (GPS) navigation system (the others are on Ascension (Saint Helena, Ascension, and Tistan da Cunha), Diego Garcia (British Indian Ocean Territory), and at Kwajalein (Marshall Islands)"
+      "text": "<strong>note 1:</strong> The Library of Congress, Washington DC, USA, claims to be the largest library in the world with more than 167 million items (as of 2018); its collections are universal, not limited by subject, format, or national boundary, and include materials from all parts of the world and in over 450 languages; collections include: books, newspapers, magazines, sheet music, sound and video recordings, photographic images, artwork, architectural drawings, and copyright data<br /><br /><strong>note 2:</strong> Cape Canaveral, Florida, USA, hosts one of four dedicated ground antennas that assist in the operation of the Global Positioning System (GPS) navigation system (the others are on Ascension (Saint Helena, Ascension, and Tistan da Cunha), Diego Garcia (British Indian Ocean Territory), and at Kwajalein (Marshall Islands)"
     }
   },
   "Transportation": {
@@ -856,8 +922,9 @@
       "text": "N (2016)"
     },
     "Airports": {
-      "text": "13,513 (2013)",
-      "country comparison to the world": 1
+      "total": {
+        "text": "13,513 (2013)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -911,8 +978,7 @@
       },
       "standard gauge": {
         "text": "293,564.2 km 1.435-m gauge (2014)"
-      },
-      "country comparison to the world": 1
+      }
     },
     "Roadways": {
       "total": {
@@ -923,21 +989,18 @@
       },
       "unpaved": {
         "text": "2,281,895 km (2012)"
-      },
-      "country comparison to the world": 1
+      }
     },
     "Waterways": {
-      "text": "41,009 km (19,312 km used for commerce; Saint Lawrence Seaway of 3,769 km, including the Saint Lawrence River of 3,058 km, is shared with Canada) (2012)",
-      "country comparison to the world": 5
+      "text": "41,009 km (19,312 km used for commerce; Saint Lawrence Seaway of 3,769 km, including the Saint Lawrence River of 3,058 km, is shared with Canada) (2012)"
     },
     "Merchant marine": {
       "total": {
-        "text": "3,673"
+        "text": "3,652"
       },
       "by type": {
-        "text": "bulk carrier 5, container ship 60, general cargo 104, oil tanker 68, other 3,436 (2019)"
-      },
-      "country comparison to the world": 5
+        "text": "bulk carrier 5, container ship 63, general cargo 104, oil tanker 68, other 3,412 (2020)"
+      }
     },
     "Ports and terminals": {
       "oil terminal(s)": {
@@ -947,7 +1010,7 @@
         "text": "Charleston (2,177,000), Hampton Roads (2,841,000), Houston (2,459,000), Long Beach (7,544,000), Los Angeles (9,343,000), New York/New Jersey (6,710,000), Oakland (2,420,000), Savannah (4,046,000), Seattle/Tacoma (3,665,000) (2017)"
       },
       "LNG terminal(s) (export)": {
-        "text": "Cameron (LA), Corpus Christi (TX), Cove Point (MD), Elba Island (GA), Freeport (TX), Sabine Pass (LA) ++ note - two additional export facilities are under construction and expected to begin commercial operations in 2023-2024"
+        "text": "Cameron (LA), Corpus Christi (TX), Cove Point (MD), Elba Island (GA), Freeport (TX), Sabine Pass (LA)<br />note - two additional export facilities are under construction and expected to begin commercial operations in 2023-2024"
       },
       "LNG terminal(s) (import)": {
         "text": "Cove Point (MD), Elba Island (GA), Everett (MA), Freeport (TX), Golden Pass (TX), Hackberry (LA), Lake Charles (LA), Neptune (offshore), Northeast Gateway (offshore), Pascagoula (MS), Sabine Pass (TX)"
@@ -965,8 +1028,21 @@
       "text": "United States Armed Forces: US Army, US Navy (includes Marine Corps), US Air Force, US Space Force; US Coast Guard (administered in peacetime by the Department of Homeland Security, but in wartime reports to the Department of the Navy); National Guard (Army National Guard and Air National Guard); Reserves (all services) (2020)"
     },
     "Military expenditures": {
-      "text": "3.42% of GDP (2019 est.) / 3.3% of GDP (2018) / 3.31% of GDP (2017) / 3.52% of GDP (2016) / 3.52% of GDP (2015)",
-      "country comparison to the world": 20
+      "Military Expenditures 2019": {
+        "text": "3.42% of GDP (2019 est.)"
+      },
+      "Military Expenditures 2018": {
+        "text": "3.3% of GDP (2018)"
+      },
+      "Military Expenditures 2017": {
+        "text": "3.31% of GDP (2017)"
+      },
+      "Military Expenditures 2016": {
+        "text": "3.52% of GDP (2016)"
+      },
+      "Military Expenditures 2015": {
+        "text": "3.52% of GDP (2015)"
+      }
     },
     "Military and security service personnel strengths": {
       "text": "the US Armed Forces have approximately 1.372 million active duty personnel (475,000 Army; 340,000 Navy; 330,000 Air Force; 185,000 Marine Corps); 42,000 Coast Guard; 335,000 Army National Guard; 105,000 Air National Guard (June 2020)"
@@ -975,8 +1051,8 @@
       "text": "the US military's inventory is comprised almost entirely of domestically-produced weapons systems (some assembled with foreign components) along with a smaller mix of imported equipment from a variety of Western countries; since 2010, Germany and the UK are the leading suppliers, followed by Australia, Canada, France, the Netherlands, and Norway; the US defense industry is capable of designing, developing, maintaining, and producing the full spectrum of weapons systems (2019 est.)"
     },
     "Military deployments": {
-      "text": "4,500 Afghanistan (NATO; note - the US has pledged to further reduce the number of troops in Afghanistan by the end of 2020); 5,000 Africa (mostly in Djibouti with approximately 700 in Somalia and about 700 in West Africa); 1,000 Australia; 1,150 Belgium; 150 Bulgaria; 250 Diego Garcia; 150 Canada; 750 Cuba; 270 Egypt (MFO); 34,000 Germany (note - in July 2020, the US pledged to reduce the number of troops in Germany by about 12,000); 400 Greece; 150 Greenland; 6,000 Guam; 380 Honduras; 12,000 Italy; 54,000 Japan; 660 Kosovo (KFOR); approximately 10-15,000 assigned with an additional estimated 20-30,000 deployed in the Middle East (Bahrain/Iraq/Israel/Jordan/Kuwait/Oman/Qatar/Saudi Arabia/Syria/United Arab Emirates); 400 Netherlands; 700 Norway; 200 Philippines; 4,500 Poland; 250 Portugal; 26,500 Republic of Korea; 1,100 Romania; 200 Singapore; 3,200 Spain; 100 Thailand; 1,700 Turkey; 9,300 United Kingdom (2020)",
-      "note": "US military rotational policies affect deployed numbers; for example, the US deploys ground and air units to select countries for 6-12 month rotational assignments on a continuous basis; in South Korea, for example, the US continuously rotates combat brigades (3,000-4,000 personnel) for 9 months at a time; contingencies also affect US troop deployments; for example, since May 2019, the US has deployed more than 15,000 additional military personnel to the Middle East for an undetermined period of time; in addition, some overseas US naval bases, such as the headquarters of US Naval Forces Central Command (USNAVCENT) in Manama, Bahrain, are frequented by the crews of US ships on 6-9 month deployments; a US carrier strike group with an air wing and supporting ships typically includes over 6,000 personnel (2020)"
+      "text": "4,500 Afghanistan (NATO; note - the US has pledged to further reduce the number of troops in Afghanistan to 2,500 in January 2021); 5,000 Africa (mostly in Djibouti, with approximately 700-1,000 in other countries of East Africa and about 700 in West Africa); 1,000 Australia; 1,150 Belgium; 150 Bulgaria; 250 Diego Garcia; 150 Canada; 750 Cuba; 270 Egypt (MFO); 34,000 Germany (note - in July 2020, the US pledged to reduce the number of troops in Germany by about 12,000); 400 Greece; 150 Greenland; 6,000 Guam; 380 Honduras; 12,000 Italy; 54,000 Japan; 660 Kosovo (KFOR); approximately 10-15,000 assigned with an additional estimated 20-30,000 deployed in the Middle East (Bahrain/Iraq/Israel/Jordan/Kuwait/Oman/Qatar/Saudi Arabia/Syria/United Arab Emirates); 400 Netherlands; 700 Norway; 200 Philippines; 4,500 Poland; 250 Portugal; 26,500 Republic of Korea; 1,100 Romania; 200 Singapore; 3,200 Spain; 100 Thailand; 1,700 Turkey; 9,300 United Kingdom (2020)",
+      "note": "<p>US military rotational policies affect deployed numbers; for example, the US deploys ground and air units to select countries for 6-12 month rotational assignments on a continuous basis; in South Korea, for example, the US continuously rotates combat brigades (3,000-4,000 personnel) for 9 months at a time; contingencies also affect US troop deployments; for example, since May 2019, the US has deployed more than 15,000 additional military personnel to the Middle East for an undetermined period of time; in addition, some overseas US naval bases, such as the headquarters of US Naval Forces Central Command (USNAVCENT) in Manama, Bahrain, are frequented by the crews of US ships on 6-9 month deployments; a US carrier strike group with an air wing and supporting ships typically includes over 6-7,000 personnel (2020)</p>"
     },
     "Military service age and obligation": {
       "text": "18 years of age (17 years of age with parental consent) for male and female voluntary service; no conscription; maximum enlistment age 34 (Army), 39 (Air Force), 39 (Navy), 28 (Marines), 31 (Coast Guard); 8-year service obligation, including 2-5 years active duty (Army), 2 years active (Navy), 4 years active (Air Force, Marines, Coast Guard); all military occupations and positions open to women (2019)"
@@ -985,18 +1061,18 @@
   "Terrorism": {
     "Terrorist group(s)": {
       "text": "Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham; al-Qa'ida (2020)",
-      "note": "note: details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T"
+      "note": "<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in <a title=\"Appendix-T\" href=\"../appendix/appendix-t.html\">Appendix-T</a>"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "the US has intensified domestic security measures and is collaborating closely with its neighbors, Canada and Mexico, to monitor and control legal and illegal personnel, transport, and commodities across the international borders; abundant rainfall in recent years along much of the Mexico-US border region has ameliorated periodically strained water-sharing arrangements; 1990 Maritime Boundary Agreement in the Bering Sea still awaits Russian Duma ratification; Canada and the United States dispute how to divide the Beaufort Sea and the status of the Northwest Passage but continue to work cooperatively to survey the Arctic continental shelf; The Bahamas and US have not been able to agree on a maritime boundary; US Naval Base at Guantanamo Bay is leased from Cuba and only mutual agreement or US abandonment of the area can terminate the lease; Haiti claims US-administered Navassa Island; US has made no territorial claim in Antarctica (but has reserved the right to do so) and does not recognize the claims of any other states; Marshall Islands claims Wake Island; Tokelau included American Samoa's Swains Island among the islands listed in its 2006 draft constitution"
+      "text": "<p>the US has intensified domestic security measures and is collaborating closely with its neighbors, Canada and Mexico, to monitor and control legal and illegal personnel, transport, and commodities across the international borders; abundant rainfall in recent years along much of the Mexico-US border region has ameliorated periodically strained water-sharing arrangements; 1990 Maritime Boundary Agreement in the Bering Sea still awaits Russian Duma ratification; Canada and the United States dispute how to divide the Beaufort Sea and the status of the Northwest Passage but continue to work cooperatively to survey the Arctic continental shelf; The Bahamas and US have not been able to agree on a maritime boundary; US Naval Base at Guantanamo Bay is leased from Cuba and only mutual agreement or US abandonment of the area can terminate the lease; Haiti claims US-administered Navassa Island; US has made no territorial claim in Antarctica (but has reserved the right to do so) and does not recognize the claims of any other states; Marshall Islands claims Wake Island; Tokelau included American Samoa's Swains Island among the islands listed in its 2006 draft constitution</p>"
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
         "text": "the US admitted 11,814 refugees during FY2020 including: 2,868 (Democratic Republic of the Congo), 2,115 (Burma), 1,927 (Ukraine), 604 (Afghanistan), 537 (Iraq)"
       },
-      "note": "note: 72,722 Venezuelans have claimed asylum since 2014 because of the economic and political crisis (2018)"
+      "note": "<p><strong>note:</strong> 72,722 Venezuelans have claimed asylum since 2014 because of the economic and political crisis (2018)</p>"
     },
     "Illicit drugs": {
       "text": "world's largest consumer of cocaine (shipped from Colombia through Mexico and the Caribbean), Colombian heroin, and Mexican heroin and marijuana; major consumer of ecstasy and Mexican methamphetamine; minor consumer of high-quality Southeast Asian heroin; illicit producer of cannabis, marijuana, depressants, stimulants, hallucinogens, and methamphetamine; money-laundering center"

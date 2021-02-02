@@ -24,14 +24,15 @@
       "water": {
         "text": "0 sq km"
       },
-      "note": "note: includes Ashmore Reef (West, Middle, and East Islets) and Cartier Island",
-      "country comparison to the world": 249
+      "note": "<p><strong>note:</strong> includes Ashmore Reef (West, Middle, and East Islets) and Cartier Island</p>"
     },
     "Area - comparative": {
       "text": "about eight times the size of the National Mall in Washington, DC"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "74.1 km"
@@ -68,7 +69,9 @@
       "text": "fish"
     },
     "Land use": {
-      "text": "0% (2014 est.)"
+      "agricultural land": {
+        "text": "0% (2018 est.)"
+      }
     },
     "Natural hazards": {
       "text": "surrounded by shoals and reefs that can pose maritime hazards"
@@ -82,8 +85,42 @@
   },
   "People and Society": {
     "Population": {
-      "text": "no indigenous inhabitants",
-      "note": "note: Indonesian fishermen are allowed access to the lagoon and fresh water at Ashmore Reef's West Island; access to East and Middle Islands is by permit only"
+      "text": "8,884,864 no indigenous inhabitants (July 2021 est.)",
+      "note": "<p><strong>note:</strong> Indonesian fishermen are allowed access to the lagoon and fresh water at Ashmore Reef's West Island; access to East and Middle Islands is by permit only</p>"
+    },
+    "Population growth rate": {
+      "text": "0.32% (2021 est.)"
+    },
+    "Death rate": {
+      "text": "9.85 deaths/1,000 population (2021 est.)"
+    },
+    "Net migration rate": {
+      "text": "3.57 migrant(s)/1,000 population (2021 est.)"
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "3.29 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "3.7 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "2.86 deaths/1,000 live births (2021 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "82.07 years"
+      },
+      "male": {
+        "text": "79.42 years"
+      },
+      "female": {
+        "text": "84.85 years (2021 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.5 children born/woman (2021 est.)"
     }
   },
   "Government": {
@@ -105,13 +142,15 @@
       "text": "the laws of the Commonwealth of Australia and the laws of the Northern Territory of Australia, where applicable, apply"
     },
     "Citizenship": {
-      "note": "see Australia"
+      "text": "see Australia"
     },
     "Diplomatic representation in the US": {
-      "note": "none (territory of Australia)"
+      "text": "none (territory of Australia)"
     },
     "Diplomatic representation from the US": {
-      "text": "none (territory of Australia)"
+      "embassy": {
+        "text": "none (territory of Australia)"
+      }
     },
     "Flag description": {
       "text": "the flag of Australia is used"
@@ -120,13 +159,11 @@
   "Economy": {
     "Economic overview": {
       "text": "no economic activity"
-    },
-    "Ease of Doing Business Index scores": {
     }
   },
   "Transportation": {
     "Ports and terminals": {
-      "note": "none; offshore anchorage only"
+      "text": "none; offshore anchorage only"
     }
   },
   "Military and Security": {
@@ -136,7 +173,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "Australia has closed parts of the Ashmore and Cartier reserve to Indonesian traditional fishing; Indonesian groups challenge Australia's claim to Ashmore Reef"
+      "text": "<p>Australia has closed parts of the Ashmore and Cartier reserve to Indonesian traditional fishing; Indonesian groups challenge Australia's claim to Ashmore Reef</p>"
     }
   }
 }

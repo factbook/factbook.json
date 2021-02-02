@@ -23,20 +23,21 @@
       },
       "water": {
         "text": "0 sq km"
-      },
-      "country comparison to the world": 243
+      }
     },
     "Area - comparative": {
       "text": "land area is about 13 times the size of the National Mall in Washington, DC"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "518 km"
     },
     "Maritime claims": {
-      "note": "NA"
+      "text": "NA"
     },
     "Climate": {
       "text": "tropical"
@@ -59,8 +60,14 @@
       "agricultural land": {
         "text": "0% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "0% (2011 est.) / 0% (2011 est.) / 0% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 0% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 0% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 0% (2011 est.)"
       },
       "forest": {
         "text": "0% (2011 est.)"
@@ -87,12 +94,45 @@
   },
   "People and Society": {
     "Population": {
-      "text": "1,440 (2014 est.)",
-      "note": "note: Chinese activity has increased in recent years, particularly on Woody Island, where the population exceeds 1,000; there are scattered Chinese garrisons on some other islands",
-      "country comparison to the world": 234
+      "text": "297,154 (July 2021 est.)",
+      "note": "<p><strong>note:</strong> Chinese activity has increased in recent years, particularly on Woody Island, where the population exceeds 1,000; there are scattered Chinese garrisons on some other islands</p>"
+    },
+    "Population growth rate": {
+      "text": "0.75% (2021 est.)"
+    },
+    "Death rate": {
+      "text": "5.51 deaths/1,000 population (2021 est.)"
+    },
+    "Net migration rate": {
+      "text": "-0.66 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "a population of over 1,000 Chinese resides on Woody Island, the largest of the Paracels; there are scattered Chinese garrisons on some other islands"
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "4.46 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "5.37 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "3.51 deaths/1,000 live births (2021 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "78.19 years"
+      },
+      "male": {
+        "text": "75.86 years"
+      },
+      "female": {
+        "text": "80.63 years (2021 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.82 children born/woman (2021 est.)"
     }
   },
   "Government": {
@@ -111,14 +151,13 @@
   "Economy": {
     "Economic overview": {
       "text": "The islands have the potential for oil and gas development. Waters around the islands support commercial fishing, but the islands themselves are not populated on a permanent basis."
-    },
-    "Ease of Doing Business Index scores": {
     }
   },
   "Transportation": {
     "Airports": {
-      "text": "1 (2013)",
-      "country comparison to the world": 232
+      "total": {
+        "text": "1 (2013)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -129,7 +168,7 @@
       }
     },
     "Ports and terminals": {
-      "note": "small Chinese port facilities on Woody Island and Duncan Island"
+      "text": "small Chinese port facilities on Woody Island and Duncan Island"
     }
   },
   "Military and Security": {
@@ -139,7 +178,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "occupied by China, also claimed by Taiwan and Vietnam"
+      "text": "<p>occupied by China, also claimed by Taiwan and Vietnam</p>"
     }
   }
 }

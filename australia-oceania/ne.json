@@ -23,14 +23,15 @@
       },
       "water": {
         "text": "0 sq km"
-      },
-      "country comparison to the world": 212
+      }
     },
     "Area - comparative": {
       "text": "1.5 times the size of Washington, DC"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "64 km"
@@ -64,8 +65,14 @@
       "agricultural land": {
         "text": "19.1% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "3.8% (2011 est.) / 11.5% (2011 est.) / 3.8% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 3.8% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 11.5% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 3.8% (2011 est.)"
       },
       "forest": {
         "text": "71.2% (2011 est.)"
@@ -97,9 +104,8 @@
   },
   "People and Society": {
     "Population": {
-      "text": "2,000 (2019)",
-      "note": "note: because of the island's limited economic and educational opportunities, Niueans have emigrated for decades - primarily to New Zealand, but also to Australia and other Pacific island states; Niue's population peaked in 1966 at 5,194, but by 2005 had fallen to 1,508; since then it has rebounded slightly; as of 2013, 23,883 people of Niuean ancestry lived in New Zealand - with more than 20% Niue-born; this means that there are about 15 times as many persons of Niuean living in New Zealand as in Niue, possibly the most eccentric population distribution in the world",
-      "country comparison to the world": 231
+      "text": "23,605,767 (July 2021 est.)",
+      "note": "<p><strong>note:</strong> because of the island's limited economic and educational opportunities, Niueans have emigrated for decades - primarily to New Zealand, but also to Australia and other Pacific island states; Niue's population peaked in 1966 at 5,194, but by 2005 had fallen to 1,508; since then it has rebounded slightly; as of 2013, 23,883 people of Niuean ancestry lived in New Zealand - with more than 20% Niue-born; this means that there are about 15 times as many persons of Niuean living in New Zealand as in Niue, possibly the most eccentric population distribution in the world</p>"
     },
     "Nationality": {
       "noun": {
@@ -119,8 +125,13 @@
       "text": "Ekalesia Niue (Congregational Christian Church of Niue - a Protestant church founded by missionaries from the London Missionary Society) 67%, other Protestant 3% (includes Seventh Day Adventist 1%, Presbyterian 1%, and Methodist 1%), Mormon 10%, Roman Catholic 10%, Jehovah's Witnesses 2%, other 6%, none 2% (2011 est.)"
     },
     "Population growth rate": {
-      "text": "-0.03% (2014 est.)",
-      "country comparison to the world": 197
+      "text": "3.65% (2021 est.)"
+    },
+    "Death rate": {
+      "text": "10.09 deaths/1,000 population (2021 est.)"
+    },
+    "Net migration rate": {
+      "text": "-0.66 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "population distributed around the peripheral coastal areas of the island"
@@ -137,38 +148,38 @@
       "text": "1,000 ALOFI (capital) (2018)"
     },
     "Sex ratio": {
-      "note": "NA"
+      "text": "NA"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "NA (2018)"
+        "text": "68.12 deaths/1,000 live births NA"
       },
       "male": {
-        "text": "NA"
+        "text": "73.02 deaths/1,000 live births NA"
       },
       "female": {
-        "text": "NA"
+        "text": "63.06 deaths/1,000 live births NA (2021 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "NA (2017 est.)"
+        "text": "59.7 years NA"
       },
       "male": {
-        "text": "NA"
+        "text": "58.19 years NA"
       },
       "female": {
-        "text": "NA"
+        "text": "61.26 years NA (2021 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "NA"
+      "text": "6.91 children born/woman NA (2021 est.)"
     },
     "Drinking water source": {
-      "improved": {
+      "improved: total": {
         "text": "total: 98.2% of population"
       },
-      "unimproved": {
+      "unimproved: total": {
         "text": "total: 1.8% of population (2017 est.)"
       }
     },
@@ -176,10 +187,10 @@
       "text": "8.6% (2017)"
     },
     "Sanitation facility access": {
-      "improved": {
+      "improved: total": {
         "text": "total: 96.8% of population"
       },
-      "unimproved": {
+      "unimproved: total": {
         "text": "total: 3.2% of population (2017 est.)"
       }
     },
@@ -204,8 +215,7 @@
       }
     },
     "Obesity - adult prevalence rate": {
-      "text": "50% (2016)",
-      "country comparison to the world": 6
+      "text": "50% (2016)"
     },
     "Education expenditures": {
       "text": "NA"
@@ -225,7 +235,7 @@
       "etymology": {
         "text": "the origin of the name is obscure; in Niuean, the word supposedly translates as \"behold the coconut\""
       },
-      "note": "note: pronunciation falls between nyu-way and new-way, but not like new-wee"
+      "note": "<p><strong>note:</strong> pronunciation falls between nyu-way and new-way, but not like new-wee</p>"
     },
     "Dependency status": {
       "text": "self-governing in free association with New Zealand since 1974; Niue is fully responsible for internal affairs; New Zealand retains responsibility for external affairs and defense; however, these responsibilities confer no rights of control and are only exercised at the request of the Government of Niue"
@@ -258,7 +268,7 @@
         "text": "several previous (New Zealand colonial statutes); latest 19 October 1974 (Niue Constitution Act 1974)"
       },
       "amendments": {
-        "text": "proposed by the Assembly; passage requires at least two-thirds majority vote of the Assembly membership in each of three readings and approval by the majority of votes in a referendum; passage of amendments to a number of sections, including Niue's self-governing status, British nationality and New Zealand citizenship, external affairs and defense, economic and administrative assistance by New Zealand, and amendment procedures, requires at least two-thirds majority vote by the Assembly and at least two thirds of votes in a referendum; amended 1992, 2007"
+        "text": "proposed by the Assembly; passage requires at least two-thirds majority vote of the Assembly membership in each of three readings and approval by the majority of votes in a referendum; passage of amendments to a number of sections, including Niue&rsquo;s self-governing status, British nationality and New Zealand citizenship, external affairs and defense, economic and administrative assistance by New Zealand, and amendment procedures, requires at least two-thirds majority vote by the Assembly and at least two thirds of votes in a referendum; amended 1992, 2007"
       }
     },
     "Legal system": {
@@ -281,7 +291,7 @@
         "text": "the monarchy is hereditary; premier indirectly elected by the Legislative Assembly for a 3-year term; election last held on 10 June 2020 (next to be held in 2023)"
       },
       "election results": {
-        "text": "Dalton TAGELAGI elected premier; Legislative Assembly vote - Dalton TAGELAGI (independent) 13, O'Love JACOBSEN (independent) 7; Toke TALAGI lost his seat in election"
+        "text": "Dalton TAGELAGI elected premier; Legislative Assembly vote - Dalton TAGELAGI (independent) 13, O'Love JACOBSEN (independent) 7; Toke TALAGI&nbsp;lost his seat in election"
       }
     },
     "Legislative branch": {
@@ -305,19 +315,21 @@
       "subordinate courts": {
         "text": "High Court"
       },
-      "note": "note: Niue is a participant in the Pacific Judicial Development Program, which is designed to build governance and the rule of law in 15 Pacific island countries"
+      "note": "<p><strong>note:</strong> Niue is a participant in the Pacific Judicial Development Program, which is designed to build governance and the rule of law in 15 Pacific island countries</p>"
     },
     "Political parties and leaders": {
-      "text": "Alliance of Independents or AI ++ Niue People's Action Party or NPP [Young VIVIAN]"
+      "text": "Alliance of Independents or AI<br />Niue People's Action Party or NPP [Young VIVIAN]"
     },
     "International organization participation": {
       "text": "ACP, AOSIS, FAO, IFAD, OPCW, PIF, Sparteca, SPC, UNESCO, UPU, WHO, WIPO, WMO"
     },
     "Diplomatic representation in the US": {
-      "note": "none (self-governing territory in free association with New Zealand)"
+      "text": "none (self-governing territory in free association with New Zealand)"
     },
     "Diplomatic representation from the US": {
-      "text": "none (self-governing territory in free association with New Zealand)"
+      "embassy": {
+        "text": "none (self-governing territory in free association with New Zealand)"
+      }
     },
     "Flag description": {
       "text": "yellow with the flag of the UK in the upper hoist-side quadrant; the flag of the UK bears five yellow five-pointed stars - a large star on a blue disk in the center and a smaller star on each arm of the bold red cross; the larger star stands for Niue, the smaller stars recall the Southern Cross constellation on the New Zealand flag and symbolize links with that country; yellow represents the bright sunshine of Niue and the warmth and friendship between Niue and New Zealand"
@@ -332,30 +344,35 @@
       "lyrics/music": {
         "text": "unknown/unknown, prepared by Sioeli FUSIKATA"
       },
-      "note": "note: adopted 1974"
+      "note": "<p><strong>note:</strong> adopted 1974</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "The economy suffers from the typical Pacific island problems of geographic isolation, few resources, and a small population. The agricultural sector consists mainly of subsistence gardening, although some cash crops are grown for export. Industry consists primarily of small factories for processing passion fruit, lime oil, honey, and coconut cream. The sale of postage stamps to foreign collectors is an important source of revenue. ++ Government expenditures regularly exceed revenues, and the shortfall is made up by critically needed grants from New Zealand that are used to pay wages to public employees. Economic aid allocation from New Zealand in FY13/14 was US$10.1 million. Niue has cut government expenditures by reducing the public service by almost half. ++ The island in recent years has suffered a serious loss of population because of emigration to New Zealand. Efforts to increase GDP include the promotion of tourism and financial services, although the International Banking Repeal Act of 2002 resulted in the termination of all offshore banking licenses."
+      "text": "<p>The economy suffers from the typical Pacific island problems of geographic isolation, few resources, and a small population. The agricultural sector consists mainly of subsistence gardening, although some cash crops are grown for export. Industry consists primarily of small factories for processing passion fruit, lime oil, honey, and coconut cream. The sale of postage stamps to foreign collectors is an important source of revenue.</p><p></p><p>Government expenditures regularly exceed revenues, and the shortfall is made up by critically needed grants from New Zealand that are used to pay wages to public employees. Economic aid allocation from New Zealand in FY13/14 was US$10.1 million. Niue has cut government expenditures by reducing the public service by almost half.</p><p></p><p>The island in recent years has suffered a serious loss of population because of emigration to New Zealand. Efforts to increase GDP include the promotion of tourism and financial services, although the International Banking Repeal Act of 2002 resulted in the termination of all offshore banking licenses.</p>"
     },
-    "GDP real growth rate": {
-      "text": "6.2% (2003 est.)",
-      "country comparison to the world": 25
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2003": {
+        "text": "6.2% (2003 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "4% (2005)",
-      "country comparison to the world": 165
+      "Inflation rate (consumer prices) 2005": {
+        "text": "4% (2005)"
+      }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$10.01 million (2003 est.)"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2003": {
+        "text": "$10.01 million (2003 est.)"
+      }
     },
     "GDP (official exchange rate)": {
       "text": "$10.01 million (2003) (2003)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$5,800 (2003 est.)",
-      "country comparison to the world": 152
+    "Real GDP per capita": {
+      "Real GDP per capita 2003": {
+        "text": "$5,800 (2003 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -368,10 +385,8 @@
         "text": "49.5% (2003)"
       }
     },
-    "Ease of Doing Business Index scores": {
-    },
-    "Agriculture - products": {
-      "text": "coconuts, passion fruit, honey, limes, taro, yams, cassava (manioc, tapioca), sweet potatoes; pigs, poultry, beef cattle"
+    "Agricultural products": {
+      "text": "coconuts, taro, fruit, sweet potatoes, tropical fruit, yams, vegetables, lemons, limes, bananas"
     },
     "Industries": {
       "text": "handicrafts, food processing"
@@ -380,15 +395,15 @@
       "text": "NA"
     },
     "Labor force": {
-      "text": "663 (2001)",
-      "country comparison to the world": 230
+      "text": "663 (2001)"
     },
     "Labor force - by occupation": {
-      "note": "note: most work on family plantations; paid work exists only in government service, small industry, and the Niue Development Board"
+      "text": "<p><strong>note:</strong> most work on family plantations; paid work exists only in government service, small industry, and the Niue Development Board</p>"
     },
     "Unemployment rate": {
-      "text": "12% (2001)",
-      "country comparison to the world": 165
+      "Unemployment rate 2001": {
+        "text": "12% (2001)"
+      }
     },
     "Population below poverty line": {
       "text": "NA"
@@ -410,132 +425,128 @@
       }
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-12.6% (of GDP) (FY04/05)",
-      "country comparison to the world": 215
+      "text": "-12.6% (of GDP) (FY04/05)"
     },
     "Fiscal year": {
       "text": "1 April - 31 March"
     },
     "Exports": {
-      "text": "$201,400 (2004 est.)",
-      "country comparison to the world": 221
+      "Exports 2004": {
+        "text": "$201,400 (2004 est.)"
+      }
     },
     "Exports - commodities": {
       "text": "canned coconut cream, copra, honey, vanilla, passion fruit products, pawpaws, root crops, limes, footballs, stamps, handicrafts"
     },
     "Imports": {
-      "text": "$9.038 million (2004 est.)",
-      "country comparison to the world": 224
+      "Imports 2004": {
+        "text": "$9.038 million (2004 est.)"
+      }
     },
     "Imports - commodities": {
       "text": "food, live animals, manufactured goods, machinery, fuels, lubricants, chemicals, drugs"
     },
     "Debt - external": {
-      "text": "$418,000 (2002 est.)",
-      "country comparison to the world": 202
+      "Debt - external 2002": {
+        "text": "$418,000 (2002 est.)"
+      }
     },
     "Exchange rates": {
-      "text": "New Zealand dollars (NZD) per US dollar - / 1.416 (2017 est.) / 1.4279 (2016 est.) / 1.4279 (2015) / 1.4279 (2014 est.) / 1.2039 (2013 est.)"
+      "currency": {
+        "text": "New Zealand dollars (NZD) per US dollar -"
+      },
+      "Exchange rates 2017": {
+        "text": "1.416 (2017 est.)"
+      },
+      "Exchange rates 2016": {
+        "text": "1.4279 (2016 est.)"
+      },
+      "Exchange rates 2015": {
+        "text": "1.4279 (2015)"
+      },
+      "Exchange rates 2014": {
+        "text": "1.4279 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "1.2039 (2013 est.)"
+      }
     }
   },
   "Energy": {
     "Electricity - production": {
-      "text": "3 million kWh (2016 est.)",
-      "country comparison to the world": 216
+      "text": "3 million kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "2.79 million kWh (2016 est.)",
-      "country comparison to the world": 215
+      "text": "2.79 million kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 179
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - imports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 181
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "2,300 kW (2016 est.)",
-      "country comparison to the world": 213
+      "text": "2,300 kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "87% of total installed capacity (2016 est.)",
-      "country comparison to the world": 64
+      "text": "87% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 158
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 191
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "13% of total installed capacity (2017 est.)",
-      "country comparison to the world": 68
+      "text": "13% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "0 bbl/day (2018 est.)",
-      "country comparison to the world": 184
+      "text": "0 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 177
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - imports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 178
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2018 est.)",
-      "country comparison to the world": 179
+      "text": "0 bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "0 bbl/day (2017 est.)",
-      "country comparison to the world": 187
+      "text": "0 bbl/day (2017 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "50 bbl/day (2016 est.)",
-      "country comparison to the world": 214
+      "text": "50 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 189
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "54 bbl/day (2015 est.)",
-      "country comparison to the world": 210
+      "text": "54 bbl/day (2015 est.)"
     },
     "Natural gas - production": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 181
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 185
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 164
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 170
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "0 cu m (1 January 2014 est.)",
-      "country comparison to the world": 179
+      "text": "0 cu m (1 January 2014 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "7,252 Mt (2017 est.)",
-      "country comparison to the world": 212
+      "text": "7,252 Mt (2017 est.)"
     }
   },
   "Communications": {
     "Telecommunication systems": {
       "general assessment": {
-        "text": "sole provider service for over 1000 landlines and fixed wireless lines; cellular telephone service operates on AMPS and GSM platforms; difficult geography presents challenges for rural areas; mobile is primary source of Internet access; mobile broadband demand is growing due to mobile services (2020)"
+        "text": "sole provider service for over 1000 landlines and fixed wireless lines; cellular telephone service operates on AMPS and GSM platforms; difficult geography presents challenges for rural areas; mobile is primary source of Internet access; mobile broadband demand is growing&nbsp;due to mobile services (2020)"
       },
       "domestic": {
         "text": "single-line (fixed line) telephone system connects all villages (and virtually all households) on island (2018)"
@@ -543,7 +554,7 @@
       "international": {
         "text": "country code - 683; landing point for the Manatua submarine cable linking Niue to several South Pacific Ocean Islands; expansion of satellite services (2019)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "1 government-owned TV station with many of the programs supplied by Television New Zealand; 1 government-owned radio station broadcasting in AM and FM (2019)"
@@ -557,14 +568,14 @@
       },
       "percent of population": {
         "text": "91.6% (July 2016 est.)"
-      },
-      "country comparison to the world": 225
+      }
     }
   },
   "Transportation": {
     "Airports": {
-      "text": "1 (2013)",
-      "country comparison to the world": 230
+      "total": {
+        "text": "1 (2013)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -591,17 +602,15 @@
       },
       "unpaved": {
         "text": "24 km"
-      },
-      "country comparison to the world": 206
+      }
     },
     "Merchant marine": {
       "total": {
-        "text": "61"
+        "text": "67"
       },
       "by type": {
-        "text": "bulk carrier 4, container ship 1, general cargo 29, oil tanker 2, other 25 (2019)"
-      },
-      "country comparison to the world": 108
+        "text": "bulk carrier 5, container ship 1, general cargo 25, oil tanker 3, other 33 (2020)"
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -619,7 +628,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "none"
+      "text": "<p>none</p>"
     }
   }
 }

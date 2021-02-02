@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "In 1783, the Sunni Al-Khalifa family took power in Bahrain. In order to secure these holdings, it entered into a series of treaties with the UK during the 19th century that made Bahrain a British protectorate. The archipelago attained its independence in 1971. A steady decline in oil production and reserves since 1970 prompted Bahrain to take steps to diversify its economy, in the process developing petroleum processing and refining, aluminum production, and hospitality and retail sectors. It has also endeavored to become a leading regional banking center, especially with respect to Islamic finance. Bahrain's small size, central location among Gulf countries, economic dependence on Saudi Arabia, and proximity to Iran require it to play a delicate balancing act in foreign affairs among its larger neighbors. Its foreign policy activities usually fall in line with Saudi Arabia and the UAE. ++ The Sunni royal family has long struggled to manage relations with its large Shia-majority population. In early 2011, amid Arab uprisings elsewhere in the region, the Bahraini Government confronted similar pro-democracy and reform protests at home with police and military action, including deploying Gulf Cooperation Council security forces to Bahrain. Failed political talks prompted opposition political societies to boycott 2014 legislative and municipal council elections. In 2018, a law preventing members of political societies dissolved by the courts from participating in elections effectively sidelined the majority of opposition figures from taking part in national elections. As a result, most members of parliament are independents. Ongoing dissatisfaction with the political status quo continues to factor into sporadic clashes between demonstrators and security forces. On 15 September 2020, Bahrain and the United Arab Emirates signed a peace accord with Israel – brokered by the US – in Washington DC. Referred to as the Abraham Accords, Bahrain and the United Arab Emirates are the two latest Middle Eastern countries, along with Egypt and Jordan, to recognize Israel."
+      "text": "<p>In 1783, the Sunni Al-Khalifa family took power in Bahrain. In order to secure these holdings, it entered into a series of treaties with the UK during the 19th century that made Bahrain a British protectorate. The archipelago attained its independence in 1971. A steady decline in oil production and reserves since 1970 prompted Bahrain to take steps to diversify its economy, in the process developing petroleum processing and refining, aluminum production, and hospitality and retail sectors. It has also endeavored to become a leading regional banking center, especially with respect to Islamic finance. Bahrain's small size, central location among Gulf countries, economic dependence on Saudi Arabia, and proximity to Iran require it to play a delicate balancing act in foreign affairs among its larger neighbors. Its foreign policy activities usually fall in line with Saudi Arabia and the UAE.</p> <p>The Sunni royal family has long struggled to manage relations with its large Shia-majority population. In early 2011, amid Arab uprisings elsewhere in the region, the Bahraini Government confronted similar pro-democracy and reform protests at home with police and military action, including deploying Gulf Cooperation Council security forces to Bahrain. Failed political talks prompted opposition political societies to boycott 2014 legislative and municipal council elections. In 2018, a law preventing members of political societies dissolved by the courts from participating in elections effectively sidelined the majority of opposition figures from taking part in national elections. As a result, most members of parliament are independents. Ongoing dissatisfaction with the political status quo continues to factor into sporadic clashes between demonstrators and security forces. On 15 September 2020, Bahrain and the United Arab Emirates signed peace agreements (the Abraham Accords) with Israel &ndash; brokered by the US &ndash; in Washington DC. Bahrain and the UAE thus became the third and fourth Middle Eastern countries, along with Egypt and Jordan, to recognize Israel.</p>"
     }
   },
   "Geography": {
@@ -23,14 +23,15 @@
       },
       "water": {
         "text": "0 sq km"
-      },
-      "country comparison to the world": 187
+      }
     },
     "Area - comparative": {
       "text": "3.5 times the size of Washington, DC"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "161 km"
@@ -65,16 +66,22 @@
     },
     "Land use": {
       "agricultural land": {
-        "text": "11.3% (2016 est.)"
+        "text": "11.3% (2018 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "2.1% (2016 est.) / 3.9% (2016 est.) / 5.3% (2016 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 2.1% (2018 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 3.9% (2018 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 5.3% (2018 est.)"
       },
       "forest": {
-        "text": "0.7% (2016 est.)"
+        "text": "0.7% (2018 est.)"
       },
       "other": {
-        "text": "88% (2016 est.)"
+        "text": "88% (2018 est.)"
       }
     },
     "Irrigated land": {
@@ -103,9 +110,8 @@
   },
   "People and Society": {
     "Population": {
-      "text": "1,505,003 (July 2020 est.)",
-      "note": "note: immigrants make up approximately 48% of the total population, according to UN data (2017)",
-      "country comparison to the world": 154
+      "text": "1,526,929 (July 2021 est.)",
+      "note": "<p><strong>note:</strong> immigrants make up approximately 48% of the total population, according to UN data (2017)</p>"
     },
     "Nationality": {
       "noun": {
@@ -164,24 +170,19 @@
       },
       "female": {
         "text": "30.3 years (2020 est.)"
-      },
-      "country comparison to the world": 102
+      }
     },
     "Population growth rate": {
-      "text": "2.08% (2020 est.)",
-      "country comparison to the world": 42
+      "text": "0.9% (2021 est.)"
     },
     "Birth rate": {
-      "text": "12.7 births/1,000 population (2020 est.)",
-      "country comparison to the world": 148
+      "text": "12.5 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "2.8 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 225
+      "text": "2.81 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "10.6 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 7
+      "text": "-0.67 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "smallest population of the Gulf States, but urbanization rate exceeds 90%; largest settlement concentration is found on the far northern end of the island in and around Manamah and Al Muharraq"
@@ -221,42 +222,38 @@
       }
     },
     "Maternal mortality rate": {
-      "text": "14 deaths/100,000 live births (2017 est.)",
-      "country comparison to the world": 137
+      "text": "14 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "8.3 deaths/1,000 live births"
+        "text": "10.54 deaths/1,000 live births"
       },
       "male": {
-        "text": "9.2 deaths/1,000 live births"
+        "text": "12.31 deaths/1,000 live births"
       },
       "female": {
-        "text": "7.4 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 146
+        "text": "8.71 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "79.4 years"
+        "text": "79.67 years"
       },
       "male": {
-        "text": "77.1 years"
+        "text": "77.39 years"
       },
       "female": {
-        "text": "81.8 years (2020 est.)"
-      },
-      "country comparison to the world": 52
+        "text": "82.02 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "1.69 children born/woman (2020 est.)",
-      "country comparison to the world": 175
+      "text": "1.68 children born/woman (2021 est.)"
     },
     "Drinking water source": {
-      "improved": {
+      "improved: total": {
         "text": "total: 100% of population"
       },
-      "unimproved": {
+      "unimproved: total": {
         "text": "total: 0% of population (2017 est.)"
       }
     },
@@ -270,10 +267,10 @@
       "text": "1.7 beds/1,000 population (2017)"
     },
     "Sanitation facility access": {
-      "improved": {
+      "improved: total": {
         "text": "total: 100% of population"
       },
-      "unimproved": {
+      "unimproved: total": {
         "text": "total: 0% of population (2017 est.)"
       }
     },
@@ -287,12 +284,10 @@
       "text": "<100 (2017 est.)"
     },
     "Obesity - adult prevalence rate": {
-      "text": "29.8% (2016)",
-      "country comparison to the world": 25
+      "text": "29.8% (2016)"
     },
     "Education expenditures": {
-      "text": "2.3% of GDP (2017)",
-      "country comparison to the world": 156
+      "text": "2.3% of GDP (2017)"
     },
     "Literacy": {
       "definition": {
@@ -328,8 +323,7 @@
       },
       "female": {
         "text": "12.2% (2012 est.)"
-      },
-      "country comparison to the world": 164
+      }
     }
   },
   "Government": {
@@ -366,11 +360,11 @@
       "time difference": {
         "text": "UTC+3 (8 hours ahead of Washington, DC, during Standard Time)"
       },
-      "note": "etymology: name derives from the Arabic \"al-manama\" meaning \"place of rest\" or \"place of dreams\""
+      "note": "<br><br><strong>etymology:</strong> name derives from the Arabic \"al-manama\" meaning \"place of rest\" or \"place of dreams\""
     },
     "Administrative divisions": {
       "text": "4 governorates (muhafazat, singular - muhafazah); Asimah (Capital), Janubiyah (Southern), Muharraq, Shamaliyah (Northern)",
-      "note": "note: each governorate administered by an appointed governor"
+      "note": "<p><strong>note:</strong> each governorate administered by an appointed governor</p>"
     },
     "Independence": {
       "text": "15 August 1971 (from the UK)"
@@ -425,13 +419,13 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral National Assembly consists of: Consultative Council or Majlis al-Shura (40 seats; members appointed by the king) ++ Council of Representatives or Majlis al-Nuwab (40 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year renewable terms)"
+        "text": "bicameral National Assembly consists of:<br />Consultative Council or Majlis al-Shura (40 seats; members appointed by the king)<br />Council of Representatives or Majlis al-Nuwab (40 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year renewable terms)"
       },
       "elections": {
-        "text": "Consultative Council - last appointments on 12 December 2018 (next NA) ++ Council of Representatives - first round for 9 members held on 24 November 2018; second round for remaining 31 members held on 1 December 2018 (next to be held in 2022)"
+        "text": "<br />Consultative Council - last appointments on 12 December 2018 (next NA)<br />Council of Representatives - first round for 9 members held on 24 November 2018; second round for remaining 31 members held on 1 December 2018&nbsp;(next to be held in 2022)"
       },
       "election results": {
-        "text": "Consultative Council - composition - men 31, women 9, percent of women 22.5% ++ Council of Representatives (for 2018 election) - percent of vote by society - NA; seats by society - Islamic Al-Asalah (Sunni Salafi) 3, Minbar al-Taqadumi (Communist) 2, National Unity Gathering (Sunni progovernment) 1, National Islamic Minbar (Sunni Muslim Brotherhood) 1, independent 33; composition - men 34, women 6, percent of women 15%; note - total National Assembly percent of women 19%"
+        "text": "<br />Consultative Council - composition - men 31, women 9, percent of women 22.5%<br /><br />Council of Representatives (for 2018 election) &nbsp;- percent of vote by society&nbsp;- NA; seats by society - Islamic Al-Asalah (Sunni Salafi) 3, Minbar al-Taqadumi (Communist) 2, National Unity Gathering (Sunni progovernment) 1, National Islamic Minbar (Sunni Muslim Brotherhood) 1, independent 33; composition - men 34, women 6, percent of women 15%; note - total National Assembly percent of women 19%"
       }
     },
     "Judicial branch": {
@@ -439,15 +433,15 @@
         "text": "Court of Cassation (consists of the chairman and 3 judges); Supreme Court of Appeal (consists of the chairman and 3 judges); Constitutional Court (consists of the president and 6 members); High Sharia Court of Appeal (court sittings include the president and at least one judge)"
       },
       "judge selection and term of office": {
-        "text": "Court of Cassation judges appointed by royal decree and serve for a specified tenure; Constitutional Court president and members appointed by the Higher Judicial Council, a body chaired by the monarch and includes judges from the Court of Cassation, sharia law courts, and Civil High Courts of Appeal; members serve 9-year terms; High Sharia Court of Appeal member appointments by royal decree for a specified tenure"
+        "text": "Court of Cassation judges appointed by royal decree and serve for a specified tenure; Constitutional Court president and members appointed by the Higher Judicial Council, a body chaired by the monarch and includes judges from the Court of Cassation, sharia law courts, and Civil High Courts of Appeal; members serve 9-year terms; High Sharia Court of Appeal member appointments by royal decree&nbsp;for a specified tenure"
       },
       "subordinate courts": {
         "text": "Civil High Courts of Appeal; middle and lower civil courts; High Sharia Court of Appeal; Senior Sharia Court; Administrative Courts of Appeal; military courts"
       },
-      "note": "note: the judiciary of Bahrain is divided into civil law courts and sharia law courts; sharia courts (involving personal status and family law) are further divided into Sunni Muslim and Shia Muslim; the Courts are supervised by the Supreme Judicial Council."
+      "note": "<p><strong>note:</strong> the judiciary of Bahrain is divided into civil law courts and sharia law courts; sharia courts (involving personal status and family law) are further divided into Sunni Muslim and Shia Muslim; the Courts are supervised by the Supreme Judicial Council.</p>"
     },
     "Political parties and leaders": {
-      "note": "note: political parties are prohibited, but political societies were legalized under a July 2005 law"
+      "text": "<p><strong>note:</strong> political parties are prohibited, but political societies were legalized under a July 2005 law</p>"
     },
     "International organization participation": {
       "text": "ABEDA, AFESD, AMF, CAEU, CICA, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OAPEC, OIC, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
@@ -480,7 +474,7 @@
         "text": "Building #979, Road 3119 (next to Al-Ahli Sports Club), Block 331, Zinj District, Manama"
       },
       "mailing address": {
-        "text": "PSC 451, Box 660, FPO AE 09834-5100 ++ international mail: American Embassy, Box 26431, Manama"
+        "text": "PSC 451, Box 660, FPO AE 09834-5100 <br />international mail: American Embassy, Box 26431, Manama"
       },
       "FAX": {
         "text": "[973] 1727-2594"
@@ -488,7 +482,7 @@
     },
     "Flag description": {
       "text": "red, the traditional color for flags of Persian Gulf states, with a white serrated band (five white points) on the hoist side; the five points represent the five pillars of Islam",
-      "note": "note: until 2002, the flag had eight white points, but this was reduced to five to avoid confusion with the Qatari flag"
+      "note": "<p><strong>note:</strong> until 2002, the flag had eight white points, but this was reduced to five to avoid confusion with the Qatari flag</p>"
     },
     "National symbol(s)": {
       "text": "a red field surmounted by a white serrated band with five white points; national colors: red, white"
@@ -500,20 +494,31 @@
       "lyrics/music": {
         "text": "unknown"
       },
-      "note": "note: adopted 1971; although Mohamed Sudqi AYYASH wrote the original lyrics, they were changed in 2002 following the transformation of Bahrain from an emirate to a kingdom"
+      "note": "<p><strong>note:</strong> adopted 1971; although Mohamed Sudqi AYYASH wrote the original lyrics, they were changed in 2002 following the transformation of Bahrain from an emirate to a kingdom</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "Oil and natural gas play a dominant role in Bahrain's economy. Despite the Government's past efforts to diversify the economy, oil still comprises 85% of Bahraini budget revenues. In the last few years lower world energy prices have generated sizable budget deficits - about 10% of GDP in 2017 alone. Bahrain has few options for covering these deficits, with low foreign assets and fewer oil resources compared to its GCC neighbors. The three major US credit agencies downgraded Bahrain's sovereign debt rating to \"junk\" status in 2016, citing persistently low oil prices and the government's high debt levels. Nevertheless, Bahrain was able to raise about $4 billion by issuing foreign currency denominated debt in 2017. ++ Other major economic activities are production of aluminum - Bahrain's second biggest export after oil and gas –finance, and construction. Bahrain continues to seek new natural gas supplies as feedstock to support its expanding petrochemical and aluminum industries. In April 2018 Bahrain announced it had found a significant oil field off the country's west coast, but is still assessing how much of the oil can be extracted profitably. ++ In addition to addressing its current fiscal woes, Bahraini authorities face the long-term challenge of boosting Bahrain's regional competitiveness — especially regarding industry, finance, and tourism — and reconciling revenue constraints with popular pressure to maintain generous state subsidies and a large public sector. Since 2015, the government lifted subsidies on meat, diesel, kerosene, and gasoline and has begun to phase in higher prices for electricity and water. As part of its diversification plans, Bahrain implemented a Free Trade Agreement (FTA) with the US in August 2006, the first FTA between the US and a Gulf state. It plans to introduce a Value Added Tax (VAT) by the end of 2018."
+      "text": "<p>Oil and natural gas play a dominant role in Bahrain’s economy. Despite the Government’s past efforts to diversify the economy, oil still comprises 85% of Bahraini budget revenues. In the last few years lower world energy prices have generated sizable budget deficits - about 10% of GDP in 2017 alone. Bahrain has few options for covering these deficits, with low foreign assets and fewer oil resources compared to its GCC neighbors. The three major US credit agencies downgraded Bahrain’s sovereign debt rating to \"junk\" status in 2016, citing persistently low oil prices and the government’s high debt levels. Nevertheless, Bahrain was able to raise about $4 billion by issuing foreign currency denominated debt in 2017.</p><p></p><p>Other major economic activities are production of aluminum - Bahrain's second biggest export after oil and gas –finance, and construction. Bahrain continues to seek new natural gas supplies as feedstock to support its expanding petrochemical and aluminum industries. In April 2018 Bahrain announced it had found a significant oil field off the country’s west coast, but is still assessing how much of the oil can be extracted profitably.</p><p></p><p>In addition to addressing its current fiscal woes, Bahraini authorities face the long-term challenge of boosting Bahrain’s regional competitiveness — especially regarding industry, finance, and tourism — and reconciling revenue constraints with popular pressure to maintain generous state subsidies and a large public sector. Since 2015, the government lifted subsidies on meat, diesel, kerosene, and gasoline and has begun to phase in higher prices for electricity and water. As part of its diversification plans, Bahrain implemented a Free Trade Agreement (FTA) with the US in August 2006, the first FTA between the US and a Gulf state. It plans to introduce a Value Added Tax (VAT) by the end of 2018.</p>"
     },
-    "GDP real growth rate": {
-      "text": "2.49% (2019 est.) / 13.89% (2018 est.) / 3.85% (2017 est.)",
-      "country comparison to the world": 116
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2019": {
+        "text": "2.49% (2019 est.)"
+      },
+      "Real GDP growth rate 2018": {
+        "text": "13.89% (2018 est.)"
+      },
+      "Real GDP growth rate 2017": {
+        "text": "3.85% (2017 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "1.4% (2017 est.) / 2.8% (2016 est.)",
-      "country comparison to the world": 83
+      "Inflation rate (consumer prices) 2017": {
+        "text": "1.4% (2017 est.)"
+      },
+      "Inflation rate (consumer prices) 2016": {
+        "text": "2.8% (2016 est.)"
+      }
     },
     "Credit ratings": {
       "Fitch rating": {
@@ -526,21 +531,43 @@
         "text": "B+ (2017)"
       }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$87.254 billion (2019 est.) / $85.169 billion (2018 est.) / $74.779 billion (2017 est.)",
-      "note": "note: data are in 2010 dollars"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2019": {
+        "text": "$73.87 billion (2019 est.)"
+      },
+      "Real GDP (purchasing power parity) 2018": {
+        "text": "$72.55 billion (2018 est.)"
+      },
+      "Real GDP (purchasing power parity) 2017": {
+        "text": "$71.282 billion (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
     },
     "GDP (official exchange rate)": {
       "text": "$38.472 billion (2019 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$23,441 (2019 est.) / $23,927 (2018 est.) / $22,068 (2017 est.)",
-      "note": "note: data are in 2010 dollars",
-      "country comparison to the world": 67
+    "Real GDP per capita": {
+      "Real GDP per capita 2019": {
+        "text": "$45,011 (2019 est.)"
+      },
+      "Real GDP per capita 2018": {
+        "text": "$46,227 (2018 est.)"
+      },
+      "Real GDP per capita 2017": {
+        "text": "$47,710 (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
     },
     "Gross national saving": {
-      "text": "19.8% of GDP (2017 est.) / 21.2% of GDP (2016 est.) / 22% of GDP (2015 est.)",
-      "country comparison to the world": 99
+      "Gross national saving 2017": {
+        "text": "19.8% of GDP (2017 est.)"
+      },
+      "Gross national saving 2016": {
+        "text": "21.2% of GDP (2016 est.)"
+      },
+      "Gross national saving 2015": {
+        "text": "22% of GDP (2015 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -574,22 +601,22 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "text": "76.0 (2020)"
+      "Overall Ease of Doing Business score 2020": {
+        "text": "76.0 (2020)"
+      }
     },
-    "Agriculture - products": {
-      "text": "fruit, vegetables; poultry, dairy products; shrimp, fish"
+    "Agricultural products": {
+      "text": "mutton, dates, milk, poultry, tomatoes, fruit, sheep offals, sheep skins, eggs, pumpkins"
     },
     "Industries": {
       "text": "petroleum processing and refining, aluminum smelting, iron pelletization, fertilizers, Islamic and offshore banking, insurance, ship repairing, tourism"
     },
     "Industrial production growth rate": {
-      "text": "0.6% (2017 est.)",
-      "country comparison to the world": 165
+      "text": "0.6% (2017 est.)"
     },
     "Labor force": {
       "text": "831,600 (2017 est.)",
-      "note": "note: excludes unemployed; 44% of the population in the 15-64 age group is non-national",
-      "country comparison to the world": 144
+      "note": "<p><strong>note:</strong> excludes unemployed; 44% of the population in the 15-64 age group is non-national</p>"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -603,9 +630,13 @@
       }
     },
     "Unemployment rate": {
-      "text": "3.6% (2017 est.) / 3.7% (2016 est.)",
-      "note": "note: official estimate; actual rate is higher",
-      "country comparison to the world": 50
+      "Unemployment rate 2017": {
+        "text": "3.6% (2017 est.)"
+      },
+      "Unemployment rate 2016": {
+        "text": "3.7% (2016 est.)"
+      },
+      "note": "<p><strong>note:</strong> official estimate; actual rate is higher</p>"
     },
     "Population below poverty line": {
       "text": "NA"
@@ -627,27 +658,37 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "16.6% (of GDP) (2017 est.)",
-      "country comparison to the world": 176
+      "text": "16.6% (of GDP) (2017 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-10.1% (of GDP) (2017 est.)",
-      "country comparison to the world": 211
+      "text": "-10.1% (of GDP) (2017 est.)"
     },
     "Public debt": {
-      "text": "88.5% of GDP (2017 est.) / 81.4% of GDP (2016 est.)",
-      "country comparison to the world": 26
+      "Public debt 2017": {
+        "text": "88.5% of GDP (2017 est.)"
+      },
+      "Public debt 2016": {
+        "text": "81.4% of GDP (2016 est.)"
+      }
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Current account balance": {
-      "text": "-$1.6 billion (2017 est.) / -$1.493 billion (2016 est.)",
-      "country comparison to the world": 162
+      "Current account balance 2017": {
+        "text": "-$1.6 billion (2017 est.)"
+      },
+      "Current account balance 2016": {
+        "text": "-$1.493 billion (2016 est.)"
+      }
     },
     "Exports": {
-      "text": "$27.635 billion (2018 est.) / $26.762 billion (2017 est.)",
-      "country comparison to the world": 71
+      "Exports 2018": {
+        "text": "$27.635 billion (2018 est.)"
+      },
+      "Exports 2017": {
+        "text": "$26.762 billion (2017 est.)"
+      }
     },
     "Exports - partners": {
       "text": "UAE 19.6%, Saudi Arabia 11.7%, US 10.8%, Oman 8.1%, China 6.5%, Qatar 5.7%, Japan 4.2% (2017)"
@@ -656,25 +697,54 @@
       "text": "petroleum and petroleum products, aluminum, textiles"
     },
     "Imports": {
-      "text": "$23.399 billion (2018 est.) / $22.132 billion (2017 est.)",
-      "country comparison to the world": 76
-    },
-    "Imports - commodities": {
-      "text": "crude oil, machinery, chemicals"
+      "Imports 2018": {
+        "text": "$23.399 billion (2018 est.)"
+      },
+      "Imports 2017": {
+        "text": "$22.132 billion (2017 est.)"
+      }
     },
     "Imports - partners": {
       "text": "China 8.8%, UAE 7.2%, US 7.1%, Australia 5.3%, Japan 4.8% (2017)"
     },
+    "Imports - commodities": {
+      "text": "crude oil, machinery, chemicals"
+    },
     "Reserves of foreign exchange and gold": {
-      "text": "$2.349 billion (31 December 2017 est.) / $3.094 billion (31 December 2016 est.)",
-      "country comparison to the world": 118
+      "Reserves of foreign exchange and gold 31 December 2017": {
+        "text": "$2.349 billion (31 December 2017 est.)"
+      },
+      "Reserves of foreign exchange and gold 31 December 2016": {
+        "text": "$3.094 billion (31 December 2016 est.)"
+      }
     },
     "Debt - external": {
-      "text": "$52.15 billion (31 December 2017 est.) / $42.55 billion (31 December 2016 est.)",
-      "country comparison to the world": 63
+      "Debt - external 31 December 2017": {
+        "text": "$52.15 billion (31 December 2017 est.)"
+      },
+      "Debt - external 31 December 2016": {
+        "text": "$42.55 billion (31 December 2016 est.)"
+      }
     },
     "Exchange rates": {
-      "text": "Bahraini dinars (BHD) per US dollar - / 0.37705 (2020 est.) / 0.37705 (2019 est.) / 0.377 (2018 est.) / 0.376 (2014 est.) / 0.376 (2013 est.)"
+      "currency": {
+        "text": "Bahraini dinars (BHD) per US dollar -"
+      },
+      "Exchange rates 2020": {
+        "text": "0.37705 (2020 est.)"
+      },
+      "Exchange rates 2019": {
+        "text": "0.37705 (2019 est.)"
+      },
+      "Exchange rates 2018": {
+        "text": "0.377 (2018 est.)"
+      },
+      "Exchange rates 2014": {
+        "text": "0.376 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "0.376 (2013 est.)"
+      }
     }
   },
   "Energy": {
@@ -684,96 +754,73 @@
       }
     },
     "Electricity - production": {
-      "text": "26.81 billion kWh (2016 est.)",
-      "country comparison to the world": 70
+      "text": "26.81 billion kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "26.11 billion kWh (2016 est.)",
-      "country comparison to the world": 67
+      "text": "26.11 billion kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "213 million kWh (2015 est.)",
-      "country comparison to the world": 74
+      "text": "213 million kWh (2015 est.)"
     },
     "Electricity - imports": {
-      "text": "276 million kWh (2016 est.)",
-      "country comparison to the world": 89
+      "text": "276 million kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "3.928 million kW (2016 est.)",
-      "country comparison to the world": 90
+      "text": "3.928 million kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "100% of total installed capacity (2016 est.)",
-      "country comparison to the world": 2
+      "text": "100% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 44
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 156
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 175
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "40,000 bbl/day (2018 est.)",
-      "country comparison to the world": 58
+      "text": "40,000 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 90
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - imports": {
-      "text": "226,200 bbl/day (2015 est.)",
-      "country comparison to the world": 29
+      "text": "226,200 bbl/day (2015 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "124.6 million bbl (1 January 2018 est.)",
-      "country comparison to the world": 67
+      "text": "124.6 million bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "274,500 bbl/day (2015 est.)",
-      "country comparison to the world": 45
+      "text": "274,500 bbl/day (2015 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "61,000 bbl/day (2016 est.)",
-      "country comparison to the world": 94
+      "text": "61,000 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "245,300 bbl/day (2015 est.)",
-      "country comparison to the world": 30
+      "text": "245,300 bbl/day (2015 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "14,530 bbl/day (2015 est.)",
-      "country comparison to the world": 136
+      "text": "14,530 bbl/day (2015 est.)"
     },
     "Natural gas - production": {
-      "text": "15.89 billion cu m (2017 est.)",
-      "country comparison to the world": 36
+      "text": "15.89 billion cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "15.89 billion cu m (2017 est.)",
-      "country comparison to the world": 42
+      "text": "15.89 billion cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 64
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 88
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "92.03 billion cu m (1 January 2018 est.)",
-      "country comparison to the world": 53
+      "text": "92.03 billion cu m (1 January 2018 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "37.98 million Mt (2017 est.)",
-      "country comparison to the world": 67
+      "text": "37.98 million Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -783,8 +830,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "16.73 (2019 est.)"
-      },
-      "country comparison to the world": 118
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -792,8 +838,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "115.79 (2019 est.)"
-      },
-      "country comparison to the world": 156
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
@@ -803,9 +848,9 @@
         "text": "17 per 100 fixed-line, 116 per 100 mobile-cellular; modern fiber-optic integrated services; digital network with rapidly expanding mobile-cellular telephones (2019)"
       },
       "international": {
-        "text": "country code - 973; landing points for the FALCON, Tata TGN-Gulf, GBICS/MENA, and FOG submarine cable network that provides links to Asia, the Middle East, and Africa; tropospheric scatter to Qatar and UAE; microwave radio relay to Saudi Arabia; satellite earth station - 1 (2019)"
+        "text": "country code - 973; landing points for the&nbsp;FALCON, Tata TGN-Gulf, GBICS/MENA, and FOG&nbsp;submarine cable network that provides links to Asia, the Middle East, and Africa; tropospheric scatter to Qatar and UAE; microwave radio relay to Saudi Arabia; satellite earth station - 1 (2019)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "state-run Bahrain Radio and Television Corporation (BRTC) operates 5 terrestrial TV networks and several radio stations; satellite TV systems provide access to international broadcasts; 1 private FM station directs broadcasts to Indian listeners; radio and TV broadcasts from countries in the region are available (2019)"
@@ -819,8 +864,7 @@
       },
       "percent of population": {
         "text": "98.64% (July 2018 est.)"
-      },
-      "country comparison to the world": 132
+      }
     },
     "Broadband - fixed subscriptions": {
       "total": {
@@ -828,8 +872,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "13 (2018 est.)"
-      },
-      "country comparison to the world": 111
+      }
     }
   },
   "Transportation": {
@@ -851,8 +894,9 @@
       "text": "A9C (2016)"
     },
     "Airports": {
-      "text": "4 (2013)",
-      "country comparison to the world": 183
+      "total": {
+        "text": "4 (2013)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -880,17 +924,15 @@
       },
       "unpaved": {
         "text": "730 km (2010)"
-      },
-      "country comparison to the world": 153
+      }
     },
     "Merchant marine": {
       "total": {
-        "text": "261"
+        "text": "234"
       },
       "by type": {
-        "text": "bulk carrier 1, container ship 1, general cargo 11, oil tanker 4, other 244 (2019)"
-      },
-      "country comparison to the world": 59
+        "text": "general cargo 11, oil tanker 4, other 219 (2020)"
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -900,15 +942,28 @@
   },
   "Military and Security": {
     "Military and security forces": {
-      "text": "Bahrain Defense Force (BDF): Royal Bahraini Army (includes the Royal Guard), Royal Bahraini Navy, Royal Bahraini Air Force, Royal Bahraini Air Defense Force; Ministry of Interior security forces: National Guard, Special Security Forces Command (SSFC), Coast Guard ++ (2019)",
-      "note": "note: the Royal Guard is officially under the command of the Army, but exercises considerable autonomy"
+      "text": "Bahrain Defense Force (BDF): Royal Bahraini Army (includes the Royal Guard), Royal Bahraini Navy, Royal Bahraini Air Force, Royal Bahraini Air Defense Force; Ministry of Interior security forces: National Guard<span style=\"display: inline !important; float: none; background-color: #ffffff; color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 18px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">, Special Security Forces Command (SSFC), Coast Guard<br /></span> (2019)",
+      "note": "<br><br>note: the Royal Guard is officially under the command of the Army, but exercises considerable autonomy"
     },
     "Military expenditures": {
-      "text": "3.7% of GDP (2019) / 4.1% of GDP (2018) / 4.3% of GDP (2017) / 4.7% of GDP (2016) / 4.6% of GDP (2015)",
-      "country comparison to the world": 17
+      "Military Expenditures 2019": {
+        "text": "3.7% of GDP (2019)"
+      },
+      "Military Expenditures 2018": {
+        "text": "4.1% of GDP (2018)"
+      },
+      "Military Expenditures 2017": {
+        "text": "4.3% of GDP (2017)"
+      },
+      "Military Expenditures 2016": {
+        "text": "4.7% of GDP (2016)"
+      },
+      "Military Expenditures 2015": {
+        "text": "4.6% of GDP (2015)"
+      }
     },
     "Military and security service personnel strengths": {
-      "text": "size assessments for the Bahrain Defense Force vary; approximately 10,000 active personnel (7,500 Army; 1,000 Navy; 1,500 Air Force); est. 2,500 National Guard (2019 est.)"
+      "text": "<p>size assessments for the Bahrain Defense Force vary; approximately 10,000 active personnel (7,500 Army; 1,000 Navy; 1,500 Air Force); est. 2,500 National Guard</p> (2019 est.)"
     },
     "Military equipment inventories and acquisitions": {
       "text": "the inventory of the Bahrain Defense force is comprised mostly of equipment acquired from the US along with a smaller quantity of material from European suppliers; since 2010, Turkey and the US are the leading suppliers of arms to Bahrain (2019 est.)"
@@ -920,12 +975,12 @@
   "Terrorism": {
     "Terrorist group(s)": {
       "text": "al-Ashtar Brigades; Islamic Revolutionary Guard Corps/Qods Force (2020)",
-      "note": "note: details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T"
+      "note": "<p><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in <a title=\"Appendix-T\" href=\"../appendix/appendix-t.html\">Appendix-T</a></p>"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "none"
+      "text": "<p>none</p>"
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "Following its heyday as a global maritime power during the 15th and 16th centuries, Portugal lost much of its wealth and status with the destruction of Lisbon in a 1755 earthquake, occupation during the Napoleonic Wars, and the independence of Brazil, its wealthiest colony, in 1822. A 1910 revolution deposed the monarchy, and for most of the next six decades, repressive governments ran the country. In 1974, a left-wing military coup installed broad democratic reforms. The following year, Portugal granted independence to all of its African colonies. Portugal is a founding member of NATO and entered the EC (now the EU) in 1986."
+      "text": "<p>Following its heyday as a global maritime power during the 15th and 16th centuries, Portugal lost much of its wealth and status with the destruction of Lisbon in a 1755 earthquake, occupation during the Napoleonic Wars, and the independence of Brazil, its wealthiest colony, in 1822. A 1910 revolution deposed the monarchy, and for most of the next six decades, repressive governments ran the country. In 1974, a left-wing military coup installed broad democratic reforms. The following year, Portugal granted independence to all of its African colonies. Portugal is a founding member of NATO and entered the EC (now the EU) in 1986.</p>"
     }
   },
   "Geography": {
@@ -24,8 +24,7 @@
       "water": {
         "text": "620 sq km"
       },
-      "note": "note: includes Azores and Madeira Islands",
-      "country comparison to the world": 111
+      "note": "<p><strong>note:</strong> includes Azores and Madeira Islands</p>"
     },
     "Area - comparative": {
       "text": "slightly smaller than Virginia"
@@ -45,11 +44,11 @@
       "territorial sea": {
         "text": "12 nm"
       },
-      "exclusive economic zone": {
-        "text": "200 nm"
-      },
       "contiguous zone": {
         "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
       },
       "continental shelf": {
         "text": "200-m depth or to the depth of exploitation"
@@ -79,8 +78,14 @@
       "agricultural land": {
         "text": "39.7% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "11.9% (2011 est.) / 7.8% (2011 est.) / 20% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 11.9% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 7.8% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 20% (2011 est.)"
       },
       "forest": {
         "text": "37.8% (2011 est.)"
@@ -96,7 +101,7 @@
       "text": "concentrations are primarily along or near the Atlantic coast; both Lisbon and the second largest city, Porto, are coastal cities"
     },
     "Natural hazards": {
-      "text": "Azores subject to severe earthquakes ++ volcanism: limited volcanic activity in the Azores Islands; Fayal or Faial (1,043 m) last erupted in 1958; most volcanoes have not erupted in centuries; historically active volcanoes include Agua de Pau, Furnas, Pico, Picos Volcanic System, San Jorge, Sete Cidades, and Terceira"
+      "text": "<p>Azores subject to severe earthquakes</p><p><strong>volcanism:</strong> limited volcanic activity in the Azores Islands; Fayal or Faial (1,043 m) last erupted in 1958; most volcanoes have not erupted in centuries; historically active volcanoes include Agua de Pau, Furnas, Pico, Picos Volcanic System, San Jorge, Sete Cidades, and Terceira</p>"
     },
     "Environment - current issues": {
       "text": "soil erosion; air pollution caused by industrial and vehicle emissions; water pollution, especially in urban centers and coastal areas"
@@ -115,8 +120,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "10,302,674 (July 2020 est.)",
-      "country comparison to the world": 89
+      "text": "10,263,850 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -134,7 +138,7 @@
     },
     "Religions": {
       "text": "Roman Catholic 81%, other Christian 3.3%, other (includes Jewish, Muslim) 0.6%, none 6.8%, unspecified 8.3% (2011 est.)",
-      "note": "note: represents population 15 years of age and older"
+      "note": "<p><strong>note:</strong> represents population 15 years of age and older</p>"
     },
     "Age structure": {
       "0-14 years": {
@@ -176,24 +180,19 @@
       },
       "female": {
         "text": "46.5 years (2020 est.)"
-      },
-      "country comparison to the world": 13
+      }
     },
     "Population growth rate": {
-      "text": "-0.25% (2020 est.)",
-      "country comparison to the world": 212
+      "text": "-0.23% (2021 est.)"
     },
     "Birth rate": {
-      "text": "8.1 births/1,000 population (2020 est.)",
-      "country comparison to the world": 220
+      "text": "8.02 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "10.8 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 25
+      "text": "10.9 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "0.3 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 70
+      "text": "0.62 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "concentrations are primarily along or near the Atlantic coast; both Lisbon and the second largest city, Porto, are coastal cities"
@@ -236,46 +235,54 @@
       "text": "29.6 years (2017 est.)"
     },
     "Maternal mortality rate": {
-      "text": "8 deaths/100,000 live births (2017 est.)",
-      "country comparison to the world": 152
+      "text": "8 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "2.6 deaths/1,000 live births"
+        "text": "2.53 deaths/1,000 live births"
       },
       "male": {
-        "text": "3 deaths/1,000 live births"
+        "text": "2.89 deaths/1,000 live births"
       },
       "female": {
-        "text": "2.3 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 218
+        "text": "2.15 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "81.1 years"
+        "text": "81.29 years"
       },
       "male": {
-        "text": "77.9 years"
+        "text": "78.14 years"
       },
       "female": {
-        "text": "84.4 years (2020 est.)"
-      },
-      "country comparison to the world": 39
+        "text": "84.6 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "1.41 children born/woman (2020 est.)",
-      "country comparison to the world": 215
+      "text": "1.42 children born/woman (2021 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "73.9% (2014)"
     },
     "Drinking water source": {
-      "improved": {
-        "text": "urban: 100% of population / rural: 100% of population / total: 100% of population"
+      "improved: urban": {
+        "text": "urban: 100% of population"
       },
-      "unimproved": {
-        "text": "urban: 0% of population / rural: 0% of population / total: 0% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 100% of population"
+      },
+      "improved: total": {
+        "text": "total: 100% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 0% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 0% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 0% of population (2017 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -288,31 +295,39 @@
       "text": "3.4 beds/1,000 population (2017)"
     },
     "Sanitation facility access": {
-      "improved": {
-        "text": "urban: 100% of population / rural: 100% of population / total: 100% of population"
+      "improved: urban": {
+        "text": "urban: 100% of population"
       },
-      "unimproved": {
-        "text": "urban: 0% of population / rural: 0% of population / total: 0% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 100% of population"
+      },
+      "improved: total": {
+        "text": "total: 100% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 0% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 0% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 0% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "0.5% (2018 est.)",
-      "country comparison to the world": 70
+      "text": "0.5% (2018 est.)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
-      "text": "41,000 (2018 est.)",
-      "country comparison to the world": 65
+      "text": "41,000 (2018 est.)"
     },
     "HIV/AIDS - deaths": {
       "text": "<500 (2018 est.)"
     },
     "Obesity - adult prevalence rate": {
-      "text": "20.8% (2016)",
-      "country comparison to the world": 95
+      "text": "20.8% (2016)"
     },
     "Education expenditures": {
-      "text": "5% of GDP (2017)",
-      "country comparison to the world": 60
+      "text": "5% of GDP (2017)"
     },
     "Literacy": {
       "definition": {
@@ -348,8 +363,7 @@
       },
       "female": {
         "text": "20.9% (2018 est.)"
-      },
-      "country comparison to the world": 66
+      }
     }
   },
   "Government": {
@@ -386,7 +400,7 @@
       "daylight saving time": {
         "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
       },
-      "note": "note: Portugal has two time zones, including the Azores (UTC-1) ++ etymology: Lisbon is one of Europe's oldest cities (the second oldest capital city after Athens) and the origin of the name is lost in time; it may have been founded as an ancient Celtic settlement that subsequently maintained close commercial relations with the Phoenicians (beginning about 1200 B.C.); the name of the settlement may have been derived from the pre-Roman appellation for the Tagus River that runs through the city, Lisso or Lucio; the Romans named the city \"Olisippo\" when they took it from the Carthaginians in 205 B.C.; under the Visigoths the city name became \"Ulixbona,\" under the Arabs it was \"al-Ushbuna\"; the medieval version of \"Lissabona\" became today's Lisboa"
+      "note": "<p><strong>note:</strong> Portugal has two time zones, including the Azores (UTC-1)<br /><br /><strong>etymology:</strong> Lisbon is one of Europe's oldest cities (the second oldest capital city after Athens) and the origin of the name is lost in time; it may have been founded as an ancient Celtic settlement that subsequently maintained close commercial relations with the Phoenicians (beginning about 1200 B.C.); the name of the settlement may have been derived from the pre-Roman appellation for the Tagus River that runs through the city, Lisso or Lucio; the Romans named the city \"Olisippo\" when they took it from the Carthaginians in 205 B.C.; under the Visigoths the city name became \"Ulixbona,\" under the Arabs it was \"al-Ushbuna\"; the medieval version of \"Lissabona\" became today's Lisboa</p>"
     },
     "Administrative divisions": {
       "text": "18 districts (distritos, singular - distrito) and 2 autonomous regions* (regioes autonomas, singular - regiao autonoma); Aveiro, Acores (Azores)*, Beja, Braga, Braganca, Castelo Branco, Coimbra, Evora, Faro, Guarda, Leiria, Lisboa (Lisbon), Madeira*, Portalegre, Porto, Santarem, Setubal, Viana do Castelo, Vila Real, Viseu"
@@ -439,12 +453,12 @@
         "text": "Council of Ministers appointed by the president on the recommendation of the prime minister"
       },
       "elections/appointments": {
-        "text": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 24 January 2016 (next to be held on 31 January 2021); following legislative elections the leader of the majority party or majority coalition is usually appointed prime minister by the president"
+        "text": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 24 January 2021 (next to be held on 24 January 2026); following legislative elections the leader of the majority party or majority coalition is usually appointed prime minister by the president"
       },
       "election results": {
-        "text": "Marcelo REBELO DE SOUSA elected president in the first round; percent of vote - Marcelo REBELO DE SOUSA (PSD) 52%, Antonio Sampaio da NOVOA (independent) 22.9%, Marisa MATIAS (BE) 10.1%, Maria de BELEM (independent) 4.2%, other 10.8%"
+        "text": "Marcelo REBELO DE SOUSA reelected president in the first round; percent of vote - Marcelo REBELO DE SOUSA (PSD) 60.7%, Ana GOMES (independent) 12.97%, Andre VENTURA (CH) 11.9%, Jo&atilde;o FERREIRA (PCP-PEV) 4.32%, Marisa MATIAS (BE) 3.95%, other 6.16%"
       },
-      "note": "note: there is also a Council of State that acts as a consultative body to the president"
+      "note": "<p><strong>note:</strong> there is also a Council of State that acts as a consultative body to the president</p>"
     },
     "Legislative branch": {
       "description": {
@@ -454,7 +468,7 @@
         "text": "last held on 6 October 2019 (next to be held 2023) (e.g. 2019)"
       },
       "election results": {
-        "text": "percent of vote by party - PS 36.4%, PSD 27.8%, B.E. 9.5%, CDU 6.5%, other 20.8%; seats by party - PS 108, PSD 79, B.E. 19, CDU 12, other 12; composition - men 158, women 72, percent of women 31.3% (e.g. 2019)"
+        "text": "percent of vote by party - PS 36.4%, PSD 27.8%, B.E. 9.5%, CDU 6.5%, other 20.8%; seats by party - PS 108, PSD 79,&nbsp; B.E. 19, CDU 12, other 12; composition - men 158, women 72, percent of women 31.3% (e.g. 2019)"
       }
     },
     "Judicial branch": {
@@ -469,7 +483,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Democratic and Social Center/Popular Party (Partido do Centro Democratico Social-Partido Popular) or CDS-PP [Assuncao CRISTAS] ++ Ecologist Party \"The Greens\" or \"Os Verdes\" (Partido Ecologista-Os Verdes) or PEV [Heloisa APOLONIA] ++ People-Animals-Nature Party (Pessoas-Animais-Natureza) or PAN [Andre SILVA] ++ Portuguese Communist Party (Partido Comunista Portugues) or PCP [Jeronimo DE SOUSA] ++ Social Democratic Party (Partido Social Democrata) or PSD (original name Partido Popular Democratico) or PPD [Rui RIO] ++ Socialist Party (Partido Socialista) or PS [Antonio COSTA] ++ The Left Bloc (Bloco de Esquerda) or BE or O Bloco [Catarina MARTINS] ++ Unitary Democratic Coalition (Coligacao Democratica Unitaria) or CDU [Jeronimo DE SOUSA] (includes PCP and PEV)"
+      "text": "Democratic and Social Center/Popular Party (Partido do Centro Democratico&nbsp;&nbsp; Social-Partido Popular) or CDS-PP [Assuncao CRISTAS]<br />Ecologist Party \"The Greens\" or \"Os Verdes\" (Partido Ecologista-Os Verdes) or PEV [Heloisa APOLONIA]<br />Enough (Chega) [Andre VENTURA] (formed in 2019)<br />People-Animals-Nature Party (Pessoas-Animais-Natureza) or PAN [Andre SILVA]<br />Portuguese Communist Party (Partido Comunista Portugues) or PCP [Jeronimo DE SOUSA]<br />Social Democratic Party (Partido Social Democrata) or PSD (original name Partido Popular Democratico) or PPD [Rui RIO]<br />Socialist Party (Partido Socialista) or PS [Antonio COSTA]<br />The Left Bloc (Bloco de Esquerda) or BE or O&nbsp;Bloco [Catarina MARTINS]<br />Unitary Democratic Coalition (Coligacao Democratica Unitaria) or CDU [Jeronimo DE SOUSA] (includes PCP and PEV)"
     },
     "International organization participation": {
       "text": "ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, CD, CE, CERN, CPLP, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club (associate), PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
@@ -527,20 +541,34 @@
       "lyrics/music": {
         "text": "Henrique LOPES DE MENDOCA/Alfredo KEIL"
       },
-      "note": "note: adopted 1910; \"A Portuguesa\" was originally written to protest the Portuguese monarchy's acquiescence to the 1890 British ultimatum forcing Portugal to give up areas of Africa; the lyrics refer to the \"insult\" that resulted from the event"
+      "note": "<p><strong>note:</strong> adopted 1910; \"A Portuguesa\" was originally written to protest the Portuguese monarchy's acquiescence to the 1890 British ultimatum forcing Portugal to give up areas of Africa; the lyrics refer to the \"insult\" that resulted from the event</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "Portugal has become a diversified and increasingly service-based economy since joining the European Community - the EU's predecessor - in 1986. Over the following two decades, successive governments privatized many state-controlled firms and liberalized key areas of the economy, including the financial and telecommunications sectors. The country joined the Economic and Monetary Union in 1999 and began circulating the euro on 1 January 2002 along with 11 other EU members. ++ The economy grew by more than the EU average for much of the 1990s, but the rate of growth slowed in 2001-08. After the global financial crisis in 2008, Portugal's economy contracted in 2009 and fell into recession from 2011 to 2013, as the government implemented spending cuts and tax increases to comply with conditions of an EU-IMF financial rescue package, signed in May 2011. Portugal successfully exited its EU-IMF program in May 2014, and its economic recovery gained traction in 2015 because of strong exports and a rebound in private consumption. GDP growth accelerated in 2016, and probably reached 2.5 % in 2017. Unemployment remained high, at 9.7% in 2017, but has improved steadily since peaking at 18% in 2013. ++ The center-left minority Socialist government has unwound some unpopular austerity measures while managing to remain within most EU fiscal targets. The budget deficit fell from 11.2% of GDP in 2010 to 1.8% in 2017, the country's lowest since democracy was restored in 1974, and surpassing the EU and IMF projections of 3%. Portugal exited the EU's excessive deficit procedure in mid-2017."
+      "text": "<p>Portugal has become a diversified and increasingly service-based economy since joining the European Community - the EU's predecessor - in 1986. Over the following two decades, successive governments privatized many state-controlled firms and liberalized key areas of the economy, including the financial and telecommunications sectors. The country joined the Economic and Monetary Union in 1999 and began circulating the euro on 1 January 2002 along with 11 other EU members.</p><p></p><p>The economy grew by more than the EU average for much of the 1990s, but the rate of growth slowed in 2001-08. After the global financial crisis in 2008, Portugal’s economy contracted in 2009 and fell into recession from 2011 to 2013, as the government implemented spending cuts and tax increases to comply with conditions of an EU-IMF financial rescue package, signed in May 2011. Portugal successfully exited its EU-IMF program in May 2014, and its economic recovery gained traction in 2015 because of strong exports and a rebound in private consumption. GDP growth accelerated in 2016, and probably reached 2.5 % in 2017. Unemployment remained high, at 9.7% in 2017, but has improved steadily since peaking at 18% in 2013.</p><p></p><p>The center-left minority Socialist government has unwound some unpopular austerity measures while managing to remain within most EU fiscal targets. The budget deficit fell from 11.2% of GDP in 2010 to 1.8% in 2017, the country’s lowest since democracy was restored in 1974, and surpassing the EU and IMF projections of 3%. Portugal exited the EU’s excessive deficit procedure in mid-2017.</p>"
     },
-    "GDP real growth rate": {
-      "text": "2.24% (2019 est.) / 2.85% (2018 est.) / 3.51% (2017 est.)",
-      "country comparison to the world": 126
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2019": {
+        "text": "2.24% (2019 est.)"
+      },
+      "Real GDP growth rate 2018": {
+        "text": "2.85% (2018 est.)"
+      },
+      "Real GDP growth rate 2017": {
+        "text": "3.51% (2017 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "0.3% (2019 est.) / 0.9% (2018 est.) / 1.3% (2017 est.)",
-      "country comparison to the world": 37
+      "Inflation rate (consumer prices) 2019": {
+        "text": "0.3% (2019 est.)"
+      },
+      "Inflation rate (consumer prices) 2018": {
+        "text": "0.9% (2018 est.)"
+      },
+      "Inflation rate (consumer prices) 2017": {
+        "text": "1.3% (2017 est.)"
+      }
     },
     "Credit ratings": {
       "Fitch rating": {
@@ -553,21 +581,43 @@
         "text": "BBB (2019)"
       }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$307.045 billion (2019 est.) / $300.33 billion (2018 est.) / $292.01 billion (2017 est.)",
-      "note": "note: data are in 2010 dollars"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2019": {
+        "text": "$358.344 billion (2019 est.)"
+      },
+      "Real GDP (purchasing power parity) 2018": {
+        "text": "$350.507 billion (2018 est.)"
+      },
+      "Real GDP (purchasing power parity) 2017": {
+        "text": "$340.796 billion (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
     },
     "GDP (official exchange rate)": {
       "text": "$237.698 billion (2019 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$24,808 (2019 est.) / $24,195 (2018 est.) / $23,451 (2017 est.)",
-      "note": "note: data are in 2010 dollars",
-      "country comparison to the world": 62
+    "Real GDP per capita": {
+      "Real GDP per capita 2019": {
+        "text": "$34,894 (2019 est.)"
+      },
+      "Real GDP per capita 2018": {
+        "text": "$34,083 (2018 est.)"
+      },
+      "Real GDP per capita 2017": {
+        "text": "$33,086 (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
     },
     "Gross national saving": {
-      "text": "16.8% of GDP (2017 est.) / 16.1% of GDP (2016 est.) / 15.9% of GDP (2015 est.)",
-      "country comparison to the world": 124
+      "Gross national saving 2017": {
+        "text": "16.8% of GDP (2017 est.)"
+      },
+      "Gross national saving 2016": {
+        "text": "16.1% of GDP (2016 est.)"
+      },
+      "Gross national saving 2015": {
+        "text": "15.9% of GDP (2015 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -601,21 +651,21 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "text": "90.9 (2020)"
+      "Overall Ease of Doing Business score 2020": {
+        "text": "90.9 (2020)"
+      }
     },
-    "Agriculture - products": {
-      "text": "grain, potatoes, tomatoes, olives, grapes; sheep, cattle, goats, pigs, poultry, dairy products; fish"
+    "Agricultural products": {
+      "text": "milk, tomatoes, olives, grapes, maize, potatoes, pork, apples, oranges, poultry"
     },
     "Industries": {
       "text": "textiles, clothing, footwear, wood and cork, paper and pulp, chemicals, fuels and lubricants, automobiles and auto parts, base metals, minerals, porcelain and ceramics, glassware, technology, telecommunications; dairy products, wine, other foodstuffs; ship construction and refurbishment; tourism, plastics, financial services, optics"
     },
     "Industrial production growth rate": {
-      "text": "3.5% (2017 est.)",
-      "country comparison to the world": 89
+      "text": "3.5% (2017 est.)"
     },
     "Labor force": {
-      "text": "4.717 million (2020 est.)",
-      "country comparison to the world": 82
+      "text": "4.717 million (2020 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -629,11 +679,23 @@
       }
     },
     "Unemployment rate": {
-      "text": "6.55% (2019 est.) / 7.05% (2018 est.)",
-      "country comparison to the world": 103
+      "Unemployment rate 2019": {
+        "text": "6.55% (2019 est.)"
+      },
+      "Unemployment rate 2018": {
+        "text": "7.05% (2018 est.)"
+      }
     },
     "Population below poverty line": {
       "text": "19% (2015 est.)"
+    },
+    "Gini Index coefficient - distribution of family income": {
+      "Gini Index coefficient - distribution of family income 2017": {
+        "text": "33.8 (2017 est.)"
+      },
+      "Gini Index coefficient - distribution of family income 2014": {
+        "text": "34 (2014 est.)"
+      }
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
@@ -652,28 +714,41 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "42.9% (of GDP) (2017 est.)",
-      "country comparison to the world": 29
+      "text": "42.9% (of GDP) (2017 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-3% (of GDP) (2017 est.)",
-      "country comparison to the world": 134
+      "text": "-3% (of GDP) (2017 est.)"
     },
     "Public debt": {
-      "text": "125.7% of GDP (2017 est.) / 129.9% of GDP (2016 est.)",
-      "note": "note: data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions",
-      "country comparison to the world": 9
+      "Public debt 2017": {
+        "text": "125.7% of GDP (2017 est.)"
+      },
+      "Public debt 2016": {
+        "text": "129.9% of GDP (2016 est.)"
+      },
+      "note": "<p><strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions</p>"
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Current account balance": {
-      "text": "-$203 million (2019 est.) / $988 million (2018 est.)",
-      "country comparison to the world": 100
+      "Current account balance 2019": {
+        "text": "-$203 million (2019 est.)"
+      },
+      "Current account balance 2018": {
+        "text": "$988 million (2018 est.)"
+      }
     },
     "Exports": {
-      "text": "$114.512 billion (2019 est.) / $110.591 billion (2018 est.) / $106.201 billion (2017 est.)",
-      "country comparison to the world": 42
+      "Exports 2019": {
+        "text": "$114.512 billion (2019 est.)"
+      },
+      "Exports 2018": {
+        "text": "$110.591 billion (2018 est.)"
+      },
+      "Exports 2017": {
+        "text": "$106.201 billion (2017 est.)"
+      }
     },
     "Exports - partners": {
       "text": "Spain 25.2%, France 12.5%, Germany 11.3%, UK 6.6%, US 5.2%, Netherlands 4% (2017)"
@@ -682,25 +757,57 @@
       "text": "agricultural products, foodstuffs, wine, oil products, chemical products, plastics and rubber, hides, leather, wood and cork, wood pulp and paper, textile materials, clothing, footwear, machinery and tools, base metals"
     },
     "Imports": {
-      "text": "$120.334 billion (2019 est.) / $114.957 billion (2018 est.) / $109.515 billion (2017 est.)",
-      "country comparison to the world": 42
-    },
-    "Imports - commodities": {
-      "text": "agricultural products, chemical products, vehicles and other transport material, optical and precision instruments, computer accessories and parts, semiconductors and related devices, oil products, base metals, food products, textile materials"
+      "Imports 2019": {
+        "text": "$120.334 billion (2019 est.)"
+      },
+      "Imports 2018": {
+        "text": "$114.957 billion (2018 est.)"
+      },
+      "Imports 2017": {
+        "text": "$109.515 billion (2017 est.)"
+      }
     },
     "Imports - partners": {
       "text": "Spain 32%, Germany 13.7%, France 7.4%, Italy 5.5%, Netherlands 5.4% (2017)"
     },
+    "Imports - commodities": {
+      "text": "agricultural products, chemical products, vehicles and other transport material, optical and precision instruments, computer accessories and parts, semiconductors and related devices, oil products, base metals, food products, textile materials"
+    },
     "Reserves of foreign exchange and gold": {
-      "text": "$26.11 billion (31 December 2017 est.) / $19.4 billion (31 December 2015 est.)",
-      "country comparison to the world": 55
+      "Reserves of foreign exchange and gold 31 December 2017": {
+        "text": "$26.11 billion (31 December 2017 est.)"
+      },
+      "Reserves of foreign exchange and gold 31 December 2015": {
+        "text": "$19.4 billion (31 December 2015 est.)"
+      }
     },
     "Debt - external": {
-      "text": "$449 billion (31 March 2016 est.) / $447 billion (31 March 2015 est.)",
-      "country comparison to the world": 27
+      "Debt - external 31 March 2016": {
+        "text": "$449 billion (31 March 2016 est.)"
+      },
+      "Debt - external 31 March 2015": {
+        "text": "$447 billion (31 March 2015 est.)"
+      }
     },
     "Exchange rates": {
-      "text": "euros (EUR) per US dollar - / 0.82771 (2020 est.) / 0.90338 (2019 est.) / 0.87789 (2018 est.) / 0.7525 (2014 est.) / 0.7634 (2013 est.)"
+      "currency": {
+        "text": "euros (EUR) per US dollar -"
+      },
+      "Exchange rates 2020": {
+        "text": "0.82771 (2020 est.)"
+      },
+      "Exchange rates 2019": {
+        "text": "0.90338 (2019 est.)"
+      },
+      "Exchange rates 2018": {
+        "text": "0.87789 (2018 est.)"
+      },
+      "Exchange rates 2014": {
+        "text": "0.7525 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "0.7634 (2013 est.)"
+      }
     }
   },
   "Energy": {
@@ -710,96 +817,73 @@
       }
     },
     "Electricity - production": {
-      "text": "56.9 billion kWh (2016 est.)",
-      "country comparison to the world": 51
+      "text": "56.9 billion kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "46.94 billion kWh (2016 est.)",
-      "country comparison to the world": 52
+      "text": "46.94 billion kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "9.701 billion kWh (2016 est.)",
-      "country comparison to the world": 21
+      "text": "9.701 billion kWh (2016 est.)"
     },
     "Electricity - imports": {
-      "text": "4.616 billion kWh (2016 est.)",
-      "country comparison to the world": 40
+      "text": "4.616 billion kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "20.56 million kW (2016 est.)",
-      "country comparison to the world": 43
+      "text": "20.56 million kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "41% of total installed capacity (2016 est.)",
-      "country comparison to the world": 167
+      "text": "41% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 167
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "25% of total installed capacity (2017 est.)",
-      "country comparison to the world": 78
+      "text": "25% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "35% of total installed capacity (2017 est.)",
-      "country comparison to the world": 10
+      "text": "35% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "0 bbl/day (2018 est.)",
-      "country comparison to the world": 187
+      "text": "0 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "0 bbl/day (2017 est.)",
-      "country comparison to the world": 180
+      "text": "0 bbl/day (2017 est.)"
     },
     "Crude oil - imports": {
-      "text": "285,200 bbl/day (2017 est.)",
-      "country comparison to the world": 26
+      "text": "285,200 bbl/day (2017 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2018 est.)",
-      "country comparison to the world": 182
+      "text": "0 bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "323,000 bbl/day (2017 est.)",
-      "country comparison to the world": 39
+      "text": "323,000 bbl/day (2017 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "247,200 bbl/day (2017 est.)",
-      "country comparison to the world": 51
+      "text": "247,200 bbl/day (2017 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "143,500 bbl/day (2017 est.)",
-      "country comparison to the world": 36
+      "text": "143,500 bbl/day (2017 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "78,700 bbl/day (2017 est.)",
-      "country comparison to the world": 64
+      "text": "78,700 bbl/day (2017 est.)"
     },
     "Natural gas - production": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 184
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "6.258 billion cu m (2017 est.)",
-      "country comparison to the world": 54
+      "text": "6.258 billion cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 169
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "6.541 billion cu m (2017 est.)",
-      "country comparison to the world": 30
+      "text": "6.541 billion cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "0 cu m (1 January 2014 est.)",
-      "country comparison to the world": 182
+      "text": "0 cu m (1 January 2014 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "54.97 million Mt (2017 est.)",
-      "country comparison to the world": 57
+      "text": "54.97 million Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -809,8 +893,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "50.15 (2019 est.)"
-      },
-      "country comparison to the world": 28
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -818,20 +901,19 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "116.46 (2019 est.)"
-      },
-      "country comparison to the world": 76
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "telephone system has a state-of-the-art network with broadband, high-speed capabilities; FttP in 2020; 3G universal and 4G upgrades; regulator release 700MHz spectrum for 5G use; DSL moves to fiber services; FttP for over 5 million customers in 2020 providing national coverage; fiber subscriber base grows 24% in 2018; development in M-payment solutions (2020)"
+        "text": "telephone system has a state-of-the-art network with broadband, high-speed capabilities; FttP&nbsp;in 2020; 3G&nbsp;universal and 4G upgrades;&nbsp;regulator release 700MHz spectrum for 5G use;&nbsp;DSL moves to fiber services; FttP for over 5 million customers in 2020 providing national coverage; fiber subscriber base grows 24% in 2018; development in M-payment solutions (2020)"
       },
       "domestic": {
         "text": "integrated network of coaxial cables, open-wire, microwave radio relay, and domestic satellite earth stations; fixed-line 50 per 100 persons and mobile-cellular 116 per 100 persons (2019)"
       },
       "international": {
-        "text": "country code - 351; landing points for the Ella Link, BUGIO, EIG, SAT-3/WASC, SeaMeWe-3, Equino, MainOne, Tat TGN-Western Europe, WACS, ACE, Atlantis2 and Columbus-III submarine cables provide connectivity to Europe, Africa, the Middle East, Asia, Southeast Asia, Australia, South America and the US; satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean), NA Eutelsat; tropospheric scatter to Azores (2019)"
+        "text": "country code - 351;&nbsp;landing points for the Ella Link, BUGIO, EIG, SAT-3/WASC, SeaMeWe-3, Equino, MainOne, Tat TGN-Western Europe, WACS, ACE, Atlantis2 and Columbus-III&nbsp;submarine cables provide connectivity to Europe, Africa, the Middle East, Asia, Southeast Asia, Australia, South America&nbsp;and the US; satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean), NA Eutelsat; tropospheric scatter to Azores (2019)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "Radio e Televisao de Portugal (RTP), the publicly owned TV broadcaster, operates 4 domestic channels and external service channels to Africa; overall, roughly 40 domestic TV stations; viewers have widespread access to international broadcasters with more than half of all households connected to multi-channel cable or satellite TV systems; publicly owned radio operates 3 national networks and provides regional and external services; several privately owned national radio stations and some 300 regional and local commercial radio stations"
@@ -845,8 +927,7 @@
       },
       "percent of population": {
         "text": "74.66% (July 2018 est.)"
-      },
-      "country comparison to the world": 62
+      }
     },
     "Broadband - fixed subscriptions": {
       "total": {
@@ -854,8 +935,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "37 (2018 est.)"
-      },
-      "country comparison to the world": 38
+      }
     }
   },
   "Transportation": {
@@ -877,8 +957,9 @@
       "text": "CR, CS (2016)"
     },
     "Airports": {
-      "text": "64 (2013)",
-      "country comparison to the world": 77
+      "total": {
+        "text": "64 (2013)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -926,8 +1007,7 @@
       },
       "other": {
         "text": "528 km (gauge unspecified) (2014)"
-      },
-      "country comparison to the world": 60
+      }
     },
     "Roadways": {
       "total": {
@@ -938,21 +1018,18 @@
       },
       "unpaved": {
         "text": "11,606 km (2008)"
-      },
-      "country comparison to the world": 61
+      }
     },
     "Waterways": {
-      "text": "210 km (on Douro River from Porto) (2011)",
-      "country comparison to the world": 95
+      "text": "210 km (on Douro River from Porto) (2011)"
     },
     "Merchant marine": {
       "total": {
-        "text": "624"
+        "text": "673"
       },
       "by type": {
-        "text": "bulk carrier 65, container ship 249, general cargo 99, oil tanker 21, other 190 (2019)"
-      },
-      "country comparison to the world": 37
+        "text": "bulk carrier 74, container ship 255, general cargo 122, oil tanker 23, other 199 (2020)"
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -969,11 +1046,24 @@
   "Military and Security": {
     "Military and security forces": {
       "text": "Portuguese Armed Forces: Portuguese Army (Exercito Portuguesa), Portuguese Navy (Marinha Portuguesa; includes Marine Corps), Portuguese Air Force (Forca Aerea Portuguesa, FAP); Portuguese National Republican Guard (Guarda Nacional Republicana, GNR) (2019)",
-      "note": "note: the GNR is a national gendarmerie force comprised of military personnel with law enforcement, internal security, civil defense, disaster response, and coast guard duties; it is responsible to the Minister of Internal Administration and to the Minister of National Defense; in the event of war or crisis, it may be placed under the Chief of the General Staff of the Armed Forces"
+      "note": "<br><br>note: the GNR is a national gendarmerie force comprised of military personnel with law enforcement, internal security, civil defense, disaster response, and coast guard duties; it is responsible to the Minister of Internal Administration and to the Minister of National Defense; in the event of war or crisis, it may be placed under the Chief of the General Staff of the Armed Forces"
     },
     "Military expenditures": {
-      "text": "1.52% of GDP (2019 est.) / 1.43% of GDP (2018) / 1.25% of GDP (2017) / 1.27% of GDP (2016) / 1.33% of GDP (2015)",
-      "country comparison to the world": 77
+      "Military Expenditures 2019": {
+        "text": "1.52% of GDP (2019 est.)"
+      },
+      "Military Expenditures 2018": {
+        "text": "1.43% of GDP (2018)"
+      },
+      "Military Expenditures 2017": {
+        "text": "1.25% of GDP (2017)"
+      },
+      "Military Expenditures 2016": {
+        "text": "1.27% of GDP (2016)"
+      },
+      "Military Expenditures 2015": {
+        "text": "1.33% of GDP (2015)"
+      }
     },
     "Military and security service personnel strengths": {
       "text": "the Portuguese Armed Forces have approximately 26,500 active duty personnel (13,000 Army; 7,500 Navy; 6,000 Air Force); 24,700 National Republican Guard (military personnel) (2019 est.)"
@@ -995,7 +1085,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz"
+      "text": "<p>Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p>"
     },
     "Refugees and internally displaced persons": {
       "stateless persons": {

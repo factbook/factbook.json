@@ -23,14 +23,15 @@
       },
       "water": {
         "text": "0 sq km"
-      },
-      "country comparison to the world": 204
+      }
     },
     "Area - comparative": {
       "text": "twice the size of Washington, DC"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "84 km"
@@ -39,11 +40,11 @@
       "territorial sea": {
         "text": "12 nm"
       },
-      "exclusive economic zone": {
-        "text": "200 nm"
-      },
       "contiguous zone": {
         "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
       },
       "continental shelf": {
         "text": "200 nm"
@@ -70,8 +71,14 @@
       "agricultural land": {
         "text": "25.6% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "12.8% (2011 est.) / 7.7% (2011 est.) / 5.1% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 12.8% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 7.7% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 5.1% (2011 est.)"
       },
       "forest": {
         "text": "68.7% (2011 est.)"
@@ -87,7 +94,7 @@
       "text": "most of the population is concentrated in and around the capital of Kingstown"
     },
     "Natural hazards": {
-      "text": "hurricanes; La Soufriere volcano on the island of Saint Vincent is a constant threat ++ volcanism: La Soufriere (1,234 m) on the island of Saint Vincent last erupted in 1979; the island of Saint Vincent is part of the volcanic island arc of the Lesser Antilles that extends from Saba in the north to Grenada in the south"
+      "text": "<p>hurricanes; La Soufriere volcano on the island of Saint Vincent is a constant threat</p><p><strong>volcanism:</strong> La Soufriere (1,234 m) on the island of Saint Vincent last erupted in 1979; the island of Saint Vincent is part of the volcanic island arc of the Lesser Antilles that extends from Saba in the north to Grenada in the south</p>"
     },
     "Environment - current issues": {
       "text": "pollution of coastal waters and shorelines from discharges by pleasure yachts and other effluents; in some areas, pollution is severe enough to make swimming prohibitive; poor land use planning; deforestation; watershed management and squatter settlement control"
@@ -106,8 +113,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "101,390 (July 2020 est.)",
-      "country comparison to the world": 194
+      "text": "101,145 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -124,7 +130,7 @@
       "text": "English, Vincentian Creole English, French patois"
     },
     "Religions": {
-      "text": "Protestant 75% (Pentecostal 27.6%, Anglican 13.9%, Seventh Day Adventist 11.6%, Baptist 8.9%, Methodist 8.7%, Evangelical 3.8%, Salvation Army .3%, Presbyterian/Congregational .3%), Roman Catholic 6.3%, Rastafarian 1.1%, Jehovah's Witness 0.8%, other 4.7%, none 7.5%, unspecified 4.7% (2012 est.)"
+      "text": "Protestant 75% (Pentecostal 27.6%, Anglican 13.9%, Seventh Day Adventist 11.6%,&nbsp; Baptist 8.9%, Methodist 8.7%,&nbsp;Evangelical 3.8%, Salvation Army .3%, Presbyterian/Congregational .3%), Roman Catholic 6.3%,&nbsp; Rastafarian 1.1%, Jehovah's Witness 0.8%, other 4.7%, none 7.5%, unspecified 4.7% (2012 est.)"
     },
     "Age structure": {
       "0-14 years": {
@@ -166,24 +172,19 @@
       },
       "female": {
         "text": "35.1 years (2020 est.)"
-      },
-      "country comparison to the world": 86
+      }
     },
     "Population growth rate": {
-      "text": "-0.22% (2020 est.)",
-      "country comparison to the world": 210
+      "text": "-0.18% (2021 est.)"
     },
     "Birth rate": {
-      "text": "12.6 births/1,000 population (2020 est.)",
-      "country comparison to the world": 153
+      "text": "12.44 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "7.6 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 100
+      "text": "7.42 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "-7.2 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 209
+      "text": "-6.82 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "most of the population is concentrated in and around the capital of Kingstown"
@@ -223,42 +224,38 @@
       }
     },
     "Maternal mortality rate": {
-      "text": "98 deaths/100,000 live births (2017 est.)",
-      "country comparison to the world": 70
+      "text": "98 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "11 deaths/1,000 live births"
+        "text": "13.16 deaths/1,000 live births"
       },
       "male": {
-        "text": "12 deaths/1,000 live births"
+        "text": "14.9 deaths/1,000 live births"
       },
       "female": {
-        "text": "10 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 122
+        "text": "11.38 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "76.2 years"
+        "text": "76.43 years"
       },
       "male": {
-        "text": "74.1 years"
+        "text": "74.37 years"
       },
       "female": {
-        "text": "78.3 years (2020 est.)"
-      },
-      "country comparison to the world": 101
+        "text": "78.55 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "1.76 children born/woman (2020 est.)",
-      "country comparison to the world": 157
+      "text": "1.75 children born/woman (2021 est.)"
     },
     "Drinking water source": {
-      "improved": {
+      "improved: total": {
         "text": "total: 95.1% of population"
       },
-      "unimproved": {
+      "unimproved: total": {
         "text": "total: 4.9% of population (2017 est.)"
       }
     },
@@ -272,31 +269,27 @@
       "text": "4.3 beds/1,000 population (2016)"
     },
     "Sanitation facility access": {
-      "improved": {
+      "improved: total": {
         "text": "total: 90.2% of population"
       },
-      "unimproved": {
+      "unimproved: total": {
         "text": "total: 9.8% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "1.5% (2018)",
-      "country comparison to the world": 30
+      "text": "1.5% (2018)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
-      "text": "1,200 (2018)",
-      "country comparison to the world": 142
+      "text": "1,200 (2018)"
     },
     "HIV/AIDS - deaths": {
       "text": "<100 (2018)"
     },
     "Obesity - adult prevalence rate": {
-      "text": "23.7% (2016)",
-      "country comparison to the world": 64
+      "text": "23.7% (2016)"
     },
     "Education expenditures": {
-      "text": "5.7% of GDP (2018)",
-      "country comparison to the world": 30
+      "text": "5.7% of GDP (2018)"
     },
     "School life expectancy (primary to tertiary education)": {
       "total": {
@@ -335,7 +328,7 @@
       "time difference": {
         "text": "UTC-4 (1 hour ahead of Washington, DC, during Standard Time)"
       },
-      "note": "etymology: an earlier French settlement was renamed Kingstown by the British in 1763 when they assumed control of the island; the king referred to in the name is George III (r. 1760-1820)"
+      "note": "<br><br><strong>etymology:</strong> an earlier French settlement was renamed Kingstown by the British in 1763 when they assumed control of the island; the king referred to in the name is George III (r. 1760-1820)"
     },
     "Administrative divisions": {
       "text": "6 parishes; Charlotte, Grenadines, Saint Andrew, Saint David, Saint George, Saint Patrick"
@@ -379,7 +372,7 @@
     },
     "Executive branch": {
       "chief of state": {
-        "text": "Queen ELIZABETH II (since 6 February 1952); represented by Governor General Susan DOUGAN (since 1 August 2019)"
+        "text": "Queen ELIZABETH II (since 6 February 1952); represented by Governor General Susan DOUGAN (since&nbsp;1 August 2019)"
       },
       "head of government": {
         "text": "Prime Minister Ralph E. GONSALVES (since 29 March 2001)"
@@ -414,7 +407,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Democratic Republican Party or DRP [Anesia BAPTISTE] ++ New Democratic Party or NDP [Godwin L. FRIDAY] ++ Unity Labor Party or ULP [Dr. Ralph GONSALVES] (formed in 1994 by the coalition of Saint Vincent Labor Party or SVLP and the Movement for National Unity or MNU) ++ SVG Green Party or SVGP [Ivan O'NEAL]"
+      "text": "Democratic Republican Party or DRP [Anesia BAPTISTE]<br />New Democratic Party or NDP [Godwin L. FRIDAY]<br />Unity Labor Party or ULP [Dr. Ralph GONSALVES] (formed in 1994 by the coalition of Saint Vincent Labor Party or SVLP and the Movement for National Unity or MNU)<br />SVG Green Party or SVGP [Ivan O'NEAL]"
     },
     "International organization participation": {
       "text": "ACP, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, ISO (subscriber), ITU, MIGA, NAM, OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WFTU (NGOs), WHO, WIPO, WTO"
@@ -437,7 +430,9 @@
       }
     },
     "Diplomatic representation from the US": {
-      "text": "the US does not have an embassy in Saint Vincent and the Grenadines; the US Ambassador to Barbados is accredited to Saint Vincent and the Grenadines"
+      "embassy": {
+        "text": "the US does not have an embassy in Saint Vincent and the Grenadines; the US Ambassador to Barbados is accredited to Saint Vincent and the Grenadines"
+      }
     },
     "Flag description": {
       "text": "three vertical bands of blue (hoist side), gold (double width), and green; the gold band bears three green diamonds arranged in a V pattern, which stands for Vincent; the diamonds recall the islands as \"the Gems of the Antilles\" and are set slightly lowered in the gold band to reflect the nation's position in the Antilles; blue conveys the colors of a tropical sky and crystal waters, yellow signifies the golden Grenadine sands, and green represents lush vegetation"
@@ -452,41 +447,74 @@
       "lyrics/music": {
         "text": "Phyllis Joyce MCCLEAN PUNNETT/Joel Bertram MIGUEL"
       },
-      "note": "note: adopted 1967"
+      "note": "<p><strong>note:</strong> adopted 1967</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "Success of the economy hinges upon seasonal variations in agriculture, tourism, and construction activity, as well as remittances. Much of the workforce is employed in banana production and tourism. Saint Vincent and the Grenadines is home to a small offshore banking sector and continues to fully adopt international regulatory standards. ++ This lower-middle-income country remains vulnerable to natural and external shocks. The economy has shown some signs of recovery due to increased tourist arrivals, falling oil prices and renewed growth in the construction sector. The much anticipated international airport opened in early 2017 with hopes for increased airlift and tourism activity. The government's ability to invest in social programs and respond to external shocks is constrained by its high public debt burden, which was 67% of GDP at the end of 2013."
+      "text": "<p>Success of the economy hinges upon seasonal variations in agriculture, tourism, and construction activity, as well as remittances. Much of the workforce is employed in banana production and tourism. Saint Vincent and the Grenadines is home to a small offshore banking sector and continues to fully adopt international regulatory standards.</p><p></p><p>This lower-middle-income country remains vulnerable to natural and external shocks. The economy has shown some signs of recovery due to increased tourist arrivals, falling oil prices and renewed growth in the construction sector. The much anticipated international airport opened in early 2017 with hopes for increased airlift and tourism activity. The government's ability to invest in social programs and respond to external shocks is constrained by its high public debt burden, which was 67% of GDP at the end of 2013.</p>"
     },
-    "GDP real growth rate": {
-      "text": "0.7% (2017 est.) / 0.8% (2016 est.) / 0.8% (2015 est.)",
-      "country comparison to the world": 182
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2017": {
+        "text": "0.7% (2017 est.)"
+      },
+      "Real GDP growth rate 2016": {
+        "text": "0.8% (2016 est.)"
+      },
+      "Real GDP growth rate 2015": {
+        "text": "0.8% (2015 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "2.2% (2017 est.) / -0.2% (2016 est.)",
-      "country comparison to the world": 121
+      "Inflation rate (consumer prices) 2017": {
+        "text": "2.2% (2017 est.)"
+      },
+      "Inflation rate (consumer prices) 2016": {
+        "text": "-0.2% (2016 est.)"
+      }
     },
     "Credit ratings": {
       "Moody's rating": {
         "text": "B3 (2014)"
       }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$1.265 billion (2017 est.) / $1.256 billion (2016 est.) / $1.246 billion (2015 est.)",
-      "note": "note: data are in 2017 dollars"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2019": {
+        "text": "$1.38 billion (2019 est.)"
+      },
+      "Real GDP (purchasing power parity) 2018": {
+        "text": "$1.373 billion (2018 est.)"
+      },
+      "Real GDP (purchasing power parity) 2017": {
+        "text": "$1.344 billion (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2017 dollars</p>"
     },
     "GDP (official exchange rate)": {
       "text": "$785 million (2017 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$11,500 (2017 est.) / $11,400 (2016 est.) / $11,300 (2015 est.)",
-      "note": "note: data are in 2017 dollars",
-      "country comparison to the world": 110
+    "Real GDP per capita": {
+      "Real GDP per capita 2019": {
+        "text": "$12,485 (2019 est.)"
+      },
+      "Real GDP per capita 2018": {
+        "text": "$12,466 (2018 est.)"
+      },
+      "Real GDP per capita 2017": {
+        "text": "$12,245 (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2017 dollars</p>"
     },
     "Gross national saving": {
-      "text": "12.1% of GDP (2017 est.) / 10.3% of GDP (2016 est.) / 10.4% of GDP (2015 est.)",
-      "country comparison to the world": 148
+      "Gross national saving 2017": {
+        "text": "12.1% of GDP (2017 est.)"
+      },
+      "Gross national saving 2016": {
+        "text": "10.3% of GDP (2016 est.)"
+      },
+      "Gross national saving 2015": {
+        "text": "10.4% of GDP (2015 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -520,21 +548,21 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "text": "77.4 (2020)"
+      "Overall Ease of Doing Business score 2020": {
+        "text": "77.4 (2020)"
+      }
     },
-    "Agriculture - products": {
-      "text": "bananas, coconuts, sweet potatoes, spices; small numbers of cattle, sheep, pigs, goats; fish"
+    "Agricultural products": {
+      "text": "bananas, sugar cane, roots/tubers nes, plantains, vegetables, fruit, coconuts, sweet potatoes, yams, mangoes/guavas"
     },
     "Industries": {
       "text": "tourism; food processing, cement, furniture, clothing, starch"
     },
     "Industrial production growth rate": {
-      "text": "2.5% (2017 est.)",
-      "country comparison to the world": 118
+      "text": "2.5% (2017 est.)"
     },
     "Labor force": {
-      "text": "57,520 (2007 est.)",
-      "country comparison to the world": 187
+      "text": "57,520 (2007 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -548,8 +576,9 @@
       }
     },
     "Unemployment rate": {
-      "text": "18.8% (2008 est.)",
-      "country comparison to the world": 185
+      "Unemployment rate 2008": {
+        "text": "18.8% (2008 est.)"
+      }
     },
     "Population below poverty line": {
       "text": "NA"
@@ -571,27 +600,37 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "28.7% (of GDP) (2017 est.)",
-      "country comparison to the world": 93
+      "text": "28.7% (of GDP) (2017 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-0.6% (of GDP) (2017 est.)",
-      "country comparison to the world": 66
+      "text": "-0.6% (of GDP) (2017 est.)"
     },
     "Public debt": {
-      "text": "73.8% of GDP (2017 est.) / 82.8% of GDP (2016 est.)",
-      "country comparison to the world": 42
+      "Public debt 2017": {
+        "text": "73.8% of GDP (2017 est.)"
+      },
+      "Public debt 2016": {
+        "text": "82.8% of GDP (2016 est.)"
+      }
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Current account balance": {
-      "text": "-$116 million (2017 est.) / -$122 million (2016 est.)",
-      "country comparison to the world": 90
+      "Current account balance 2017": {
+        "text": "-$116 million (2017 est.)"
+      },
+      "Current account balance 2016": {
+        "text": "-$122 million (2016 est.)"
+      }
     },
     "Exports": {
-      "text": "$48.6 million (2017 est.) / $47.3 million (2016 est.)",
-      "country comparison to the world": 204
+      "Exports 2017": {
+        "text": "$48.6 million (2017 est.)"
+      },
+      "Exports 2016": {
+        "text": "$47.3 million (2016 est.)"
+      }
     },
     "Exports - partners": {
       "text": "Jordan 40.7%, France 12.5%, Barbados 7%, St. Lucia 6.8%, Antigua and Barbuda 5.7%, US 5.5%, Trinidad and Tobago 4.7% (2017)"
@@ -600,25 +639,54 @@
       "text": "bananas, eddoes and dasheen (taro), arrowroot starch; tennis racquets"
     },
     "Imports": {
-      "text": "$295.9 million (2017 est.) / $294.6 million (2016 est.)",
-      "country comparison to the world": 207
-    },
-    "Imports - commodities": {
-      "text": "foodstuffs, machinery and equipment, chemicals and fertilizers, minerals and fuels"
+      "Imports 2017": {
+        "text": "$295.9 million (2017 est.)"
+      },
+      "Imports 2016": {
+        "text": "$294.6 million (2016 est.)"
+      }
     },
     "Imports - partners": {
       "text": "US 36.8%, Trinidad and Tobago 19.1%, UK 7%, China 5.8% (2017)"
     },
+    "Imports - commodities": {
+      "text": "foodstuffs, machinery and equipment, chemicals and fertilizers, minerals and fuels"
+    },
     "Reserves of foreign exchange and gold": {
-      "text": "$182.1 million (31 December 2017 est.) / $192.3 million (31 December 2016 est.)",
-      "country comparison to the world": 178
+      "Reserves of foreign exchange and gold 31 December 2017": {
+        "text": "$182.1 million (31 December 2017 est.)"
+      },
+      "Reserves of foreign exchange and gold 31 December 2016": {
+        "text": "$192.3 million (31 December 2016 est.)"
+      }
     },
     "Debt - external": {
-      "text": "$362.2 million (31 December 2017 est.) / $330.8 million (31 December 2016 est.)",
-      "country comparison to the world": 182
+      "Debt - external 31 December 2017": {
+        "text": "$362.2 million (31 December 2017 est.)"
+      },
+      "Debt - external 31 December 2016": {
+        "text": "$330.8 million (31 December 2016 est.)"
+      }
     },
     "Exchange rates": {
-      "text": "East Caribbean dollars (XCD) per US dollar - / 2.7 (2017 est.) / 2.7 (2016 est.) / 2.7 (2015 est.) / 2.7 (2014 est.) / 2.7 (2013 est.)"
+      "currency": {
+        "text": "East Caribbean dollars (XCD) per US dollar -"
+      },
+      "Exchange rates 2017": {
+        "text": "2.7 (2017 est.)"
+      },
+      "Exchange rates 2016": {
+        "text": "2.7 (2016 est.)"
+      },
+      "Exchange rates 2015": {
+        "text": "2.7 (2015 est.)"
+      },
+      "Exchange rates 2014": {
+        "text": "2.7 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "2.7 (2013 est.)"
+      }
     }
   },
   "Energy": {
@@ -628,96 +696,73 @@
       }
     },
     "Electricity - production": {
-      "text": "157 million kWh (2016 est.)",
-      "country comparison to the world": 196
+      "text": "157 million kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "146 million kWh (2016 est.)",
-      "country comparison to the world": 198
+      "text": "146 million kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 191
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - imports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 193
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "54,000 kW (2016 est.)",
-      "country comparison to the world": 188
+      "text": "54,000 kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "85% of total installed capacity (2016 est.)",
-      "country comparison to the world": 71
+      "text": "85% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 175
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "13% of total installed capacity (2017 est.)",
-      "country comparison to the world": 110
+      "text": "13% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "2% of total installed capacity (2017 est.)",
-      "country comparison to the world": 143
+      "text": "2% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "0 bbl/day (2018 est.)",
-      "country comparison to the world": 194
+      "text": "0 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 187
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - imports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 189
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2018 est.)",
-      "country comparison to the world": 189
+      "text": "0 bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 196
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "1,620 bbl/day (2016 est.)",
-      "country comparison to the world": 197
+      "text": "1,620 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 197
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "1,621 bbl/day (2015 est.)",
-      "country comparison to the world": 193
+      "text": "1,621 bbl/day (2015 est.)"
     },
     "Natural gas - production": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 191
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 193
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 176
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 182
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "0 cu m (1 January 2014 est.)",
-      "country comparison to the world": 188
+      "text": "0 cu m (1 January 2014 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "226,800 Mt (2017 est.)",
-      "country comparison to the world": 196
+      "text": "226,800 Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -727,8 +772,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "11.7 (2019 est.)"
-      },
-      "country comparison to the world": 187
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -736,8 +780,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "92.87 (2019 est.)"
-      },
-      "country comparison to the world": 194
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
@@ -747,9 +790,9 @@
         "text": "fixed-line teledensity exceeds 12 per 100 persons and mobile-cellular teledensity is about 93 per 100 persons (2019)"
       },
       "international": {
-        "text": "country code - 1-784; landing points for the ECFS, CARCIP and Southern Caribbean Fiber submarine cables providing connectivity to US and Caribbean Islands; connectivity also provided by VHF/UHF radiotelephone from Saint Vincent to Barbados; SHF radiotelephone to Grenada and Saint Lucia; access to Intelsat earth station in Martinique through Saint Lucia (2019)"
+        "text": "country code - 1-784;&nbsp;landing points for the ECFS, CARCIP&nbsp;and Southern Caribbean Fiber submarine cables providing connectivity to US and Caribbean Islands; connectivity also provided by VHF/UHF radiotelephone from Saint Vincent to Barbados; SHF radiotelephone to Grenada and Saint Lucia; access to Intelsat earth station in Martinique through Saint Lucia (2019)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "St. Vincent and the Grenadines Broadcasting Corporation operates 1 TV station and 5 repeater stations that provide near total coverage to the multi-island state; multi-channel cable TV service available; a partially government-funded national radio service broadcasts on 1 station and has 2 repeater stations; about a dozen privately owned radio stations and repeater stations"
@@ -763,8 +806,7 @@
       },
       "percent of population": {
         "text": "22.39% (July 2018 est.)"
-      },
-      "country comparison to the world": 208
+      }
     },
     "Broadband - fixed subscriptions": {
       "total": {
@@ -772,8 +814,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "24 (2018 est.)"
-      },
-      "country comparison to the world": 149
+      }
     }
   },
   "Transportation": {
@@ -789,8 +830,9 @@
       "text": "J8 (2016)"
     },
     "Airports": {
-      "text": "6 (2013)",
-      "country comparison to the world": 176
+      "total": {
+        "text": "6 (2013)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -816,12 +858,11 @@
     },
     "Merchant marine": {
       "total": {
-        "text": "810"
+        "text": "813"
       },
       "by type": {
-        "text": "bulk carrier 19, container ship 12, general cargo 172, oil tanker 16, other 591 (2019)"
-      },
-      "country comparison to the world": 28
+        "text": "bulk carrier 22, container ship 17, general cargo 163, oil tanker 16, other 595 (2020)"
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -836,7 +877,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "joins other Caribbean states to counter Venezuela's claim that Aves Island sustains human habitation, a criterion under UN Convention on the Law of the Sea, which permits Venezuela to extend its EEZ/continental shelf over a large portion of the eastern Caribbean Sea"
+      "text": "<p>joins other Caribbean states to counter Venezuela's claim that Aves Island sustains human habitation, a criterion under UN Convention on the Law of the Sea, which permits Venezuela to extend its EEZ/continental shelf over a large portion of the eastern Caribbean Sea</p>"
     },
     "Trafficking in persons": {
       "current situation": {

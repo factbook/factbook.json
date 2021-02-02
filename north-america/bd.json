@@ -23,14 +23,15 @@
       },
       "water": {
         "text": "0 sq km"
-      },
-      "country comparison to the world": 231
+      }
     },
     "Area - comparative": {
       "text": "about one-third the size of Washington, DC"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "103 km"
@@ -62,16 +63,22 @@
     },
     "Land use": {
       "agricultural land": {
-        "text": "14.8% (2011 est.)"
+        "text": "14.8% (2018 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "14.8% (2011 est.) / 0% (2011 est.) / 0% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 14.8% (2018 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 0% (2018 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 0% (2018 est.)"
       },
       "forest": {
-        "text": "20% (2011 est.)"
+        "text": "20% (2018 est.)"
       },
       "other": {
-        "text": "65.2% (2011 est.)"
+        "text": "65.2% (2018 est.)"
       }
     },
     "Irrigated land": {
@@ -92,8 +99,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "71,750 (July 2020 est.)",
-      "country comparison to the world": 202
+      "text": "72,084 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -138,24 +144,19 @@
       },
       "female": {
         "text": "45.7 years (2020 est.)"
-      },
-      "country comparison to the world": 23
+      }
     },
     "Population growth rate": {
-      "text": "0.39% (2020 est.)",
-      "country comparison to the world": 160
+      "text": "0.36% (2021 est.)"
     },
     "Birth rate": {
-      "text": "11.2 births/1,000 population (2020 est.)",
-      "country comparison to the world": 174
+      "text": "11.1 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "9.1 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 57
+      "text": "9.03 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "1.6 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 52
+      "text": "1.54 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "relatively even population distribution throughout"
@@ -196,46 +197,49 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "2.5 deaths/1,000 live births"
+        "text": "2.21 deaths/1,000 live births"
       },
       "male": {
-        "text": "2.6 deaths/1,000 live births"
+        "text": "2.53 deaths/1,000 live births"
       },
       "female": {
-        "text": "2.4 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 220
+        "text": "1.88 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "81.7 years"
+        "text": "81.83 years"
       },
       "male": {
-        "text": "78.5 years"
+        "text": "78.73 years"
       },
       "female": {
-        "text": "84.9 years (2020 est.)"
-      },
-      "country comparison to the world": 27
+        "text": "85.09 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "1.91 children born/woman (2020 est.)",
-      "country comparison to the world": 127
+      "text": "1.91 children born/woman (2021 est.)"
     },
     "Drinking water source": {
-      "improved": {
+      "improved: total": {
         "text": "total: 100% of population"
       },
-      "unimproved": {
+      "unimproved: total": {
         "text": "total: 0% of population (2017 est.)"
       }
     },
     "Sanitation facility access": {
-      "improved": {
-        "text": "urban: 100% of population / total: 100% of population"
+      "improved: urban": {
+        "text": "urban: 100% of population"
       },
-      "unimproved": {
-        "text": "urban: 0% of population / total: 0% of population (2017)"
+      "improved: total": {
+        "text": "total: 100% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 0% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 0% of population (2017)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -248,8 +252,7 @@
       "text": "NA"
     },
     "Education expenditures": {
-      "text": "1.5% of GDP (2017)",
-      "country comparison to the world": 165
+      "text": "1.5% of GDP (2017)"
     },
     "School life expectancy (primary to tertiary education)": {
       "total": {
@@ -271,8 +274,7 @@
       },
       "female": {
         "text": "29% (2014 est.)"
-      },
-      "country comparison to the world": 35
+      }
     }
   },
   "Government": {
@@ -309,7 +311,7 @@
       "daylight saving time": {
         "text": "+1hr, begins second Sunday in March; ends first Sunday in November"
       },
-      "note": "etymology: named after Henry HAMILTON (ca. 1734-1796) who served as governor of Bermuda from 1788-1794"
+      "note": "<br><br><strong>etymology:</strong> named after Henry HAMILTON (ca. 1734-1796) who served as governor of Bermuda from 1788-1794"
     },
     "Administrative divisions": {
       "text": "9 parishes and 2 municipalities*; Devonshire, Hamilton, Hamilton*, Paget, Pembroke, Saint George*, Saint George's, Sandys, Smith's, Southampton, Warwick"
@@ -367,13 +369,13 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral Parliament consists of: Senate (11 seats; 3 members appointed by the governor, 5 by the premier, and 3 by the opposition party; members serve 5-year terms) and the House of Assembly (36 seats; members directly elected in single-seat constituencies by simple majority vote to serve up to 5-year terms) ++ House of Assembly (36 seats; members directly elected in single-seat constituencies by simple majority vote to serve up to 5-year terms)"
+        "text": "bicameral Parliament consists of:<br />Senate (11 seats; 3 members appointed by the governor, 5 by the premier, and 3 by the opposition party; members serve 5-year terms) and the House of Assembly (36 seats; members directly elected in single-seat constituencies by simple majority vote to serve up to 5-year terms)<br />House of Assembly (36 seats; members directly elected in single-seat constituencies by simple majority vote to serve up to 5-year terms)"
       },
       "elections": {
-        "text": "Senate - last appointments in August 2017 (next appointments in 2022) ++ House of Assembly - last held on 1 October 2020 (next to be held not later than 2025)"
+        "text": "<br />Senate - last appointments in August 2017 (next appointments in 2022)<br />House of Assembly - last held on 1 October 2020 (next to be held not later than 2025)"
       },
       "election results": {
-        "text": "Senate - composition - men 7, women 4, percent of women 36.4% ++ House of Assembly - percent of vote by party - PLP 62.1%, OBA 32.3%, other 5.4%, independent 0.2%; seats by party - PLP 30, OBA 6; composition - NA"
+        "text": "Senate - composition - men 7, women 4, percent of women 36.4%<br />House of Assembly - percent of vote by party - PLP 62.1%, OBA 32.3%, other 5.4%, independent 0.2%; seats by party - PLP 30, OBA 6; composition - NA"
       }
     },
     "Judicial branch": {
@@ -388,13 +390,13 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Free Democratic Movement or FDM (Marc BEAN) ++ One Bermuda Alliance or OBA (Craig CANNONIER) ++ Progressive Labor Party or PLP [Edward D. BURT]"
+      "text": "Free Democratic Movement or FDM (Marc BEAN)<br />One Bermuda Alliance or OBA (Craig CANNONIER)<br />Progressive Labor Party or PLP [Edward D. BURT]"
     },
     "International organization participation": {
       "text": "Caricom (associate), ICC (NGOs), Interpol (subbureau), IOC, ITUC (NGOs), UPU, WCO"
     },
     "Diplomatic representation in the US": {
-      "note": "none (overseas territory of the UK)"
+      "text": "none (overseas territory of the UK)"
     },
     "Diplomatic representation from the US": {
       "chief of mission": {
@@ -418,7 +420,7 @@
     },
     "Flag description": {
       "text": "red, with the flag of the UK in the upper hoist-side quadrant and the Bermudian coat of arms (a white shield with a red lion standing on a green grassy field holding a scrolled shield showing the sinking of the ship Sea Venture off Bermuda in 1609) centered on the outer half of the flag; it was the shipwreck of the vessel, filled with English colonists originally bound for Virginia, that led to the settling of Bermuda",
-      "note": "note: the flag is unusual in that it is only British overseas territory that uses a red ensign, all others use blue"
+      "note": "<p><strong>note:</strong> the flag is unusual in that it is only British overseas territory that uses a red ensign, all others use blue</p>"
     },
     "National symbol(s)": {
       "text": "red lion"
@@ -430,20 +432,31 @@
       "lyrics/music": {
         "text": "Bette JOHNS"
       },
-      "note": "note: serves as a local anthem; as a territory of the United Kingdom, \"God Save the Queen\" is official (see United Kingdom)"
+      "note": "<p><strong>note:</strong> serves as a local anthem; as a territory of the United Kingdom, \"God Save the Queen\" is official (see United Kingdom)</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "International business, which consists primarily of insurance and other financial services, is the real bedrock of Bermuda's economy, consistently accounting for about 85% of the island's GDP. Tourism is the country's second largest industry, accounting for about 5% of Bermuda's GDP but a much larger share of employment. Over 80% of visitors come from the US and the sector struggled in the wake of the global recession of 2008-09. Even the financial sector has lost roughly 5,000 high-paying expatriate jobs since 2008, weighing heavily on household consumption and retail sales. Bermuda must import almost everything. Agriculture and industry are limited due to the small size of the island. ++ Bermuda's economy returned to negative growth in 2016, reporting a contraction of 0.1% GDP, after growing by 0.6% in 2015. Unemployment reached 7% in 2016 and 2017, public debt is growing and exceeds $2.4 billion, and the government continues to work on attracting foreign investment. Still, Bermuda enjoys one of the highest per capita incomes in the world."
+      "text": "<p>International business, which consists primarily of insurance and other financial services, is the real bedrock of Bermuda's economy, consistently accounting for about 85% of the island's GDP. Tourism is the country’s second largest industry, accounting for about 5% of Bermuda's GDP but a much larger share of employment. Over 80% of visitors come from the US and the sector struggled in the wake of the global recession of 2008-09. Even the financial sector has lost roughly 5,000 high-paying expatriate jobs since 2008, weighing heavily on household consumption and retail sales. Bermuda must import almost everything. Agriculture and industry are limited due to the small size of the island.</p><p></p><p>Bermuda's economy returned to negative growth in 2016, reporting a contraction of 0.1% GDP, after growing by 0.6% in 2015. Unemployment reached 7% in 2016 and 2017, public debt is growing and exceeds $2.4 billion, and the government continues to work on attracting foreign investment. Still, Bermuda enjoys one of the highest per capita incomes in the world.</p>"
     },
-    "GDP real growth rate": {
-      "text": "-0.1% (2016 est.) / 0.6% (2015 est.) / -0.3% (2014 est.)",
-      "country comparison to the world": 195
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2016": {
+        "text": "-0.1% (2016 est.)"
+      },
+      "Real GDP growth rate 2015": {
+        "text": "0.6% (2015 est.)"
+      },
+      "Real GDP growth rate 2014": {
+        "text": "-0.3% (2014 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "1.9% (2017 est.) / 1.4% (2016 est.)",
-      "country comparison to the world": 106
+      "Inflation rate (consumer prices) 2017": {
+        "text": "1.9% (2017 est.)"
+      },
+      "Inflation rate (consumer prices) 2016": {
+        "text": "1.4% (2016 est.)"
+      }
     },
     "Credit ratings": {
       "Fitch rating": {
@@ -456,15 +469,30 @@
         "text": "A+ (2015)"
       }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$6.127 billion (2016 est.) / $6.133 billion (2015 est.) / $6.097 billion (2014 est.)"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2016": {
+        "text": "$6.127 billion (2016 est.)"
+      },
+      "Real GDP (purchasing power parity) 2015": {
+        "text": "$6.133 billion (2015 est.)"
+      },
+      "Real GDP (purchasing power parity) 2014": {
+        "text": "$6.097 billion (2014 est.)"
+      }
     },
     "GDP (official exchange rate)": {
       "text": "$6.127 billion (2016 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$99,400 (2016 est.) / $95,500 (2015 est.) / $87,500 (2014 est.)",
-      "country comparison to the world": 5
+    "Real GDP per capita": {
+      "Real GDP per capita 2016": {
+        "text": "$99,400 (2016 est.)"
+      },
+      "Real GDP per capita 2015": {
+        "text": "$95,500 (2015 est.)"
+      },
+      "Real GDP per capita 2014": {
+        "text": "$87,500 (2014 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -497,21 +525,17 @@
         "text": "-30.4% (2017 est.)"
       }
     },
-    "Ease of Doing Business Index scores": {
-    },
-    "Agriculture - products": {
+    "Agricultural products": {
       "text": "bananas, vegetables, citrus, flowers; dairy products, honey"
     },
     "Industries": {
       "text": "international business, tourism, light manufacturing"
     },
     "Industrial production growth rate": {
-      "text": "2% (2017 est.)",
-      "country comparison to the world": 129
+      "text": "2% (2017 est.)"
     },
     "Labor force": {
-      "text": "33,480 (2016 est.)",
-      "country comparison to the world": 201
+      "text": "33,480 (2016 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -525,8 +549,12 @@
       }
     },
     "Unemployment rate": {
-      "text": "7% (2017 est.) / 7% (2016 est.)",
-      "country comparison to the world": 113
+      "Unemployment rate 2017": {
+        "text": "7% (2017 est.)"
+      },
+      "Unemployment rate 2016": {
+        "text": "7% (2016 est.)"
+      }
     },
     "Population below poverty line": {
       "text": "11% (2008 est.)"
@@ -548,27 +576,34 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "16.3% (of GDP) (2017 est.)",
-      "country comparison to the world": 183
+      "text": "16.3% (of GDP) (2017 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-2.9% (of GDP) (2017 est.)",
-      "country comparison to the world": 127
+      "text": "-2.9% (of GDP) (2017 est.)"
     },
     "Public debt": {
-      "text": "43% of GDP (FY14/15)",
-      "country comparison to the world": 117
+      "Public debt FY14/15": {
+        "text": "43% of GDP (FY14/15)"
+      }
     },
     "Fiscal year": {
       "text": "1 April - 31 March"
     },
     "Current account balance": {
-      "text": "$818.6 million (2017 est.) / $763 million (2016 est.)",
-      "country comparison to the world": 52
+      "Current account balance 2017": {
+        "text": "$818.6 million (2017 est.)"
+      },
+      "Current account balance 2016": {
+        "text": "$763 million (2016 est.)"
+      }
     },
     "Exports": {
-      "text": "$19 million (2017 est.) / $19 million (2016 est.)",
-      "country comparison to the world": 211
+      "Exports 2017": {
+        "text": "$19 million (2017 est.)"
+      },
+      "Exports 2016": {
+        "text": "$19 million (2016 est.)"
+      }
     },
     "Exports - partners": {
       "text": "Jamaica 49.1%, Luxembourg 36.1%, US 4.9% (2017)"
@@ -577,21 +612,46 @@
       "text": "reexports of pharmaceuticals"
     },
     "Imports": {
-      "text": "$1.094 billion (2017 est.) / $980 million (2016 est.)",
-      "country comparison to the world": 184
-    },
-    "Imports - commodities": {
-      "text": "clothing, fuels, machinery and transport equipment, construction materials, chemicals, food and live animals"
+      "Imports 2017": {
+        "text": "$1.094 billion (2017 est.)"
+      },
+      "Imports 2016": {
+        "text": "$980 million (2016 est.)"
+      }
     },
     "Imports - partners": {
       "text": "US 72.1%, South Korea 9.7%, Canada 4.2% (2017)"
     },
+    "Imports - commodities": {
+      "text": "clothing, fuels, machinery and transport equipment, construction materials, chemicals, food and live animals"
+    },
     "Debt - external": {
-      "text": "$2.515 billion (2017 est.) / $2.435 billion (2015 est.)",
-      "country comparison to the world": 149
+      "Debt - external 2017": {
+        "text": "$2.515 billion (2017 est.)"
+      },
+      "Debt - external 2015": {
+        "text": "$2.435 billion (2015 est.)"
+      }
     },
     "Exchange rates": {
-      "text": "Bermudian dollars (BMD) per US dollar - / 1 (2020 est.) / 1 (2019 est.) / 1 (2018 est.) / 1 (2014 est.) / 1 (2013 est.)"
+      "currency": {
+        "text": "Bermudian dollars (BMD) per US dollar -"
+      },
+      "Exchange rates 2020": {
+        "text": "1 (2020 est.)"
+      },
+      "Exchange rates 2019": {
+        "text": "1 (2019 est.)"
+      },
+      "Exchange rates 2018": {
+        "text": "1 (2018 est.)"
+      },
+      "Exchange rates 2014": {
+        "text": "1 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "1 (2013 est.)"
+      }
     }
   },
   "Energy": {
@@ -601,97 +661,74 @@
       }
     },
     "Electricity - production": {
-      "text": "650 million kWh (2016 est.)",
-      "country comparison to the world": 159
+      "text": "650 million kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "604.5 million kWh (2016 est.)",
-      "country comparison to the world": 166
+      "text": "604.5 million kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 107
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - imports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 126
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "171,000 kW (2016 est.)",
-      "country comparison to the world": 169
+      "text": "171,000 kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "100% of total installed capacity (2016 est.)",
-      "country comparison to the world": 3
+      "text": "100% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 50
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 158
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
       "text": "0% of total installed capacity (2017 est.)",
-      "note": "note: the Tynes Bay Waste Treatment Facility turns waste to electric energy",
-      "country comparison to the world": 176
+      "note": "<p><strong>note:</strong> the Tynes Bay Waste Treatment Facility turns waste to electric energy</p>"
     },
     "Crude oil - production": {
-      "text": "0 bbl/day (2018 est.)",
-      "country comparison to the world": 111
+      "text": "0 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 94
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - imports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 97
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2018 est.)",
-      "country comparison to the world": 107
+      "text": "0 bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "0 bbl/day (2017 est.)",
-      "country comparison to the world": 119
+      "text": "0 bbl/day (2017 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "5,000 bbl/day (2016 est.)",
-      "country comparison to the world": 178
+      "text": "5,000 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 131
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "3,939 bbl/day (2015 est.)",
-      "country comparison to the world": 178
+      "text": "3,939 bbl/day (2015 est.)"
     },
     "Natural gas - production": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 105
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 122
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 70
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 92
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "0 cu m (1 January 2014 est.)",
-      "country comparison to the world": 111
+      "text": "0 cu m (1 January 2014 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "793,700 Mt (2017 est.)",
-      "country comparison to the world": 174
+      "text": "793,700 Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -701,8 +738,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "34.71 (2019 est.)"
-      },
-      "country comparison to the world": 171
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -710,8 +746,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "103.09 (2019 est.)"
-      },
-      "country comparison to the world": 199
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
@@ -723,7 +758,7 @@
       "international": {
         "text": "country code - 1-441; landing points for the GlobeNet, Gemini Bermuda, CBUS, and the CB-1 submarine cables to the Caribbean, South America and the US; satellite earth stations - 3 (2019)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "3 TV stations; cable and satellite TV subscription services are available; roughly 13 radio stations operating"
@@ -737,8 +772,7 @@
       },
       "percent of population": {
         "text": "98.37% (July 2018 est.)"
-      },
-      "country comparison to the world": 187
+      }
     }
   },
   "Transportation": {
@@ -746,8 +780,9 @@
       "text": "VP-B (2016)"
     },
     "Airports": {
-      "text": "1 (2020)",
-      "country comparison to the world": 213
+      "total": {
+        "text": "1 (2020)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -764,17 +799,15 @@
       "paved": {
         "text": "447 km (2010)"
       },
-      "note": "note: 225 km public roads; 222 km private roads",
-      "country comparison to the world": 197
+      "note": "<p><strong>note:</strong> 225 km public roads; 222 km private roads</p>"
     },
     "Merchant marine": {
       "total": {
-        "text": "148"
+        "text": "138"
       },
       "by type": {
-        "text": "bulk carrier 2, container ship 11, oil tanker 18, other 117 (2019)"
-      },
-      "country comparison to the world": 72
+        "text": "container ship 12, oil tanker 18, other 108 (2020)"
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -795,7 +828,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "none"
+      "text": "<p>none</p>"
     }
   }
 }

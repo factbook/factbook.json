@@ -23,8 +23,7 @@
       },
       "water": {
         "text": "350 sq km"
-      },
-      "country comparison to the world": 131
+      }
     },
     "Area - comparative": {
       "text": "slightly more than twice the size of New Jersey"
@@ -44,16 +43,16 @@
       "territorial sea": {
         "text": "12 nm"
       },
-      "exclusive economic zone": {
-        "text": "200 nm"
-      },
       "contiguous zone": {
         "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
       },
       "continental shelf": {
         "text": "200 nm or to the edge of the continental margin"
       },
-      "note": "measured from claimed archipelagic straight baselines"
+      "note": "<br><br>measured from claimed archipelagic straight baselines"
     },
     "Climate": {
       "text": "tropical maritime; little seasonal temperature variation; seasonal variation in rainfall"
@@ -79,8 +78,14 @@
       "agricultural land": {
         "text": "51.5% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "16.6% (2011 est.) / 10.1% (2011 est.) / 24.8% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 16.6% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 10.1% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 24.8% (2011 est.)"
       },
       "forest": {
         "text": "40.8% (2011 est.)"
@@ -115,8 +120,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "10,499,707 (July 2020 est.)",
-      "country comparison to the world": 88
+      "text": "10,597,348 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -128,7 +132,7 @@
     },
     "Ethnic groups": {
       "text": "mixed 70.4% (Mestizo/Indio 58%, Mulatto 12.4%), Black 15.8%, White 13.5%, other 0.3% (2014 est.)",
-      "note": "note: respondents self-identified their race; the term \"indio\" in the Dominican Republic is not associated with people of indigenous ancestry but people of mixed ancestry or skin color between light and dark"
+      "note": "<p><strong>note:</strong> respondents self-identified their race; the term \"indio\" in the Dominican Republic is not associated with people of indigenous ancestry but people of mixed ancestry or skin color between light and dark</p>"
     },
     "Languages": {
       "text": "Spanish (official)"
@@ -176,24 +180,19 @@
       },
       "female": {
         "text": "28.1 years (2020 est.)"
-      },
-      "country comparison to the world": 144
+      }
     },
     "Population growth rate": {
-      "text": "0.95% (2020 est.)",
-      "country comparison to the world": 111
+      "text": "0.92% (2021 est.)"
     },
     "Birth rate": {
-      "text": "18.5 births/1,000 population (2020 est.)",
-      "country comparison to the world": 82
+      "text": "18.24 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "6.3 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 148
+      "text": "6.29 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "-2.7 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 171
+      "text": "-2.71 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "coastal development is significant, especially in the southern coastal plains and the Cibao Valley, where population density is highest; smaller population clusters exist in the interior mountains (Cordillera Central)"
@@ -234,49 +233,57 @@
     },
     "Mother's mean age at first birth": {
       "text": "21.3 years (2013 est.)",
-      "note": "note: median age at first birth among women 25-29"
+      "note": "<p><strong>note:</strong> median age at first birth among women 25-29</p>"
     },
     "Maternal mortality rate": {
-      "text": "95 deaths/100,000 live births (2017 est.)",
-      "country comparison to the world": 71
+      "text": "95 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "20.9 deaths/1,000 live births"
+        "text": "21.68 deaths/1,000 live births"
       },
       "male": {
-        "text": "23.1 deaths/1,000 live births"
+        "text": "24.08 deaths/1,000 live births"
       },
       "female": {
-        "text": "18.7 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 72
+        "text": "19.19 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "72 years"
+        "text": "72.28 years"
       },
       "male": {
-        "text": "70.3 years"
+        "text": "70.57 years"
       },
       "female": {
-        "text": "73.8 years (2020 est.)"
-      },
-      "country comparison to the world": 155
+        "text": "74.06 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "2.24 children born/woman (2020 est.)",
-      "country comparison to the world": 88
+      "text": "2.23 children born/woman (2021 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "69.5% (2014)"
     },
     "Drinking water source": {
-      "improved": {
-        "text": "urban: 98.3% of population / rural: 92% of population / total: 96.7% of population"
+      "improved: urban": {
+        "text": "urban: 98.3% of population"
       },
-      "unimproved": {
-        "text": "urban: 1.7% of population / rural: 8% of population / total: 3.3% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 92% of population"
+      },
+      "improved: total": {
+        "text": "total: 96.7% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 1.7% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 8% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 3.3% of population (2017 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -289,24 +296,33 @@
       "text": "1.6 beds/1,000 population (2017)"
     },
     "Sanitation facility access": {
-      "improved": {
-        "text": "urban: 96.3% of population / rural: 89.5% of population / total: 95% of population"
+      "improved: urban": {
+        "text": "urban: 96.3% of population"
       },
-      "unimproved": {
-        "text": "urban: 13.8% of population / rural: 3.7% of population / total: 5% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 89.5% of population"
+      },
+      "improved: total": {
+        "text": "total: 95% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 13.8% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 3.7% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 5% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "0.9% (2019 est.)",
-      "country comparison to the world": 47
+      "text": "0.9% (2019 est.)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
-      "text": "72,000 (2019 est.)",
-      "country comparison to the world": 56
+      "text": "72,000 (2019 est.)"
     },
     "HIV/AIDS - deaths": {
-      "text": "1,900 (2019 est.)",
-      "country comparison to the world": 45
+      "text": "1,900 (2019 est.)"
     },
     "Major infectious diseases": {
       "degree of risk": {
@@ -320,12 +336,10 @@
       }
     },
     "Obesity - adult prevalence rate": {
-      "text": "27.6% (2016)",
-      "country comparison to the world": 37
+      "text": "27.6% (2016)"
     },
     "Children under the age of 5 years underweight": {
-      "text": "4% (2013)",
-      "country comparison to the world": 89
+      "text": "4% (2013)"
     },
     "Education expenditures": {
       "text": "NA"
@@ -364,8 +378,7 @@
       },
       "female": {
         "text": "19.7% (2017 est.)"
-      },
-      "country comparison to the world": 102
+      }
     }
   },
   "Government": {
@@ -399,7 +412,7 @@
       "time difference": {
         "text": "UTC-4 (1 hour ahead of Washington, DC, during Standard Time)"
       },
-      "note": "etymology: named after Saint Dominic de Guzman (1170-1221), founder of the Dominican Order"
+      "note": "<br><br><strong>etymology:</strong> named after Saint Dominic de Guzman (1170-1221), founder of the Dominican Order"
     },
     "Administrative divisions": {
       "text": "10 regions (regiones, singular - region); Cibao Nordeste, Cibao Noroeste, Cibao Norte, Cibao Sur, El Valle, Enriquillo, Higuamo, Ozama, Valdesia, Yuma"
@@ -460,13 +473,13 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral National Congress or Congreso Nacional consists of: Senate or Senado (32 seats; note - electoral system changes by the Central Election Commission are being challenged by the ruling party and opposition) ++ House of Representatives or Camara de Diputados (190 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms)"
+        "text": "bicameral National Congress or Congreso Nacional consists of:<br />Senate or Senado (32 seats; note - electoral system changes by the Central Election Commission are being challenged by the ruling party and opposition)<br /> House of Representatives or Camara de Diputados (190 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms)"
       },
       "elections": {
-        "text": "Senate - last held on 15 May 2016 (rescheduled from 17 May to 5 July 2020 due to COVID-19 pandemic) ++ House of Representatives - last held on 15 May 2016 (rescheduled from 17 May to 5 July 2020 due to COVID-19 pandemic)"
+        "text": "<br /> Senate - last held on 15 May 2016 (rescheduled from 17 May to 5 July 2020 due to COVID-19 pandemic)<br /> House of Representatives - last held on 15 May 2016 (rescheduled from 17 May to 5 July 2020 due to COVID-19 pandemic)"
       },
       "election results": {
-        "text": "Senate - percent of vote by party - NA; seats by party - PLD 26, PRM 2, BIS 1, PLRD 1, PRD 1, PRSC 1; composition as of 2018 - men 29, women 3, percent of women 9.4% ++ House of Representatives - percent of vote by party - NA; seats by party - PLD 106, PRM 42, PRSC 18, PRD 16, PLRD 3, other 5; composition as of 2018 - men 139, women 51, percent of women 26.8%; note - total National Congress percent of women 24.3%"
+        "text": "<br /> Senate - percent of vote by party - NA; seats by party - PLD 26, PRM 2, BIS 1, PLRD 1, PRD 1, PRSC 1; composition as of 2018 - men 29, women 3, percent of women 9.4%<br /> House of Representatives - percent of vote by party - NA; seats by party - PLD 106, PRM 42, PRSC 18, PRD 16, PLRD 3, other 5; composition as of 2018 - men 139, women 51, percent of women 26.8%; note - total National Congress percent of women 24.3%"
       }
     },
     "Judicial branch": {
@@ -481,7 +494,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Dominican Liberation Party or PLD [Leonel FERNANDEZ Reyna] ++ Dominican Revolutionary Party or PRD [Miguel VARGAS Maldonado] ++ Institutional Social Democratic Bloc or BIS ++ Liberal Reformist Party or PRL (formerly the Liberal Party of the Dominican Republic or PLRD) ++ Modern Revolutionary Party or PRM [Jose Ignacio PALIZA] ++ National Progressive Front or FNP [Vinicio CASTILLO, Pelegrin CASTILLO] ++ Social Christian Reformist Party or PRSC [Federico ANTUN]"
+      "text": "Dominican Liberation Party or PLD [Leonel FERNANDEZ Reyna]<br />Dominican Revolutionary Party or PRD [Miguel VARGAS Maldonado]<br />Institutional Social Democratic Bloc or BIS<br />Liberal Reformist Party or PRL (formerly the Liberal Party of the Dominican Republic or PLRD)<br />Modern Revolutionary Party or PRM [Jose Ignacio PALIZA]<br />National Progressive Front or FNP [Vinicio CASTILLO, Pelegrin CASTILLO]<br />Social Christian Reformist Party or PRSC [Federico ANTUN]"
     },
     "International organization participation": {
       "text": "ACP, AOSIS, BCIE, Caricom (observer), CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA, MIGA, MINUSMA, NAM, OAS, OIF (observer), OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA (associated member), UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
@@ -536,20 +549,34 @@
       "lyrics/music": {
         "text": "Emilio PRUD'HOMME/Jose REYES"
       },
-      "note": "note: adopted 1934; also known as \"Quisqueyanos valientes\" (Valient Sons of Quisqueye); the anthem never refers to the people as Dominican but rather calls them \"Quisqueyanos,\" a reference to the indigenous name of the island"
+      "note": "<p><strong>note:</strong> adopted 1934; also known as \"Quisqueyanos valientes\" (Valient Sons of Quisqueye); the anthem never refers to the people as Dominican but rather calls them \"Quisqueyanos,\" a reference to the indigenous name of the island</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "The Dominican Republic was for most of its history primarily an exporter of sugar, coffee, and tobacco, but over the last three decades the economy has become more diversified as the service sector has overtaken agriculture as the economy's largest employer, due to growth in construction, tourism, and free trade zones. The mining sector has also played a greater role in the export market since late 2012 with the commencement of the extraction phase of the Pueblo Viejo Gold and Silver mine, one of the largest gold mines in the world. ++ For the last 20 years, the Dominican Republic has been one of the fastest growing economies in Latin America. The economy rebounded from the global recession in 2010-16, and the fiscal situation is improving. A tax reform package passed in November 2012, a reduction in government spending, and lower energy costs helped to narrow the central government budget deficit from 6.6% of GDP in 2012 to 2.6% in 2016, and public debt is declining. Marked income inequality, high unemployment, and underemployment remain important long-term challenges; the poorest half of the population receives less than one-fifth of GDP, while the richest 10% enjoys nearly 40% of GDP. ++ The economy is highly dependent upon the US, the destination for approximately half of exports and the source of 40% of imports. Remittances from the US amount to about 7% of GDP, equivalent to about a third of exports and two-thirds of tourism receipts. The Central America-Dominican Republic Free Trade Agreement came into force in March 2007, boosting investment and manufacturing exports."
+      "text": "<p>The Dominican Republic was for most of its history primarily an exporter of sugar, coffee, and tobacco, but over the last three decades the economy has become more diversified as the service sector has overtaken agriculture as the economy's largest employer, due to growth in construction, tourism, and free trade zones. The mining sector has also played a greater role in the export market since late 2012 with the commencement of the extraction phase of the Pueblo Viejo Gold and Silver mine, one of the largest gold mines in the world.</p><p></p><p>For the last 20 years, the Dominican Republic has been one of the fastest growing economies in Latin America. The economy rebounded from the global recession in 2010-16, and the fiscal situation is improving. A tax reform package passed in November 2012, a reduction in government spending, and lower energy costs helped to narrow the central government budget deficit from 6.6% of GDP in 2012 to 2.6% in 2016, and public debt is declining. Marked income inequality, high unemployment, and underemployment remain important long-term challenges; the poorest half of the population receives less than one-fifth of GDP, while the richest 10% enjoys nearly 40% of GDP.</p><p></p><p>The economy is highly dependent upon the US, the destination for approximately half of exports and the source of 40% of imports. Remittances from the US amount to about 7% of GDP, equivalent to about a third of exports and two-thirds of tourism receipts. The Central America-Dominican Republic Free Trade Agreement came into force in March 2007, boosting investment and manufacturing exports.</p>"
     },
-    "GDP real growth rate": {
-      "text": "4.6% (2017 est.) / 6.6% (2016 est.) / 7% (2015 est.)",
-      "country comparison to the world": 57
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2017": {
+        "text": "4.6% (2017 est.)"
+      },
+      "Real GDP growth rate 2016": {
+        "text": "6.6% (2016 est.)"
+      },
+      "Real GDP growth rate 2015": {
+        "text": "7% (2015 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "1.8% (2019 est.) / 3.5% (2018 est.) / 3.2% (2017 est.)",
-      "country comparison to the world": 101
+      "Inflation rate (consumer prices) 2019": {
+        "text": "1.8% (2019 est.)"
+      },
+      "Inflation rate (consumer prices) 2018": {
+        "text": "3.5% (2018 est.)"
+      },
+      "Inflation rate (consumer prices) 2017": {
+        "text": "3.2% (2017 est.)"
+      }
     },
     "Credit ratings": {
       "Fitch rating": {
@@ -562,21 +589,43 @@
         "text": "BB- (2015)"
       }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$173 billion (2017 est.) / $165.4 billion (2016 est.) / $155.2 billion (2015 est.)",
-      "note": "note: data are in 2017 dollars"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2019": {
+        "text": "$197.735 billion (2019 est.)"
+      },
+      "Real GDP (purchasing power parity) 2018": {
+        "text": "$188.225 billion (2018 est.)"
+      },
+      "Real GDP (purchasing power parity) 2017": {
+        "text": "$175.94 billion (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2017 dollars</p>"
     },
     "GDP (official exchange rate)": {
       "text": "$88.956 billion (2019 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$17,000 (2017 est.) / $16,400 (2016 est.) / $15,500 (2015 est.)",
-      "note": "note: data are in 2017 dollars",
-      "country comparison to the world": 82
+    "Real GDP per capita": {
+      "Real GDP per capita 2019": {
+        "text": "$18,413 (2019 est.)"
+      },
+      "Real GDP per capita 2018": {
+        "text": "$17,712 (2018 est.)"
+      },
+      "Real GDP per capita 2017": {
+        "text": "$16,735 (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2017 dollars</p>"
     },
     "Gross national saving": {
-      "text": "21.6% of GDP (2017 est.) / 20.8% of GDP (2016 est.) / 20.7% of GDP (2015 est.)",
-      "country comparison to the world": 84
+      "Gross national saving 2017": {
+        "text": "21.6% of GDP (2017 est.)"
+      },
+      "Gross national saving 2016": {
+        "text": "20.8% of GDP (2016 est.)"
+      },
+      "Gross national saving 2015": {
+        "text": "20.7% of GDP (2015 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -610,21 +659,21 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "text": "60.0 (2020)"
+      "Overall Ease of Doing Business score 2020": {
+        "text": "60.0 (2020)"
+      }
     },
-    "Agriculture - products": {
-      "text": "cocoa, tobacco, sugarcane, coffee, cotton, rice, beans, potatoes, corn, bananas; cattle, pigs, dairy products, beef, eggs"
+    "Agricultural products": {
+      "text": "sugar cane, bananas, papayas, rice, plantains, milk, avocados, fruit, pineapples, coconuts"
     },
     "Industries": {
       "text": "tourism, sugar processing, gold mining, textiles, cement, tobacco, electrical components, medical devices"
     },
     "Industrial production growth rate": {
-      "text": "3.1% (2017 est.)",
-      "country comparison to the world": 99
+      "text": "3.1% (2017 est.)"
     },
     "Labor force": {
-      "text": "4.732 million (2017 est.)",
-      "country comparison to the world": 81
+      "text": "4.732 million (2017 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -638,11 +687,23 @@
       }
     },
     "Unemployment rate": {
-      "text": "5.1% (2017 est.) / 5.5% (2016 est.)",
-      "country comparison to the world": 81
+      "Unemployment rate 2017": {
+        "text": "5.1% (2017 est.)"
+      },
+      "Unemployment rate 2016": {
+        "text": "5.5% (2016 est.)"
+      }
     },
     "Population below poverty line": {
       "text": "30.5% (2016 est.)"
+    },
+    "Gini Index coefficient - distribution of family income": {
+      "Gini Index coefficient - distribution of family income 2018": {
+        "text": "43.7 (2018 est.)"
+      },
+      "Gini Index coefficient - distribution of family income 2012": {
+        "text": "45.7 (2012 est.)"
+      }
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
@@ -661,27 +722,37 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "14.9% (of GDP) (2017 est.)",
-      "country comparison to the world": 194
+      "text": "14.9% (of GDP) (2017 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-3% (of GDP) (2017 est.)",
-      "country comparison to the world": 132
+      "text": "-3% (of GDP) (2017 est.)"
     },
     "Public debt": {
-      "text": "37.2% of GDP (2017 est.) / 34.6% of GDP (2016 est.)",
-      "country comparison to the world": 140
+      "Public debt 2017": {
+        "text": "37.2% of GDP (2017 est.)"
+      },
+      "Public debt 2016": {
+        "text": "34.6% of GDP (2016 est.)"
+      }
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Current account balance": {
-      "text": "-$165 million (2017 est.) / -$815 million (2016 est.)",
-      "country comparison to the world": 96
+      "Current account balance 2017": {
+        "text": "-$165 million (2017 est.)"
+      },
+      "Current account balance 2016": {
+        "text": "-$815 million (2016 est.)"
+      }
     },
     "Exports": {
-      "text": "$10.12 billion (2017 est.) / $9.86 billion (2016 est.)",
-      "country comparison to the world": 98
+      "Exports 2017": {
+        "text": "$10.12 billion (2017 est.)"
+      },
+      "Exports 2016": {
+        "text": "$9.86 billion (2016 est.)"
+      }
     },
     "Exports - partners": {
       "text": "US 50.3%, Haiti 9.1%, Canada 8.2%, India 5.6% (2017)"
@@ -690,25 +761,54 @@
       "text": "gold, silver, cocoa, sugar, coffee, tobacco, meats, consumer goods"
     },
     "Imports": {
-      "text": "$17.7 billion (2017 est.) / $17.4 billion (2016 est.)",
-      "country comparison to the world": 90
-    },
-    "Imports - commodities": {
-      "text": "petroleum, foodstuffs, cotton and fabrics, chemicals and pharmaceuticals"
+      "Imports 2017": {
+        "text": "$17.7 billion (2017 est.)"
+      },
+      "Imports 2016": {
+        "text": "$17.4 billion (2016 est.)"
+      }
     },
     "Imports - partners": {
       "text": "US 41.4%, China 13.9%, Mexico 4.5%, Brazil 4.3% (2017)"
     },
+    "Imports - commodities": {
+      "text": "petroleum, foodstuffs, cotton and fabrics, chemicals and pharmaceuticals"
+    },
     "Reserves of foreign exchange and gold": {
-      "text": "$6.873 billion (31 December 2017 est.) / $6.134 billion (31 December 2016 est.)",
-      "country comparison to the world": 87
+      "Reserves of foreign exchange and gold 31 December 2017": {
+        "text": "$6.873 billion (31 December 2017 est.)"
+      },
+      "Reserves of foreign exchange and gold 31 December 2016": {
+        "text": "$6.134 billion (31 December 2016 est.)"
+      }
     },
     "Debt - external": {
-      "text": "$29.16 billion (31 December 2017 est.) / $27.7 billion (31 December 2016 est.)",
-      "country comparison to the world": 83
+      "Debt - external 31 December 2017": {
+        "text": "$29.16 billion (31 December 2017 est.)"
+      },
+      "Debt - external 31 December 2016": {
+        "text": "$27.7 billion (31 December 2016 est.)"
+      }
     },
     "Exchange rates": {
-      "text": "Dominican pesos (DOP) per US dollar - / 47.42 (2017 est.) / 46.078 (2016 est.) / 46.078 (2015 est.) / 45.052 (2014 est.) / 43.556 (2013 est.)"
+      "currency": {
+        "text": "Dominican pesos (DOP) per US dollar -"
+      },
+      "Exchange rates 2017": {
+        "text": "47.42 (2017 est.)"
+      },
+      "Exchange rates 2016": {
+        "text": "46.078 (2016 est.)"
+      },
+      "Exchange rates 2015": {
+        "text": "46.078 (2015 est.)"
+      },
+      "Exchange rates 2014": {
+        "text": "45.052 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "43.556 (2013 est.)"
+      }
     }
   },
   "Energy": {
@@ -718,96 +818,73 @@
       }
     },
     "Electricity - production": {
-      "text": "18.03 billion kWh (2016 est.)",
-      "country comparison to the world": 81
+      "text": "18.03 billion kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "15.64 billion kWh (2016 est.)",
-      "country comparison to the world": 78
+      "text": "15.64 billion kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 129
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - imports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 143
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "3.839 million kW (2016 est.)",
-      "country comparison to the world": 91
+      "text": "3.839 million kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "77% of total installed capacity (2016 est.)",
-      "country comparison to the world": 91
+      "text": "77% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 80
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "16% of total installed capacity (2017 est.)",
-      "country comparison to the world": 99
+      "text": "16% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "7% of total installed capacity (2017 est.)",
-      "country comparison to the world": 93
+      "text": "7% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "0 bbl/day (2018 est.)",
-      "country comparison to the world": 129
+      "text": "0 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 116
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - imports": {
-      "text": "16,980 bbl/day (2015 est.)",
-      "country comparison to the world": 67
+      "text": "16,980 bbl/day (2015 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2018 est.)",
-      "country comparison to the world": 125
+      "text": "0 bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "16,060 bbl/day (2015 est.)",
-      "country comparison to the world": 92
+      "text": "16,060 bbl/day (2015 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "134,000 bbl/day (2016 est.)",
-      "country comparison to the world": 70
+      "text": "134,000 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 149
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "108,500 bbl/day (2015 est.)",
-      "country comparison to the world": 52
+      "text": "108,500 bbl/day (2015 est.)"
     },
     "Natural gas - production": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 125
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "1.161 billion cu m (2017 est.)",
-      "country comparison to the world": 92
+      "text": "1.161 billion cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 96
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "1.161 billion cu m (2017 est.)",
-      "country comparison to the world": 60
+      "text": "1.161 billion cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "0 cu m (1 January 2014 est.)",
-      "country comparison to the world": 129
+      "text": "0 cu m (1 January 2014 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "23.79 million Mt (2017 est.)",
-      "country comparison to the world": 81
+      "text": "23.79 million Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -817,8 +894,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "11.27 (2019 est.)"
-      },
-      "country comparison to the world": 71
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -826,20 +902,19 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "83.32 (2019 est.)"
-      },
-      "country comparison to the world": 94
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "there are multiple operators licensed to provide services, most of them are small and localized; the telecom sector across the Caribbean region remains one of the key growth areas; fixed-line teledensity well-below Latin America averages; development of LTE and HSPA (high speed packet access) services, mobile broadband has taken off; income inequalities seen in telephone accesses (2020)"
+        "text": "there are multiple operators licensed to provide services, most of them are small and localized; the telecom sector across the Caribbean region remains one of the key growth areas; fixed-line teledensity well-below Latin America averages; development of LTE and HSPA (high speed packet access)&nbsp;services, mobile broadband has taken off; income inequalities seen in&nbsp;telephone accesses (2020)"
       },
       "domestic": {
         "text": "fixed-line teledensity is about 11 per 100 persons; multiple providers of mobile-cellular service with a subscribership of 83 per 100 persons (2019)"
       },
       "international": {
-        "text": "country code - 1-809; 1-829; 1-849; landing point for the ARCOS-1, Antillas 1, AMX-1, SAm-1, East-West, Deep Blue Cable and the Fibralink submarine cables that provide links to South and Central America, parts of the Caribbean, and US; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)"
+        "text": "country code - 1-809; 1-829; 1-849; landing point for the&nbsp;ARCOS-1, Antillas 1, AMX-1, SAm-1,&nbsp;East-West, Deep Blue Cable and the Fibralink submarine cables that provide links to South and Central America, parts of the Caribbean, and US; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><!-- x-tinymce/html --><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "combination of state-owned and privately owned broadcast media; 1 state-owned TV network and a number of private TV networks; networks operate repeaters to extend signals throughout country; combination of state-owned and privately owned radio stations with more than 300 radio stations operating (2019)"
@@ -853,8 +928,7 @@
       },
       "percent of population": {
         "text": "74.82% (July 2018 est.)"
-      },
-      "country comparison to the world": 64
+      }
     },
     "Broadband - fixed subscriptions": {
       "total": {
@@ -862,8 +936,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "8 (2018 est.)"
-      },
-      "country comparison to the world": 74
+      }
     }
   },
   "Transportation": {
@@ -879,8 +952,9 @@
       "text": "HI (2016)"
     },
     "Airports": {
-      "text": "36 (2013)",
-      "country comparison to the world": 108
+      "total": {
+        "text": "36 (2013)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -931,8 +1005,7 @@
       },
       "narrow gauge": {
         "text": "142 km 0.762-m gauge (2014)"
-      },
-      "country comparison to the world": 114
+      }
     },
     "Roadways": {
       "total": {
@@ -943,17 +1016,15 @@
       },
       "unpaved": {
         "text": "9,833 km (2002)"
-      },
-      "country comparison to the world": 115
+      }
     },
     "Merchant marine": {
       "total": {
-        "text": "37"
+        "text": "38"
       },
       "by type": {
-        "text": "bulk carrier 1, general cargo 2, oil tanker 1, other 33 (2019)"
-      },
-      "country comparison to the world": 125
+        "text": "container ship 1, general cargo 2, oil tanker 1, other 34 (2020)"
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -970,11 +1041,24 @@
   "Military and Security": {
     "Military and security forces": {
       "text": "Armed Forces of the Dominican Republic: Army (Ejercito Nacional, EN), Navy (Marina de Guerra, MdG, includes naval infantry), Dominican Air Force (Fuerza Aerea Dominicana, FAD) (2020)",
-      "note": "note: in addition to the military, the Ministry of Armed Forces directs the Airport Security Authority and Civil Aviation, Port Security Authority, and Border Security Corps"
+      "note": "<br><br>note: in addition to the military, the Ministry of Armed Forces directs the Airport Security Authority and Civil Aviation, Port Security Authority, and Border Security Corps"
     },
     "Military expenditures": {
-      "text": "0.7% of GDP (2019) / 0.7% of GDP (2018) / 0.7% of GDP (2017) / 0.7% of GDP (2016) / 0.7% of GDP (2015)",
-      "country comparison to the world": 135
+      "Military Expenditures 2019": {
+        "text": "0.7% of GDP (2019)"
+      },
+      "Military Expenditures 2018": {
+        "text": "0.7% of GDP (2018)"
+      },
+      "Military Expenditures 2017": {
+        "text": "0.7% of GDP (2017)"
+      },
+      "Military Expenditures 2016": {
+        "text": "0.7% of GDP (2016)"
+      },
+      "Military Expenditures 2015": {
+        "text": "0.7% of GDP (2015)"
+      }
     },
     "Military and security service personnel strengths": {
       "text": "the Armed Forces of the Dominican Republic have approximately 62,000 active personnel (33,000 Army; 12,000 Navy; 17,000 Air Force) (2019 est.)"
@@ -988,7 +1072,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "Haitian migrants cross the porous border into the Dominican Republic to find work; illegal migrants from the Dominican Republic cross the Mona Passage each year to Puerto Rico to find better work"
+      "text": "<p>Haitian migrants cross the porous border into the Dominican Republic to find work; illegal migrants from the Dominican Republic cross the Mona Passage each year to Puerto Rico to find better work</p>"
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
@@ -997,7 +1081,7 @@
       "stateless persons": {
         "text": "133,770 (2016); note - a September 2013 Constitutional Court ruling revoked the citizenship of those born after 1929 to immigrants without proper documentation, even though the constitution at the time automatically granted citizenship to children born in the Dominican Republic and the 2010 constitution provides that constitutional provisions cannot be applied retroactively; the decision overwhelmingly affected people of Haitian descent whose relatives had come to the Dominican Republic since the 1890s as a cheap source of labor for sugar plantations; a May 2014 law passed by the Dominican Congress regularizes the status of those with birth certificates but will require those without them to prove they were born in the Dominican Republic and to apply for naturalization; the government has issued documents to thousands of individuals who may claim citizenship under this law, but no official estimate has been released"
       },
-      "note": "note: revised estimate includes only individuals born to parents who were both born abroad; it does not include individuals born in the country to one Dominican-born and one foreign-born parent or subsequent generations of individuals of foreign descent; the estimate, as such, does not include all stateless persons (2015)"
+      "note": "<p><strong>note:</strong> revised estimate includes only individuals born to parents who were both born abroad; it does not include individuals born in the country to one Dominican-born and one foreign-born parent or subsequent generations of individuals of foreign descent; the estimate, as such, does not include all stateless persons (2015)</p>"
     },
     "Illicit drugs": {
       "text": "transshipment point for South American drugs destined for the US and Europe; has become a transshipment point for ecstasy from the Netherlands and Belgium destined for US and Canada; substantial money laundering activity in particular by Colombian narcotics traffickers; significant amphetamine consumption"

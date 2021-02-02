@@ -23,8 +23,7 @@
       },
       "water": {
         "text": "34,330 sq km"
-      },
-      "country comparison to the world": 66
+      }
     },
     "Area - comparative": {
       "text": "slightly more than two times the size of Georgia; slightly smaller than Montana"
@@ -78,8 +77,14 @@
       "agricultural land": {
         "text": "7.5% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "7.4% (2011 est.) / 0% (2011 est.) / 0.1% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 7.4% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 0% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 0.1% (2011 est.)"
       },
       "forest": {
         "text": "72.9% (2011 est.)"
@@ -114,8 +119,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "5,571,665 (July 2020 est.)",
-      "country comparison to the world": 116
+      "text": "5,587,442 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -174,24 +178,19 @@
       },
       "female": {
         "text": "44.4 years (2020 est.)"
-      },
-      "country comparison to the world": 31
+      }
     },
     "Population growth rate": {
-      "text": "0.3% (2020 est.)",
-      "country comparison to the world": 170
+      "text": "0.26% (2021 est.)"
     },
     "Birth rate": {
-      "text": "10.6 births/1,000 population (2020 est.)",
-      "country comparison to the world": 185
+      "text": "10.49 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "10.3 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 31
+      "text": "10.33 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "2.6 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 39
+      "text": "2.46 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "the vast majority of people are found in the south; the northern interior areas remain sparsely poplulated"
@@ -234,47 +233,55 @@
       "text": "29.2 years (2017 est.)"
     },
     "Maternal mortality rate": {
-      "text": "3 deaths/100,000 live births (2017 est.)",
-      "country comparison to the world": 177
+      "text": "3 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "2.5 deaths/1,000 live births"
+        "text": "2.15 deaths/1,000 live births"
       },
       "male": {
-        "text": "2.7 deaths/1,000 live births"
+        "text": "2.33 deaths/1,000 live births"
       },
       "female": {
-        "text": "2.4 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 221
+        "text": "1.97 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "81.3 years"
+        "text": "81.55 years"
       },
       "male": {
-        "text": "78.4 years"
+        "text": "78.63 years"
       },
       "female": {
-        "text": "84.4 years (2020 est.)"
-      },
-      "country comparison to the world": 33
+        "text": "84.6 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "1.74 children born/woman (2020 est.)",
-      "country comparison to the world": 162
+      "text": "1.74 children born/woman (2021 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "85.5% (2015)",
-      "note": "note: percent of women aged 18-49"
+      "note": "<p><strong>note:</strong> percent of women aged 18-49</p>"
     },
     "Drinking water source": {
-      "improved": {
-        "text": "urban: 100% of population / rural: 100% of population / total: 100% of population"
+      "improved: urban": {
+        "text": "urban: 100% of population"
       },
-      "unimproved": {
-        "text": "urban: 0% of population / rural: 0% of population / total: 0% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 100% of population"
+      },
+      "improved: total": {
+        "text": "total: 100% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 0% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 0% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 0% of population (2017 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -287,31 +294,39 @@
       "text": "3.3 beds/1,000 population (2017)"
     },
     "Sanitation facility access": {
-      "improved": {
-        "text": "urban: 100% of population / rural: 100% of population / total: 100% of population"
+      "improved: urban": {
+        "text": "urban: 100% of population"
       },
-      "unimproved": {
-        "text": "urban: 0% of population / rural: 0% of population / total: 0% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 100% of population"
+      },
+      "improved: total": {
+        "text": "total: 100% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 0% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 0% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 0% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "0.1% (2018)",
-      "country comparison to the world": 122
+      "text": "0.1% (2018)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
-      "text": "4,000 (2018)",
-      "country comparison to the world": 125
+      "text": "4,000 (2018)"
     },
     "HIV/AIDS - deaths": {
       "text": "<100 (2018)"
     },
     "Obesity - adult prevalence rate": {
-      "text": "22.2% (2016)",
-      "country comparison to the world": 80
+      "text": "22.2% (2016)"
     },
     "Education expenditures": {
-      "text": "6.4% of GDP (2017)",
-      "country comparison to the world": 21
+      "text": "6.4% of GDP (2017)"
     },
     "School life expectancy (primary to tertiary education)": {
       "total": {
@@ -333,8 +348,7 @@
       },
       "female": {
         "text": "16.8% (2018 est.)"
-      },
-      "country comparison to the world": 77
+      }
     }
   },
   "Government": {
@@ -371,7 +385,7 @@
       "daylight saving time": {
         "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
       },
-      "note": "etymology: the name may derive from the Swedish \"helsing,\" an archaic name for \"neck\" (\"hals\"), and which may refer to a narrowing of the Vantaa River that flows into the Gulf of Finland at Helsinki; \"fors\" refers to \"rapids,\" so \"helsing fors\" meaning becomes \"the narrows' rapids\""
+      "note": "<br><br><strong>etymology:</strong> the name may derive from the Swedish \"helsing,\" an archaic name for \"neck\" (\"hals\"), and which may refer to a narrowing of the Vantaa River that flows into the Gulf of Finland at Helsinki; \"fors\" refers to \"rapids,\" so \"helsing fors\" meaning becomes \"the narrows' rapids\""
     },
     "Administrative divisions": {
       "text": "19 regions (maakunnat, singular - maakunta (Finnish); landskapen, singular - landskapet (Swedish)); Aland (Swedish), Ahvenanmaa (Finnish); Etela-Karjala (Finnish), Sodra Karelen (Swedish) [South Karelia]; Etela-Pohjanmaa (Finnish), Sodra Osterbotten (Swedish) [South Ostrobothnia]; Etela-Savo (Finnish), Sodra Savolax (Swedish) [South Savo]; Kanta-Hame (Finnish), Egentliga Tavastland (Swedish); Kainuu (Finnish), Kajanaland (Swedish); Keski-Pohjanmaa (Finnish), Mellersta Osterbotten (Swedish) [Central Ostrobothnia]; Keski-Suomi (Finnish), Mellersta Finland (Swedish) [Central Finland]; Kymenlaakso (Finnish), Kymmenedalen (Swedish); Lappi (Finnish), Lappland (Swedish); Paijat-Hame (Finnish), Paijanne-Tavastland (Swedish); Pirkanmaa (Finnish), Birkaland (Swedish) [Tampere]; Pohjanmaa (Finnish), Osterbotten (Swedish) [Ostrobothnia]; Pohjois-Karjala (Finnish), Norra Karelen (Swedish) [North Karelia]; Pohjois-Pohjanmaa (Finnish), Norra Osterbotten (Swedish) [North Ostrobothnia]; Pohjois-Savo (Finnish), Norra Savolax (Swedish) [North Savo]; Satakunta (Finnish and Swedish); Uusimaa (Finnish), Nyland (Swedish) [Newland]; Varsinais-Suomi (Finnish), Egentliga Finland (Swedish) [Southwest Finland]"
@@ -421,7 +435,7 @@
         "text": "Prime Minister Sanna MARIN (since 10 December 2019)"
       },
       "cabinet": {
-        "text": "Council of State or Valtioneuvosto appointed by the president, responsible to Parliament"
+        "text": "Council of State or Valtioneuvosto appointed by the president, responsible to Parliament&nbsp;"
       },
       "elections/appointments": {
         "text": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); election last held on 28 January 2018 (next to be held in January 2024); prime minister appointed by Parliament"
@@ -438,7 +452,7 @@
         "text": "last held on 14 April 2019 (next to be held on April 2023) (e.g. 2019)"
       },
       "election results": {
-        "text": "percent of vote by party/coalition - SDP 17.7%, Finn Party 17.5%, Kok 17.0%. Centre Party 13.8%, Green League 11.5%, Left Alliance 8.2%; seats by party/coalition -SDP 40, Finn Party 39, Kok 38, Centre Party 31, Green League 20, Left Alliance 16; composition men 107, women 93, percent of women 46.5% (e.g. 2019)"
+        "text": "percent of vote by party/coalition - SDP 17.7%, Finn Party 17.5%, Kok 17.0%. Centre Party&nbsp; 13.8%, Green League 11.5%, Left Alliance 8.2%; seats by party/coalition -SDP 40, Finn Party 39, Kok 38, Centre Party 31, Green League 20, Left Alliance 16; composition men 107, women 93, percent of women 46.5% (e.g. 2019)"
       }
     },
     "Judicial branch": {
@@ -453,7 +467,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Aland Coalition (a coalition of several political parties on the Aland Islands) ++ Center Party or Kesk [Katri KULMUNI] ++ Christian Democrats or KD [Sari ESSAYAH] ++ Finns Party or PS [Jussi HALLA-AHO] ++ Green League or Vihr [Pekka HAAVISTO] ++ Left Alliance or Vas [Li ANDERSSON] ++ National Coalition Party or Kok [Petteri ORPO] ++ Social Democratic Party or SDP [Antti RINNE] ++ Swedish People's Party or SFP [Anna-Maja HENRIKSSON]"
+      "text": "Aland Coalition (a coalition of several political parties on the Aland Islands)<br />Center Party or Kesk [Katri KULMUNI]<br />Christian Democrats or KD [Sari ESSAYAH]<br />Finns Party or PS [Jussi HALLA-AHO]<br />Green League or Vihr [Pekka HAAVISTO]<br />Left Alliance or Vas [Li ANDERSSON]<br />National Coalition Party or Kok [Petteri ORPO]<br />Social Democratic Party or SDP [Antti RINNE]<br />Swedish People's Party or SFP [Anna-Maja HENRIKSSON]"
     },
     "International organization participation": {
       "text": "ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNMIL, UNMOGIP, UNRWA, UNTSO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
@@ -505,20 +519,34 @@
       "lyrics/music": {
         "text": "Johan Ludvig RUNEBERG/Fredrik PACIUS"
       },
-      "note": "note: in use since 1848; although never officially adopted by law, the anthem has been popular since it was first sung by a student group in 1848; Estonia's anthem uses the same melody as that of Finland"
+      "note": "<p><strong>note:</strong> in use since 1848; although never officially adopted by law, the anthem has been popular since it was first sung by a student group in 1848; Estonia's anthem uses the same melody as that of Finland</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "Finland has a highly industrialized, largely free-market economy with per capita GDP almost as high as that of Austria and the Netherlands and slightly above that of Germany and Belgium. Trade is important, with exports accounting for over one-third of GDP in recent years. The government is open to, and actively takes steps to attract, foreign direct investment. ++ Finland is historically competitive in manufacturing, particularly in the wood, metals, engineering, telecommunications, and electronics industries. Finland excels in export of technology as well as promotion of startups in the information and communications technology, gaming, cleantech, and biotechnology sectors. Except for timber and several minerals, Finland depends on imports of raw materials, energy, and some components for manufactured goods. Because of the cold climate, agricultural development is limited to maintaining self-sufficiency in basic products. Forestry, an important export industry, provides a secondary occupation for the rural population. ++ Finland had been one of the best performing economies within the EU before 2009 and its banks and financial markets avoided the worst of global financial crisis. However, the world slowdown hit exports and domestic demand hard in that year, causing Finland's economy to contract from 2012 to 2014. The recession affected general government finances and the debt ratio. The economy returned to growth in 2016, posting a 1.9% GDP increase before growing an estimated 3.3% in 2017, supported by a strong increase in investment, private consumption, and net exports. Finnish economists expect GDP to grow a rate of 2-3% in the next few years. ++ Finland's main challenges will be reducing high labor costs and boosting demand for its exports. In June 2016, the government enacted a Competitiveness Pact aimed at reducing labor costs, increasing hours worked, and introducing more flexibility into the wage bargaining system. As a result, wage growth was nearly flat in 2017. The Government was also seeking to reform the health care system and social services. In the long term, Finland must address a rapidly aging population and decreasing productivity in traditional industries that threaten competitiveness, fiscal sustainability, and economic growth."
+      "text": "<p>Finland has a highly industrialized, largely free-market economy with per capita GDP almost as high as that of Austria and the Netherlands and slightly above that of Germany and Belgium. Trade is important, with exports accounting for over one-third of GDP in recent years. The government is open to, and actively takes steps to attract, foreign direct investment.</p><p></p><p>Finland is historically competitive in manufacturing, particularly in the wood, metals, engineering, telecommunications, and electronics industries. Finland excels in export of technology as well as promotion of startups in the information and communications technology, gaming, cleantech, and biotechnology sectors. Except for timber and several minerals, Finland depends on imports of raw materials, energy, and some components for manufactured goods. Because of the cold climate, agricultural development is limited to maintaining self-sufficiency in basic products. Forestry, an important export industry, provides a secondary occupation for the rural population.</p><p></p><p>Finland had been one of the best performing economies within the EU before 2009 and its banks and financial markets avoided the worst of global financial crisis. However, the world slowdown hit exports and domestic demand hard in that year, causing Finland’s economy to contract from 2012 to 2014. The recession affected general government finances and the debt ratio. The economy returned to growth in 2016, posting a 1.9% GDP increase before growing an estimated 3.3% in 2017, supported by a strong increase in investment, private consumption, and net exports. Finnish economists expect GDP to grow a rate of 2-3% in the next few years.</p><p></p><p>Finland's main challenges will be reducing high labor costs and boosting demand for its exports. In June 2016, the government enacted a Competitiveness Pact aimed at reducing labor costs, increasing hours worked, and introducing more flexibility into the wage bargaining system. As a result, wage growth was nearly flat in 2017. The Government was also seeking to reform the health care system and social services. In the long term, Finland must address a rapidly aging population and decreasing productivity in traditional industries that threaten competitiveness, fiscal sustainability, and economic growth.</p>"
     },
-    "GDP real growth rate": {
-      "text": "1.15% (2019 est.) / 1.52% (2018 est.) / 3.27% (2017 est.)",
-      "country comparison to the world": 168
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2019": {
+        "text": "1.15% (2019 est.)"
+      },
+      "Real GDP growth rate 2018": {
+        "text": "1.52% (2018 est.)"
+      },
+      "Real GDP growth rate 2017": {
+        "text": "3.27% (2017 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "1% (2019 est.) / 1% (2018 est.) / 0.7% (2017 est.)",
-      "country comparison to the world": 65
+      "Inflation rate (consumer prices) 2019": {
+        "text": "1% (2019 est.)"
+      },
+      "Inflation rate (consumer prices) 2018": {
+        "text": "1% (2018 est.)"
+      },
+      "Inflation rate (consumer prices) 2017": {
+        "text": "0.7% (2017 est.)"
+      }
     },
     "Credit ratings": {
       "Fitch rating": {
@@ -531,21 +559,43 @@
         "text": "AA+ (2014)"
       }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$228.788 billion (2019 est.) / $226.201 billion (2018 est.) / $222.827 billion (2017 est.)",
-      "note": "note: data are in 2010 dollars"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2019": {
+        "text": "$228.788 billion (2019 est.)"
+      },
+      "Real GDP (purchasing power parity) 2018": {
+        "text": "$226.201 billion (2018 est.)"
+      },
+      "Real GDP (purchasing power parity) 2017": {
+        "text": "$222.827 billion (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
     },
     "GDP (official exchange rate)": {
       "text": "$269.259 billion (2019 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$49,380 (2019 est.) / $48,906 (2018 est.) / $48,274 (2017 est.)",
-      "note": "note: data are in 2010 dollars",
-      "country comparison to the world": 31
+    "Real GDP per capita": {
+      "Real GDP per capita 2019": {
+        "text": "$49,380 (2019 est.)"
+      },
+      "Real GDP per capita 2018": {
+        "text": "$48,906 (2018 est.)"
+      },
+      "Real GDP per capita 2017": {
+        "text": "$48,274 (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
     },
     "Gross national saving": {
-      "text": "23.3% of GDP (2017 est.) / 21.7% of GDP (2016 est.) / 20% of GDP (2015 est.)",
-      "country comparison to the world": 73
+      "Gross national saving 2017": {
+        "text": "23.3% of GDP (2017 est.)"
+      },
+      "Gross national saving 2016": {
+        "text": "21.7% of GDP (2016 est.)"
+      },
+      "Gross national saving 2015": {
+        "text": "20% of GDP (2015 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -579,21 +629,21 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "text": "80.2 (2020)"
+      "Overall Ease of Doing Business score 2020": {
+        "text": "80.2 (2020)"
+      }
     },
-    "Agriculture - products": {
-      "text": "barley, wheat, sugar beets, potatoes; dairy cattle; fish"
+    "Agricultural products": {
+      "text": "milk, barley, oats, wheat, potatoes, sugar beet, rye, pork, poultry, beef"
     },
     "Industries": {
       "text": "metals and metal products, electronics, machinery and scientific instruments, shipbuilding, pulp and paper, foodstuffs, chemicals, textiles, clothing"
     },
     "Industrial production growth rate": {
-      "text": "6.2% (2017 est.)",
-      "country comparison to the world": 39
+      "text": "6.2% (2017 est.)"
     },
     "Labor force": {
-      "text": "2.52 million (2020 est.)",
-      "country comparison to the world": 113
+      "text": "2.52 million (2020 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -607,8 +657,20 @@
       }
     },
     "Unemployment rate": {
-      "text": "6.63% (2019 est.) / 7.38% (2018 est.)",
-      "country comparison to the world": 106
+      "Unemployment rate 2019": {
+        "text": "6.63% (2019 est.)"
+      },
+      "Unemployment rate 2018": {
+        "text": "7.38% (2018 est.)"
+      }
+    },
+    "Gini Index coefficient - distribution of family income": {
+      "Gini Index coefficient - distribution of family income 2017": {
+        "text": "27.4 (2017 est.)"
+      },
+      "Gini Index coefficient - distribution of family income 1995": {
+        "text": "22.2 (1995)"
+      }
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
@@ -625,31 +687,44 @@
       "expenditures": {
         "text": "135.6 billion (2017 est.)"
       },
-      "note": "note: Central Government Budget data; these numbers represent a significant reduction from previous official reporting"
+      "note": "<p><strong>note:</strong> Central Government Budget data; these numbers represent a significant reduction from previous official reporting</p>"
     },
     "Taxes and other revenues": {
-      "text": "53.1% (of GDP) (2017 est.)",
-      "country comparison to the world": 11
+      "text": "53.1% (of GDP) (2017 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-0.6% (of GDP) (2017 est.)",
-      "country comparison to the world": 64
+      "text": "-0.6% (of GDP) (2017 est.)"
     },
     "Public debt": {
-      "text": "61.3% of GDP (2017 est.) / 62.9% of GDP (2016 est.)",
-      "note": "note: data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions",
-      "country comparison to the world": 72
+      "Public debt 2017": {
+        "text": "61.3% of GDP (2017 est.)"
+      },
+      "Public debt 2016": {
+        "text": "62.9% of GDP (2016 est.)"
+      },
+      "note": "<p><strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions</p>"
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Current account balance": {
-      "text": "-$603 million (2019 est.) / -$4.908 billion (2018 est.)",
-      "country comparison to the world": 127
+      "Current account balance 2019": {
+        "text": "-$603 million (2019 est.)"
+      },
+      "Current account balance 2018": {
+        "text": "-$4.908 billion (2018 est.)"
+      }
     },
     "Exports": {
-      "text": "$119.887 billion (2019 est.) / $111.339 billion (2018 est.) / $109.513 billion (2017 est.)",
-      "country comparison to the world": 41
+      "Exports 2019": {
+        "text": "$119.887 billion (2019 est.)"
+      },
+      "Exports 2018": {
+        "text": "$111.339 billion (2018 est.)"
+      },
+      "Exports 2017": {
+        "text": "$109.513 billion (2017 est.)"
+      }
     },
     "Exports - partners": {
       "text": "Germany 14.2%, Sweden 10.1%, US 7%, Netherlands 6.8%, China 5.7%, Russia 5.7%, UK 4.5% (2017)"
@@ -658,25 +733,57 @@
       "text": "electrical and optical equipment, machinery, transport equipment, paper and pulp, chemicals, basic metals; timber"
     },
     "Imports": {
-      "text": "$120.437 billion (2019 est.) / $116.628 billion (2018 est.) / $110.701 billion (2017 est.)",
-      "country comparison to the world": 41
-    },
-    "Imports - commodities": {
-      "text": "foodstuffs, petroleum and petroleum products, chemicals, transport equipment, iron and steel, machinery, computers, electronic industry products, textile yarn and fabrics, grains"
+      "Imports 2019": {
+        "text": "$120.437 billion (2019 est.)"
+      },
+      "Imports 2018": {
+        "text": "$116.628 billion (2018 est.)"
+      },
+      "Imports 2017": {
+        "text": "$110.701 billion (2017 est.)"
+      }
     },
     "Imports - partners": {
       "text": "Germany 17.7%, Sweden 15.8%, Russia 13.1%, Netherlands 8.7% (2017)"
     },
+    "Imports - commodities": {
+      "text": "foodstuffs, petroleum and petroleum products, chemicals, transport equipment, iron and steel, machinery, computers, electronic industry products, textile yarn and fabrics, grains"
+    },
     "Reserves of foreign exchange and gold": {
-      "text": "$10.51 billion (31 December 2017 est.) / $11.2 billion (31 December 2016 est.)",
-      "country comparison to the world": 73
+      "Reserves of foreign exchange and gold 31 December 2017": {
+        "text": "$10.51 billion (31 December 2017 est.)"
+      },
+      "Reserves of foreign exchange and gold 31 December 2016": {
+        "text": "$11.2 billion (31 December 2016 est.)"
+      }
     },
     "Debt - external": {
-      "text": "$150.6 billion (31 December 2016 est.) / $147.8 billion (31 December 2015 est.)",
-      "country comparison to the world": 42
+      "Debt - external 31 December 2016": {
+        "text": "$150.6 billion (31 December 2016 est.)"
+      },
+      "Debt - external 31 December 2015": {
+        "text": "$147.8 billion (31 December 2015 est.)"
+      }
     },
     "Exchange rates": {
-      "text": "euros (EUR) per US dollar - / 0.82771 (2020 est.) / 0.90338 (2019 est.) / 0.87789 (2018 est.) / 0.885 (2014 est.) / 0.7634 (2013 est.)"
+      "currency": {
+        "text": "euros (EUR) per US dollar -"
+      },
+      "Exchange rates 2020": {
+        "text": "0.82771 (2020 est.)"
+      },
+      "Exchange rates 2019": {
+        "text": "0.90338 (2019 est.)"
+      },
+      "Exchange rates 2018": {
+        "text": "0.87789 (2018 est.)"
+      },
+      "Exchange rates 2014": {
+        "text": "0.885 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "0.7634 (2013 est.)"
+      }
     }
   },
   "Energy": {
@@ -686,95 +793,73 @@
       }
     },
     "Electricity - production": {
-      "text": "66.54 billion kWh (2016 est.)",
-      "country comparison to the world": 43
+      "text": "66.54 billion kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "82.79 billion kWh (2016 est.)",
-      "country comparison to the world": 35
+      "text": "82.79 billion kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "3.159 billion kWh (2016 est.)",
-      "country comparison to the world": 43
+      "text": "3.159 billion kWh (2016 est.)"
     },
     "Electricity - imports": {
-      "text": "22.11 billion kWh (2016 est.)",
-      "country comparison to the world": 8
+      "text": "22.11 billion kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "16.27 million kW (2016 est.)",
-      "country comparison to the world": 50
+      "text": "16.27 million kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "41% of total installed capacity (2016 est.)",
-      "country comparison to the world": 164
+      "text": "41% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "17% of total installed capacity (2017 est.)",
-      "country comparison to the world": 12
+      "text": "17% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "20% of total installed capacity (2017 est.)",
-      "country comparison to the world": 88
+      "text": "20% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "23% of total installed capacity (2017 est.)",
-      "country comparison to the world": 30
+      "text": "23% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "0 bbl/day (2018 est.)",
-      "country comparison to the world": 138
+      "text": "0 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 125
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - imports": {
-      "text": "236,700 bbl/day (2017 est.)",
-      "country comparison to the world": 27
+      "text": "236,700 bbl/day (2017 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2018 est.)",
-      "country comparison to the world": 133
+      "text": "0 bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "310,600 bbl/day (2017 est.)",
-      "country comparison to the world": 40
+      "text": "310,600 bbl/day (2017 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "217,100 bbl/day (2017 est.)",
-      "country comparison to the world": 55
+      "text": "217,100 bbl/day (2017 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "166,200 bbl/day (2017 est.)",
-      "country comparison to the world": 34
+      "text": "166,200 bbl/day (2017 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "122,200 bbl/day (2017 est.)",
-      "country comparison to the world": 48
+      "text": "122,200 bbl/day (2017 est.)"
     },
     "Natural gas - production": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 134
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "2.35 billion cu m (2017 est.)",
-      "country comparison to the world": 81
+      "text": "2.35 billion cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "4 million cu m (2017 est.)",
-      "country comparison to the world": 54
+      "text": "4 million cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "2.322 billion cu m (2017 est.)",
-      "country comparison to the world": 49
+      "text": "2.322 billion cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
       "text": "NA cu m (1 January 2016 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "46.01 million Mt (2017 est.)",
-      "country comparison to the world": 64
+      "text": "46.01 million Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -784,8 +869,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "4.86 (2019 est.)"
-      },
-      "country comparison to the world": 113
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -793,27 +877,26 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "129.24 (2019 est.)"
-      },
-      "country comparison to the world": 103
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "excellent service; one of the most progressive in Europe; one of the highest broadband and mobile penetrations rates in the region; for 2025 and 2030 FttP (fiber to the home) and DOCSIS3.1 (new generation of cable services for high speed connections) technologies; subscribers are migrating from 3G to LTE and 5G networks; astute regulatory measures have encouraged market competition and company investment (2020)"
+        "text": "excellent service; one of the most progressive in Europe; one of the highest broadband and mobile penetrations rates in the region; for 2025 and 2030 FttP (fiber to the home) and DOCSIS3.1&nbsp;(new generation of cable services for high speed connections)&nbsp;technologies; subscribers are migrating from 3G to LTE and 5G networks; astute regulatory measures have encouraged market competition and company investment (2020)"
       },
       "domestic": {
         "text": "fixed-line 5 per 100 subscription and 129 per 100 mobile-cellular (2019)"
       },
       "international": {
-        "text": "country code - 358; landing points for Botnia, BCS North-1 & 2, SFL, SFS-4, C-Lion1, Eastern Lights, Baltic Sea Submarine Cable, FEC, and EESF-2 & 3 submarine cables that provide links to many Finland points, Estonia, Sweden, Germany, and Russia; satellite earth stations - access to Intelsat transmission service via a Swedish satellite earth station, 1 Inmarsat (Atlantic and Indian Ocean regions); note - Finland shares the Inmarsat earth station with the other Nordic countries (Denmark, Iceland, Norway, and Sweden) (2019)"
+        "text": "country code - 358; landing points for Botnia, BCS North-1 &amp; 2, SFL, SFS-4, C-Lion1, Eastern Lights, Baltic Sea Submarine Cable, FEC, and EESF-2 &amp; 3 submarine cables that provide links to many&nbsp;Finland points, Estonia, Sweden, Germany, and Russia; satellite earth stations - access to Intelsat transmission service via a Swedish satellite earth station, 1 Inmarsat (Atlantic and Indian Ocean regions); note - Finland shares the Inmarsat earth station with the other Nordic countries (Denmark, Iceland, Norway, and Sweden) (2019)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "a mix of 3 publicly operated TV stations and numerous privately owned TV stations; several free and special-interest pay-TV channels; cable and satellite multi-channel subscription services are available; all TV signals are broadcast digitally; Internet television, such as Netflix and others, is available; public broadcasting maintains a network of 13 national and 25 regional radio stations; a large number of private radio broadcasters and access to Internet radio"
     },
     "Internet country code": {
-      "text": ".fi ++",
-      "note": "note - Aland Islands assigned .ax"
+      "text": "<p>.fi</p> <p>&nbsp;</p>",
+      "note": "<p>note - Aland Islands assigned .ax</p>"
     },
     "Internet users": {
       "total": {
@@ -821,8 +904,7 @@
       },
       "percent of population": {
         "text": "88.89% (July 2018 est.)"
-      },
-      "country comparison to the world": 84
+      }
     },
     "Broadband - fixed subscriptions": {
       "total": {
@@ -830,8 +912,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "31 (2018 est.)"
-      },
-      "country comparison to the world": 58
+      }
     }
   },
   "Transportation": {
@@ -853,8 +934,9 @@
       "text": "OH (2016)"
     },
     "Airports": {
-      "text": "148 (2013)",
-      "country comparison to the world": 37
+      "total": {
+        "text": "148 (2013)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -896,8 +978,7 @@
       },
       "broad gauge": {
         "text": "5,926 km 1.524-m gauge (3,270 km electrified) (2016)"
-      },
-      "country comparison to the world": 32
+      }
     },
     "Roadways": {
       "total": {
@@ -911,21 +992,18 @@
       },
       "urban": {
         "text": "26,000 km (2012)"
-      },
-      "country comparison to the world": 16
+      }
     },
     "Waterways": {
-      "text": "8,000 km (includes Saimaa Canal system of 3,577 km; southern part leased from Russia; water transport used frequently in the summer and widely replaced with sledges on the ice in winter; there are 187,888 lakes in Finland that cover 31,500 km); Finland also maintains 8,200 km of coastal fairways (2013)",
-      "country comparison to the world": 17
+      "text": "8,000 km (includes Saimaa Canal system of 3,577 km; southern part leased from Russia; water transport used frequently in the summer and widely replaced with sledges on the ice in winter; there are 187,888 lakes in Finland that cover 31,500 km); Finland also maintains 8,200 km of coastal fairways (2013)"
     },
     "Merchant marine": {
       "total": {
-        "text": "269"
+        "text": "274"
       },
       "by type": {
-        "text": "bulk carrier 8, container ship 1, general cargo 79, oil tanker 4, other 177 (2019)"
-      },
-      "country comparison to the world": 56
+        "text": "bulk carrier 9, container ship 1, general cargo 77, oil tanker 4, other 183 (2020)"
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -936,11 +1014,24 @@
   "Military and Security": {
     "Military and security forces": {
       "text": "Finnish Defense Forces (FDF): Army (Maavoimat), Navy (Merivoimat), Air Force (Ilmavoimat); Ministry of the Interior: Border Guard (Rajavartiolaitos) (2019)",
-      "note": "note: the Border Guard becomes part of the FDF in wartime"
+      "note": "<br><br>note: the Border Guard becomes part of the FDF in wartime"
     },
     "Military expenditures": {
-      "text": "1.5% of GDP (2019) / 1.4% of GDP (2018) / 1.4% of GDP (2017) / 1.4% of GDP (2016) / 1.5% of GDP (2015)",
-      "country comparison to the world": 80
+      "Military Expenditures 2019": {
+        "text": "1.5% of GDP (2019)"
+      },
+      "Military Expenditures 2018": {
+        "text": "1.4% of GDP (2018)"
+      },
+      "Military Expenditures 2017": {
+        "text": "1.4% of GDP (2017)"
+      },
+      "Military Expenditures 2016": {
+        "text": "1.4% of GDP (2016)"
+      },
+      "Military Expenditures 2015": {
+        "text": "1.5% of GDP (2015)"
+      }
     },
     "Military and security service personnel strengths": {
       "text": "estimates for the size of the Finnish Defense Forces (FDF) vary; approximately 23,000 total active duty personnel (16,000 Army; 4,000 Navy; 3,000 Air Force) (2019 est.)"
@@ -957,7 +1048,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "various groups in Finland advocate restoration of Karelia and other areas ceded to the former Soviet Union, but the Finnish Government asserts no territorial demands"
+      "text": "<p>various groups in Finland advocate restoration of Karelia and other areas ceded to the former Soviet Union, but the Finnish Government asserts no territorial demands</p>"
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {

@@ -23,14 +23,15 @@
       },
       "water": {
         "text": "0 sq km"
-      },
-      "country comparison to the world": 217
+      }
     },
     "Area - comparative": {
       "text": "slightly larger than Washington, DC"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "68.5 km"
@@ -62,16 +63,22 @@
     },
     "Land use": {
       "agricultural land": {
-        "text": "11.1% (2016 est.)"
+        "text": "11.1% (2018 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "11.1% (2016 est.) / 0% (2016 est.) / 0% (2016 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 11.1% (2018 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 0% (2018 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 0% (2018 est.)"
       },
       "forest": {
-        "text": "2.3% (2016 est.)"
+        "text": "2.3% (2018 est.)"
       },
       "other": {
-        "text": "86.6% (2016 est.)"
+        "text": "86.6% (2018 est.)"
       }
     },
     "Irrigated land": {
@@ -92,8 +99,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "119,428 (July 2020 est.)",
-      "country comparison to the world": 188
+      "text": "120,917 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -105,7 +111,7 @@
     },
     "Ethnic groups": {
       "text": "Aruban 66%, Colombian 9.1%, Dutch 4.3%, Dominican 4.1%, Venezuelan 3.2%, Curacaoan 2.2%, Haitian 1.5%, Surinamese 1.2%, Peruvian 1.1%, Chinese 1.1%, other 6.2% (2010 est.)",
-      "note": "note: data represent population by country of birth"
+      "note": "<br><br><strong>note:</strong> data represent population by country of birth"
     },
     "Languages": {
       "text": "Papiamento (official) (a creole language that is a mixture of Portuguese, Spanish, Dutch, English, and, to a lesser extent, French, as well as elements of African languages and the language of the Arawak) 69.4%, Spanish 13.7%, English (widely spoken) 7.1%, Dutch (official) 6.1%, Chinese 1.5%, other 1.7%, unspecified 0.4% (2010 est.)"
@@ -153,24 +159,19 @@
       },
       "female": {
         "text": "41.5 years (2020 est.)"
-      },
-      "country comparison to the world": 53
+      }
     },
     "Population growth rate": {
-      "text": "1.19% (2020 est.)",
-      "country comparison to the world": 90
+      "text": "1.17% (2021 est.)"
     },
     "Birth rate": {
-      "text": "12.1 births/1,000 population (2020 est.)",
-      "country comparison to the world": 159
+      "text": "11.95 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "8.7 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 67
+      "text": "8.54 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "8.4 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 9
+      "text": "8.27 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "most residents live in or around Oranjestad and San Nicolaas; most settlments tend to be located on the less mountainous western side of the island"
@@ -211,46 +212,67 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "9.8 deaths/1,000 live births"
+        "text": "12.39 deaths/1,000 live births"
       },
       "male": {
-        "text": "12.7 deaths/1,000 live births"
+        "text": "16.89 deaths/1,000 live births"
       },
       "female": {
-        "text": "6.8 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 131
+        "text": "7.81 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "77.5 years"
+        "text": "77.76 years"
       },
       "male": {
-        "text": "74.4 years"
+        "text": "74.66 years"
       },
       "female": {
-        "text": "80.7 years (2020 est.)"
-      },
-      "country comparison to the world": 78
+        "text": "80.93 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "1.83 children born/woman (2020 est.)",
-      "country comparison to the world": 142
+      "text": "1.83 children born/woman (2021 est.)"
     },
     "Drinking water source": {
-      "improved": {
-        "text": "urban: 98.1% of population / rural: 98.1% of population / total: 98.1% of population"
+      "improved: urban": {
+        "text": "urban: 98.1% of population"
       },
-      "unimproved": {
-        "text": "urban: 1.9% of population / rural: 1.9% of population / total: 1.9% of population (2015 est.)"
+      "improved: rural": {
+        "text": "rural: 98.1% of population"
+      },
+      "improved: total": {
+        "text": "total: 98.1% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 1.9% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 1.9% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 1.9% of population (2015 est.)"
       }
     },
     "Sanitation facility access": {
-      "improved": {
-        "text": "urban: 97.7% of population / rural: 97.7% of population / total: 97.7% of population"
+      "improved: urban": {
+        "text": "urban: 97.7% of population"
       },
-      "unimproved": {
-        "text": "urban: 2.3% of population / rural: 2.3% of population / total: 2.3% of population (2015 est.)"
+      "improved: rural": {
+        "text": "rural: 97.7% of population"
+      },
+      "improved: total": {
+        "text": "total: 97.7% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 2.3% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 2.3% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 2.3% of population (2015 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -263,8 +285,7 @@
       "text": "NA"
     },
     "Education expenditures": {
-      "text": "5.5% of GDP (2016)",
-      "country comparison to the world": 33
+      "text": "5.5% of GDP (2016)"
     },
     "Literacy": {
       "definition": {
@@ -326,11 +347,11 @@
       "time difference": {
         "text": "UTC-4 (1 hour ahead of Washington, DC, during Standard Time)"
       },
-      "note": "etymology: translates as \"orange town\" in Dutch; the city is named after William I (1533-1584), Prince of Orange, the first ruler of the Netherlands"
+      "note": "<br><br><strong>etymology:</strong> translates as \"orange town\" in Dutch; the city is named after William I (1533-1584), Prince of Orange, the first ruler of the Netherlands"
     },
     "Administrative divisions": {
       "text": "none (part of the Kingdom of the Netherlands)",
-      "note": "note: Aruba is one of four constituent countries of the Kingdom of the Netherlands; the other three are the Netherlands, Curacao, and Sint Maarten"
+      "note": "<p><strong>note:</strong> Aruba is one of four constituent countries of the Kingdom of the Netherlands; the other three are the Netherlands, Curacao, and Sint Maarten</p>"
     },
     "Independence": {
       "text": "none (part of the Kingdom of the Netherlands)"
@@ -340,14 +361,14 @@
     },
     "Constitution": {
       "history": {
-        "text": "previous 1947, 1955; latest drafted and approved August 1985, enacted 1 January 1986 (regulates governance of Aruba but is subordinate to the Charter for the Kingdom of the Netherlands); in 1986, Aruba became a semi-autonomous entity within the Kingdom of the Netherlands"
+        "text": "previous 1947, 1955; latest drafted and approved August 1985, enacted 1 January 1986 (regulates governance of Aruba but is subordinate to the Charter for the Kingdom of the Netherlands); in 1986,&nbsp;Aruba became a semi-autonomous entity within the Kingdom of the Netherlands"
       }
     },
     "Legal system": {
       "text": "civil law system based on the Dutch civil code"
     },
     "Citizenship": {
-      "note": "see the Netherlands"
+      "text": "see the Netherlands"
     },
     "Suffrage": {
       "text": "18 years of age; universal"
@@ -388,21 +409,25 @@
         "text": "Joint Court judges appointed for life by the monarch"
       },
       "subordinate courts": {
-        "text": "Court in First Instance"
+        "text": "&nbsp;Court in First Instance"
       }
     },
     "Political parties and leaders": {
-      "text": "Aruban People's Party or AVP [Michiel \"Mike\" EMAN] ++ Democratic Electoral Network or RED [L.R. CROES] ++ People's Electoral Movement Party or MEP [Evelyn WEVER-CROES] ++ Pueblo Orguyoso y Respeta or POR [O.E. ODUBER] ++ Real Democracy or PDR [Andin BIKKER]"
+      "text": "Aruban People's Party or AVP [Michiel \"Mike\" EMAN]<br />Democratic Electoral Network or RED [L.R. CROES]<br />People's Electoral Movement Party or MEP [Evelyn WEVER-CROES]<br />Pueblo Orguyoso y Respeta or POR [O.E. ODUBER]<br />Real Democracy or PDR [Andin BIKKER]"
     },
     "International organization participation": {
       "text": "Caricom (observer), FATF, ILO, IMF, Interpol, IOC, ITUC (NGOs), UNESCO (associate), UNWTO (associate), UPU"
     },
     "Diplomatic representation in the US": {
-      "text": "none (represented by the Kingdom of the Netherlands); note - Guillfred BESARIL (since 20 November 2017) is Minister Plenipotentiary of Aruba, seated with his cabinet in the Aruba House (Arubahuis) in The Hague",
-      "note": "none (represented by the Kingdom of the Netherlands) note - there is a Minister Plenipotentiary for Aruba, Rendolf \"Andy\" LEE, at the Embassy of the Kingdom of the Netherlands"
+      "chief of mission": {
+        "text": "none (represented by the Kingdom of the Netherlands); note - Guillfred BESARIL (since 20 November 2017) is Minister Plenipotentiary of Aruba, seated with his cabinet in the Aruba House (Arubahuis) in The Hague"
+      },
+      "note": "<br><br>none (represented by the Kingdom of the Netherlands) note - there is a Minister Plenipotentiary for Aruba, Rendolf \"Andy\" LEE, &nbsp;at the Embassy of the Kingdom of the Netherlands"
     },
     "Diplomatic representation from the US": {
-      "text": "the US does not have an embassy in Aruba; the Consul General to Curacao is accredited to Aruba"
+      "embassy": {
+        "text": "the US does not have an embassy in Aruba; the Consul General to Curacao is accredited to Aruba"
+      }
     },
     "Flag description": {
       "text": "blue, with two narrow, horizontal, yellow stripes across the lower portion and a red, four-pointed star outlined in white in the upper hoist-side corner; the star represents Aruba and its red soil and white beaches, its four points the four major languages (Papiamento, Dutch, Spanish, English) as well as the four points of a compass, to indicate that its inhabitants come from all over the world; the blue symbolizes Caribbean waters and skies; the stripes represent the island's two main \"industries\": the flow of tourists to the sun-drenched beaches and the flow of minerals from the earth"
@@ -417,20 +442,31 @@
       "lyrics/music": {
         "text": "Juan Chabaya 'Padu' LAMPE/Rufo Inocencio WEVER"
       },
-      "note": "note: local anthem adopted 1986; as part of the Kingdom of the Netherlands, \"Het Wilhelmus\" is official (see Netherlands)"
+      "note": "<p><strong>note:</strong> local anthem adopted 1986; as part of the Kingdom of the Netherlands, \"Het Wilhelmus\" is official (see Netherlands)</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "Tourism, petroleum bunkering, hospitality, and financial and business services are the mainstays of the small open Aruban economy. ++ Tourism accounts for a majority of economic activity; as of 2017, over 2 million tourists visited Aruba annually, with the large majority (80-85%) of those from the US. The rapid growth of the tourism sector has resulted in a substantial expansion of other activities. Construction continues to boom, especially in the hospitality sector. ++ Aruba is heavily dependent on imports and is making efforts to expand exports to improve its trade balance. Almost all consumer and capital goods are imported, with the US, the Netherlands, and Panama being the major suppliers. ++ In 2016, Citgo Petroleum Corporation, an indirect wholly owned subsidiary of Petroleos de Venezuela SA, and the Government of Aruba signed an agreement to restart Valero Energy Corp.'s former 235,000-b/d refinery. Tourism and related industries have continued to grow, and the Aruban Government is working to attract more diverse industries. Aruba's banking sector continues to be a strong sector; unemployment has significantly decreased."
+      "text": "<p>Tourism, petroleum bunkering, hospitality, and financial and business services are the mainstays of the small open Aruban economy.</p><p></p><p>Tourism accounts for a majority of economic activity; as of 2017, over 2 million tourists visited Aruba annually, with the large majority (80-85%) of those from the US. The rapid growth of the tourism sector has resulted in a substantial expansion of other activities. Construction continues to boom, especially in the hospitality sector.</p><p></p><p>Aruba is heavily dependent on imports and is making efforts to expand exports to improve its trade balance. Almost all consumer and capital goods are imported, with the US, the Netherlands, and Panama being the major suppliers.</p><p></p><p>In 2016, Citgo Petroleum Corporation, an indirect wholly owned subsidiary of Petroleos de Venezuela SA, and the Government of Aruba signed an agreement to restart Valero Energy Corp.'s former 235,000-b/d refinery. Tourism and related industries have continued to grow, and the Aruban Government is working to attract more diverse industries. Aruba's banking sector continues to be a strong sector; unemployment has significantly decreased.</p>"
     },
-    "GDP real growth rate": {
-      "text": "1.2% (2017 est.) / -0.1% (2016 est.) / -0.4% (2015 est.)",
-      "country comparison to the world": 166
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2017": {
+        "text": "1.2% (2017 est.)"
+      },
+      "Real GDP growth rate 2016": {
+        "text": "-0.1% (2016 est.)"
+      },
+      "Real GDP growth rate 2015": {
+        "text": "-0.4% (2015 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "-0.5% (2017 est.) / -0.9% (2016 est.)",
-      "country comparison to the world": 13
+      "Inflation rate (consumer prices) 2017": {
+        "text": "-0.5% (2017 est.)"
+      },
+      "Inflation rate (consumer prices) 2016": {
+        "text": "-0.9% (2016 est.)"
+      }
     },
     "Credit ratings": {
       "Fitch rating": {
@@ -440,19 +476,35 @@
         "text": "BBB+ (2013)"
       }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$4.158 billion (2017 est.) / $4.107 billion (2016 est.) / $4.112 billion (2015 est.)"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2017": {
+        "text": "$4.05 billion (2017 est.)"
+      },
+      "Real GDP (purchasing power parity) 2016": {
+        "text": "$4.107 billion (2016 est.)"
+      }
     },
     "GDP (official exchange rate)": {
       "text": "$2.7 billion (2017 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$37,500 (2017 est.) / $37,300 (2016 est.) / $37,700 (2015 est.)",
-      "country comparison to the world": 45
+    "Real GDP per capita": {
+      "Real GDP per capita 2017": {
+        "text": "$38,442 (2017 est.)"
+      },
+      "Real GDP per capita 2016": {
+        "text": "$37,300 (2016 est.)"
+      }
     },
     "Gross national saving": {
-      "text": "17% of GDP (2017 est.) / 17.2% of GDP (2016 est.) / 15.5% of GDP (2015 est.)",
-      "country comparison to the world": 120
+      "Gross national saving 2017": {
+        "text": "17% of GDP (2017 est.)"
+      },
+      "Gross national saving 2016": {
+        "text": "17.2% of GDP (2016 est.)"
+      },
+      "Gross national saving 2015": {
+        "text": "15.5% of GDP (2015 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -485,9 +537,7 @@
         "text": "-76.6% (2015 est.)"
       }
     },
-    "Ease of Doing Business Index scores": {
-    },
-    "Agriculture - products": {
+    "Agricultural products": {
       "text": "aloes; livestock; fish"
     },
     "Industries": {
@@ -498,8 +548,7 @@
     },
     "Labor force": {
       "text": "51,610 (2007 est.)",
-      "note": "note: of the 51,610 workers aged 15 and over in the labor force, 32,252 were born in Aruba and 19,353 came from abroad; foreign workers are 38% of the employed population",
-      "country comparison to the world": 190
+      "note": "<p><strong>note:</strong> of the 51,610 workers aged 15 and over in the labor force, 32,252 were born in Aruba and 19,353 came from abroad; foreign workers are 38% of the employed population</p>"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -511,11 +560,12 @@
       "services": {
         "text": "NA"
       },
-      "note": "note: most employment is in wholesale and retail trade, followed by hotels and restaurants"
+      "note": "<p><strong>note:</strong> most employment is in wholesale and retail trade, followed by hotels and restaurants</p>"
     },
     "Unemployment rate": {
-      "text": "7.7% (2016 est.)",
-      "country comparison to the world": 120
+      "Unemployment rate 2016": {
+        "text": "7.7% (2016 est.)"
+      }
     },
     "Population below poverty line": {
       "text": "NA"
@@ -537,27 +587,37 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "25.2% (of GDP) (2017 est.)",
-      "country comparison to the world": 118
+      "text": "25.2% (of GDP) (2017 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-2.7% (of GDP) (2017 est.)",
-      "country comparison to the world": 118
+      "text": "-2.7% (of GDP) (2017 est.)"
     },
     "Public debt": {
-      "text": "86% of GDP (2017 est.) / 84.7% of GDP (2016 est.)",
-      "country comparison to the world": 31
+      "Public debt 2017": {
+        "text": "86% of GDP (2017 est.)"
+      },
+      "Public debt 2016": {
+        "text": "84.7% of GDP (2016 est.)"
+      }
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Current account balance": {
-      "text": "$22 million (2017 est.) / $133 million (2016 est.)",
-      "country comparison to the world": 59
+      "Current account balance 2017": {
+        "text": "$22 million (2017 est.)"
+      },
+      "Current account balance 2016": {
+        "text": "$133 million (2016 est.)"
+      }
     },
     "Exports": {
-      "text": "$137.1 million (2017 est.) / $283.1 million (2016 est.)",
-      "country comparison to the world": 196
+      "Exports 2017": {
+        "text": "$137.1 million (2017 est.)"
+      },
+      "Exports 2016": {
+        "text": "$283.1 million (2016 est.)"
+      }
     },
     "Exports - partners": {
       "text": "US 20.2%, Colombia 17.6%, Venezuela 13%, Netherlands 9.1%, Thailand 8.4%, Panama 4.8% (2017)"
@@ -566,25 +626,54 @@
       "text": "live animals and animal products, art and collectibles, machinery and electrical equipment, transport equipment"
     },
     "Imports": {
-      "text": "$1.122 billion (2017 est.) / $1.142 billion (2016 est.)",
-      "country comparison to the world": 183
-    },
-    "Imports - commodities": {
-      "text": "machinery and electrical equipment, refined oil for bunkering and reexport, chemicals; foodstuffs"
+      "Imports 2017": {
+        "text": "$1.122 billion (2017 est.)"
+      },
+      "Imports 2016": {
+        "text": "$1.142 billion (2016 est.)"
+      }
     },
     "Imports - partners": {
       "text": "US 53.7%, Netherlands 13.1% (2017)"
     },
+    "Imports - commodities": {
+      "text": "machinery and electrical equipment, refined oil for bunkering and reexport, chemicals; foodstuffs"
+    },
     "Reserves of foreign exchange and gold": {
-      "text": "$921.8 million (31 December 2017 est.) / $828 million (31 December 2015 est.)",
-      "country comparison to the world": 134
+      "Reserves of foreign exchange and gold 31 December 2017": {
+        "text": "$921.8 million (31 December 2017 est.)"
+      },
+      "Reserves of foreign exchange and gold 31 December 2015": {
+        "text": "$828 million (31 December 2015 est.)"
+      }
     },
     "Debt - external": {
-      "text": "$693.2 million (31 December 2014 est.) / $666.4 million (31 December 2013 est.)",
-      "country comparison to the world": 172
+      "Debt - external 31 December 2014": {
+        "text": "$693.2 million (31 December 2014 est.)"
+      },
+      "Debt - external 31 December 2013": {
+        "text": "$666.4 million (31 December 2013 est.)"
+      }
     },
     "Exchange rates": {
-      "text": "Aruban guilders/florins per US dollar - / 1.79 (2017 est.) / 1.79 (2016 est.) / 1.79 (2015 est.) / 1.79 (2014 est.) / 1.79 (2013 est.)"
+      "currency": {
+        "text": "Aruban guilders/florins per US dollar -"
+      },
+      "Exchange rates 2017": {
+        "text": "1.79 (2017 est.)"
+      },
+      "Exchange rates 2016": {
+        "text": "1.79 (2016 est.)"
+      },
+      "Exchange rates 2015": {
+        "text": "1.79 (2015 est.)"
+      },
+      "Exchange rates 2014": {
+        "text": "1.79 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "1.79 (2013 est.)"
+      }
     }
   },
   "Energy": {
@@ -594,96 +683,73 @@
       }
     },
     "Electricity - production": {
-      "text": "939 million kWh (2016 est.)",
-      "country comparison to the world": 153
+      "text": "939 million kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "873.3 million kWh (2016 est.)",
-      "country comparison to the world": 158
+      "text": "873.3 million kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 100
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - imports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 121
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "296,000 kW (2016 est.)",
-      "country comparison to the world": 159
+      "text": "296,000 kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "87% of total installed capacity (2016 est.)",
-      "country comparison to the world": 60
+      "text": "87% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 39
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 154
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "13% of total installed capacity (2017 est.)",
-      "country comparison to the world": 66
+      "text": "13% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "0 bbl/day (2018 est.)",
-      "country comparison to the world": 107
+      "text": "0 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 87
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - imports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 91
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2018 est.)",
-      "country comparison to the world": 104
+      "text": "0 bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 115
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "8,000 bbl/day (2016 est.)",
-      "country comparison to the world": 163
+      "text": "8,000 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 127
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "7,891 bbl/day (2015 est.)",
-      "country comparison to the world": 153
+      "text": "7,891 bbl/day (2015 est.)"
     },
     "Natural gas - production": {
-      "text": "1 cu m (2017 est.)",
-      "country comparison to the world": 96
+      "text": "1 cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "1 cu m (2017 est.)",
-      "country comparison to the world": 116
+      "text": "1 cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "1 cu m (2017 est.)",
-      "country comparison to the world": 56
+      "text": "1 cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "1 cu m (2017 est.)",
-      "country comparison to the world": 80
+      "text": "1 cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "0 cu m (1 January 2014 est.)",
-      "country comparison to the world": 107
+      "text": "0 cu m (1 January 2014 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "1.266 million Mt (2017 est.)",
-      "country comparison to the world": 162
+      "text": "1.266 million Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -693,8 +759,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "33.54 (2019 est.)"
-      },
-      "country comparison to the world": 163
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -702,8 +767,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "135.13 (2019 est.)"
-      },
-      "country comparison to the world": 189
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
@@ -713,9 +777,9 @@
         "text": "ongoing changes in regulations and competition improving teledensity; 34 per 100 fixed-line, 135 per 100 mobile-cellular (2019)"
       },
       "international": {
-        "text": "country code - 297; landing points for the PAN-AM, PCCS, Deep Blue Cable, and Alonso de Ojeda submarine telecommunications cable system that extends from Trinidad and Tobago, Florida, Puerto Ricco, Jamaica, Guyana, Sint Eustatius & Saba, Suriname, Dominican Republic, BVI, USVI, Haiti, Cayman Islands, the Netherlands Antilles, through Aruba to Panama, Venezuela, Colombia, Ecuador, Peru and Chile; extensive interisland microwave radio relay links (2019)"
+        "text": "country code - 297; landing&nbsp;points for the PAN-AM, PCCS, Deep Blue Cable, and Alonso de Ojeda&nbsp;submarine telecommunications cable system that extends from Trinidad and Tobago, Florida,&nbsp;Puerto Ricco,&nbsp;Jamaica, Guyana, Sint Eustatius &amp; Saba, Suriname, Dominican Republic, BVI, USVI, Haiti, Cayman Islands, the Netherlands Antilles,&nbsp; through Aruba to Panama, Venezuela, Colombia, Ecuador, Peru and Chile; extensive interisland microwave radio relay links (2019)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "2 commercial TV stations; cable TV subscription service provides access to foreign channels; about 19 commercial radio stations broadcast (2017)"
@@ -729,8 +793,7 @@
       },
       "percent of population": {
         "text": "97.17% (July 2018 est.)"
-      },
-      "country comparison to the world": 178
+      }
     }
   },
   "Transportation": {
@@ -749,8 +812,9 @@
       "text": "P4 (2016)"
     },
     "Airports": {
-      "text": "1 (2020)",
-      "country comparison to the world": 211
+      "total": {
+        "text": "1 (2020)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -763,8 +827,7 @@
     "Roadways": {
       "total": {
         "text": "1,000 km (2010)"
-      },
-      "country comparison to the world": 185
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -788,7 +851,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "none"
+      "text": "<p>none</p>"
     },
     "Illicit drugs": {
       "text": "transit point for US- and Europe-bound narcotics with some accompanying money-laundering activity; relatively high percentage of population consumes cocaine"

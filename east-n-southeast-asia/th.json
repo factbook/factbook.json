@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "A unified Thai kingdom was established in the mid-14th century. Known as Siam until 1939, Thailand is the only Southeast Asian country never to have been colonized by a European power. A bloodless revolution in 1932 led to the establishment of a constitutional monarchy. After the Japanese invaded Thailand in 1941, the government split into a pro-Japan faction and a pro-Ally faction backed by the King. Following the war, Thailand became a US treaty ally in 1954 after sending troops to Korea and later fighting alongside the US in Vietnam. Thailand since 2005 has experienced several rounds of political turmoil including a military coup in 2006 that ousted then Prime Minister THAKSIN Chinnawat, followed by large-scale street protests by competing political factions in 2008, 2009, and 2010. THAKSIN's youngest sister, YINGLAK Chinnawat, in 2011 led the Puea Thai Party to an electoral win and assumed control of the government. ++ In early May 2014, after months of large-scale anti-government protests in Bangkok beginning in November 2013, YINGLAK was removed from office by the Constitutional Court and in late May 2014 the Royal Thai Army, led by Royal Thai Army Gen. PRAYUT Chan-ocha, staged a coup against the caretaker government. PRAYUT was appointed prime minister in August 2014. PRAYUT also serves as the head of the National Council for Peace and Order (NCPO), a military-affiliated body that oversees the interim government. This body created several interim institutions to promote reform and draft a new constitution, which was passed in a national referendum in August 2016. In late 2017, PRAYUT announced elections would be held by November 2018; he has subsequently suggested they might occur in February 2019. As of mid-December 2018, a previoulsy held ban on campaigning and political activity has been lifted and per parliamentary laws, an election must be held within 150 days. King PHUMIPHON Adunyadet passed away in October 2016 after 70 years on the throne; his only son, WACHIRALONGKON Bodinthrathepphayawarangkun, ascended the throne in December 2016. He signed the new constitution in April 2017. Thailand has also experienced violence associated with the ethno-nationalist insurgency in its southern Malay-Muslim majority provinces. Since January 2004, thousands have been killed and wounded in the insurgency."
+      "text": "<p>A unified Thai kingdom was established in the mid-14th century. Known as Siam until 1939, Thailand is the only Southeast Asian country never to have been colonized by a European power. A bloodless revolution in 1932 led to the establishment of a constitutional monarchy. After the Japanese invaded Thailand in 1941, the government split into a pro-Japan faction and a pro-Ally faction backed by the King. Following the war, Thailand became a US treaty ally in 1954 after sending troops to Korea and later fighting alongside the US in Vietnam. Thailand since 2005 has experienced several rounds of political turmoil including a military coup in 2006 that ousted then Prime Minister THAKSIN Chinnawat, followed by large-scale street protests by competing political factions in 2008, 2009, and 2010. THAKSIN's youngest sister, YINGLAK Chinnawat, in 2011 led the Puea Thai Party to an electoral win and assumed control of the government.</p> <p>In early May 2014, after months of large-scale anti-government protests in Bangkok beginning in November 2013, YINGLAK was removed from office by the Constitutional Court and in late May 2014 the Royal Thai Army, led by Royal Thai Army Gen. PRAYUT Chan-ocha, staged a coup against the caretaker government. PRAYUT was appointed prime minister in August 2014. PRAYUT also serves as the head of the National Council for Peace and Order (NCPO), a military-affiliated body that oversees the interim government. This body created several interim institutions to promote reform and draft a new constitution, which was passed in a national referendum in August 2016. In late 2017, PRAYUT announced elections would be held by November 2018; he has subsequently suggested they might occur in February 2019. As of mid-December 2018, a previoulsy held ban on campaigning and political activity has been lifted and per parliamentary laws, an election must be held within 150 days. King PHUMIPHON Adunyadet passed away in October 2016 after 70 years on the throne; his only son, WACHIRALONGKON Bodinthrathepphayawarangkun, ascended the throne in December 2016. He signed the new constitution in April 2017. Thailand has also experienced violence associated with the ethno-nationalist insurgency in its southern Malay-Muslim majority provinces. Since January 2004, thousands have been killed and wounded in the insurgency.</p>"
     }
   },
   "Geography": {
@@ -23,8 +23,7 @@
       },
       "water": {
         "text": "2,230 sq km"
-      },
-      "country comparison to the world": 52
+      }
     },
     "Area - comparative": {
       "text": "about three times the size of Florida; slightly more than twice the size of Wyoming"
@@ -75,8 +74,14 @@
       "agricultural land": {
         "text": "41.2% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "30.8% (2011 est.) / 8.8% (2011 est.) / 1.6% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 30.8% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 8.8% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 1.6% (2011 est.)"
       },
       "forest": {
         "text": "37.2% (2011 est.)"
@@ -111,8 +116,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "68,977,400 (July 2020 est.)",
-      "country comparison to the world": 20
+      "text": "69,480,520 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -123,15 +127,15 @@
       }
     },
     "Ethnic groups": {
-      "text": "Thai 97.5%, Burmese 1.3%, other 1.1%, unspecified <.1% (2015 est.)",
-      "note": "note: data represent population by nationality"
+      "text": "Thai 97.5%, Burmese 1.3%, other 1.1%, unspecified &lt;.1% (2015 est.)",
+      "note": "<br><br><strong>note:</strong> data represent population by nationality"
     },
     "Languages": {
       "text": "Thai (official) only 90.7%, Thai and other languages 6.4%, only other languages 2.9% (includes Malay, Burmese) (2010 est.)",
-      "note": "note: data represent population by language(s) spoken at home; English is a secondary language of the elite"
+      "note": "<p><strong>note:</strong> data represent population by language(s) spoken at home; English is a secondary language of the elite</p>"
     },
     "Religions": {
-      "text": "Buddhist 94.6%, Muslim 4.3%, Christian 1%, other (2015 est.)"
+      "text": "Buddhist 94.6%, Muslim 4.3%, Christian 1%, other <.1%, none <.1% (2015 est.)"
     },
     "Age structure": {
       "0-14 years": {
@@ -173,24 +177,19 @@
       },
       "female": {
         "text": "40.1 years (2020 est.)"
-      },
-      "country comparison to the world": 59
+      }
     },
     "Population growth rate": {
-      "text": "0.25% (2020 est.)",
-      "country comparison to the world": 176
+      "text": "0.26% (2021 est.)"
     },
     "Birth rate": {
-      "text": "10.7 births/1,000 population (2020 est.)",
-      "country comparison to the world": 184
+      "text": "10.25 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "8.3 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 82
+      "text": "7.66 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "0 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 95
+      "text": "-0.03 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "highest population density is found in and around Bangkok; significant population clusters found througout large parts of the country, particularly north and northeast of Bangkok and in the extreme southern region of the country"
@@ -204,7 +203,7 @@
       }
     },
     "Major urban areas - population": {
-      "text": "10.539 million BANGKOK (capital), 1.399 Chon Buri, 1.307 million Samut Prakan, 1.167 million Chiang Mai, 967,000 Songkla, 963,000 Nothaburi (2020)"
+      "text": "10.539 million BANGKOK (capital), 1.399 Chon Buri,&nbsp;1.307 million Samut Prakan, 1.167 million Chiang Mai, 967,000 Songkla, 963,000 Nothaburi (2020)"
     },
     "Sex ratio": {
       "at birth": {
@@ -233,46 +232,54 @@
       "text": "23.3 years (2009 est.)"
     },
     "Maternal mortality rate": {
-      "text": "37 deaths/100,000 live births (2017 est.)",
-      "country comparison to the world": 103
+      "text": "37 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "8.6 deaths/1,000 live births"
+        "text": "6.58 deaths/1,000 live births"
       },
       "male": {
-        "text": "9.5 deaths/1,000 live births"
+        "text": "7.2 deaths/1,000 live births"
       },
       "female": {
-        "text": "7.6 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 145
+        "text": "5.92 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "75.6 years"
+        "text": "77.41 years"
       },
       "male": {
-        "text": "72.4 years"
+        "text": "74.39 years"
       },
       "female": {
-        "text": "78.9 years (2020 est.)"
-      },
-      "country comparison to the world": 113
+        "text": "80.6 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "1.54 children born/woman (2020 est.)",
-      "country comparison to the world": 195
+      "text": "1.54 children born/woman (2021 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "78.4% (2015/16)"
     },
     "Drinking water source": {
-      "improved": {
-        "text": "urban: 100% of population / rural: 100% of population / total: 100% of population"
+      "improved: urban": {
+        "text": "urban: 100% of population"
       },
-      "unimproved": {
-        "text": "urban: 0% of population / rural: 0% of population / total: 0% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 100% of population"
+      },
+      "improved: total": {
+        "text": "total: 100% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 0% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 0% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 0% of population (2017 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -285,24 +292,33 @@
       "text": "2.1 beds/1,000 population (2010)"
     },
     "Sanitation facility access": {
-      "improved": {
-        "text": "urban: 100% of population / rural: 100% of population / total: 99.9% of population"
+      "improved: urban": {
+        "text": "urban: 100% of population"
       },
-      "unimproved": {
-        "text": "urban: 0% of population / rural: 0% of population / total: 0.1% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 100% of population"
+      },
+      "improved: total": {
+        "text": "total: 99.9% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 0% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 0% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 0.1% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "0.8% (2019 est.)",
-      "country comparison to the world": 54
+      "text": "0.8% (2019 est.)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
-      "text": "480,000 (2018 est.)",
-      "country comparison to the world": 17
+      "text": "480,000 (2018 est.)"
     },
     "HIV/AIDS - deaths": {
-      "text": "14,000 (2019 est.)",
-      "country comparison to the world": 15
+      "text": "14,000 (2019 est.)"
     },
     "Major infectious diseases": {
       "degree of risk": {
@@ -316,16 +332,13 @@
       }
     },
     "Obesity - adult prevalence rate": {
-      "text": "10% (2016)",
-      "country comparison to the world": 140
+      "text": "10% (2016)"
     },
     "Children under the age of 5 years underweight": {
-      "text": "6.7% (2016)",
-      "country comparison to the world": 74
+      "text": "6.7% (2016)"
     },
     "Education expenditures": {
-      "text": "4.1% of GDP (2013)",
-      "country comparison to the world": 95
+      "text": "4.1% of GDP (2013)"
     },
     "Literacy": {
       "definition": {
@@ -361,8 +374,7 @@
       },
       "female": {
         "text": "4.7% (2016 est.)"
-      },
-      "country comparison to the world": 170
+      }
     }
   },
   "Government": {
@@ -399,7 +411,7 @@
       "time difference": {
         "text": "UTC+7 (12 hours ahead of Washington, DC, during Standard Time)"
       },
-      "note": "etymology: Bangkok was likely originally a colloquial name, but one that was widely adopted by foreign visitors; the name may derive from \"bang ko,\" where \"bang\" is the Thai word for \"village on a stream\" and \"ko\" means \"island,\" both referencing the area's landscape, which was carved by rivers and canals; alternatively, the name may come from \"bang makok,\" where \"makok\" is the name of the Java plum, a plant bearing olive-like fruit; this possibility is supported by the former name of Wat Arun, a historic temple in the area, that used to be called Wat Makok; ++ Krung Thep, the city's Thai name, means \"City of the Deity\" and is a shortening of the full ceremonial name: Krungthepmahanakhon Amonrattanakosin Mahintharayutthaya Mahadilokphop Noppharatratchathaniburirom Udomratchaniwetmahasathan Amonphimanawatansathit Sakkathattiyawitsanukamprasit; translated the meaning is: City of angels, great city of immortals, magnificent city of the nine gems, seat of the king, city of royal palaces, home of gods incarnate, erected by Vishvakarman at Indra's behest; it holds the world's record as the longest place name (169 letters)"
+      "note": "<br><br><strong>etymology:</strong> Bangkok was likely originally a colloquial name, but one that was widely adopted by foreign visitors; the name may derive from \"bang ko,\" where \"bang\" is the Thai word for \"village on a stream\" and \"ko\" means \"island,\" both referencing the area's landscape, which was carved by rivers and canals; alternatively, the name may come from \"bang makok,\" where \"makok\" is the name of the Java plum, a plant bearing olive-like fruit; this possibility is supported by the former name of Wat Arun, a historic temple in the area, that used to be called Wat Makok; <br /><br />Krung Thep, the city's Thai name, means \"City of the Deity\" and is a shortening of the full ceremonial name:&nbsp;Krungthepmahanakhon Amonrattanakosin Mahintharayutthaya Mahadilokphop Noppharatratchathaniburirom Udomratchaniwetmahasathan Amonphimanawatansathit Sakkathattiyawitsanukamprasit; translated the meaning is:&nbsp;City of angels, great city of immortals, magnificent city of the nine gems, seat of the king, city of royal palaces, home of gods incarnate, erected by Vishvakarman at Indra's behest; it holds the world's record as the longest place name (169 letters)"
     },
     "Administrative divisions": {
       "text": "76 provinces (changwat, singular and plural) and 1 municipality* (maha nakhon); Amnat Charoen, Ang Thong, Bueng Kan, Buri Ram, Chachoengsao, Chai Nat, Chaiyaphum, Chanthaburi, Chiang Mai, Chiang Rai, Chon Buri, Chumphon, Kalasin, Kamphaeng Phet, Kanchanaburi, Khon Kaen, Krabi, Krung Thep* (Bangkok), Lampang, Lamphun, Loei, Lop Buri, Mae Hong Son, Maha Sarakham, Mukdahan, Nakhon Nayok, Nakhon Pathom, Nakhon Phanom, Nakhon Ratchasima, Nakhon Sawan, Nakhon Si Thammarat, Nan, Narathiwat, Nong Bua Lamphu, Nong Khai, Nonthaburi, Pathum Thani, Pattani, Phangnga, Phatthalung, Phayao, Phetchabun, Phetchaburi, Phichit, Phitsanulok, Phra Nakhon Si Ayutthaya, Phrae, Phuket, Prachin Buri, Prachuap Khiri Khan, Ranong, Ratchaburi, Rayong, Roi Et, Sa Kaeo, Sakon Nakhon, Samut Prakan, Samut Sakhon, Samut Songkhram, Saraburi, Satun, Sing Buri, Si Sa Ket, Songkhla, Sukhothai, Suphan Buri, Surat Thani, Surin, Tak, Trang, Trat, Ubon Ratchathani, Udon Thani, Uthai Thani, Uttaradit, Yala, Yasothon"
@@ -443,28 +455,28 @@
     },
     "Executive branch": {
       "chief of state": {
-        "text": "King WACHIRALONGKON, also spelled Vajiralongkorn, (since 1 December 2016); note - King PHUMIPHON Adunyadet, also spelled BHUMIBOL Adulyadej (since 9 June 1946) died 13 October 2016"
+        "text": "King WACHIRALONGKON, also spelled Vajiralongkorn, (since 1 December 2016); note - King PHUMIPHON Adunyadet, also spelled BHUMIBOL Adulyadej (since 9 June 1946) died 13 October 2016&nbsp;"
       },
       "head of government": {
-        "text": "Prime Minister PRAYUT Chan-ocha (since 25 August 2014); Deputy Prime Ministers PRAWIT Wongsuwan (since 31 August 2014), WITSANU Kruea-ngam (since 31 August 2014), SUPHATTHANAPHONG Phanmichao (since August 2020), CHURIN Laksanawisit (since November 2019), ANUTHIN Chanwirakun (since November 2019), DON Pramudwinai (since August 2020)"
+        "text": "&nbsp;Prime Minister PRAYUT Chan-ocha (since 25 August 2014); Deputy Prime Ministers PRAWIT Wongsuwan (since 31 August 2014), WITSANU Kruea-ngam (since 31 August 2014), SUPHATTHANAPHONG Phanmichao (since August 2020), CHURIN Laksanawisit (since November 2019), ANUTHIN Chanwirakun (since November 2019), DON Pramudwinai (since August 2020)"
       },
       "cabinet": {
-        "text": "Council of Ministers nominated by the prime minister, appointed by the king; a Privy Council advises the king"
+        "text": "Council of Ministers nominated by the prime minister, appointed by the king; a Privy Council advises the king&nbsp;"
       },
       "elections/appointments": {
         "text": "the monarchy is hereditary; the House of Representatives and Senate approves a person for Prime Minister who must then be appointed by the King (as stated in the transitory provision of the 2017 constitution); the office of prime minister can be held for up to a total of 8 years"
       },
-      "note": "note: PRAYUT Chan-ocha was appointed interim prime minister in August 2014, three months after he staged the coup that removed the previously elected government of Prime Minister YINGLAK Chinnawat; on 5 June 2019 PRAYUT (independent) was approved as prime minister by the parliament - 498 votes to 244 for THANATHON Chuengrungrueangkit (FFP)"
+      "note": "<p><strong>note:</strong>&nbsp; PRAYUT Chan-ocha was appointed interim prime minister in August 2014, three months after he staged the coup that removed the previously elected government of Prime Minister YINGLAK Chinnawat; on 5 June 2019 PRAYUT (independent) was approved as prime minister by the parliament - 498 votes to 244 for THANATHON Chuengrungrueangkit (FFP)</p>"
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral National Assembly or Rathhasapha consists of: Senate or Wuthissapha (250 seats; members appointed by the Royal Thai Army to serve 5-year terms) ++ House of Representatives or Saphaphuthan Ratsadon (500 seats; 375 members directly elected in single-seat constituencies by simple majority vote and 150 members elected in a single nationwide constituency by party-list proportional representation vote; members serve 4-year terms)"
+        "text": "bicameral National Assembly or Rathhasapha&nbsp;consists of:<br />Senate or Wuthissapha&nbsp;(250 seats; members appointed by the Royal Thai Army to serve&nbsp;5-year terms)<br />House of Representatives or Saphaphuthan Ratsadon&nbsp;(500 seats; 375 members directly elected in single-seat constituencies by simple majority vote and 150 members elected in a single nationwide constituency by party-list proportional representation vote; members serve 4-year terms)"
       },
       "elections": {
-        "text": "Senate - last held on 14 May 2019 (next to be held in 2024) ++ House of Representatives - last held on 24 March 2019 (next to be held in 2023)"
+        "text": "Senate - last held on 14 May 2019 (next to be held in 2024)<br /> <br />House of Representatives - last held on 24 March 2019 (next to be held in 2023)"
       },
       "election results": {
-        "text": "Senate - percent of vote by party - NA; seats by party - NA; composition - men 224, women 26, percent of women 10.4% ++ House of Representatives - percent of vote by party - PPRP 23.7%, PTP 22.2%, FFP 17.8%, DP 11.1%, PJT 10.5%, TLP 2.3%, CTP 2.2%, NEP 1.4%, PCC 1.4%, ACT 1.2%, PCP 1.2%, other 5.1%; seats by party - PTP 136, PPRP 116, FFP 81, DP 53, PJT 51, CTP 10, TLP 10, PCC 7, PCP 5, NEP 6, ACT 5, other 20; composition - men 421, women 79, percent of women 15.8%; note - total National Assembly percent of women 14%"
+        "text": "Senate - percent of vote by party - NA; seats by party - NA; composition - men 224, women 26, percent of women 10.4%<br />House of Representatives - percent of vote by party - PPRP 23.7%, PTP 22.2%, FFP 17.8%, DP 11.1%, PJT 10.5%, TLP 2.3%, CTP 2.2%, NEP 1.4%, PCC 1.4%, ACT 1.2%, PCP 1.2%,&nbsp; other 5.1%; seats by party - PTP 136, PPRP 116, FFP 81, DP 53, PJT 51, CTP 10, TLP 10,&nbsp;PCC 7, PCP 5, NEP 6, ACT 5, other 20; composition - men 421, women 79, percent of women 15.8%; note - total National Assembly percent of women 14%"
       }
     },
     "Judicial branch": {
@@ -479,8 +491,8 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Action Coalition of Thailand Party or ACT [TAWEESAK Na Takuathung (acting); CHATUMONGKHON Sonakun resigned June 2020] ++ Anakhot Mai Party (Future Forward Party) or FFP [THANATHON Chuengrungrueangkit] (dissolved, February 2020) ++ Chat Phatthana Party (National Development Party) [THEWAN Liptaphanlop] ++ Chat Thai Phatthana Party (Thai Nation Development Party) or CTP [KANCHANA Sinlapa-acha] ++ New Economics Party or NEP [MINGKHWAN Sangsuwan] ++ Phalang Pracharat Party or PPP [UTTAMA Sawanayon] ++ Phumchai Thai Party (Thai Pride Party) or PJT [ANUTHIN Chanwirakun] ++ Prachachat Party of PCC [WAN Muhamad NOOR Matha] ++ Prachathipat Party (Democrat Party) or DP [CHURIN Laksanawisit] ++ Puea Chat Party (For Nation Party) or PCP [SONGKHRAM Kitletpairot] ++ Puea Thai Party (For Thais Party) or PTP [WIROT Paoin] ++ Puea Tham Party (For Dharma Party) [NALINI Thawisin] ++ Seri Ruam Thai Party (Thai Liberal Party) or TLP [SERIPHISUT Temiyawet] ++ Thai Forest Conservation Party or TFCP [DAMRONG Phidet] ++ Thai Local Power Party or TLP [collective leadership] ++ Thai Raksa Chat Party (Thai National Preservation Party) [PRICHAPHON Phongpanit]",
-      "note": "note: as of 5 April 2018, 98 new parties applied to be registered with the Election Commission in accordance with the provisions of the new organic law on political parties"
+      "text": "Action Coalition of Thailand Party or ACT [TAWEESAK Na Takuathung (acting); CHATUMONGKHON Sonakun resigned June 2020]<br />Anakhot Mai Party (Future Forward Party) or FFP [THANATHON Chuengrungrueangkit] (dissolved, February 2020)<br />Chat Phatthana Party (National Development Party) [THEWAN Liptaphanlop]<br />Chat Thai Phatthana Party (Thai Nation Development Party) or CTP [KANCHANA Sinlapa-acha]<br />New Economics Party or NEP [MINGKHWAN Sangsuwan]<br />Phalang Pracharat Party or PPP [UTTAMA Sawanayon]<br />Phumchai Thai Party (Thai Pride Party) or PJT [ANUTHIN Chanwirakun]<br />Prachachat Party of PCC [WAN Muhamad NOOR Matha]<br />Prachathipat Party (Democrat Party) or DP [CHURIN <span class=\"st\">Laksanawisit</span>]<br />Puea Chat Party (For Nation Party) or PCP [SONGKHRAM Kitletpairot]<br />Puea Thai Party (For Thais Party) or PTP [WIROT Paoin]<br />Puea Tham Party (For Dharma Party) [NALINI Thawisin]<br />Seri Ruam Thai Party (Thai Liberal Party) or TLP [SERIPHISUT Temiyawet]<br />Thai Forest Conservation Party or TFCP [DAMRONG Phidet]<br />Thai Local Power Party or TLP [collective leadership]<br />Thai Raksa Chat Party (Thai National Preservation Party) [PRICHAPHON Phongpanit]",
+      "note": "<p><strong>note:</strong> as of 5 April 2018, 98 new parties applied to be registered with the Election Commission in accordance with the provisions of the new organic law on political parties</p>"
     },
     "International organization participation": {
       "text": "ADB, APEC, ARF, ASEAN, BIMSTEC, BIS, CD, CICA, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIC (observer), OIF (observer), OPCW, OSCE (partner), PCA, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMOGIP, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
@@ -524,7 +536,7 @@
     },
     "Flag description": {
       "text": "five horizontal bands of red (top), white, blue (double width), white, and red; the red color symbolizes the nation and the blood of life, white represents religion and the purity of Buddhism, and blue stands for the monarchy",
-      "note": "note: similar to the flag of Costa Rica but with the blue and red colors reversed"
+      "note": "<p><strong>note:</strong> similar to the flag of Costa Rica but with the blue and red colors reversed</p>"
     },
     "National symbol(s)": {
       "text": "garuda (mythical half-man, half-bird figure), elephant; national colors: red, white, blue"
@@ -536,20 +548,34 @@
       "lyrics/music": {
         "text": "Luang SARANUPRAPAN/Phra JENDURIYANG"
       },
-      "note": "note: music adopted 1932, lyrics adopted 1939; by law, people are required to stand for the national anthem at 0800 and 1800 every day; the anthem is played in schools, offices, theaters, and on television and radio during this time; \"Phleng Sanlasoen Phra Barami\" (A Salute to the Monarch) serves as the royal anthem and is played in the presence of the royal family and during certain state ceremonies"
+      "note": "<p><strong>note:</strong> music adopted 1932, lyrics adopted 1939; by law, people are required to stand for the national anthem at 0800 and 1800 every day; the anthem is played in schools, offices, theaters, and on television and radio during this time; \"Phleng Sanlasoen Phra Barami\" (A Salute to the Monarch) serves as the royal anthem and is played in the presence of the royal family and during certain state ceremonies</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "With a relatively well-developed infrastructure, a free-enterprise economy, and generally pro-investment policies, Thailand is highly dependent on international trade, with exports accounting for about two thirds of GDP. Thailand's exports include electronics, agricultural commodities, automobiles and parts, and processed foods. The industry and service sectors produce about 90% of GDP. The agricultural sector, comprised mostly of small-scale farms, contributes only 10% of GDP but employs about one third of the labor force. Thailand has attracted an estimated 3.0-4.5 million migrant workers, mostly from neighboring countries. ++ Over the last few decades, Thailand has reduced poverty substantially. In 2013, the Thai Government implemented a nationwide 300 baht (roughly $10) per day minimum wage policy and deployed new tax reforms designed to lower rates on middle-income earners. ++ Thailand's economy is recovering from slow growth during the years since the 2014 coup. Thailand's economic fundamentals are sound, with low inflation, low unemployment, and reasonable public and external debt levels. Tourism and government spending - mostly on infrastructure and short-term stimulus measures – have helped to boost the economy, and The Bank of Thailand has been supportive, with several interest rate reductions. ++ Over the longer-term, household debt levels, political uncertainty, and an aging population pose risks to growth."
+      "text": "<p>With a relatively well-developed infrastructure, a free-enterprise economy, and generally pro-investment policies, Thailand is highly dependent on international trade, with exports accounting for about two thirds of GDP. Thailand&rsquo;s exports include electronics, agricultural commodities, automobiles and parts, and processed foods. The industry and service sectors produce about 90% of GDP. The agricultural sector, comprised mostly of small-scale farms, contributes only 10% of GDP but employs about one third of the labor force. Thailand has attracted an estimated 3.0-4.5 million migrant workers, mostly from neighboring countries.</p> <p>Over the last few decades, Thailand has reduced poverty substantially. In 2013, the Thai Government implemented a nationwide 300 baht (roughly $10) per day minimum wage policy and deployed new tax reforms designed to lower rates on middle-income earners.</p> <p>Thailand&rsquo;s economy is recovering from slow growth during the years since the 2014 coup. Thailand&rsquo;s economic fundamentals are sound, with low inflation, low unemployment, and reasonable public and external debt levels. Tourism and government spending - mostly on infrastructure and short-term stimulus measures &ndash; have helped to boost the economy, and The Bank of Thailand has been supportive, with several interest rate reductions.</p> <p>Over the longer-term, household debt levels, political uncertainty, and an aging population pose risks to growth.</p>"
     },
-    "GDP real growth rate": {
-      "text": "2.62% (2019 est.) / 4.31% (2018 est.) / 4.26% (2017 est.)",
-      "country comparison to the world": 109
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2019": {
+        "text": "2.62% (2019 est.)"
+      },
+      "Real GDP growth rate 2018": {
+        "text": "4.31% (2018 est.)"
+      },
+      "Real GDP growth rate 2017": {
+        "text": "4.26% (2017 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "0.7% (2019 est.) / 1% (2018 est.) / 0.6% (2017 est.)",
-      "country comparison to the world": 56
+      "Inflation rate (consumer prices) 2019": {
+        "text": "0.7% (2019 est.)"
+      },
+      "Inflation rate (consumer prices) 2018": {
+        "text": "1% (2018 est.)"
+      },
+      "Inflation rate (consumer prices) 2017": {
+        "text": "0.6% (2017 est.)"
+      }
     },
     "Credit ratings": {
       "Fitch rating": {
@@ -562,21 +588,43 @@
         "text": "BBB+ (2004)"
       }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$1,199,819,000,000 (2019 est.) / $1,169,267,000,000 (2018 est.) / $1,121,049,000,000 (2017 est.)",
-      "note": "note: data are in 2010 dollars"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2019": {
+        "text": "$1,285,287,000,000 (2019 est.)"
+      },
+      "Real GDP (purchasing power parity) 2018": {
+        "text": "$1,255,719,000,000 (2018 est.)"
+      },
+      "Real GDP (purchasing power parity) 2017": {
+        "text": "$1,205,674,000,000 (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
     },
     "GDP (official exchange rate)": {
       "text": "$543.798 billion (2019 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$6,623 (2019 est.) / $6,472 (2018 est.) / $6,225 (2017 est.)",
-      "note": "note: data are in 2010 dollars",
-      "country comparison to the world": 143
+    "Real GDP per capita": {
+      "Real GDP per capita 2019": {
+        "text": "$18,460 (2019 est.)"
+      },
+      "Real GDP per capita 2018": {
+        "text": "$18,087 (2018 est.)"
+      },
+      "Real GDP per capita 2017": {
+        "text": "$17,421 (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
     },
     "Gross national saving": {
-      "text": "34.1% of GDP (2017 est.) / 32.8% of GDP (2016 est.) / 30.3% of GDP (2015 est.)",
-      "country comparison to the world": 19
+      "Gross national saving 2017": {
+        "text": "34.1% of GDP (2017 est.)"
+      },
+      "Gross national saving 2016": {
+        "text": "32.8% of GDP (2016 est.)"
+      },
+      "Gross national saving 2015": {
+        "text": "30.3% of GDP (2015 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -610,21 +658,21 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "text": "84.6 (2020)"
+      "Overall Ease of Doing Business score 2020": {
+        "text": "84.6 (2020)"
+      }
     },
-    "Agriculture - products": {
-      "text": "rice, cassava (manioc, tapioca), rubber, corn, sugarcane, coconuts, palm oil, pineapple, livestock, fish products"
+    "Agricultural products": {
+      "text": "sugar cane, cassava, rice, oil palm fruit, rubber, maize, tropical fruit, poultry, pineapples, mangoes/guavas"
     },
     "Industries": {
       "text": "tourism, textiles and garments, agricultural processing, beverages, tobacco, cement, light manufacturing such as jewelry and electric appliances, computers and parts, integrated circuits, furniture, plastics, automobiles and automotive parts, agricultural machinery, air conditioning and refrigeration, ceramics, aluminum, chemical, environmental management, glass, granite and marble, leather, machinery and metal work, petrochemical, petroleum refining, pharmaceuticals, printing, pulp and paper, rubber, sugar, rice, fishing, cassava, world's second-largest tungsten producer and third-largest tin producer"
     },
     "Industrial production growth rate": {
-      "text": "1.6% (2017 est.)",
-      "country comparison to the world": 141
+      "text": "1.6% (2017 est.)"
     },
     "Labor force": {
-      "text": "37.546 million (2020 est.)",
-      "country comparison to the world": 15
+      "text": "37.546 million (2020 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -638,11 +686,23 @@
       }
     },
     "Unemployment rate": {
-      "text": "0.99% (2019 est.) / 1.06% (2018 est.)",
-      "country comparison to the world": 7
+      "Unemployment rate 2019": {
+        "text": "0.99% (2019 est.)"
+      },
+      "Unemployment rate 2018": {
+        "text": "1.06% (2018 est.)"
+      }
     },
     "Population below poverty line": {
       "text": "7.2% (2015 est.)"
+    },
+    "Gini Index coefficient - distribution of family income": {
+      "Gini Index coefficient - distribution of family income 2018": {
+        "text": "36.4 (2018 est.)"
+      },
+      "Gini Index coefficient - distribution of family income 2011": {
+        "text": "48.4 (2011)"
+      }
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
@@ -661,28 +721,41 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "15.2% (of GDP) (2017 est.)",
-      "country comparison to the world": 193
+      "text": "15.2% (of GDP) (2017 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-3.5% (of GDP) (2017 est.)",
-      "country comparison to the world": 148
+      "text": "-3.5% (of GDP) (2017 est.)"
     },
     "Public debt": {
-      "text": "41.9% of GDP (2017 est.) / 41.8% of GDP (2016 est.)",
-      "note": "note: data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are sold at public auctions",
-      "country comparison to the world": 118
+      "Public debt 2017": {
+        "text": "41.9% of GDP (2017 est.)"
+      },
+      "Public debt 2016": {
+        "text": "41.8% of GDP (2016 est.)"
+      },
+      "note": "<p><strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are sold at public auctions</p>"
     },
     "Fiscal year": {
       "text": "1 October - 30 September"
     },
     "Current account balance": {
-      "text": "$37.033 billion (2019 est.) / $28.423 billion (2018 est.)",
-      "country comparison to the world": 11
+      "Current account balance 2019": {
+        "text": "$37.033 billion (2019 est.)"
+      },
+      "Current account balance 2018": {
+        "text": "$28.423 billion (2018 est.)"
+      }
     },
     "Exports": {
-      "text": "$291.169 billion (2019 est.) / $298.968 billion (2018 est.) / $289.239 billion (2017 est.)",
-      "country comparison to the world": 27
+      "Exports 2019": {
+        "text": "$291.169 billion (2019 est.)"
+      },
+      "Exports 2018": {
+        "text": "$298.968 billion (2018 est.)"
+      },
+      "Exports 2017": {
+        "text": "$289.239 billion (2017 est.)"
+      }
     },
     "Exports - partners": {
       "text": "China 12.4%, US 11.2%, Japan 9.5%, Hong Kong 5.2%, Vietnam 4.9%, Australia 4.5%, Malaysia 4.4% (2017)"
@@ -691,25 +764,57 @@
       "text": "automobiles and parts, computer and parts, jewelry and precious stones, polymers of ethylene in primary forms, refine fuels, electronic integrated circuits, chemical products, rice, fish products, rubber products, sugar, cassava, poultry, machinery and parts, iron and steel and their products"
     },
     "Imports": {
-      "text": "$257.873 billion (2019 est.) / $269.455 billion (2018 est.) / $248.698 billion (2017 est.)",
-      "country comparison to the world": 28
-    },
-    "Imports - commodities": {
-      "text": "machinery and parts, crude oil, electrical machinery and parts, chemicals, iron & steel and product, electronic integrated circuit, automobile's parts, jewelry including silver bars and gold, computers and parts, electrical household appliances, soybean, soybean meal, wheat, cotton, dairy products"
+      "Imports 2019": {
+        "text": "$257.873 billion (2019 est.)"
+      },
+      "Imports 2018": {
+        "text": "$269.455 billion (2018 est.)"
+      },
+      "Imports 2017": {
+        "text": "$248.698 billion (2017 est.)"
+      }
     },
     "Imports - partners": {
       "text": "China 20%, Japan 14.5%, US 6.8%, Malaysia 5.4% (2017)"
     },
+    "Imports - commodities": {
+      "text": "machinery and parts, crude oil, electrical machinery and parts, chemicals, iron & steel and product, electronic integrated circuit, automobile’s parts, jewelry including silver bars and gold, computers and parts, electrical household appliances, soybean, soybean meal, wheat, cotton, dairy products"
+    },
     "Reserves of foreign exchange and gold": {
-      "text": "$202.6 billion (31 December 2017 est.) / $171.9 billion (31 December 2016 est.)",
-      "country comparison to the world": 12
+      "Reserves of foreign exchange and gold 31 December 2017": {
+        "text": "$202.6 billion (31 December 2017 est.)"
+      },
+      "Reserves of foreign exchange and gold 31 December 2016": {
+        "text": "$171.9 billion (31 December 2016 est.)"
+      }
     },
     "Debt - external": {
-      "text": "$132 billion (31 December 2017 est.) / $130.6 billion (31 December 2016 est.)",
-      "country comparison to the world": 44
+      "Debt - external 31 December 2017": {
+        "text": "$132 billion (31 December 2017 est.)"
+      },
+      "Debt - external 31 December 2016": {
+        "text": "$130.6 billion (31 December 2016 est.)"
+      }
     },
     "Exchange rates": {
-      "text": "baht per US dollar - / 30.03 (2020 est.) / 30.29749 (2019 est.) / 32.8075 (2018 est.) / 34.248 (2014 est.) / 32.48 (2013 est.)"
+      "currency": {
+        "text": "baht per US dollar -"
+      },
+      "Exchange rates 2020": {
+        "text": "30.03 (2020 est.)"
+      },
+      "Exchange rates 2019": {
+        "text": "30.29749 (2019 est.)"
+      },
+      "Exchange rates 2018": {
+        "text": "32.8075 (2018 est.)"
+      },
+      "Exchange rates 2014": {
+        "text": "34.248 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "32.48 (2013 est.)"
+      }
     }
   },
   "Energy": {
@@ -719,96 +824,73 @@
       }
     },
     "Electricity - production": {
-      "text": "181.5 billion kWh (2016 est.)",
-      "country comparison to the world": 23
+      "text": "181.5 billion kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "187.7 billion kWh (2016 est.)",
-      "country comparison to the world": 22
+      "text": "187.7 billion kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "2.267 billion kWh (2015 est.)",
-      "country comparison to the world": 44
+      "text": "2.267 billion kWh (2015 est.)"
     },
     "Electricity - imports": {
-      "text": "19.83 billion kWh (2016 est.)",
-      "country comparison to the world": 11
+      "text": "19.83 billion kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "44.89 million kW (2016 est.)",
-      "country comparison to the world": 24
+      "text": "44.89 million kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "76% of total installed capacity (2016 est.)",
-      "country comparison to the world": 93
+      "text": "76% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 193
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "8% of total installed capacity (2017 est.)",
-      "country comparison to the world": 124
+      "text": "8% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "16% of total installed capacity (2017 est.)",
-      "country comparison to the world": 55
+      "text": "16% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "228,000 bbl/day (2018 est.)",
-      "country comparison to the world": 34
+      "text": "228,000 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "790 bbl/day (2015 est.)",
-      "country comparison to the world": 76
+      "text": "790 bbl/day (2015 est.)"
     },
     "Crude oil - imports": {
-      "text": "875,400 bbl/day (2015 est.)",
-      "country comparison to the world": 12
+      "text": "875,400 bbl/day (2015 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "349.4 million bbl (1 January 2018 est.)",
-      "country comparison to the world": 50
+      "text": "349.4 million bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "1.328 million bbl/day (2015 est.)",
-      "country comparison to the world": 14
+      "text": "1.328 million bbl/day (2015 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "1.326 million bbl/day (2016 est.)",
-      "country comparison to the world": 16
+      "text": "1.326 million bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "278,300 bbl/day (2015 est.)",
-      "country comparison to the world": 29
+      "text": "278,300 bbl/day (2015 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "134,200 bbl/day (2015 est.)",
-      "country comparison to the world": 44
+      "text": "134,200 bbl/day (2015 est.)"
     },
     "Natural gas - production": {
-      "text": "38.59 billion cu m (2017 est.)",
-      "country comparison to the world": 22
+      "text": "38.59 billion cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "52.64 billion cu m (2017 est.)",
-      "country comparison to the world": 16
+      "text": "52.64 billion cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 199
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "14.41 billion cu m (2017 est.)",
-      "country comparison to the world": 21
+      "text": "14.41 billion cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "193.4 billion cu m (1 January 2018 est.)",
-      "country comparison to the world": 43
+      "text": "193.4 billion cu m (1 January 2018 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "355 million Mt (2017 est.)",
-      "country comparison to the world": 19
+      "text": "355 million Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -818,8 +900,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "3.75 (2019 est.)"
-      },
-      "country comparison to the world": 50
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -827,12 +908,11 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "186.16 (2019 est.)"
-      },
-      "country comparison to the world": 13
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "high quality system, especially in urban areas like Bangkok; mobile and mobile broadband penetration are on the increase; Fiber-to-the-home (FttH) has seen strong growth in the major cities; 4G TD-LTE available and moving to 5G services; seven smart cities with the hope of 100 smart cities within its borders in the next two decades; one of the biggest e-commerce markets in Southeast Asia; fixed broadband remains relative compared to other developed Asian telecom markets and with the dominance of the mobile platform (2020)"
+        "text": "high quality system, especially in urban areas like Bangkok; mobile and mobile broadband penetration&nbsp;are on the increase; Fiber-to-the-home (FttH) has seen strong growth in the major&nbsp;cities; 4G&nbsp;TD-LTE available and moving to 5G services;&nbsp;seven smart cities with the hope of 100 smart cities within its borders in the next two decades; one of the biggest e-commerce markets in Southeast Asia; fixed broadband remains relative compared to other developed Asian telecom markets and with the dominance of the mobile platform (2020)"
       },
       "domestic": {
         "text": "fixed-line system provided by both a government-owned and commercial provider; wireless service expanding rapidly; fixed-line 4 per 100 and mobile-cellular 186 per 100 (2019)"
@@ -840,7 +920,7 @@
       "international": {
         "text": "country code - 66; landing points for the AAE-1, FEA, SeaMeWe-3,-4, APG, SJC2, TIS, MCT and AAG submarine cable systems providing links throughout Asia, Australia, Africa, Middle East, Europe, and US; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Pacific Ocean) (2019)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "26 digital TV stations in Bangkok broadcast nationally, 6 terrestrial TV stations in Bangkok broadcast nationally via relay stations - 2 of the stations are owned by the military, the other 4 are government-owned or controlled, leased to private enterprise, and all are required to broadcast government-produced news programs twice a day; multi-channel satellite and cable TV subscription services are available; radio frequencies have been allotted for more than 500 government and commercial radio stations; many small community radio stations operate with low-power transmitters (2017)"
@@ -854,8 +934,7 @@
       },
       "percent of population": {
         "text": "56.82% (July 2018 est.)"
-      },
-      "country comparison to the world": 21
+      }
     },
     "Broadband - fixed subscriptions": {
       "total": {
@@ -863,8 +942,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "13 (2018 est.)"
-      },
-      "country comparison to the world": 19
+      }
     }
   },
   "Transportation": {
@@ -886,8 +964,9 @@
       "text": "HS (2016)"
     },
     "Airports": {
-      "text": "101 (2013)",
-      "country comparison to the world": 56
+      "total": {
+        "text": "101 (2013)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -941,27 +1020,23 @@
       },
       "narrow gauge": {
         "text": "4,043 km 1.000-m gauge (2017)"
-      },
-      "country comparison to the world": 47
+      }
     },
     "Roadways": {
       "total": {
         "text": "180,053 km (includes 450 km of expressways) (2006)"
-      },
-      "country comparison to the world": 30
+      }
     },
     "Waterways": {
-      "text": "4,000 km (3,701 km navigable by boats with drafts up to 0.9 m) (2011)",
-      "country comparison to the world": 26
+      "text": "4,000 km (3,701 km navigable by boats with drafts up to 0.9 m) (2011)"
     },
     "Merchant marine": {
       "total": {
-        "text": "825"
+        "text": "840"
       },
       "by type": {
-        "text": "bulk carrier 27, container ship 27, general cargo 89, oil tanker 243, other 439 (2019)"
-      },
-      "country comparison to the world": 27
+        "text": "bulk carrier 26, container ship 28, general cargo 87, oil tanker 257, other 442 (2020)"
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -978,11 +1053,24 @@
   "Military and Security": {
     "Military and security forces": {
       "text": "Royal Thai Armed Forces (Kongthap Thai, RTARF): Royal Thai Army (Kongthap Bok Thai, RTA; includes Thai Rangers (Thahan Phrahan)), Royal Thai Navy (Kongthap Ruea Thai, RTN; includes Royal Thai Marine Corps), Royal Thai Air Force (Kongthap Akaat Thai, RTAF); Interior Ministry paramilitary forces: Volunteer Defense Corps (2019)",
-      "note": "note: the Thai Rangers (aka Thahan Phrahan or 'Hunter Soldiers') is a paramilitary force formed in 1978 to clear Communist Party of Thailand guerrillas from mountain strongholds in the country's northeast; it is a light infantry force led by regular officers and non-commissioned officers and comprised of both full‐ and part‐time personnel; it conducts counterinsurgency operations in the southern, predominantly Muslim, region; on the eastern border with Laos and Cambodia, the Rangers have primary responsibility for border surveillance and protection"
+      "note": "<br><br>note: the Thai Rangers (aka Thahan Phrahan or 'Hunter Soldiers&rsquo;) is a paramilitary force formed in 1978 to clear Communist Party of <span class=\"inlineLinkContainer \"><a class=\"inlineLinkAnchor\" title=\"Thailand\" data-bind=\"attr: { title: label }, click : onClick, event : { contextmenu : onClick}\">Thailand</a></span> guerrillas from mountain strongholds in <span class=\"inlineLinkContainer \">the country's</span> northeast; it is a light infantry force led by regular officers and non-commissioned officers and comprised of both full‐ and part‐time personnel; it conducts counterinsurgency operations in the southern, predominantly Muslim, region; on the eastern border with <span class=\"inlineLinkContainer \"><a class=\"inlineLinkAnchor\" title=\"Laos\" data-bind=\"attr: { title: label }, click : onClick, event : { contextmenu : onClick}\">Laos</a></span> and <span class=\"inlineLinkContainer \"><a class=\"inlineLinkAnchor\" title=\"Cambodia\" data-bind=\"attr: { title: label }, click : onClick, event : { contextmenu : onClick}\">Cambodia,</a></span> the Rangers have primary responsibility for border surveillance and protection"
     },
     "Military expenditures": {
-      "text": "1.3% of GDP (2019) / 1.4% of GDP (2018) / 1.6% of GDP (2017) / 1.6% of GDP (2016) / 1.4% of GDP (2015)",
-      "country comparison to the world": 96
+      "Military Expenditures 2019": {
+        "text": "1.3% of GDP (2019)"
+      },
+      "Military Expenditures 2018": {
+        "text": "1.4% of GDP (2018)"
+      },
+      "Military Expenditures 2017": {
+        "text": "1.6% of GDP (2017)"
+      },
+      "Military Expenditures 2016": {
+        "text": "1.6% of GDP (2016)"
+      },
+      "Military Expenditures 2015": {
+        "text": "1.4% of GDP (2015)"
+      }
     },
     "Military and security service personnel strengths": {
       "text": "estimates for the size of the Royal Thai Armed Forces (RTARF) vary; approximately 360,000 active duty personnel (245,000 Army; 70,000 Navy; 45,000 Air Force); est. 20,000 Thai Rangers (2019)"
@@ -1002,7 +1090,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "separatist violence in Thailand's predominantly Malay-Muslim southern provinces prompt border closures and controls with Malaysia to stem insurgent activities; Southeast Asian states have enhanced border surveillance to check the spread of avian flu; talks continue on completion of demarcation with Laos but disputes remain over several islands in the Mekong River; despite continuing border committee talks, Thailand must deal with Karen and other ethnic rebels, refugees, and illegal cross-border activities; Cambodia and Thailand dispute sections of boundary; in 2011, Thailand and Cambodia resorted to arms in the dispute over the location of the boundary on the precipice surmounted by Preah Vihear temple ruins, awarded to Cambodia by ICJ decision in 1962 and part of a planned UN World Heritage site; Thailand is studying the feasibility of jointly constructing the Hatgyi Dam on the Salween river near the border with Burma; in 2004, international environmentalist pressure prompted China to halt construction of 13 dams on the Salween River that flows through China, Burma, and Thailand; approximately 100,000 mostly Karen refugees fleeing civil strife, political upheaval and economic stagnation in Burma live in remote camps in Thailand near the border"
+      "text": "<p>separatist violence in Thailand's predominantly Malay-Muslim southern provinces prompt border closures and controls with Malaysia to stem insurgent activities; Southeast Asian states have enhanced border surveillance to check the spread of avian flu; talks continue on completion of demarcation with Laos but disputes remain over several islands in the Mekong River; despite continuing border committee talks, Thailand must deal with Karen and other ethnic rebels, refugees, and illegal cross-border activities; Cambodia and Thailand dispute sections of boundary; in 2011, Thailand and Cambodia resorted to arms in the dispute over the location of the boundary on the precipice surmounted by Preah Vihear temple ruins, awarded to Cambodia by ICJ decision in 1962 and part of a planned UN World Heritage site; Thailand is studying the feasibility of jointly constructing the Hatgyi Dam on the Salween river near the border with Burma; in 2004, international environmentalist pressure prompted China to halt construction of 13 dams on the Salween River that flows through China, Burma, and Thailand; approximately 100,000 mostly Karen refugees fleeing civil strife, political upheaval and economic stagnation in Burma live in remote camps in Thailand near the border</p>"
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
@@ -1011,14 +1099,14 @@
       "stateless persons": {
         "text": "475,009 (2019) (estimate represents stateless persons registered with the Thai Government; actual number may be as high as 3.5 million); note - about half of Thailand's northern hill tribe people do not have citizenship and make up the bulk of Thailand's stateless population; most lack documentation showing they or one of their parents were born in Thailand; children born to Burmese refugees are not eligible for Burmese or Thai citizenship and are stateless; most Chao Lay, maritime nomadic peoples, who travel from island to island in the Andaman Sea west of Thailand are also stateless; stateless Rohingya refugees from Burma are considered illegal migrants by Thai authorities and are detained in inhumane conditions or expelled; stateless persons are denied access to voting, property, education, employment, healthcare, and driving"
       },
-      "note": "note: Thai nationality was granted to more than 23,000 stateless persons between 2012 and 2016; in 2016, the Government of Thailand approved changes to its citizenship laws that could make 80,000 stateless persons eligible for citizenship, as part of its effort to achieve zero statelessness by 2024 (2018)"
+      "note": "<p><strong>note:</strong> Thai nationality was granted to more than 23,000 stateless persons between 2012 and 2016; in 2016, the Government of Thailand approved changes to its citizenship laws that could make 80,000 stateless persons eligible for citizenship, as part of its effort to achieve zero statelessness by 2024 (2018)</p>"
     },
     "Trafficking in persons": {
       "current situation": {
         "text": "Thailand is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; victims from Burma, Cambodia, Laos, China, Vietnam, Uzbekistan, and India, migrate to Thailand in search of jobs but are forced, coerced, or defrauded into labor in commercial fishing, fishing-related industries, factories, domestic work, street begging, or the sex trade; some Thai, Burmese, Cambodian, and Indonesian men forced to work on fishing boats are kept at sea for years; sex trafficking of adults and children from Thailand, Laos, Vietnam, and Burma remains a significant problem; Thailand is a transit country for victims from China, Vietnam, Bangladesh, and Burma subjected to sex trafficking and forced labor in Malaysia, Indonesia, Singapore, Russia, South Korea, the US, and countries in Western Europe; Thai victims are also trafficked in North America, Europe, Africa, Asia, and the Middle East"
       },
       "tier rating": {
-        "text": "Tier 2 Watch List - Thailand does not fully comply with the minimum standards for the elimination of trafficking, and is not making significant efforts to do so; in 2014, authorities investigated, prosecuted, and convicted fewer traffickers and identified fewer victims; some cases of official complicity were investigated and prosecuted, but trafficking-related corruption continues to hinder progress in combatting trafficking; authorities' efforts to screen for victims among vulnerable populations remained inadequate due to a poor understanding of trafficking indicators, a failure to recognize non-physical forms of coercion, and a shortage of language interpreters; the government passed new labor laws increasing the minimum age in the fishing industry to 18 years old, guaranteeing the minimum wage, and requiring work contracts, but weak law enforcement and poor coordination among regulatory agencies enabled exploitive labor practices to continue; the government increased efforts to raise public awareness to the dangers of human trafficking and to deny entry to foreign sex tourists (2015)"
+        "text": "Tier 2 Watch List - Thailand does not fully comply with the minimum standards for the elimination of trafficking, and is not making significant efforts to do so; in 2014, authorities investigated, prosecuted, and convicted fewer traffickers and identified fewer victims; some cases of official complicity were investigated and prosecuted, but trafficking-related corruption continues to hinder progress in combatting trafficking; authorities’ efforts to screen for victims among vulnerable populations remained inadequate due to a poor understanding of trafficking indicators, a failure to recognize non-physical forms of coercion, and a shortage of language interpreters; the government passed new labor laws increasing the minimum age in the fishing industry to 18 years old, guaranteeing the minimum wage, and requiring work contracts, but weak law enforcement and poor coordination among regulatory agencies enabled exploitive labor practices to continue; the government increased efforts to raise public awareness to the dangers of human trafficking and to deny entry to foreign sex tourists (2015)"
       }
     },
     "Illicit drugs": {

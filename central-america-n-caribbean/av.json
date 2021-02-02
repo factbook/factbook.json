@@ -23,21 +23,25 @@
       },
       "water": {
         "text": "0 sq km"
-      },
-      "country comparison to the world": 226
+      }
     },
     "Area - comparative": {
       "text": "about one-half the size of Washington, DC"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "61 km"
     },
     "Maritime claims": {
       "territorial sea": {
-        "text": "3 nm"
+        "text": "12 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
       },
       "exclusive fishing zone": {
         "text": "200 nm"
@@ -62,16 +66,22 @@
     },
     "Land use": {
       "agricultural land": {
-        "text": "0% (2016 est.)"
+        "text": "0% (2018 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "0% (2016 est.) / 0% (2016 est.) / 0% (2016 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 0% (2018 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 0% (2018 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 0% (2018 est.)"
       },
       "forest": {
-        "text": "61.1% (2016 est.)"
+        "text": "61.1% (2018 est.)"
       },
       "other": {
-        "text": "38.9% (2016 est.)"
+        "text": "38.9% (2018 est.)"
       }
     },
     "Irrigated land": {
@@ -92,8 +102,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "18,090 (July 2020 est.)",
-      "country comparison to the world": 219
+      "text": "18,090 (July 2020 est.)"
     },
     "Nationality": {
       "noun": {
@@ -105,7 +114,7 @@
     },
     "Ethnic groups": {
       "text": "African/Black 85.3%, Hispanic 4.9%, mixed 3.8%, White 3.2%, East Indian/Indian 1%, other 1.6%, unspecified 0.3% (2011 est.)",
-      "note": "note: data represent population by ethnic origin"
+      "note": "<br><br><strong>note:</strong> data represent population by ethnic origin"
     },
     "Languages": {
       "text": "English (official)"
@@ -139,24 +148,19 @@
       },
       "female": {
         "text": "37.6 years (2020 est.)"
-      },
-      "country comparison to the world": 81
+      }
     },
     "Population growth rate": {
-      "text": "1.86% (2020 est.)",
-      "country comparison to the world": 53
+      "text": "1.86% (2020 est.)"
     },
     "Birth rate": {
-      "text": "12.2 births/1,000 population (2020 est.)",
-      "country comparison to the world": 157
+      "text": "12.2 births/1,000 population (2020 est.)"
     },
     "Death rate": {
-      "text": "4.8 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 203
+      "text": "4.8 deaths/1,000 population (2020 est.)"
     },
     "Net migration rate": {
-      "text": "11.1 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 6
+      "text": "11.1 migrant(s)/1,000 population (2020 est.)"
     },
     "Population distribution": {
       "text": "most of the population is concentrated in The Valley in the center of the island; settlmement is fairly uniform in the southwest, but rather sparce in the northeast"
@@ -204,8 +208,7 @@
       },
       "female": {
         "text": "2.9 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 202
+      }
     },
     "Life expectancy at birth": {
       "total population": {
@@ -216,27 +219,37 @@
       },
       "female": {
         "text": "84.5 years (2020 est.)"
-      },
-      "country comparison to the world": 26
+      }
     },
     "Total fertility rate": {
-      "text": "1.74 children born/woman (2020 est.)",
-      "country comparison to the world": 160
+      "text": "1.74 children born/woman (2020 est.)"
     },
     "Drinking water source": {
-      "improved": {
-        "text": "urban: 97.5% of population / total: 97.5% of population"
+      "improved: urban": {
+        "text": "urban: 97.5% of population"
       },
-      "unimproved": {
-        "text": "urban: 2.5% of population / total: 2.5% of population (2017 est.)"
+      "improved: total": {
+        "text": "total: 97.5% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 2.5% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 2.5% of population (2017 est.)"
       }
     },
     "Sanitation facility access": {
-      "improved": {
-        "text": "urban: 99.1% of population / total: 99.1% of population"
+      "improved: urban": {
+        "text": "urban: 99.1% of population"
       },
-      "unimproved": {
-        "text": "urban: 0.9% of population / total: 0.9% of population (2017 est.)"
+      "improved: total": {
+        "text": "total: 99.1% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 0.9% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 0.9% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -280,7 +293,7 @@
       "time difference": {
         "text": "UTC-4 (1 hour ahead of Washington, DC, during Standard Time)"
       },
-      "note": "etymology: name derives from the capital's location between several hills"
+      "note": "<br><br><strong>etymology:</strong> name derives from the capital's location between several hills"
     },
     "Administrative divisions": {
       "text": "none (overseas territory of the UK)"
@@ -303,7 +316,7 @@
       "text": "common law based on the English model"
     },
     "Citizenship": {
-      "note": "see United Kingdom"
+      "text": "see United Kingdom"
     },
     "Suffrage": {
       "text": "18 years of age; universal"
@@ -313,7 +326,7 @@
         "text": "Queen ELIZABETH II (since 6 February 1952); represented by Governor Tim FOY (since August 2017)"
       },
       "head of government": {
-        "text": "Premier Dr. Ellis WEBSTER (since 30 June 2020); note - starting in 2019, the title of head of government was changed to premier from chief minister of Anguilla"
+        "text": "Premier Dr. Ellis WEBSTER (since 30 June 2020); note -&nbsp; starting in 2019, the title of head of government was changed to premier from chief minister of Anguilla"
       },
       "cabinet": {
         "text": "Executive Council appointed by the governor from among elected members of the House of Assembly"
@@ -345,13 +358,13 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Anguilla Democratic Party or ADP ++ Anguilla National Alliance or ANA ++ Anguilla Progressive Movement or APM [Dr. Ellis WEBSTER]; prior to 2019, it was known as the Anguilla United Movement or AUM ++ Anguilla United Front or AUF [Victor BANKS] (alliance includes ADP, ANA) ++ Democracy, Opportunity, Vision, and Empowerment Party or DOVE [Sutcliffe HODGE]"
+      "text": "Anguilla Democratic Party or ADP<br />Anguilla National Alliance or ANA<br />Anguilla Progressive Movement or APM [Dr. Ellis WEBSTER]; prior to 2019, it was known as the Anguilla United Movement or AUM<br />Anguilla United Front or AUF [Victor BANKS] (alliance includes ADP, ANA)<br />Democracy, Opportunity, Vision, and Empowerment Party or DOVE [Sutcliffe HODGE]"
     },
     "International organization participation": {
       "text": "Caricom (associate), CDB, Interpol (subbureau), OECS, UNESCO (associate), UPU"
     },
     "Diplomatic representation in the US": {
-      "note": "none (overseas territory of the UK)"
+      "text": "none (overseas territory of the UK)"
     },
     "Diplomatic representation from the US": {
       "telephone": {
@@ -374,7 +387,7 @@
       "lyrics/music": {
         "text": "Alex RICHARDSON"
       },
-      "note": "note: local anthem adopted 1981; as a territory of the United Kingdom, \"God Save the Queen\" is official (see United Kingdom)"
+      "note": "<p><strong>note:</strong> local anthem adopted 1981; as a territory of the United Kingdom, \"God Save the Queen\" is official (see United Kingdom)</p>"
     }
   },
   "Economy": {
@@ -382,22 +395,36 @@
       "text": "Anguilla has few natural resources, is unsuited for agriculture, and the economy depends heavily on luxury tourism, offshore banking, lobster fishing, and remittances from emigrants. Increased activity in the tourism industry has spurred the growth of the construction sector contributing to economic growth. Anguillan officials have put substantial effort into developing the offshore financial sector, which is small but growing. In the medium term, prospects for the economy will depend largely on the recovery of the tourism sector and, therefore, on revived income growth in the industrialized nations as well as on favorable weather conditions."
     },
     "GDP real growth rate": {
-      "text": "-8.5% (2009 est.)",
-      "country comparison to the world": 220
+      "GDP - real growth rate 2009": {
+        "text": "-8.5% (2009 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "1.3% (2017 est.) / -0.6% (2016 est.)",
-      "country comparison to the world": 77
+      "Inflation rate (consumer prices) 2017": {
+        "text": "1.3% (2017 est.)"
+      },
+      "Inflation rate (consumer prices) 2016": {
+        "text": "-0.6% (2016 est.)"
+      }
     },
     "GDP (purchasing power parity) - real": {
-      "text": "$175.4 million (2009 est.) / $191.7 million (2008 est.) / $108.9 million (2004 est.)"
+      "GDP (Purchasing Power Parity) - Real 2009": {
+        "text": "$175.4 million (2009 est.)"
+      },
+      "GDP (Purchasing Power Parity) - Real 2008": {
+        "text": "$191.7 million (2008 est.)"
+      },
+      "GDP (Purchasing Power Parity) - Real 2004": {
+        "text": "$108.9 million (2004 est.)"
+      }
     },
     "GDP (official exchange rate)": {
       "text": "$175.4 million (2009 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$12,200 (2008 est.)",
-      "country comparison to the world": 105
+      "GDP (per capita) 2008": {
+        "text": "$12,200 (2008 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -430,8 +457,6 @@
         "text": "-67.4% (2017 est.)"
       }
     },
-    "Ease of Doing Business Index scores": {
-    },
     "Agriculture - products": {
       "text": "small quantities of tobacco, vegetables; cattle raising"
     },
@@ -439,12 +464,10 @@
       "text": "tourism, boat building, offshore financial services"
     },
     "Industrial production growth rate": {
-      "text": "4% (2017 est.)",
-      "country comparison to the world": 75
+      "text": "4% (2017 est.)"
     },
     "Labor force": {
-      "text": "6,049 (2001)",
-      "country comparison to the world": 218
+      "text": "6,049 (2001)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -473,8 +496,9 @@
       }
     },
     "Unemployment rate": {
-      "text": "8% (2002)",
-      "country comparison to the world": 124
+      "Unemployment rate 2002": {
+        "text": "8% (2002)"
+      }
     },
     "Population below poverty line": {
       "text": "23% (2002 est.)"
@@ -496,48 +520,87 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "46.7% (of GDP) (2017 est.)",
-      "country comparison to the world": 19
+      "text": "46.7% (of GDP) (2017 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "0.9% (of GDP) (2017 est.)",
-      "country comparison to the world": 34
+      "text": "0.9% (of GDP) (2017 est.)"
     },
     "Public debt": {
-      "text": "20.1% of GDP (2015 est.) / 20.8% of GDP (2014 est.)",
-      "country comparison to the world": 189
+      "Public debt 2015": {
+        "text": "20.1% of GDP (2015 est.)"
+      },
+      "Public debt 2014": {
+        "text": "20.8% of GDP (2014 est.)"
+      }
     },
     "Fiscal year": {
       "text": "1 April - 31 March"
     },
     "Current account balance": {
-      "text": "-$23.2 million (2017 est.) / -$25.3 million (2016 est.)",
-      "country comparison to the world": 73
+      "Current account balance 2017": {
+        "text": "-$23.2 million (2017 est.)"
+      },
+      "Current account balance 2016": {
+        "text": "-$25.3 million (2016 est.)"
+      }
     },
     "Exports": {
-      "text": "$7.9 million (2017 est.) / $3.9 million (2016 est.)",
-      "country comparison to the world": 216
+      "Exports 2017": {
+        "text": "$7.9 million (2017 est.)"
+      },
+      "Exports 2016": {
+        "text": "$3.9 million (2016 est.)"
+      }
     },
     "Exports - commodities": {
       "text": "lobster, fish, livestock, salt, concrete blocks, rum"
     },
     "Imports": {
-      "text": "$186.2 million (2017 est.) / $170.1 million (2016 est.)",
-      "country comparison to the world": 211
+      "Imports 2017": {
+        "text": "$186.2 million (2017 est.)"
+      },
+      "Imports 2016": {
+        "text": "$170.1 million (2016 est.)"
+      }
     },
     "Imports - commodities": {
       "text": "fuels, foodstuffs, manufactures, chemicals, trucks, textiles"
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$76.38 million (31 December 2017 est.) / $48.14 million (31 December 2015 est.)",
-      "country comparison to the world": 183
+      "Reserves of foreign exchange and gold 31 December 2017": {
+        "text": "$76.38 million (31 December 2017 est.)"
+      },
+      "Reserves of foreign exchange and gold 31 December 2015": {
+        "text": "$48.14 million (31 December 2015 est.)"
+      }
     },
     "Debt - external": {
-      "text": "$41.04 million (31 December 2013) / $8.8 million (1998)",
-      "country comparison to the world": 195
+      "Debt - external 31 December 2013": {
+        "text": "$41.04 million (31 December 2013)"
+      },
+      "Debt - external 1998": {
+        "text": "$8.8 million (1998)"
+      }
     },
     "Exchange rates": {
-      "text": "East Caribbean dollars (XCD) per US dollar - / 2.7 (2017 est.) / 2.7 (2016 est.) / 2.7 (2015 est.) / 2.7 (2014 est.) / 2.7 (2013 est.)"
+      "currency": {
+        "text": "East Caribbean dollars (XCD) per US dollar -"
+      },
+      "Exchange rates 2017": {
+        "text": "2.7 (2017 est.)"
+      },
+      "Exchange rates 2016": {
+        "text": "2.7 (2016 est.)"
+      },
+      "Exchange rates 2015": {
+        "text": "2.7 (2015 est.)"
+      },
+      "Exchange rates 2014": {
+        "text": "2.7 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "2.7 (2013 est.)"
+      }
     }
   },
   "Communications": {
@@ -547,8 +610,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "42.02 (2019 est.)"
-      },
-      "country comparison to the world": 196
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -556,8 +618,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "182.09 (2019 est.)"
-      },
-      "country comparison to the world": 209
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
@@ -567,9 +628,9 @@
         "text": "fixed-line teledensity is about 42 per 100 persons; mobile-cellular teledensity is roughly 182 per 100 persons (2019)"
       },
       "international": {
-        "text": "country code - 1-264; landing points for the SSCS, ECFS, GCN and Southern Caribbean Fiber with submarine cable links to Caribbean islands and to the US; microwave radio relay to island of Saint Martin/Sint Maarten (2019)"
+        "text": "country code - 1-264; landing points for the&nbsp;SSCS, ECFS, GCN&nbsp;and Southern Caribbean Fiber with submarine cable&nbsp;links to&nbsp;Caribbean islands&nbsp;and to the US; microwave radio relay to island of Saint Martin/Sint Maarten (2019)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "1 private TV station; multi-channel cable TV subscription services are available; about 10 radio stations, one of which is government-owned"
@@ -583,8 +644,7 @@
       },
       "percent of population": {
         "text": "81.57% (July 2018 est.)"
-      },
-      "country comparison to the world": 213
+      }
     }
   },
   "Transportation": {
@@ -600,8 +660,9 @@
       "text": "VP-A (2016)"
     },
     "Airports": {
-      "text": "1 (2020)",
-      "country comparison to the world": 210
+      "total": {
+        "text": "1 (2020)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -620,8 +681,7 @@
       },
       "unpaved": {
         "text": "93 km (2004)"
-      },
-      "country comparison to the world": 209
+      }
     },
     "Merchant marine": {
       "total": {
@@ -629,8 +689,7 @@
       },
       "by type": {
         "text": "other 2 (2019)"
-      },
-      "country comparison to the world": 172
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -645,7 +704,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "none"
+      "text": "<p>none</p>"
     },
     "Illicit drugs": {
       "text": "transshipment point for South American narcotics destined for the US and Europe"

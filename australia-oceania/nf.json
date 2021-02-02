@@ -23,14 +23,15 @@
       },
       "water": {
         "text": "0 sq km"
-      },
-      "country comparison to the world": 234
+      }
     },
     "Area - comparative": {
       "text": "about 0.2 times the size of Washington, DC"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "32 km"
@@ -64,8 +65,14 @@
       "agricultural land": {
         "text": "25% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "0% (2011 est.) / 0% (2011 est.) / 25% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 0% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 0% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 25% (2011 est.)"
       },
       "forest": {
         "text": "11.5% (2011 est.)"
@@ -92,8 +99,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "1,748 (2016 est.)",
-      "country comparison to the world": 232
+      "text": "1,748 (2016 est.)"
     },
     "Nationality": {
       "noun": {
@@ -104,25 +110,24 @@
       }
     },
     "Ethnic groups": {
-      "text": "Australian 22.8%, English 22.4%, Pitcairn 20%, Scottish 6%, Irish 5.2% (2011 est.)",
-      "note": "note: respondents were able to identify up to two ancestries; percentages represent a proportion of all responses from people in Norfolk Island, including those who did not identify an ancestry; only top responses are shown"
+      "text": "<p>Australian 22.8%, English 22.4%, Pitcairn 20%, Scottish 6%, Irish 5.2%</p> (2011 est.)",
+      "note": "<br><br><strong>note:</strong> respondents were able to identify up to two ancestries; percentages represent a proportion of all responses from people in Norfolk Island, including those who did not identify an ancestry; only top responses are shown"
     },
     "Languages": {
       "text": "English (official) 44.9%, Norfolk (also known as Norfuk or Norf'k, which is a mixture of 18th century English and ancient Tahitian) 40.3%, Fijian 1.8%, other 6.8%, unspecified 6.2% (2016 est.)",
-      "note": "note: data represent language spoken at home"
+      "note": "<p><strong>note:</strong> data represent language spoken at home</p>"
     },
     "Religions": {
       "text": "Protestant 46.8% (Anglican 29.2%, Uniting Church in Australia 9.8%, Presbyterian 2.9%, Seventh Day Adventist 2.7%, other 2.2%), Roman Catholic 12.6%, other Christian 2.9%, other 1.4%, none 26.7%, unspecified 9.5% (2016 est.)"
     },
     "Population growth rate": {
-      "text": "0.01% (2014 est.)",
-      "country comparison to the world": 191
+      "text": "0.01% (2014 est.)"
     },
     "Population distribution": {
       "text": "population concentrated around the capital of Kingston"
     },
     "Sex ratio": {
-      "note": "NA"
+      "text": "NA"
     },
     "Infant mortality rate": {
       "total": {
@@ -190,7 +195,7 @@
       "time difference": {
         "text": "UTC+11 (16 hours ahead of Washington, DC, during Standard Time)"
       },
-      "note": "etymology: the name is a blending of the words \"king's\" and \"town\"; the British king at the time of the town's settlement in the late 18th century was George III"
+      "note": "<br><br><strong>etymology:</strong> the name is a blending of the words \"king's\" and \"town\"; the British king at the time of the town's settlement in the late 18th century was George III"
     },
     "Administrative divisions": {
       "text": "none (territory of Australia)"
@@ -213,7 +218,7 @@
       "text": "English common law and the laws of Australia"
     },
     "Citizenship": {
-      "note": "see Australia"
+      "text": "see Australia"
     },
     "Suffrage": {
       "text": "18 years of age; universal"
@@ -242,7 +247,7 @@
       "election results": {
         "text": "seats by party - independent 5; composition - men 4, women 1, percent of women 20%"
       },
-      "note": "note: following an administrative restructuring of local government, the Legislative Assembly was dissolved on 18 June 2015 and replaced by an interim Norfolk Island Advisory Council effective 1 July 2015; the Advisory Council consisted of 5 members appointed by the Norfolk Island administrator based on nominations from the community; following elections on 28 May 2016, the new Norfolk Island Regional Council commenced operations on 1 July 2016"
+      "note": "<p><strong>note:</strong> following an administrative restructuring of local government, the Legislative Assembly was dissolved on 18 June 2015 and replaced by an interim Norfolk Island Advisory Council effective 1 July 2015; the Advisory Council consisted of 5 members appointed by the Norfolk Island administrator based on nominations from the community; following elections on 28 May 2016, the new Norfolk Island Regional Council commenced operations on 1 July 2016</p>"
     },
     "Judicial branch": {
       "highest courts": {
@@ -256,20 +261,22 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Norfolk Island Labor Party [Mike KELLY] ++ Norfolk Liberals [John BROWN]"
+      "text": "Norfolk Island Labor Party [Mike KELLY]<br />Norfolk Liberals [John BROWN]"
     },
     "International organization participation": {
       "text": "UPU"
     },
     "Diplomatic representation in the US": {
-      "note": "none (territory of Australia)"
+      "text": "none (territory of Australia)"
     },
     "Diplomatic representation from the US": {
-      "text": "none (territory of Australia)"
+      "embassy": {
+        "text": "none (territory of Australia)"
+      }
     },
     "Flag description": {
       "text": "three vertical bands of green (hoist side), white, and green with a large green Norfolk Island pine tree centered in the slightly wider white band; green stands for the rich vegetation on the island, and the pine tree - endemic to the island - is a symbol of Norfolk Island",
-      "note": "note: somewhat reminiscent of the flag of Canada with its use of only two colors and depiction of a prominent local floral symbol in the central white band; also resembles the green and white triband of Nigeria"
+      "note": "<p><strong>note:</strong> somewhat reminiscent of the flag of Canada with its use of only two colors and depiction of a prominent local floral symbol in the central white band; also resembles the green and white triband of Nigeria</p>"
     },
     "National symbol(s)": {
       "text": "Norfolk Island pine"
@@ -281,27 +288,24 @@
       "lyrics/music": {
         "text": "New Testament/John Prindle SCOTT"
       },
-      "note": "note: the local anthem, whose lyrics consist of the words from Matthew 25:34-36, 40, is also known as \"The Pitcairn Anthem;\" the island does not recognize \"Advance Australia Fair\" (which other Australian territories use); instead \"God Save the Queen\" is official (see United Kingdom)"
+      "note": "<p><strong>note:</strong> the local anthem, whose lyrics consist of the words from Matthew 25:34-36, 40, is also known as \"The Pitcairn Anthem;\" the island does not recognize \"Advance Australia Fair\" (which other Australian territories use); instead \"God Save the Queen\" is official (see United Kingdom)</p>"
     }
   },
   "Economy": {
     "Economic overview": {
       "text": "Norfolk Island is suffering from a severe economic downturn. Tourism, the primary economic activity, is the main driver of economic growth. The agricultural sector has become self-sufficient in the production of beef, poultry, and eggs."
     },
-    "GDP (purchasing power parity) - real": {
-      "note": "NA"
+    "Real GDP (purchasing power parity)": {
+      "text": "<p>NA</p>"
     },
-    "Ease of Doing Business Index scores": {
-    },
-    "Agriculture - products": {
+    "Agricultural products": {
       "text": "Norfolk Island pine seed, Kentia palm seed, cereals, vegetables, fruit; cattle, poultry"
     },
     "Industries": {
       "text": "tourism, light industry, ready mixed concrete"
     },
     "Labor force": {
-      "text": "978 (2006)",
-      "country comparison to the world": 229
+      "text": "978 (2006)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -326,22 +330,39 @@
       "text": "1 July - 30 June"
     },
     "Exports": {
-      "note": "NA"
+      "text": "<p>NA</p>"
     },
     "Exports - commodities": {
       "text": "postage stamps, seeds of the Norfolk Island pine and Kentia palm, small quantities of avocados"
     },
     "Imports": {
-      "note": "$NA"
+      "text": "<p>$NA</p>"
     },
     "Imports - commodities": {
       "text": "NA"
     },
     "Debt - external": {
-      "note": "NA"
+      "text": "<p>NA</p>"
     },
     "Exchange rates": {
-      "text": "Australian dollars (AUD) per US dollar - / 1.311 (2017 est.) / 1.3291 (2016 est.) / 1.3291 (2015) / 1.3291 (2014 est.) / 1.1094 (2013 est.)"
+      "currency": {
+        "text": "Australian dollars (AUD) per US dollar -"
+      },
+      "Exchange rates 2017": {
+        "text": "1.311 (2017 est.)"
+      },
+      "Exchange rates 2016": {
+        "text": "1.3291 (2016 est.)"
+      },
+      "Exchange rates 2015": {
+        "text": "1.3291 (2015)"
+      },
+      "Exchange rates 2014": {
+        "text": "1.3291 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "1.1094 (2013 est.)"
+      }
     }
   },
   "Communications": {
@@ -355,7 +376,7 @@
       "international": {
         "text": "country code - 672; submarine cable links with Australia and New Zealand; satellite earth station - 1"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "1 local radio station; broadcasts of several Australian radio and TV stations available via satellite (2009)"
@@ -369,14 +390,14 @@
       },
       "percent of population": {
         "text": "34.6% (July 2016 est.)"
-      },
-      "country comparison to the world": 228
+      }
     }
   },
   "Transportation": {
     "Airports": {
-      "text": "1 (2013)",
-      "country comparison to the world": 231
+      "total": {
+        "text": "1 (2013)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -395,8 +416,7 @@
       },
       "unpaved": {
         "text": "27 km (2008)"
-      },
-      "country comparison to the world": 215
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -411,7 +431,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "none"
+      "text": "<p>none</p>"
     }
   }
 }

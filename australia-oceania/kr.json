@@ -24,14 +24,15 @@
       "water": {
         "text": "0 sq km"
       },
-      "note": "note: includes three island groups - Gilbert Islands, Line Islands, and Phoenix Islands - dispersed over about 3.5 million sq km (1.35 million sq mi)",
-      "country comparison to the world": 186
+      "note": "<p><strong>note:</strong> includes three island groups - Gilbert Islands, Line Islands, and Phoenix Islands - dispersed over about 3.5 million sq km (1.35 million sq mi)</p>"
     },
     "Area - comparative": {
       "text": "four times the size of Washington, DC"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "1,143 km"
@@ -68,8 +69,14 @@
       "agricultural land": {
         "text": "42% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "2.5% (2011 est.) / 39.5% (2011 est.) / 0% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 2.5% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 39.5% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 0% (2011 est.)"
       },
       "forest": {
         "text": "15% (2011 est.)"
@@ -104,8 +111,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "111,796 (July 2020 est.)",
-      "country comparison to the world": 190
+      "text": "113,001 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -164,24 +170,19 @@
       },
       "female": {
         "text": "26.6 years (2020 est.)"
-      },
-      "country comparison to the world": 158
+      }
     },
     "Population growth rate": {
-      "text": "1.09% (2020 est.)",
-      "country comparison to the world": 97
+      "text": "1.05% (2021 est.)"
     },
     "Birth rate": {
-      "text": "20.5 births/1,000 population (2020 est.)",
-      "country comparison to the world": 74
+      "text": "20.27 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "6.9 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 131
+      "text": "6.94 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "-2.8 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 172
+      "text": "-2.81 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "consists of three achipelagos spread out over an area roughly the size of India; the eastern Line Islands and central Phoenix Islands are sparsely populated, but the western Gilbert Islands are some of the most densely settled places on earth, with the main island of South Tarawa boasting a population density similar to Tokyo or Hong Kong"
@@ -222,45 +223,41 @@
     },
     "Mother's mean age at first birth": {
       "text": "23.1 years (2009 est.)",
-      "note": "note: median age at first birth among women 25-29"
+      "note": "<p><strong>note:</strong> median age at first birth among women 25-29</p>"
     },
     "Maternal mortality rate": {
-      "text": "92 deaths/100,000 live births (2017 est.)",
-      "country comparison to the world": 73
+      "text": "92 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "29.2 deaths/1,000 live births"
+        "text": "33.66 deaths/1,000 live births"
       },
       "male": {
-        "text": "30.3 deaths/1,000 live births"
+        "text": "35.61 deaths/1,000 live births"
       },
       "female": {
-        "text": "27.9 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 57
+        "text": "31.62 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "67.5 years"
+        "text": "67.59 years"
       },
       "male": {
         "text": "65 years"
       },
       "female": {
-        "text": "70.2 years (2020 est.)"
-      },
-      "country comparison to the world": 181
+        "text": "70.3 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "2.25 children born/woman (2020 est.)",
-      "country comparison to the world": 87
+      "text": "2.23 children born/woman (2021 est.)"
     },
     "Drinking water source": {
-      "improved": {
+      "improved: total": {
         "text": "total: 71.6% of population"
       },
-      "unimproved": {
+      "unimproved: total": {
         "text": "total: 28.4% of population (2017 est.)"
       }
     },
@@ -274,10 +271,10 @@
       "text": "1.9 beds/1,000 population (2016)"
     },
     "Sanitation facility access": {
-      "improved": {
+      "improved: total": {
         "text": "total: 61.1% of population"
       },
-      "unimproved": {
+      "unimproved: total": {
         "text": "total: 38.9% of population (2017 est.)"
       }
     },
@@ -302,12 +299,10 @@
       }
     },
     "Obesity - adult prevalence rate": {
-      "text": "46% (2016)",
-      "country comparison to the world": 9
+      "text": "46% (2016)"
     },
     "Children under the age of 5 years underweight": {
-      "text": "14.9% (2009)",
-      "country comparison to the world": 40
+      "text": "14.9% (2009)"
     },
     "Education expenditures": {
       "text": "NA"
@@ -332,8 +327,7 @@
       },
       "female": {
         "text": "7.4% (2015 est.)"
-      },
-      "country comparison to the world": 76
+      }
     }
   },
   "Government": {
@@ -356,7 +350,7 @@
       "etymology": {
         "text": "the name is the local pronunciation of \"Gilberts,\" the former designation of the islands; originally named after explorer Thomas GILBERT, who mapped many of the islands in 1788"
       },
-      "note": "note: pronounced keer-ree-bahss"
+      "note": "<p><strong>note:</strong> pronounced keer-ree-bahss</p>"
     },
     "Government type": {
       "text": "presidential republic"
@@ -371,7 +365,7 @@
       "time difference": {
         "text": "UTC+12 (17 hours ahead of Washington, DC, during Standard Time)"
       },
-      "note": "note: Kiribati has three time zones: the Gilbert Islands group at UTC+12, the Phoenix Islands at UTC+13, and the Line Islands at UTC+14 ++ etymology: in Kiribati creation mythology, \"tarawa\" was what the spider Nareau named the land to distinguish it from \"karawa\" (the sky) and \"marawa\" (the ocean)"
+      "note": "<p><strong>note:</strong> Kiribati has three time zones: the Gilbert Islands group at UTC+12, the Phoenix Islands at UTC+13, and the Line Islands at UTC+14<br /><br /><strong>etymology:</strong> in Kiribati creation mythology, \"tarawa\" was what the spider Nareau named the land to distinguish it from \"karawa\" (the sky) and \"marawa\" (the ocean)</p>"
     },
     "Administrative divisions": {
       "text": "3 geographical units: Gilbert Islands, Line Islands, Phoenix Islands; note - there are no first-order administrative divisions, but there are 6 districts (Banaba, Central Gilberts, Line Islands, Northern Gilberts, Southern Gilberts, Tarawa) and 21 island councils - one for each of the inhabited islands (Abaiang, Abemama, Aranuka, Arorae, Banaba, Beru, Butaritari, Kanton, Kiritimati, Kuria, Maiana, Makin, Marakei, Nikunau, Nonouti, Onotoa, Tabiteuea, Tabuaeran, Tamana, Tarawa, Teraina)"
@@ -427,7 +421,7 @@
         "text": "president directly elected by simple majority popular vote following nomination of candidates from among House of Assembly members; term is 4 years (eligible for 2 additional terms); election last held on 22 June 2020 (next to be held in 2024); vice president appointed by the president"
       },
       "election results": {
-        "text": "Taneti MAAMAU reelected president; percent of vote - Taneti MAAMAU (TKB) 59.3%, Banuera BERINA (BKM) 40.7%."
+        "text": "Taneti MAAMAU reelected president; percent of vote - Taneti MAAMAU (TKB) 59.3%,&nbsp;Banuera BERINA (BKM) 40.7%."
       }
     },
     "Legislative branch": {
@@ -453,15 +447,15 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Boutokaan Kiribati Moa Party (BKM) [Tessie LAMBOURNE] ++ Boutokaan Te Koaua Party or BTK or Pillars of Truth [Anote TONG] ++ Kamaeuraoan Te I-Kiribati Party or KTK [Tetaua TAITAI] ++ Maurin Kiribati Pati or MKP [Rimeta BENIAMINA] ++ Tobwaan Kiribati Party or TKP [Taneti MAAMAU]",
-      "note": "note: there is no tradition of formally organized political parties in Kiribati; they more closely resemble factions or interest groups because they have no party headquarters, formal platforms, or party structures"
+      "text": "Boutokaan Kiribati Moa Party (BKM) [Tessie LAMBOURNE]<br />Boutokaan Te Koaua Party or BTK or Pillars of Truth [Anote TONG]<br />Kamaeuraoan Te I-Kiribati Party or KTK [Tetaua TAITAI]<br />Maurin Kiribati Pati or MKP [Rimeta BENIAMINA]<br />Tobwaan Kiribati Party or TKP [Taneti MAAMAU]",
+      "note": "<p><strong>note:</strong> there is no tradition of formally organized political parties in Kiribati; they more closely resemble factions or interest groups because they have no party headquarters, formal platforms, or party structures</p>"
     },
     "International organization participation": {
       "text": "ABEDA, ACP, ADB, AOSIS, C, FAO, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IOC, ITU, ITUC (NGOs), OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UPU, WHO, WIPO, WMO"
     },
     "Diplomatic representation in the US": {
       "chief of mission": {
-        "text": "Ambassador Teburoro TITO (since 24 January 2018)"
+        "text": "<p>Ambassador Teburoro TITO (since 24 January 2018)</p>"
       },
       "chancery": {
         "text": "800 Second Avenue, Suite 400A, New York, NY 10017"
@@ -472,10 +466,12 @@
       "FAX": {
         "text": "[1](212)867-3320"
       },
-      "note": "note - the Kiribati Permanent Mission to the UN serves as the embassy"
+      "note": "<br><br>note -&nbsp;the Kiribati Permanent Mission to the UN serves as the embassy"
     },
     "Diplomatic representation from the US": {
-      "text": "the US does not have an embassy in Kiribati; the US Ambassador to Fiji is accredited to Kiribati"
+      "embassy": {
+        "text": "the US does not have an embassy in Kiribati; the US Ambassador to Fiji is accredited to Kiribati"
+      }
     },
     "Flag description": {
       "text": "the upper half is red with a yellow frigatebird flying over a yellow rising sun, and the lower half is blue with three horizontal wavy white stripes to represent the Pacific ocean; the white stripes represent the three island groups - the Gilbert, Line, and Phoenix Islands; the 17 rays of the sun represent the 16 Gilbert Islands and Banaba (formerly Ocean Island); the frigatebird symbolizes authority and freedom"
@@ -490,32 +486,58 @@
       "lyrics/music": {
         "text": "Urium Tamuera IOTEBA"
       },
-      "note": "note: adopted 1979"
+      "note": "<p><strong>note:</strong> adopted 1979</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "A remote country of 33 scattered coral atolls, Kiribati has few natural resources and is one of the least developed Pacific Island countries. Commercially viable phosphate deposits were exhausted by the time of independence from the United Kingdom in 1979. Earnings from fishing licenses and seafarer remittances are important sources of income. Although the number of seafarers employed declined due to changes in global shipping demands, remittances are expected to improve with more overseas temporary and seasonal work opportunities for Kiribati nationals. ++ Economic development is constrained by a shortage of skilled workers, weak infrastructure, and remoteness from international markets. The public sector dominates economic activity, with ongoing capital projects in infrastructure including road rehabilitation, water and sanitation projects, and renovations to the international airport, spurring some growth. Public debt increased from 23% of GDP at the end of 2015 to 25.8% in 2016. ++ Kiribati is dependent on foreign aid, which was estimated to have contributed over 32.7% in 2016 to the government's finances. The country's sovereign fund, the Revenue Equalization Reserve Fund (RERF), which is held offshore, had an estimated balance of $855.5 million in late July 2016. The RERF seeks to avoid exchange rate risk by holding investments in more than 20 currencies, including the Australian dollar, US dollar, the Japanese yen, and the Euro. Drawdowns from the RERF helped finance the government's annual budget."
+      "text": "<p>A remote country of 33 scattered coral atolls, Kiribati has few natural resources and is one of the least developed Pacific Island countries. Commercially viable phosphate deposits were exhausted by the time of independence from the United Kingdom in 1979. Earnings from fishing licenses and seafarer remittances are important sources of income. Although the number of seafarers employed declined due to changes in global shipping demands, remittances are expected to improve with more overseas temporary and seasonal work opportunities for Kiribati nationals.</p><p></p><p>Economic development is constrained by a shortage of skilled workers, weak infrastructure, and remoteness from international markets. The public sector dominates economic activity, with ongoing capital projects in infrastructure including road rehabilitation, water and sanitation projects, and renovations to the international airport, spurring some growth. Public debt increased from 23% of GDP at the end of 2015 to 25.8% in 2016.</p><p></p><p>Kiribati is dependent on foreign aid, which was estimated to have contributed over 32.7% in 2016 to the government’s finances. The country’s sovereign fund, the Revenue Equalization Reserve Fund (RERF), which is held offshore, had an estimated balance of $855.5 million in late July 2016. The RERF seeks to avoid exchange rate risk by holding investments in more than 20 currencies, including the Australian dollar, US dollar, the Japanese yen, and the Euro. Drawdowns from the RERF helped finance the government’s annual budget.</p>"
     },
-    "GDP real growth rate": {
-      "text": "3.1% (2017 est.) / 1.1% (2016 est.) / 10.3% (2015 est.)",
-      "country comparison to the world": 96
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2017": {
+        "text": "3.1% (2017 est.)"
+      },
+      "Real GDP growth rate 2016": {
+        "text": "1.1% (2016 est.)"
+      },
+      "Real GDP growth rate 2015": {
+        "text": "10.3% (2015 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "0.4% (2017 est.) / 1.9% (2016 est.)",
-      "country comparison to the world": 40
+      "Inflation rate (consumer prices) 2017": {
+        "text": "0.4% (2017 est.)"
+      },
+      "Inflation rate (consumer prices) 2016": {
+        "text": "1.9% (2016 est.)"
+      }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$227 million (2017 est.) / $220.2 million (2016 est.) / $217.7 million (2015 est.)",
-      "note": "note: data are in 2017 dollars"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2019": {
+        "text": "$267 million (2019 est.)"
+      },
+      "Real GDP (purchasing power parity) 2018": {
+        "text": "$261 million (2018 est.)"
+      },
+      "Real GDP (purchasing power parity) 2017": {
+        "text": "$255 million (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2017 dollars</p>"
     },
     "GDP (official exchange rate)": {
       "text": "$197 million (2017 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$2,000 (2017 est.) / $2,000 (2016 est.) / $2,000 (2015 est.)",
-      "note": "note: data are in 2017 dollars",
-      "country comparison to the world": 192
+    "Real GDP per capita": {
+      "Real GDP per capita 2019": {
+        "text": "$2,272 (2019 est.)"
+      },
+      "Real GDP per capita 2018": {
+        "text": "$2,256 (2018 est.)"
+      },
+      "Real GDP per capita 2017": {
+        "text": "$2,237 (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2017 dollars</p>"
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -529,22 +551,22 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "text": "78.4 (2020)"
+      "Overall Ease of Doing Business score 2020": {
+        "text": "78.4 (2020)"
+      }
     },
-    "Agriculture - products": {
-      "text": "copra, breadfruit, fish"
+    "Agricultural products": {
+      "text": "coconuts, roots/tubers nes, bananas, vegetables, taro, tropical fruit, poultry, pork, nuts, eggs"
     },
     "Industries": {
       "text": "fishing, handicrafts"
     },
     "Industrial production growth rate": {
-      "text": "1.1% (2012 est.)",
-      "country comparison to the world": 153
+      "text": "1.1% (2012 est.)"
     },
     "Labor force": {
       "text": "39,000 (2010 est.)",
-      "note": "note: economically active, not including subsistence farmers",
-      "country comparison to the world": 197
+      "note": "<p><strong>note:</strong> economically active, not including subsistence farmers</p>"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -558,8 +580,12 @@
       }
     },
     "Unemployment rate": {
-      "text": "30.6% (2010 est.) / 6.1% (2005)",
-      "country comparison to the world": 209
+      "Unemployment rate 2010": {
+        "text": "30.6% (2010 est.)"
+      },
+      "Unemployment rate 2005": {
+        "text": "6.1% (2005)"
+      }
     },
     "Population below poverty line": {
       "text": "NA"
@@ -581,27 +607,37 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "76.8% (of GDP) (2017 est.)",
-      "country comparison to the world": 4
+      "text": "76.8% (of GDP) (2017 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-64.1% (of GDP) (2017 est.)",
-      "country comparison to the world": 221
+      "text": "-64.1% (of GDP) (2017 est.)"
     },
     "Public debt": {
-      "text": "26.3% of GDP (2017 est.) / 22.9% of GDP (2016 est.)",
-      "country comparison to the world": 172
+      "Public debt 2017": {
+        "text": "26.3% of GDP (2017 est.)"
+      },
+      "Public debt 2016": {
+        "text": "22.9% of GDP (2016 est.)"
+      }
     },
     "Fiscal year": {
       "text": "NA"
     },
     "Current account balance": {
-      "text": "$18 million (2017 est.) / $35 million (2016 est.)",
-      "country comparison to the world": 61
+      "Current account balance 2017": {
+        "text": "$18 million (2017 est.)"
+      },
+      "Current account balance 2016": {
+        "text": "$35 million (2016 est.)"
+      }
     },
     "Exports": {
-      "text": "$84.75 million (2013 est.) / $62.31 million (2012 est.)",
-      "country comparison to the world": 201
+      "Exports 2013": {
+        "text": "$84.75 million (2013 est.)"
+      },
+      "Exports 2012": {
+        "text": "$62.31 million (2012 est.)"
+      }
     },
     "Exports - partners": {
       "text": "Philippines 50.8%, Malaysia 17.2%, US 11.4%, Bangladesh 5.8%, Fiji 5.4% (2017)"
@@ -610,26 +646,55 @@
       "text": "fish, coconut products"
     },
     "Imports": {
-      "text": "$107.1 million (2016 est.) / $182.2 million (2013 est.)",
-      "country comparison to the world": 215
-    },
-    "Imports - commodities": {
-      "text": "food, machinery and equipment, miscellaneous manufactured goods, fuel"
+      "Imports 2016": {
+        "text": "$107.1 million (2016 est.)"
+      },
+      "Imports 2013": {
+        "text": "$182.2 million (2013 est.)"
+      }
     },
     "Imports - partners": {
       "text": "Australia 29.3%, Fiji 17.3%, NZ 10.7%, China 5.8%, US 5.8%, Singapore 5.1%, Japan 4.6%, Thailand 4.1% (2017)"
     },
+    "Imports - commodities": {
+      "text": "food, machinery and equipment, miscellaneous manufactured goods, fuel"
+    },
     "Reserves of foreign exchange and gold": {
-      "text": "$0 (31 December 2017 est.) / $8.37 million (31 December 2010 est.)",
-      "country comparison to the world": 192
+      "Reserves of foreign exchange and gold 31 December 2017": {
+        "text": "$0 (31 December 2017 est.)"
+      },
+      "Reserves of foreign exchange and gold 31 December 2010": {
+        "text": "$8.37 million (31 December 2010 est.)"
+      }
     },
     "Debt - external": {
-      "text": "$40.9 million (2016 est.) / $32.3 million (2015 est.)",
-      "country comparison to the world": 196
+      "Debt - external 2016": {
+        "text": "$40.9 million (2016 est.)"
+      },
+      "Debt - external 2015": {
+        "text": "$32.3 million (2015 est.)"
+      }
     },
     "Exchange rates": {
-      "text": "Australian dollars (AUD) per US dollar - / 1.31 (2017 est.) / 1.34 (2016 est.) / 1.34 (2015 est.) / 1.33 (2014 est.) / 1.11 (2013 est.)",
-      "note": "note: the Australian dollar circulates as legal tender"
+      "currency": {
+        "text": "Australian dollars (AUD) per US dollar -"
+      },
+      "Exchange rates 2017": {
+        "text": "1.31 (2017 est.)"
+      },
+      "Exchange rates 2016": {
+        "text": "1.34 (2016 est.)"
+      },
+      "Exchange rates 2015": {
+        "text": "1.34 (2015 est.)"
+      },
+      "Exchange rates 2014": {
+        "text": "1.33 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "1.11 (2013 est.)"
+      },
+      "note": "<br><br><strong>note:</strong> the Australian dollar circulates as legal tender"
     }
   },
   "Energy": {
@@ -639,96 +704,73 @@
       }
     },
     "Electricity - production": {
-      "text": "29 million kWh (2016 est.)",
-      "country comparison to the world": 210
+      "text": "29 million kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "26.97 million kWh (2016 est.)",
-      "country comparison to the world": 210
+      "text": "26.97 million kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 153
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - imports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 164
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "11,000 kW (2016 est.)",
-      "country comparison to the world": 208
+      "text": "11,000 kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "73% of total installed capacity (2016 est.)",
-      "country comparison to the world": 98
+      "text": "73% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 119
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 181
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "27% of total installed capacity (2017 est.)",
-      "country comparison to the world": 25
+      "text": "27% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "0 bbl/day (2018 est.)",
-      "country comparison to the world": 155
+      "text": "0 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 146
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - imports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 146
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2018 est.)",
-      "country comparison to the world": 151
+      "text": "0 bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 160
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "400 bbl/day (2016 est.)",
-      "country comparison to the world": 210
+      "text": "400 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 167
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "420 bbl/day (2015 est.)",
-      "country comparison to the world": 206
+      "text": "420 bbl/day (2015 est.)"
     },
     "Natural gas - production": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 151
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 162
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 129
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 143
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "0 cu m (1 January 2014 est.)",
-      "country comparison to the world": 152
+      "text": "0 cu m (1 January 2014 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "58,850 Mt (2017 est.)",
-      "country comparison to the world": 208
+      "text": "58,850 Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -738,8 +780,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "less than 1 (2019 est.)"
-      },
-      "country comparison to the world": 221
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -747,8 +788,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "46.48 (2019 est.)"
-      },
-      "country comparison to the world": 205
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
@@ -760,7 +800,7 @@
       "international": {
         "text": "country code - 686; landing point for the Southern Cross NEXT submarine cable system from Australia, 7 Pacific Ocean island countries to the US; satellite earth station - 1 Intelsat (Pacific Ocean) (2019)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "multi-channel TV packages provide access to Australian and US stations; 1 government-operated radio station broadcasts on AM, FM, and shortwave (2017)"
@@ -774,8 +814,7 @@
       },
       "percent of population": {
         "text": "14.58% (July 2018 est.)"
-      },
-      "country comparison to the world": 212
+      }
     },
     "Broadband - fixed subscriptions": {
       "total": {
@@ -783,8 +822,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "1 less than 1 (2018 est.)"
-      },
-      "country comparison to the world": 198
+      }
     }
   },
   "Transportation": {
@@ -803,8 +841,9 @@
       "text": "T3 (2016)"
     },
     "Airports": {
-      "text": "19 (2013)",
-      "country comparison to the world": 136
+      "total": {
+        "text": "19 (2013)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -828,21 +867,18 @@
     "Roadways": {
       "total": {
         "text": "670 km (2017)"
-      },
-      "country comparison to the world": 190
+      }
     },
     "Waterways": {
-      "text": "5 km (small network of canals in Line Islands) (2012)",
-      "country comparison to the world": 107
+      "text": "5 km (small network of canals in Line Islands) (2012)"
     },
     "Merchant marine": {
       "total": {
-        "text": "89"
+        "text": "87"
       },
       "by type": {
-        "text": "bulk carrier 1general cargo 34, oil tanker 11, other 43 (2019)"
-      },
-      "country comparison to the world": 96
+        "text": "bulk carrier 2, general cargo 38, oil tanker 10, other 37 (2020)"
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -860,7 +896,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "none"
+      "text": "<p>none</p>"
     }
   }
 }

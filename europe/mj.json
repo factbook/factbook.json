@@ -23,8 +23,7 @@
       },
       "water": {
         "text": "360 sq km"
-      },
-      "country comparison to the world": 161
+      }
     },
     "Area - comparative": {
       "text": "slightly smaller than Connecticut; slightly larger than twice the size of Delaware"
@@ -72,8 +71,14 @@
       "agricultural land": {
         "text": "38.2% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "12.9% (2011 est.) / 1.2% (2011 est.) / 24.1% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 12.9% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 1.2% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 24.1% (2011 est.)"
       },
       "forest": {
         "text": "40.4% (2011 est.)"
@@ -108,8 +113,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "609,859 (July 2020 est.)",
-      "country comparison to the world": 170
+      "text": "607,414 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -168,24 +172,19 @@
       },
       "female": {
         "text": "41.1 years (2020 est.)"
-      },
-      "country comparison to the world": 54
+      }
     },
     "Population growth rate": {
-      "text": "-0.37% (2020 est.)",
-      "country comparison to the world": 220
+      "text": "-0.4% (2021 est.)"
     },
     "Birth rate": {
-      "text": "11.5 births/1,000 population (2020 est.)",
-      "country comparison to the world": 170
+      "text": "11.35 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "10.4 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 30
+      "text": "10.37 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "-4.9 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 195
+      "text": "-4.95 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "highest population density is concentrated in the south, southwest; the extreme eastern border is the least populated area"
@@ -228,46 +227,54 @@
       "text": "26.3 years (2010 est.)"
     },
     "Maternal mortality rate": {
-      "text": "6 deaths/100,000 live births (2017 est.)",
-      "country comparison to the world": 162
+      "text": "6 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "3.4 deaths/1,000 live births"
+        "text": "3.29 deaths/1,000 live births"
       },
       "male": {
-        "text": "2.8 deaths/1,000 live births"
+        "text": "2.75 deaths/1,000 live births"
       },
       "female": {
-        "text": "4 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 201
+        "text": "3.85 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "77.3 years"
+        "text": "77.51 years"
       },
       "male": {
-        "text": "74.8 years"
+        "text": "75.06 years"
       },
       "female": {
-        "text": "79.8 years (2020 est.)"
-      },
-      "country comparison to the world": 84
+        "text": "80.04 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "1.82 children born/woman (2020 est.)",
-      "country comparison to the world": 147
+      "text": "1.82 children born/woman (2021 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "20.7% (2018)"
     },
     "Drinking water source": {
-      "improved": {
-        "text": "urban: 100% of population / rural: 100% of population / total: 99.8% of population"
+      "improved: urban": {
+        "text": "urban: 100% of population"
       },
-      "unimproved": {
-        "text": "urban: 0% of population / rural: 0% of population / total: 0.2% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 100% of population"
+      },
+      "improved: total": {
+        "text": "total: 99.8% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 0% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 0% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 0.2% of population (2017 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -280,11 +287,23 @@
       "text": "3.9 beds/1,000 population (2017)"
     },
     "Sanitation facility access": {
-      "improved": {
-        "text": "urban: 100% of population / rural: 93.9% of population / total: 97.8% of population"
+      "improved: urban": {
+        "text": "urban: 100% of population"
       },
-      "unimproved": {
-        "text": "urban: 0% of population / rural: 6.1% of population / total: 2.2% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 93.9% of population"
+      },
+      "improved: total": {
+        "text": "total: 97.8% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 0% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 6.1% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 2.2% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -308,12 +327,10 @@
       }
     },
     "Obesity - adult prevalence rate": {
-      "text": "23.3% (2016)",
-      "country comparison to the world": 66
+      "text": "23.3% (2016)"
     },
     "Children under the age of 5 years underweight": {
-      "text": "1% (2013)",
-      "country comparison to the world": 127
+      "text": "1% (2013)"
     },
     "Education expenditures": {
       "text": "NA"
@@ -352,8 +369,7 @@
       },
       "female": {
         "text": "23.6% (2018 est.)"
-      },
-      "country comparison to the world": 34
+      }
     }
   },
   "Government": {
@@ -393,7 +409,7 @@
       "daylight saving time": {
         "text": "+1 hr, begins last Sunday in March; ends last Sunday in October"
       },
-      "note": "etymology: the name translates as \"beneath Gorica\"; the meaning of Gorica is \"hillock\"; the reference is to the small hill named Gorica that the city is built around"
+      "note": "<br><br><strong>etymology:</strong> the name translates as \"beneath Gorica\"; the meaning of Gorica is \"hillock\"; the reference is to the small hill named Gorica that the city is built around"
     },
     "Administrative divisions": {
       "text": "24 municipalities (opstine, singular - opstina); Andrijevica, Bar, Berane, Bijelo Polje, Budva, Cetinje, Danilovgrad, Gusinje, Herceg Novi, Kolasin, Kotor, Mojkovac, Niksic, Petnijica, Plav, Pljevlja, Pluzine, Podgorica, Rozaje, Savnik, Tivat, Tuzi, Ulcinj, Zabljak"
@@ -475,7 +491,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Albanian Alternative or AA [Nik DJELOSAJ] ++ Albanian Coalition (includes DP, DSCG, DUA) ++ Albanian Coalition Perspective or AKP ++ Albanian List (coalition includes AA, Forca, AKP, DSA) ++ Bosniak Party or BS [Rafet HUSOVIC] ++ Croatian Civic Initiative or HGI [Marija VUCINOVIC] ++ Croatian Reform Party [Marija VUCINOVIC] ++ Democratic Alliance or DEMOS [Miodrag LEKIC] ++ Democratic Front or DF [collective leadership] (coalition includes NOVA, PZP, DNP, RP) ++ Democratic League in Montenegro or DSCG [Mehmet BARDHI] ++ Democratic League of Albanians or DSA ++ Democratic Montenegro or DCG [Alexsa BECIC] ++ Democratic Party or DP [Fatmir GJEKA] ++ Democratic Party of Socialists or DPS [Milo DJUKANOVIC] ++ Democratic Party of Unity or DSJ [Nebojsa JUSKOVIC] ++ Democratic People's Party or DNP [Milan KNEZEVIC] ++ Democratic Serb Party or DSS [Dragica PEROVIC] ++ Democratic Union of Albanians or DUA [Mehmet ZENKA] ++ For the Future of Montenegro or ZBCG [Zdravko KRIVOKAPIC] (electoral coalition includes SNP and 2 alliances - DF, NP) ++ Liberal Party or LP [Andrija POPOVIC] ++ Movement for Change or PZP [Nebojsa MEDOJEVIC] ++ New Democratic Power or FORCA [Nazif CUNGU] ++ New Serb Democracy or NOVA [Andrija MANDIC] ++ Party of Pensioners, Disabled, and Restitution or PUPI [Momir JOKSIMOVIC] ++ Peace is Our Nation or MNIM [Alexa BECIC] (coalition includes Democrats, DEMOS, New Left, PUPI) ++ Popular Movement or NP [Miodrag DAVIDOVIC] (coalition includes DEMOS, RP, UCG, and several minor parties) ++ Social Democratic Party or SDP [Ranko KRIVOKAPIC] ++ Social Democrats or SD [Ivan BRAJOVIC] ++ Socialist People's Party or SNP [Vladimir JOKOVIC] ++ True Montenegro or PRAVA [Marko MILACIC] ++ United Montenegro or UCG [Goran DANILOVIC] (split from DEMOS) ++ United Reform Action or URA [Dritan ABAZOVIC] ++ Workers' Party or RP [Janko VUCINIC]"
+      "text": "Albanian Alternative or AA [Nik DJELOSAJ]<br />Albanian Coalition (includes DP, DSCG, DUA)<br />Albanian Coalition Perspective or AKP<br />Albanian List (coalition includes AA, Forca, AKP, DSA)<br />Bosniak Party or BS [Rafet HUSOVIC]<br />Croatian Civic Initiative or HGI [Marija VUCINOVIC]<br />Croatian Reform Party [Marija VUCINOVIC]<br />Democratic Alliance or DEMOS [Miodrag LEKIC]<br />Democratic Front or DF [collective leadership] (coalition includes NOVA, PZP, DNP, RP)<br />Democratic League in Montenegro or DSCG [Mehmet BARDHI]<br />Democratic League of Albanians or DSA<br />Democratic Montenegro or DCG [Alexsa BECIC]<br />Democratic Party or DP [Fatmir GJEKA]<br />Democratic Party of Socialists or DPS [Milo DJUKANOVIC]<br />Democratic Party of Unity or DSJ [Nebojsa JUSKOVIC]<br />Democratic People's Party or DNP [Milan KNEZEVIC]<br />Democratic Serb Party or DSS [Dragica PEROVIC]<br />Democratic Union of Albanians or DUA [Mehmet ZENKA]<br />For the Future of Montenegro or ZBCG [Zdravko KRIVOKAPIC] (electoral coalition includes SNP and 2 alliances - DF, NP)<br />Liberal Party or LP [Andrija POPOVIC]<br />Movement for Change or PZP [Nebojsa MEDOJEVIC]<br />New Democratic Power or FORCA [Nazif CUNGU]<br />New Serb Democracy or NOVA [Andrija MANDIC]<br />Party of Pensioners, Disabled, and Restitution or PUPI [Momir JOKSIMOVIC]<br />Peace is Our Nation or MNIM [Alexa BECIC] (coalition includes Democrats, DEMOS, New Left, PUPI)<br />Popular Movement or NP [Miodrag DAVIDOVIC] (coalition includes DEMOS, RP, UCG, and several minor parties)<br />Social Democratic Party or SDP [Ranko KRIVOKAPIC]<br />Social Democrats or SD [Ivan BRAJOVIC]<br />Socialist People's Party or SNP [Vladimir JOKOVIC]<br />True Montenegro or PRAVA [Marko MILACIC]<br />United Montenegro or UCG [Goran DANILOVIC] (split from DEMOS)<br />United Reform Action or URA [Dritan ABAZOVIC]<br />Workers' Party or RP [Janko VUCINIC]"
     },
     "International organization participation": {
       "text": "CE, CEI, EAPC, EBRD, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, OAS (observer), OIF (observer), OPCW, OSCE, PCA, PFP, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
@@ -511,7 +527,7 @@
         "text": "use embassy street address"
       },
       "FAX": {
-        "text": "[382] 20-241-358"
+        "text": "[382]&nbsp; 20-241-358"
       }
     },
     "Flag description": {
@@ -527,20 +543,34 @@
       "lyrics/music": {
         "text": "Sekula DRLJEVIC/unknown, arranged by Zarko MIKOVIC"
       },
-      "note": "note: adopted 2004; music based on a Montenegrin folk song"
+      "note": "<p><strong>note:</strong> adopted 2004; music based on a Montenegrin folk song</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "Montenegro's economy is transitioning to a market system. Around 90% of Montenegrin state-owned companies have been privatized, including 100% of banking, telecommunications, and oil distribution. Tourism, which accounts for more than 20% of Montenegro's GDP, brings in three times as many visitors as Montenegro's total population every year. Several new luxury tourism complexes are in various stages of development along the coast, and a number are being offered in connection with nearby boating and yachting facilities. In addition to tourism, energy and agriculture are considered two distinct pillars of the economy. Only 20% of Montenegro's hydropower potential is utilized. Montenegro plans to become a net energy exporter, and the construction of an underwater cable to Italy, which will be completed by the end of 2018, will help meet its goal. ++ Montenegro uses the euro as its domestic currency, though it is not an official member of the euro zone. In January 2007, Montenegro joined the World Bank and IMF, and in December 2011, the WTO. Montenegro began negotiations to join the EU in 2012, having met the conditions set down by the European Council, which called on Montenegro to take steps to fight corruption and organized crime. ++ The government recognizes the need to remove impediments in order to remain competitive and open the economy to foreign investors. Net foreign direct investment in 2017 reached $848 million and investment per capita is one of the highest in Europe, due to a low corporate tax rate. The biggest foreign investors in Montenegro in 2017 were Norway, Russia, Italy, Azerbaijan and Hungary. ++ Montenegro is currently planning major overhauls of its road and rail networks, and possible expansions of its air transportation system. In 2014, the Government of Montenegro selected two Chinese companies to construct a 41 km-long section of the country's highway system, which will become part of China's Belt and Road Initiative. Cheaper borrowing costs have stimulated Montenegro's growing debt, which currently sits at 65.9% of GDP, with a forecast, absent fiscal consolidation, to increase to 80% once the repayment to China's Ex/Im Bank of a €800 million highway loan begins in 2019. Montenegro first instituted a value-added tax (VAT) in April 2003, and introduced differentiated VAT rates of 17% and 7% (for tourism) in January 2006. The Montenegrin Government increased the non-tourism Value Added Tax (VAT) rate to 21% as of January 2018, with the goal of reducing its public debt."
+      "text": "<p>Montenegro's economy is transitioning to a market system. Around 90% of Montenegrin state-owned companies have been privatized, including 100% of banking, telecommunications, and oil distribution. Tourism, which accounts for more than 20% of Montenegro’s GDP, brings in three times as many visitors as Montenegro’s total population every year. Several new luxury tourism complexes are in various stages of development along the coast, and a number are being offered in connection with nearby boating and yachting facilities. In addition to tourism, energy and agriculture are considered two distinct pillars of the economy. Only 20% of Montenegro’s hydropower potential is utilized. Montenegro plans to become a net energy exporter, and the construction of an underwater cable to Italy, which will be completed by the end of 2018, will help meet its goal.</p><p></p><p>Montenegro uses the euro as its domestic currency, though it is not an official member of the euro zone. In January 2007, Montenegro joined the World Bank and IMF, and in December 2011, the WTO. Montenegro began negotiations to join the EU in 2012, having met the conditions set down by the European Council, which called on Montenegro to take steps to fight corruption and organized crime.</p><p></p><p>The government recognizes the need to remove impediments in order to remain competitive and open the economy to foreign investors. Net foreign direct investment in 2017 reached $848 million and investment per capita is one of the highest in Europe, due to a low corporate tax rate. The biggest foreign investors in Montenegro in 2017 were Norway, Russia, Italy, Azerbaijan and Hungary.</p><p></p><p>Montenegro is currently planning major overhauls of its road and rail networks, and possible expansions of its air transportation system. In 2014, the Government of Montenegro selected two Chinese companies to construct a 41 km-long section of the country’s highway system, which will become part of China’s Belt and Road Initiative. Cheaper borrowing costs have stimulated Montenegro’s growing debt, which currently sits at 65.9% of GDP, with a forecast, absent fiscal consolidation, to increase to 80% once the repayment to China’s Ex/Im Bank of a €800 million highway loan begins in 2019. Montenegro first instituted a value-added tax (VAT) in April 2003, and introduced differentiated VAT rates of 17% and 7% (for tourism) in January 2006. The Montenegrin Government increased the non-tourism Value Added Tax (VAT) rate to 21% as of January 2018, with the goal of reducing its public debt.</p>"
     },
-    "GDP real growth rate": {
-      "text": "4.3% (2017 est.) / 2.9% (2016 est.) / 3.4% (2015 est.)",
-      "country comparison to the world": 67
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2017": {
+        "text": "4.3% (2017 est.)"
+      },
+      "Real GDP growth rate 2016": {
+        "text": "2.9% (2016 est.)"
+      },
+      "Real GDP growth rate 2015": {
+        "text": "3.4% (2015 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "0.3% (2019 est.) / 2.6% (2018 est.) / 2.3% (2017 est.)",
-      "country comparison to the world": 35
+      "Inflation rate (consumer prices) 2019": {
+        "text": "0.3% (2019 est.)"
+      },
+      "Inflation rate (consumer prices) 2018": {
+        "text": "2.6% (2018 est.)"
+      },
+      "Inflation rate (consumer prices) 2017": {
+        "text": "2.3% (2017 est.)"
+      }
     },
     "Credit ratings": {
       "Moody's rating": {
@@ -550,21 +580,43 @@
         "text": "B+ (2014)"
       }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$11.08 billion (2017 est.) / $10.63 billion (2016 est.) / $10.32 billion (2015 est.)",
-      "note": "note: data are in 2017 dollars"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2019": {
+        "text": "$13.357 billion (2019 est.)"
+      },
+      "Real GDP (purchasing power parity) 2018": {
+        "text": "$12.835 billion (2018 est.)"
+      },
+      "Real GDP (purchasing power parity) 2017": {
+        "text": "$12.215 billion (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2017 dollars</p>"
     },
     "GDP (official exchange rate)": {
       "text": "$5.486 billion (2019 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$17,800 (2017 est.) / $17,100 (2016 est.) / $16,600 (2015 est.)",
-      "note": "note: data are in 2017 dollars",
-      "country comparison to the world": 79
+    "Real GDP per capita": {
+      "Real GDP per capita 2019": {
+        "text": "$21,470 (2019 est.)"
+      },
+      "Real GDP per capita 2018": {
+        "text": "$20,629 (2018 est.)"
+      },
+      "Real GDP per capita 2017": {
+        "text": "$19,627 (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2017 dollars</p>"
     },
     "Gross national saving": {
-      "text": "13.2% of GDP (2017 est.) / 9.9% of GDP (2016 est.) / 9.1% of GDP (2015 est.)",
-      "country comparison to the world": 144
+      "Gross national saving 2017": {
+        "text": "13.2% of GDP (2017 est.)"
+      },
+      "Gross national saving 2016": {
+        "text": "9.9% of GDP (2016 est.)"
+      },
+      "Gross national saving 2015": {
+        "text": "9.1% of GDP (2015 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -598,21 +650,21 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "text": "86.7 (2020)"
+      "Overall Ease of Doing Business score 2020": {
+        "text": "86.7 (2020)"
+      }
     },
-    "Agriculture - products": {
-      "text": "tobacco, potatoes, citrus fruits, olives and related products, grapes; sheep, wine"
+    "Agricultural products": {
+      "text": "milk, potatoes, grapes, vegetables, tomatoes, watermelons, wheat, apples, cabbages, barley"
     },
     "Industries": {
       "text": "steelmaking, aluminum, agricultural processing, consumer goods, tourism"
     },
     "Industrial production growth rate": {
-      "text": "-4.2% (2017 est.)",
-      "country comparison to the world": 194
+      "text": "-4.2% (2017 est.)"
     },
     "Labor force": {
-      "text": "167,000 (2020 est.)",
-      "country comparison to the world": 174
+      "text": "167,000 (2020 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -626,11 +678,23 @@
       }
     },
     "Unemployment rate": {
-      "text": "15.82% (2019 est.) / 18.8% (2018 est.)",
-      "country comparison to the world": 178
+      "Unemployment rate 2019": {
+        "text": "15.82% (2019 est.)"
+      },
+      "Unemployment rate 2018": {
+        "text": "18.8% (2018 est.)"
+      }
     },
     "Population below poverty line": {
       "text": "8.6% (2013 est.)"
+    },
+    "Gini Index coefficient - distribution of family income": {
+      "Gini Index coefficient - distribution of family income 2015": {
+        "text": "39 (2015 est.)"
+      },
+      "Gini Index coefficient - distribution of family income 2013": {
+        "text": "32.3 (2013 est.)"
+      }
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
@@ -649,43 +713,82 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "37.2% (of GDP) (2017 est.)",
-      "country comparison to the world": 55
+      "text": "37.2% (of GDP) (2017 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-5.6% (of GDP) (2017 est.)",
-      "country comparison to the world": 175
+      "text": "-5.6% (of GDP) (2017 est.)"
     },
     "Public debt": {
-      "text": "67.2% of GDP (2017 est.) / 66.4% of GDP (2016 est.)",
-      "note": "note: data cover general government debt, and includes debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions",
-      "country comparison to the world": 55
+      "Public debt 2017": {
+        "text": "67.2% of GDP (2017 est.)"
+      },
+      "Public debt 2016": {
+        "text": "66.4% of GDP (2016 est.)"
+      },
+      "note": "<p><strong>note:</strong> data cover general government debt, and includes debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions</p>"
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Current account balance": {
-      "text": "-$780 million (2017 est.) / -$710 million (2016 est.)",
-      "country comparison to the world": 137
+      "Current account balance 2017": {
+        "text": "-$780 million (2017 est.)"
+      },
+      "Current account balance 2016": {
+        "text": "-$710 million (2016 est.)"
+      }
     },
     "Exports": {
-      "text": "$422.2 million (2017 est.) / $362 million (2016 est.)",
-      "country comparison to the world": 180
+      "Exports 2017": {
+        "text": "$422.2 million (2017 est.)"
+      },
+      "Exports 2016": {
+        "text": "$362 million (2016 est.)"
+      }
     },
     "Imports": {
-      "text": "$2.618 billion (2017 est.) / $2.29 billion (2016 est.)",
-      "country comparison to the world": 159
+      "Imports 2017": {
+        "text": "$2.618 billion (2017 est.)"
+      },
+      "Imports 2016": {
+        "text": "$2.29 billion (2016 est.)"
+      }
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$1.077 billion (31 December 2017 est.) / $846.5 million (31 December 2016 est.)",
-      "country comparison to the world": 131
+      "Reserves of foreign exchange and gold 31 December 2017": {
+        "text": "$1.077 billion (31 December 2017 est.)"
+      },
+      "Reserves of foreign exchange and gold 31 December 2016": {
+        "text": "$846.5 million (31 December 2016 est.)"
+      }
     },
     "Debt - external": {
-      "text": "$2.516 billion (31 December 2017 est.) / $2.224 billion (31 December 2016 est.)",
-      "country comparison to the world": 148
+      "Debt - external 31 December 2017": {
+        "text": "$2.516 billion (31 December 2017 est.)"
+      },
+      "Debt - external 31 December 2016": {
+        "text": "$2.224 billion (31 December 2016 est.)"
+      }
     },
     "Exchange rates": {
-      "text": "euros (EUR) per US dollar - / 0.885 (2017 est.) / 0.903 (2016 est.) / 0.9214 (2015 est.) / 0.885 (2014 est.) / 0.7634 (2013 est.)"
+      "currency": {
+        "text": "euros (EUR) per US dollar -"
+      },
+      "Exchange rates 2017": {
+        "text": "0.885 (2017 est.)"
+      },
+      "Exchange rates 2016": {
+        "text": "0.903 (2016 est.)"
+      },
+      "Exchange rates 2015": {
+        "text": "0.9214 (2015 est.)"
+      },
+      "Exchange rates 2014": {
+        "text": "0.885 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "0.7634 (2013 est.)"
+      }
     }
   },
   "Energy": {
@@ -695,96 +798,73 @@
       }
     },
     "Electricity - production": {
-      "text": "3.045 billion kWh (2016 est.)",
-      "country comparison to the world": 132
+      "text": "3.045 billion kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "2.808 billion kWh (2016 est.)",
-      "country comparison to the world": 138
+      "text": "2.808 billion kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "914 million kWh (2016 est.)",
-      "country comparison to the world": 59
+      "text": "914 million kWh (2016 est.)"
     },
     "Electricity - imports": {
-      "text": "1.21 billion kWh (2016 est.)",
-      "country comparison to the world": 65
+      "text": "1.21 billion kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "890,000 kW (2016 est.)",
-      "country comparison to the world": 133
+      "text": "890,000 kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "23% of total installed capacity (2016 est.)",
-      "country comparison to the world": 191
+      "text": "23% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 146
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "69% of total installed capacity (2017 est.)",
-      "country comparison to the world": 18
+      "text": "69% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "8% of total installed capacity (2017 est.)",
-      "country comparison to the world": 88
+      "text": "8% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "0 bbl/day (2018 est.)",
-      "country comparison to the world": 176
+      "text": "0 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 167
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - imports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 169
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2018 est.)",
-      "country comparison to the world": 171
+      "text": "0 bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 180
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "6,000 bbl/day (2016 est.)",
-      "country comparison to the world": 172
+      "text": "6,000 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "357 bbl/day (2015 est.)",
-      "country comparison to the world": 114
+      "text": "357 bbl/day (2015 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "6,448 bbl/day (2015 est.)",
-      "country comparison to the world": 163
+      "text": "6,448 bbl/day (2015 est.)"
     },
     "Natural gas - production": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 173
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 177
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 154
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 159
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "0 cu m (2016 est.)",
-      "country comparison to the world": 172
+      "text": "0 cu m (2016 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "2.287 million Mt (2017 est.)",
-      "country comparison to the world": 156
+      "text": "2.287 million Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -794,8 +874,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "29.96 (2019 est.)"
-      },
-      "country comparison to the world": 124
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -803,8 +882,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "183.28 (2019 est.)"
-      },
-      "country comparison to the world": 160
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
@@ -816,10 +894,10 @@
       "international": {
         "text": "country code - 382; 2 international switches connect the national system"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
-      "text": "state-funded national radio-TV broadcaster operates 2 terrestrial TV networks, 1 satellite TV channel, and 2 radio networks; 4 local public TV stations and 14 private TV stations; 14 local public radio stations, 35 private radio stations, and several on-line media (2019)"
+      "text": "state-funded national radio-TV broadcaster operates 2 terrestrial TV networks, 1 satellite TV channel, and 2 radio networks;&nbsp;4 local public TV stations and 14 private TV stations; 14 local public radio stations, 35 private radio stations, and&nbsp;several on-line media (2019)"
     },
     "Internet country code": {
       "text": ".me"
@@ -830,8 +908,7 @@
       },
       "percent of population": {
         "text": "71.52% (July 2018 est.)"
-      },
-      "country comparison to the world": 155
+      }
     },
     "Broadband - fixed subscriptions": {
       "total": {
@@ -839,8 +916,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "26 (2018 est.)"
-      },
-      "country comparison to the world": 115
+      }
     }
   },
   "Transportation": {
@@ -862,8 +938,9 @@
       "text": "4O (2016)"
     },
     "Airports": {
-      "text": "5 (2013)",
-      "country comparison to the world": 181
+      "total": {
+        "text": "5 (2013)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -891,8 +968,7 @@
       },
       "standard gauge": {
         "text": "250 km 1.435-m gauge (224 km electrified) (2017)"
-      },
-      "country comparison to the world": 125
+      }
     },
     "Roadways": {
       "total": {
@@ -903,17 +979,15 @@
       },
       "unpaved": {
         "text": "621 km (2010)"
-      },
-      "country comparison to the world": 139
+      }
     },
     "Merchant marine": {
       "total": {
-        "text": "12"
+        "text": "16"
       },
       "by type": {
-        "text": "bulk carrier 4, other 8 (2019)"
-      },
-      "country comparison to the world": 150
+        "text": "bulk carrier 4, other 12 (2020)"
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -926,8 +1000,21 @@
       "text": "Armed Forces of the Republic of Montenegro: Army of Montenegro (includes Ground Troops (Kopnena Vojska), Montenegrin Navy (Mornarica Crne Gore, MCG)), Air Force (2019)"
     },
     "Military expenditures": {
-      "text": "1.66% of GDP (2019 est.) / 1.39% of GDP (2018) / 1.35% of GDP (2017) / 1.42% of GDP (2016) / 1.4% of GDP (2015)",
-      "country comparison to the world": 68
+      "Military Expenditures 2019": {
+        "text": "1.66% of GDP (2019 est.)"
+      },
+      "Military Expenditures 2018": {
+        "text": "1.39% of GDP (2018)"
+      },
+      "Military Expenditures 2017": {
+        "text": "1.35% of GDP (2017)"
+      },
+      "Military Expenditures 2016": {
+        "text": "1.42% of GDP (2016)"
+      },
+      "Military Expenditures 2015": {
+        "text": "1.4% of GDP (2015)"
+      }
     },
     "Military and security service personnel strengths": {
       "text": "the Armed Forces of the Republic of Montenegro have approximately 2,400 total active duty troops (1,400 Army; 400 Navy; 200 Air Force; 400 other) (2019 est.)"
@@ -943,13 +1030,13 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "Kosovo ratified the border demarcation agreement with Montenegro in March 2018, but the actual demarcation has not been completed"
+      "text": "<p>Kosovo ratified the border demarcation agreement with Montenegro in March 2018, but the actual demarcation has not been completed</p>"
     },
     "Refugees and internally displaced persons": {
       "stateless persons": {
         "text": "142 (2019)"
       },
-      "note": "note: 17,287 estimated refugee and migrant arrivals (January 2015-December 2020)"
+      "note": "<br><br><strong>note:</strong> 17,337 estimated refugee and migrant arrivals (January 2015-December 2020)"
     }
   }
 }

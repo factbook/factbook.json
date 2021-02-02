@@ -23,14 +23,15 @@
       },
       "water": {
         "text": "0 sq km"
-      },
-      "country comparison to the world": 193
+      }
     },
     "Area - comparative": {
       "text": "slightly more than three times the size of Washington, DC"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "160 km"
@@ -64,8 +65,14 @@
       "agricultural land": {
         "text": "74.7% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "43.8% (2011 est.) / 0% (2011 est.) / 30.9% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 43.8% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 0% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 30.9% (2011 est.)"
       },
       "forest": {
         "text": "6.1% (2011 est.)"
@@ -92,8 +99,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "90,499 (July 2020 est.)",
-      "country comparison to the world": 198
+      "text": "90,895 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -138,24 +144,19 @@
       },
       "female": {
         "text": "45.6 years (2020 est.)"
-      },
-      "country comparison to the world": 12
+      }
     },
     "Population growth rate": {
-      "text": "0.59% (2020 est.)",
-      "country comparison to the world": 150
+      "text": "0.55% (2021 est.)"
     },
     "Birth rate": {
-      "text": "10.8 births/1,000 population (2020 est.)",
-      "country comparison to the world": 181
+      "text": "10.69 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "10.4 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 29
+      "text": "10.19 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "5.2 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 21
+      "text": "5.01 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "most people concentrated in cities and large towns of which Douglas, in the southeast, is the largest"
@@ -196,37 +197,34 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "3.9 deaths/1,000 live births"
+        "text": "4.31 deaths/1,000 live births"
       },
       "male": {
-        "text": "3.9 deaths/1,000 live births"
+        "text": "4.67 deaths/1,000 live births"
       },
       "female": {
-        "text": "3.9 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 190
+        "text": "3.92 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "81.6 years"
+        "text": "81.84 years"
       },
       "male": {
-        "text": "79.8 years"
+        "text": "80.01 years"
       },
       "female": {
-        "text": "83.6 years (2020 est.)"
-      },
-      "country comparison to the world": 30
+        "text": "83.8 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "1.9 children born/woman (2020 est.)",
-      "country comparison to the world": 129
+      "text": "1.9 children born/woman (2021 est.)"
     },
     "Drinking water source": {
-      "improved": {
+      "improved: total": {
         "text": "total: 100% of population"
       },
-      "unimproved": {
+      "unimproved: total": {
         "text": "total: 0% of population (2017 est.)"
       }
     },
@@ -251,8 +249,7 @@
       },
       "female": {
         "text": "8.2% (2011 est.)"
-      },
-      "country comparison to the world": 126
+      }
     }
   },
   "Government": {
@@ -289,7 +286,7 @@
       "daylight saving time": {
         "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
       },
-      "note": "etymology: name derives from the Dhoo and Glass Rivers, which flow through the valley in which the town is located and which in Manx mean the \"dark\" and the \"light\" rivers respectively"
+      "note": "<br><br><strong>etymology:</strong> name derives from the Dhoo and Glass Rivers, which flow through the valley in which the town is located and which in Manx mean the \"dark\" and the \"light\" rivers respectively"
     },
     "Administrative divisions": {
       "text": "none; there are no first-order administrative divisions as defined by the US Government, but there are 24 local authorities each with its own elections"
@@ -309,10 +306,10 @@
       }
     },
     "Legal system": {
-      "text": "the laws of the UK apply where applicable and include Manx statutes"
+      "text": "the laws of the UK&nbsp;apply where applicable and include Manx statutes"
     },
     "Citizenship": {
-      "note": "see United Kingdom"
+      "text": "see United Kingdom"
     },
     "Suffrage": {
       "text": "16 years of age; universal"
@@ -336,15 +333,15 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral Tynwald or the High Court of Tynwald consists of: Legislative Council (11 seats; includes the President of Tynwald, 2 ex-officio members - the Lord Bishop of Sodor and Man and the attorney general (non-voting) - and 8 members indirectly elected by the House of Keys with renewal of 4 members every 2 years; elected members serve 4-year terms) ++ House of Keys (24 seats; 2 members directly elected by simple majority vote from 12 constituencies to serve 5-year terms)"
+        "text": "bicameral Tynwald or the High Court of Tynwald consists of:<br />Legislative Council (11 seats; includes the President of Tynwald, 2 ex-officio members - the Lord Bishop of Sodor and Man and the attorney general (non-voting) - and 8 members indirectly elected by the House of Keys with renewal of 4 members every 2 years; elected members serve 4-year terms) <br />House of Keys (24 seats; 2 members directly elected by simple majority vote from 12 constituencies to serve 5-year terms)"
       },
       "elections": {
-        "text": "Legislative Council - last held 28 February 2018 (next to be held 12 March 2020) ++ House of Keys - last held on 22 September 2016 (next to be held on 23 September 2021)"
+        "text": "<br />Legislative Council -&nbsp;last held 28 February 2018 (next to be held 12 March 2020)<br /> House of Keys - last held on 22 September 2016 (next to be held on 23 September 2021)"
       },
       "election results": {
-        "text": "++ Legislative Council - composition - men 6, women 5, percent of women 45.5% ++ House of Keys - percent of vote by party - Liberal Vannin 6.4%, independent 92.3%, other 1.3%; seats by party - Liberal Vannin 3, independent 21; composition - men 19, women 5, percent of women 20.8%; note - total Tynwald percent of women 28.6%"
+        "text": "<strong>&nbsp;</strong><br /> Legislative Council - composition - men 6, women 5, percent of women 45.5%<br />House of Keys - percent of vote by party - Liberal Vannin 6.4%, independent 92.3%, other 1.3%; seats by party - Liberal Vannin 3, independent 21; composition - men 19, women 5, percent of women 20.8%; note - total Tynwald percent of women 28.6%"
       },
-      "note": "note: as of January 2019, seats by party - Liberal Vannin 2, independent 22"
+      "note": "<br><br><strong>note:</strong> as of January 2019, seats by party - Liberal Vannin 2, independent 22"
     },
     "Judicial branch": {
       "highest courts": {
@@ -358,17 +355,19 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Liberal Vannin Party [Kate BEECROFT] ++ Manx Labor Party ++ Mec Vannin [Mark KERMODE] (sometimes referred to as the Manx Nationalist Party)",
-      "note": "note: most members sit as independents"
+      "text": "Liberal Vannin Party [Kate BEECROFT]<br />Manx Labor Party<br />Mec Vannin [Mark KERMODE] (sometimes referred to as the Manx Nationalist Party)",
+      "note": "<p><strong>note:</strong> most members sit as independents</p>"
     },
     "International organization participation": {
       "text": "UPU"
     },
     "Diplomatic representation in the US": {
-      "note": "none (British crown dependency)"
+      "text": "none (British crown dependency)"
     },
     "Diplomatic representation from the US": {
-      "text": "none (British crown dependency)"
+      "embassy": {
+        "text": "none (British crown dependency)"
+      }
     },
     "Flag description": {
       "text": "red with the Three Legs of Man emblem (triskelion), in the center; the three legs are joined at the thigh and bent at the knee; in order to have the toes pointing clockwise on both sides of the flag, a two-sided emblem is used; the flag is based on the coat of arms of the last recognized Norse King of Mann, Magnus III (r. 1252-65); the triskelion has its roots in an early Celtic sun symbol"
@@ -383,20 +382,31 @@
       "lyrics/music": {
         "text": "William Henry GILL [English], John J. KNEEN [Manx]/traditional"
       },
-      "note": "note: adopted 2003, in use since 1907; serves as a local anthem; as a British Crown dependency, \"God Save the Queen\" is official (see United Kingdom) and is played when the sovereign, members of the royal family, or the lieutenant governor are present"
+      "note": "<p><strong>note:</strong> adopted 2003, in use since 1907; serves as a local anthem; as a British Crown dependency, \"God Save the Queen\" is official (see United Kingdom) and is played when the sovereign, members of the royal family, or the lieutenant governor are present</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "Financial services, manufacturing, and tourism are key sectors of the economy. The government offers low taxes and other incentives to high-technology companies and financial institutions to locate on the island; this has paid off in expanding employment opportunities in high-income industries. As a result, agriculture and fishing, once the mainstays of the economy, have declined in their contributions to GDP. The Isle of Man also attracts online gambling sites and the film industry. Online gambling sites provided about 10% of the islands income in 2014. The Isle of Man currently enjoys free access to EU markets and trade is mostly with the UK. The Isle of Man's trade relationship with the EU derives from the United Kingdom's EU membership and will need to be renegotiated in light of the United Kingdom's decision to withdraw from the bloc. A transition period is expected to allow the free movement of goods and agricultural products to the EU until the end of 2020 or until a new settlement is negotiated."
+      "text": "Financial services, manufacturing, and tourism are key sectors of the economy. The government offers low taxes and other incentives to high-technology companies and financial institutions to locate on the island; this has paid off in expanding employment opportunities in high-income industries. As a result, agriculture and fishing, once the mainstays of the economy, have declined in their contributions to GDP. The Isle of Man also attracts online gambling sites and the film industry. Online gambling sites provided about 10% of the islands income in 2014. The Isle of Man currently enjoys free access to EU markets and trade is mostly with the UK. The Isle of Man’s trade relationship with the EU derives from the United Kingdom’s EU membership and will need to be renegotiated in light of the United Kingdom’s decision to withdraw from the bloc. A transition period is expected to allow the free movement of goods and agricultural products to the EU until the end of 2020 or until a new settlement is negotiated."
     },
-    "GDP real growth rate": {
-      "text": "-8.6% (2015 est.) / 17.9% (2014 est.) / 2.1% (2010 est.)",
-      "country comparison to the world": 221
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2015": {
+        "text": "-8.6% (2015 est.)"
+      },
+      "Real GDP growth rate 2014": {
+        "text": "17.9% (2014 est.)"
+      },
+      "Real GDP growth rate 2010": {
+        "text": "2.1% (2010 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "4.1% (2017 est.) / 1% (2016 est.)",
-      "country comparison to the world": 170
+      "Inflation rate (consumer prices) 2017": {
+        "text": "4.1% (2017 est.)"
+      },
+      "Inflation rate (consumer prices) 2016": {
+        "text": "1% (2016 est.)"
+      }
     },
     "Credit ratings": {
       "Moody's rating": {
@@ -406,16 +416,31 @@
         "text": "N/A (2014)"
       }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$6.792 billion (2015 est.) / $7.428 billion (2014 est.) / $6.298 billion (2013 est.)",
-      "note": "note: data are in 2014 US dollars"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2015": {
+        "text": "$6.792 billion (2015 est.)"
+      },
+      "Real GDP (purchasing power parity) 2014": {
+        "text": "$7.428 billion (2014 est.)"
+      },
+      "Real GDP (purchasing power parity) 2013": {
+        "text": "$6.298 billion (2013 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2014 US dollars</p>"
     },
     "GDP (official exchange rate)": {
       "text": "$6.792 billion (2015 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$84,600 (2014 est.) / $86,200 (2013 est.) / $73,700 (2012 est.)",
-      "country comparison to the world": 7
+    "Real GDP per capita": {
+      "Real GDP per capita 2014": {
+        "text": "$84,600 (2014 est.)"
+      },
+      "Real GDP per capita 2013": {
+        "text": "$86,200 (2013 est.)"
+      },
+      "Real GDP per capita 2012": {
+        "text": "$73,700 (2012 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -428,17 +453,14 @@
         "text": "86% (FY12/13 est.)"
       }
     },
-    "Ease of Doing Business Index scores": {
-    },
-    "Agriculture - products": {
+    "Agricultural products": {
       "text": "cereals, vegetables; cattle, sheep, pigs, poultry"
     },
     "Industries": {
       "text": "financial services, light manufacturing, tourism"
     },
     "Labor force": {
-      "text": "41,790 (2006)",
-      "country comparison to the world": 194
+      "text": "41,790 (2006)"
     },
     "Labor force - by occupation": {
       "manufacturing": {
@@ -479,8 +501,12 @@
       }
     },
     "Unemployment rate": {
-      "text": "1.1% (2017 est.) / 2% (April 2011 est.)",
-      "country comparison to the world": 11
+      "Unemployment rate 2017": {
+        "text": "1.1% (2017 est.)"
+      },
+      "Unemployment rate April 2011": {
+        "text": "2% (April 2011 est.)"
+      }
     },
     "Population below poverty line": {
       "text": "NA"
@@ -502,33 +528,48 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "14.2% (of GDP) (FY05/06 est.)",
-      "country comparison to the world": 201
+      "text": "14.2% (of GDP) (FY05/06 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "0.3% (of GDP) (FY05/06 est.)",
-      "country comparison to the world": 40
+      "text": "0.3% (of GDP) (FY05/06 est.)"
     },
     "Fiscal year": {
       "text": "1 April - 31 March"
     },
     "Exports": {
-      "note": "NA"
+      "text": "<p>NA</p>"
     },
     "Exports - commodities": {
       "text": "tweeds, herring, processed shellfish, beef, lamb"
     },
     "Imports": {
-      "note": "NA"
+      "text": "<p>NA</p>"
     },
     "Imports - commodities": {
       "text": "timber, fertilizers, fish"
     },
     "Debt - external": {
-      "note": "NA"
+      "text": "<p>NA</p>"
     },
     "Exchange rates": {
-      "text": "Manx pounds (IMP) per US dollar - / 0.7836 (2017 est.) / 0.738 (2016 est.) / 0.738 (2015) / 0.6542 (2014) / 0.6472 (2013 est.)"
+      "currency": {
+        "text": "Manx pounds (IMP) per US dollar -"
+      },
+      "Exchange rates 2017": {
+        "text": "0.7836 (2017 est.)"
+      },
+      "Exchange rates 2016": {
+        "text": "0.738 (2016 est.)"
+      },
+      "Exchange rates 2015": {
+        "text": "0.738 (2015)"
+      },
+      "Exchange rates 2014": {
+        "text": "0.6542 (2014)"
+      },
+      "Exchange rates 2013": {
+        "text": "0.6472 (2013 est.)"
+      }
     }
   },
   "Energy": {
@@ -546,7 +587,7 @@
       "international": {
         "text": "country code - 44; fiber-optic cable, microwave radio relay, satellite earth station, submarine cable"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "national public radio broadcasts over 3 FM stations and 1 AM station; 2 commercial broadcasters operating with 1 having multiple FM stations; receives radio and TV services via relays from British TV and radio broadcasters"
@@ -560,8 +601,9 @@
       "text": "M (2016)"
     },
     "Airports": {
-      "text": "1 (2013)",
-      "country comparison to the world": 223
+      "total": {
+        "text": "1 (2013)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -578,14 +620,12 @@
       "narrow gauge": {
         "text": "6 km 1.076-m gauge (6 km electrified) (2008)"
       },
-      "note": "57 0.914-m gauge (29 km electrified)\nnote: primarily summer tourist attractions",
-      "country comparison to the world": 130
+      "note": "<br><br>57 0.914-m gauge (29 km electrified)\n<p><strong>note:</strong> primarily summer tourist attractions</p>"
     },
     "Roadways": {
       "total": {
         "text": "500 km (2008)"
-      },
-      "country comparison to the world": 196
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -600,7 +640,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "none"
+      "text": "<p>none</p>"
     }
   }
 }

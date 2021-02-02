@@ -23,8 +23,7 @@
       },
       "water": {
         "text": "0 sq km"
-      },
-      "country comparison to the world": 178
+      }
     },
     "Area - comparative": {
       "text": "slightly smaller than Rhode Island; about half the size of Delaware"
@@ -41,7 +40,7 @@
       "text": "0 km (landlocked)"
     },
     "Maritime claims": {
-      "note": "none (landlocked)"
+      "text": "none (landlocked)"
     },
     "Climate": {
       "text": "modified continental with mild winters, cool summers"
@@ -67,8 +66,14 @@
       "agricultural land": {
         "text": "50.7% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "24% (2011 est.) / 0.6% (2011 est.) / 26.1% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 24% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 0.6% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 26.1% (2011 est.)"
       },
       "forest": {
         "text": "33.5% (2011 est.)"
@@ -103,8 +108,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "628,381 (July 2020 est.)",
-      "country comparison to the world": 168
+      "text": "639,589 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -116,7 +120,7 @@
     },
     "Ethnic groups": {
       "text": "Luxembourger 51.1%, Portuguese 15.7%, French 7.5%, Italian 3.6%, Belgian 3.3%, German 2.1%, Spanish 1.1%, British 1%, other 14.6% (2019 est.)",
-      "note": "note: data represent population by nationality"
+      "note": "<p><strong>note:</strong> data represent population by nationality</p>"
     },
     "Languages": {
       "text": "Luxembourgish (official administrative and judicial language and national language (spoken vernacular)) 55.8%, Portuguese 15.7%, French (official administrative, judicial, and legislative language) 12.1%, German (official administrative and judicial language) 3.1%, Italian 2.9%, English 2.1%, other 8.4% (2011 est.)"
@@ -164,24 +168,19 @@
       },
       "female": {
         "text": "40 years (2020 est.)"
-      },
-      "country comparison to the world": 56
+      }
     },
     "Population growth rate": {
-      "text": "1.8% (2020 est.)",
-      "country comparison to the world": 56
+      "text": "1.7% (2021 est.)"
     },
     "Birth rate": {
-      "text": "11.6 births/1,000 population (2020 est.)",
-      "country comparison to the world": 169
+      "text": "11.62 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "7.3 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 113
+      "text": "7.26 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "13.3 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 3
+      "text": "12.65 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "most people live in the south, on or near the border with France"
@@ -224,8 +223,7 @@
       "text": "30.7 years (2017 est.)"
     },
     "Maternal mortality rate": {
-      "text": "5 deaths/100,000 live births (2017 est.)",
-      "country comparison to the world": 168
+      "text": "5 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
       "total": {
@@ -235,32 +233,41 @@
         "text": "3.7 deaths/1,000 live births"
       },
       "female": {
-        "text": "3 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 208
+        "text": "2.87 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "82.6 years"
+        "text": "82.78 years"
       },
       "male": {
-        "text": "80.1 years"
+        "text": "80.31 years"
       },
       "female": {
-        "text": "85.2 years (2020 est.)"
-      },
-      "country comparison to the world": 16
+        "text": "85.39 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "1.62 children born/woman (2020 est.)",
-      "country comparison to the world": 181
+      "text": "1.63 children born/woman (2021 est.)"
     },
     "Drinking water source": {
-      "improved": {
-        "text": "urban: 100% of population / rural: 98.8% of population / total: 99% of population"
+      "improved: urban": {
+        "text": "urban: 100% of population"
       },
-      "unimproved": {
-        "text": "urban: 0% of population / rural: 1.2% of population / total: 1% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 98.8% of population"
+      },
+      "improved: total": {
+        "text": "total: 99% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 0% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 1.2% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 1% of population (2017 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -273,31 +280,39 @@
       "text": "4.7 beds/1,000 population (2017)"
     },
     "Sanitation facility access": {
-      "improved": {
-        "text": "urban: 100% of population (2015 est.) / rural: 99.9% of population / total: 100% of population"
+      "improved: urban": {
+        "text": "urban: 100% of population (2015 est.)"
       },
-      "unimproved": {
-        "text": "urban: 0% of population / rural: 0.1% of population / total: 0% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 99.9% of population"
+      },
+      "improved: total": {
+        "text": "total: 100% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 0% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 0.1% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 0% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "0.3% (2018 est.)",
-      "country comparison to the world": 92
+      "text": "0.3% (2018 est.)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
-      "text": "1,200 (2018 est.)",
-      "country comparison to the world": 141
+      "text": "1,200 (2018 est.)"
     },
     "HIV/AIDS - deaths": {
       "text": "<100 (2018 est.)"
     },
     "Obesity - adult prevalence rate": {
-      "text": "22.6% (2016)",
-      "country comparison to the world": 74
+      "text": "22.6% (2016)"
     },
     "Education expenditures": {
-      "text": "3.6% of GDP (2017)",
-      "country comparison to the world": 112
+      "text": "3.6% of GDP (2017)"
     },
     "School life expectancy (primary to tertiary education)": {
       "total": {
@@ -319,8 +334,7 @@
       },
       "female": {
         "text": "11.9% (2018 est.)"
-      },
-      "country comparison to the world": 97
+      }
     }
   },
   "Government": {
@@ -357,7 +371,7 @@
       "daylight saving time": {
         "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
       },
-      "note": "etymology: the name derives from the Celtic \"lucilem\" (little) and the German \"burg\" (castle or fortress) to produce the meaning of the \"little castle\"; the name is actually ironic, since for centuries the Fortress of Luxembourg was one of Europe's most formidable fortifications; the name passed to the city that grew around the fortress"
+      "note": "<br><br><strong>etymology:</strong> the name derives from the Celtic \"lucilem\" (little) and the German \"burg\" (castle or fortress) to produce the meaning of the \"little castle\"; the name is actually ironic, since for centuries the Fortress of Luxembourg was one of Europe's most formidable fortifications; the name passed to the city that grew around the fortress"
     },
     "Administrative divisions": {
       "text": "12 cantons (cantons, singular - canton); Capellen, Clervaux, Diekirch, Echternach, Esch-sur-Alzette, Grevenmacher, Luxembourg, Mersch, Redange, Remich, Vianden, Wiltz"
@@ -418,7 +432,7 @@
         "text": "unicameral Chamber of Deputies or Chambre des Deputes (60 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms); note - a 21-member Council of State appointed by the Grand Duke on the advice of the prime minister serves as an advisory body to the Chamber of Deputies"
       },
       "elections": {
-        "text": "last held on 14 October 2018 (next to be held by October 2023)"
+        "text": "last held on&nbsp;14 October 2018 (next to be held by October 2023)"
       },
       "election results": {
         "text": "percent of vote by party - CSV 28.3%, LSAP 17.6%, DP 16.9%, Green Party 15.1%, ADR 8.3%, Pirate Party 6.4%, The Left 5.5%, other 1.9%; seats by party - CSV 21, DP 12, LSAP 10, Green Party 9, ADR 4, Pirate Party 2, The Left 2; composition - men 46, women 14, percent of women 23.3%"
@@ -436,7 +450,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Alternative Democratic Reform Party or ADR [Jean SCHOOS] ++ Christian Social People's Party or CSV [Marc SPAUTZ] ++ Democratic Party or DP [Corinne CAHEN] ++ Green Party [Francoise FOLMER, Christian KMIOTEK] ++ Luxembourg Socialist Workers' Party or LSAP [Claude HAAGEN] ++ The Left (dei Lenk/la Gauche) [collective leadership, Central Committee] ++ other minor parties"
+      "text": "Alternative Democratic Reform Party or ADR [Jean SCHOOS]<br />Christian Social People's Party or CSV [Marc SPAUTZ]<br />Democratic Party or DP [Corinne CAHEN]<br />Green Party [Francoise FOLMER, Christian KMIOTEK]<br />Luxembourg Socialist Workers' Party or LSAP [Claude HAAGEN]<br />The Left (dei Lenk/la Gauche) [collective leadership, Central Committee]<br />other minor parties"
     },
     "International organization participation": {
       "text": "ADB (nonregional member), Australia Group, Benelux, BIS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNRWA, UPU, WCO, WHO, WIPO, WMO, WTO, ZC"
@@ -488,20 +502,34 @@
       "lyrics/music": {
         "text": "Michel LENTZ/Jean-Antoine ZINNEN; Nikolaus WELTER/unknown"
       },
-      "note": "note: \"Ons Heemecht,\" adopted 1864, is the national anthem, while \"De Wilhelmus,\" adopted 1919, serves as a royal anthem for use when members of the grand ducal family enter or exit a ceremony in Luxembourg"
+      "note": "<p><strong>note:</strong> \"Ons Heemecht,\" adopted 1864, is the national anthem, while \"De Wilhelmus,\" adopted 1919, serves as a royal anthem for use when members of the grand ducal family enter or exit a ceremony in Luxembourg</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "This small, stable, high-income economy has historically featured solid growth, low inflation, and low unemployment. Luxembourg, the only Grand Duchy in the world, is a landlocked country in northwestern Europe surrounded by Belgium, France, and Germany. Despite its small landmass and small population, Luxembourg is the fifth-wealthiest country in the world when measured on a gross domestic product (PPP) per capita basis. Luxembourg has one of the highest current account surpluses as a share of GDP in the euro zone, and it maintains a healthy budgetary position, with a 2017 surplus of 0.5% of GDP, and the lowest public debt level in the region. ++ Since 2002, Luxembourg's government has proactively implemented policies and programs to support economic diversification and to attract foreign direct investment. The government focused on key innovative industries that showed promise for supporting economic growth: logistics, information and communications technology (ICT); health technologies, including biotechnology and biomedical research; clean energy technologies, and more recently, space technology and financial services technologies. The economy has evolved and flourished, posting strong GDP growth of 3.4% in 2017, far outpacing the European average of 1.8%. ++ Luxembourg remains a financial powerhouse – the financial sector accounts for more than 35% of GDP - because of the exponential growth of the investment fund sector through the launch and development of cross-border funds (UCITS) in the 1990s. Luxembourg is the world's second-largest investment fund asset domicile, after the US, with $4 trillion of assets in custody in financial institutions. ++ Luxembourg has lost some of its advantage as a favorable tax location because of OECD and EU pressure, as well as the \"LuxLeaks\" scandal, which revealed advantageous tax treatments offered to foreign corporations. In 2015, the government's compliance with EU requirements to implement automatic exchange of tax information on savings accounts - thus ending banking secrecy - has constricted banking activity. Likewise, changes to the way EU members collect taxes from e-commerce has cut Luxembourg's sales tax revenues, requiring the government to raise additional levies and to reduce some direct social benefits as part of the tax reform package of 2017. The tax reform package also included reductions in the corporate tax rate and increases in deductions for families, both intended to increase purchasing power and increase competitiveness."
+      "text": "<p>This small, stable, high-income economy has historically featured solid growth, low inflation, and low unemployment. Luxembourg, the only Grand Duchy in the world, is a landlocked country in northwestern Europe surrounded by Belgium, France, and Germany. Despite its small landmass and small population, Luxembourg is the fifth-wealthiest country in the world when measured on a gross domestic product (PPP) per capita basis. Luxembourg has one of the highest current account surpluses as a share of GDP in the euro zone, and it maintains a healthy budgetary position, with a 2017 surplus of 0.5% of GDP, and the lowest public debt level in the region.</p><p></p><p>Since 2002, Luxembourg’s government has proactively implemented policies and programs to support economic diversification and to attract foreign direct investment. The government focused on key innovative industries that showed promise for supporting economic growth: logistics, information and communications technology (ICT); health technologies, including biotechnology and biomedical research; clean energy technologies, and more recently, space technology and financial services technologies. The economy has evolved and flourished, posting strong GDP growth of 3.4% in 2017, far outpacing the European average of 1.8%.</p><p></p><p>Luxembourg remains a financial powerhouse – the financial sector accounts for more than 35% of GDP - because of the exponential growth of the investment fund sector through the launch and development of cross-border funds (UCITS) in the 1990s. Luxembourg is the world’s second-largest investment fund asset domicile, after the US, with $4 trillion of assets in custody in financial institutions.</p><p></p><p>Luxembourg has lost some of its advantage as a favorable tax location because of OECD and EU pressure, as well as the \"LuxLeaks\" scandal, which revealed advantageous tax treatments offered to foreign corporations. In 2015, the government’s compliance with EU requirements to implement automatic exchange of tax information on savings accounts - thus ending banking secrecy - has constricted banking activity. Likewise, changes to the way EU members collect taxes from e-commerce has cut Luxembourg’s sales tax revenues, requiring the government to raise additional levies and to reduce some direct social benefits as part of the tax reform package of 2017. The tax reform package also included reductions in the corporate tax rate and increases in deductions for families, both intended to increase purchasing power and increase competitiveness.</p>"
     },
-    "GDP real growth rate": {
-      "text": "2.31% (2019 est.) / 3.14% (2018 est.) / 1.81% (2017 est.)",
-      "country comparison to the world": 120
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2019": {
+        "text": "2.31% (2019 est.)"
+      },
+      "Real GDP growth rate 2018": {
+        "text": "3.14% (2018 est.)"
+      },
+      "Real GDP growth rate 2017": {
+        "text": "1.81% (2017 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "1.7% (2019 est.) / 1.5% (2018 est.) / 1.7% (2017 est.)",
-      "country comparison to the world": 97
+      "Inflation rate (consumer prices) 2019": {
+        "text": "1.7% (2019 est.)"
+      },
+      "Inflation rate (consumer prices) 2018": {
+        "text": "1.5% (2018 est.)"
+      },
+      "Inflation rate (consumer prices) 2017": {
+        "text": "1.7% (2017 est.)"
+      }
     },
     "Credit ratings": {
       "Fitch rating": {
@@ -514,21 +542,43 @@
         "text": "AAA (1994)"
       }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$56.19 billion (2019 est.) / $54.925 billion (2018 est.) / $53.26 billion (2017 est.)",
-      "note": "note: data are in 2010 dollars"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2019": {
+        "text": "$70.966 billion (2019 est.)"
+      },
+      "Real GDP (purchasing power parity) 2018": {
+        "text": "$69.373 billion (2018 est.)"
+      },
+      "Real GDP (purchasing power parity) 2017": {
+        "text": "$67.28 billion (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
     },
     "GDP (official exchange rate)": {
       "text": "$71.089 billion (2019 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$112,009 (2019 est.) / $111,568 (2018 est.) / $110,440 (2017 est.)",
-      "note": "note: data are in 2010 dollars",
-      "country comparison to the world": 4
+    "Real GDP per capita": {
+      "Real GDP per capita 2019": {
+        "text": "$114,482 (2019 est.)"
+      },
+      "Real GDP per capita 2018": {
+        "text": "$114,110 (2018 est.)"
+      },
+      "Real GDP per capita 2017": {
+        "text": "$112,823 (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
     },
     "Gross national saving": {
-      "text": "22.3% of GDP (2017 est.) / 23% of GDP (2016 est.) / 23.2% of GDP (2015 est.)",
-      "country comparison to the world": 82
+      "Gross national saving 2017": {
+        "text": "22.3% of GDP (2017 est.)"
+      },
+      "Gross national saving 2016": {
+        "text": "23% of GDP (2016 est.)"
+      },
+      "Gross national saving 2015": {
+        "text": "23.2% of GDP (2015 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -562,22 +612,22 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "text": "88.8 (2020)"
+      "Overall Ease of Doing Business score 2020": {
+        "text": "88.8 (2020)"
+      }
     },
-    "Agriculture - products": {
-      "text": "grapes, barley, oats, potatoes, wheat, fruits; dairy and livestock products"
+    "Agricultural products": {
+      "text": "milk, wheat, barley, triticale, potatoes, pork, beef, grapes, rapeseed, oats"
     },
     "Industries": {
       "text": "banking and financial services, construction, real estate services, iron, metals, and steel, information technology, telecommunications, cargo transportation and logistics, chemicals, engineering, tires, glass, aluminum, tourism, biotechnology"
     },
     "Industrial production growth rate": {
-      "text": "1.9% (2017 est.)",
-      "country comparison to the world": 134
+      "text": "1.9% (2017 est.)"
     },
     "Labor force": {
       "text": "476,000 (2020 est.)",
-      "note": "note: data exclude foreign workers; in addition to the figure for domestic labor force, about 150,000 workers commute daily from France, Belgium, and Germany",
-      "country comparison to the world": 156
+      "note": "<p><strong>note:</strong> data exclude foreign workers; in addition to the figure for domestic labor force, about 150,000 workers commute daily from France, Belgium, and Germany</p>"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -591,11 +641,23 @@
       }
     },
     "Unemployment rate": {
-      "text": "5.36% (2019 est.) / 5.46% (2018 est.)",
-      "country comparison to the world": 87
+      "Unemployment rate 2019": {
+        "text": "5.36% (2019 est.)"
+      },
+      "Unemployment rate 2018": {
+        "text": "5.46% (2018 est.)"
+      }
     },
     "Population below poverty line": {
       "text": "NA"
+    },
+    "Gini Index coefficient - distribution of family income": {
+      "Gini Index coefficient - distribution of family income 2017": {
+        "text": "34.9 (2017 est.)"
+      },
+      "Gini Index coefficient - distribution of family income 2005": {
+        "text": "26 (2005 est.)"
+      }
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
@@ -614,28 +676,41 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "44.4% (of GDP) (2017 est.)",
-      "country comparison to the world": 24
+      "text": "44.4% (of GDP) (2017 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "1.5% (of GDP) (2017 est.)",
-      "country comparison to the world": 23
+      "text": "1.5% (of GDP) (2017 est.)"
     },
     "Public debt": {
-      "text": "23% of GDP (2017 est.) / 20.8% of GDP (2016 est.)",
-      "note": "note: data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions",
-      "country comparison to the world": 183
+      "Public debt 2017": {
+        "text": "23% of GDP (2017 est.)"
+      },
+      "Public debt 2016": {
+        "text": "20.8% of GDP (2016 est.)"
+      },
+      "note": "<p><strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions</p>"
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Current account balance": {
-      "text": "$3.254 billion (2019 est.) / $3.296 billion (2018 est.)",
-      "country comparison to the world": 33
+      "Current account balance 2019": {
+        "text": "$3.254 billion (2019 est.)"
+      },
+      "Current account balance 2018": {
+        "text": "$3.296 billion (2018 est.)"
+      }
     },
     "Exports": {
-      "text": "$133.61 billion (2019 est.) / $132.487 billion (2018 est.) / $131.834 billion (2017 est.)",
-      "country comparison to the world": 38
+      "Exports 2019": {
+        "text": "$133.61 billion (2019 est.)"
+      },
+      "Exports 2018": {
+        "text": "$132.487 billion (2018 est.)"
+      },
+      "Exports 2017": {
+        "text": "$131.834 billion (2017 est.)"
+      }
     },
     "Exports - partners": {
       "text": "Germany 25.6%, Belgium 17.6%, France 14%, Netherlands 5.1%, Italy 4.1%, UK 4.1% (2017)"
@@ -644,25 +719,57 @@
       "text": "machinery and equipment, steel products, chemicals, rubber products, glass"
     },
     "Imports": {
-      "text": "$111.287 billion (2019 est.) / $110.275 billion (2018 est.) / $110.656 billion (2017 est.)",
-      "country comparison to the world": 46
-    },
-    "Imports - commodities": {
-      "text": "commercial aircraft, minerals, chemicals, metals, foodstuffs, luxury consumer goods"
+      "Imports 2019": {
+        "text": "$111.287 billion (2019 est.)"
+      },
+      "Imports 2018": {
+        "text": "$110.275 billion (2018 est.)"
+      },
+      "Imports 2017": {
+        "text": "$110.656 billion (2017 est.)"
+      }
     },
     "Imports - partners": {
       "text": "Belgium 32%, Germany 24.9%, France 11.1%, US 5.7%, Netherlands 4.9% (2017)"
     },
+    "Imports - commodities": {
+      "text": "commercial aircraft, minerals, chemicals, metals, foodstuffs, luxury consumer goods"
+    },
     "Reserves of foreign exchange and gold": {
-      "text": "$878 million (31 December 2017 est.) / $974 million (31 December 2016 est.)",
-      "country comparison to the world": 137
+      "Reserves of foreign exchange and gold 31 December 2017": {
+        "text": "$878 million (31 December 2017 est.)"
+      },
+      "Reserves of foreign exchange and gold 31 December 2016": {
+        "text": "$974 million (31 December 2016 est.)"
+      }
     },
     "Debt - external": {
-      "text": "$3.781 trillion (31 March 2016 est.) / $3.806 trillion (31 March 2015 est.)",
-      "country comparison to the world": 6
+      "Debt - external 31 March 2016": {
+        "text": "$3.781 trillion (31 March 2016 est.)"
+      },
+      "Debt - external 31 March 2015": {
+        "text": "$3.806 trillion (31 March 2015 est.)"
+      }
     },
     "Exchange rates": {
-      "text": "euros (EUR) per US dollar - / 0.82771 (2020 est.) / 0.90338 (2019 est.) / 0.87789 (2018 est.) / 0.885 (2014 est.) / 0.7634 (2013 est.)"
+      "currency": {
+        "text": "euros (EUR) per US dollar -"
+      },
+      "Exchange rates 2020": {
+        "text": "0.82771 (2020 est.)"
+      },
+      "Exchange rates 2019": {
+        "text": "0.90338 (2019 est.)"
+      },
+      "Exchange rates 2018": {
+        "text": "0.87789 (2018 est.)"
+      },
+      "Exchange rates 2014": {
+        "text": "0.885 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "0.7634 (2013 est.)"
+      }
     }
   },
   "Energy": {
@@ -672,96 +779,73 @@
       }
     },
     "Electricity - production": {
-      "text": "334.5 million kWh (2016 est.)",
-      "country comparison to the world": 178
+      "text": "334.5 million kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "6.475 billion kWh (2016 est.)",
-      "country comparison to the world": 111
+      "text": "6.475 billion kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "1.42 billion kWh (2016 est.)",
-      "country comparison to the world": 51
+      "text": "1.42 billion kWh (2016 est.)"
     },
     "Electricity - imports": {
-      "text": "7.718 billion kWh (2016 est.)",
-      "country comparison to the world": 30
+      "text": "7.718 billion kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "1.709 million kW (2016 est.)",
-      "country comparison to the world": 118
+      "text": "1.709 million kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "25% of total installed capacity (2016 est.)",
-      "country comparison to the world": 188
+      "text": "25% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 131
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "8% of total installed capacity (2017 est.)",
-      "country comparison to the world": 122
+      "text": "8% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "67% of total installed capacity (2017 est.)",
-      "country comparison to the world": 2
+      "text": "67% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "0 bbl/day (2018 est.)",
-      "country comparison to the world": 164
+      "text": "0 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "0 bbl/day (2017 est.)",
-      "country comparison to the world": 156
+      "text": "0 bbl/day (2017 est.)"
     },
     "Crude oil - imports": {
-      "text": "0 bbl/day (2017 est.)",
-      "country comparison to the world": 155
+      "text": "0 bbl/day (2017 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2018 est.)",
-      "country comparison to the world": 159
+      "text": "0 bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "0 bbl/day (2017 est.)",
-      "country comparison to the world": 167
+      "text": "0 bbl/day (2017 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "59,850 bbl/day (2017 est.)",
-      "country comparison to the world": 96
+      "text": "59,850 bbl/day (2017 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "0 bbl/day (2017 est.)",
-      "country comparison to the world": 173
+      "text": "0 bbl/day (2017 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "59,020 bbl/day (2017 est.)",
-      "country comparison to the world": 73
+      "text": "59,020 bbl/day (2017 est.)"
     },
     "Natural gas - production": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 160
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "792.8 million cu m (2017 est.)",
-      "country comparison to the world": 96
+      "text": "792.8 million cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 141
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "792.8 million cu m (2017 est.)",
-      "country comparison to the world": 63
+      "text": "792.8 million cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "0 cu m (1 January 2014 est.)",
-      "country comparison to the world": 161
+      "text": "0 cu m (1 January 2014 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "10.72 million Mt (2017 est.)",
-      "country comparison to the world": 103
+      "text": "10.72 million Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -771,8 +855,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "43.43 (2019 est.)"
-      },
-      "country comparison to the world": 114
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -780,12 +863,11 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "135.76 (2019 est.)"
-      },
-      "country comparison to the world": 164
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "highly developed; by 2020 the government is to provide a 1Gb/s service to all citizens, and to make Luxembourg the first fully fibered country in Europe; new law requiring SIM cards be registered has slowed down growth for mobile subscribers; regulator planning a multi-spectrum auction for 5G use by mid-2020 (2020)"
+        "text": "highly developed; by 2020 the government is to provide a 1Gb/s service to all citizens, and to make Luxembourg the first fully fibered country in Europe; new law requiring&nbsp;SIM cards be registered has slowed down growth for mobile subscribers; regulator planning a&nbsp;multi-spectrum auction for 5G use by mid-2020 (2020)"
       },
       "domestic": {
         "text": "fixed-line teledensity about 43 per 100 persons; nationwide mobile-cellular telephone system with market for mobile-cellular phones virtually saturated with 136 per 100 mobile-cellular (2019)"
@@ -793,7 +875,7 @@
       "international": {
         "text": "country code - 352"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "Luxembourg has a long tradition of operating radio and TV services for pan-European audiences and is home to Europe's largest privately owned broadcast media group, the RTL Group, which operates 46 TV stations and 29 radio stations in Europe; also home to Europe's largest satellite operator, Societe Europeenne des Satellites (SES); domestically, the RTL Group operates TV and radio networks; other domestic private radio and TV operators and French and German stations available; satellite and cable TV services available"
@@ -807,8 +889,7 @@
       },
       "percent of population": {
         "text": "97.06% (July 2018 est.)"
-      },
-      "country comparison to the world": 148
+      }
     },
     "Broadband - fixed subscriptions": {
       "total": {
@@ -816,8 +897,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "37 (2018 est.)"
-      },
-      "country comparison to the world": 106
+      }
     }
   },
   "Transportation": {
@@ -839,8 +919,9 @@
       "text": "LX (2016)"
     },
     "Airports": {
-      "text": "2 (2013)",
-      "country comparison to the world": 200
+      "total": {
+        "text": "2 (2013)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -870,27 +951,23 @@
       },
       "standard gauge": {
         "text": "275 km 1.435-m gauge (275 km electrified) (2014)"
-      },
-      "country comparison to the world": 124
+      }
     },
     "Roadways": {
       "total": {
         "text": "2,875 km (2019)"
-      },
-      "country comparison to the world": 165
+      }
     },
     "Waterways": {
-      "text": "37 km (on Moselle River) (2010)",
-      "country comparison to the world": 104
+      "text": "37 km (on Moselle River) (2010)"
     },
     "Merchant marine": {
       "total": {
-        "text": "143"
+        "text": "150"
       },
       "by type": {
-        "text": "bulk carrier 4, container ship 4, general cargo 14, oil tanker 3, other 118 (2019)"
-      },
-      "country comparison to the world": 74
+        "text": "bulk carrier 4, container ship 1, general cargo 21, oil tanker 3, other 121 (2020)"
+      }
     },
     "Ports and terminals": {
       "river port(s)": {
@@ -900,11 +977,24 @@
   },
   "Military and Security": {
     "Military and security forces": {
-      "text": "Luxembourg Army (l'Armée Luxembourgeoise) (2019)"
+      "text": "Luxembourg Army (l'Arm&eacute;e Luxembourgeoise) (2019)"
     },
     "Military expenditures": {
-      "text": "0.56% of GDP (2019 est.) / 0.51% of GDP (2018) / 0.52% of GDP (2017) / 0.4% of GDP (2016) / 0.44% of GDP (2015)",
-      "country comparison to the world": 145
+      "Military Expenditures 2019": {
+        "text": "0.56% of GDP (2019 est.)"
+      },
+      "Military Expenditures 2018": {
+        "text": "0.51% of GDP (2018)"
+      },
+      "Military Expenditures 2017": {
+        "text": "0.52% of GDP (2017)"
+      },
+      "Military Expenditures 2016": {
+        "text": "0.4% of GDP (2016)"
+      },
+      "Military Expenditures 2015": {
+        "text": "0.44% of GDP (2015)"
+      }
     },
     "Military and security service personnel strengths": {
       "text": "the Luxembourg Army has approximately 900 active personnel (2019 est.)"
@@ -918,7 +1008,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "none"
+      "text": "<p>none</p>"
     },
     "Refugees and internally displaced persons": {
       "stateless persons": {

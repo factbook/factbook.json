@@ -23,8 +23,7 @@
       },
       "water": {
         "text": "1,730 sq km"
-      },
-      "country comparison to the world": 107
+      }
     },
     "Area - comparative": {
       "text": "slightly smaller than Pennsylvania"
@@ -75,8 +74,14 @@
       "agricultural land": {
         "text": "41.2% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "14.2% (2011 est.) / 8.8% (2011 est.) / 18.2% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 14.2% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 8.8% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 18.2% (2011 est.)"
       },
       "forest": {
         "text": "33.6% (2011 est.)"
@@ -92,7 +97,7 @@
       "text": "the vast majority of the populace resides in the southern half of the country, particularly in the mountainous regions; more than half of the population lives in rural areas"
     },
     "Natural hazards": {
-      "text": "numerous volcanoes in mountains, with occasional violent earthquakes; Caribbean coast extremely susceptible to hurricanes and other tropical storms ++ volcanism: significant volcanic activity in the Sierra Madre range; Santa Maria (3,772 m) has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; Pacaya (2,552 m), which erupted in May 2010 causing an ashfall on Guatemala City and prompting evacuations, is one of the country's most active volcanoes with frequent eruptions since 1965; other historically active volcanoes include Acatenango, Almolonga, Atitlan, Fuego, and Tacana; see note 2 under \"Geography - note\""
+      "text": "<p>numerous volcanoes in mountains, with occasional violent earthquakes; Caribbean coast extremely susceptible to hurricanes and other tropical storms</p><p><strong>volcanism:</strong> significant volcanic activity in the Sierra Madre range; Santa Maria (3,772 m) has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; Pacaya (2,552 m), which erupted in May 2010 causing an ashfall on Guatemala City and prompting evacuations, is one of the country's most active volcanoes with frequent eruptions since 1965; other historically active volcanoes include Acatenango, Almolonga, Atitlan, Fuego, and Tacana; see note 2 under \"Geography - note\"</p>"
     },
     "Environment - current issues": {
       "text": "deforestation in the Peten rainforest; soil erosion; water pollution"
@@ -106,13 +111,12 @@
       }
     },
     "Geography - note": {
-      "note": "note 1: despite having both eastern and western coastlines (Caribbean Sea and Pacific Ocean respectively), there are no natural harbors on the west coast ++ note 2: Guatemala is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire"
+      "text": "<p><strong>note 1:</strong> despite having both eastern and western coastlines (Caribbean Sea and Pacific Ocean respectively), there are no natural harbors on the west coast</p> <p><strong>note 2:</strong> Guatemala is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p>"
     }
   },
   "People and Society": {
     "Population": {
-      "text": "17,153,288 (July 2020 est.)",
-      "country comparison to the world": 68
+      "text": "17,422,821 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -127,13 +131,13 @@
     },
     "Languages": {
       "text": "Spanish (official) 69.9%, Maya languages 29.7% (Q'eqchi' 8.3%, K'iche 7.8%, Mam 4.4%, Kaqchikel 3%, Q'anjob'al 1.2%, Poqomchi' 1%, other 4%), other 0.4% (includes Xinca and Garifuna) (2018 est.)",
-      "note": "note: the 2003 Law of National Languages officially recognized 23 indigenous languages, including 21 Maya languages, Xinca, and Garifuna"
+      "note": "<p><strong>note:</strong> the 2003 Law of National Languages officially recognized 23 indigenous languages, including 21 Maya languages, Xinca, and Garifuna</p>"
     },
     "Religions": {
       "text": "Roman Catholic, Protestant, indigenous Maya"
     },
     "Demographic profile": {
-      "text": "Guatemala is a predominantly poor country that struggles in several areas of health and development, including infant, child, and maternal mortality, malnutrition, literacy, and contraceptive awareness and use. The country's large indigenous population is disproportionately affected. Guatemala is the most populous country in Central America and has the highest fertility rate in Latin America. It also has the highest population growth rate in Latin America, which is likely to continue because of its large reproductive-age population and high birth rate. Almost half of Guatemala's population is under age 19, making it the youngest population in Latin America. Guatemala's total fertility rate has slowly declined during the last few decades due in part to limited government-funded health programs. However, the birth rate is still more close to three children per woman and is markedly higher among its rural and indigenous populations. ++ Guatemalans have a history of emigrating legally and illegally to Mexico, the United States, and Canada because of a lack of economic opportunity, political instability, and natural disasters. Emigration, primarily to the United States, escalated during the 1960 to 1996 civil war and accelerated after a peace agreement was signed. Thousands of Guatemalans who fled to Mexico returned after the war, but labor migration to southern Mexico continues."
+      "text": "<p>Guatemala is a predominantly poor country that struggles in several areas of health and development, including infant, child, and maternal mortality, malnutrition, literacy, and contraceptive awareness and use. The country's large indigenous population is disproportionately affected. Guatemala is the most populous country in Central America and has the highest fertility rate in Latin America. It also has the highest population growth rate in Latin America, which is likely to continue because of its large reproductive-age population and high birth rate. Almost half of Guatemala's population is under age 19, making it the youngest population in Latin America. Guatemala's total fertility rate has slowly declined during the last few decades due in part to limited government-funded health programs. However, the birth rate is still more close to three children per woman and is markedly higher among its rural and indigenous populations.</p><p>Guatemalans have a history of emigrating legally and illegally to Mexico, the United States, and Canada because of a lack of economic opportunity, political instability, and natural disasters. Emigration, primarily to the United States, escalated during the 1960 to 1996 civil war and accelerated after a peace agreement was signed. Thousands of Guatemalans who fled to Mexico returned after the war, but labor migration to southern Mexico continues.</p>"
     },
     "Age structure": {
       "0-14 years": {
@@ -175,24 +179,19 @@
       },
       "female": {
         "text": "23.8 years (2020 est.)"
-      },
-      "country comparison to the world": 178
+      }
     },
     "Population growth rate": {
-      "text": "1.68% (2020 est.)",
-      "country comparison to the world": 61
+      "text": "1.62% (2021 est.)"
     },
     "Birth rate": {
-      "text": "23.3 births/1,000 population (2020 est.)",
-      "country comparison to the world": 54
+      "text": "22.79 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "4.9 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 199
+      "text": "4.94 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "-1.7 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 157
+      "text": "-1.69 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "the vast majority of the populace resides in the southern half of the country, particularly in the mountainous regions; more than half of the population lives in rural areas"
@@ -233,49 +232,57 @@
     },
     "Mother's mean age at first birth": {
       "text": "21.2 years (2014/15 est.)",
-      "note": "note: median age at first birth among women 25-29"
+      "note": "<p><strong>note:</strong> median age at first birth among women 25-29</p>"
     },
     "Maternal mortality rate": {
-      "text": "95 deaths/100,000 live births (2017 est.)",
-      "country comparison to the world": 72
+      "text": "95 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "21.8 deaths/1,000 live births"
+        "text": "26.81 deaths/1,000 live births"
       },
       "male": {
-        "text": "24 deaths/1,000 live births"
+        "text": "30.23 deaths/1,000 live births"
       },
       "female": {
-        "text": "19.6 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 70
+        "text": "23.21 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "72.4 years"
+        "text": "72.63 years"
       },
       "male": {
-        "text": "70.3 years"
+        "text": "70.59 years"
       },
       "female": {
-        "text": "74.5 years (2020 est.)"
-      },
-      "country comparison to the world": 153
+        "text": "74.77 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "2.72 children born/woman (2020 est.)",
-      "country comparison to the world": 62
+      "text": "2.67 children born/woman (2021 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "60.6% (2014/15)"
     },
     "Drinking water source": {
-      "improved": {
-        "text": "urban: 97.9% of population / rural: 92.2% of population / total: 95.2% of population"
+      "improved: urban": {
+        "text": "urban: 97.9% of population"
       },
-      "unimproved": {
-        "text": "urban: 2.1% of population / rural: 7.8% of population / total: 4.8% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 92.2% of population"
+      },
+      "improved: total": {
+        "text": "total: 95.2% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 2.1% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 7.8% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 4.8% of population (2017 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -288,24 +295,33 @@
       "text": "0.4 beds/1,000 population (2017)"
     },
     "Sanitation facility access": {
-      "improved": {
-        "text": "urban: 91.4% of population / rural: 61.7% of population / total: 76.7% of population"
+      "improved: urban": {
+        "text": "urban: 91.4% of population"
       },
-      "unimproved": {
-        "text": "urban: 8.6% of population / rural: 38.3% of population / total: 23.3% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 61.7% of population"
+      },
+      "improved: total": {
+        "text": "total: 76.7% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 8.6% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 38.3% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 23.3% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "0.3% (2019 est.)",
-      "country comparison to the world": 88
+      "text": "0.3% (2019 est.)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
-      "text": "36,000 (2019 est.)",
-      "country comparison to the world": 69
+      "text": "36,000 (2019 est.)"
     },
     "HIV/AIDS - deaths": {
-      "text": "1,200 (2019 est.)",
-      "country comparison to the world": 54
+      "text": "1,200 (2019 est.)"
     },
     "Major infectious diseases": {
       "degree of risk": {
@@ -319,16 +335,13 @@
       }
     },
     "Obesity - adult prevalence rate": {
-      "text": "21.2% (2016)",
-      "country comparison to the world": 93
+      "text": "21.2% (2016)"
     },
     "Children under the age of 5 years underweight": {
-      "text": "12.4% (2015)",
-      "country comparison to the world": 51
+      "text": "12.4% (2015)"
     },
     "Education expenditures": {
-      "text": "3.2% of GDP (2019)",
-      "country comparison to the world": 126
+      "text": "3.2% of GDP (2019)"
     },
     "Literacy": {
       "definition": {
@@ -364,8 +377,7 @@
       },
       "female": {
         "text": "8% (2017 est.)"
-      },
-      "country comparison to the world": 166
+      }
     }
   },
   "Government": {
@@ -399,7 +411,7 @@
       "time difference": {
         "text": "UTC-6 (1 hour behind Washington, DC, during Standard Time)"
       },
-      "note": "etymology: the Spanish conquistadors used many native Americans as allies in their conquest of Guatemala; the site of their first capital (established in 1524), a former Maya settlement, was called \"Quauhtemallan\" by their Nahuatl-speaking Mexican allies, a name that means \"land of trees\" or \"forested land\", but which the Spanish pronounced \"Guatemala\"; the Spanish applied that name to a re founded capital city three years later and eventually it became the name of the country"
+      "note": "<br><br><strong>etymology:</strong> the Spanish conquistadors used many native Americans as allies in their conquest of Guatemala; the site of their first capital (established in 1524), a former Maya settlement, was called \"Quauhtemallan\" by their Nahuatl-speaking Mexican allies, a name that means \"land of trees\" or \"forested land\", but which the Spanish pronounced \"Guatemala\"; the Spanish applied that name to a re founded capital city three years later and eventually it became the name of the country"
     },
     "Administrative divisions": {
       "text": "22 departments (departamentos, singular - departamento); Alta Verapaz, Baja Verapaz, Chimaltenango, Chiquimula, El Progreso, Escuintla, Guatemala, Huehuetenango, Izabal, Jalapa, Jutiapa, Peten, Quetzaltenango, Quiche, Retalhuleu, Sacatepequez, San Marcos, Santa Rosa, Solola, Suchitepequez, Totonicapan, Zacapa"
@@ -443,10 +455,10 @@
     },
     "Executive branch": {
       "chief of state": {
-        "text": "President Alejandro GIAMMATTEI (since 14 January 2020); Vice President Cesar Guillermo CASTILLO Reyes (since 14 January 2020); note - the president is both chief of state and head of government"
+        "text": "President Alejandro GIAMMATTEI (since 14 January 2020); Vice President&nbsp;Cesar Guillermo CASTILLO Reyes&nbsp;(since 14 January 2020); note - the president is both chief of state and head of government"
       },
       "head of government": {
-        "text": "President Alejandro GIAMMATTEI (since 14 January 2020); Vice President Cesar Guillermo CASTILLO Reyes (since 14 January 2020)"
+        "text": "President Alejandro GIAMMATTEI (since 14 January 2020); Vice President&nbsp;Cesar Guillermo CASTILLO Reyes&nbsp;(since 14 January 2020)"
       },
       "cabinet": {
         "text": "Council of Ministers appointed by the president"
@@ -460,7 +472,7 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "unicameral Congress of the Republic or Congreso de la Republica (158 seats; 127 members directly elected in multi-seat constituencies in the country's 22 departments by simple majority vote and 31 directly elected in a single nationwide constituency by closed-list, proportional representation vote; members serve 4-year terms); note - two additional seats will be added to the new congress when it is seated in January 2020"
+        "text": "unicameral Congress of the Republic or Congreso de la Republica (158 seats; 127 members directly elected in multi-seat constituencies in the country's 22 departments by simple majority vote and 31 directly elected in a single nationwide constituency by closed-list,&nbsp;proportional representation vote; members serve 4-year terms); note - two additional seats will be added to the new congress when it is seated in January 2020"
       },
       "elections": {
         "text": "last held on 16 June 2019 (next to be held on June 2023)"
@@ -468,7 +480,7 @@
       "election results": {
         "text": "percent of vote by party - NA; seats by party - UNE 53, VAMOS 16, UCN 12, VALOR 9, BIEN 8, FCN-NACION 8, SEMILLA 7, TODOS 7, VIVA 7, CREO 6, PHG 6, VICTORIA 4, Winaq 4, PC 3, PU 3, URNG 3, PAN 2, MLP 1, PODEMOS 1"
       },
-      "note": "note: current seats by party as of 1 June 2019 - FCN 37, UNE 32, MR 20, TODOS 17, AC 12, EG 7, UCN 6, CREO 5, LIDER 5, VIVA 4, Convergence 3, PAN 3, PP 2, FUERZA 1, PU 1, URNG 1, Winaq 1, independent 1; composition - men 136, women 22, percent of women 13.9%"
+      "note": "<br><br><strong>note:</strong> current seats by party as of 1 June 2019 - FCN 37, UNE 32, MR 20, TODOS 17, AC 12, EG 7, UCN 6, CREO 5, LIDER 5, VIVA 4, Convergence 3, PAN 3, PP 2, FUERZA 1, PU 1, URNG 1, Winaq 1, independent 1; composition - men 136, women 22, percent of women 13.9%"
     },
     "Judicial branch": {
       "highest courts": {
@@ -482,8 +494,8 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Bienestar Nacional or BIEN [Alfonso PORTILLO and Evelyn MORATAYA] ++ Citizen Alliance or AC ++ Citizen Prosperity or PC [Dami Anita Elizabeth KRISTENSON Sales] ++ Commitment, Renewal, and Order or CREO [Roberto GONZALEZ Diaz-Duran] ++ Convergence [Sandra MORAN] ++ Encounter for Guatemala or EG [Nineth MONTENEGRO Cottom] ++ Everyone Together for Guatemala or TODOS [Felipe ALEJOS] ++ Force or FUERZA [Mauricio RADFORD] ++ Guatemalan National Revolutionary Unity or URNG-MAIZ or URNG [Gregorio CHAY Laynez] ++ Humanist Party of Guatemala or PHG [Edmond MULET] ++ Movement for the Liberation of Peoples or MLP [Thelma CABRERA] ++ Movimiento Semilla or SEMILLA [Thelma ALDANA] ++ National Advancement Party or PAN [Harald JOHANNESSEN] ++ National Convergence Front or FCN-NACION or FCN [Jimmy MORALES] ++ National Unity for Hope or UNE [Sandra TORRES] ++ Nationalist Change Union or UCN [Mario ESTRADA] ++ Patriotic Party or PP ++ PODEMOS [Jose Raul VIRGIL Arias] ++ Political Movement Winaq or Winaq [Sonia GUTIERREZ Raguay] ++ Reform Movement or MR ++ Renewed Democratic Liberty or LIDER (dissolved mid-February 2016) ++ TODOS [Felipe ALEJOS] ++ Unionista Party or PU [Alvaro ARZU Escobar] ++ Value or VALOR [Zury RIOS] ++ Vamos por una Guatemala Diferente or VAMOS [Alejandro GIAMMATTEI] ++ Victory or VICTORIA [Amilcar RIVERA] ++ Vision with Values or VIVA [Armando Damian CASTILLO Alvarado]",
-      "note": "note: parties represented in the last election, but have since dissolved - FCN (2017), LIDER (2016), and PP (2017)"
+      "text": "Bienestar Nacional or BIEN [Alfonso PORTILLO and Evelyn MORATAYA]<br />Citizen Alliance or AC<br />Citizen Prosperity or PC [Dami Anita Elizabeth KRISTENSON Sales]<br />Commitment, Renewal, and Order or CREO [Roberto GONZALEZ Diaz-Duran]<br />Convergence [Sandra MORAN]<br />Encounter for Guatemala or EG [Nineth MONTENEGRO Cottom]<br />Everyone Together for Guatemala or TODOS [Felipe ALEJOS]<br />Force or FUERZA [Mauricio RADFORD]<br />Guatemalan National Revolutionary Unity or URNG-MAIZ or URNG [Gregorio CHAY Laynez]<br />Humanist Party of Guatemala or PHG [Edmond MULET]<br />Movement for the Liberation of Peoples or MLP [Thelma CABRERA]<br />Movimiento Semilla or SEMILLA [Thelma ALDANA]<br />National Advancement Party or PAN [Harald JOHANNESSEN]<br />National Convergence Front or FCN-NACION or FCN [Jimmy MORALES]<br />National Unity for Hope or UNE [Sandra TORRES]<br />Nationalist Change Union or UCN [Mario ESTRADA]<br />Patriotic Party or PP<br />PODEMOS [Jose Raul VIRGIL Arias]<br />Political Movement Winaq or Winaq [Sonia GUTIERREZ Raguay]<br />Reform Movement or MR<br />Renewed Democratic Liberty or LIDER (dissolved mid-February 2016)<br />TODOS [Felipe ALEJOS]<br />Unionista Party or PU [Alvaro ARZU Escobar]<br />Value or VALOR [Zury RIOS]<br />Vamos por una Guatemala Diferente or VAMOS [Alejandro GIAMMATTEI]<br />Victory or VICTORIA [Amilcar RIVERA]<br />Vision with Values or VIVA [Armando Damian CASTILLO Alvarado]",
+      "note": "<br><br><em>note:</em> parties represented in the last election, but have since dissolved - FCN (2017), LIDER (2016), and PP (2017)"
     },
     "International organization participation": {
       "text": "BCIE, CACM, CD, CELAC, EITI (compliant country), FAO, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, MINUSTAH, MONUSCO, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNIDO, UNIFIL, Union Latina, UNISFA, UNITAR, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
@@ -527,7 +539,7 @@
     },
     "Flag description": {
       "text": "three equal vertical bands of light blue (hoist side), white, and light blue, with the coat of arms centered in the white band; the coat of arms includes a green and red quetzal (the national bird) representing liberty and a scroll bearing the inscription LIBERTAD 15 DE SEPTIEMBRE DE 1821 (the original date of independence from Spain) all superimposed on a pair of crossed rifles signifying Guatemala's willingness to defend itself and a pair of crossed swords representing honor and framed by a laurel wreath symbolizing victory; the blue bands represent the Pacific Ocean and Caribbean Sea; the white band denotes peace and purity",
-      "note": "note: one of only two national flags featuring a firearm, the other is Mozambique"
+      "note": "<p><strong>note:</strong> one of only two national flags featuring a firearm, the other is Mozambique</p>"
     },
     "National symbol(s)": {
       "text": "quetzal (bird); national colors: blue, white"
@@ -539,20 +551,34 @@
       "lyrics/music": {
         "text": "Jose Joaquin PALMA/Rafael Alvarez OVALLE"
       },
-      "note": "note: adopted 1897, modified lyrics adopted 1934; Cuban poet Jose Joaquin PALMA anonymously submitted lyrics to a public contest calling for a national anthem; his authorship was not discovered until 1911"
+      "note": "<p><strong>note:</strong> adopted 1897, modified lyrics adopted 1934; Cuban poet Jose Joaquin PALMA anonymously submitted lyrics to a public contest calling for a national anthem; his authorship was not discovered until 1911</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "Guatemala is the most populous country in Central America with a GDP per capita roughly half the average for Latin America and the Caribbean. The agricultural sector accounts for 13.5% of GDP and 31% of the labor force; key agricultural exports include sugar, coffee, bananas, and vegetables. Guatemala is the top remittance recipient in Central America as a result of Guatemala's large expatriate community in the US. These inflows are a primary source of foreign income, equivalent to two-thirds of the country's exports and about a tenth of its GDP. ++ The 1996 peace accords, which ended 36 years of civil war, removed a major obstacle to foreign investment, and Guatemala has since pursued important reforms and macroeconomic stabilization. The Dominican Republic-Central America Free Trade Agreement (CAFTA-DR) entered into force in July 2006, spurring increased investment and diversification of exports, with the largest increases in ethanol and non-traditional agricultural exports. While CAFTA-DR has helped improve the investment climate, concerns over security, the lack of skilled workers, and poor infrastructure continue to hamper foreign direct investment. ++ The distribution of income remains highly unequal with the richest 20% of the population accounting for more than 51% of Guatemala's overall consumption. More than half of the population is below the national poverty line, and 23% of the population lives in extreme poverty. Poverty among indigenous groups, which make up more than 40% of the population, averages 79%, with 40% of the indigenous population living in extreme poverty. Nearly one-half of Guatemala's children under age five are chronically malnourished, one of the highest malnutrition rates in the world."
+      "text": "<p>Guatemala is the most populous country in Central America with a GDP per capita roughly half the average for Latin America and the Caribbean. The agricultural sector accounts for 13.5% of GDP and 31% of the labor force; key agricultural exports include sugar, coffee, bananas, and vegetables. Guatemala is the top remittance recipient in Central America as a result of Guatemala's large expatriate community in the US. These inflows are a primary source of foreign income, equivalent to two-thirds of the country's exports and about a tenth of its GDP.</p><p></p><p>The 1996 peace accords, which ended 36 years of civil war, removed a major obstacle to foreign investment, and Guatemala has since pursued important reforms and macroeconomic stabilization. The Dominican Republic-Central America Free Trade Agreement (CAFTA-DR) entered into force in July 2006, spurring increased investment and diversification of exports, with the largest increases in ethanol and non-traditional agricultural exports. While CAFTA-DR has helped improve the investment climate, concerns over security, the lack of skilled workers, and poor infrastructure continue to hamper foreign direct investment.</p><p></p><p>The distribution of income remains highly unequal with the richest 20% of the population accounting for more than 51% of Guatemala's overall consumption. More than half of the population is below the national poverty line, and 23% of the population lives in extreme poverty. Poverty among indigenous groups, which make up more than 40% of the population, averages 79%, with 40% of the indigenous population living in extreme poverty. Nearly one-half of Guatemala's children under age five are chronically malnourished, one of the highest malnutrition rates in the world.</p>"
     },
-    "GDP real growth rate": {
-      "text": "2.8% (2017 est.) / 3.1% (2016 est.) / 4.1% (2015 est.)",
-      "country comparison to the world": 104
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2017": {
+        "text": "2.8% (2017 est.)"
+      },
+      "Real GDP growth rate 2016": {
+        "text": "3.1% (2016 est.)"
+      },
+      "Real GDP growth rate 2015": {
+        "text": "4.1% (2015 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "3.7% (2019 est.) / 3.7% (2018 est.) / 4.4% (2017 est.)",
-      "country comparison to the world": 159
+      "Inflation rate (consumer prices) 2019": {
+        "text": "3.7% (2019 est.)"
+      },
+      "Inflation rate (consumer prices) 2018": {
+        "text": "3.7% (2018 est.)"
+      },
+      "Inflation rate (consumer prices) 2017": {
+        "text": "4.4% (2017 est.)"
+      }
     },
     "Credit ratings": {
       "Fitch rating": {
@@ -565,21 +591,43 @@
         "text": "BB- (2017)"
       }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$138.1 billion (2017 est.) / $134.4 billion (2016 est.) / $130.4 billion (2015 est.)",
-      "note": "note: data are in 2017 dollars"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2019": {
+        "text": "$143.416 billion (2019 est.)"
+      },
+      "Real GDP (purchasing power parity) 2018": {
+        "text": "$138.106 billion (2018 est.)"
+      },
+      "Real GDP (purchasing power parity) 2017": {
+        "text": "$133.804 billion (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2017 dollars</p>"
     },
     "GDP (official exchange rate)": {
       "text": "$76.678 billion (2019 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$8,200 (2017 est.) / $8,100 (2016 est.) / $8,000 (2015 est.)",
-      "note": "note: data are in 2017 dollars",
-      "country comparison to the world": 125
+    "Real GDP per capita": {
+      "Real GDP per capita 2019": {
+        "text": "$8,637 (2019 est.)"
+      },
+      "Real GDP per capita 2018": {
+        "text": "$8,448 (2018 est.)"
+      },
+      "Real GDP per capita 2017": {
+        "text": "$8,317 (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2017 dollars</p>"
     },
     "Gross national saving": {
-      "text": "13.6% of GDP (2017 est.) / 14.4% of GDP (2016 est.) / 13.5% of GDP (2015 est.)",
-      "country comparison to the world": 141
+      "Gross national saving 2017": {
+        "text": "13.6% of GDP (2017 est.)"
+      },
+      "Gross national saving 2016": {
+        "text": "14.4% of GDP (2016 est.)"
+      },
+      "Gross national saving 2015": {
+        "text": "13.5% of GDP (2015 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -613,21 +661,21 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "text": "62.6 (2020)"
+      "Overall Ease of Doing Business score 2020": {
+        "text": "62.6 (2020)"
+      }
     },
-    "Agriculture - products": {
-      "text": "sugarcane, corn, bananas, coffee, beans, cardamom; cattle, sheep, pigs, chickens"
+    "Agricultural products": {
+      "text": "sugar cane, bananas, oil palm fruit, maize, melons, potatoes, milk, plantains, pineapples, rubber"
     },
     "Industries": {
       "text": "sugar, textiles and clothing, furniture, chemicals, petroleum, metals, rubber, tourism"
     },
     "Industrial production growth rate": {
-      "text": "1.8% (2017 est.)",
-      "country comparison to the world": 136
+      "text": "1.8% (2017 est.)"
     },
     "Labor force": {
-      "text": "6.664 million (2017 est.)",
-      "country comparison to the world": 67
+      "text": "6.664 million (2017 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -641,11 +689,23 @@
       }
     },
     "Unemployment rate": {
-      "text": "2.3% (2017 est.) / 2.4% (2016 est.)",
-      "country comparison to the world": 24
+      "Unemployment rate 2017": {
+        "text": "2.3% (2017 est.)"
+      },
+      "Unemployment rate 2016": {
+        "text": "2.4% (2016 est.)"
+      }
     },
     "Population below poverty line": {
       "text": "59.3% (2014 est.)"
+    },
+    "Gini Index coefficient - distribution of family income": {
+      "Gini Index coefficient - distribution of family income 2014": {
+        "text": "48.3 (2014 est.)"
+      },
+      "Gini Index coefficient - distribution of family income 2011": {
+        "text": "56 (2011)"
+      }
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
@@ -664,27 +724,37 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "10.8% (of GDP) (2017 est.)",
-      "country comparison to the world": 212
+      "text": "10.8% (of GDP) (2017 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-1.3% (of GDP) (2017 est.)",
-      "country comparison to the world": 85
+      "text": "-1.3% (of GDP) (2017 est.)"
     },
     "Public debt": {
-      "text": "24.7% of GDP (2017 est.) / 24.5% of GDP (2016 est.)",
-      "country comparison to the world": 175
+      "Public debt 2017": {
+        "text": "24.7% of GDP (2017 est.)"
+      },
+      "Public debt 2016": {
+        "text": "24.5% of GDP (2016 est.)"
+      }
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Current account balance": {
-      "text": "$1.134 billion (2017 est.) / $1.023 billion (2016 est.)",
-      "country comparison to the world": 48
+      "Current account balance 2017": {
+        "text": "$1.134 billion (2017 est.)"
+      },
+      "Current account balance 2016": {
+        "text": "$1.023 billion (2016 est.)"
+      }
     },
     "Exports": {
-      "text": "$11.12 billion (2017 est.) / $10.58 billion (2016 est.)",
-      "country comparison to the world": 93
+      "Exports 2017": {
+        "text": "$11.12 billion (2017 est.)"
+      },
+      "Exports 2016": {
+        "text": "$10.58 billion (2016 est.)"
+      }
     },
     "Exports - partners": {
       "text": "US 33.8%, El Salvador 11.1%, Honduras 8.8%, Nicaragua 5.1%, Mexico 4.7% (2017)"
@@ -693,32 +763,58 @@
       "text": "sugar, coffee, petroleum, apparel, bananas, fruits and vegetables, cardamom, manufacturing products, precious stones and metals, electricity"
     },
     "Imports": {
-      "text": "$17.11 billion (2017 est.) / $15.77 billion (2016 est.)",
-      "country comparison to the world": 91
-    },
-    "Imports - commodities": {
-      "text": "fuels, machinery and transport equipment, construction materials, grain, fertilizers, electricity, mineral products, chemical products, plastic materials and products"
+      "Imports 2017": {
+        "text": "$17.11 billion (2017 est.)"
+      },
+      "Imports 2016": {
+        "text": "$15.77 billion (2016 est.)"
+      }
     },
     "Imports - partners": {
       "text": "US 39.8%, China 10.7%, Mexico 10.7%, El Salvador 5.3% (2017)"
     },
+    "Imports - commodities": {
+      "text": "fuels, machinery and transport equipment, construction materials, grain, fertilizers, electricity, mineral products, chemical products, plastic materials and products"
+    },
     "Reserves of foreign exchange and gold": {
-      "text": "$11.77 billion (31 December 2017 est.) / $9.156 billion (31 December 2016 est.)",
-      "country comparison to the world": 71
+      "Reserves of foreign exchange and gold 31 December 2017": {
+        "text": "$11.77 billion (31 December 2017 est.)"
+      },
+      "Reserves of foreign exchange and gold 31 December 2016": {
+        "text": "$9.156 billion (31 December 2016 est.)"
+      }
     },
     "Debt - external": {
-      "text": "$22.92 billion (31 December 2017 est.) / $21.45 billion (31 December 2016 est.)",
-      "country comparison to the world": 89
+      "Debt - external 31 December 2017": {
+        "text": "$22.92 billion (31 December 2017 est.)"
+      },
+      "Debt - external 31 December 2016": {
+        "text": "$21.45 billion (31 December 2016 est.)"
+      }
     },
     "Exchange rates": {
-      "text": "quetzales (GTQ) per US dollar - / 7.323 (2017 est.) / 7.5999 (2016 est.) / 7.5999 (2015 est.) / 7.6548 (2014 est.) / 7.7322 (2013 est.)"
+      "currency": {
+        "text": "quetzales (GTQ) per US dollar -"
+      },
+      "Exchange rates 2017": {
+        "text": "7.323 (2017 est.)"
+      },
+      "Exchange rates 2016": {
+        "text": "7.5999 (2016 est.)"
+      },
+      "Exchange rates 2015": {
+        "text": "7.5999 (2015 est.)"
+      },
+      "Exchange rates 2014": {
+        "text": "7.6548 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "7.7322 (2013 est.)"
+      }
     }
   },
   "Energy": {
     "Electricity access": {
-      "population without electricity": {
-        "text": "1 million (2019)"
-      },
       "electrification - total population": {
         "text": "92% (2019)"
       },
@@ -730,96 +826,73 @@
       }
     },
     "Electricity - production": {
-      "text": "12.12 billion kWh (2016 est.)",
-      "country comparison to the world": 96
+      "text": "12.12 billion kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "10.1 billion kWh (2016 est.)",
-      "country comparison to the world": 96
+      "text": "10.1 billion kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "1.858 billion kWh (2017 est.)",
-      "country comparison to the world": 47
+      "text": "1.858 billion kWh (2017 est.)"
     },
     "Electricity - imports": {
-      "text": "747 million kWh (2016 est.)",
-      "country comparison to the world": 75
+      "text": "747 million kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "4.605 million kW (2016 est.)",
-      "country comparison to the world": 85
+      "text": "4.605 million kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "41% of total installed capacity (2016 est.)",
-      "country comparison to the world": 166
+      "text": "41% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 102
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "31% of total installed capacity (2017 est.)",
-      "country comparison to the world": 67
+      "text": "31% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "28% of total installed capacity (2017 est.)",
-      "country comparison to the world": 23
+      "text": "28% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "9,600 bbl/day (2018 est.)",
-      "country comparison to the world": 78
+      "text": "9,600 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "9,383 bbl/day (2017 est.)",
-      "country comparison to the world": 59
+      "text": "9,383 bbl/day (2017 est.)"
     },
     "Crude oil - imports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 136
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "83.07 million bbl (1 January 2018 est.)",
-      "country comparison to the world": 71
+      "text": "83.07 million bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "1,162 bbl/day (2015 est.)",
-      "country comparison to the world": 105
+      "text": "1,162 bbl/day (2015 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "89,000 bbl/day (2016 est.)",
-      "country comparison to the world": 84
+      "text": "89,000 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "10,810 bbl/day (2015 est.)",
-      "country comparison to the world": 80
+      "text": "10,810 bbl/day (2015 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "97,900 bbl/day (2015 est.)",
-      "country comparison to the world": 55
+      "text": "97,900 bbl/day (2015 est.)"
     },
     "Natural gas - production": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 141
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 154
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 116
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 134
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "2.96 billion cu m (1 January 2006 est.)",
-      "country comparison to the world": 94
+      "text": "2.96 billion cu m (1 January 2006 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "17.15 million Mt (2017 est.)",
-      "country comparison to the world": 91
+      "text": "17.15 million Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -829,8 +902,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "11.23 (2019 est.)"
-      },
-      "country comparison to the world": 58
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -838,20 +910,19 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "118.73 (2019 est.)"
-      },
-      "country comparison to the world": 61
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "network centered in the city of Guatemala; one of the lowest teledensities in the region especially in the country, rural areas have no fixed-line access so mobile services adopted as necessary; state-owned telecommunications company privatized in the late 1990s opened the way for competition; steady improvement of fixed-line which has also spurred growth in mobile-cellular and broadband; open regulatory framework coupled with competition and greater disposable household revenue spurs growth (2020)"
+        "text": "network centered in the city of Guatemala; one of the lowest teledensities in the region especially in the country, rural areas have no fixed-line access so mobile services adopted as necessary; state-owned telecommunications company privatized in the late 1990s opened the way for competition; steady improvement of fixed-line which has also spurred growth in mobile-cellular and broadband; open regulatory framework coupled with&nbsp;competition and greater disposable household revenue spurs growth (2020)"
       },
       "domestic": {
         "text": "fixed-line teledensity roughly 11 per 100 persons; fixed-line investments are concentrating on improving rural connectivity; mobile-cellular teledensity about 119 per 100 persons (2019)"
       },
       "international": {
-        "text": "country code - 502; landing points for the ARCOS, AMX-1, American Movil-Texius West Coast Cable and the SAm-1 fiber-optic submarine cable system that, together, provide connectivity to South and Central America, parts of the Caribbean, and the US; connected to Central American Microwave System; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)"
+        "text": "country code - 502; landing points for&nbsp;the ARCOS, AMX-1, American Movil-Texius&nbsp;West Coast Cable and the SAm-1 fiber-optic submarine cable system that, together, provide connectivity to South and Central America, parts of the Caribbean, and the US; connected to Central American Microwave System; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "4 privately owned national terrestrial TV channels dominate TV broadcasting; multi-channel satellite and cable services are available; 1 government-owned radio station and hundreds of privately owned radio stations (2019)"
@@ -865,8 +936,7 @@
       },
       "percent of population": {
         "text": "65% (July 2018 est.)"
-      },
-      "country comparison to the world": 50
+      }
     },
     "Broadband - fixed subscriptions": {
       "total": {
@@ -874,8 +944,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "3 (2017 est.)"
-      },
-      "country comparison to the world": 84
+      }
     }
   },
   "Transportation": {
@@ -897,8 +966,9 @@
       "text": "TG (2016)"
     },
     "Airports": {
-      "text": "291 (2013)",
-      "country comparison to the world": 23
+      "total": {
+        "text": "291 (2013)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -947,8 +1017,7 @@
       "narrow gauge": {
         "text": "800 km 0.914-m gauge (2018)"
       },
-      "note": "note: despite the existence of a railway network, all rail service was suspended in 2007 and no passenger or freight train currently runs in the country (2018)",
-      "country comparison to the world": 97
+      "note": "<br><br><strong>note:</strong> despite the existence of a railway network, all rail service was suspended in 2007 and no passenger or freight train currently runs in the country (2018)"
     },
     "Roadways": {
       "total": {
@@ -959,21 +1028,18 @@
       },
       "unpaved": {
         "text": "10,132 km (includes 4,960 km of rural roads) (2016)"
-      },
-      "country comparison to the world": 119
+      }
     },
     "Waterways": {
-      "text": "990 km (260 km navigable year round; additional 730 km navigable during high-water season) (2012)",
-      "country comparison to the world": 65
+      "text": "990 km (260 km navigable year round; additional 730 km navigable during high-water season) (2012)"
     },
     "Merchant marine": {
       "total": {
-        "text": "9"
+        "text": "8"
       },
       "by type": {
-        "text": "oil tanker 1, other 8 (2019)"
-      },
-      "country comparison to the world": 157
+        "text": "oil tanker 1, other 7 (2020)"
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -986,8 +1052,21 @@
       "text": "Army of Guatemala (Ejercito de Guatemala): Land Forces (Fuerzas de Tierra), Naval Forces (Fuerza de Mar), and Air Force (Fuerza de Aire); Ministry of Interior: National Civil Police (Policia Nacional Civil; includes paramilitary units) (2020)"
     },
     "Military expenditures": {
-      "text": "0.4% of GDP (2019) / 0.4% of GDP (2018) / 0.4% of GDP (2017) / 0.4% of GDP (2016) / 0.4% of GDP (2015)",
-      "country comparison to the world": 152
+      "Military Expenditures 2019": {
+        "text": "0.4% of GDP (2019)"
+      },
+      "Military Expenditures 2018": {
+        "text": "0.4% of GDP (2018)"
+      },
+      "Military Expenditures 2017": {
+        "text": "0.4% of GDP (2017)"
+      },
+      "Military Expenditures 2016": {
+        "text": "0.4% of GDP (2016)"
+      },
+      "Military Expenditures 2015": {
+        "text": "0.4% of GDP (2015)"
+      }
     },
     "Military and security service personnel strengths": {
       "text": "assessments of the size of the Army of Guatemala vary; approximately 21,500 active personnel (19,000 Land Forces; 1,500 Naval Forces; 1,000 Air Forces); approximately 30,000 National Civil Police (2019 est.)"
@@ -1004,7 +1083,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "annual ministerial meetings under the Organization of American States-initiated Agreement on the Framework for Negotiations and Confidence Building Measures continue to address Guatemalan land and maritime claims in Belize and the Caribbean Sea; Guatemala persists in its territorial claim to half of Belize, but agrees to Line of Adjacency to keep Guatemalan squatters out of Belize's forested interior; both countries agreed in April 2012 to hold simultaneous referenda, scheduled for 6 October 2013, to decide whether to refer the dispute to the ICJ for binding resolution, but this vote was suspended indefinitely; Mexico must deal with thousands of impoverished Guatemalans and other Central Americans who cross the porous border looking for work in Mexico and the US"
+      "text": "<p>annual ministerial meetings under the Organization of American States-initiated Agreement on the Framework for Negotiations and Confidence Building Measures continue to address Guatemalan land and maritime claims in Belize and the Caribbean Sea; Guatemala persists in its territorial claim to half of Belize, but agrees to Line of Adjacency to keep Guatemalan squatters out of Belize's forested interior; both countries agreed in April 2012 to hold simultaneous referenda, scheduled for 6 October 2013, to decide whether to refer the dispute to the ICJ for binding resolution, but this vote was suspended indefinitely; Mexico must deal with thousands of impoverished Guatemalans and other Central Americans who cross the porous border looking for work in Mexico and the US</p>"
     },
     "Refugees and internally displaced persons": {
       "IDPs": {

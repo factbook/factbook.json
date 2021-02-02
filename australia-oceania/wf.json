@@ -24,14 +24,15 @@
       "water": {
         "text": "0 sq km"
       },
-      "note": "note: includes Ile Uvea (Wallis Island), Ile Futuna (Futuna Island), Ile Alofi, and 20 islets",
-      "country comparison to the world": 220
+      "note": "<p><strong>note:</strong> includes Ile Uvea (Wallis Island), Ile Futuna (Futuna Island), Ile Alofi, and 20 islets</p>"
     },
     "Area - comparative": {
       "text": "1.5 times the size of Washington, DC"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "129 km"
@@ -65,8 +66,14 @@
       "agricultural land": {
         "text": "42.8% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "7.1% (2011 est.) / 35.7% (2011 est.) / 0% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 7.1% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 35.7% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 0% (2011 est.)"
       },
       "forest": {
         "text": "41.9% (2011 est.)"
@@ -90,8 +97,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "15,854 (July 2020 est.)",
-      "country comparison to the world": 220
+      "text": "15,851 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -136,25 +142,20 @@
       },
       "female": {
         "text": "35.1 years (2020 est.)"
-      },
-      "country comparison to the world": 93
+      }
     },
     "Population growth rate": {
-      "text": "0.28% (2020 est.)",
-      "country comparison to the world": 173
+      "text": "0.26% (2021 est.)"
     },
     "Birth rate": {
-      "text": "12.7 births/1,000 population (2020 est.)",
-      "country comparison to the world": 150
+      "text": "12.49 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "5.7 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 178
+      "text": "5.74 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "-4.3 migrant(s)/1,000 population (2020 est.)",
-      "note": "note: there has been steady emigration from Wallis and Futuna to New Caledonia",
-      "country comparison to the world": 191
+      "text": "-4.16 migrant(s)/1,000 population (2021 est.)",
+      "note": "<p><strong>note:</strong> there has been steady emigration from Wallis and Futuna to New Caledonia</p>"
     },
     "Urbanization": {
       "urban population": {
@@ -192,46 +193,55 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "4.2 deaths/1,000 live births"
+        "text": "4.06 deaths/1,000 live births"
       },
       "male": {
-        "text": "4.4 deaths/1,000 live births"
+        "text": "3.99 deaths/1,000 live births"
       },
       "female": {
-        "text": "3.9 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 188
+        "text": "4.14 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "80.2 years"
+        "text": "80.45 years"
       },
       "male": {
-        "text": "77.2 years"
+        "text": "77.44 years"
       },
       "female": {
-        "text": "83.4 years (2020 est.)"
-      },
-      "country comparison to the world": 48
+        "text": "83.61 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "1.71 children born/woman (2020 est.)",
-      "country comparison to the world": 171
+      "text": "1.71 children born/woman (2021 est.)"
     },
     "Drinking water source": {
-      "improved": {
-        "text": "rural: 100% of population / total: 100% of population"
+      "improved: rural": {
+        "text": "rural: 100% of population"
       },
-      "unimproved": {
-        "text": "rural: 0% of population / total: 0% of population (2017)"
+      "improved: total": {
+        "text": "total: 100% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 0% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 0% of population (2017)"
       }
     },
     "Sanitation facility access": {
-      "improved": {
-        "text": "rural: 100% of population / total: 100% of population"
+      "improved: rural": {
+        "text": "rural: 100% of population"
       },
-      "unimproved": {
-        "text": "rural: 0% of population / total: 0% of population (2017 est.)"
+      "improved: total": {
+        "text": "total: 100% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 0% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 0% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -317,14 +327,14 @@
       "text": "French civil law"
     },
     "Citizenship": {
-      "note": "see France"
+      "text": "see France"
     },
     "Suffrage": {
       "text": "18 years of age; universal"
     },
     "Executive branch": {
       "chief of state": {
-        "text": "President Emmanuel MACRON (since 14 May 2017); represented by Administrator Superior Herve JONATHAN (since 25 November 2020)"
+        "text": "President Emmanuel MACRON (since 14 May 2017); represented by Administrator Superior Herve JONATHAN (since 11 January 2021)"
       },
       "head of government": {
         "text": "President of the Territorial Assembly David VERGE (since 4 April 2017)"
@@ -335,18 +345,19 @@
       "elections/appointments": {
         "text": "French president elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); administrator superior appointed by the French president on the advice of the French Ministry of the Interior; the presidents of the Territorial Government and the Territorial Assembly elected by assembly members"
       },
-      "note": "note: there are 3 traditional kings with limited powers"
+      "note": "<p><strong>note:</strong> there are 3 traditional kings with limited powers</p>"
     },
     "Legislative branch": {
       "description": {
-        "text": "unicameral Territorial Assembly or Assemblee Territoriale (20 seats - Wallis 13, Futuna 7; members directly elected in multi-seat constituencies by party-list proportional representation vote to serve 5-year terms) ++ Wallis and Futuna indirectly elects 1 senator to the French Senate by an electoral college by absolute majority vote in 2 rounds if needed for a 6-year term, and directly elects 1 deputy to the French National Assembly by absolute majority vote for a 5-year term"
+        "text": "unicameral Territorial Assembly or Assemblee Territoriale (20 seats - Wallis 13, Futuna 7; members directly elected in multi-seat constituencies by party-list proportional representation vote to serve 5-year terms)<br />Wallis and Futuna indirectly elects 1 senator to the French Senate by an electoral college by absolute majority vote in 2 rounds if needed for a 6-year term, and directly elects 1 deputy to the French National Assembly by absolute majority vote for a 5-year term"
       },
       "elections": {
-        "text": "Territorial Assembly - last held on 26 March 2017 (next to be held in March 2022) ++ French Senate - last held on 28 September 2014 (next to be held by September 2020) ++ French National Assembly - last held on 11 June 2017 (next to be held in June 2022)"
+        "text": "Territorial Assembly - last held on 26 March 2017 (next to be held in March 2022)<br />French Senate - last held on 28 September 2014 (next to be held by September 2020)<br />French National Assembly - last held on 11 June 2017 (next to be held in June 2022)"
       },
       "election results": {
-        "text": "Territorial Assembly - percent of vote by party - NA; seats by party - 2 members are elected from the list Fia gaue fakatahi kihe kaha'u e lelei and 1 each from 18 other lists; composition - men 14, women 6, percent of women 30% ++ French Senate - LR 1 ++ French National Assembly - independent 1"
-      }
+        "text": "Territorial Assembly - percent of vote by party - NA; seats by party - 2 members are elected from the list Fia gaue fakatahi kihe kaha'u e lelei and 1 each from 18 other lists; composition - men 14, women 6, percent of women 30%<br /> French Senate - LR 1<br />French National Assembly - independent 1"
+      },
+      "note": "<br><br>&nbsp;"
     },
     "Judicial branch": {
       "highest courts": {
@@ -360,48 +371,55 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Left Radical Party or PRG [Guillaume LACROIX] (formerly Radical Socialist Party or PRS and the Left Radical Movement or MRG) ++ Lua Kae Tahi (Giscardians) (leader NA) ++ Rally for Wallis and Futuna-The Republicans (Rassemblement pour Wallis and Futuna) or RPWF-LR [Clovis LOGOLOGOFOLAU] ++ Socialist Party or PS ++ Taumu'a Lelei [Soane Muni UHILA] ++ Union Pour la Democratie Francaise or UDF"
+      "text": "Left Radical Party or PRG [Guillaume LACROIX] (formerly Radical Socialist Party or PRS and the Left Radical Movement or MRG)<br />Lua Kae Tahi (Giscardians) (leader NA)<br />Rally for Wallis and Futuna-The Republicans (Rassemblement pour Wallis and Futuna) or RPWF-LR [Clovis LOGOLOGOFOLAU]<br />Socialist Party or PS<br />Taumu'a Lelei [Soane Muni UHILA]<br />Union Pour la Democratie Francaise or UDF"
     },
     "International organization participation": {
       "text": "PIF (observer), SPC, UPU"
     },
     "Diplomatic representation in the US": {
-      "note": "none (overseas collectivity of France)"
+      "text": "none (overseas&nbsp;collectivity of France)"
     },
     "Diplomatic representation from the US": {
-      "note": "none (overseas collectivity of France)"
+      "text": "none (overseas collectivity of France)"
     },
     "Flag description": {
       "text": "unofficial, local flag has a red field with four white isosceles triangles in the middle, representing the three native kings of the islands and the French administrator; the apexes of the triangles are oriented inward and at right angles to each other; the flag of France, outlined in white on two sides, is in the upper hoist quadrant",
-      "note": "note: the design is derived from an original red banner with a white cross pattee that was introduced in the 19th century by French missionaries; the flag of France is used for official occasions"
+      "note": "<p><strong>note:</strong> the design is derived from an original red banner with a white cross pattee that was introduced in the 19th century by French missionaries; the flag of France is used for official occasions</p>"
     },
     "National symbol(s)": {
       "text": "red saltire (Saint Andrew's Cross) on a white square on a red field; national colors: red, white"
     },
     "National anthem": {
-      "note": "note: as a territory of France, \"La Marseillaise\" is official (see France)"
+      "text": "<p><strong>note:</strong> as a territory of France, \"La Marseillaise\" is official (see France)</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "The economy is limited to traditional subsistence agriculture, with about 80% of labor force earnings coming from agriculture (coconuts and vegetables), livestock (mostly pigs), and fishing. However, roughly 70% of the labor force is employed in the public sector, although only about a third of the population is in salaried employment. ++ Revenues come from French Government subsidies, licensing of fishing rights to Japan and South Korea, import taxes, and remittances from expatriate workers in New Caledonia. France directly finances the public sector and health-care and education services. It also provides funding for key development projects in a range of areas, including infrastructure, economic development, environmental management, and health-care facilities. ++ A key concern for Wallis and Futuna is an aging population with consequent economic development issues. Very few people aged 18-30 live on the islands due to the limited formal employment opportunities. Improving job creation is a current priority for the territorial government."
+      "text": "<p>The economy is limited to traditional subsistence agriculture, with about 80% of labor force earnings coming from agriculture (coconuts and vegetables), livestock (mostly pigs), and fishing. However, roughly 70% of the labor force is employed in the public sector, although only about a third of the population is in salaried employment.</p><p></p><p>Revenues come from French Government subsidies, licensing of fishing rights to Japan and South Korea, import taxes, and remittances from expatriate workers in New Caledonia. France directly finances the public sector and health-care and education services. It also provides funding for key development projects in a range of areas, including infrastructure, economic development, environmental management, and health-care facilities.</p><p></p><p>A key concern for Wallis and Futuna is an aging population with consequent economic development issues. Very few people aged 18-30 live on the islands due to the limited formal employment opportunities. Improving job creation is a current priority for the territorial government.</p>"
     },
-    "GDP real growth rate": {
-      "note": "NA"
+    "Real GDP growth rate": {
+      "text": "<p>NA</p>"
     },
     "Inflation rate (consumer prices)": {
-      "text": "0.9% (2015) / 2.8% (2005)",
-      "country comparison to the world": 63
+      "Inflation rate (consumer prices) 2015": {
+        "text": "0.9% (2015)"
+      },
+      "Inflation rate (consumer prices) 2005": {
+        "text": "2.8% (2005)"
+      }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$60 million (2004 est.)"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2004": {
+        "text": "$60 million (2004 est.)"
+      }
     },
     "GDP (official exchange rate)": {
       "text": "$195 million (2005) (2005)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$3,800 (2004 est.)",
-      "country comparison to the world": 168
+    "Real GDP per capita": {
+      "Real GDP per capita 2004": {
+        "text": "$3,800 (2004 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -422,9 +440,7 @@
         "text": "54% (2005)"
       }
     },
-    "Ease of Doing Business Index scores": {
-    },
-    "Agriculture - products": {
+    "Agricultural products": {
       "text": "coconuts, breadfruit, yams, taro, bananas; pigs, goats; fish"
     },
     "Industries": {
@@ -434,8 +450,7 @@
       "text": "NA"
     },
     "Labor force": {
-      "text": "4,482 (2013)",
-      "country comparison to the world": 222
+      "text": "4,482 (2013)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -449,8 +464,12 @@
       }
     },
     "Unemployment rate": {
-      "text": "8.8% (2013 est.) / 12.2% (2008 est.)",
-      "country comparison to the world": 134
+      "Unemployment rate 2013": {
+        "text": "8.8% (2013 est.)"
+      },
+      "Unemployment rate 2008": {
+        "text": "12.2% (2008 est.)"
+      }
     },
     "Population below poverty line": {
       "text": "NA"
@@ -472,41 +491,57 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "16.7% (of GDP) NA (2015 est.)",
-      "country comparison to the world": 175
+      "text": "16.7% (of GDP) NA (2015 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-0.8% (of GDP) NA (2015 est.)",
-      "country comparison to the world": 70
+      "text": "-0.8% (of GDP) NA (2015 est.)"
     },
     "Public debt": {
-      "text": "5.6% of GDP (2004 est.)",
-      "note": "note: offical data; data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions",
-      "country comparison to the world": 204
+      "Public debt 2004": {
+        "text": "5.6% of GDP (2004 est.)"
+      },
+      "note": "<p><strong>note:</strong> offical data; data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions</p>"
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Exports": {
-      "text": "$47,450 (2004 est.)",
-      "country comparison to the world": 223
+      "Exports 2004": {
+        "text": "$47,450 (2004 est.)"
+      }
     },
     "Exports - commodities": {
       "text": "copra, chemicals, construction materials"
     },
     "Imports": {
-      "text": "$61.17 million (2004 est.)",
-      "country comparison to the world": 220
+      "Imports 2004": {
+        "text": "$61.17 million (2004 est.)"
+      }
     },
     "Imports - commodities": {
       "text": "chemicals, machinery, consumer goods"
     },
     "Debt - external": {
-      "text": "$3.67 million (2004)",
-      "country comparison to the world": 201
+      "Debt - external 2004": {
+        "text": "$3.67 million (2004)"
+      }
     },
     "Exchange rates": {
-      "text": "Comptoirs Francais du Pacifique francs (XPF) per US dollar - / 110.2 (2015 est.) / 89.8 (2014 est.) / 89.85 (2013 est.) / 90.56 (2012 est.)"
+      "currency": {
+        "text": "Comptoirs Francais du Pacifique francs (XPF) per US dollar -"
+      },
+      "Exchange rates 2015": {
+        "text": "110.2 (2015 est.)"
+      },
+      "Exchange rates 2014": {
+        "text": "89.8 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "89.85 (2013 est.)"
+      },
+      "Exchange rates 2012": {
+        "text": "90.56 (2012 est.)"
+      }
     }
   },
   "Communications": {
@@ -516,8 +551,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "25.38 (2019 est.)"
-      },
-      "country comparison to the world": 207
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
@@ -527,9 +561,9 @@
         "text": "fixed-line teledensity 25 per 100 persons (2019)"
       },
       "international": {
-        "text": "country code - 681; landing point for the Tui-Samoa submarine cable network connecting Wallis & Futuna, Samoa and Fiji (2020)"
+        "text": "country code - 681; landing point for the Tui-Samoa submarine cable network connecting Wallis &amp; Futuna, Samoa and Fiji (2020)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "the publicly owned French Overseas Network (RFO), which broadcasts to France's overseas departments, collectivities, and territories, is carried on the RFO Wallis and Fortuna TV and radio stations (2019)"
@@ -543,14 +577,14 @@
       },
       "percent of population": {
         "text": "22.1% (July 2016 est.)"
-      },
-      "country comparison to the world": 220
+      }
     }
   },
   "Transportation": {
     "Airports": {
-      "text": "2 (2013)",
-      "country comparison to the world": 207
+      "total": {
+        "text": "2 (2013)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -576,7 +610,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "none"
+      "text": "<p>none</p>"
     }
   }
 }

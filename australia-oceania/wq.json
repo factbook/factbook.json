@@ -23,14 +23,15 @@
       },
       "water": {
         "text": "0 sq km"
-      },
-      "country comparison to the world": 245
+      }
     },
     "Area - comparative": {
       "text": "about 11 times the size of the National Mall in Washington, DC"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "19.3 km"
@@ -64,8 +65,14 @@
       "agricultural land": {
         "text": "0% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "0% (2011 est.) / 0% (2011 est.) / 0% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 0% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 0% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 0% (2011 est.)"
       },
       "forest": {
         "text": "0% (2011 est.)"
@@ -90,7 +97,7 @@
   "People and Society": {
     "Population": {
       "text": "no indigenous inhabitants (2018 est.)",
-      "note": "note: approximately 100 military personnel and civilian contractors maintain and operate the airfield and communications facilities"
+      "note": "<p><strong>note:</strong> approximately 100 military personnel and civilian contractors maintain and operate the airfield and communications facilities</p>"
     }
   },
   "Government": {
@@ -115,7 +122,7 @@
       "text": "US common law"
     },
     "Citizenship": {
-      "note": "see United States"
+      "text": "see United States"
     },
     "Flag description": {
       "text": "the flag of the US is used"
@@ -124,8 +131,6 @@
   "Economy": {
     "Economic overview": {
       "text": "Economic activity is limited to providing services to military personnel and contractors located on the island. All food and manufactured goods must be imported."
-    },
-    "Ease of Doing Business Index scores": {
     }
   },
   "Energy": {
@@ -135,8 +140,7 @@
       }
     },
     "Crude oil - production": {
-      "text": "0 bbl/day (2018 est.)",
-      "country comparison to the world": 216
+      "text": "0 bbl/day (2018 est.)"
     }
   },
   "Communications": {
@@ -151,8 +155,9 @@
   },
   "Transportation": {
     "Airports": {
-      "text": "1 (2018)",
-      "country comparison to the world": 237
+      "total": {
+        "text": "1 (2018)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -163,7 +168,7 @@
       }
     },
     "Ports and terminals": {
-      "note": "none; two offshore anchorages for large ships"
+      "text": "none; two offshore anchorages for large ships"
     },
     "Transportation - note": {
       "text": "there are no commercial or civilian flights to and from Wake Island, except in direct support of island missions; emergency landing is available"
@@ -176,7 +181,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "claimed by Marshall Islands"
+      "text": "<p>claimed by Marshall Islands</p>"
     }
   }
 }

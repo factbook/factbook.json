@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "New Zealand occupied the German protectorate of Western Samoa at the outbreak of World War I in 1914. It continued to administer the islands as a mandate and then as a trust territory until 1962, when the islands became the first Polynesian nation to reestablish independence in the 20th century. The country dropped the \"Western\" from its name in 1997. ++ In the late 2000s, Samoa began making efforts to more closely align with Australia and New Zealand. In 2009, Samoa changed its driving orientation to the left side of the road, in line with other Commonwealth countries. In 2011, Samoa jumped forward one day - skipping December 30 - by moving to the west of the International Date Line so that it was one hour ahead of New Zealand and three hours ahead of the east coast of Australia, rather than 23 and 21 hours behind, respectively."
+      "text": "New Zealand occupied the German protectorate of Western Samoa at the outbreak of World War I in 1914. It continued to administer the islands as a mandate and then as a trust territory until 1962, when the islands became the first Polynesian nation to reestablish independence in the 20th century. The country dropped the \"Western\" from its name in 1997.<br /><br />In the late 2000s, Samoa began making efforts to more closely align with Australia and New Zealand. In 2009, Samoa changed its driving orientation to the left side of the road, in line with other Commonwealth countries. In 2011, Samoa jumped forward one day - skipping December 30 - by moving to the west of the International Date Line so that it was one hour ahead of New Zealand and three hours ahead of the east coast of Australia, rather than 23 and 21 hours behind, respectively."
     }
   },
   "Geography": {
@@ -23,14 +23,15 @@
       },
       "water": {
         "text": "10 sq km"
-      },
-      "country comparison to the world": 177
+      }
     },
     "Area - comparative": {
       "text": "slightly smaller than Rhode Island"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "403 km"
@@ -39,11 +40,11 @@
       "territorial sea": {
         "text": "12 nm"
       },
-      "exclusive economic zone": {
-        "text": "200 nm"
-      },
       "contiguous zone": {
         "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
       }
     },
     "Climate": {
@@ -67,8 +68,14 @@
       "agricultural land": {
         "text": "12.4% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "2.8% (2011 est.) / 7.8% (2011 est.) / 1.8% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 2.8% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 7.8% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 1.8% (2011 est.)"
       },
       "forest": {
         "text": "60.4% (2011 est.)"
@@ -84,7 +91,7 @@
       "text": "about three-quarters of the population lives on the island of Upolu"
     },
     "Natural hazards": {
-      "text": "occasional cyclones; active volcanism ++ volcanism: Savai'I Island (1,858 m), which last erupted in 1911, is historically active"
+      "text": "<p>occasional cyclones; active volcanism</p><p><strong>volcanism:</strong> Savai'I Island (1,858 m), which last erupted in 1911, is historically active</p>"
     },
     "Environment - current issues": {
       "text": "soil erosion, deforestation, invasive species, overfishing"
@@ -103,8 +110,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "203,774 (July 2020 est.)",
-      "country comparison to the world": 184
+      "text": "204,898 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -116,7 +122,7 @@
     },
     "Ethnic groups": {
       "text": "Samoan 96%, Samoan/New Zealander 2%, other 1.9% (2011 est.)",
-      "note": "note: data represent the population by country of citizenship"
+      "note": "<p><strong>note:</strong> data represent the population by country of citizenship</p>"
     },
     "Languages": {
       "text": "Samoan (Polynesian) (official) 91.1%, Somoan/English 6.7%, English (official) 0.5%, other 0.2%, unspecified 1.6% (2006 est.)"
@@ -164,24 +170,19 @@
       },
       "female": {
         "text": "26 years (2020 est.)"
-      },
-      "country comparison to the world": 159
+      }
     },
     "Population growth rate": {
-      "text": "0.61% (2020 est.)",
-      "country comparison to the world": 148
+      "text": "0.61% (2021 est.)"
     },
     "Birth rate": {
-      "text": "19.6 births/1,000 population (2020 est.)",
-      "country comparison to the world": 76
+      "text": "19.32 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "5.4 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 186
+      "text": "5.36 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "-8.1 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 213
+      "text": "-7.82 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "about three-quarters of the population lives on the island of Upolu"
@@ -222,49 +223,57 @@
     },
     "Mother's mean age at first birth": {
       "text": "23.6 years (2009 est.)",
-      "note": "note: median age at first birth among women 25-29"
+      "note": "<p><strong>note:</strong> median age at first birth among women 25-29</p>"
     },
     "Maternal mortality rate": {
-      "text": "43 deaths/100,000 live births (2017 est.)",
-      "country comparison to the world": 98
+      "text": "43 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "17 deaths/1,000 live births"
+        "text": "18.75 deaths/1,000 live births"
       },
       "male": {
-        "text": "20 deaths/1,000 live births"
+        "text": "22.25 deaths/1,000 live births"
       },
       "female": {
-        "text": "13.9 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 87
+        "text": "15.07 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "74.7 years"
+        "text": "74.92 years"
       },
       "male": {
-        "text": "71.7 years"
+        "text": "72.01 years"
       },
       "female": {
-        "text": "77.7 years (2020 est.)"
-      },
-      "country comparison to the world": 128
+        "text": "77.98 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "2.5 children born/woman (2020 est.)",
-      "country comparison to the world": 74
+      "text": "2.46 children born/woman (2021 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "26.9% (2014)"
     },
     "Drinking water source": {
-      "improved": {
-        "text": "urban: 100% of population / rural: 96.8% of population / total: 97.4% of population"
+      "improved: urban": {
+        "text": "urban: 100% of population"
       },
-      "unimproved": {
-        "text": "urban: 0% of population / rural: 3.2% of population / total: 2.6% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 96.8% of population"
+      },
+      "improved: total": {
+        "text": "total: 97.4% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 0% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 3.2% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 2.6% of population (2017 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -274,11 +283,23 @@
       "text": "0.34 physicians/1,000 population (2016)"
     },
     "Sanitation facility access": {
-      "improved": {
-        "text": "urban: 98.5% of population / rural: 98.1% of population / total: 98.2% of population"
+      "improved: urban": {
+        "text": "urban: 98.5% of population"
       },
-      "unimproved": {
-        "text": "urban: 1.5% of population / rural: 1.9% of population / total: 1.8% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 98.1% of population"
+      },
+      "improved: total": {
+        "text": "total: 98.2% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 1.5% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 1.9% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 1.8% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -302,16 +323,13 @@
       }
     },
     "Obesity - adult prevalence rate": {
-      "text": "47.3% (2016)",
-      "country comparison to the world": 8
+      "text": "47.3% (2016)"
     },
     "Children under the age of 5 years underweight": {
-      "text": "3.2% (2014)",
-      "country comparison to the world": 97
+      "text": "3.2% (2014)"
     },
     "Education expenditures": {
-      "text": "4.2% of GDP (2016)",
-      "country comparison to the world": 88
+      "text": "4.2% of GDP (2016)"
     },
     "Literacy": {
       "definition": {
@@ -336,8 +354,7 @@
       },
       "female": {
         "text": "43.4% (2017 est.)"
-      },
-      "country comparison to the world": 28
+      }
     }
   },
   "Government": {
@@ -358,7 +375,7 @@
         "text": "Western Samoa"
       },
       "etymology": {
-        "text": "the meaning of Samoa is disputed; some modern explanations are that the \"sa\" connotes \"sacred\" and \"moa\" indicates \"center,\" so the name can mean \"Holy Center\"; alternatively, some assertions state that it can mean \"place of the sacred moa bird\" of Polynesian mythology; the name, however, may go back to Proto-Polynesian (PPn) times (before 1000 B.C.); a plausible PPn reconstruction has the first syllable as \"sa'a\" meaning \"tribe or people\" and \"moa\" meaning \"deep sea or ocean\" to convey the meaning \"people of the deep sea\""
+        "text": "the meaning of Samoa is disputed; some modern explanations are that the \"sa\" connotes&nbsp; \"sacred\" and \"moa\" indicates \"center,\" so the name can mean \"Holy Center\"; alternatively, some assertions state that it can mean \"place of the sacred moa bird\" of Polynesian mythology; the name, however, may go back to Proto-Polynesian (PPn) times (before 1000 B.C.); a plausible PPn reconstruction has the first syllable as \"sa'a\" meaning \"tribe or people\" and \"moa\" meaning \"deep sea or ocean\" to convey the meaning \"people of the deep sea\""
       }
     },
     "Government type": {
@@ -377,7 +394,7 @@
       "daylight saving time": {
         "text": "+1hr, begins last Sunday in September; ends first Sunday in April"
       },
-      "note": "etymology: name derives from the native village around which the capital was constructed in the 1850s; the village still exists within the larger modern capital"
+      "note": "<br><br><strong>etymology:</strong> name derives from the native village around which the capital was constructed in the 1850s; the village still exists within the larger modern capital"
     },
     "Administrative divisions": {
       "text": "11 districts; A'ana, Aiga-i-le-Tai, Atua, Fa'asaleleaga, Gaga'emauga, Gagaifomauga, Palauli, Satupa'itea, Tuamasaga, Va'a-o-Fonoti, Vaisigano"
@@ -421,10 +438,10 @@
     },
     "Executive branch": {
       "chief of state": {
-        "text": "TUIMALEALI'IFANO Va'aletoa Sualauvi II (since 21 July 2017)"
+        "text": "TUIMALEALI'IFANO Va&rsquo;aletoa Sualauvi II (since 21 July 2017)"
       },
       "head of government": {
-        "text": "Prime Minister TUILA'EPA Lupesoliai Sailele Malielegaoi (since 23 November 1998); Deputy Prime Minister FIAME Naomi Mata'afa (since 2016)"
+        "text": "Prime Minister TUILA'EPA Lupesoliai Sailele Malielegaoi (since 23 November 1998); Deputy Prime Minister FIAME Naomi Mata&rsquo;afa (since 2016)"
       },
       "cabinet": {
         "text": "Cabinet appointed by the chief of state on the prime minister's advice"
@@ -433,7 +450,7 @@
         "text": "chief of state indirectly elected by the Legislative Assembly to serve a 5-year term (2- term limit); election last held on 4 July 2017 (next to be held in 2022); following legislative elections, the leader of the majority party is usually appointed prime minister by the chief of state, approved by the Legislative Assembly"
       },
       "election results": {
-        "text": "TUIMALEALI'IFANO Va'aletoa Sualauvi unanimously elected by the Legislative Assembly on 5 July 2017"
+        "text": "TUIMALEALI'IFANO Va&rsquo;aletoa Sualauvi unanimously elected by the Legislative Assembly on 5 July 2017"
       }
     },
     "Legislative branch": {
@@ -444,7 +461,7 @@
         "text": "election last held on 4 March 2016 (next election to be held on 9 April 2021)"
       },
       "election results": {
-        "text": "percent of vote by party - HRPP 89.8%, Tautua Samoa 4.1%, independent 6.1%; seats by party – initial election results - HRPP 44, Tautua Samoa 2, independents 3; post-election party affiliation – HRPP 47, (informal) opposition 3; composition - men 45, women 5, percent of women 10%"
+        "text": "percent of vote by party - HRPP 89.8%, Tautua Samoa 4.1%, independent 6.1%; seats by party &ndash; initial election results - HRPP 44, Tautua Samoa 2, independents 3; post-election party affiliation &ndash; HRPP 47, (informal) opposition 3; composition - men 45, women 5, percent of women 10%"
       }
     },
     "Judicial branch": {
@@ -500,7 +517,7 @@
     },
     "Flag description": {
       "text": "red with a blue rectangle in the upper hoist-side quadrant bearing five white, five-pointed stars representing the Southern Cross constellation; red stands for courage, blue represents freedom, and white signifies purity",
-      "note": "note: similar to the flag of Taiwan"
+      "note": "<p><strong>note:</strong> similar to the flag of Taiwan</p>"
     },
     "National symbol(s)": {
       "text": "Southern Cross constellation (five, five-pointed stars); national colors: red, white, blue"
@@ -512,32 +529,58 @@
       "lyrics/music": {
         "text": "Sauni Liga KURESA"
       },
-      "note": "note: adopted 1962; also known as \"Samoa Tula'i\" (Samoa Arise)"
+      "note": "<p><strong>note:</strong> adopted 1962; also known as \"Samoa Tula'i\" (Samoa Arise)</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "The economy of Samoa has traditionally been dependent on development aid, family remittances from overseas, tourism, agriculture, and fishing. It has a nominal GDP of $844 million. Agriculture, including fishing, furnishes 90% of exports, featuring fish, coconut oil, nonu products, and taro. The manufacturing sector mainly processes agricultural products. Industry accounts for nearly 22% of GDP while employing less than 6% of the work force. The service sector accounts for nearly two-thirds of GDP and employs approximately 50% of the labor force. Tourism is an expanding sector accounting for 25% of GDP; 132,000 tourists visited the islands in 2013. ++ The country is vulnerable to devastating storms. In September 2009, an earthquake and the resulting tsunami severely damaged Samoa and nearby American Samoa, disrupting transportation and power generation, and resulting in about 200 deaths. In December 2012, extensive flooding and wind damage from Tropical Cyclone Evan killed four people, displaced over 6,000, and damaged or destroyed an estimated 1,500 homes on Samoa's Upolu Island. ++ The Samoan Government has called for deregulation of the country's financial sector, encouragement of investment, and continued fiscal discipline, while at the same time protecting the environment. Foreign reserves are relatively healthy and inflation is low, but external debt is approximately 45% of GDP. Samoa became the 155th member of the WTO in May 2012, and graduated from least developed country status in January 2014."
+      "text": "<p>The economy of Samoa has traditionally been dependent on development aid, family remittances from overseas, tourism, agriculture, and fishing. It has a nominal GDP of $844 million. Agriculture, including fishing, furnishes 90% of exports, featuring fish, coconut oil, nonu products, and taro. The manufacturing sector mainly processes agricultural products. Industry accounts for nearly 22% of GDP while employing less than 6% of the work force. The service sector accounts for nearly two-thirds of GDP and employs approximately 50% of the labor force. Tourism is an expanding sector accounting for 25% of GDP; 132,000 tourists visited the islands in 2013.</p><p></p><p>The country is vulnerable to devastating storms. In September 2009, an earthquake and the resulting tsunami severely damaged Samoa and nearby American Samoa, disrupting transportation and power generation, and resulting in about 200 deaths. In December 2012, extensive flooding and wind damage from Tropical Cyclone Evan killed four people, displaced over 6,000, and damaged or destroyed an estimated 1,500 homes on Samoa's Upolu Island.</p><p></p><p>The Samoan Government has called for deregulation of the country's financial sector, encouragement of investment, and continued fiscal discipline, while at the same time protecting the environment. Foreign reserves are relatively healthy and inflation is low, but external debt is approximately 45% of GDP. Samoa became the 155th member of the WTO in May 2012, and graduated from least developed country status in January 2014.</p>"
     },
-    "GDP real growth rate": {
-      "text": "2.5% (2017 est.) / 7.1% (2016 est.) / 1.6% (2015 est.)",
-      "country comparison to the world": 114
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2017": {
+        "text": "2.5% (2017 est.)"
+      },
+      "Real GDP growth rate 2016": {
+        "text": "7.1% (2016 est.)"
+      },
+      "Real GDP growth rate 2015": {
+        "text": "1.6% (2015 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "1.3% (2017 est.) / 0.1% (2016 est.)",
-      "country comparison to the world": 79
+      "Inflation rate (consumer prices) 2017": {
+        "text": "1.3% (2017 est.)"
+      },
+      "Inflation rate (consumer prices) 2016": {
+        "text": "0.1% (2016 est.)"
+      }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$1.137 billion (2017 est.) / $1.11 billion (2016 est.) / $1.036 billion (2015 est.)",
-      "note": "note: data are in 2017 dollars"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2017": {
+        "text": "$1.137 billion (2017 est.)"
+      },
+      "Real GDP (purchasing power parity) 2016": {
+        "text": "$1.11 billion (2016 est.)"
+      },
+      "Real GDP (purchasing power parity) 2015": {
+        "text": "$1.036 billion (2015 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2017 dollars</p>"
     },
     "GDP (official exchange rate)": {
       "text": "$841 million (2017 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$5,700 (2017 est.) / $5,700 (2016 est.) / $5,300 (2015 est.)",
-      "note": "note: data are in 2017 dollars",
-      "country comparison to the world": 153
+    "Real GDP per capita": {
+      "Real GDP per capita 2017": {
+        "text": "$5,700 (2017 est.)"
+      },
+      "Real GDP per capita 2016": {
+        "text": "$5,700 (2016 est.)"
+      },
+      "Real GDP per capita 2015": {
+        "text": "$5,300 (2015 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2017 dollars</p>"
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -571,21 +614,21 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "text": "92.6 (2020)"
+      "Overall Ease of Doing Business score 2020": {
+        "text": "92.6 (2020)"
+      }
     },
-    "Agriculture - products": {
-      "text": "coconuts, nonu, bananas, taro, yams, coffee, cocoa"
+    "Agricultural products": {
+      "text": "coconuts, taro, bananas, yams, tropical fruit, pineapples, mangoes/guavas, papayas, roots/tubers nes, pork"
     },
     "Industries": {
       "text": "food processing, building materials, auto parts"
     },
     "Industrial production growth rate": {
-      "text": "-1.8% (2017 est.)",
-      "country comparison to the world": 180
+      "text": "-1.8% (2017 est.)"
     },
     "Labor force": {
-      "text": "50,700 (2016 est.)",
-      "country comparison to the world": 192
+      "text": "50,700 (2016 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -599,12 +642,21 @@
       }
     },
     "Unemployment rate": {
-      "text": "5.2% (2017 est.) / 5.5% (2016 est.)",
-      "note": "NA",
-      "country comparison to the world": 84
+      "Unemployment rate 2017": {
+        "text": "5.2% (2017 est.)"
+      },
+      "Unemployment rate 2016": {
+        "text": "5.5% (2016 est.)"
+      },
+      "note": "<p>NA</p>"
     },
     "Population below poverty line": {
       "text": "NA"
+    },
+    "Gini Index coefficient - distribution of family income": {
+      "Gini Index coefficient - distribution of family income 2013": {
+        "text": "38.7 (2013 est.)"
+      }
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
@@ -623,27 +675,34 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "28.2% (of GDP) (2017 est.)",
-      "country comparison to the world": 95
+      "text": "28.2% (of GDP) (2017 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-4.7% (of GDP) (2017 est.)",
-      "country comparison to the world": 166
+      "text": "-4.7% (of GDP) (2017 est.)"
     },
     "Public debt": {
-      "text": "49.1% of GDP (2017 est.) / 52.6% of GDP (2016 est.)",
-      "country comparison to the world": 103
+      "Public debt 2017": {
+        "text": "49.1% of GDP (2017 est.)"
+      },
+      "Public debt 2016": {
+        "text": "52.6% of GDP (2016 est.)"
+      }
     },
     "Fiscal year": {
       "text": "June 1 - May 31"
     },
     "Current account balance": {
-      "text": "-$19 million (2017 est.) / -$37 million (2016 est.)",
-      "country comparison to the world": 72
+      "Current account balance 2017": {
+        "text": "-$19 million (2017 est.)"
+      },
+      "Current account balance 2016": {
+        "text": "-$37 million (2016 est.)"
+      }
     },
     "Exports": {
-      "text": "$27.5 million (2014 est.)",
-      "country comparison to the world": 208
+      "Exports 2014": {
+        "text": "$27.5 million (2014 est.)"
+      }
     },
     "Exports - partners": {
       "text": "Australia 22.9%, NZ 22.8%, American Samoa 22.1%, Afghanistan 14.9%, US 5.9% (2017)"
@@ -652,25 +711,51 @@
       "text": "fish, coconut oil and cream, nonu, copra, taro, automotive parts, garments, beer"
     },
     "Imports": {
-      "text": "$89.29 billion (2018 est.) / $312.6 million (2016 est.)",
-      "country comparison to the world": 50
-    },
-    "Imports - commodities": {
-      "text": "machinery and equipment, industrial supplies, foodstuffs"
+      "Imports 2018": {
+        "text": "$89.29 billion (2018 est.)"
+      },
+      "Imports 2016": {
+        "text": "$312.6 million (2016 est.)"
+      }
     },
     "Imports - partners": {
       "text": "NZ 22%, Singapore 20.7%, US 12.5%, China 10.1%, Australia 8.6%, Fiji 5.2% (2017)"
     },
+    "Imports - commodities": {
+      "text": "machinery and equipment, industrial supplies, foodstuffs"
+    },
     "Reserves of foreign exchange and gold": {
-      "text": "$133 million (31 December 2017 est.) / $122.5 million (31 December 2015 est.)",
-      "country comparison to the world": 180
+      "Reserves of foreign exchange and gold 31 December 2017": {
+        "text": "$133 million (31 December 2017 est.)"
+      },
+      "Reserves of foreign exchange and gold 31 December 2015": {
+        "text": "$122.5 million (31 December 2015 est.)"
+      }
     },
     "Debt - external": {
-      "text": "$447.2 million (31 December 2013 est.)",
-      "country comparison to the world": 179
+      "Debt - external 31 December 2013": {
+        "text": "$447.2 million (31 December 2013 est.)"
+      }
     },
     "Exchange rates": {
-      "text": "tala (SAT) per US dollar - / 2.54712 (2020 est.) / 2.65534 (2019 est.) / 2.57069 (2018 est.) / 2.5609 (2014 est.) / 2.3318 (2013 est.)"
+      "currency": {
+        "text": "tala (SAT) per US dollar -"
+      },
+      "Exchange rates 2020": {
+        "text": "2.54712 (2020 est.)"
+      },
+      "Exchange rates 2019": {
+        "text": "2.65534 (2019 est.)"
+      },
+      "Exchange rates 2018": {
+        "text": "2.57069 (2018 est.)"
+      },
+      "Exchange rates 2014": {
+        "text": "2.5609 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "2.3318 (2013 est.)"
+      }
     }
   },
   "Energy": {
@@ -680,96 +765,73 @@
       }
     },
     "Electricity - production": {
-      "text": "132 million kWh (2016 est.)",
-      "country comparison to the world": 197
+      "text": "132 million kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "122.8 million kWh (2016 est.)",
-      "country comparison to the world": 199
+      "text": "122.8 million kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 192
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - imports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 194
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "45,000 kW (2016 est.)",
-      "country comparison to the world": 193
+      "text": "45,000 kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "48% of total installed capacity (2016 est.)",
-      "country comparison to the world": 154
+      "text": "48% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 176
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "23% of total installed capacity (2017 est.)",
-      "country comparison to the world": 85
+      "text": "23% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "29% of total installed capacity (2017 est.)",
-      "country comparison to the world": 20
+      "text": "29% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "0 bbl/day (2018 est.)",
-      "country comparison to the world": 195
+      "text": "0 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 188
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - imports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 190
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2018 est.)",
-      "country comparison to the world": 190
+      "text": "0 bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "0 bbl/day (2017 est.)",
-      "country comparison to the world": 197
+      "text": "0 bbl/day (2017 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "2,400 bbl/day (2016 est.)",
-      "country comparison to the world": 191
+      "text": "2,400 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 198
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "2,363 bbl/day (2015 est.)",
-      "country comparison to the world": 187
+      "text": "2,363 bbl/day (2015 est.)"
     },
     "Natural gas - production": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 192
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 194
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 177
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 183
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "0 cu m (1 January 2014 est.)",
-      "country comparison to the world": 189
+      "text": "0 cu m (1 January 2014 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "341,100 Mt (2017 est.)",
-      "country comparison to the world": 191
+      "text": "341,100 Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -779,8 +841,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "4.33 (2019 est.)"
-      },
-      "country comparison to the world": 192
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -788,20 +849,19 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "63.58 (2019 est.)"
-      },
-      "country comparison to the world": 190
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "most households have at least one mobile phone; all businesses in the greater Apia area have access to broadband and Wi-Fi, which is reasonably reliable and fast; in rural Upolu and on Savaii Island there is now readily available high-speed Internet and Wi-Fi; due to the establishment of a regulatory infrastructure, liberalization and competition of the mobile market the telecom market has increased coverage and reduced cost; 4G LTE services accessible to about 95% of residents; working to increase speed, reliability and connectivity (2020)"
+        "text": "most households have at least one mobile phone; all businesses in the greater Apia area have access to broadband and Wi-Fi, which is reasonably reliable and fast; in rural Upolu and on Savaii Island there is now readily available high-speed Internet and Wi-Fi;&nbsp;due to the establishment of a regulatory infrastructure, liberalization and competition of the mobile market the telecom market has increased coverage and reduced cost; 4G LTE services&nbsp;accessible to about 95% of residents; working to increase speed, reliability and connectivity (2020)"
       },
       "domestic": {
         "text": "fixed-line 4 per 100 and mobile-cellular teledensity 64 telephones per 100 persons (2019)"
       },
       "international": {
-        "text": "country code - 685; landing points for the Tui-Samo, Manatua, SAS, and Southern Cross NEXT submarine cables providing connectivity to Samoa, Fiji, Wallis & Futuna, Cook Islands, Niue, French Polynesia, American Samoa, Australia, New Zealand, Kiribati, Los Angeles (US), and Tokelau; satellite earth station - 1 Intelsat (Pacific Ocean) (2019)"
+        "text": "country code - 685; landing points for the Tui-Samo, Manatua, SAS, and Southern Cross NEXT submarine cables providing connectivity to Samoa, Fiji,&nbsp;Wallis&nbsp;&amp; Futuna, Cook Islands, Niue, French Polynesia, American Samoa, Australia, New Zealand, Kiribati, Los Angeles (US), and Tokelau;&nbsp;satellite earth station - 1 Intelsat (Pacific Ocean) (2019)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "state-owned TV station privatized in 2008; 4 privately owned television broadcast stations; about a half-dozen privately owned radio stations and one state-owned radio station; TV and radio broadcasts of several stations from American Samoa are available (2019)"
@@ -815,8 +875,7 @@
       },
       "percent of population": {
         "text": "33.61% (July 2018 est.)"
-      },
-      "country comparison to the world": 190
+      }
     },
     "Broadband - fixed subscriptions": {
       "total": {
@@ -824,8 +883,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "1 (2017 est.)"
-      },
-      "country comparison to the world": 187
+      }
     }
   },
   "Transportation": {
@@ -844,8 +902,9 @@
       "text": "5W (2016)"
     },
     "Airports": {
-      "text": "4 (2013)",
-      "country comparison to the world": 187
+      "total": {
+        "text": "4 (2013)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -866,17 +925,15 @@
     "Roadways": {
       "total": {
         "text": "1,150 km (2018)"
-      },
-      "country comparison to the world": 181
+      }
     },
     "Merchant marine": {
       "total": {
-        "text": "13"
+        "text": "12"
       },
       "by type": {
-        "text": "general cargo 5, oil tanker 1, other 7 (2019)"
-      },
-      "country comparison to the world": 149
+        "text": "general cargo 4, oil tanker 1, other 7 (2020)"
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -894,7 +951,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "none"
+      "text": "<p>none</p>"
     }
   }
 }

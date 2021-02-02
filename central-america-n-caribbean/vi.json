@@ -24,14 +24,15 @@
       "water": {
         "text": "0 sq km"
       },
-      "note": "note: comprised of 16 inhabited and more than 20 uninhabited islands; includes the islands of Tortola, Anegada, Virgin Gorda, Jost van Dyke",
-      "country comparison to the world": 219
+      "note": "<p><strong>note:</strong> comprised of 16 inhabited and more than 20 uninhabited islands; includes the islands of Tortola, Anegada, Virgin Gorda, Jost van Dyke</p>"
     },
     "Area - comparative": {
       "text": "about 0.9 times the size of Washington, DC"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "80 km"
@@ -63,16 +64,22 @@
     },
     "Land use": {
       "agricultural land": {
-        "text": "46.7% (2011 est.)"
+        "text": "46.7% (2018 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "6.7% (2011 est.) / 6.7% (2011 est.) / 33.3% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 6.7% (2018 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 6.7% (2018 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 33.3% (2018 est.)"
       },
       "forest": {
-        "text": "24.3% (2011 est.)"
+        "text": "24.3% (2018 est.)"
       },
       "other": {
-        "text": "29% (2011 est.)"
+        "text": "29% (2018 est.)"
       }
     },
     "Irrigated land": {
@@ -93,8 +100,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "37,381 (July 2020 est.)",
-      "country comparison to the world": 214
+      "text": "37,891 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -139,24 +145,19 @@
       },
       "female": {
         "text": "37.5 years (2020 est.)"
-      },
-      "country comparison to the world": 71
+      }
     },
     "Population growth rate": {
-      "text": "2.14% (2020 est.)",
-      "country comparison to the world": 38
+      "text": "1.96% (2021 est.)"
     },
     "Birth rate": {
-      "text": "11.1 births/1,000 population (2020 est.)",
-      "country comparison to the world": 176
+      "text": "10.98 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "5.4 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 183
+      "text": "5.3 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "15.5 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 2
+      "text": "13.93 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "a fairly even distribution throughout the inhabited islands, with the largest islands of Tortola, Anegada, Virgin Gorda, and Jost Van Dyke having the largest populations"
@@ -197,46 +198,55 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "11 deaths/1,000 live births"
+        "text": "14.56 deaths/1,000 live births"
       },
       "male": {
-        "text": "12.5 deaths/1,000 live births"
+        "text": "17.39 deaths/1,000 live births"
       },
       "female": {
-        "text": "9.4 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 121
+        "text": "11.58 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "79.2 years"
+        "text": "79.44 years"
       },
       "male": {
-        "text": "77.7 years"
+        "text": "77.94 years"
       },
       "female": {
-        "text": "80.8 years (2020 est.)"
-      },
-      "country comparison to the world": 57
+        "text": "81.03 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "1.33 children born/woman (2020 est.)",
-      "country comparison to the world": 221
+      "text": "1.34 children born/woman (2021 est.)"
     },
     "Drinking water source": {
-      "improved": {
+      "improved: total": {
         "text": "total: 100% of population"
       },
-      "unimproved": {
+      "unimproved: total": {
         "text": "total: 0% of population (2017 est.)"
       }
     },
     "Sanitation facility access": {
-      "improved": {
-        "text": "urban: 97.5% of population / rural: 97.5% of population / total: 97.5% of population"
+      "improved: urban": {
+        "text": "urban: 97.5% of population"
       },
-      "unimproved": {
-        "text": "urban: 2.5% of population / rural: 2.5% of population / total: 2.5% of population (2015 est.)"
+      "improved: rural": {
+        "text": "rural: 97.5% of population"
+      },
+      "improved: total": {
+        "text": "total: 97.5% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 2.5% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 2.5% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 2.5% of population (2015 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -249,8 +259,7 @@
       "text": "NA"
     },
     "Education expenditures": {
-      "text": "2.5% of GDP (2018)",
-      "country comparison to the world": 151
+      "text": "2.5% of GDP (2018)"
     },
     "School life expectancy (primary to tertiary education)": {
       "total": {
@@ -283,7 +292,7 @@
       "text": "overseas territory of the UK; internal self-governing"
     },
     "Government type": {
-      "text": "parliamentary democracy; self-governing overseas territory of the UK"
+      "text": "parliamentary democracy;&nbsp;self-governing overseas territory of the UK"
     },
     "Capital": {
       "name": {
@@ -295,7 +304,7 @@
       "time difference": {
         "text": "UTC-4 (1 hour ahead of Washington, DC, during Standard Time)"
       },
-      "note": "etymology: name refers to the nautical term \"roadstead\" or \"roads,\" a body of water less sheltered than a harbor but where where ships can lie reasonably safely at anchor sheltered from rip currents, spring tides, or ocean swells"
+      "note": "<br><br><strong>etymology:</strong> name refers to the nautical term \"roadstead\" or \"roads,\" a body of water less sheltered than a harbor but where where ships can lie reasonably safely at anchor sheltered from rip currents, spring tides, or ocean swells"
     },
     "Administrative divisions": {
       "text": "none (overseas territory of the UK)"
@@ -315,14 +324,14 @@
       "text": "English common law"
     },
     "Citizenship": {
-      "note": "see United Kingdom"
+      "text": "see United Kingdom"
     },
     "Suffrage": {
       "text": "18 years of age; universal"
     },
     "Executive branch": {
       "chief of state": {
-        "text": "Queen ELIZABETH II (since 6 February 1952); represented by Governor Gus JASPERT (since 22 August 2017)"
+        "text": "Queen ELIZABETH II (since 6 February 1952); represented by Acting Governor David D. ARCHER, Jr (since 22 January 2021)"
       },
       "head of government": {
         "text": "Premier Andrew FAHIE (since 26 February 2019)"
@@ -357,16 +366,18 @@
       }
     },
     "Political parties and leaders": {
-      "text": "National Democratic Party or NDP [Myron WALWYN] ++ People's Empowerment Party or PEP [Alvin CHRISTOPHER] ++ Progressive Virgin Islands Movement or PVIM [Ronnie SKELTON] ++ Progressives United or PU [Julian FRASER] ++ Virgin Islands Party or VIP [Andrew FAHIE]"
+      "text": "National Democratic Party or NDP [Myron WALWYN]<br />People's Empowerment Party or PEP [Alvin CHRISTOPHER]<br />Progressive Virgin Islands Movement or PVIM [Ronnie SKELTON]<br />Progressives United or PU [Julian FRASER]<br />Virgin Islands Party or VIP [Andrew FAHIE]"
     },
     "International organization participation": {
       "text": "Caricom (associate), CDB, Interpol (subbureau), IOC, OECS, UNESCO (associate), UPU"
     },
     "Diplomatic representation in the US": {
-      "note": "none (overseas territory of the UK)"
+      "text": "none (overseas territory of the UK)"
     },
     "Diplomatic representation from the US": {
-      "text": "none (overseas territory of the UK)"
+      "embassy": {
+        "text": "none (overseas territory of the UK)"
+      }
     },
     "Flag description": {
       "text": "blue with the flag of the UK in the upper hoist-side quadrant and the Virgin Islander coat of arms centered in the outer half of the flag; the coat of arms depicts a woman flanked on either side by a vertical column of six oil lamps above a scroll bearing the Latin word VIGILATE (Be Watchful); the islands were named by COLUMBUS in 1493 in honor of Saint Ursula and her 11 virgin followers (some sources say 11,000) who reputedly were martyred by the Huns in the 4th or 5th century; the figure on the banner holding a lamp represents the saint; the other lamps symbolize her followers"
@@ -375,30 +386,50 @@
       "text": "zenaida dove, white cedar flower; national colors: yellow, green, red, white, blue"
     },
     "National anthem": {
-      "note": "note: as a territory of the United Kingdom, \"God Save the Queen\" is official (see United Kingdom)"
+      "text": "<p><strong>note:</strong> as a territory of the United Kingdom, \"God Save the Queen\" is official (see United Kingdom)</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "The economy, one of the most stable and prosperous in the Caribbean, is highly dependent on tourism, which generates an estimated 45% of the national income. More than 934,000 tourists, mainly from the US, visited the islands in 2008. Because of traditionally close links with the US Virgin Islands, the British Virgin Islands has used the US dollar as its currency since 1959. ++ Livestock raising is the most important agricultural activity; poor soils limit the islands' ability to meet domestic food requirements. ++ In the mid-1980s, the government began offering offshore registration to companies wishing to incorporate in the islands, and incorporation fees now generate substantial revenues. Roughly 400,000 companies were on the offshore registry by yearend 2000. The adoption of a comprehensive insurance law in late 1994, which provides a blanket of confidentiality with regulated statutory gateways for investigation of criminal offenses, made the British Virgin Islands even more attractive to international business."
+      "text": "<p>The economy, one of the most stable and prosperous in the Caribbean, is highly dependent on tourism, which generates an estimated 45% of the national income. More than 934,000 tourists, mainly from the US, visited the islands in 2008. Because of traditionally close links with the US Virgin Islands, the British Virgin Islands has used the US dollar as its currency since 1959.</p><p></p><p>Livestock raising is the most important agricultural activity; poor soils limit the islands' ability to meet domestic food requirements.</p><p></p><p>In the mid-1980s, the government began offering offshore registration to companies wishing to incorporate in the islands, and incorporation fees now generate substantial revenues. Roughly 400,000 companies were on the offshore registry by yearend 2000. The adoption of a comprehensive insurance law in late 1994, which provides a blanket of confidentiality with regulated statutory gateways for investigation of criminal offenses, made the British Virgin Islands even more attractive to international business.</p>"
     },
-    "GDP real growth rate": {
-      "text": "2% (2017 est.) / 1.9% (2016 est.) / 1.8% (2015 est.)",
-      "country comparison to the world": 135
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2017": {
+        "text": "2% (2017 est.)"
+      },
+      "Real GDP growth rate 2016": {
+        "text": "1.9% (2016 est.)"
+      },
+      "Real GDP growth rate 2015": {
+        "text": "1.8% (2015 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "1.1% (2017 est.) / 1.1% (2016 est.)",
-      "country comparison to the world": 70
+      "Inflation rate (consumer prices) 2017": {
+        "text": "1.1% (2017 est.)"
+      },
+      "Inflation rate (consumer prices) 2016": {
+        "text": "1.1% (2016 est.)"
+      }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$500 million (2017 est.) / $490.2 million (2016 est.) / $481.1 million (2015 est.)"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2017": {
+        "text": "$500 million (2017 est.)"
+      },
+      "Real GDP (purchasing power parity) 2016": {
+        "text": "$490.2 million (2016 est.)"
+      },
+      "Real GDP (purchasing power parity) 2015": {
+        "text": "$481.1 million (2015 est.)"
+      }
     },
     "GDP (official exchange rate)": {
       "text": "$1.028 billion (2017 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$34,200 (2017 est.)",
-      "country comparison to the world": 50
+    "Real GDP per capita": {
+      "Real GDP per capita 2017": {
+        "text": "$34,200 (2017 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -431,21 +462,17 @@
         "text": "-69.4% (2017 est.)"
       }
     },
-    "Ease of Doing Business Index scores": {
-    },
-    "Agriculture - products": {
+    "Agricultural products": {
       "text": "fruits, vegetables; livestock, poultry; fish"
     },
     "Industries": {
       "text": "tourism, light industry, construction, rum, concrete block, offshore banking center"
     },
     "Industrial production growth rate": {
-      "text": "1.1% (2017 est.)",
-      "country comparison to the world": 152
+      "text": "1.1% (2017 est.)"
     },
     "Labor force": {
-      "text": "12,770 (2004)",
-      "country comparison to the world": 214
+      "text": "12,770 (2004)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -459,8 +486,9 @@
       }
     },
     "Unemployment rate": {
-      "text": "2.9% (2015 est.)",
-      "country comparison to the world": 35
+      "Unemployment rate 2015": {
+        "text": "2.9% (2015 est.)"
+      }
     },
     "Population below poverty line": {
       "text": "NA"
@@ -482,40 +510,51 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "38.9% (of GDP) (2017 est.)",
-      "country comparison to the world": 50
+      "text": "38.9% (of GDP) (2017 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "0% (of GDP) (2017 est.)",
-      "country comparison to the world": 44
+      "text": "0% (of GDP) (2017 est.)"
     },
     "Fiscal year": {
       "text": "1 April - 31 March"
     },
     "Current account balance": {
-      "text": "$362.6 million (2011 est.) / $279.8 million (2010 est.)",
-      "country comparison to the world": 55
+      "Current account balance 2011": {
+        "text": "$362.6 million (2011 est.)"
+      },
+      "Current account balance 2010": {
+        "text": "$279.8 million (2010 est.)"
+      }
     },
     "Exports": {
-      "text": "$23 million (2017 est.) / $23 million (2015 est.)",
-      "country comparison to the world": 210
+      "Exports 2017": {
+        "text": "$23 million (2017 est.)"
+      },
+      "Exports 2015": {
+        "text": "$23 million (2015 est.)"
+      }
     },
     "Exports - commodities": {
       "text": "rum, fresh fish, fruits, animals; gravel, sand"
     },
     "Imports": {
-      "text": "$300 million NA (2017 est.) / $210 million (2016 est.)",
-      "country comparison to the world": 206
+      "Imports 2017": {
+        "text": "$300 million NA (2017 est.)"
+      },
+      "Imports 2016": {
+        "text": "$210 million (2016 est.)"
+      }
     },
     "Imports - commodities": {
       "text": "building materials, automobiles, foodstuffs, machinery"
     },
     "Debt - external": {
-      "text": "$36.1 million (1997)",
-      "country comparison to the world": 198
+      "Debt - external 1997": {
+        "text": "$36.1 million (1997)"
+      }
     },
     "Exchange rates": {
-      "note": "the US dollar is used"
+      "text": "<p>the US dollar is used</p>"
     }
   },
   "Energy": {
@@ -525,96 +564,73 @@
       }
     },
     "Electricity - production": {
-      "text": "126.3 million kWh (2016 est.)",
-      "country comparison to the world": 198
+      "text": "126.3 million kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "117.5 million kWh (2016 est.)",
-      "country comparison to the world": 200
+      "text": "117.5 million kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 110
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - imports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 128
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "45,200 kW (2016 est.)",
-      "country comparison to the world": 192
+      "text": "45,200 kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "97% of total installed capacity (2016 est.)",
-      "country comparison to the world": 32
+      "text": "97% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 55
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 160
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "3% of total installed capacity (2017 est.)",
-      "country comparison to the world": 122
+      "text": "3% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "0 bbl/day (2018 est.)",
-      "country comparison to the world": 115
+      "text": "0 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 98
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - imports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 101
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2018 est.)",
-      "country comparison to the world": 111
+      "text": "0 bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 123
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "20,000 bbl/day (2016 est.)",
-      "country comparison to the world": 141
+      "text": "20,000 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 134
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "1,227 bbl/day (2015 est.)",
-      "country comparison to the world": 199
+      "text": "1,227 bbl/day (2015 est.)"
     },
     "Natural gas - production": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 109
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 125
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 74
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 96
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "0 cu m (1 January 2014 est.)",
-      "country comparison to the world": 115
+      "text": "0 cu m (1 January 2014 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "183,300 Mt (2017 est.)",
-      "country comparison to the world": 201
+      "text": "183,300 Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -624,8 +640,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "20.88 (2019 est.)"
-      },
-      "country comparison to the world": 195
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -633,20 +648,19 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "198.38 (2019 est.)"
-      },
-      "country comparison to the world": 200
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "good overall telephone service; major expansion sectors include the mobile telephony and data segments, which continue to appeal to operator investment; several operators licensed to provide services within individual markets, most of them are small and localized; telecommunication contributes to overall GDP (2020)"
+        "text": "good overall telephone service; major&nbsp;expansion sectors include the mobile telephony and data segments, which continue to&nbsp;appeal to&nbsp;operator investment;&nbsp;several operators licensed to provide services within individual markets, most of them are small and localized; telecommunication contributes to overall GDP (2020)"
       },
       "domestic": {
         "text": "fixed-line connections exceed 21 per 100 persons and mobile cellular subscribership is roughly 198 per 100 persons (2019)"
       },
       "international": {
-        "text": "country code - 1-284; landing points for PCCS, ECFS, CBUS, Deep Blue Cable, East-West, PAN-AM, Americas-1, Southern Caribbean Fiber, Columbus- IIb, St Thomas - St Croix System, Taino-Carib, and Americas I- North via submarine cable to Caribbean, Central and South America, and US (2019)"
+        "text": "country code - 1-284; landing points for PCCS, ECFS, CBUS, Deep Blue Cable, East-West, PAN-AM, Americas-1, Southern Caribbean Fiber, Columbus- IIb, St Thomas - St Croix System, Taino-Carib, and Americas I- North&nbsp;via submarine cable to Caribbean, Central and South America, and US (2019)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "1 private TV station; multi-channel TV is available from cable and satellite subscription services; about a half-dozen private radio stations"
@@ -660,8 +674,7 @@
       },
       "percent of population": {
         "text": "77.7% (July 2018 est.)"
-      },
-      "country comparison to the world": 207
+      }
     },
     "Broadband - fixed subscriptions": {
       "total": {
@@ -669,8 +682,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "13 (2018 est.)"
-      },
-      "country comparison to the world": 180
+      }
     }
   },
   "Transportation": {
@@ -678,8 +690,9 @@
       "text": "VP-L (2016)"
     },
     "Airports": {
-      "text": "4 (2020)",
-      "country comparison to the world": 184
+      "total": {
+        "text": "4 (2020)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -706,17 +719,15 @@
       },
       "paved": {
         "text": "200 km (2007)"
-      },
-      "country comparison to the world": 207
+      }
     },
     "Merchant marine": {
       "total": {
-        "text": "29"
+        "text": "31"
       },
       "by type": {
-        "text": "general cargo 3, other 26 (2019)"
-      },
-      "country comparison to the world": 132
+        "text": "general cargo 4, other 27 (2020)"
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -731,7 +742,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "none"
+      "text": "<p>none</p>"
     },
     "Illicit drugs": {
       "text": "transshipment point for South American narcotics destined for the US and Europe; large offshore financial center makes it vulnerable to money laundering"

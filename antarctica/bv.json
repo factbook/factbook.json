@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "This uninhabited, volcanic, Antarctic island is almost entirely covered by glaciers making it difficult to approach; it is recognized as the most remote island on Earth. (It is furthest in distance from any other point of land, 1,639 km from Antarctica.) Bouvet Island was discovered in 1739 by a French naval officer after whom it is named. No claim was made until 1825, when the British flag was raised. A few expeditions visited the island in the late 19th century. In 1929, the UK waived its claim in favor of Norway, which had occupied the island two years previously. In 1971, Norway designated Bouvet Island and the adjacent territorial waters a nature reserve. Since 1977, Norway has run an automated meteorological station and studied foraging strategies and distribution of fur seals and penguins on the island. In February 2006, an earthquake weakened the station's foundation causing it to be blown out to sea in a winter storm. Norway erected a new research station in 2014 that can hold six people for periods of two to four months."
+      "text": "This uninhabited, volcanic, Antarctic island is almost entirely covered by glaciers making it difficult to approach; it is recognized as the most remote island on Earth. (It is furthest in distance from any other point of land, 1,639 km from Antarctica.) Bouvet Island was discovered in 1739 by a French naval officer after whom it is named. No claim was made until 1825, when the British flag was raised. A few expeditions visited the island in the late 19th century. In 1929, the UK waived its claim in favor of Norway, which had occupied the island&nbsp;two years&nbsp;previously. In 1971, Norway designated Bouvet Island and the adjacent territorial waters a nature reserve. Since 1977, Norway has run an automated meteorological station and studied foraging strategies and distribution of fur seals and penguins on the island. In February 2006, an earthquake weakened the station's foundation causing it to be blown out to sea in a winter storm. Norway erected a new research station in 2014 that can hold six people for periods of two to four months."
     }
   },
   "Geography": {
@@ -23,14 +23,15 @@
       },
       "water": {
         "text": "0 sq km"
-      },
-      "country comparison to the world": 232
+      }
     },
     "Area - comparative": {
       "text": "about 0.3 times the size of Washington, DC"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "29.6 km"
@@ -61,8 +62,14 @@
       "agricultural land": {
         "text": "0% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "0% (2011 est.) / 0% (2011 est.) / 0% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 0% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 0% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 0% (2011 est.)"
       },
       "forest": {
         "text": "0% (2011 est.)"
@@ -97,7 +104,7 @@
       "etymology": {
         "text": "named after the French naval officer Jean-Baptiste Charles BOUVET who discovered the island in 1739"
       },
-      "note": "note: pronounced boo-vay i-land"
+      "note": "<p><strong>note:</strong> pronounced boo-vay i-land</p>"
     },
     "Dependency status": {
       "text": "territory of Norway; administered by the Polar Department of the Ministry of Justice and Oslo Police"
@@ -112,8 +119,6 @@
   "Economy": {
     "Economic overview": {
       "text": "no economic activity; declared a nature reserve"
-    },
-    "Ease of Doing Business Index scores": {
     }
   },
   "Communications": {
@@ -126,7 +131,7 @@
   },
   "Transportation": {
     "Ports and terminals": {
-      "note": "none; offshore anchorage only"
+      "text": "none; offshore anchorage only"
     }
   },
   "Military and Security": {
@@ -136,7 +141,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "none"
+      "text": "<p>none</p>"
     }
   }
 }

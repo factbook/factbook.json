@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "The Caroline Islands are a widely scattered archipelago in the western Pacific Ocean; they became part of a UN Trust Territory under US administration following World War II. The eastern four island groups adopted a constitution in 1979 and chose to become the Federated States of Micronesia (FSM). (The westernmost island group became Palau.) Independence came in 1986 under a Compact of Free Association (COFA) with the US, which was amended in 2004. The COFA has been a force for stability and democracy in the FSM since it came into force in 1986. Present concerns include economic uncertainty after 2023 when direct US economic assistance is scheduled to end, large-scale unemployment, overfishing, overdependence on US foreign aid, and state perceptions of inequitable allocation of US aid. As a signatory to the COFA with the US, eligible Micronesians can live, work, and study in any part of the US and its territories without a visa - this privilege reduces stresses on the island economy and the environment. Micronesians serve in the US armed forces and military recruiting from the Federated States of Micronesia, per capita, is higher than many US states."
+      "text": "<p>The Caroline Islands are a widely scattered archipelago in the western Pacific Ocean; they became part of a UN Trust Territory under US administration following World War II. The eastern four island groups adopted a constitution in 1979 and chose to become the Federated States of Micronesia (FSM). (The westernmost island group became Palau.) Independence came in 1986 under a Compact of Free Association (COFA) with the US, which was amended in 2004. The COFA has been a force for stability and democracy in the FSM since it came into force in 1986. Present concerns include economic uncertainty after 2023 when direct US economic assistance is scheduled to end, large-scale unemployment, overfishing, overdependence on US foreign aid, and state perceptions of inequitable allocation of US aid.</p> As a signatory to the COFA with the US, eligible Micronesians can live, work, and study in any part of the US and its territories without a visa - this privilege reduces stresses on the island economy and the environment. Micronesians serve in the US armed forces and military recruiting from the Federated States of Micronesia, per capita, is higher than many US states."
     }
   },
   "Geography": {
@@ -24,14 +24,15 @@
       "water": {
         "text": "0 sq km (fresh water only)"
       },
-      "note": "note: includes Pohnpei (Ponape), Chuuk (Truk) Islands, Yap Islands, and Kosrae (Kosaie)",
-      "country comparison to the world": 191
+      "note": "<p><strong>note:</strong> includes Pohnpei (Ponape), Chuuk (Truk) Islands, Yap Islands, and Kosrae (Kosaie)</p>"
     },
     "Area - comparative": {
       "text": "four times the size of Washington, DC (land area only)"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "6,112 km"
@@ -65,8 +66,14 @@
       "agricultural land": {
         "text": "25.5% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "2.3% (2011 est.) / 19.7% (2011 est.) / 3.5% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 2.3% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 19.7% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 3.5% (2011 est.)"
       },
       "forest": {
         "text": "74.5% (2011 est.)"
@@ -101,8 +108,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "102,436 (July 2020 est.)",
-      "country comparison to the world": 193
+      "text": "101,675 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -161,24 +167,19 @@
       },
       "female": {
         "text": "27.1 years (2020 est.)"
-      },
-      "country comparison to the world": 154
+      }
     },
     "Population growth rate": {
-      "text": "-0.6% (2020 est.)",
-      "country comparison to the world": 226
+      "text": "-0.64% (2021 est.)"
     },
     "Birth rate": {
-      "text": "18.9 births/1,000 population (2020 est.)",
-      "country comparison to the world": 80
+      "text": "18.65 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "4.3 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 210
+      "text": "4.18 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "-20.9 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 224
+      "text": "-20.9 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "the majority of the populaton lives in the coastal areas of the high islands; the mountainous interior is largely uninhabited; less than half of the population lives in urban areas"
@@ -218,42 +219,38 @@
       }
     },
     "Maternal mortality rate": {
-      "text": "88 deaths/100,000 live births (2017 est.)",
-      "country comparison to the world": 75
+      "text": "88 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "17.8 deaths/1,000 live births"
+        "text": "22.45 deaths/1,000 live births"
       },
       "male": {
-        "text": "19.8 deaths/1,000 live births"
+        "text": "25.65 deaths/1,000 live births"
       },
       "female": {
-        "text": "15.8 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 83
+        "text": "19.08 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "73.9 years"
+        "text": "74.17 years"
       },
       "male": {
-        "text": "71.8 years"
+        "text": "72.06 years"
       },
       "female": {
-        "text": "76.1 years (2020 est.)"
-      },
-      "country comparison to the world": 137
+        "text": "76.4 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "2.29 children born/woman (2020 est.)",
-      "country comparison to the world": 84
+      "text": "2.27 children born/woman (2021 est.)"
     },
     "Drinking water source": {
-      "improved": {
+      "improved: total": {
         "text": "total: 78.6% of population"
       },
-      "unimproved": {
+      "unimproved: total": {
         "text": "total: 21.4% of population (2017 est.)"
       }
     },
@@ -264,10 +261,10 @@
       "text": "3.2 beds/1,000 population (2009)"
     },
     "Sanitation facility access": {
-      "improved": {
+      "improved: total": {
         "text": "total: 88.3% of population"
       },
-      "unimproved": {
+      "unimproved: total": {
         "text": "total: 11.7% of population (2017 est.)"
       }
     },
@@ -292,12 +289,10 @@
       }
     },
     "Obesity - adult prevalence rate": {
-      "text": "45.8% (2016)",
-      "country comparison to the world": 10
+      "text": "45.8% (2016)"
     },
     "Education expenditures": {
-      "text": "12.5% of GDP (2015)",
-      "country comparison to the world": 2
+      "text": "12.5% of GDP (2015)"
     },
     "Unemployment, youth ages 15-24": {
       "total": {
@@ -308,8 +303,7 @@
       },
       "female": {
         "text": "29.9% (2014)"
-      },
-      "country comparison to the world": 70
+      }
     }
   },
   "Government": {
@@ -349,7 +343,7 @@
       "time difference": {
         "text": "UTC+11 (16 hours ahead of Washington, DC, during Standard Time)"
       },
-      "note": "note 1: Micronesia has two time zones ++ note 2: Palikir became the new capital of the country in 1989, three years after independence; Kolonia, the former capital, remains the site for many foreign embassies; it also serves as the Pohnpei state capital"
+      "note": "<p><strong>note 1:</strong> Micronesia has two time zones <br /><br /><strong>note 2:</strong> Palikir became the new capital of the country in 1989, three years after independence; Kolonia, the former capital, remains the site for many foreign embassies; it also serves as the Pohnpei state capital </p>"
     },
     "Administrative divisions": {
       "text": "4 states; Chuuk (Truk), Kosrae (Kosaie), Pohnpei (Ponape), Yap"
@@ -365,7 +359,7 @@
         "text": "drafted June 1975, ratified 1 October 1978, entered into force 10 May 1979"
       },
       "amendments": {
-        "text": "proposed by Congress, by a constitutional convention, or by public petition; passage requires approval by at least three-fourths majority vote in at least three fourths of the states; amended 1990; note – at least every 10 years as part of a general or special election, voters are asked whether to hold a constitution convention; a majority of affirmative votes is required to proceed"
+        "text": "proposed by Congress, by a constitutional convention, or by public petition; passage requires approval by at least three-fourths majority vote in at least three fourths of the states; amended 1990; note &ndash; at least every 10 years as part of a general or special election, voters are asked whether to hold a constitution convention; a majority of affirmative votes is required to proceed"
       }
     },
     "Legal system": {
@@ -455,7 +449,7 @@
     },
     "Diplomatic representation from the US": {
       "chief of mission": {
-        "text": "Ambassador Carmen G. CANTOR (since 31 January 2020)"
+        "text": "Ambassador&nbsp;Carmen G. CANTOR&nbsp;(since 31 January 2020)"
       },
       "telephone": {
         "text": "[691] 320-2187"
@@ -483,32 +477,55 @@
       "lyrics/music": {
         "text": "unknown"
       },
-      "note": "note: adopted 1991; also known as \"Across All Micronesia\"; the music is based on the 1820 German patriotic song \"Ich hab mich ergeben\", which was the West German national anthem from 1949-1950; variants of this tune are used in Johannes Brahms' \"Festival Overture\" and Gustav Mahler's \"Third Symphony\""
+      "note": "<p><strong>note:</strong> adopted 1991; also known as \"Across All Micronesia\"; the music is based on the 1820 German patriotic song \"Ich hab mich ergeben\", which was the West German national anthem from 1949-1950; variants of this tune are used in Johannes Brahms' \"Festival Overture\" and Gustav Mahler's \"Third Symphony\"</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "Economic activity consists largely of subsistence farming and fishing, and government, which employs two-thirds of the adult working population and receives funding largely - 58% in 2013 – from Compact of Free Association assistance provided by the US. The islands have few commercially valuable mineral deposits. The potential for tourism is limited by isolation, lack of adequate facilities, and limited internal air and water transportation. ++ Under the terms of the original Compact, the US provided $1.3 billion in grants and aid from 1986 to 2001. The US and the Federated States of Micronesia (FSM) negotiated a second (amended) Compact agreement in 2002-03 that took effect in 2004. The amended Compact runs for a 20-year period to 2023; during which the US will provide roughly $2.1 billion to the FSM. The amended Compact also develops a trust fund for the FSM that will provide a comparable income stream beyond 2024 when Compact grants end. ++ The country's medium-term economic outlook appears fragile because of dependence on US assistance and lackluster performance of its small and stagnant private sector."
+      "text": "<p>Economic activity consists largely of subsistence farming and fishing, and government, which employs two-thirds of the adult working population and receives funding largely - 58% in 2013 – from Compact of Free Association assistance provided by the US. The islands have few commercially valuable mineral deposits. The potential for tourism is limited by isolation, lack of adequate facilities, and limited internal air and water transportation.</p><p></p><p>Under the terms of the original Compact, the US provided $1.3 billion in grants and aid from 1986 to 2001. The US and the Federated States of Micronesia (FSM) negotiated a second (amended) Compact agreement in 2002-03 that took effect in 2004. The amended Compact runs for a 20-year period to 2023; during which the US will provide roughly $2.1 billion to the FSM. The amended Compact also develops a trust fund for the FSM that will provide a comparable income stream beyond 2024 when Compact grants end.</p><p></p><p>The country's medium-term economic outlook appears fragile because of dependence on US assistance and lackluster performance of its small and stagnant private sector.</p>"
     },
-    "GDP real growth rate": {
-      "text": "2% (2017 est.) / 2.9% (2016 est.) / 3.9% (2015 est.)",
-      "country comparison to the world": 138
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2017": {
+        "text": "2% (2017 est.)"
+      },
+      "Real GDP growth rate 2016": {
+        "text": "2.9% (2016 est.)"
+      },
+      "Real GDP growth rate 2015": {
+        "text": "3.9% (2015 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "0.5% (2017 est.) / 0.5% (2016 est.)",
-      "country comparison to the world": 42
+      "Inflation rate (consumer prices) 2017": {
+        "text": "0.5% (2017 est.)"
+      },
+      "Inflation rate (consumer prices) 2016": {
+        "text": "0.5% (2016 est.)"
+      }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$348 million (2017 est.) / $341.1 million (2016 est.) / $331.4 million (2015 est.)",
-      "note": "note: data are in 2017 dollars"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2018": {
+        "text": "$390 million (2018 est.)"
+      },
+      "Real GDP (purchasing power parity) 2017": {
+        "text": "$389 million (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2017 dollars</p>"
     },
     "GDP (official exchange rate)": {
       "text": "$328 million (2017 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$3,400 (2017 est.) / $3,300 (2016 est.) / $3,200 (2015 est.)",
-      "note": "note: data are in 2017 dollars",
-      "country comparison to the world": 174
+    "Real GDP per capita": {
+      "Real GDP per capita 2018": {
+        "text": "$3,464 (2018 est.)"
+      },
+      "Real GDP per capita 2017": {
+        "text": "$3,493 (2017 est.)"
+      },
+      "Real GDP per capita 2015": {
+        "text": "$3,200 (2015 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2017 dollars</p>"
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -542,10 +559,12 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "text": "69.6 (2020)"
+      "Overall Ease of Doing Business score 2020": {
+        "text": "69.6 (2020)"
+      }
     },
-    "Agriculture - products": {
-      "text": "taro, yams, coconuts, bananas, cassava (manioc, tapioca), sakau (kava), Kosraen citrus, betel nuts, black pepper, fish, pigs, chickens"
+    "Agricultural products": {
+      "text": "coconuts, cassava, vegetables, sweet potatoes, bananas, pork, plantains, fruit, eggs, beef"
     },
     "Industries": {
       "text": "tourism, construction; specialized aquaculture, craft items (shell and wood)"
@@ -554,8 +573,7 @@
       "text": "NA"
     },
     "Labor force": {
-      "text": "37,920 (2010 est.)",
-      "country comparison to the world": 199
+      "text": "37,920 (2010 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -567,14 +585,20 @@
       "services": {
         "text": "93.9% (2013 est.)"
       },
-      "note": "note: two-thirds of the labor force are government employees"
+      "note": "<p><strong>note:</strong> two-thirds of the labor force are government employees</p>"
     },
     "Unemployment rate": {
-      "text": "16.2% (2010 est.)",
-      "country comparison to the world": 180
+      "Unemployment rate 2010": {
+        "text": "16.2% (2010 est.)"
+      }
     },
     "Population below poverty line": {
       "text": "26.7% (2000 est.)"
+    },
+    "Gini Index coefficient - distribution of family income": {
+      "Gini Index coefficient - distribution of family income 2013": {
+        "text": "40.1 (2013 est.)"
+      }
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
@@ -593,48 +617,67 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "65.2% (of GDP) (FY12/13 est.)",
-      "country comparison to the world": 7
+      "text": "65.2% (of GDP) (FY12/13 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "6.6% (of GDP) (FY12/13 est.)",
-      "country comparison to the world": 4
+      "text": "6.6% (of GDP) (FY12/13 est.)"
     },
     "Public debt": {
-      "text": "24.5% of GDP (2017 est.) / 25.3% of GDP (2016 est.)",
-      "country comparison to the world": 176
+      "Public debt 2017": {
+        "text": "24.5% of GDP (2017 est.)"
+      },
+      "Public debt 2016": {
+        "text": "25.3% of GDP (2016 est.)"
+      }
     },
     "Fiscal year": {
       "text": "1 October - 30 September"
     },
     "Current account balance": {
-      "text": "$12 million (2017 est.) / $11 million (2016 est.)",
-      "country comparison to the world": 62
+      "Current account balance 2017": {
+        "text": "$12 million (2017 est.)"
+      },
+      "Current account balance 2016": {
+        "text": "$11 million (2016 est.)"
+      }
     },
     "Exports": {
-      "text": "$88.3 million (2013 est.)",
-      "country comparison to the world": 199
+      "Exports 2013": {
+        "text": "$88.3 million (2013 est.)"
+      }
     },
     "Exports - commodities": {
       "text": "fish, sakau (kava), betel nuts, black pepper"
     },
     "Imports": {
-      "text": "$167.8 million (2015 est.) / $258.5 million (2013 est.)",
-      "country comparison to the world": 212
+      "Imports 2015": {
+        "text": "$167.8 million (2015 est.)"
+      },
+      "Imports 2013": {
+        "text": "$258.5 million (2013 est.)"
+      }
     },
     "Imports - commodities": {
       "text": "food, beverages, clothing, computers, household electronics, appliances, manufactured goods, automobiles, machinery and equipment, furniture, tools"
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$203.7 million (31 December 2017 est.) / $135.1 million (31 December 2015 est.)",
-      "country comparison to the world": 174
+      "Reserves of foreign exchange and gold 31 December 2017": {
+        "text": "$203.7 million (31 December 2017 est.)"
+      },
+      "Reserves of foreign exchange and gold 31 December 2015": {
+        "text": "$135.1 million (31 December 2015 est.)"
+      }
     },
     "Debt - external": {
-      "text": "$93.6 million (2013 est.) / $93.5 million (2012 est.)",
-      "country comparison to the world": 194
+      "Debt - external 2013": {
+        "text": "$93.6 million (2013 est.)"
+      },
+      "Debt - external 2012": {
+        "text": "$93.5 million (2012 est.)"
+      }
     },
     "Exchange rates": {
-      "note": "the US dollar is used"
+      "text": "<p>the US dollar is used</p>"
     }
   },
   "Energy": {
@@ -650,76 +693,58 @@
       }
     },
     "Electricity - production": {
-      "text": "192 million kWh (2002)",
-      "country comparison to the world": 193
+      "text": "192 million kWh (2002)"
     },
     "Electricity - consumption": {
-      "text": "178.6 million kWh (2002)",
-      "country comparison to the world": 195
+      "text": "178.6 million kWh (2002)"
     },
     "Electricity - exports": {
-      "text": "0 kWh (2013 est.)",
-      "country comparison to the world": 171
+      "text": "0 kWh (2013 est.)"
     },
     "Electricity - imports": {
-      "text": "0 kWh (2013 est.)",
-      "country comparison to the world": 175
+      "text": "0 kWh (2013 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "18,000 kW (2015 est.)",
-      "country comparison to the world": 205
+      "text": "18,000 kW (2015 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "96% of total installed capacity (2015 est.)",
-      "country comparison to the world": 40
+      "text": "96% of total installed capacity (2015 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2015 est.)",
-      "country comparison to the world": 143
+      "text": "0% of total installed capacity (2015 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "1% of total installed capacity (2013 est.)",
-      "country comparison to the world": 149
+      "text": "1% of total installed capacity (2013 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "3% of total installed capacity (2013 est.)",
-      "country comparison to the world": 127
+      "text": "3% of total installed capacity (2013 est.)"
     },
     "Crude oil - production": {
-      "text": "0 bbl/day (2014)",
-      "country comparison to the world": 174
+      "text": "0 bbl/day (2014)"
     },
     "Crude oil - exports": {
-      "text": "0 bbl/day (2014)",
-      "country comparison to the world": 165
+      "text": "0 bbl/day (2014)"
     },
     "Crude oil - imports": {
-      "text": "0 bbl/day (2014)",
-      "country comparison to the world": 167
+      "text": "0 bbl/day (2014)"
     },
     "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2014)",
-      "country comparison to the world": 169
+      "text": "0 bbl (1 January 2014)"
     },
     "Refined petroleum products - production": {
-      "text": "0 bbl/day (2014)",
-      "country comparison to the world": 178
+      "text": "0 bbl/day (2014)"
     },
     "Refined petroleum products - exports": {
-      "text": "0 bbl/day",
-      "country comparison to the world": 182
+      "text": "0 bbl/day"
     },
     "Natural gas - production": {
-      "text": "0 cu m (2014)",
-      "country comparison to the world": 171
+      "text": "0 cu m (2014)"
     },
     "Natural gas - proved reserves": {
-      "text": "0 cu m",
-      "country comparison to the world": 170
+      "text": "0 cu m"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "105 Mt (2010 est.)",
-      "country comparison to the world": 213
+      "text": "105 Mt (2010 est.)"
     }
   },
   "Communications": {
@@ -729,8 +754,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "6.23 (2019 est.)"
-      },
-      "country comparison to the world": 202
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -738,8 +762,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "20.74 (2019 est.)"
-      },
-      "country comparison to the world": 212
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
@@ -749,9 +772,9 @@
         "text": "islands interconnected by shortwave radiotelephone, satellite (Intelsat) ground stations, and some coaxial and fiber-optic cable; mobile-cellular service available on the major islands; fixed line teledensity 6 per 100 and mobile-cellular 21 per 100 (2019)"
       },
       "international": {
-        "text": "country code - 691; landing points for the Chuukk-Pohnpei Cable and HANTRU-1 submarine cable system linking the Federated States of Micronesia and the US; satellite earth stations - 5 Intelsat (Pacific Ocean) (2019)"
+        "text": "country code - 691; landing points for the Chuukk-Pohnpei Cable and HANTRU-1 submarine cable system linking the Federated States of Micronesia and the US;&nbsp;satellite earth stations - 5 Intelsat (Pacific Ocean) (2019)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "no TV broadcast stations; each state has a multi-channel cable service with TV transmissions carrying roughly 95% imported programming and 5% local programming; about a half-dozen radio stations (2009)"
@@ -765,8 +788,7 @@
       },
       "percent of population": {
         "text": "35.3% (July 2018 est.)"
-      },
-      "country comparison to the world": 203
+      }
     },
     "Broadband - fixed subscriptions": {
       "total": {
@@ -774,8 +796,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "4 (2017 est.)"
-      },
-      "country comparison to the world": 185
+      }
     }
   },
   "Transportation": {
@@ -783,8 +804,9 @@
       "text": "V6 (2016)"
     },
     "Airports": {
-      "text": "6 (2013)",
-      "country comparison to the world": 174
+      "total": {
+        "text": "6 (2013)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -798,16 +820,15 @@
       }
     },
     "Roadways": {
-      "note": "note - paved and unpaved circumferential roads, most interior roads are unpaved"
+      "text": "note - paved and unpaved circumferential roads, most interior roads are unpaved"
     },
     "Merchant marine": {
       "total": {
-        "text": "39"
+        "text": "38"
       },
       "by type": {
-        "text": "general cargo 19, oil tanker 4, other 16 (2019)"
-      },
-      "country comparison to the world": 123
+        "text": "general cargo 18, oil tanker 4, other 16 (2020)"
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -825,7 +846,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "none"
+      "text": "<p>none</p>"
     },
     "Illicit drugs": {
       "text": "major consumer of cannabis"

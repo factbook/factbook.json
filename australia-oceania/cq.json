@@ -24,14 +24,15 @@
       "water": {
         "text": "0 sq km"
       },
-      "note": "note: consists of 14 islands including Saipan, Rota, and Tinian",
-      "country comparison to the world": 196
+      "note": "<p><strong>note:</strong> consists of 14 islands including Saipan, Rota, and Tinian</p>"
     },
     "Area - comparative": {
       "text": "2.5 times the size of Washington, DC"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "1,482 km"
@@ -65,8 +66,14 @@
       "agricultural land": {
         "text": "6.6% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "2.2% (2011 est.) / 2.2% (2011 est.) / 2.2% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 2.2% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 2.2% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 2.2% (2011 est.)"
       },
       "forest": {
         "text": "65.5% (2011 est.)"
@@ -93,8 +100,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "51,433 (July 2020 est.)",
-      "country comparison to the world": 209
+      "text": "51,659 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -139,24 +145,19 @@
       },
       "female": {
         "text": "34.1 years (2020 est.)"
-      },
-      "country comparison to the world": 105
+      }
     },
     "Population growth rate": {
-      "text": "-0.55% (2020 est.)",
-      "country comparison to the world": 225
+      "text": "-0.36% (2021 est.)"
     },
     "Birth rate": {
-      "text": "15.1 births/1,000 population (2020 est.)",
-      "country comparison to the world": 117
+      "text": "15.31 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "5.3 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 191
+      "text": "5.28 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "-15.4 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 222
+      "text": "-13.67 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "approximately 90% of the population lives on the island of Saipan"
@@ -197,45 +198,42 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "11.5 deaths/1,000 live births"
+        "text": "12.79 deaths/1,000 live births"
       },
       "male": {
-        "text": "13.7 deaths/1,000 live births"
+        "text": "15.52 deaths/1,000 live births"
       },
       "female": {
-        "text": "9 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 113
+        "text": "9.61 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "76.1 years"
+        "text": "76.33 years"
       },
       "male": {
-        "text": "74 years"
+        "text": "74.22 years"
       },
       "female": {
-        "text": "78.5 years (2020 est.)"
-      },
-      "country comparison to the world": 105
+        "text": "78.79 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "2.7 children born/woman (2020 est.)",
-      "country comparison to the world": 64
+      "text": "2.66 children born/woman (2021 est.)"
     },
     "Drinking water source": {
-      "improved": {
+      "improved: total": {
         "text": "total: 100% of population"
       },
-      "unimproved": {
+      "unimproved: total": {
         "text": "total: 0% of population (2017 est.)"
       }
     },
     "Sanitation facility access": {
-      "improved": {
+      "improved: total": {
         "text": "total: 97.7% of population"
       },
-      "unimproved": {
+      "unimproved: total": {
         "text": "total: 2.2% of population (2017 est.)"
       }
     },
@@ -271,7 +269,7 @@
       }
     },
     "Dependency status": {
-      "text": "commonwealth in political union with and under the sovereignty of the US; federal funds to the Commonwealth administered by the US Department of the Interior, Office of Insular Affairs"
+      "text": "commonwealth in political union with and under the sovereignty of&nbsp;the US; federal funds to the Commonwealth administered by the US Department of the Interior, Office of Insular Affairs"
     },
     "Government type": {
       "text": "republican form of government with separate executive, legislative, and judicial branches; a commonwealth in political union with and under the sovereignty of the US"
@@ -286,7 +284,7 @@
       "time difference": {
         "text": "UTC+10 (15 hours ahead of Washington, DC, during Standard Time)"
       },
-      "note": "etymology: the entire island of Saipan is organized as a single municipality and serves as the capital; according to legend, when the first native voyagers arrived in their outrigger canoes they found an uninhabited island; to them it was like an empty voyage, so they named the island \"saay\" meaning \"a voyage,\" and \"peel\" meaning \"empty\"; over time Saaypeel - \"island of the empty voyage\" - became Saipan"
+      "note": "<br><br><strong>etymology:</strong> the entire island of Saipan is organized as a single municipality and serves as the capital; according to legend, when the first native voyagers arrived in their outrigger canoes they found an uninhabited island; to them it was like an empty voyage, so they named the island \"saay\" meaning \"a voyage,\" and \"peel\" meaning \"empty\"; over time Saaypeel - \"island of the empty voyage\" - became Saipan"
     },
     "Administrative divisions": {
       "text": "none (commonwealth in political union with the US); there are no first-order administrative divisions as defined by the US Government, but there are 4 municipalities at the second order: Northern Islands, Rota, Saipan, Tinian"
@@ -309,14 +307,14 @@
       "text": "the laws of the US apply, except for customs and some aspects of taxation"
     },
     "Citizenship": {
-      "note": "see United States"
+      "text": "see United States"
     },
     "Suffrage": {
       "text": "18 years of age; universal; note - indigenous inhabitants are US citizens but do not vote in US presidential elections"
     },
     "Executive branch": {
       "chief of state": {
-        "text": "President Donald J. TRUMP (since 20 January 2017); Vice President Michael R. PENCE (since 20 January 2017)"
+        "text": "President Joseph R. BIDEN Jr. (since 20 January 2021); Vice President Kamala D. HARRIS (since 20 January 2021)"
       },
       "head of government": {
         "text": "Governor Ralph TORRES (since 29 December 2015); Lieutenant Governor Victor HOCOG (since 29 December 2015)"
@@ -325,23 +323,23 @@
         "text": "Cabinet appointed by the governor with the advice and consent of the Senate"
       },
       "elections/appointments": {
-        "text": "president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state; president and vice president serve a 4-year term (eligible for a second term); under the US Constitution, residents of the Northern Mariana Islands do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican party presidential primary elections; governor directly elected by absolute majority vote in 2 rounds if needed; election last held on 13 November 2018 (next to be held in 2022)"
+        "text": "president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state; president and vice president serve a 4-year term (eligible for a second term); under the US Constitution, residents of the Northern Mariana Islands do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican party presidential primary elections; governor directly elected by absolute majority vote in 2 rounds if needed; election last held on&nbsp;13 November 2018 (next to be held in 2022)"
       },
       "election results": {
-        "text": "Ralph TORRES elected governor; percent of vote - Ralph TORRES (Republican) 62.2%, Juan BABAUTA (Independent) 37.8%; Arnold PALACIOS elected Lieutenant Governor"
+        "text": "Ralph TORRES&nbsp;elected governor; percent of vote - Ralph TORRES (Republican) 62.2%, Juan BABAUTA (Independent) 37.8%;&nbsp;&nbsp;Arnold PALACIOS elected Lieutenant Governor"
       }
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral Northern Marianas Commonwealth Legislature consists of: Senate (9 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms) ++ House of Representatives (20 seats; members directly elected in single-seat constituencies by simple majority vote to serve 2-year terms) ++ the Northern Mariana Islands directly elects 1 delegate to the US House of Representatives by simple majority vote to serve a 2-year term"
+        "text": "bicameral Northern Marianas Commonwealth Legislature consists of:<br />Senate (9 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br />House of Representatives (20 seats; members directly elected in single-seat constituencies by simple majority vote to serve 2-year terms)<br /><br />the Northern Mariana Islands directly elects 1 delegate to the US House of Representatives by simple majority vote to serve a 2-year term"
       },
       "elections": {
-        "text": "CNMI Senate - last held on 3 November 2020 (next to be held in November 2024) ++ CNMI House of Representatives - last held on 3 November 2020 (next to be held in November 2022) ++ Commonwealth of Northern Mariana Islands delegate to the US House of Representatives - last held on 3 November 2020 (next to be held in November 2022)"
+        "text": "<br />CNMI Senate - last held on 3 November 2020 (next to be held in November 2024)<br />CNMI House of Representatives - last held on 3 November 2020 (next to be held in November 2022)<br />Commonwealth of Northern Mariana Islands delegate to the US House of Representatives&nbsp; - last held on 3 November 2020 (next to be held in November 2022)"
       },
       "election results": {
-        "text": "CNMI Senate - percent of vote by party - NA; seats by party - Republican Party 6, independent 3; composition - men 8, women 1, percent of women 11.1% ++ CNMI House of Representatives - percent of vote by party - NA; seats by party - Republican Party 9, Democrat Party 8, independent 3 ++ delegate to US House of Representatives - seat won by independent; composition - 1 man"
+        "text": "<br />CNMI Senate - percent of vote by party - NA; seats by party - Republican Party 6, independent 3; composition - men 8, women 1, percent of women 11.1%<br />CNMI House of Representatives - percent of vote by party - NA; seats by party - Republican Party 9, Democrat Party 8, independent 3<br /><br />delegate to US House of Representatives - seat won by independent; composition - 1 man"
       },
-      "note": "note: the Northern Mariana Islands delegate to the US House of Representatives can vote when serving on a committee and when the House meets as the \"Committee of the Whole House\" but not when legislation is submitted for a \"full floor\" House vote"
+      "note": "<br><br><strong id=\"tinymce\" class=\"mce-content-body \" style=\"font-size: 18px;\" contenteditable=\"true\" spellcheck=\"false\" data-id=\"field_notes\">note:</strong> the Northern Mariana Islands delegate to the US House of Representatives can vote when serving on a committee and when the House meets as the \"Committee of the Whole House\" but not when legislation is submitted for a &ldquo;full floor&rdquo; House vote"
     },
     "Judicial branch": {
       "highest courts": {
@@ -355,13 +353,15 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Democratic Party [Daniel QUITUGUA] ++ Republican Party [James ADA]"
+      "text": "Democratic Party [Daniel QUITUGUA]<br />Republican Party [James ADA]"
     },
     "International organization participation": {
       "text": "PIF (observer), SPC, UPU"
     },
     "Diplomatic representation from the US": {
-      "text": "none (commonwealth in political union with the US)"
+      "embassy": {
+        "text": "none (commonwealth in political union with the US) &nbsp; &nbsp; &nbsp;&nbsp;"
+      }
     },
     "Flag description": {
       "text": "blue with a white, five-pointed star superimposed on a gray latte stone (the traditional foundation stone used in building) in the center, surrounded by a wreath; blue symbolizes the Pacific Ocean, the star represents the Commonwealth; the latte stone and the floral head wreath display elements of the native Chamorro culture"
@@ -376,31 +376,57 @@
       "lyrics/music": {
         "text": "Jose S. PANGELINAN [Chamoru], David PETER [Carolinian]/Wilhelm GANZHORN"
       },
-      "note": "note: adopted 1996; the Carolinian version of the song is known as \"Satil Matawal Pacifico;\" as a commonwealth of the US, in addition to the local anthem, \"The Star-Spangled Banner\" is official (see United States)"
+      "note": "<p><strong>note:</strong> adopted 1996; the Carolinian version of the song is known as \"Satil Matawal Pacifico;\" as a commonwealth of the US, in addition to the local anthem, \"The Star-Spangled Banner\" is official (see United States)</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "The economy of the Commonwealth of the Northern Mariana Islands(CNMI) has been on the rebound in the last few years, mainly on the strength of its tourism industry. In 2016, the CNMI's real GDP increased 28.6% over the previous year, following two years of relatively rapid growth in 2014 and 2015. Chinese and Korean tourists have supplanted Japanese tourists in the last few years. The Commonwealth is making a concerted effort to broaden its tourism by extending casino gambling from the small Islands of Tinian and Rota to the main Island of Saipan, its political and commercial center. Investment is concentrated on hotels and casinos in Saipan, the CNMI's largest island and home to about 90% of its population. ++ Federal grants have also contributed to economic growth and stability. In 2016, federal grants amounted to $101.4 billion which made up 26% of the CNMI government's total revenues. A small agriculture sector consists of cattle ranches and small farms producing coconuts, breadfruit, tomatoes, and melons. ++ Legislation is pending in the US Congress to extend the transition period to allow foreign workers to work in the CNMI on temporary visas."
+      "text": "<p>The economy of the Commonwealth of the Northern Mariana Islands(CNMI) has been on the rebound in the last few years, mainly on the strength of its tourism industry. In 2016, the CNMI’s real GDP increased 28.6% over the previous year, following two years of relatively rapid growth in 2014 and 2015. Chinese and Korean tourists have supplanted Japanese tourists in the last few years. The Commonwealth is making a concerted effort to broaden its tourism by extending casino gambling from the small Islands of Tinian and Rota to the main Island of Saipan, its political and commercial center. Investment is concentrated on hotels and casinos in Saipan, the CNMI’s largest island and home to about 90% of its population.</p><p></p><p>Federal grants have also contributed to economic growth and stability. In 2016, federal grants amounted to $101.4 billion which made up 26% of the CNMI government’s total revenues. A small agriculture sector consists of cattle ranches and small farms producing coconuts, breadfruit, tomatoes, and melons.</p><p></p><p>Legislation is pending in the US Congress to extend the transition period to allow foreign workers to work in the CNMI on temporary visas.</p>"
     },
-    "GDP real growth rate": {
-      "text": "28.6% (2016 est.) / 3.8% (2015 est.) / 3.5% (2014 est.)",
-      "country comparison to the world": 2
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2016": {
+        "text": "28.6% (2016 est.)"
+      },
+      "Real GDP growth rate 2015": {
+        "text": "3.8% (2015 est.)"
+      },
+      "Real GDP growth rate 2014": {
+        "text": "3.5% (2014 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "0.3% (2016 est.) / 0.1% (2015 est.)",
-      "country comparison to the world": 36
+      "Inflation rate (consumer prices) 2016": {
+        "text": "0.3% (2016 est.)"
+      },
+      "Inflation rate (consumer prices) 2015": {
+        "text": "0.1% (2015 est.)"
+      }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$1.242 billion (2016 est.) / $933 million (2015 est.) / $845 million (2014 est.)",
-      "note": "note: GDP estimate includes US subsidy; data are in 2013 dollars"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2016": {
+        "text": "$1.242 billion (2016 est.)"
+      },
+      "Real GDP (purchasing power parity) 2015": {
+        "text": "$933 million (2015 est.)"
+      },
+      "Real GDP (purchasing power parity) 2014": {
+        "text": "$845 million (2014 est.)"
+      },
+      "note": "<p><strong>note:</strong> GDP estimate includes US subsidy; data are in 2013 dollars</p>"
     },
     "GDP (official exchange rate)": {
       "text": "$1.242 billion (2016 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$24,500 (2016 est.) / $18,400 (2015 est.) / $16,600 (2014 est.)",
-      "country comparison to the world": 65
+    "Real GDP per capita": {
+      "Real GDP per capita 2016": {
+        "text": "$24,500 (2016 est.)"
+      },
+      "Real GDP per capita 2015": {
+        "text": "$18,400 (2015 est.)"
+      },
+      "Real GDP per capita 2014": {
+        "text": "$16,600 (2014 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -433,9 +459,7 @@
         "text": "-71.9% (2016 est.)"
       }
     },
-    "Ease of Doing Business Index scores": {
-    },
-    "Agriculture - products": {
+    "Agricultural products": {
       "text": "vegetables and melons, fruits and nuts; ornamental plants; livestock, poultry, eggs; fish and aquaculture products"
     },
     "Industries": {
@@ -446,8 +470,7 @@
     },
     "Labor force": {
       "text": "27,970 (2010 est.)",
-      "note": "note: includes foreign workers",
-      "country comparison to the world": 204
+      "note": "<p><strong>note:</strong> includes foreign workers</p>"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -461,8 +484,12 @@
       }
     },
     "Unemployment rate": {
-      "text": "11.2% (2010 est.) / 8% (2005 est.)",
-      "country comparison to the world": 158
+      "Unemployment rate 2010": {
+        "text": "11.2% (2010 est.)"
+      },
+      "Unemployment rate 2005": {
+        "text": "8% (2005 est.)"
+      }
     },
     "Population below poverty line": {
       "text": "NA"
@@ -484,39 +511,46 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "31.4% (of GDP) (2016 est.)",
-      "country comparison to the world": 72
+      "text": "31.4% (of GDP) (2016 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "3.7% (of GDP) (2016 est.)",
-      "country comparison to the world": 11
+      "text": "3.7% (of GDP) (2016 est.)"
     },
     "Public debt": {
-      "text": "7.1% of GDP (2017 est.)",
-      "country comparison to the world": 201
+      "Public debt 2017": {
+        "text": "7.1% of GDP (2017 est.)"
+      }
     },
     "Fiscal year": {
       "text": "1 October - 30 September"
     },
     "Exports": {
-      "text": "$914 million (2016 est.) / $520 million (2015 est.)",
-      "country comparison to the world": 162
+      "Exports 2016": {
+        "text": "$914 million (2016 est.)"
+      },
+      "Exports 2015": {
+        "text": "$520 million (2015 est.)"
+      }
     },
     "Exports - commodities": {
       "text": "garments"
     },
     "Imports": {
-      "text": "$893 million (2016 est.) / $638 million (2015 est.)",
-      "country comparison to the world": 188
+      "Imports 2016": {
+        "text": "$893 million (2016 est.)"
+      },
+      "Imports 2015": {
+        "text": "$638 million (2015 est.)"
+      }
     },
     "Imports - commodities": {
       "text": "food, construction equipment and materials, petroleum products"
     },
     "Debt - external": {
-      "note": "NA"
+      "text": "<p>NA</p>"
     },
     "Exchange rates": {
-      "note": "the US dollar is used"
+      "text": "<p>the US dollar is used</p>"
     }
   },
   "Energy": {
@@ -526,20 +560,16 @@
       }
     },
     "Electricity - production": {
-      "text": "60,600 kWh (2009)",
-      "country comparison to the world": 217
+      "text": "60,600 kWh (2009)"
     },
     "Electricity - consumption": {
-      "text": "48,300 kWh (2009)",
-      "country comparison to the world": 217
+      "text": "48,300 kWh (2009)"
     },
     "Electricity - exports": {
-      "text": "0 kWh (2009 est.)",
-      "country comparison to the world": 180
+      "text": "0 kWh (2009 est.)"
     },
     "Electricity - imports": {
-      "text": "0 kWh (January 2009 est.)",
-      "country comparison to the world": 182
+      "text": "0 kWh (January 2009 est.)"
     }
   },
   "Communications": {
@@ -549,8 +579,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "39.44 (2019 est.)"
-      },
-      "country comparison to the world": 176
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
@@ -562,7 +591,7 @@
       "international": {
         "text": "country code - 1-670; landing points for the Atisa and Mariana-Guam submarine cables linking Mariana islands to Guam; satellite earth stations - 2 Intelsat (Pacific Ocean) (2019)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "1 TV broadcast station on Saipan; multi-channel cable TV services are available on Saipan; 9 licensed radio broadcast stations (2009)"
@@ -576,14 +605,14 @@
       },
       "percent of population": {
         "text": "30.6% (July 2016 est.)"
-      },
-      "country comparison to the world": 211
+      }
     }
   },
   "Transportation": {
     "Airports": {
-      "text": "5 (2013)",
-      "country comparison to the world": 182
+      "total": {
+        "text": "5 (2013)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -613,8 +642,7 @@
     "Roadways": {
       "total": {
         "text": "536 km (2008)"
-      },
-      "country comparison to the world": 194
+      }
     },
     "Merchant marine": {
       "total": {
@@ -622,8 +650,7 @@
       },
       "by type": {
         "text": "other 1 (2019)"
-      },
-      "country comparison to the world": 179
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -638,7 +665,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "none"
+      "text": "<p>none</p>"
     }
   }
 }

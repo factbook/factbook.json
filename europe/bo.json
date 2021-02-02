@@ -23,8 +23,7 @@
       },
       "water": {
         "text": "4,700 sq km"
-      },
-      "country comparison to the world": 86
+      }
     },
     "Area - comparative": {
       "text": "slightly less than twice the size of Kentucky; slightly smaller than Kansas"
@@ -41,7 +40,7 @@
       "text": "0 km (landlocked)"
     },
     "Maritime claims": {
-      "note": "none (landlocked)"
+      "text": "none (landlocked)"
     },
     "Climate": {
       "text": "cold winters, cool and moist summers; transitional between continental and maritime"
@@ -65,16 +64,22 @@
     },
     "Land use": {
       "agricultural land": {
-        "text": "43.7% (2016 est.)"
+        "text": "43.7% (2018 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "27.2% (2016 est.) / 0.6% (2016 est.) / 15.9% (2016 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 27.2% (2018 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 0.6% (2018 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 15.9% (2018 est.)"
       },
       "forest": {
-        "text": "42.7% (2016 est.)"
+        "text": "42.7% (2018 est.)"
       },
       "other": {
-        "text": "13.6% (2016 est.)"
+        "text": "13.6% (2018 est.)"
       }
     },
     "Irrigated land": {
@@ -103,8 +108,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "9,477,918 (July 2020 est.)",
-      "country comparison to the world": 94
+      "text": "9,441,842 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -163,24 +167,19 @@
       },
       "female": {
         "text": "43.9 years (2020 est.)"
-      },
-      "country comparison to the world": 48
+      }
     },
     "Population growth rate": {
-      "text": "-0.27% (2020 est.)",
-      "country comparison to the world": 214
+      "text": "-0.29% (2021 est.)"
     },
     "Birth rate": {
-      "text": "9.5 births/1,000 population (2020 est.)",
-      "country comparison to the world": 195
+      "text": "9.32 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "13.1 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 8
+      "text": "12.96 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "0.7 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 64
+      "text": "0.72 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations"
@@ -223,47 +222,55 @@
       "text": "26.5 years (2017 est.)"
     },
     "Maternal mortality rate": {
-      "text": "2 deaths/100,000 live births (2017 est.)",
-      "country comparison to the world": 181
+      "text": "2 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "3.5 deaths/1,000 live births"
+        "text": "3.31 deaths/1,000 live births"
       },
       "male": {
-        "text": "3.9 deaths/1,000 live births"
+        "text": "3.76 deaths/1,000 live births"
       },
       "female": {
-        "text": "3.1 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 197
+        "text": "2.83 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "73.8 years"
+        "text": "74.01 years"
       },
       "male": {
-        "text": "68.3 years"
+        "text": "68.6 years"
       },
       "female": {
-        "text": "79.5 years (2020 est.)"
-      },
-      "country comparison to the world": 139
+        "text": "79.74 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "1.5 children born/woman (2020 est.)",
-      "country comparison to the world": 200
+      "text": "1.51 children born/woman (2021 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "72.1% (2017)",
-      "note": "note: percent of women aged 18-49"
+      "note": "<br><br><strong>note:</strong>&nbsp; percent of women aged 18-49"
     },
     "Drinking water source": {
-      "improved": {
-        "text": "urban: 100% of population / rural: 98.3% of population / total: 99.8% of population"
+      "improved: urban": {
+        "text": "urban: 100% of population"
       },
-      "unimproved": {
-        "text": "urban: 0% of population / rural: 1.7% of population / total: 0.2% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 98.3% of population"
+      },
+      "improved: total": {
+        "text": "total: 99.8% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 0% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 1.7% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 0.2% of population (2017 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -276,31 +283,39 @@
       "text": "10.8 beds/1,000 population (2014)"
     },
     "Sanitation facility access": {
-      "improved": {
-        "text": "urban: 99.8% of population / rural: 97.9% of population / total: 99.4% of population"
+      "improved: urban": {
+        "text": "urban: 99.8% of population"
       },
-      "unimproved": {
-        "text": "urban: 0.2% of population / rural: 2.1% of population / total: 0.6% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 97.9% of population"
+      },
+      "improved: total": {
+        "text": "total: 99.4% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 0.2% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 2.1% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 0.6% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "0.4% (2019 est.)",
-      "country comparison to the world": 74
+      "text": "0.4% (2019 est.)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
-      "text": "28,000 (2019 est.)",
-      "country comparison to the world": 77
+      "text": "28,000 (2019 est.)"
     },
     "HIV/AIDS - deaths": {
       "text": "<200 (2019 est.)"
     },
     "Obesity - adult prevalence rate": {
-      "text": "24.5% (2016)",
-      "country comparison to the world": 58
+      "text": "24.5% (2016)"
     },
     "Education expenditures": {
-      "text": "4.8% of GDP (2017)",
-      "country comparison to the world": 65
+      "text": "4.8% of GDP (2017)"
     },
     "Literacy": {
       "definition": {
@@ -336,8 +351,7 @@
       },
       "female": {
         "text": "8.4% (2018 est.)"
-      },
-      "country comparison to the world": 121
+      }
     }
   },
   "Government": {
@@ -374,11 +388,11 @@
       "time difference": {
         "text": "UTC+2 (7 hours ahead of Washington, DC, during Standard Time)"
       },
-      "note": "etymology: the origin of the name is disputed; Minsk may originally have been located 16 km to the southwest, on the banks of Menka River; remnants of a 10th-century settlement on the banks of the Menka have been found"
+      "note": "<br><br><strong>etymology: </strong>the origin of the name is disputed; Minsk may originally have been located 16&nbsp;km to the southwest, on the banks of Menka River; remnants of a 10th-century settlement on the banks of the Menka have been found&nbsp;"
     },
     "Administrative divisions": {
       "text": "6 provinces (voblastsi, singular - voblasts') and 1 municipality* (horad); Brest, Homyel' (Gomel'), Horad Minsk* (Minsk City), Hrodna (Grodno), Mahilyow (Mogilev), Minsk, Vitsyebsk (Vitebsk)",
-      "note": "note: administrative divisions have the same names as their administrative centers; Russian spelling provided for reference when different from Belarusian"
+      "note": "<p><strong>note:</strong> administrative divisions have the same names as their administrative centers; Russian spelling provided for reference when different from Belarusian</p>"
     },
     "Independence": {
       "text": "25 August 1991 (from the Soviet Union)"
@@ -436,15 +450,15 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral National Assembly or Natsionalnoye Sobraniye consists of: Council of the Republic or Sovet Respubliki (64 seats; 56 members indirectly elected by regional and Minsk city councils and 8 members appointed by the president; members serve 4-year terms) ++ House of Representatives or Palata Predstaviteley (110 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year terms)"
+        "text": "bicameral National Assembly or Natsionalnoye Sobraniye consists of:<br />Council of the Republic or Sovet Respubliki (64 seats; 56 members indirectly elected by regional and Minsk city councils and 8 members appointed by the president; members serve 4-year terms)<br />House of Representatives or Palata Predstaviteley (110 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year terms)"
       },
       "elections": {
-        "text": "Council of the Republic - indirect election last held on 7 November 2019 ++ House of Representatives - last held on 17 November 2019 (next to be held in 2023); OSCE observers determined that the election was neither free nor impartial and that vote counting was problematic in a number of polling stations; pro-LUKASHENKO candidates won every seat; international observers determined that the previous elections, on 28 September 2008, 23 September 2012, and 11 September 2016 also fell short of democratic standards, with pro-LUKASHENKO candidates winning every, or virtually every, seat"
+        "text": "<br />Council of the Republic - indirect election last held on 7 November 2019<br />House of Representatives - last held on 17 November 2019 (next to be held in 2023); OSCE observers determined that the election was neither free nor impartial and that vote counting was problematic in a number of polling stations; pro-LUKASHENKO candidates won every seat; international observers determined that the previous elections, on 28 September 2008, 23 September 2012, and 11 September 2016 also fell short of democratic standards, with pro-LUKASHENKO candidates winning every, or virtually every, seat"
       },
       "election results": {
-        "text": "Council of the Republic - percent of vote by party - NA; seats by party - NA; composition - NA ++ House of Representatives - percent of vote by party - NA; seats by party - KPB 11, Republican Party of Labor and Justice 6, Belarusian Patriotic Party 2, LDP 1, AP 1, independent 89; composition - men 66, women 44, percent of women 40%; note - total National Assembly percent of women - NA"
+        "text": "<br />Council of the Republic - percent of vote by party - NA; seats by party - NA; composition - NA<br />House of Representatives - percent of vote by party - NA; seats by party - KPB 11, Republican Party of Labor and Justice 6, Belarusian Patriotic Party 2, LDP 1, AP 1, independent 89; composition - men 66, women 44, percent of women 40%; note - total National Assembly percent of women - NA"
       },
-      "note": "note: the US does not recognize the legitimacy of the National Assembly"
+      "note": "<br><br><strong>note:</strong> the US does not recognize the legitimacy of the National Assembly"
     },
     "Judicial branch": {
       "highest courts": {
@@ -458,7 +472,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "pro-government parties: ++ Belarusian Agrarian Party or AP [Mikhail SHIMANSKY] ++ Belarusian Patriotic Party [Nikolai ULAKHOVICH] ++ Belarusian Social Sport Party [Vladimir ALEKSANDROVICH] ++ Communist Party of Belarus or KPB [Aleksei SOKOL] ++ Liberal Democratic Party or LDP [Sergey GAYDUKEVICH] ++ Republican Party [Vladimir BELOZOR] ++ Republican Party of Labor and Justice [Vasiliy ZADNEPRYANIY] ++ Social Democratic Party of Popular Accord [Sergei YERMAK] ++ opposition parties: ++ Belarusian Christian Democracy Party [Paval SEVIARYNETS, Volha KAVALKOVA, Vital RYMASHEWSKI] (unregistered) ++ Belarusian Party of the Green [Anastasiya DOROFEYEVA] ++ Belarusian Party of the Left \"Just World\" [Sergey KALYAKIN] ++ Belarusian Popular Front or BPF [Ryhor KASTUSEU] ++ Belarusian Social-Democratic Assembly [Sergei CHERECHEN] ++ Belarusian Social Democratic Party (\"Assembly\") or BSDPH [Ihar BARYSAU] ++ Belarusian Social Democratic Party (People's Assembly) [Mikalay STATKEVICH] (unregistered) ++ Christian Conservative Party or BPF [Zyanon PAZNYAK] ++ United Civic Party or UCP [Nikolay KOZLOV]"
+      "text": "<strong>pro-government parties:</strong> <br />Belarusian Agrarian Party or AP [Mikhail SHIMANSKY]<br />Belarusian Patriotic Party [Nikolai ULAKHOVICH]<br />Belarusian Social Sport Party [Vladimir ALEKSANDROVICH]<br />Communist Party of Belarus or KPB [Aleksei SOKOL]<br />Liberal Democratic Party or LDP [Sergey GAYDUKEVICH]<br />Republican Party [Vladimir BELOZOR]<br />Republican Party of Labor and Justice [Vasiliy ZADNEPRYANIY]<br />Social Democratic Party of Popular Accord [Sergei YERMAK]<br /><strong>opposition parties:</strong> <br />Belarusian Christian Democracy Party [Paval SEVIARYNETS, Volha KAVALKOVA, Vital RYMASHEWSKI] (unregistered)<br />Belarusian Party of the Green [Anastasiya DOROFEYEVA]<br />Belarusian Party of the Left \"Just World\" [Sergey KALYAKIN]<br />Belarusian Popular Front or BPF [Ryhor KASTUSEU]<br />Belarusian Social-Democratic Assembly [Sergei CHERECHEN]<br />Belarusian Social Democratic Party (\"Assembly\") or BSDPH [Ihar BARYSAU]<br />Belarusian Social Democratic Party (People's Assembly) [Mikalay STATKEVICH] (unregistered)<br />Christian Conservative Party or BPF [Zyanon PAZNYAK]<br />United Civic Party or UCP [Nikolay KOZLOV]"
     },
     "International organization participation": {
       "text": "BSEC (observer), CBSS (observer), CEI, CIS, CSTO, EAEC, EAEU, EAPC, EBRD, FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFC, IFRCS, ILO, IMF, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NAM, NSG, OPCW, OSCE, PCA, PFP, SCO (dialogue member), UN, UNCTAD, UNESCO, UNIDO, UNIFIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer), ZC"
@@ -510,20 +524,34 @@
       "lyrics/music": {
         "text": "Mikhas KLIMKOVICH and Uladzimir KARYZNA/Nester SAKALOUSKI"
       },
-      "note": "note: music adopted 1955, lyrics adopted 2002; after the fall of the Soviet Union, Belarus kept the music of its Soviet-era anthem but adopted new lyrics; also known as \"Dziarzauny himn Respubliki Bielarus\" (State Anthem of the Republic of Belarus)"
+      "note": "<p><strong>note:</strong> music adopted 1955, lyrics adopted 2002; after the fall of the Soviet Union, Belarus kept the music of its Soviet-era anthem but adopted new lyrics; also known as \"Dziarzauny himn Respubliki Bielarus\" (State Anthem of the Republic of Belarus)</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "As part of the former Soviet Union, Belarus had a relatively well-developed industrial base, but it is now outdated, inefficient, and dependent on subsidized Russian energy and preferential access to Russian markets. The country's agricultural base is largely dependent on government subsidies. Following the collapse of the Soviet Union, an initial burst of economic reforms included privatization of state enterprises, creation of private property rights, and the acceptance of private entrepreneurship, but by 1994 the reform effort dissipated. About 80% of industry remains in state hands, and foreign investment has virtually disappeared. Several businesses have been renationalized. State-owned entities account for 70-75% of GDP, and state banks make up 75% of the banking sector. ++ Economic output declined for several years following the break-up of the Soviet Union, but revived in the mid-2000s. Belarus has only small reserves of crude oil and imports crude oil and natural gas from Russia at subsidized, below market, prices. Belarus derives export revenue by refining Russian crude and selling it at market prices. Russia and Belarus have had serious disagreements over prices and quantities for Russian energy. Beginning in early 2016, Russia claimed Belarus began accumulating debt – reaching $740 million by April 2017 – for paying below the agreed price for Russian natural gas and Russia cut back its export of crude oil as a result of the debt. In April 2017, Belarus agreed to pay its gas debt and Russia restored the flow of crude. ++ New non-Russian foreign investment has been limited in recent years, largely because of an unfavorable financial climate. In 2011, a financial crisis lead to a nearly three-fold devaluation of the Belarusian ruble. The Belarusian economy has continued to struggle under the weight of high external debt servicing payments and a trade deficit. In mid-December 2014, the devaluation of the Russian ruble triggered a near 40% devaluation of the Belarusian ruble. ++ Belarus's economy stagnated between 2012 and 2016, widening productivity and income gaps between Belarus and neighboring countries. Budget revenues dropped because of falling global prices on key Belarusian export commodities. Since 2015, the Belarusian government has tightened its macro-economic policies, allowed more flexibility to its exchange rate, taken some steps towards price liberalization, and reduced subsidized government lending to state-owned enterprises. Belarus returned to modest growth in 2017, largely driven by improvement of external conditions and Belarus issued sovereign debt for the first time since 2011, which provided the country with badly-needed liquidity, and issued $600 million worth of Eurobonds in February 2018, predominantly to US and British investors."
+      "text": "<p>As part of the former Soviet Union, Belarus had a relatively well-developed industrial base, but it is now outdated, inefficient, and dependent on subsidized Russian energy and preferential access to Russian markets. The country’s agricultural base is largely dependent on government subsidies. Following the collapse of the Soviet Union, an initial burst of economic reforms included privatization of state enterprises, creation of private property rights, and the acceptance of private entrepreneurship, but by 1994 the reform effort dissipated. About 80% of industry remains in state hands, and foreign investment has virtually disappeared. Several businesses have been renationalized. State-owned entities account for 70-75% of GDP, and state banks make up 75% of the banking sector.</p><p></p><p>Economic output declined for several years following the break-up of the Soviet Union, but revived in the mid-2000s. Belarus has only small reserves of crude oil and imports crude oil and natural gas from Russia at subsidized, below market, prices. Belarus derives export revenue by refining Russian crude and selling it at market prices. Russia and Belarus have had serious disagreements over prices and quantities for Russian energy. Beginning in early 2016, Russia claimed Belarus began accumulating debt – reaching $740 million by April 2017 – for paying below the agreed price for Russian natural gas and Russia cut back its export of crude oil as a result of the debt. In April 2017, Belarus agreed to pay its gas debt and Russia restored the flow of crude.</p><p></p><p>New non-Russian foreign investment has been limited in recent years, largely because of an unfavorable financial climate. In 2011, a financial crisis lead to a nearly three-fold devaluation of the Belarusian ruble. The Belarusian economy has continued to struggle under the weight of high external debt servicing payments and a trade deficit. In mid-December 2014, the devaluation of the Russian ruble triggered a near 40% devaluation of the Belarusian ruble.</p><p></p><p>Belarus’s economy stagnated between 2012 and 2016, widening productivity and income gaps between Belarus and neighboring countries. Budget revenues dropped because of falling global prices on key Belarusian export commodities. Since 2015, the Belarusian government has tightened its macro-economic policies, allowed more flexibility to its exchange rate, taken some steps towards price liberalization, and reduced subsidized government lending to state-owned enterprises. Belarus returned to modest growth in 2017, largely driven by improvement of external conditions and Belarus issued sovereign debt for the first time since 2011, which provided the country with badly-needed liquidity, and issued $600 million worth of Eurobonds in February 2018, predominantly to US and British investors.</p>"
     },
-    "GDP real growth rate": {
-      "text": "1.22% (2019 est.) / 3.17% (2018 est.) / 2.53% (2017 est.)",
-      "country comparison to the world": 165
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2019": {
+        "text": "1.22% (2019 est.)"
+      },
+      "Real GDP growth rate 2018": {
+        "text": "3.17% (2018 est.)"
+      },
+      "Real GDP growth rate 2017": {
+        "text": "2.53% (2017 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "5.6% (2019 est.) / 4.8% (2018 est.) / 6% (2017 est.)",
-      "country comparison to the world": 190
+      "Inflation rate (consumer prices) 2019": {
+        "text": "5.6% (2019 est.)"
+      },
+      "Inflation rate (consumer prices) 2018": {
+        "text": "4.8% (2018 est.)"
+      },
+      "Inflation rate (consumer prices) 2017": {
+        "text": "6% (2017 est.)"
+      }
     },
     "Credit ratings": {
       "Fitch rating": {
@@ -536,21 +564,43 @@
         "text": "B (2017)"
       }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$161.175 billion (2019 est.) / $159.229 billion (2018 est.) / $154.367 billion (2017 est.)",
-      "note": "note: data are in 2010 dollars"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2019": {
+        "text": "$181.286 billion (2019 est.)"
+      },
+      "Real GDP (purchasing power parity) 2018": {
+        "text": "$179.098 billion (2018 est.)"
+      },
+      "Real GDP (purchasing power parity) 2017": {
+        "text": "$173.63 billion (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
     },
     "GDP (official exchange rate)": {
       "text": "$63.168 billion (2019 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$6,695 (2019 est.) / $6,614 (2018 est.) / $6,413 (2017 est.)",
-      "note": "note: data are in 2010 dollars",
-      "country comparison to the world": 141
+    "Real GDP per capita": {
+      "Real GDP per capita 2019": {
+        "text": "$19,150 (2019 est.)"
+      },
+      "Real GDP per capita 2018": {
+        "text": "$18,885 (2018 est.)"
+      },
+      "Real GDP per capita 2017": {
+        "text": "$18,280 (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
     },
     "Gross national saving": {
-      "text": "24.5% of GDP (2017 est.) / 23% of GDP (2016 est.) / 25.8% of GDP (2015 est.)",
-      "country comparison to the world": 64
+      "Gross national saving 2017": {
+        "text": "24.5% of GDP (2017 est.)"
+      },
+      "Gross national saving 2016": {
+        "text": "23% of GDP (2016 est.)"
+      },
+      "Gross national saving 2015": {
+        "text": "25.8% of GDP (2015 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -584,21 +634,21 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "text": "74.3 (2020)"
+      "Overall Ease of Doing Business score 2020": {
+        "text": "74.3 (2020)"
+      }
     },
-    "Agriculture - products": {
-      "text": "grain, potatoes, vegetables, sugar beets, flax; beef, milk"
+    "Agricultural products": {
+      "text": "milk, potatoes, sugar beet, wheat, triticale, barley, maize, rye, rapeseed, poultry"
     },
     "Industries": {
       "text": "metal-cutting machine tools, tractors, trucks, earthmovers, motorcycles, synthetic fibers, fertilizer, textiles, refrigerators, washing machines and other household appliances"
     },
     "Industrial production growth rate": {
-      "text": "5.6% (2017 est.)",
-      "country comparison to the world": 47
+      "text": "5.6% (2017 est.)"
     },
     "Labor force": {
-      "text": "4.381 million (2016 est.)",
-      "country comparison to the world": 86
+      "text": "4.381 million (2016 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -612,12 +662,24 @@
       }
     },
     "Unemployment rate": {
-      "text": "0.8% (2017 est.) / 1% (2016 est.)",
-      "note": "note: official registered unemployed; large number of underemployed workers",
-      "country comparison to the world": 6
+      "Unemployment rate 2017": {
+        "text": "0.8% (2017 est.)"
+      },
+      "Unemployment rate 2016": {
+        "text": "1% (2016 est.)"
+      },
+      "note": "<p><strong>note:</strong> official registered unemployed; large number of underemployed workers</p>"
     },
     "Population below poverty line": {
       "text": "5.7% (2016 est.)"
+    },
+    "Gini Index coefficient - distribution of family income": {
+      "Gini Index coefficient - distribution of family income 2018": {
+        "text": "25.2 (2018 est.)"
+      },
+      "Gini Index coefficient - distribution of family income 1998": {
+        "text": "21.7 (1998)"
+      }
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
@@ -636,27 +698,37 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "40.7% (of GDP) (2017 est.)",
-      "country comparison to the world": 35
+      "text": "40.7% (of GDP) (2017 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "2.9% (of GDP) (2017 est.)",
-      "country comparison to the world": 14
+      "text": "2.9% (of GDP) (2017 est.)"
     },
     "Public debt": {
-      "text": "53.4% of GDP (2017 est.) / 53.5% of GDP (2016 est.)",
-      "country comparison to the world": 90
+      "Public debt 2017": {
+        "text": "53.4% of GDP (2017 est.)"
+      },
+      "Public debt 2016": {
+        "text": "53.5% of GDP (2016 est.)"
+      }
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Current account balance": {
-      "text": "-$931 million (2017 est.) / -$1.669 billion (2016 est.)",
-      "country comparison to the world": 143
+      "Current account balance 2017": {
+        "text": "-$931 million (2017 est.)"
+      },
+      "Current account balance 2016": {
+        "text": "-$1.669 billion (2016 est.)"
+      }
     },
     "Exports": {
-      "text": "$28.65 billion (2017 est.) / $22.98 billion (2016 est.)",
-      "country comparison to the world": 70
+      "Exports 2017": {
+        "text": "$28.65 billion (2017 est.)"
+      },
+      "Exports 2016": {
+        "text": "$22.98 billion (2016 est.)"
+      }
     },
     "Exports - partners": {
       "text": "Russia 43.9%, Ukraine 11.5%, UK 8.2% (2017)"
@@ -665,25 +737,54 @@
       "text": "machinery and equipment, mineral products, chemicals, metals, textiles, foodstuffs"
     },
     "Imports": {
-      "text": "$31.58 billion (2017 est.) / $25.61 billion (2016 est.)",
-      "country comparison to the world": 70
-    },
-    "Imports - commodities": {
-      "text": "mineral products, machinery and equipment, chemicals, foodstuffs, metals"
+      "Imports 2017": {
+        "text": "$31.58 billion (2017 est.)"
+      },
+      "Imports 2016": {
+        "text": "$25.61 billion (2016 est.)"
+      }
     },
     "Imports - partners": {
       "text": "Russia 57.2%, China 8%, Germany 5.1% (2017)"
     },
+    "Imports - commodities": {
+      "text": "mineral products, machinery and equipment, chemicals, foodstuffs, metals"
+    },
     "Reserves of foreign exchange and gold": {
-      "text": "$7.315 billion (31 December 2017 est.) / $4.927 billion (31 December 2016 est.)",
-      "country comparison to the world": 84
+      "Reserves of foreign exchange and gold 31 December 2017": {
+        "text": "$7.315 billion (31 December 2017 est.)"
+      },
+      "Reserves of foreign exchange and gold 31 December 2016": {
+        "text": "$4.927 billion (31 December 2016 est.)"
+      }
     },
     "Debt - external": {
-      "text": "$39.92 billion (31 December 2017 est.) / $37.74 billion (31 December 2016 est.)",
-      "country comparison to the world": 75
+      "Debt - external 31 December 2017": {
+        "text": "$39.92 billion (31 December 2017 est.)"
+      },
+      "Debt - external 31 December 2016": {
+        "text": "$37.74 billion (31 December 2016 est.)"
+      }
     },
     "Exchange rates": {
-      "text": "Belarusian rubles (BYB/BYR) per US dollar - / 1.9 (2017 est.) / 2 (2016 est.) / 2 (2015 est.) / 15,926 (2014 est.) / 10,224.1 (2013 est.)"
+      "currency": {
+        "text": "Belarusian rubles (BYB/BYR) per US dollar -"
+      },
+      "Exchange rates 2017": {
+        "text": "1.9 (2017 est.)"
+      },
+      "Exchange rates 2016": {
+        "text": "2 (2016 est.)"
+      },
+      "Exchange rates 2015": {
+        "text": "2 (2015 est.)"
+      },
+      "Exchange rates 2014": {
+        "text": "15,926 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "10,224.1 (2013 est.)"
+      }
     }
   },
   "Energy": {
@@ -693,96 +794,73 @@
       }
     },
     "Electricity - production": {
-      "text": "31.58 billion kWh (2016 est.)",
-      "country comparison to the world": 63
+      "text": "31.58 billion kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "31.72 billion kWh (2016 est.)",
-      "country comparison to the world": 61
+      "text": "31.72 billion kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "3.482 billion kWh (2015 est.)",
-      "country comparison to the world": 40
+      "text": "3.482 billion kWh (2015 est.)"
     },
     "Electricity - imports": {
-      "text": "6.319 billion kWh (2016 est.)",
-      "country comparison to the world": 32
+      "text": "6.319 billion kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "10.04 million kW (2016 est.)",
-      "country comparison to the world": 59
+      "text": "10.04 million kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "96% of total installed capacity (2016 est.)",
-      "country comparison to the world": 36
+      "text": "96% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 47
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "1% of total installed capacity (2017 est.)",
-      "country comparison to the world": 145
+      "text": "1% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "3% of total installed capacity (2017 est.)",
-      "country comparison to the world": 121
+      "text": "3% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "31,000 bbl/day (2018 est.)",
-      "country comparison to the world": 62
+      "text": "31,000 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "31,730 bbl/day (2015 est.)",
-      "country comparison to the world": 44
+      "text": "31,730 bbl/day (2015 est.)"
     },
     "Crude oil - imports": {
-      "text": "468,400 bbl/day (2015 est.)",
-      "country comparison to the world": 21
+      "text": "468,400 bbl/day (2015 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "198 million bbl (1 January 2018 est.)",
-      "country comparison to the world": 56
+      "text": "198 million bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "477,200 bbl/day (2015 est.)",
-      "country comparison to the world": 34
+      "text": "477,200 bbl/day (2015 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "141,000 bbl/day (2016 est.)",
-      "country comparison to the world": 68
+      "text": "141,000 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "351,200 bbl/day (2015 est.)",
-      "country comparison to the world": 25
+      "text": "351,200 bbl/day (2015 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "14,630 bbl/day (2015 est.)",
-      "country comparison to the world": 135
+      "text": "14,630 bbl/day (2015 est.)"
     },
     "Natural gas - production": {
-      "text": "59.46 million cu m (2017 est.)",
-      "country comparison to the world": 84
+      "text": "59.46 million cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "17.7 billion cu m (2017 est.)",
-      "country comparison to the world": 39
+      "text": "17.7 billion cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 67
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "17.53 billion cu m (2017 est.)",
-      "country comparison to the world": 18
+      "text": "17.53 billion cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "2.832 billion cu m (1 January 2018 est.)",
-      "country comparison to the world": 95
+      "text": "2.832 billion cu m (1 January 2018 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "56.07 million Mt (2017 est.)",
-      "country comparison to the world": 54
+      "text": "56.07 million Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -792,8 +870,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "47.49 (2019 est.)"
-      },
-      "country comparison to the world": 31
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -801,12 +878,11 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "122.93 (2019 est.)"
-      },
-      "country comparison to the world": 77
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "govt. and telecom regulator have plans to develop the telecom sector for the migration to 5G; Chinese company Huawei have started 5G trials to deliver data at 2Gb/s; fiber network reaches two million establishments; 10,000km of fiber cabling laid; August 2018 almost two million GPON connections (Gigabit Passive Optical Network, point-to-multi point access mechanism); Belarus launched its first telecoms satellite in 2016; LTE use reaches 75% of mobile subscribers (2020)"
+        "text": "govt. and telecom regulator have plans to develop the telecom sector&nbsp;for the migration&nbsp;to 5G; Chinese company Huawei have started 5G trials to deliver data at 2Gb/s; fiber network reaches two million establishments;&nbsp;10,000km of fiber cabling laid; August 2018 almost two million GPON&nbsp;connections (Gigabit Passive Optical Network, point-to-multi point access mechanism);&nbsp;Belarus launched its first telecoms satellite in 2016; LTE use reaches 75% of mobile subscribers (2020)"
       },
       "domestic": {
         "text": "fixed-line teledensity is improving although rural areas continue to be underserved, 48 per 100 fixed-line; mobile-cellular teledensity now approaches 123 telephones per 100 persons (2019)"
@@ -814,7 +890,7 @@
       "international": {
         "text": "country code - 375; Belarus is landlocked and therefore a member of the Trans-European Line (TEL), Trans-Asia-Europe (TAE) fiber-optic line, and has access to the Trans-Siberia Line (TSL); 3 fiber-optic segments provide connectivity to Latvia, Poland, Russia, and Ukraine; worldwide service is available to Belarus through this infrastructure; additional analog lines to Russia; Intelsat, Eutelsat, and Intersputnik earth stations; almost 31,000 base stations in service in 2019 (2020)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "7 state-controlled national TV channels; Polish and Russian TV broadcasts are available in some areas; state-run Belarusian Radio operates 5 national networks and an external service; Russian and Polish radio broadcasts are available (2019)"
@@ -828,8 +904,7 @@
       },
       "percent of population": {
         "text": "79.13% (July 2018 est.)"
-      },
-      "country comparison to the world": 67
+      }
     },
     "Broadband - fixed subscriptions": {
       "total": {
@@ -837,8 +912,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "34 (2018 est.)"
-      },
-      "country comparison to the world": 41
+      }
     }
   },
   "Transportation": {
@@ -860,8 +934,9 @@
       "text": "EW (2016)"
     },
     "Airports": {
-      "text": "65 (2013)",
-      "country comparison to the world": 75
+      "total": {
+        "text": "65 (2013)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -915,27 +990,23 @@
       },
       "broad gauge": {
         "text": "5,503 km 1.520-m gauge (874 km electrified) (2014)"
-      },
-      "country comparison to the world": 35
+      }
     },
     "Roadways": {
       "total": {
         "text": "86,600 km (2017)"
-      },
-      "country comparison to the world": 57
+      }
     },
     "Waterways": {
-      "text": "2,500 km (major rivers are the west-flowing Western Dvina and Neman Rivers and the south-flowing Dnepr River and its tributaries, the Berezina, Sozh, and Pripyat Rivers) (2011)",
-      "country comparison to the world": 35
+      "text": "2,500 km (major rivers are the west-flowing Western Dvina and Neman Rivers and the south-flowing Dnepr River and its tributaries, the Berezina, Sozh, and Pripyat Rivers) (2011)"
     },
     "Merchant marine": {
       "total": {
         "text": "4"
       },
       "by type": {
-        "text": "other 4 (2019)"
-      },
-      "country comparison to the world": 166
+        "text": "other 4 (2020)"
+      }
     },
     "Ports and terminals": {
       "river port(s)": {
@@ -948,8 +1019,21 @@
       "text": "Belarus Armed Forces: Army, Air and Air Defense Force, Special Operations Force; Ministry of Interior: State Border Troops, Militia, Internal Troops (2019)"
     },
     "Military expenditures": {
-      "text": "1.2% of GDP (2019) / 1.2% of GDP (2018) / 1.2% of GDP (2017) / 1.3% of GDP (2016) / 1.3% of GDP (2015)",
-      "country comparison to the world": 100
+      "Military Expenditures 2019": {
+        "text": "1.2% of GDP (2019)"
+      },
+      "Military Expenditures 2018": {
+        "text": "1.2% of GDP (2018)"
+      },
+      "Military Expenditures 2017": {
+        "text": "1.2% of GDP (2017)"
+      },
+      "Military Expenditures 2016": {
+        "text": "1.3% of GDP (2016)"
+      },
+      "Military Expenditures 2015": {
+        "text": "1.3% of GDP (2015)"
+      }
     },
     "Military and security service personnel strengths": {
       "text": "the Belarus Armed Forces have approximately 45,000 active troops (29,000 Army, including Special Operations Force; 16,000 Air and Air Defense) (2020 est.)"
@@ -966,7 +1050,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "boundary demarcated with Latvia and Lithuania; as a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus"
+      "text": "<p>boundary demarcated with Latvia and Lithuania; as a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus</p>"
     },
     "Refugees and internally displaced persons": {
       "stateless persons": {
@@ -975,7 +1059,7 @@
     },
     "Trafficking in persons": {
       "current situation": {
-        "text": "Belarus is a source, transit, and destination country for women, men, and children subjected to sex trafficking and forced labor; more victims are exploited within Belarus than abroad; Belarusians exploited abroad are primarily trafficked to Germany, Poland, Russian, and Turkey but also other European countries, the Middle East, Japan, Kazakhstan, and Mexico; Moldovans, Russians, Ukrainians, and Vietnamese are exploited in Belarus; state-sponsored forced labor is a continuing problem; students are forced to do farm labor without pay and military conscripts are forced to perform unpaid non-military work; the government has retained a decree forbidding workers in state-owned wood processing factories from leaving their jobs without their employers' permission"
+        "text": "Belarus is a source, transit, and destination country for women, men, and children subjected to sex trafficking and forced labor; more victims are exploited within Belarus than abroad; Belarusians exploited abroad are primarily trafficked to Germany, Poland, Russian, and Turkey but also other European countries, the Middle East, Japan, Kazakhstan, and Mexico; Moldovans, Russians, Ukrainians, and Vietnamese are exploited in Belarus; state-sponsored forced labor is a continuing problem; students are forced to do farm labor without pay and military conscripts are forced to perform unpaid non-military work; the government has retained a decree forbidding workers in state-owned wood processing factories from leaving their jobs without their employers’ permission"
       },
       "tier rating": {
         "text": "Tier 3 – Belarus does not fully comply with the minimum standards for the elimination of trafficking and was placed on Tier 3 after being on the Tier 2 Watch List for two consecutive years without making progress; government efforts to repeal state-sponsored forced labor policies and domestic trafficking were inadequate; no trafficking offenders were convicted in 2014, and the number of investigations progressively declined from 2005-14; efforts to protect trafficking victims remain insufficient, with no identification and referral mechanism in place; care facilities were not trafficking-specific and were poorly equipped, leading most victims to seek assistance from private shelters (2015)"

@@ -24,14 +24,15 @@
       "water": {
         "text": "0 sq km"
       },
-      "note": "note: includes Shag Rocks, Black Rock, Clerke Rocks, South Georgia Island, Bird Island, and the South Sandwich Islands, which consist of 11 islands",
-      "country comparison to the world": 176
+      "note": "<p><strong>note:</strong> includes Shag Rocks, Black Rock, Clerke Rocks, South Georgia Island, Bird Island, and the South Sandwich Islands, which consist of 11 islands</p>"
     },
     "Area - comparative": {
       "text": "slightly larger than Rhode Island"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "NA"
@@ -65,8 +66,14 @@
       "agricultural land": {
         "text": "0% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "0% (2011 est.) / 0% (2011 est.) / 0% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 0% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 0% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 0% (2011 est.)"
       },
       "forest": {
         "text": "0% (2011 est.)"
@@ -90,8 +97,42 @@
   },
   "People and Society": {
     "Population": {
-      "text": "no indigenous inhabitants",
-      "note": "note: the small military garrison on South Georgia withdrew in March 2001, replaced by a permanent group of scientists of the British Antarctic Survey, which also has a biological station on Bird Island; the South Sandwich Islands are uninhabited"
+      "text": "44,564 no indigenous inhabitants (July 2021 est.)",
+      "note": "<p><strong>note:</strong> the small military garrison on South Georgia withdrew in March 2001, replaced by a permanent group of scientists of the British Antarctic Survey, which also has a biological station on Bird Island; the South Sandwich Islands are uninhabited</p>"
+    },
+    "Population growth rate": {
+      "text": "1.28% (2021 est.)"
+    },
+    "Death rate": {
+      "text": "5.9 deaths/1,000 population (2021 est.)"
+    },
+    "Net migration rate": {
+      "text": "5.9 migrant(s)/1,000 population (2021 est.)"
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "8.16 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "9 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "7.28 deaths/1,000 live births (2021 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "79.03 years"
+      },
+      "male": {
+        "text": "76.67 years"
+      },
+      "female": {
+        "text": "81.51 years (2021 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "2 children born/woman (2021 est.)"
     }
   },
   "Government": {
@@ -119,10 +160,10 @@
       "text": "UPU"
     },
     "Diplomatic representation in the US": {
-      "note": "none (overseas territory of the UK, also claimed by Argentina)"
+      "text": "none (overseas territory of the UK, also claimed by Argentina)"
     },
     "Diplomatic representation from the US": {
-      "note": "none (overseas territory of the UK, also claimed by Argentina)"
+      "text": "none (overseas territory of the UK, also claimed by Argentina)"
     },
     "Flag description": {
       "text": "blue with the flag of the UK in the upper hoist-side quadrant and the South Georgia and South Sandwich Islands coat of arms centered on the outer half of the flag; the coat of arms features a shield with a golden lion rampant, holding a torch; the shield is supported by a fur seal on the left and a Macaroni penguin on the right; a reindeer appears above the crest, and below the shield on a scroll is the motto LEO TERRAM PROPRIAM PROTEGAT (Let the Lion Protect its Own Land); the lion with the torch represents the UK and discovery; the background of the shield, blue and white estoiles, are found in the coat of arms of James Cook, discoverer of the islands; all the outer supporting animals represented are native to the islands"
@@ -131,8 +172,6 @@
   "Economy": {
     "Economic overview": {
       "text": "Some fishing takes place in adjacent waters. Harvesting finfish and krill are potential sources of income. The islands receive income from postage stamps produced in the UK, the sale of fishing licenses, and harbor and landing fees from tourist vessels. Tourism from specialized cruise ships is increasing rapidly."
-    },
-    "Ease of Doing Business Index scores": {
     }
   },
   "Communications": {
@@ -151,7 +190,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "Argentina, which claims the islands in its constitution and briefly occupied them by force in 1982, agreed in 1995 to no longer seek settlement by force"
+      "text": "<p>Argentina, which claims the islands in its constitution and briefly occupied them by force in 1982, agreed in 1995 to no longer seek settlement by force</p>"
     }
   }
 }

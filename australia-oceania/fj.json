@@ -23,14 +23,15 @@
       },
       "water": {
         "text": "0 sq km"
-      },
-      "country comparison to the world": 156
+      }
     },
     "Area - comparative": {
       "text": "slightly smaller than New Jersey"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "1,129 km"
@@ -39,16 +40,16 @@
       "territorial sea": {
         "text": "12 nm"
       },
-      "exclusive economic zone": {
-        "text": "200 nm"
-      },
       "contiguous zone": {
         "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
       },
       "continental shelf": {
         "text": "200-m depth or to the depth of exploitation"
       },
-      "note": "measured from claimed archipelagic straight baselines"
+      "note": "<br><br>measured from claimed archipelagic straight baselines"
     },
     "Climate": {
       "text": "tropical marine; only slight seasonal temperature variation"
@@ -71,8 +72,14 @@
       "agricultural land": {
         "text": "23.3% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "9% (2011 est.) / 4.7% (2011 est.) / 9.6% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 9% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 4.7% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 9.6% (2011 est.)"
       },
       "forest": {
         "text": "55.7% (2011 est.)"
@@ -107,8 +114,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "935,974 (July 2020 est.)",
-      "country comparison to the world": 161
+      "text": "939,535 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -120,7 +126,7 @@
     },
     "Ethnic groups": {
       "text": "iTaukei 56.8% (predominantly Melanesian with a Polynesian admixture), Indo-Fijian 37.5%, Rotuman 1.2%, other 4.5% (European, part European, other Pacific Islanders, Chinese) (2007 est.)",
-      "note": "note: a 2010 law replaces 'Fijian' with 'iTaukei' when referring to the original and native settlers of Fiji"
+      "note": "<p><strong>note:</strong> a 2010 law replaces 'Fijian' with 'iTaukei' when referring to the original and native settlers of Fiji</p>"
     },
     "Languages": {
       "text": "English (official), Fijian (official), Hindustani"
@@ -168,24 +174,19 @@
       },
       "female": {
         "text": "30.1 years (2020 est.)"
-      },
-      "country comparison to the world": 125
+      }
     },
     "Population growth rate": {
-      "text": "0.5% (2020 est.)",
-      "country comparison to the world": 154
+      "text": "0.46% (2021 est.)"
     },
     "Birth rate": {
-      "text": "17.4 births/1,000 population (2020 est.)",
-      "country comparison to the world": 95
+      "text": "16.9 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "6.3 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 149
+      "text": "6.31 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "-6.2 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 206
+      "text": "-6.02 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "approximately 70% of the population lives on the island of Viti Levu; roughly half of the population lives in urban areas"
@@ -225,43 +226,51 @@
       }
     },
     "Maternal mortality rate": {
-      "text": "34 deaths/100,000 live births (2017 est.)",
-      "country comparison to the world": 107
+      "text": "34 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "8.8 deaths/1,000 live births"
+        "text": "10.27 deaths/1,000 live births"
       },
       "male": {
-        "text": "9.7 deaths/1,000 live births"
+        "text": "11.84 deaths/1,000 live births"
       },
       "female": {
-        "text": "7.9 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 142
+        "text": "8.63 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "73.7 years"
+        "text": "74 years"
       },
       "male": {
-        "text": "71 years"
+        "text": "71.32 years"
       },
       "female": {
-        "text": "76.6 years (2020 est.)"
-      },
-      "country comparison to the world": 141
+        "text": "76.82 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "2.31 children born/woman (2020 est.)",
-      "country comparison to the world": 82
+      "text": "2.28 children born/woman (2021 est.)"
     },
     "Drinking water source": {
-      "improved": {
-        "text": "urban: 97.8% of population / rural: 88.7% of population / total: 93.8% of population"
+      "improved: urban": {
+        "text": "urban: 97.8% of population"
       },
-      "unimproved": {
-        "text": "urban: 2.2% of population / rural: 11.3% of population / total: 6.2% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 88.7% of population"
+      },
+      "improved: total": {
+        "text": "total: 93.8% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 2.2% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 11.3% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 6.2% of population (2017 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -274,20 +283,30 @@
       "text": "2 beds/1,000 population (2016)"
     },
     "Sanitation facility access": {
-      "improved": {
-        "text": "urban: 94% of population / rural: 89% of population / total: 98% of population"
+      "improved: urban": {
+        "text": "urban: 94% of population"
       },
-      "unimproved": {
-        "text": "urban: 6% of population / rural: 11% of population / total: 2% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 89% of population"
+      },
+      "improved: total": {
+        "text": "total: 98% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 6% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 11% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 2% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "0.2% (2019 est.)",
-      "country comparison to the world": 96
+      "text": "0.2% (2019 est.)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
-      "text": "1,000 (2019 est.)",
-      "country comparison to the world": 145
+      "text": "1,000 (2019 est.)"
     },
     "HIV/AIDS - deaths": {
       "text": "<100 (2019 est.)"
@@ -304,12 +323,10 @@
       }
     },
     "Obesity - adult prevalence rate": {
-      "text": "30.2% (2016)",
-      "country comparison to the world": 24
+      "text": "30.2% (2016)"
     },
     "Education expenditures": {
-      "text": "3.9% of GDP (2013)",
-      "country comparison to the world": 101
+      "text": "3.9% of GDP (2013)"
     },
     "Literacy": {
       "total population": {
@@ -331,8 +348,7 @@
       },
       "female": {
         "text": "22.4% (2016 est.)"
-      },
-      "country comparison to the world": 87
+      }
     }
   },
   "Government": {
@@ -447,7 +463,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "FijiFirst [Veroqe \"Frank\" BAINIMARAMA] ++ Fiji Labor Party or FLP [Mahendra CHAUDHRY] ++ Fiji United Freedon Party or FUFP [Jagath KARUNARATNE] ++ National Federation Party or NFP [Biman PRASAD] (primarily Indian) ++ Peoples Democratic Party or PDP [Lynda TABUYA] ++ Social Democratic Liberal Party or SODELPA ++ Unity Fiji [Adi QORO]"
+      "text": "FijiFirst [Veroqe \"Frank\" BAINIMARAMA]<br />Fiji Labor Party or FLP [Mahendra CHAUDHRY]<br />Fiji United Freedon Party or FUFP [Jagath KARUNARATNE]<br />National Federation Party or NFP [Biman PRASAD] (primarily Indian)<br />Peoples Democratic Party or PDP [Lynda TABUYA]<br />Social Democratic Liberal Party or SODELPA<br />Unity Fiji [Adi QORO]"
     },
     "International organization participation": {
       "text": "ACP, ADB, AOSIS, C, CP, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, ISO, ITSO, ITU, ITUC (NGOs), MIGA, OPCW, PCA, PIF, Sparteca (suspended), SPC, UN, UNCTAD, UNDOF, UNESCO, UNIDO, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
@@ -496,20 +512,31 @@
       "lyrics/music": {
         "text": "Michael Francis Alexander PRESCOTT/C. Austin MILES (adapted by Michael Francis Alexander PRESCOTT)"
       },
-      "note": "note: adopted 1970; known in Fijian as \"Meda Dau Doka\" (Let Us Show Pride); adapted from the hymn, \"Dwelling in Beulah Land,\" the anthem's English lyrics are generally sung, although they differ in meaning from the official Fijian lyrics"
+      "note": "<p><strong>note:</strong> adopted 1970; known in Fijian as \"Meda Dau Doka\" (Let Us Show Pride); adapted from the hymn, \"Dwelling in Beulah Land,\" the anthem's English lyrics are generally sung, although they differ in meaning from the official Fijian lyrics</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "Fiji, endowed with forest, mineral, and fish resources, is one of the most developed and connected of the Pacific island economies. Earnings from the tourism industry, with an estimated 842,884 tourists visiting in 2017, and remittances from Fijian's working abroad are the country's largest foreign exchange earners. ++ Bottled water exports to the US is Fiji's largest domestic export. Fiji's sugar sector remains a significant industry and a major export, but crops and one of the sugar mills suffered damage during Cyclone Winston in 2016. Fiji's trade imbalance continues to widen with increased imports and sluggish performance of domestic exports. ++ The return to parliamentary democracy and successful elections in September 2014 improved investor confidence, but increasing bureaucratic regulation, new taxes, and lack of consultation with relevant stakeholders brought four consecutive years of decline for Fiji on the World Bank Ease of Doing Business index. Private sector investment in 2017 approached 20% of GDP, compared to 13% in 2013."
+      "text": "<p>Fiji, endowed with forest, mineral, and fish resources, is one of the most developed and connected of the Pacific island economies. Earnings from the tourism industry, with an estimated 842,884 tourists visiting in 2017, and remittances from Fijian’s working abroad are the country’s largest foreign exchange earners.</p><p></p><p>Bottled water exports to the US is Fiji’s largest domestic export. Fiji's sugar sector remains a significant industry and a major export, but crops and one of the sugar mills suffered damage during Cyclone Winston in 2016. Fiji’s trade imbalance continues to widen with increased imports and sluggish performance of domestic exports.</p><p></p><p>The return to parliamentary democracy and successful elections in September 2014 improved investor confidence, but increasing bureaucratic regulation, new taxes, and lack of consultation with relevant stakeholders brought four consecutive years of decline for Fiji on the World Bank Ease of Doing Business index. Private sector investment in 2017 approached 20% of GDP, compared to 13% in 2013.</p>"
     },
-    "GDP real growth rate": {
-      "text": "3% (2017 est.) / 0.7% (2016 est.) / 3.8% (2015 est.)",
-      "country comparison to the world": 99
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2017": {
+        "text": "3% (2017 est.)"
+      },
+      "Real GDP growth rate 2016": {
+        "text": "0.7% (2016 est.)"
+      },
+      "Real GDP growth rate 2015": {
+        "text": "3.8% (2015 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "3.4% (2017 est.) / 3.9% (2016 est.)",
-      "country comparison to the world": 152
+      "Inflation rate (consumer prices) 2017": {
+        "text": "3.4% (2017 est.)"
+      },
+      "Inflation rate (consumer prices) 2016": {
+        "text": "3.9% (2016 est.)"
+      }
     },
     "Credit ratings": {
       "Moody's rating": {
@@ -519,21 +546,43 @@
         "text": "BB- (2019)"
       }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$8.629 billion (2017 est.) / $8.376 billion (2016 est.) / $8.321 billion (2015 est.)",
-      "note": "note: data are in 2017 dollars"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2019": {
+        "text": "$12.178 billion (2019 est.)"
+      },
+      "Real GDP (purchasing power parity) 2018": {
+        "text": "$12.232 billion (2018 est.)"
+      },
+      "Real GDP (purchasing power parity) 2017": {
+        "text": "$11.783 billion (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2017 dollars</p>"
     },
     "GDP (official exchange rate)": {
       "text": "$4.891 billion (2017 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$9,800 (2017 est.) / $9,600 (2016 est.) / $9,600 (2015 est.)",
-      "note": "note: data are in 2017 dollars",
-      "country comparison to the world": 118
+    "Real GDP per capita": {
+      "Real GDP per capita 2019": {
+        "text": "$13,684 (2019 est.)"
+      },
+      "Real GDP per capita 2018": {
+        "text": "$13,846 (2018 est.)"
+      },
+      "Real GDP per capita 2017": {
+        "text": "$13,429 (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2017 dollars</p>"
     },
     "Gross national saving": {
-      "text": "12.7% of GDP (2017 est.) / 13.4% of GDP (2016 est.) / 16.1% of GDP (2015 est.)",
-      "country comparison to the world": 146
+      "Gross national saving 2017": {
+        "text": "12.7% of GDP (2017 est.)"
+      },
+      "Gross national saving 2016": {
+        "text": "13.4% of GDP (2016 est.)"
+      },
+      "Gross national saving 2015": {
+        "text": "16.1% of GDP (2015 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -567,21 +616,21 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "text": "61.5 (2020)"
+      "Overall Ease of Doing Business score 2020": {
+        "text": "61.5 (2020)"
+      }
     },
-    "Agriculture - products": {
-      "text": "sugarcane, copra, ginger, tropical fruits, vegetables; beef, pork, chicken, fish"
+    "Agricultural products": {
+      "text": "sugar cane, cassava, taro, poultry, vegetables, coconuts, eggs, milk, ginger, sweet potatoes"
     },
     "Industries": {
       "text": "tourism, sugar processing, clothing, copra, gold, silver, lumber"
     },
     "Industrial production growth rate": {
-      "text": "2.8% (2017 est.)",
-      "country comparison to the world": 108
+      "text": "2.8% (2017 est.)"
     },
     "Labor force": {
-      "text": "353,100 (2017 est.)",
-      "country comparison to the world": 161
+      "text": "353,100 (2017 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -595,11 +644,20 @@
       }
     },
     "Unemployment rate": {
-      "text": "4.5% (2017 est.) / 5.5% (2016 est.)",
-      "country comparison to the world": 67
+      "Unemployment rate 2017": {
+        "text": "4.5% (2017 est.)"
+      },
+      "Unemployment rate 2016": {
+        "text": "5.5% (2016 est.)"
+      }
     },
     "Population below poverty line": {
       "text": "31% (2009 est.)"
+    },
+    "Gini Index coefficient - distribution of family income": {
+      "Gini Index coefficient - distribution of family income 2013": {
+        "text": "36.7 (2013 est.)"
+      }
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
@@ -618,27 +676,37 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "29.7% (of GDP) (2017 est.)",
-      "country comparison to the world": 80
+      "text": "29.7% (of GDP) (2017 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-4% (of GDP) (2017 est.)",
-      "country comparison to the world": 157
+      "text": "-4% (of GDP) (2017 est.)"
     },
     "Public debt": {
-      "text": "48.9% of GDP (2017 est.) / 47.5% of GDP (2016 est.)",
-      "country comparison to the world": 106
+      "Public debt 2017": {
+        "text": "48.9% of GDP (2017 est.)"
+      },
+      "Public debt 2016": {
+        "text": "47.5% of GDP (2016 est.)"
+      }
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Current account balance": {
-      "text": "-$277 million (2017 est.) / -$131 million (2016 est.)",
-      "country comparison to the world": 104
+      "Current account balance 2017": {
+        "text": "-$277 million (2017 est.)"
+      },
+      "Current account balance 2016": {
+        "text": "-$131 million (2016 est.)"
+      }
     },
     "Exports": {
-      "text": "$908.2 million (2017 est.) / $709 million (2016 est.)",
-      "country comparison to the world": 163
+      "Exports 2017": {
+        "text": "$908.2 million (2017 est.)"
+      },
+      "Exports 2016": {
+        "text": "$709 million (2016 est.)"
+      }
     },
     "Exports - partners": {
       "text": "US 20.8%, Australia 14.9%, NZ 7.7%, Tonga 5%, Vanuatu 4.6%, China 4.5%, Spain 4.3%, UK 4.3%, Kiribati 4.1% (2017)"
@@ -647,25 +715,54 @@
       "text": "fuel, including oil, fish, beverages, gems, sugar, garments, gold, timber, fish, molasses, coconut oil, mineral water"
     },
     "Imports": {
-      "text": "$1.911 billion (2017 est.) / $1.761 billion (2016 est.)",
-      "country comparison to the world": 172
-    },
-    "Imports - commodities": {
-      "text": "manufactured goods, machinery and transport equipment, petroleum products, food and beverages, chemicals, tobacco"
+      "Imports 2017": {
+        "text": "$1.911 billion (2017 est.)"
+      },
+      "Imports 2016": {
+        "text": "$1.761 billion (2016 est.)"
+      }
     },
     "Imports - partners": {
       "text": "Australia 19.2%, NZ 17.2%, Singapore 17%, China 13.8% (2017)"
     },
+    "Imports - commodities": {
+      "text": "manufactured goods, machinery and transport equipment, petroleum products, food and beverages, chemicals, tobacco"
+    },
     "Reserves of foreign exchange and gold": {
-      "text": "$1.116 billion (31 December 2017 est.) / $908.6 million (31 December 2016 est.)",
-      "country comparison to the world": 130
+      "Reserves of foreign exchange and gold 31 December 2017": {
+        "text": "$1.116 billion (31 December 2017 est.)"
+      },
+      "Reserves of foreign exchange and gold 31 December 2016": {
+        "text": "$908.6 million (31 December 2016 est.)"
+      }
     },
     "Debt - external": {
-      "text": "$1.022 billion (31 December 2017 est.) / $696.4 million (31 December 2016 est.)",
-      "country comparison to the world": 165
+      "Debt - external 31 December 2017": {
+        "text": "$1.022 billion (31 December 2017 est.)"
+      },
+      "Debt - external 31 December 2016": {
+        "text": "$696.4 million (31 December 2016 est.)"
+      }
     },
     "Exchange rates": {
-      "text": "Fijian dollars (FJD) per US dollar - / 2.05955 (2020 est.) / 2.17345 (2019 est.) / 2.1104 (2018 est.) / 2.0976 (2014 est.) / 1.8874 (2013 est.)"
+      "currency": {
+        "text": "Fijian dollars (FJD) per US dollar -"
+      },
+      "Exchange rates 2020": {
+        "text": "2.05955 (2020 est.)"
+      },
+      "Exchange rates 2019": {
+        "text": "2.17345 (2019 est.)"
+      },
+      "Exchange rates 2018": {
+        "text": "2.1104 (2018 est.)"
+      },
+      "Exchange rates 2014": {
+        "text": "2.0976 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "1.8874 (2013 est.)"
+      }
     }
   },
   "Energy": {
@@ -681,96 +778,73 @@
       }
     },
     "Electricity - production": {
-      "text": "914 million kWh (2016 est.)",
-      "country comparison to the world": 155
+      "text": "914 million kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "850 million kWh (2016 est.)",
-      "country comparison to the world": 159
+      "text": "850 million kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 135
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - imports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 149
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "338,000 kW (2016 est.)",
-      "country comparison to the world": 154
+      "text": "338,000 kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "34% of total installed capacity (2016 est.)",
-      "country comparison to the world": 180
+      "text": "34% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 91
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "38% of total installed capacity (2017 est.)",
-      "country comparison to the world": 55
+      "text": "38% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "27% of total installed capacity (2017 est.)",
-      "country comparison to the world": 24
+      "text": "27% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "0 bbl/day (2018 est.)",
-      "country comparison to the world": 137
+      "text": "0 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 124
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - imports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 128
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2018 est.)",
-      "country comparison to the world": 132
+      "text": "0 bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 146
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "16,000 bbl/day (2016 est.)",
-      "country comparison to the world": 151
+      "text": "16,000 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 156
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "17,460 bbl/day (2015 est.)",
-      "country comparison to the world": 131
+      "text": "17,460 bbl/day (2015 est.)"
     },
     "Natural gas - production": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 133
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 147
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 105
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 126
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "0 cu m (1 January 2014 est.)",
-      "country comparison to the world": 136
+      "text": "0 cu m (1 January 2014 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "2.369 million Mt (2017 est.)",
-      "country comparison to the world": 155
+      "text": "2.369 million Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -780,8 +854,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "8.66 (2019 est.)"
-      },
-      "country comparison to the world": 143
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -789,20 +862,19 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "117.83 (2019 est.)"
-      },
-      "country comparison to the world": 161
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "local, interisland, and international telecommunications; subject to occasional devastating cyclones; Fiji is a leader in the Pacific region in terms of development of its ICT (Information & Communications Technology) sector and investment in telecoms infrastructure; mobile services the primary source of Internet access across the region; most advanced economy in the Pacific island region as well as hosting the highest mobile Internet penetration; initial progress towards 5G readiness (2020)"
+        "text": "local, interisland, and international telecommunications;&nbsp;subject to occasional devastating cyclones; Fiji is a leader in the Pacific region in terms of development of its ICT (Information &amp; Communications Technology) sector and investment in telecoms infrastructure; mobile services the primary source of Internet access across the region; most advanced economy in the Pacific island region as well as hosting the highest mobile Internet penetration; initial progress towards 5G readiness (2020)"
       },
       "domestic": {
         "text": "fixed-line 9 per 100 persons and mobile-cellular teledensity roughly 118 per 100 persons (2019)"
       },
       "international": {
-        "text": "country code - 679; landing points for the ICN1, SCCN, Southern Cross NEXT, Tonga Cable and Tui-Samoa submarine cable links to US, NZ, Australia and Pacific islands of Fiji, Vanuatu, Kiribati, Samoa, Tokelau, Tonga, Fallis & Futuna, and American Samoa; satellite earth stations - 2 Inmarsat (Pacific Ocean) (2019)"
+        "text": "country code - 679; landing points for the ICN1, SCCN, Southern Cross NEXT, Tonga Cable and Tui-Samoa&nbsp;submarine cable links&nbsp;to US,&nbsp;NZ, Australia and Pacific islands of Fiji, Vanuatu, Kiribati, Samoa, Tokelau, Tonga, Fallis &amp; Futuna, and American Samoa; satellite earth stations - 2 Inmarsat (Pacific Ocean) (2019)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "Fiji TV, a publicly traded company, operates a free-to-air channel; Digicel Fiji operates the Sky Fiji and Sky Pacific multi-channel pay-TV services; state-owned commercial company, Fiji Broadcasting Corporation, Ltd, operates 6 radio stations - 2 public broadcasters and 4 commercial broadcasters with multiple repeaters; 5 radio stations with repeaters operated by Communications Fiji, Ltd; transmissions of multiple international broadcasters are available"
@@ -816,8 +888,7 @@
       },
       "percent of population": {
         "text": "49.97% (July 2018 est.)"
-      },
-      "country comparison to the world": 154
+      }
     },
     "Broadband - fixed subscriptions": {
       "total": {
@@ -825,8 +896,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "1 (2018 est.)"
-      },
-      "country comparison to the world": 165
+      }
     }
   },
   "Transportation": {
@@ -848,8 +918,9 @@
       "text": "DQ (2016)"
     },
     "Airports": {
-      "text": "28 (2013)",
-      "country comparison to the world": 120
+      "total": {
+        "text": "28 (2013)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -883,8 +954,7 @@
       "narrow gauge": {
         "text": "597 km 0.600-m gauge (2008)"
       },
-      "note": "note: belongs to the government-owned Fiji Sugar Corporation; used to haul sugarcane during the harvest season, which runs from May to December",
-      "country comparison to the world": 109
+      "note": "<p><strong>note:</strong> belongs to the government-owned Fiji Sugar Corporation; used to haul sugarcane during the harvest season, which runs from May to December</p>"
     },
     "Roadways": {
       "total": {
@@ -895,21 +965,18 @@
       },
       "unpaved": {
         "text": "1,754 km (2011)"
-      },
-      "country comparison to the world": 159
+      }
     },
     "Waterways": {
-      "text": "203 km (122 km are navigable by motorized craft and 200-metric-ton barges) (2012)",
-      "country comparison to the world": 97
+      "text": "203 km (122 km are navigable by motorized craft and 200-metric-ton barges) (2012)"
     },
     "Merchant marine": {
       "total": {
-        "text": "64"
+        "text": "70"
       },
       "by type": {
-        "text": "general cargo 19, oil tanker 4, other 41 (2019)"
-      },
-      "country comparison to the world": 106
+        "text": "general cargo 18, oil tanker 4, other 48 (2020)"
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -922,11 +989,24 @@
       "text": "Republic of Fiji Military Forces (RFMF): Land Force Command, Maritime Command (2019)"
     },
     "Military expenditures": {
-      "text": "1.6% of GDP (2019) / 1.6% of GDP (2018) / 1.5% of GDP (2017) / 1.2% of GDP (2016) / 1% of GDP (2015)",
-      "country comparison to the world": 71
+      "Military Expenditures 2019": {
+        "text": "1.6% of GDP (2019)"
+      },
+      "Military Expenditures 2018": {
+        "text": "1.6% of GDP (2018)"
+      },
+      "Military Expenditures 2017": {
+        "text": "1.5% of GDP (2017)"
+      },
+      "Military Expenditures 2016": {
+        "text": "1.2% of GDP (2016)"
+      },
+      "Military Expenditures 2015": {
+        "text": "1% of GDP (2015)"
+      }
     },
     "Military and security service personnel strengths": {
-      "text": "the Republic of Fiji Military Forces (RFMF) have about 3,500 personnel (3,200 Land Force; 300 Maritime Command) (2019)"
+      "text": "the<strong> </strong>Republic of Fiji Military Forces (RFMF) have about 3,500 personnel (3,200 Land Force; 300 Maritime Command) (2019)"
     },
     "Military equipment inventories and acquisitions": {
       "text": "the RFMF's small inventory is a mix of equipment from Australia, New Zealand, Russia, Singapore, South Korea, the UK, and the US; since 2010, the only recorded arms deliveries were from Australia; China has donated some non-lethal material since 2018 (2019 est.)"

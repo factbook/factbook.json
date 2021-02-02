@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "The United Kingdom has historically played a leading role in developing parliamentary democracy and in advancing literature and science. At its zenith in the 19th century, the British Empire stretched over one-fourth of the earth's surface. The first half of the 20th century saw the UK's strength seriously depleted in two world wars and the Irish Republic's withdrawal from the union. The second half witnessed the dismantling of the Empire and the UK rebuilding itself into a modern and prosperous European nation. As one of five permanent members of the UN Security Council and a founding member of NATO and the Commonwealth, the UK pursues a global approach to foreign policy. The Scottish Parliament, the National Assembly for Wales, and the Northern Ireland Assembly were established in 1998. ++ The UK has been an active member of the EU since its accession in 1973, although it chose to remain outside the Economic and Monetary Union. However, motivated in part by frustration at a remote bureaucracy in Brussels and massive migration into the country, UK citizens on 23 June 2016 narrowly voted to leave the EU. The UK is scheduled to depart the EU on 31 January 2020, but negotiations on the future EU-UK economic and security relationship will continue throughout 2020 and potentially beyond."
+      "text": "<p>The United Kingdom has historically played a leading role in developing parliamentary democracy and in advancing literature and science. At its zenith in the 19th century, the British Empire stretched over one-fourth of the earth's surface. The first half of the 20th century saw the UK's strength seriously depleted in two world wars and the Irish Republic's withdrawal from the union. The second half witnessed the dismantling of the Empire and the UK rebuilding itself into a modern and prosperous European nation. As one of five permanent members of the UN Security Council and a founding member of NATO and the Commonwealth, the UK pursues a global approach to foreign policy. The Scottish Parliament, the National Assembly for Wales, and the Northern Ireland Assembly were established in 1998.</p> <p>The UK has been an active member of the EU since its accession in 1973, although it chose to remain outside the Economic and Monetary Union. However, motivated in part by frustration at a remote bureaucracy in Brussels and massive migration into the country, UK citizens on 23 June 2016 narrowly voted to leave the EU. The UK is scheduled to depart the EU on 31 January 2020, but negotiations on the future EU-UK economic and security relationship will continue throughout 2020 and potentially beyond.</p>"
     }
   },
   "Geography": {
@@ -24,8 +24,7 @@
       "water": {
         "text": "1,680 sq km"
       },
-      "note": "note 1: the percentage area breakdown of the four UK countries is: England 53%, Scotland 32%, Wales 9%, and Northern Ireland 6% ++ note 2: includes Rockall and the Shetland Islands, which are part of Scotland",
-      "country comparison to the world": 80
+      "note": "<p><strong>note 1:</strong> the percentage area breakdown of the four UK countries is: England 53%, Scotland 32%, Wales 9%, and Northern Ireland 6%<br /><br /><strong>note 2:</strong> includes Rockall and the Shetland Islands, which are part of Scotland</p>"
     },
     "Area - comparative": {
       "text": "twice the size of Pennsylvania; slightly smaller than Oregon"
@@ -76,8 +75,14 @@
       "agricultural land": {
         "text": "71% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "25.1% (2011 est.) / 0.2% (2011 est.) / 45.7% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 25.1% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 0.2% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 45.7% (2011 est.)"
       },
       "forest": {
         "text": "11.9% (2011 est.)"
@@ -112,9 +117,8 @@
   },
   "People and Society": {
     "Population": {
-      "text": "65,761,117 United Kingdom (July 2020 est.)",
-      "note": "constituent countries by percentage of total population: ++ England 84% ++ Scotland 8% ++ Wales 5% ++ Northern Ireland 3%",
-      "country comparison to the world": 22
+      "text": "66,052,076 United Kingdom (July 2021 est.)",
+      "note": "<br><br><strong>constituent countries by percentage of total population: </strong><br /> England 84%<br /> Scotland 8%<br /> Wales 5%<br /> Northern Ireland 3%"
     },
     "Nationality": {
       "noun": {
@@ -129,7 +133,7 @@
     },
     "Languages": {
       "text": "English",
-      "note": "note: the following are recognized regional languages: Scots (about 30% of the population of Scotland), Scottish Gaelic (about 60,000 speakers in Scotland), Welsh (about 20% of the population of Wales), Irish (about 10% of the population of Northern Ireland), Cornish (some 2,000 to 3,000 people in Cornwall) (2012 est.)"
+      "note": "<p><strong>note:</strong> the following are recognized regional languages: Scots (about 30% of the population of Scotland), Scottish Gaelic (about 60,000 speakers in Scotland), Welsh (about 20% of the population of Wales), Irish (about 10% of the population of Northern Ireland), Cornish (some 2,000 to 3,000 people in Cornwall) (2012 est.)</p>"
     },
     "Religions": {
       "text": "Christian (includes Anglican, Roman Catholic, Presbyterian, Methodist) 59.5%, Muslim 4.4%, Hindu 1.3%, other 2%, unspecified 7.2%, none 25.7% (2011 est.)"
@@ -174,24 +178,19 @@
       },
       "female": {
         "text": "41.7 years (2020 est.)"
-      },
-      "country comparison to the world": 50
+      }
     },
     "Population growth rate": {
-      "text": "0.49% (2020 est.)",
-      "country comparison to the world": 155
+      "text": "0.48% (2021 est.)"
     },
     "Birth rate": {
-      "text": "11.9 births/1,000 population (2020 est.)",
-      "country comparison to the world": 165
+      "text": "11.77 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "9.5 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 47
+      "text": "9.41 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "2.5 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 40
+      "text": "2.47 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "the core of the population lies in and around London, with significant clusters found in central Britain around Manchester and Liverpool, in the Scotish lowlands between Endinburgh and Glasgow, southern Wales in and around Cardiff, and far eastern Northern Ireland centered on Belfast"
@@ -232,46 +231,54 @@
     },
     "Mother's mean age at first birth": {
       "text": "28.8 years (2017 est.)",
-      "note": "note: data represent England and Wales only"
+      "note": "<p><strong>note:</strong> data represent England and Wales only</p>"
     },
     "Maternal mortality rate": {
-      "text": "7 deaths/100,000 live births (2017 est.)",
-      "country comparison to the world": 158
+      "text": "7 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "4.1 deaths/1,000 live births"
+        "text": "4.27 deaths/1,000 live births"
       },
       "male": {
-        "text": "4.5 deaths/1,000 live births"
+        "text": "4.82 deaths/1,000 live births"
       },
       "female": {
-        "text": "3.7 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 189
+        "text": "3.69 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "81.1 years"
+        "text": "81.3 years"
       },
       "male": {
-        "text": "78.8 years"
+        "text": "79.02 years"
       },
       "female": {
-        "text": "83.5 years (2020 est.)"
-      },
-      "country comparison to the world": 40
+        "text": "83.7 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "1.86 children born/woman (2020 est.)",
-      "country comparison to the world": 139
+      "text": "1.86 children born/woman (2021 est.)"
     },
     "Drinking water source": {
-      "improved": {
-        "text": "urban: 100% of population / rural: 100% of population / total: 100% of population"
+      "improved: urban": {
+        "text": "urban: 100% of population"
       },
-      "unimproved": {
-        "text": "urban: 0% of population / rural: 0% of population / total: 0% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 100% of population"
+      },
+      "improved: total": {
+        "text": "total: 100% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 0% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 0% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 0% of population (2017 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -284,11 +291,23 @@
       "text": "2.5 beds/1,000 population (2017)"
     },
     "Sanitation facility access": {
-      "improved": {
-        "text": "urban: 100% of population / rural: 100% of population / total: 100% of population"
+      "improved: urban": {
+        "text": "urban: 100% of population"
       },
-      "unimproved": {
-        "text": "urban: 0% of population / rural: 0% of population / total: 0% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 100% of population"
+      },
+      "improved: total": {
+        "text": "total: 100% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 0% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 0% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 0% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -301,16 +320,16 @@
       "text": "NA"
     },
     "Major infectious diseases": {
-      "text": "Covid-19 (see note) (2020)",
-      "note": "note: widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the UK; as of 8 December 2020, the UK has reported a total of 1,705,975 cases of COVID-19 or 25,130 cumulative cases of COVID-19 per 1 million population with 899 cumulative deaths per 1 million population; individuals arriving in the UK must self-isolate for 14 days and may be contacted to verify compliance; new arrivals will be required to provide UK officials with contact and travel information prior to arrival; the US Department of Homeland Security has issued instructions requiring US passengers who have been in the UK to travel through select airports where the US Government has implemented enhanced screening procedures"
+      "respiratory diseases": {
+        "text": "Covid-19 (see note) (2020)"
+      },
+      "note": "<br><br><strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the UK; as of 8 December 2020, the UK has reported a total of 1,705,975 cases of COVID-19 or 25,130 cumulative cases of COVID-19 per 1 million population with 899 cumulative deaths per 1 million population; individuals arriving in the UK must self-isolate for 14 days and may be contacted to verify compliance; new arrivals will be required to provide UK officials with contact and travel information prior to arrival; the US Department of Homeland Security has issued instructions requiring US passengers who have been in the UK to travel through select airports where the US Government has implemented enhanced screening procedures"
     },
     "Obesity - adult prevalence rate": {
-      "text": "27.8% (2016)",
-      "country comparison to the world": 36
+      "text": "27.8% (2016)"
     },
     "Education expenditures": {
-      "text": "5.4% of GDP (2017)",
-      "country comparison to the world": 43
+      "text": "5.4% of GDP (2017)"
     },
     "School life expectancy (primary to tertiary education)": {
       "total": {
@@ -332,8 +351,7 @@
       },
       "female": {
         "text": "10.3% (2018 est.)"
-      },
-      "country comparison to the world": 115
+      }
     }
   },
   "Government": {
@@ -367,10 +385,10 @@
       "daylight saving time": {
         "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
       },
-      "note": "note: the time statements apply to the United Kingdom proper, not to its crown dependencies or overseas territories ++ etymology: the name derives from the Roman settlement of Londinium, established on the current site of London around A.D. 43; the original meaning of the name is uncertain"
+      "note": "<p><strong>note:</strong> the time statements apply to the United Kingdom proper, not to its crown dependencies or overseas territories<br /><br /><strong>etymology:</strong> the name derives from the Roman settlement of Londinium, established on the current site of London around A.D. 43; the original meaning of the name is uncertain</p>"
     },
     "Administrative divisions": {
-      "text": "England: 26 two-tier counties, 32 London boroughs and 1 City of London or Greater London, 36 metropolitan districts, 56 unitary authorities (including 4 single-tier counties*); ++ two-tier counties: Buckinghamshire, Cambridgeshire, Cumbria, Derbyshire, Devon, Dorset, East Sussex, Essex, Gloucestershire, Hampshire, Hertfordshire, Kent, Lancashire, Leicestershire, Lincolnshire, Norfolk, Northamptonshire, North Yorkshire, Nottinghamshire, Oxfordshire, Somerset, Staffordshire, Suffolk, Surrey, Warwickshire, West Sussex, Worcestershire ++ London boroughs and City of London or Greater London: Barking and Dagenham, Barnet, Bexley, Brent, Bromley, Camden, Croydon, Ealing, Enfield, Greenwich, Hackney, Hammersmith and Fulham, Haringey, Harrow, Havering, Hillingdon, Hounslow, Islington, Kensington and Chelsea, Kingston upon Thames, Lambeth, Lewisham, City of London, Merton, Newham, Redbridge, Richmond upon Thames, Southwark, Sutton, Tower Hamlets, Waltham Forest, Wandsworth, Westminster ++ metropolitan districts: Barnsley, Birmingham, Bolton, Bradford, Bury, Calderdale, Coventry, Doncaster, Dudley, Gateshead, Kirklees, Knowlsey, Leeds, Liverpool, Manchester, Newcastle upon Tyne, North Tyneside, Oldham, Rochdale, Rotherham, Salford, Sandwell, Sefton, Sheffield, Solihull, South Tyneside, St. Helens, Stockport, Sunderland, Tameside, Trafford, Wakefield, Walsall, Wigan, Wirral, Wolverhampton ++ unitary authorities: Bath and North East Somerset; Bedford; Blackburn with Darwen; Blackpool; Bournemouth, Christchurch and Poole; Bracknell Forest; Brighton and Hove; City of Bristol; Central Bedfordshire; Cheshire East; Cheshire West and Chester; Cornwall; Darlington; Derby; Dorset; Durham County*; East Riding of Yorkshire; Halton; Hartlepool; Herefordshire*; Isle of Wight*; Isles of Scilly; City of Kingston upon Hull; Leicester; Luton; Medway; Middlesbrough; Milton Keynes; North East Lincolnshire; North Lincolnshire; North Somerset; Northumberland*; Nottingham; Peterborough; Plymouth; Portsmouth; Reading; Redcar and Cleveland; Rutland; Shropshire; Slough; South Gloucestershire; Southampton; Southend-on-Sea; Stockton-on-Tees; Stoke-on-Trent; Swindon; Telford and Wrekin; Thurrock; Torbay; Warrington; West Berkshire; Wiltshire; Windsor and Maidenhead; Wokingham; York ++ Northern Ireland: 5 borough councils, 4 district councils, 2 city councils; ++ borough councils: Antrim and Newtownabbey; Ards and North Down; Armagh City, Banbridge, and Craigavon; Causeway Coast and Glens; Mid and East Antrim ++ district councils: Derry City and Strabane; Fermanagh and Omagh; Mid Ulster; Newry, Murne, and Down ++ city councils: Belfast; Lisburn and Castlereagh ++ Scotland: 32 council areas; ++ council areas: Aberdeen City, Aberdeenshire, Angus, Argyll and Bute, Clackmannanshire, Dumfries and Galloway, Dundee City, East Ayrshire, East Dunbartonshire, East Lothian, East Renfrewshire, City of Edinburgh, Eilean Siar (Western Isles), Falkirk, Fife, Glasgow City, Highland, Inverclyde, Midlothian, Moray, North Ayrshire, North Lanarkshire, Orkney Islands, Perth and Kinross, Renfrewshire, Shetland Islands, South Ayrshire, South Lanarkshire, Stirling, The Scottish Borders, West Dunbartonshire, West Lothian ++ Wales: 22 unitary authorities; ++ unitary authorities: Blaenau Gwent, Bridgend, Caerphilly, Cardiff, Carmarthenshire, Ceredigion, Conwy, Denbighshire, Flintshire, Gwynedd, Isle of Anglesey, Merthyr Tydfil, Monmouthshire, Neath Port Talbot, Newport, Pembrokeshire, Powys, Rhondda Cynon Taff, Swansea, The Vale of Glamorgan, Torfaen, Wrexham"
+      "text": "<p><strong>England:</strong> 26 two-tier counties, 32 London boroughs and 1 City of London or Greater London, 36 metropolitan districts, 56 unitary authorities (including 4 single-tier counties*);</p> <p><strong>two-tier counties:</strong> Buckinghamshire, Cambridgeshire, Cumbria, Derbyshire, Devon, Dorset, East Sussex, Essex, Gloucestershire, Hampshire, Hertfordshire, Kent, Lancashire, Leicestershire, Lincolnshire, Norfolk, Northamptonshire, North Yorkshire, Nottinghamshire, Oxfordshire, Somerset, Staffordshire, Suffolk, Surrey, Warwickshire, West Sussex, Worcestershire</p> <p><strong>London boroughs and City of London or Greater London:</strong> Barking and Dagenham, Barnet, Bexley, Brent, Bromley, Camden, Croydon, Ealing, Enfield, Greenwich, Hackney, Hammersmith and Fulham, Haringey, Harrow, Havering, Hillingdon, Hounslow, Islington, Kensington and Chelsea, Kingston upon Thames, Lambeth, Lewisham, City of London, Merton, Newham, Redbridge, Richmond upon Thames, Southwark, Sutton, Tower Hamlets, Waltham Forest, Wandsworth, Westminster</p> <p><strong>metropolitan districts:</strong> Barnsley, Birmingham, Bolton, Bradford, Bury, Calderdale, Coventry, Doncaster, Dudley, Gateshead, Kirklees, Knowlsey, Leeds, Liverpool, Manchester, Newcastle upon Tyne, North Tyneside, Oldham, Rochdale, Rotherham, Salford, Sandwell, Sefton, Sheffield, Solihull, South Tyneside, St. Helens, Stockport, Sunderland, Tameside, Trafford, Wakefield, Walsall, Wigan, Wirral, Wolverhampton</p> <p><strong>unitary authorities:</strong> Bath and North East Somerset; Bedford; Blackburn with Darwen; Blackpool; Bournemouth, Christchurch and Poole; Bracknell Forest; Brighton and Hove; City of Bristol; Central Bedfordshire; Cheshire East; Cheshire West and Chester; Cornwall; Darlington; Derby; Dorset; Durham County*; East Riding of Yorkshire; Halton; Hartlepool; Herefordshire*; Isle of Wight*; Isles of Scilly; City of Kingston upon Hull; Leicester; Luton; Medway; Middlesbrough; Milton Keynes; North East Lincolnshire; North Lincolnshire; North Somerset; Northumberland*; Nottingham; Peterborough; Plymouth; Portsmouth; Reading; Redcar and Cleveland; Rutland; Shropshire; Slough; South Gloucestershire; Southampton; Southend-on-Sea; Stockton-on-Tees; Stoke-on-Trent; Swindon; Telford and Wrekin; Thurrock; Torbay; Warrington; West Berkshire; Wiltshire; Windsor and Maidenhead; Wokingham; York</p> <p><strong>Northern Ireland:</strong> 5 borough councils, 4 district councils, 2 city councils;</p> <p><strong>borough councils:</strong> Antrim and Newtownabbey; Ards and North Down; Armagh City, Banbridge, and Craigavon; Causeway Coast and Glens; Mid and East Antrim</p> <p><strong>district councils:</strong> Derry City&nbsp;and Strabane; Fermanagh and Omagh; Mid Ulster; Newry, Murne, and Down</p> <p><strong>city councils:</strong> Belfast; Lisburn and Castlereagh</p> <p><strong>Scotland:</strong> 32 council areas;</p> <p><strong>council areas:</strong> Aberdeen City, Aberdeenshire, Angus, Argyll and Bute, Clackmannanshire, Dumfries and Galloway, Dundee City, East Ayrshire, East Dunbartonshire, East Lothian, East Renfrewshire, City of Edinburgh, Eilean Siar (Western Isles), Falkirk, Fife, Glasgow City, Highland, Inverclyde, Midlothian, Moray, North Ayrshire, North Lanarkshire, Orkney Islands, Perth and Kinross, Renfrewshire, Shetland Islands, South Ayrshire, South Lanarkshire, Stirling, The Scottish Borders, West Dunbartonshire, West Lothian</p> <p><strong>Wales:</strong> 22 unitary authorities;</p> <p><strong>unitary authorities:</strong> Blaenau Gwent, Bridgend, Caerphilly, Cardiff, Carmarthenshire, Ceredigion, Conwy, Denbighshire, Flintshire, Gwynedd, Isle of Anglesey, Merthyr Tydfil, Monmouthshire, Neath Port Talbot, Newport, Pembrokeshire, Powys, Rhondda Cynon Taff, Swansea, The Vale of Glamorgan, Torfaen, Wrexham</p>"
     },
     "Dependent areas": {
       "text": "Anguilla; Bermuda; British Indian Ocean Territory; British Virgin Islands; Cayman Islands; Falkland Islands; Gibraltar; Montserrat; Pitcairn Islands; Saint Helena, Ascension, and Tristan da Cunha; South Georgia and the South Sandwich Islands; Turks and Caicos Islands"
@@ -425,17 +443,17 @@
       "elections/appointments": {
         "text": "the monarchy is hereditary; following legislative elections, the leader of the majority party or majority coalition usually becomes the prime minister; election last held on 12 December 2019 (next to be held by 2 May 2024)"
       },
-      "note": "note: in addition to serving as the UK head of state, the British sovereign is the constitutional monarch for 15 additional Commonwealth countries (these 16 states are each referred to as a Commonwealth realm)"
+      "note": "<p><strong>note:</strong> in addition to serving as the UK head of state, the British sovereign is the constitutional monarch for 15 additional Commonwealth countries (these 16 states are each referred to as a Commonwealth realm)</p>"
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral Parliament consists of: House of Lords (membership not fixed; as of December 2019, 796 lords were eligible to participate in the work of the House of Lords - 679 life peers, 91 hereditary peers, and 26 clergy; members are appointed by the monarch on the advice of the prime minister and non-party political members recommended by the House of Lords Appointments Commission); note - House of Lords total does not include ineligible members or members on leave of absence ++ House of Commons (650 seats; members directly elected in single-seat constituencies by simple majority popular vote to serve 5-year terms unless the House is dissolved earlier)"
+        "text": "bicameral Parliament consists of:<br />House of Lords (membership not fixed; as of December 2019, 796 lords were eligible to participate in the work of the House of Lords - 679 life peers, 91 hereditary peers, and 26 clergy; members are appointed by the monarch on the advice of the prime minister and non-party political members recommended by the House of Lords Appointments Commission); note - House of Lords total does not include ineligible members or members on leave of absence<br /> House of Commons (650 seats; members directly elected in single-seat constituencies by simple majority popular vote to serve 5-year terms unless the House is dissolved earlier)"
       },
       "elections": {
-        "text": "House of Lords - no elections; note - in 1999, as provided by the House of Lords Act, elections were held in the House of Lords to determine the 92 hereditary peers who would remain; elections held only as vacancies in the hereditary peerage arise) ++ House of Commons - last held on 12 December 2019 (next to be held by 2 May 2024)"
+        "text": "<br />House of Lords - no elections; note - in 1999, as provided by the House of Lords Act, elections were held in the House of Lords to determine the 92 hereditary peers who would remain; elections held only as vacancies in the hereditary peerage arise)<br /> House of Commons - last held on 12 December 2019 (next to be held by 2 May 2024)"
       },
       "election results": {
-        "text": "House of Lords - composition - men 579, women 217, percent of women 27.3% ++ House of Commons - percent of vote by party - Conservative 43.6%, Labor 32.1%, Lib Dems 11.6%, SNP 3.9%, Greens 2.7%, Brexit Party 2.0%, other 4.1%; seats by party - Conservative 365, Labor 202, SNP 48, Lib Dems 11, DUP 8, Sinn Fein 7, Plaid Cymru 4, other 9; composition - men 430, women 220, percent of women 34%; total Parliament percent of women 30.2%"
+        "text": "<br />House of Lords - composition - men 579, women 217, percent of women 27.3%<br />House of Commons - percent of vote by party - Conservative 43.6%, Labor 32.1%, Lib Dems 11.6%, SNP 3.9%, Greens 2.7%, Brexit Party 2.0%, other 4.1%; seats by party - Conservative 365, Labor 202, SNP 48, Lib Dems 11, DUP 8, Sinn Fein 7, Plaid Cymru 4, other 9; composition - men 430, women 220, percent of women 34%; total Parliament percent of women 30.2%"
       }
     },
     "Judicial branch": {
@@ -450,7 +468,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Alliance Party (Northern Ireland) [Naomi LONG] ++ Brexit Party [Nigel FARAGE] ++ Conservative and Unionist Party [Boris JOHNSON] ++ Democratic Unionist Party or DUP (Northern Ireland) [Arlene FOSTER] ++ Green Party of England and Wales or Greens [Sian BERRY and Jonathan BARTLEY] ++ Labor (Labour) Party [Sir Keir STARMER] ++ Liberal Democrats (Lib Dems) [Ed Davey] ++ Party of Wales (Plaid Cymru) [Adam PRICE] ++ Scottish National Party or SNP [Nicola STURGEON] ++ Sinn Fein (Northern Ireland) [Mary Lou MCDONALD] ++ Social Democratic and Labor Party or SDLP (Northern Ireland) [Colum EASTWOOD] ++ Ulster Unionist Party or UUP (Northern Ireland) [Robin SWANN] ++ UK Independence Party or UKIP [Pat MOUNTAIN, interim leader]"
+      "text": "Alliance Party (Northern Ireland) [Naomi LONG]&nbsp;<br />Brexit Party [Nigel FARAGE]<br />Conservative and Unionist Party [Boris JOHNSON]<br />Democratic Unionist Party or DUP (Northern Ireland) [Arlene FOSTER]<br />Green Party of England and Wales or Greens [Sian BERRY and Jonathan BARTLEY]<br />Labor (Labour) Party [Sir Keir STARMER]<br />Liberal Democrats (Lib Dems) [Ed Davey]<br />Party of Wales (Plaid Cymru) [Adam PRICE]<br />Scottish National Party or SNP [Nicola STURGEON]<br />Sinn Fein (Northern Ireland) [Mary Lou MCDONALD]<br />Social Democratic and Labor Party or SDLP (Northern Ireland) [Colum EASTWOOD]<br />Ulster Unionist Party or UUP (Northern Ireland) [Robin SWANN]<br />UK Independence Party or UKIP [Pat MOUNTAIN, interim leader]"
     },
     "International organization participation": {
       "text": "ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, C, CBSS (observer), CD, CDB, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), ESA, EU, FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNMISS, UNRWA, UN Security Council (permanent), UPU, WCO, WHO, WIPO, WMO, WTO, ZC"
@@ -483,7 +501,7 @@
         "text": "[44] 20-7499-9000"
       },
       "embassy": {
-        "text": "33 Nine Elms Lane, London, SW11 7US or SW8 5DB (driving/GPS postcode)"
+        "text": "<p>33 Nine Elms Lane, London, SW11 7US or SW8 5DB (driving/GPS postcode)</p>"
       },
       "mailing address": {
         "text": "PSC 801, Box 40, FPO AE 09498-4040"
@@ -508,20 +526,34 @@
       "lyrics/music": {
         "text": "unknown"
       },
-      "note": "note: in use since 1745; by tradition, the song serves as both the national and royal anthem of the UK; it is known as either \"God Save the Queen\" or \"God Save the King,\" depending on the gender of the reigning monarch; it also serves as the royal anthem of many Commonwealth nations"
+      "note": "<p><strong>note:</strong> in use since 1745; by tradition, the song serves as both the national and royal anthem of the UK; it is known as either \"God Save the Queen\" or \"God Save the King,\" depending on the gender of the reigning monarch; it also serves as the royal anthem of many Commonwealth nations</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "The UK, a leading trading power and financial center, is the third largest economy in Europe after Germany and France. Agriculture is intensive, highly mechanized, and efficient by European standards, producing about 60% of food needs with less than 2% of the labor force. The UK has large coal, natural gas, and oil resources, but its oil and natural gas reserves are declining; the UK has been a net importer of energy since 2005. Services, particularly banking, insurance, and business services, are key drivers of British GDP growth. Manufacturing, meanwhile, has declined in importance but still accounts for about 10% of economic output. ++ ++ In 2008, the global financial crisis hit the economy particularly hard, due to the importance of its financial sector. Falling home prices, high consumer debt, and the global economic slowdown compounded the UK's economic problems, pushing the economy into recession in the latter half of 2008 and prompting the then BROWN (Labour) government to implement a number of measures to stimulate the economy and stabilize the financial markets. Facing burgeoning public deficits and debt levels, in 2010 the then CAMERON-led coalition government (between Conservatives and Liberal Democrats) initiated an austerity program, which has continued under the Conservative government. However, the deficit still remains one of the highest in the G7, standing at 3.6% of GDP as of 2017, and the UK has pledged to lower its corporation tax from 20% to 17% by 2020. The UK had a debt burden of 90.4% GDP at the end of 2017. ++ ++ The UK economy has begun to slow since the referendum vote to leave the EU in June 2016. A sustained depreciation of the British pound has increased consumer and producer prices, weighing on consumer spending without spurring a meaningful increase in exports. The UK has an extensive trade relationship with other EU members through its single market membership, and economic observers have warned the exit will jeopardize its position as the central location for European financial services. The UK is slated to leave the EU at the end of January 2020."
+      "text": "<p>The UK, a leading trading power and financial center, is the third largest economy in Europe after Germany and France. Agriculture is intensive, highly mechanized, and efficient by European standards, producing about 60% of food needs with less than 2% of the labor force. The UK has large coal, natural gas, and oil resources, but its oil and natural gas reserves are declining; the UK has been a net importer of energy since 2005. Services, particularly banking, insurance, and business services, are key drivers of British GDP growth. Manufacturing, meanwhile, has declined in importance but still accounts for about 10% of economic output.</p> <p>&nbsp;</p> <p>In 2008, the global financial crisis hit the economy particularly hard, due to the importance of its financial sector. Falling home prices, high consumer debt, and the global economic slowdown compounded the UK&rsquo;s economic problems, pushing the economy into recession in the latter half of 2008 and prompting the then BROWN (Labour) government to implement a number of measures to stimulate the economy and stabilize the financial markets. Facing burgeoning public deficits and debt levels, in 2010 the then CAMERON-led coalition government (between Conservatives and Liberal Democrats) initiated an austerity program, which has continued under the Conservative government. However, the deficit still remains one of the highest in the G7, standing at 3.6% of GDP as of 2017, and the UK has pledged to lower its corporation tax from 20% to 17% by 2020. The UK had a debt burden of 90.4% GDP at the end of 2017.</p> <p>&nbsp;</p> <p>The UK economy has begun to slow since the referendum vote to leave the EU in June 2016. A sustained depreciation of the British pound has increased consumer and producer prices, weighing on consumer spending without spurring a meaningful increase in exports. The UK has an extensive trade relationship with other EU members through its single market membership, and economic observers have warned the exit will jeopardize its position as the central location for European financial services. The UK is slated to leave the EU at the end of January 2020.</p>"
     },
-    "GDP real growth rate": {
-      "text": "1.26% (2019 est.) / 1.25% (2018 est.) / 1.74% (2017 est.)",
-      "country comparison to the world": 164
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2019": {
+        "text": "1.26% (2019 est.)"
+      },
+      "Real GDP growth rate 2018": {
+        "text": "1.25% (2018 est.)"
+      },
+      "Real GDP growth rate 2017": {
+        "text": "1.74% (2017 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "1.7% (2019 est.) / 2.4% (2018 est.) / 2.6% (2017 est.)",
-      "country comparison to the world": 99
+      "Inflation rate (consumer prices) 2019": {
+        "text": "1.7% (2019 est.)"
+      },
+      "Inflation rate (consumer prices) 2018": {
+        "text": "2.4% (2018 est.)"
+      },
+      "Inflation rate (consumer prices) 2017": {
+        "text": "2.6% (2017 est.)"
+      }
     },
     "Credit ratings": {
       "Fitch rating": {
@@ -534,21 +566,43 @@
         "text": "AA (2016)"
       }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$2,683,983,000,000 (2019 est.) / $2,650,562,000,000 (2018 est.) / $2,617,772,000,000 (2017 est.)",
-      "note": "note: data are in 2010 dollars"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2019": {
+        "text": "$2,683,983,000,000 (2019 est.)"
+      },
+      "Real GDP (purchasing power parity) 2018": {
+        "text": "$2,650,562,000,000 (2018 est.)"
+      },
+      "Real GDP (purchasing power parity) 2017": {
+        "text": "$2,617,772,000,000 (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
     },
     "GDP (official exchange rate)": {
       "text": "$2,827,918,000,000 (2019 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$43,111 (2019 est.) / $42,821 (2018 est.) / $42,554 (2017 est.)",
-      "note": "note: data are in 2010 dollars",
-      "country comparison to the world": 38
+    "Real GDP per capita": {
+      "Real GDP per capita 2019": {
+        "text": "$43,111 (2019 est.)"
+      },
+      "Real GDP per capita 2018": {
+        "text": "$42,821 (2018 est.)"
+      },
+      "Real GDP per capita 2017": {
+        "text": "$42,554 (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
     },
     "Gross national saving": {
-      "text": "13.6% of GDP (2017 est.) / 12% of GDP (2016 est.) / 12.3% of GDP (2015 est.)",
-      "country comparison to the world": 142
+      "Gross national saving 2017": {
+        "text": "13.6% of GDP (2017 est.)"
+      },
+      "Gross national saving 2016": {
+        "text": "12% of GDP (2016 est.)"
+      },
+      "Gross national saving 2015": {
+        "text": "12.3% of GDP (2015 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -582,21 +636,21 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "text": "93.8 (2020)"
+      "Overall Ease of Doing Business score 2020": {
+        "text": "93.8 (2020)"
+      }
     },
-    "Agriculture - products": {
-      "text": "cereals, oilseed, potatoes, vegetables; cattle, sheep, poultry; fish; milk, eggs"
+    "Agricultural products": {
+      "text": "wheat, milk, barley, sugar beet, potatoes, rapeseed, poultry, oats, pork, beef"
     },
     "Industries": {
       "text": "machine tools, electric power equipment, automation equipment, railroad equipment, shipbuilding, aircraft, motor vehicles and parts, electronics and communications equipment, metals, chemicals, coal, petroleum, paper and paper products, food processing, textiles, clothing, other consumer goods"
     },
     "Industrial production growth rate": {
-      "text": "3.4% (2017 est.)",
-      "country comparison to the world": 93
+      "text": "3.4% (2017 est.)"
     },
     "Labor force": {
-      "text": "16.033 million (2020 est.)",
-      "country comparison to the world": 33
+      "text": "35.412 million (2020 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -610,11 +664,23 @@
       }
     },
     "Unemployment rate": {
-      "text": "3.17% (2019 est.) / 2.51% (2018 est.)",
-      "country comparison to the world": 43
+      "Unemployment rate 2019": {
+        "text": "3.17% (2019 est.)"
+      },
+      "Unemployment rate 2018": {
+        "text": "2.51% (2018 est.)"
+      }
     },
     "Population below poverty line": {
       "text": "15% (2013 est.)"
+    },
+    "Gini Index coefficient - distribution of family income": {
+      "Gini Index coefficient - distribution of family income 2016": {
+        "text": "34.8 (2016 est.)"
+      },
+      "Gini Index coefficient - distribution of family income 2010": {
+        "text": "33.4 (2010)"
+      }
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
@@ -633,28 +699,41 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "39.1% (of GDP) (2017 est.)",
-      "country comparison to the world": 49
+      "text": "39.1% (of GDP) (2017 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-1.9% (of GDP) (2017 est.)",
-      "country comparison to the world": 102
+      "text": "-1.9% (of GDP) (2017 est.)"
     },
     "Public debt": {
-      "text": "87.5% of GDP (2017 est.) / 87.9% of GDP (2016 est.)",
-      "note": "note: data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions",
-      "country comparison to the world": 29
+      "Public debt 2017": {
+        "text": "87.5% of GDP (2017 est.)"
+      },
+      "Public debt 2016": {
+        "text": "87.9% of GDP (2016 est.)"
+      },
+      "note": "<p><strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions</p>"
     },
     "Fiscal year": {
       "text": "6 April - 5 April"
     },
     "Current account balance": {
-      "text": "-$121.921 billion (2019 est.) / -$104.927 billion (2018 est.)",
-      "country comparison to the world": 205
+      "Current account balance 2019": {
+        "text": "-$121.921 billion (2019 est.)"
+      },
+      "Current account balance 2018": {
+        "text": "-$104.927 billion (2018 est.)"
+      }
     },
     "Exports": {
-      "text": "$901.882 billion (2019 est.) / $877.501 billion (2018 est.) / $851.693 billion (2017 est.)",
-      "country comparison to the world": 6
+      "Exports 2019": {
+        "text": "$901.882 billion (2019 est.)"
+      },
+      "Exports 2018": {
+        "text": "$877.501 billion (2018 est.)"
+      },
+      "Exports 2017": {
+        "text": "$851.693 billion (2017 est.)"
+      }
     },
     "Exports - partners": {
       "text": "US 13.2%, Germany 10.5%, France 7.4%, Netherlands 6.2%, Ireland 5.6%, China 4.8%, Switzerland 4.5% (2017)"
@@ -663,25 +742,57 @@
       "text": "manufactured goods, fuels, chemicals; food, beverages, tobacco"
     },
     "Imports": {
-      "text": "$987.018 billion (2019 est.) / $955.655 billion (2018 est.) / $930.354 billion (2017 est.)",
-      "country comparison to the world": 6
-    },
-    "Imports - commodities": {
-      "text": "manufactured goods, machinery, fuels; foodstuffs"
+      "Imports 2019": {
+        "text": "$987.018 billion (2019 est.)"
+      },
+      "Imports 2018": {
+        "text": "$955.655 billion (2018 est.)"
+      },
+      "Imports 2017": {
+        "text": "$930.354 billion (2017 est.)"
+      }
     },
     "Imports - partners": {
       "text": "Germany 13.7%, US 9.5%, China 9.3%, Netherlands 8%, France 5.4%, Belgium 5% (2017)"
     },
+    "Imports - commodities": {
+      "text": "manufactured goods, machinery, fuels; foodstuffs"
+    },
     "Reserves of foreign exchange and gold": {
-      "text": "$150.8 billion (31 December 2017 est.) / $129.6 billion (31 December 2015 est.)",
-      "country comparison to the world": 17
+      "Reserves of foreign exchange and gold 31 December 2017": {
+        "text": "$150.8 billion (31 December 2017 est.)"
+      },
+      "Reserves of foreign exchange and gold 31 December 2015": {
+        "text": "$129.6 billion (31 December 2015 est.)"
+      }
     },
     "Debt - external": {
-      "text": "$8.126 trillion (31 March 2016 est.) / $8.642 trillion (31 March 2015 est.)",
-      "country comparison to the world": 2
+      "Debt - external 31 March 2016": {
+        "text": "$8.126 trillion (31 March 2016 est.)"
+      },
+      "Debt - external 31 March 2015": {
+        "text": "$8.642 trillion (31 March 2015 est.)"
+      }
     },
     "Exchange rates": {
-      "text": "British pounds (GBP) per US dollar - / 0.7836 (2017 est.) / 0.738 (2016 est.) / 0.738 (2015 est.) / 0.607 (2014 est.) / 0.6391 (2013 est.)"
+      "currency": {
+        "text": "British pounds (GBP) per US dollar -"
+      },
+      "Exchange rates 2017": {
+        "text": "0.7836 (2017 est.)"
+      },
+      "Exchange rates 2016": {
+        "text": "0.738 (2016 est.)"
+      },
+      "Exchange rates 2015": {
+        "text": "0.738 (2015 est.)"
+      },
+      "Exchange rates 2014": {
+        "text": "0.607 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "0.6391 (2013 est.)"
+      }
     }
   },
   "Energy": {
@@ -691,96 +802,73 @@
       }
     },
     "Electricity - production": {
-      "text": "318.2 billion kWh (2016 est.)",
-      "country comparison to the world": 12
+      "text": "318.2 billion kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "309.2 billion kWh (2016 est.)",
-      "country comparison to the world": 11
+      "text": "309.2 billion kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "2.153 billion kWh (2016 est.)",
-      "country comparison to the world": 45
+      "text": "2.153 billion kWh (2016 est.)"
     },
     "Electricity - imports": {
-      "text": "19.7 billion kWh (2016 est.)",
-      "country comparison to the world": 12
+      "text": "19.7 billion kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "97.06 million kW (2016 est.)",
-      "country comparison to the world": 13
+      "text": "97.06 million kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "50% of total installed capacity (2016 est.)",
-      "country comparison to the world": 151
+      "text": "50% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "9% of total installed capacity (2017 est.)",
-      "country comparison to the world": 17
+      "text": "9% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "2% of total installed capacity (2017 est.)",
-      "country comparison to the world": 143
+      "text": "2% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "39% of total installed capacity (2017 est.)",
-      "country comparison to the world": 7
+      "text": "39% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "1 million bbl/day (2018 est.)",
-      "country comparison to the world": 20
+      "text": "1 million bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "710,600 bbl/day (2017 est.)",
-      "country comparison to the world": 20
+      "text": "710,600 bbl/day (2017 est.)"
     },
     "Crude oil - imports": {
-      "text": "907,100 bbl/day (2017 est.)",
-      "country comparison to the world": 11
+      "text": "907,100 bbl/day (2017 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "2.069 billion bbl (1 January 2018 est.)",
-      "country comparison to the world": 33
+      "text": "2.069 billion bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "1.29 million bbl/day (2017 est.)",
-      "country comparison to the world": 16
+      "text": "1.29 million bbl/day (2017 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "1.584 million bbl/day (2017 est.)",
-      "country comparison to the world": 15
+      "text": "1.584 million bbl/day (2017 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "613,800 bbl/day (2017 est.)",
-      "country comparison to the world": 14
+      "text": "613,800 bbl/day (2017 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "907,500 bbl/day (2017 est.)",
-      "country comparison to the world": 7
+      "text": "907,500 bbl/day (2017 est.)"
     },
     "Natural gas - production": {
-      "text": "42.11 billion cu m (2017 est.)",
-      "country comparison to the world": 19
+      "text": "42.11 billion cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "79.17 billion cu m (2017 est.)",
-      "country comparison to the world": 10
+      "text": "79.17 billion cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "11.27 billion cu m (2017 est.)",
-      "country comparison to the world": 19
+      "text": "11.27 billion cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "47 billion cu m (2017 est.)",
-      "country comparison to the world": 11
+      "text": "47 billion cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "176 billion cu m (1 January 2018 est.)",
-      "country comparison to the world": 46
+      "text": "176 billion cu m (1 January 2018 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "424 million Mt (2017 est.)",
-      "country comparison to the world": 16
+      "text": "424 million Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -790,8 +878,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "47.62 (2019 est.)"
-      },
-      "country comparison to the world": 8
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -799,20 +886,19 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "117.55 (2019 est.)"
-      },
-      "country comparison to the world": 21
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "technologically advanced domestic and international system; one of the largest mobile and telecom markets in Europe for revenue and subscribers; will complete the switch to fiber by 2033; mobile penetration above the EU average; govt. to invest in fiber infrastructure and 5G technologies; operators expanded the reach of 5G services; FttP provided to over a million customers; super-fast broadband available to about 95% of customers (2020)"
+        "text": "technologically advanced domestic and international system; one of the largest mobile and telecom markets in Europe for revenue and subscribers; will complete the switch to fiber by 2033; mobile penetration above the EU average; govt. to invest in fiber infrastructure and 5G technologies; operators expanded the reach of 5G services;&nbsp;FttP provided to over a million customers; super-fast broadband available to about 95% of customers (2020)"
       },
       "domestic": {
         "text": "equal mix of buried cables, microwave radio relay, and fiber-optic systems; fixed-line 48 per 100 and mobile-cellular 118 per 100 (2019)"
       },
       "international": {
-        "text": "country code - 44; Landing points for the GTT Atlantic, Scotland-Northern Ireland -1, & -2, Lanis 1,-2, &-3, Sirius North, BT-MT-1, SHEFA-2, BT Highlands and Islands Submarine Cable System, Northern Lights, FARICE-1, Celtic Norse, Tampnet Offshore FOC Network, England Cable, CC-2, E-LLan, Sirius South, ESAT -1 & -2, Rockabill, Geo-Eirgrid, UK-Netherlands-14, Circle North & South, Ulysses2, Conceto, Farland North, Pan European Crossing, Solas, Swansea-Bream, GTT Express, Tata TGN-Atlantic & -Western Europe, Apollo, EIG, Glo-1, TAT-14, Yellow, Celtic, FLAG Atlantic-1, FEA, Isle of Scilly Cable, UK-Channel Islands-8 and SeaMeWe-3 submarine cables providing links throughout Europe, Asia, Africa, the Middle East, Southeast Asia, Australia, and US; satellite earth stations - 10 Intelsat (7 Atlantic Ocean and 3 Indian Ocean), 1 Inmarsat (Atlantic Ocean region), and 1 Eutelsat; at least 8 large international switching centers (2018)"
+        "text": "country code - 44;&nbsp;Landing points for the GTT Atlantic, Scotland-Northern Ireland -1, &amp; -2, Lanis 1,-2, &amp;-3, Sirius North, BT-MT-1, SHEFA-2, BT Highlands and Islands Submarine Cable System, Northern Lights, FARICE-1, Celtic Norse, Tampnet Offshore FOC Network, England Cable, CC-2, E-LLan, Sirius South, ESAT -1 &amp; -2, Rockabill, Geo-Eirgrid, UK-Netherlands-14, Circle North &amp; South, Ulysses2, Conceto, Farland North, Pan European Crossing,&nbsp;Solas, Swansea-Bream, GTT Express, Tata TGN-Atlantic &amp; -Western Europe, Apollo, EIG, Glo-1, TAT-14, Yellow, Celtic,&nbsp;FLAG Atlantic-1, FEA, Isle of Scilly Cable, UK-Channel Islands-8 and SeaMeWe-3&nbsp;submarine cables providing links throughout Europe, Asia, Africa, the Middle East, Southeast Asia, Australia,&nbsp;and US; satellite earth stations - 10 Intelsat (7 Atlantic Ocean and 3 Indian Ocean), 1 Inmarsat (Atlantic Ocean region), and 1 Eutelsat; at least 8 large international switching centers (2018)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "public service broadcaster, British Broadcasting Corporation (BBC), is the largest broadcasting corporation in the world; BBC operates multiple TV networks with regional and local TV service; a mixed system of public and commercial TV broadcasters along with satellite and cable systems provide access to hundreds of TV stations throughout the world; BBC operates multiple national, regional, and local radio networks with multiple transmission sites; a large number of commercial radio stations, as well as satellite radio services are available (2018)"
@@ -826,8 +912,7 @@
       },
       "percent of population": {
         "text": "94.9% (July 2018 est.)"
-      },
-      "country comparison to the world": 13
+      }
     },
     "Broadband - fixed subscriptions": {
       "total": {
@@ -835,11 +920,10 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "41 (2018 est.)"
-      },
-      "country comparison to the world": 8
+      }
     },
     "Communications - note": {
-      "note": "note 1: the British Library claims to be the largest library in the world with well over 150 million items and in most known languages; it receives copies of all books produced in the UK or Ireland, as well as a significant proportion of overseas titles distributed in the UK; in addition to books (print and digital), holdings include: journals, manuscripts, newspapers, magazines, sound and music recordings, videos, maps, prints, patents, and drawings ++ note 2: on 1 May 1840, the United Kingdom led the world with the introduction of postage stamps; the Austrian Empire had examined the idea of an \"adhesive tax postmark\" for the prepayment of postage in 1835; while the suggestion was reviewed in detail, it was rejected for the time being; other countries (including Austria) soon followed the UK's example with their own postage stamps; by the 1860s, most countries were issuing stamps; originally, stamps had to be cut from sheets; the UK issued the first postage stamps with perforations in 1854"
+      "text": "<strong>note 1:</strong> the British Library claims to be the largest library in the world with well over 150 million items and in most known languages; it receives copies of all books produced in the UK or Ireland, as well as a significant proportion of overseas titles distributed in the UK; in addition to books (print and digital), holdings include: journals, manuscripts, newspapers, magazines, sound and music recordings, videos, maps, prints, patents, and drawings<br /><br /><strong>note 2:</strong> on 1 May 1840, the United Kingdom led the world with the introduction of postage stamps; the Austrian Empire had examined the idea of an \"adhesive tax postmark\" for the prepayment of postage in 1835; while the suggestion was reviewed in detail, it was rejected for the time being; other countries (including Austria) soon followed the UK's example with their own postage stamps; by the 1860s, most countries were issuing stamps; originally, stamps had to be cut from sheets; the UK issued the first postage stamps with perforations in 1854"
     }
   },
   "Transportation": {
@@ -861,8 +945,9 @@
       "text": "G (2016)"
     },
     "Airports": {
-      "text": "460 (2013)",
-      "country comparison to the world": 16
+      "total": {
+        "text": "460 (2013)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -913,8 +998,7 @@
       },
       "broad gauge": {
         "text": "303 km 1.600-m gauge (in Northern Ireland) (2015)"
-      },
-      "country comparison to the world": 17
+      }
     },
     "Roadways": {
       "total": {
@@ -922,21 +1006,18 @@
       },
       "paved": {
         "text": "394,428 km (includes 3,519 km of expressways) (2009)"
-      },
-      "country comparison to the world": 19
+      }
     },
     "Waterways": {
-      "text": "3,200 km (620 km used for commerce) (2009)",
-      "country comparison to the world": 31
+      "text": "3,200 km (620 km used for commerce) (2009)"
     },
     "Merchant marine": {
       "total": {
-        "text": "1,426"
+        "text": "1,304"
       },
       "by type": {
-        "text": "bulk carrier 143, container ship 108, general cargo 125, oil tanker 137, other 913 (2019)"
-      },
-      "country comparison to the world": 19
+        "text": "bulk carrier 147, container ship 59, general cargo 116, oil tanker 99, other 883 (2020)"
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -953,7 +1034,7 @@
       }
     },
     "Transportation - note": {
-      "text": "begun in 1988 and completed in 1994, the Channel Tunnel (nicknamed the Chunnel) is a 50.5-km (31.4-mi) rail tunnel beneath the English Channel at the Strait of Dover that runs from Folkestone, Kent, England to Coquelles, Pas-de-Calais in northern France; it is the only fixed link between the island of Great Britain and mainland Europe"
+      "text": "begun in 1988 and completed in 1994, the Channel Tunnel (nicknamed the Chunnel) is a 50.5-km (31.4-mi) rail tunnel&nbsp;beneath the English Channel at the Strait of Dover that runs from Folkestone, Kent, England to Coquelles, Pas-de-Calais in northern France; it is the only fixed link between the island of Great Britain and mainland Europe"
     }
   },
   "Military and Security": {
@@ -961,8 +1042,21 @@
       "text": "British Army, Royal Navy (includes Royal Marines), Royal Air Force (2019)"
     },
     "Military expenditures": {
-      "text": "2.14% of GDP (est) (2019 est.) / 2.13% of GDP (2018) / 2.11% of GDP (2017) / 2.11% of GDP (2016) / 2.05% of GDP (2015)",
-      "country comparison to the world": 45
+      "Military Expenditures 2019": {
+        "text": "2.14% of GDP (est) (2019 est.)"
+      },
+      "Military Expenditures 2018": {
+        "text": "2.13% of GDP (2018)"
+      },
+      "Military Expenditures 2017": {
+        "text": "2.11% of GDP (2017)"
+      },
+      "Military Expenditures 2016": {
+        "text": "2.11% of GDP (2016)"
+      },
+      "Military Expenditures 2015": {
+        "text": "2.05% of GDP (2015)"
+      }
     },
     "Military and security service personnel strengths": {
       "text": "the British military has approximately 149,000 total active duty troops (83,000 Army; 33,000 Navy, including 7,000 marines; 33,000 Air Force) (2020)"
@@ -980,12 +1074,12 @@
   "Terrorism": {
     "Terrorist group(s)": {
       "text": "Continuity Irish Republican Army; Islamic State of Iraq and ash-Sham; New Irish Republican Army (2020)",
-      "note": "note: details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T"
+      "note": "<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in <a title=\"Appendix-T\" href=\"../appendix/appendix-t.html\">Appendix-T</a>"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any \"shared sovereignty\" arrangement between the UK and Spain; the Government of Gibraltar insisted on equal participation in talks between the two countries; Spain disapproved of UK plans to grant Gibraltar greater autonomy; Mauritius and Seychelles claim the Chagos Archipelago (British Indian Ocean Territory); in 2001, the former inhabitants of the archipelago, evicted 1967 - 1973, were granted UK citizenship and the right of return, followed by Orders in Council in 2004 that banned rehabitation, a High Court ruling reversed the ban, a Court of Appeal refusal to hear the case, and a Law Lords' decision in 2008 denied the right of return; in addition, the UK created the world's largest marine protection area around the Chagos islands prohibiting the extraction of any natural resources therein; UK rejects sovereignty talks requested by Argentina, which still claims the Falkland Islands (Islas Malvinas) and South Georgia and the South Sandwich Islands; territorial claim in Antarctica (British Antarctic Territory) overlaps Argentine claim and partially overlaps Chilean claim; Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm"
+      "text": "<p>in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any \"shared sovereignty\" arrangement between the UK and Spain; the Government of Gibraltar insisted on equal participation in talks between the two countries; Spain disapproved of UK plans to grant Gibraltar greater autonomy; Mauritius and Seychelles claim the Chagos Archipelago (British Indian Ocean Territory); in 2001, the former inhabitants of the archipelago, evicted 1967 - 1973, were granted UK citizenship and the right of return, followed by Orders in Council in 2004 that banned rehabitation, a High Court ruling reversed the ban, a Court of Appeal refusal to hear the case, and a Law Lords' decision in 2008 denied the right of return; in addition, the UK created the world's largest marine protection area around the Chagos islands prohibiting the extraction of any natural resources therein; UK rejects sovereignty talks requested by Argentina, which still claims the Falkland Islands (Islas Malvinas) and South Georgia and the South Sandwich Islands; territorial claim in Antarctica (British Antarctic Territory) overlaps Argentine claim and partially overlaps Chilean claim; Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm</p>"
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {

@@ -23,14 +23,15 @@
       },
       "water": {
         "text": "0 sq km"
-      },
-      "country comparison to the world": 210
+      }
     },
     "Area - comparative": {
       "text": "1.5 times the size of Washington, DC"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "160 km"
@@ -64,8 +65,14 @@
       "agricultural land": {
         "text": "11.2% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "0.8% (2011 est.) / 2.1% (2011 est.) / 8.3% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 0.8% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 2.1% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 8.3% (2011 est.)"
       },
       "forest": {
         "text": "52.9% (2011 est.)"
@@ -92,9 +99,8 @@
   },
   "People and Society": {
     "Population": {
-      "text": "61,944 (July 2020 est.)",
-      "note": "note: most of the population lives on Grand Cayman",
-      "country comparison to the world": 204
+      "text": "63,131 (July 2021 est.)",
+      "note": "<p><strong>note:</strong> most of the population lives on Grand Cayman</p>"
     },
     "Nationality": {
       "noun": {
@@ -139,25 +145,20 @@
       },
       "female": {
         "text": "41.2 years (2020 est.)"
-      },
-      "country comparison to the world": 51
+      }
     },
     "Population growth rate": {
-      "text": "1.9% (2020 est.)",
-      "country comparison to the world": 50
+      "text": "1.87% (2021 est.)"
     },
     "Birth rate": {
-      "text": "11.9 births/1,000 population (2020 est.)",
-      "country comparison to the world": 163
+      "text": "11.77 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "6.1 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 158
+      "text": "5.89 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "13 migrant(s)/1,000 population (2020 est.)",
-      "note": "note: major destination for Cubans trying to migrate to the US",
-      "country comparison to the world": 4
+      "text": "12.8 migrant(s)/1,000 population (2021 est.)",
+      "note": "<p><strong>note:</strong> major destination for Cubans trying to migrate to the US</p>"
     },
     "Population distribution": {
       "text": "majority of the population resides on Grand Cayman"
@@ -198,46 +199,55 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "5.5 deaths/1,000 live births"
+        "text": "7.84 deaths/1,000 live births"
       },
       "male": {
-        "text": "6.3 deaths/1,000 live births"
+        "text": "9.49 deaths/1,000 live births"
       },
       "female": {
-        "text": "4.8 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 171
+        "text": "6.16 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "81.6 years"
+        "text": "81.84 years"
       },
       "male": {
-        "text": "78.9 years"
+        "text": "79.12 years"
       },
       "female": {
-        "text": "84.4 years (2020 est.)"
-      },
-      "country comparison to the world": 29
+        "text": "84.59 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "1.83 children born/woman (2020 est.)",
-      "country comparison to the world": 143
+      "text": "1.83 children born/woman (2021 est.)"
     },
     "Drinking water source": {
-      "improved": {
-        "text": "urban: 97.4% of population / total: 97.4% of population"
+      "improved: urban": {
+        "text": "urban: 97.4% of population"
       },
-      "unimproved": {
-        "text": "urban: 2.6% of population / total: 2.6% of population (2015 est.)"
+      "improved: total": {
+        "text": "total: 97.4% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 2.6% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 2.6% of population (2015 est.)"
       }
     },
     "Sanitation facility access": {
-      "improved": {
-        "text": "urban: 95.6% of population / total: 95.6% of population"
+      "improved: urban": {
+        "text": "urban: 95.6% of population"
       },
-      "unimproved": {
-        "text": "urban: 4.4% of population / total: 4.4% of population (2015 est.)"
+      "improved: total": {
+        "text": "total: 95.6% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 4.4% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 4.4% of population (2015 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -275,8 +285,7 @@
       },
       "female": {
         "text": "11.4% (2015 est.)"
-      },
-      "country comparison to the world": 98
+      }
     }
   },
   "Government": {
@@ -307,7 +316,7 @@
       "time difference": {
         "text": "UTC-5 (same time as Washington, DC, during Standard Time)"
       },
-      "note": "etymology: named after English King George III (1738-1820)"
+      "note": "<br><br><strong>etymology:</strong> named after English King George III (1738-1820)"
     },
     "Administrative divisions": {
       "text": "6 districts; Bodden Town, Cayman Brac and Little Cayman, East End, George Town, North Side, West Bay"
@@ -330,14 +339,14 @@
       "text": "English common law and local statutes"
     },
     "Citizenship": {
-      "note": "see United Kingdom"
+      "text": "see United Kingdom"
     },
     "Suffrage": {
       "text": "18 years of age; universal"
     },
     "Executive branch": {
       "chief of state": {
-        "text": "Queen ELIZABETH II (since 6 February 1952); represented by Governor Martyn ROPER (since 29 October 2018)"
+        "text": "Queen ELIZABETH II (since 6 February 1952); represented by Governor Martyn&nbsp;ROPER (since 29 October 2018)"
       },
       "head of government": {
         "text": "Premier Alden MCLAUGHLIN (since 29 May 2013)"
@@ -372,16 +381,18 @@
       }
     },
     "Political parties and leaders": {
-      "text": "People's Progressive Movement or PPM [Alden MCLAUGHLIN] ++ Cayman Democratic Party or CDP [McKeeva BUSH]"
+      "text": "People's Progressive Movement or PPM [Alden MCLAUGHLIN]<br />Cayman Democratic Party or CDP [McKeeva BUSH]"
     },
     "International organization participation": {
       "text": "Caricom (associate), CDB, Interpol (subbureau), IOC, UNESCO (associate), UPU"
     },
     "Diplomatic representation in the US": {
-      "note": "none (overseas territory of the UK)"
+      "text": "none (overseas territory of the UK)"
     },
     "Diplomatic representation from the US": {
-      "text": "none (overseas territory of the UK); consular services provided through the US Embassy in Jamaica"
+      "embassy": {
+        "text": "none (overseas territory of the UK); consular services provided through the US Embassy in Jamaica"
+      }
     },
     "Flag description": {
       "text": "a blue field with the flag of the UK in the upper hoist-side quadrant and the Caymanian coat of arms centered on the outer half of the flag; the coat of arms includes a crest with a pineapple, representing the connection with Jamaica, and a turtle, representing Cayman's seafaring tradition, above a shield bearing a golden lion, symbolizing Great Britain, below which are three green stars (representing the three islands) surmounting white and blue wavy lines representing the sea; a scroll below the shield bears the motto HE HATH FOUNDED IT UPON THE SEAS"
@@ -396,35 +407,61 @@
       "lyrics/music": {
         "text": "Leila E. ROSS"
       },
-      "note": "note: adopted 1993; served as an unofficial anthem since 1930; as a territory of the United Kingdom, in addition to the local anthem, \"God Save the Queen\" is official (see United Kingdom)"
+      "note": "<p><strong>note:</strong> adopted 1993; served as an unofficial anthem since 1930; as a territory of the United Kingdom, in addition to the local anthem, \"God Save the Queen\" is official (see United Kingdom)</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "With no direct taxation, the islands are a thriving offshore financial center. More than 65,000 companies were registered in the Cayman Islands as of 2017, including more than 280 banks, 700 insurers, and 10,500 mutual funds. A stock exchange was opened in 1997. Nearly 90% of the islands' food and consumer goods must be imported. The Caymanians enjoy a standard of living comparable to that of Switzerland. ++ Tourism is also a mainstay, accounting for about 70% of GDP and 75% of foreign currency earnings. The tourist industry is aimed at the luxury market and caters mainly to visitors from North America. Total tourist arrivals exceeded 2.1 million in 2016, with more than three-quarters from the US."
+      "text": "<p>With no direct taxation, the islands are a thriving offshore financial center. More than 65,000 companies were registered in the Cayman Islands as of 2017, including more than 280 banks, 700 insurers, and 10,500 mutual funds. A stock exchange was opened in 1997. Nearly 90% of the islands' food and consumer goods must be imported. The Caymanians enjoy a standard of living comparable to that of Switzerland.</p><p></p><p>Tourism is also a mainstay, accounting for about 70% of GDP and 75% of foreign currency earnings. The tourist industry is aimed at the luxury market and caters mainly to visitors from North America. Total tourist arrivals exceeded 2.1 million in 2016, with more than three-quarters from the US.</p>"
     },
-    "GDP real growth rate": {
-      "text": "1.7% (2014 est.) / 1.2% (2013 est.) / 1.6% (2012 est.)",
-      "country comparison to the world": 148
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2014": {
+        "text": "1.7% (2014 est.)"
+      },
+      "Real GDP growth rate 2013": {
+        "text": "1.2% (2013 est.)"
+      },
+      "Real GDP growth rate 2012": {
+        "text": "1.6% (2012 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "2% (2017 est.) / -0.6% (2016 est.)",
-      "country comparison to the world": 110
+      "Inflation rate (consumer prices) 2017": {
+        "text": "2% (2017 est.)"
+      },
+      "Inflation rate (consumer prices) 2016": {
+        "text": "-0.6% (2016 est.)"
+      }
     },
     "Credit ratings": {
       "Moody's rating": {
         "text": "Aa3 (1997)"
       }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$2.507 billion (2014 est.) / $2.465 billion (2013 est.) / $2.435 billion (2012 est.)"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2018": {
+        "text": "$4.591 billion (2018 est.)"
+      },
+      "Real GDP (purchasing power parity) 2017": {
+        "text": "$4.409 billion (2017 est.)"
+      },
+      "Real GDP (purchasing power parity) 2014": {
+        "text": "$2.507 billion (2014 est.)"
+      }
     },
     "GDP (official exchange rate)": {
       "text": "$2.25 billion (2008 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$43,800 (2004 est.)",
-      "country comparison to the world": 37
+    "Real GDP per capita": {
+      "Real GDP per capita 2018": {
+        "text": "$71,549 (2018 est.)"
+      },
+      "Real GDP per capita 2017": {
+        "text": "$69,573 (2017 est.)"
+      },
+      "Real GDP per capita 2004": {
+        "text": "$43,800 (2004 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -457,22 +494,18 @@
         "text": "-64.2% (2017 est.)"
       }
     },
-    "Ease of Doing Business Index scores": {
-    },
-    "Agriculture - products": {
+    "Agricultural products": {
       "text": "vegetables, fruit; livestock; turtle farming"
     },
     "Industries": {
       "text": "tourism, banking, insurance and finance, construction, construction materials, furniture"
     },
     "Industrial production growth rate": {
-      "text": "2.2% (2017 est.)",
-      "country comparison to the world": 124
+      "text": "2.2% (2017 est.)"
     },
     "Labor force": {
       "text": "39,000 (2007 est.)",
-      "note": "note: nearly 55% are non-nationals",
-      "country comparison to the world": 196
+      "note": "<p><strong>note:</strong> nearly 55% are non-nationals</p>"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -486,8 +519,12 @@
       }
     },
     "Unemployment rate": {
-      "text": "4% (2008) / 4.4% (2004)",
-      "country comparison to the world": 61
+      "Unemployment rate 2008": {
+        "text": "4% (2008)"
+      },
+      "Unemployment rate 2004": {
+        "text": "4.4% (2004)"
+      }
     },
     "Population below poverty line": {
       "text": "NA"
@@ -509,36 +546,63 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "38.9% (of GDP) (2017 est.)",
-      "country comparison to the world": 51
+      "text": "38.9% (of GDP) (2017 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "4.8% (of GDP) (2017 est.)",
-      "country comparison to the world": 7
+      "text": "4.8% (of GDP) (2017 est.)"
     },
     "Fiscal year": {
       "text": "1 April - 31 March"
     },
     "Current account balance": {
-      "text": "-$492.6 million (2017 est.) / -$493.5 million (2016 est.)",
-      "country comparison to the world": 121
+      "Current account balance 2017": {
+        "text": "-$492.6 million (2017 est.)"
+      },
+      "Current account balance 2016": {
+        "text": "-$493.5 million (2016 est.)"
+      }
     },
     "Exports": {
-      "text": "$421.9 million (2017 est.) / $47.6 million (2016 est.)",
-      "country comparison to the world": 181
+      "Exports 2017": {
+        "text": "$421.9 million (2017 est.)"
+      },
+      "Exports 2016": {
+        "text": "$47.6 million (2016 est.)"
+      }
     },
     "Exports - commodities": {
       "text": "turtle products, manufactured consumer goods"
     },
     "Imports": {
-      "text": "$787.3 million (2017 est.) / $810.1 million (2016 est.)",
-      "country comparison to the world": 191
+      "Imports 2017": {
+        "text": "$787.3 million (2017 est.)"
+      },
+      "Imports 2016": {
+        "text": "$810.1 million (2016 est.)"
+      }
     },
     "Imports - commodities": {
       "text": "foodstuffs, manufactured goods, fuels"
     },
     "Exchange rates": {
-      "text": "Caymanian dollars (KYD) per US dollar - / 0.82 (2017 est.) / 0.82 (2016 est.) / 0.82 (2015 est.) / 0.82 (2014 est.) / 0.83 (2013 est.)"
+      "currency": {
+        "text": "Caymanian dollars (KYD) per US dollar -"
+      },
+      "Exchange rates 2017": {
+        "text": "0.82 (2017 est.)"
+      },
+      "Exchange rates 2016": {
+        "text": "0.82 (2016 est.)"
+      },
+      "Exchange rates 2015": {
+        "text": "0.82 (2015 est.)"
+      },
+      "Exchange rates 2014": {
+        "text": "0.82 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "0.83 (2013 est.)"
+      }
     }
   },
   "Energy": {
@@ -548,96 +612,73 @@
       }
     },
     "Electricity - production": {
-      "text": "650 million kWh (2016 est.)",
-      "country comparison to the world": 160
+      "text": "650 million kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "612 million kWh (2016 est.)",
-      "country comparison to the world": 165
+      "text": "612 million kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 118
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - imports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 132
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "132,000 kW (2016 est.)",
-      "country comparison to the world": 174
+      "text": "132,000 kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "100% of total installed capacity (2016 est.)",
-      "country comparison to the world": 6
+      "text": "100% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 63
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 163
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 180
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "0 bbl/day (2018 est.)",
-      "country comparison to the world": 120
+      "text": "0 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 104
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - imports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 107
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2018 est.)",
-      "country comparison to the world": 116
+      "text": "0 bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "0 bbl/day (2017 est.)",
-      "country comparison to the world": 128
+      "text": "0 bbl/day (2017 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "4,400 bbl/day (2016 est.)",
-      "country comparison to the world": 181
+      "text": "4,400 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 141
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "4,285 bbl/day (2015 est.)",
-      "country comparison to the world": 175
+      "text": "4,285 bbl/day (2015 est.)"
     },
     "Natural gas - production": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 114
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 130
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 80
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 104
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "0 cu m (1 January 2014 est.)",
-      "country comparison to the world": 120
+      "text": "0 cu m (1 January 2014 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "643,800 Mt (2017 est.)",
-      "country comparison to the world": 178
+      "text": "643,800 Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -647,8 +688,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "54.85 (2019 est.)"
-      },
-      "country comparison to the world": 168
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -656,12 +696,11 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "152.5 (2019 est.)"
-      },
-      "country comparison to the world": 195
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "reasonably good overall telephone system with a high fixed-line teledensity; given the high dependence of tourism and activities such as fisheries and offshore financial services, the telecom sector provides a relatively high contribution to overall GDP; good competition in all sectors promotes advancement in mobile telephony and data segments (2018)"
+        "text": "reasonably good overall telephone system with a high fixed-line teledensity;&nbsp;given&nbsp;the high dependence of tourism and activities such as fisheries and offshore financial services, the telecom sector provides a relatively high contribution to overall GDP;&nbsp;good competition in all sectors promotes&nbsp;advancement in mobile telephony and data segments (2018)"
       },
       "domestic": {
         "text": "introduction of competition in the mobile-cellular market in 2004 boosted subscriptions dramatically; 55 per 100 fixed-line, 153 per 100 mobile-cellular (2019)"
@@ -669,7 +708,7 @@
       "international": {
         "text": "country code - 1-345; landing points for the Maya-1, Deep Blue Cable, and the Cayman-Jamaica Fiber System submarine cables that provide links to the US and parts of Central and South America; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "4 TV stations; cable and satellite subscription services offer a variety of international programming; government-owned Radio Cayman operates 2 networks broadcasting on 5 stations; 10 privately owned radio stations operate alongside Radio Cayman"
@@ -683,8 +722,7 @@
       },
       "percent of population": {
         "text": "81.07% (July 2018 est.)"
-      },
-      "country comparison to the world": 198
+      }
     },
     "Broadband - fixed subscriptions": {
       "total": {
@@ -692,8 +730,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "42 (2017 est.)"
-      },
-      "country comparison to the world": 150
+      }
     }
   },
   "Transportation": {
@@ -709,8 +746,9 @@
       "text": "VP-C (2016)"
     },
     "Airports": {
-      "text": "3 (2020)",
-      "country comparison to the world": 193
+      "total": {
+        "text": "3 (2020)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -737,17 +775,15 @@
       },
       "paved": {
         "text": "785 km (2007)"
-      },
-      "country comparison to the world": 188
+      }
     },
     "Merchant marine": {
       "total": {
-        "text": "170"
+        "text": "163"
       },
       "by type": {
-        "text": "bulk carrier 32general cargo 4, oil tanker 22, other 112 (2019)"
-      },
-      "country comparison to the world": 70
+        "text": "bulk carrier 31, general cargo 3, oil tanker 23, other 106 (2020)"
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -765,7 +801,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "none"
+      "text": "<p>none</p>"
     },
     "Illicit drugs": {
       "text": "major offshore financial center; vulnerable to drug transshipment to the US and Europe"

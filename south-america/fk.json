@@ -24,14 +24,15 @@
       "water": {
         "text": "0 sq km"
       },
-      "note": "note: includes the two main islands of East and West Falkland and about 200 small islands",
-      "country comparison to the world": 163
+      "note": "<p><strong>note:</strong> includes the two main islands of East and West Falkland and about 200 small islands</p>"
     },
     "Area - comparative": {
       "text": "slightly smaller than Connecticut"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "1,288 km"
@@ -68,8 +69,14 @@
       "agricultural land": {
         "text": "92.4% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "0% (2011 est.) / 0% (2011 est.) / 92.4% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 0% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 0% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 92.4% (2011 est.)"
       },
       "forest": {
         "text": "0% (2011 est.)"
@@ -97,8 +104,7 @@
   "People and Society": {
     "Population": {
       "text": "3,198 (2016 est.)",
-      "note": "note: data include all persons usually resident in the islands at the time of the 2016 census",
-      "country comparison to the world": 228
+      "note": "<p><strong>note:</strong> data include all persons usually resident in the islands at the time of the 2016 census</p>"
     },
     "Nationality": {
       "noun": {
@@ -118,16 +124,13 @@
       "text": "Christian 57.1%, other 1.6%, none 35.4%, unspecified 6% (2016 est.)"
     },
     "Population growth rate": {
-      "text": "0.01% (2014 est.)",
-      "country comparison to the world": 189
+      "text": "0.01% (2014 est.)"
     },
     "Birth rate": {
-      "text": "10.9 births/1,000 population (2012 est.)",
-      "country comparison to the world": 180
+      "text": "10.9 births/1,000 population (2012 est.)"
     },
     "Death rate": {
-      "text": "4.9 deaths/1,000 population (2012 est.)",
-      "country comparison to the world": 198
+      "text": "4.9 deaths/1,000 population (2012 est.)"
     },
     "Net migration rate": {
       "text": "NA"
@@ -147,8 +150,10 @@
       "text": "2,000 STANLEY (capital) (2018)"
     },
     "Sex ratio": {
-      "text": "1.12 male(s)/female (2016 est.)",
-      "note": "note: sex ratio is somewhat skewed by the high proportion of males at the Royal Air Force station, Mount Pleasant Airport (MPA); excluding MPA, the sex ratio of the total population would be 1.04"
+      "total population": {
+        "text": "1.12 male(s)/female (2016 est.)"
+      },
+      "note": "<p><strong>note:</strong> sex ratio is somewhat skewed by the high proportion of males at the Royal Air Force station, Mount Pleasant Airport (MPA); excluding MPA, the sex ratio of the total population would be 1.04</p>"
     },
     "Infant mortality rate": {
       "total": {
@@ -176,19 +181,43 @@
       "text": "NA"
     },
     "Drinking water source": {
-      "improved": {
-        "text": "urban: 100% of population / rural: 78.2% of population / total: 92% of population"
+      "improved: urban": {
+        "text": "urban: 100% of population"
       },
-      "unimproved": {
-        "text": "urban: 0% of population / rural: 21.8% of population / total: 5% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 78.2% of population"
+      },
+      "improved: total": {
+        "text": "total: 92% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 0% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 21.8% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 5% of population (2017 est.)"
       }
     },
     "Sanitation facility access": {
-      "improved": {
-        "text": "urban: 95% of population / rural: 78% of population / total: 100% of population"
+      "improved: urban": {
+        "text": "urban: 95% of population"
       },
-      "unimproved": {
-        "text": "urban: 5% of population / rural: 22% of population / total: 0% of population (2017)"
+      "improved: rural": {
+        "text": "rural: 78% of population"
+      },
+      "improved: total": {
+        "text": "total: 100% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 5% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 22% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 0% of population (2017)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -229,7 +258,7 @@
       "time difference": {
         "text": "UTC-4 (1 hour ahead of Washington, DC, during Standard Time)"
       },
-      "note": "etymology: named after Edward SMITH-STANLEY (1799-1869), the 14th Earl of Derby, a British statesman and three-time prime minister of the UK who never visited the islands"
+      "note": "<br><br><strong>etymology:</strong> named after Edward SMITH-STANLEY (1799-1869), the 14th Earl of Derby, a British statesman and three-time prime minister of the UK who never visited the islands"
     },
     "Administrative divisions": {
       "text": "none (overseas territory of the UK; also claimed by Argentina)"
@@ -252,7 +281,7 @@
       "text": "English common law and local statutes"
     },
     "Citizenship": {
-      "note": "see United Kingdom"
+      "text": "see United Kingdom"
     },
     "Suffrage": {
       "text": "18 years of age; universal"
@@ -300,10 +329,12 @@
       "text": "UPU"
     },
     "Diplomatic representation in the US": {
-      "note": "none (overseas territory of the UK)"
+      "text": "none (overseas territory of the UK)"
     },
     "Diplomatic representation from the US": {
-      "text": "none (overseas territory of the UK; also claimed by Argentina)"
+      "embassy": {
+        "text": "none (overseas territory of the UK; also claimed by Argentina)"
+      }
     },
     "Flag description": {
       "text": "blue with the flag of the UK in the upper hoist-side quadrant and the Falkland Island coat of arms centered on the outer half of the flag; the coat of arms contains a white ram (sheep raising was once the major economic activity) above the sailing ship Desire (whose crew discovered the islands) with a scroll at the bottom bearing the motto DESIRE THE RIGHT"
@@ -318,30 +349,50 @@
       "lyrics/music": {
         "text": "Christopher LANHAM"
       },
-      "note": "note: adopted 1930s; the song is the local unofficial anthem; as a territory of the United Kingdom, \"God Save the Queen\" is official (see United Kingdom)"
+      "note": "<p><strong>note:</strong> adopted 1930s; the song is the local unofficial anthem; as a territory of the United Kingdom, \"God Save the Queen\" is official (see United Kingdom)</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "The economy was formerly based on agriculture, mainly sheep farming, but fishing and tourism currently comprise the bulk of economic activity. In 1987, the government began selling fishing licenses to foreign trawlers operating within the Falkland Islands' exclusive fishing zone. These license fees net more than $40 million per year, which help support the island's health, education, and welfare system. The waters around the Falkland Islands are known for their squid, which account for around 75% of the annual 200,000-ton catch. ++ Dairy farming supports domestic consumption; crops furnish winter fodder. Foreign exchange earnings come from shipments of high-grade wool to the UK and from the sale of postage stamps and coins. ++ Tourism, especially ecotourism, is increasing rapidly, with about 69,000 visitors in 2009 and adds approximately $5.5 million to the Falkland's annual GDP. The British military presence also provides a sizable economic boost. The islands are now self-financing except for defense. ++ In 1993, the British Geological Survey announced a 200-mile oil exploration zone around the islands, and early seismic surveys suggest substantial reserves capable of producing 500,000 barrels per day. Political tensions between the UK and Argentina remain high following the start of oil drilling activities in the waters. In May 2010 the first commercial oil discovery was made, signaling the potential for the development of a long term hydrocarbon industry in the Falkland Islands."
+      "text": "<p>The economy was formerly based on agriculture, mainly sheep farming, but fishing and tourism currently comprise the bulk of economic activity. In 1987, the government began selling fishing licenses to foreign trawlers operating within the Falkland Islands' exclusive fishing zone. These license fees net more than $40 million per year, which help support the island's health, education, and welfare system. The waters around the Falkland Islands are known for their squid, which account for around 75% of the annual 200,000-ton catch.</p><p></p><p>Dairy farming supports domestic consumption; crops furnish winter fodder. Foreign exchange earnings come from shipments of high-grade wool to the UK and from the sale of postage stamps and coins.</p><p></p><p>Tourism, especially ecotourism, is increasing rapidly, with about 69,000 visitors in 2009 and adds approximately $5.5 million to the Falkland’s annual GDP. The British military presence also provides a sizable economic boost. The islands are now self-financing except for defense.</p><p></p><p>In 1993, the British Geological Survey announced a 200-mile oil exploration zone around the islands, and early seismic surveys suggest substantial reserves capable of producing 500,000 barrels per day. Political tensions between the UK and Argentina remain high following the start of oil drilling activities in the waters. In May 2010 the first commercial oil discovery was made, signaling the potential for the development of a long term hydrocarbon industry in the Falkland Islands.</p>"
     },
-    "GDP real growth rate": {
-      "text": "25.5% (2015 est.) / -1.8% (2014 est.) / -20.4% (2013 est.)",
-      "country comparison to the world": 3
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2015": {
+        "text": "25.5% (2015 est.)"
+      },
+      "Real GDP growth rate 2014": {
+        "text": "-1.8% (2014 est.)"
+      },
+      "Real GDP growth rate 2013": {
+        "text": "-20.4% (2013 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "1.4% (2014 est.)",
-      "country comparison to the world": 85
+      "Inflation rate (consumer prices) 2014": {
+        "text": "1.4% (2014 est.)"
+      }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$206.4 million (2015 est.) / $164.5 million (2014 est.) / $167.5 million (2013 est.)"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2015": {
+        "text": "$206.4 million (2015 est.)"
+      },
+      "Real GDP (purchasing power parity) 2014": {
+        "text": "$164.5 million (2014 est.)"
+      },
+      "Real GDP (purchasing power parity) 2013": {
+        "text": "$167.5 million (2013 est.)"
+      }
     },
     "GDP (official exchange rate)": {
       "text": "$206.4 million (2015 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$70,800 (2015 est.) / $63,000 (2014 est.)",
-      "country comparison to the world": 11
+    "Real GDP per capita": {
+      "Real GDP per capita 2015": {
+        "text": "$70,800 (2015 est.)"
+      },
+      "Real GDP per capita 2014": {
+        "text": "$63,000 (2014 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -354,9 +405,7 @@
         "text": "38.4% NA (2015 est.)"
       }
     },
-    "Ease of Doing Business Index scores": {
-    },
-    "Agriculture - products": {
+    "Agricultural products": {
       "text": "fodder and vegetable crops; venison, sheep, dairy products; fish, squid"
     },
     "Industries": {
@@ -366,8 +415,7 @@
       "text": "NA"
     },
     "Labor force": {
-      "text": "1,850 (2016 est.)",
-      "country comparison to the world": 226
+      "text": "1,850 (2016 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -381,11 +429,17 @@
       }
     },
     "Unemployment rate": {
-      "text": "1% (2016 est.)",
-      "country comparison to the world": 9
+      "Unemployment rate 2016": {
+        "text": "1% (2016 est.)"
+      }
     },
     "Population below poverty line": {
       "text": "NA"
+    },
+    "Gini Index coefficient - distribution of family income": {
+      "Gini Index coefficient - distribution of family income 2015": {
+        "text": "36 (2015)"
+      }
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
@@ -404,23 +458,26 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "32.5% (of GDP) (FY09/10)",
-      "country comparison to the world": 66
+      "text": "32.5% (of GDP) (FY09/10)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-4% (of GDP) (FY09/10)",
-      "country comparison to the world": 156
+      "text": "-4% (of GDP) (FY09/10)"
     },
     "Public debt": {
-      "text": "0% of GDP (2015 est.)",
-      "country comparison to the world": 209
+      "Public debt 2015": {
+        "text": "0% of GDP (2015 est.)"
+      }
     },
     "Fiscal year": {
       "text": "1 April - 31 March"
     },
     "Exports": {
-      "text": "$257.3 million (2015 est.) / $125 million (2004 est.)",
-      "country comparison to the world": 187
+      "Exports 2015": {
+        "text": "$257.3 million (2015 est.)"
+      },
+      "Exports 2004": {
+        "text": "$125 million (2004 est.)"
+      }
     },
     "Exports - partners": {
       "text": "Spain 74.4%, Namibia 10.4%, US 5% (2017)"
@@ -429,115 +486,114 @@
       "text": "wool, hides, meat, venison, fish, squid"
     },
     "Imports": {
-      "text": "$90 million (2004 est.)",
-      "country comparison to the world": 218
-    },
-    "Imports - commodities": {
-      "text": "fuel, food and drink, building materials, clothing"
+      "Imports 2004": {
+        "text": "$90 million (2004 est.)"
+      }
     },
     "Imports - partners": {
       "text": "UK 47.8%, Spain 28.4%, Greece 10.2%, Netherlands 5.7%, Cote d'Ivoire 4.3% (2017)"
     },
+    "Imports - commodities": {
+      "text": "fuel, food and drink, building materials, clothing"
+    },
     "Debt - external": {
-      "text": "$0 (2017 est.) / $0 (2016 est.)",
-      "country comparison to the world": 205
+      "Debt - external 2017": {
+        "text": "$0 (2017 est.)"
+      },
+      "Debt - external 2016": {
+        "text": "$0 (2016 est.)"
+      }
     },
     "Exchange rates": {
-      "text": "Falkland pounds (FKP) per US dollar - / 0.7836 (2017 est.) / 0.6542 (2016 est.) / 0.6542 (2015) / 0.6542 (2014 est.) / 0.6391 (2013 est.)"
+      "currency": {
+        "text": "Falkland pounds (FKP) per US dollar -"
+      },
+      "Exchange rates 2017": {
+        "text": "0.7836 (2017 est.)"
+      },
+      "Exchange rates 2016": {
+        "text": "0.6542 (2016 est.)"
+      },
+      "Exchange rates 2015": {
+        "text": "0.6542 (2015)"
+      },
+      "Exchange rates 2014": {
+        "text": "0.6542 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "0.6391 (2013 est.)"
+      }
     }
   },
   "Energy": {
     "Electricity - production": {
-      "text": "19 million kWh (2016 est.)",
-      "country comparison to the world": 213
+      "text": "19 million kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "17.67 million kWh (2016 est.)",
-      "country comparison to the world": 213
+      "text": "17.67 million kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 133
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - imports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 147
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "12,100 kW (2016 est.)",
-      "country comparison to the world": 207
+      "text": "12,100 kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "74% of total installed capacity (2016 est.)",
-      "country comparison to the world": 95
+      "text": "74% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 89
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 171
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "26% of total installed capacity (2017 est.)",
-      "country comparison to the world": 26
+      "text": "26% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "0 bbl/day (2018 est.)",
-      "country comparison to the world": 135
+      "text": "0 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 122
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - imports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 126
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2018 est.)",
-      "country comparison to the world": 130
+      "text": "0 bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "0 bbl/day (2017 est.)",
-      "country comparison to the world": 144
+      "text": "0 bbl/day (2017 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "290 bbl/day (2016 est.)",
-      "country comparison to the world": 212
+      "text": "290 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 154
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "286 bbl/day (2015 est.)",
-      "country comparison to the world": 208
+      "text": "286 bbl/day (2015 est.)"
     },
     "Natural gas - production": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 131
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 145
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 103
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 124
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "0 cu m (1 January 2014 est.)",
-      "country comparison to the world": 134
+      "text": "0 cu m (1 January 2014 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "44,070 Mt (2017 est.)",
-      "country comparison to the world": 210
+      "text": "44,070 Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -547,8 +603,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "77 (July 2016 est.)"
-      },
-      "country comparison to the world": 216
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -556,8 +611,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "146 (July 2016 est.)"
-      },
-      "country comparison to the world": 219
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
@@ -582,8 +636,7 @@
       },
       "percent of population": {
         "text": "98.3% (July 2016 est.)"
-      },
-      "country comparison to the world": 221
+      }
     },
     "Broadband - fixed subscriptions": {
       "total": {
@@ -591,8 +644,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "50 (2017 est.)"
-      },
-      "country comparison to the world": 189
+      }
     }
   },
   "Transportation": {
@@ -608,8 +660,9 @@
       "text": "VP-F (2016)"
     },
     "Airports": {
-      "text": "7 (2020)",
-      "country comparison to the world": 168
+      "total": {
+        "text": "7 (2020)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -639,17 +692,15 @@
       },
       "unpaved": {
         "text": "390 km (2008)"
-      },
-      "country comparison to the world": 198
+      }
     },
     "Merchant marine": {
       "total": {
-        "text": "3"
+        "text": "2"
       },
       "by type": {
-        "text": "general cargo 1, other 2 (2019)"
-      },
-      "country comparison to the world": 170
+        "text": "general cargo 1, other 1 (2020)"
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -667,7 +718,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "Argentina, which claims the islands in its constitution and briefly occupied them by force in 1982, agreed in 1995 to no longer seek settlement by force; UK continues to reject Argentine requests for sovereignty talks"
+      "text": "<p>Argentina, which claims the islands in its constitution and briefly occupied them by force in 1982, agreed in 1995 to no longer seek settlement by force; UK continues to reject Argentine requests for sovereignty talks</p>"
     }
   }
 }

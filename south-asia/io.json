@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "Formerly administered as part of the British Crown Colony of Mauritius, the British Indian Ocean Territory (BIOT) was established as an overseas territory of the UK in 1965. A number of the islands of the territory were later transferred to the Seychelles when it attained independence in 1976. Subsequently, BIOT has consisted only of the six main island groups comprising the Chagos Archipelago. Only Diego Garcia, the largest and most southerly of the islands, is inhabited. It contains a joint UK-US naval support facility and hosts one of four dedicated ground antennas that assist in the operation of the Global Positioning System (GPS) navigation system (the others are on Kwajalein (Marshall Islands), at Cape Canaveral, Florida (US), and on Ascension Island (Saint Helena, Ascension, and Tristan da Cunha)). The US Air Force also operates a telescope array on Diego Garcia as part of the Ground-Based Electro-Optical Deep Space Surveillance System (GEODSS) for tracking orbital debris, which can be a hazard to spacecraft and astronauts. ++ Between 1967 and 1973, former agricultural workers, earlier residents in the islands, were relocated primarily to Mauritius, but also to the Seychelles. Negotiations between 1971 and 1982 resulted in the establishment of a trust fund by the British Government as compensation for the displaced islanders, known as Chagossians. Beginning in 1998, the islanders pursued a series of lawsuits against the British Government seeking further compensation and the right to return to the territory. In 2006 and 2007, British court rulings invalidated the immigration policies contained in the 2004 BIOT Constitution Order that had excluded the islanders from the archipelago, but upheld the special military status of Diego Garcia. In 2008, the House of Lords, as the final court of appeal in the UK, ruled in favor of the British Government by overturning the lower court rulings and finding no right of return for the Chagossians. In March 2015, the Permanent Court of Arbitration unanimously held that the marine protected area (MPA) that the UK declared around the Chagos Archipelago in April 2010 was in violation of the UN Convention on the Law of the Sea. ++ In February 2019, the International Court of Justice ruled in an advisory opinion that Britain's decolonization of Mauritius was not completed lawfully because of continued Chagossian claims. A non-binding May 2019 UN General Assembly vote demanded that Britain end its \"colonial administration\" of the Chagos Archipelago and that it be returned to Mauritius. UK officials defend Britain's sovereignty over the islands and argue that the issue is a bilateral dispute between Mauritius and the UK that does not warrant international intervention. ++ ++"
+      "text": "<p>Formerly administered as part of the British Crown Colony of Mauritius, the British Indian Ocean Territory (BIOT) was established as an overseas territory of the UK in 1965. A number of the islands of the territory were later transferred to the Seychelles when it attained independence in 1976. Subsequently, BIOT has consisted only of the six main island groups comprising the Chagos Archipelago. Only Diego Garcia, the largest and most southerly of the islands, is inhabited. It contains a joint UK-US naval support facility and hosts one of four dedicated ground antennas that assist in the operation of the Global Positioning System (GPS) navigation system (the others are on Kwajalein (Marshall Islands), at Cape Canaveral, Florida (US), and on Ascension Island (Saint Helena, Ascension, and Tristan da Cunha)). The US Air Force also operates a telescope array on Diego Garcia as part of the Ground-Based Electro-Optical Deep Space Surveillance System (GEODSS) for tracking orbital debris, which can be a hazard to spacecraft and astronauts.</p> <p>Between 1967 and 1973, former agricultural workers, earlier residents in the islands, were relocated primarily to Mauritius, but also to the Seychelles. Negotiations between 1971 and 1982 resulted in the establishment of a trust fund by the British Government as compensation for the displaced islanders, known as Chagossians. Beginning in 1998, the islanders pursued a series of lawsuits against the British Government seeking further compensation and the right to return to the territory. In 2006 and 2007, British court rulings invalidated the immigration policies contained in the 2004 BIOT Constitution Order that had excluded the islanders from the archipelago, but upheld the special military status of Diego Garcia. In 2008, the House of Lords, as the final court of appeal in the UK, ruled in favor of the British Government by overturning the lower court rulings and finding no right of return for the Chagossians. In March 2015, the Permanent Court of Arbitration unanimously held that the marine protected area (MPA) that the UK declared around the Chagos Archipelago in April 2010 was in violation of the UN Convention on the Law of the Sea.<br /><br />In February 2019, the International Court of Justice ruled in an advisory opinion that Britain&rsquo;s decolonization of Mauritius was not completed lawfully because of continued Chagossian claims. A non-binding May 2019 UN General Assembly vote demanded that Britain end its &ldquo;colonial administration&rdquo; of the Chagos Archipelago and that it be returned to Mauritius. UK officials defend Britain's sovereignty over the islands and argue that the issue is a bilateral dispute between Mauritius and the UK that does not warrant international intervention.&nbsp;<br /><br /><br /></p>"
     }
   },
   "Geography": {
@@ -24,14 +24,15 @@
       "water": {
         "text": "54,340 sq km"
       },
-      "note": "note: includes the entire Chagos Archipelago of 55 islands",
-      "country comparison to the world": 229
+      "note": "<br><br><strong>note:</strong> includes the entire Chagos Archipelago of 55 islands"
     },
     "Area - comparative": {
       "text": "land area is about one-third the size of Washington, DC"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "698 km"
@@ -65,8 +66,14 @@
       "agricultural land": {
         "text": "0% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "0% (2011 est.) / 0% (2011 est.) / 0% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 0% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 0% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 0% (2011 est.)"
       },
       "forest": {
         "text": "0% (2011 est.)"
@@ -82,13 +89,13 @@
       "text": "wastewater discharge into the lagoon on Diego Garcia"
     },
     "Geography - note": {
-      "note": "note 1: archipelago of 55 islands; Diego Garcia, the largest and southernmost island, occupies a strategic location in the central Indian Ocean; the island is the site of a joint US-UK military facility ++ note 2: Diego Garcia is the only inhabited island of the BIOT and one of only two British territories where traffic drives on the right, the other being Gibraltar"
+      "text": "<p><strong>note 1:</strong> archipelago of 55 islands; Diego Garcia, the largest and southernmost island, occupies a strategic location in the central Indian Ocean; the island is the site of a joint US-UK military facility</p> <p><strong>note 2:</strong> Diego Garcia is the only inhabited island of the BIOT and one of only two British territories where traffic drives on the right, the other being Gibraltar</p>"
     }
   },
   "People and Society": {
     "Population": {
       "text": "no indigenous inhabitants",
-      "note": "note: approximately 1,200 former agricultural workers resident in the Chagos Archipelago, often referred to as Chagossians or Ilois, were relocated to Mauritius and the Seychelles in the 1960s and 1970s; approximately 3,000 UK and US military personnel and civilian contractors living on the island of Diego Garcia (2018)"
+      "note": "<p><strong>note:</strong> approximately 1,200 former agricultural workers resident in the Chagos Archipelago, often referred to as Chagossians or Ilois, were relocated to Mauritius and the Seychelles in the 1960s and 1970s; approximately 3,000 UK and US military personnel and civilian contractors living on the island of Diego Garcia (2018)</p>"
     }
   },
   "Government": {
@@ -130,10 +137,12 @@
       "text": "UPU"
     },
     "Diplomatic representation in the US": {
-      "note": "none (overseas territory of the UK)"
+      "text": "none (overseas territory of the UK)"
     },
     "Diplomatic representation from the US": {
-      "text": "none (overseas territory of the UK)"
+      "embassy": {
+        "text": "none (overseas territory of the UK)"
+      }
     },
     "Flag description": {
       "text": "white with six blue wavy horizontal stripes; the flag of the UK is in the upper hoist-side quadrant; the striped section bears a palm tree and yellow crown (the symbols of the territory) centered on the outer half of the flag; the wavy stripes represent the Indian Ocean; although not officially described, the six blue stripes may stand for the six main atolls of the archipelago"
@@ -143,10 +152,8 @@
     "Economic overview": {
       "text": "All economic activity is concentrated on the largest island of Diego Garcia, where a joint UK-US military facility is located. Construction projects and various services needed to support the military installation are performed by military and contract employees from the UK, Mauritius, the Philippines, and the US. Some of the natural resources found in this territory include coconuts, fish, and sugarcane."
     },
-    "Ease of Doing Business Index scores": {
-    },
     "Exchange rates": {
-      "note": "the US dollar is used"
+      "text": "<p>the US dollar is used</p>"
     }
   },
   "Communications": {
@@ -158,7 +165,7 @@
         "text": "all commercial telephone services are available, including connection to the Internet (2018)"
       },
       "international": {
-        "text": "country code (Diego Garcia) - 246; landing point for the SAFE submarine cable that provides direct connectivity to Africa, Asia and near-by Indian Ocean island countries; international telephone service is carried by satellite (2019)"
+        "text": "country code (Diego Garcia) - 246; landing point for the SAFE submarine cable that provides direct connectivity to Africa, Asia and near-by Indian Ocean&nbsp;island countries;&nbsp;international telephone service is carried by satellite (2019)"
       }
     },
     "Broadcast media": {
@@ -173,8 +180,9 @@
   },
   "Transportation": {
     "Airports": {
-      "text": "1 (2020)",
-      "country comparison to the world": 214
+      "total": {
+        "text": "1 (2020)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -185,7 +193,7 @@
       }
     },
     "Roadways": {
-      "note": "note: short section of paved road between port and airfield on Diego Garcia"
+      "text": "<p><strong>note:</strong> short section of paved road between port and airfield on Diego Garcia</p>"
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -203,7 +211,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "Mauritius and Seychelles claim the Chagos Islands; negotiations between 1971 and 1982 resulted in the establishment of a trust fund by the British Government as compensation for the displaced islanders, known as Chagossians, who were evicted between 1967-73; in 2001, the former inhabitants of the archipelago were granted UK citizenship and the right of return; in 2006 and 2007, British court rulings invalidated the immigration policies contained in the 2004 BIOT Constitution Order that had excluded the islanders from the archipelago; in 2008 a House of Lords' decision overturned lower court rulings, once again denying the right of return to Chagossians; in addition, the UK created the world's largest marine protection area around the Chagos islands prohibiting the extraction of any natural resources therein"
+      "text": "<p>Mauritius and Seychelles claim the Chagos Islands; negotiations between 1971 and 1982 resulted in the establishment of a trust fund by the British Government as compensation for the displaced islanders, known as Chagossians, who were evicted between 1967-73; in 2001, the former inhabitants of the archipelago were granted UK citizenship and the right of return; in 2006 and 2007, British court rulings invalidated the immigration policies contained in the 2004 BIOT Constitution Order that had excluded the islanders from the archipelago; in 2008 a House of Lords' decision overturned lower court rulings, once again denying the right of return to Chagossians; in addition, the UK created the world's largest marine protection area around the Chagos islands prohibiting the extraction of any natural resources therein</p>"
     }
   }
 }

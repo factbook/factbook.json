@@ -23,14 +23,15 @@
       },
       "water": {
         "text": "3,870 sq km"
-      },
-      "country comparison to the world": 160
+      }
     },
     "Area - comparative": {
       "text": "slightly smaller than Connecticut"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "3,542 km"
@@ -54,7 +55,7 @@
         "text": "Atlantic Ocean 0 m"
       },
       "highest point": {
-        "text": "Mount Alvernia on Cat Island 64 m"
+        "text": "1.3 km NE of Old Bight on Cat Island 64 m"
       }
     },
     "Natural resources": {
@@ -62,16 +63,22 @@
     },
     "Land use": {
       "agricultural land": {
-        "text": "1.4% (2016 est.)"
+        "text": "1.4% (2018 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "0.8% (2016 est.) / 0.4% (2016 est.) / 0.2% (2016 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 0.8% (2018 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 0.4% (2018 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 0.2% (2018 est.)"
       },
       "forest": {
-        "text": "51.4% (2016 est.)"
+        "text": "51.4% (2018 est.)"
       },
       "other": {
-        "text": "47.2% (2016 est.)"
+        "text": "47.2% (2018 est.)"
       }
     },
     "Irrigated land": {
@@ -100,9 +107,8 @@
   },
   "People and Society": {
     "Population": {
-      "text": "337,721 (July 2020 est.)",
-      "note": "note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected",
-      "country comparison to the world": 178
+      "text": "352,655 (July 2021 est.)",
+      "note": "<p><strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected</p>"
     },
     "Nationality": {
       "noun": {
@@ -114,7 +120,7 @@
     },
     "Ethnic groups": {
       "text": "Black 90.6%, White 4.7%, mixed 2.1%, other 1.9%, unspecified 0.7% (2010 est.)",
-      "note": "note: data represent population by racial group"
+      "note": "<br><br><strong>note:</strong> data represent population by racial group"
     },
     "Languages": {
       "text": "English (official), Creole (among Haitian immigrants)"
@@ -162,24 +168,19 @@
       },
       "female": {
         "text": "34 years (2020 est.)"
-      },
-      "country comparison to the world": 104
+      }
     },
     "Population growth rate": {
-      "text": "0.75% (2020 est.)",
-      "country comparison to the world": 132
+      "text": "0.84% (2021 est.)"
     },
     "Birth rate": {
-      "text": "14.8 births/1,000 population (2020 est.)",
-      "country comparison to the world": 120
+      "text": "14.78 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "7.4 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 107
+      "text": "6.34 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "0 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 76
+      "text": "0 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "most of the population lives in urban areas, with two-thirds living on New Providence Island where Nassau is located"
@@ -219,42 +220,38 @@
       }
     },
     "Maternal mortality rate": {
-      "text": "70 deaths/100,000 live births (2017 est.)",
-      "country comparison to the world": 83
+      "text": "70 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "10.6 deaths/1,000 live births"
+        "text": "13.05 deaths/1,000 live births"
       },
       "male": {
-        "text": "10.6 deaths/1,000 live births"
+        "text": "13.49 deaths/1,000 live births"
       },
       "female": {
-        "text": "10.6 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 127
+        "text": "12.6 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "73.3 years"
+        "text": "75.87 years"
       },
       "male": {
-        "text": "70.8 years"
+        "text": "72.93 years"
       },
       "female": {
-        "text": "75.8 years (2020 est.)"
-      },
-      "country comparison to the world": 146
+        "text": "78.9 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "1.92 children born/woman (2020 est.)",
-      "country comparison to the world": 125
+      "text": "1.98 children born/woman (2021 est.)"
     },
     "Drinking water source": {
-      "improved": {
+      "improved: total": {
         "text": "total: 98.9% of population"
       },
-      "unimproved": {
+      "unimproved: total": {
         "text": "total: 1.1% of population (2017 est.)"
       }
     },
@@ -268,27 +265,24 @@
       "text": "3 beds/1,000 population (2017)"
     },
     "Sanitation facility access": {
-      "improved": {
+      "improved: total": {
         "text": "total: 98.2% of population"
       },
-      "unimproved": {
+      "unimproved: total": {
         "text": "total: 1.8% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "1.8% (2018 est.)",
-      "country comparison to the world": 27
+      "text": "1.8% (2018 est.)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
-      "text": "6,000 (2018 est.)",
-      "country comparison to the world": 118
+      "text": "6,000 (2018 est.)"
     },
     "HIV/AIDS - deaths": {
       "text": "<200 (2018)"
     },
     "Obesity - adult prevalence rate": {
-      "text": "31.6% (2016)",
-      "country comparison to the world": 21
+      "text": "31.6% (2016)"
     },
     "Education expenditures": {
       "text": "NA"
@@ -302,8 +296,7 @@
       },
       "female": {
         "text": "31.6% (2016 est.)"
-      },
-      "country comparison to the world": 47
+      }
     }
   },
   "Government": {
@@ -319,7 +312,7 @@
       }
     },
     "Government type": {
-      "text": "parliamentary democracy under a constitutional monarchy; a Commonwealth realm"
+      "text": "parliamentary democracy&nbsp;under a constitutional monarchy; a Commonwealth realm"
     },
     "Capital": {
       "name": {
@@ -334,7 +327,7 @@
       "daylight saving time": {
         "text": "+1hr, begins second Sunday in March; ends first Sunday in November"
       },
-      "note": "etymology: named after William III (1650-1702), king of England, Scotland, and Ireland, who was a member of the House of Nassau"
+      "note": "<br><br><strong>etymology:</strong> named after William III (1650-1702), king of England, Scotland, and Ireland, who was a member of the House of Nassau"
     },
     "Administrative divisions": {
       "text": "31 districts; Acklins Islands, Berry Islands, Bimini, Black Point, Cat Island, Central Abaco, Central Andros, Central Eleuthera, City of Freeport, Crooked Island and Long Cay, East Grand Bahama, Exuma, Grand Cay, Harbour Island, Hope Town, Inagua, Long Island, Mangrove Cay, Mayaguana, Moore's Island, North Abaco, North Andros, North Eleuthera, Ragged Island, Rum Cay, San Salvador, South Abaco, South Andros, South Eleuthera, Spanish Wells, West Grand Bahama"
@@ -389,19 +382,19 @@
       "elections/appointments": {
         "text": "the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general; the prime minister recommends the deputy prime minister"
       },
-      "note": "note: Prime Minister Hubert MINNIS is only the fourth prime minister in Bahamian history following its independence from the UK; he is also the first prime minister in 25 years besides Perry CHRISTIE and Hubert INGRAHAM, who repeatedly traded the premiership from 1992 to 2017"
+      "note": "<p><strong>note:</strong> Prime Minister Hubert MINNIS is only the fourth prime minister in Bahamian history following its independence from the UK; he is also the first prime minister in 25 years besides Perry CHRISTIE and Hubert INGRAHAM, who repeatedly traded the premiership from 1992 to 2017</p>"
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral Parliament consists of: Senate (16 seats; members appointed by the governor general upon the advice of the prime minister and the opposition leader to serve 5-year terms) ++ House of Assembly (39 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)"
+        "text": "bicameral Parliament consists of:<br />Senate (16 seats; members appointed by the governor general upon the advice of the prime minister and the opposition leader to serve 5-year terms)<br />House of Assembly (39 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)"
       },
       "elections": {
-        "text": "Senate - last appointments on 24 May 2017 (next appointments in 2022) ++ House of Assembly - last held on 10 May 2017 (next to be held by May 2022)"
+        "text": "<br />Senate - last appointments on 24 May 2017 (next appointments in 2022)<br />House of Assembly - last held on 10 May 2017 (next to be held by May 2022)"
       },
       "election results": {
-        "text": "Senate - appointed; composition - men 9, women 7, percent of women 43.8% ++ House of Assembly - percent of vote by party - FNM 57%, PLP 36.9%, other 6.1%; seats by party - FNM 35, PLP 4; composition - men 34, women 5, percent of women 12.8%; note - total Parliament percent of women 21.8%"
+        "text": "<br />Senate - appointed; composition - men 9, women 7, percent of women 43.8%<br />House of Assembly - percent of vote by party - FNM 57%, PLP 36.9%, other 6.1%; seats by party - FNM 35, PLP 4; composition - men 34, women 5, percent of women 12.8%; note - total Parliament percent of women 21.8%"
       },
-      "note": "note: the government may dissolve the parliament and call elections at any time"
+      "note": "<br><br><strong>note:</strong> the government may dissolve the parliament and call elections at any time"
     },
     "Judicial branch": {
       "highest courts": {
@@ -413,10 +406,10 @@
       "subordinate courts": {
         "text": "Industrial Tribunal; Stipendiary and Magistrates' Courts; Family Island Administrators"
       },
-      "note": "note: the Bahamas is a member of the 15-member Caribbean Community but is not party to the agreement establishing the Caribbean Court of Justice as its highest appellate court; the Judicial Committee of the Privy Council (in London) serves as the final court of appeal for The Bahamas"
+      "note": "<p><strong>note:</strong> the Bahamas is a member of the 15-member Caribbean Community but is not party to the agreement establishing the Caribbean Court of Justice as its highest appellate court;&nbsp; the Judicial Committee of the Privy Council (in London) serves as the final court of appeal for The Bahamas</p>"
     },
     "Political parties and leaders": {
-      "text": "Democratic National Alliance or DNA [Christopher MORTIMER, interim leader] ++ Free National Movement or FNM [Hubert MINNIS] ++ Progressive Liberal Party or PLP [Philip \"Brave\" DAVIS]"
+      "text": "Democratic National Alliance or DNA [Christopher MORTIMER, interim leader]<br />Free National Movement or FNM [Hubert MINNIS]<br />Progressive Liberal Party or PLP [Philip \"Brave\" DAVIS]"
     },
     "International organization participation": {
       "text": "ACP, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO (correspondent), ITSO, ITU, LAES, MIGA, NAM, OAS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)"
@@ -471,20 +464,31 @@
       "lyrics/music": {
         "text": "Timothy GIBSON"
       },
-      "note": "note: adopted 1973; as a Commonwealth country, in addition to the national anthem, \"God Save the Queen\" serves as the royal anthem (see United Kingdom)"
+      "note": "<p><strong>note:</strong> adopted 1973; as a Commonwealth country, in addition to the national anthem, \"God Save the Queen\" serves as the royal anthem (see United Kingdom)</p>"
     }
   },
   "Economy": {
     "Economic overview": {
       "text": "The Bahamas has the second highest per capita GDP in the English-speaking Caribbean with an economy heavily dependent on tourism and financial services. Tourism accounts for approximately 50% of GDP and directly or indirectly employs half of the archipelago's labor force. Financial services constitute the second-most important sector of the Bahamian economy, accounting for about 15% of GDP. Manufacturing and agriculture combined contribute less than 7% of GDP and show little growth, despite government incentives aimed at those sectors. The new government led by Prime Minister Hubert MINNIS has prioritized addressing fiscal imbalances and rising debt, which stood at 75% of GDP in 2016. Large capital projects like the Baha Mar Casino and Hotel are driving growth. Public debt increased in 2017 in large part due to hurricane reconstruction and relief financing. The primary fiscal balance was a deficit of 0.4% of GDP in 2016. The Bahamas is the only country in the Western Hemisphere that is not a member of the World Trade Organization."
     },
-    "GDP real growth rate": {
-      "text": "1.4% (2017 est.) / -1.7% (2016 est.) / 1% (2015 est.)",
-      "country comparison to the world": 159
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2017": {
+        "text": "1.4% (2017 est.)"
+      },
+      "Real GDP growth rate 2016": {
+        "text": "-1.7% (2016 est.)"
+      },
+      "Real GDP growth rate 2015": {
+        "text": "1% (2015 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "1.4% (2017 est.) / -0.3% (2016 est.)",
-      "country comparison to the world": 82
+      "Inflation rate (consumer prices) 2017": {
+        "text": "1.4% (2017 est.)"
+      },
+      "Inflation rate (consumer prices) 2016": {
+        "text": "-0.3% (2016 est.)"
+      }
     },
     "Credit ratings": {
       "Moody's rating": {
@@ -494,21 +498,43 @@
         "text": "BB- (2020)"
       }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$12.06 billion (2017 est.) / $11.89 billion (2016 est.) / $12.09 billion (2015 est.)",
-      "note": "note: data are in 2017 dollars"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2019": {
+        "text": "$14.45 billion (2019 est.)"
+      },
+      "Real GDP (purchasing power parity) 2018": {
+        "text": "$14.276 billion (2018 est.)"
+      },
+      "Real GDP (purchasing power parity) 2017": {
+        "text": "$13.856 billion (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2017 dollars</p>"
     },
     "GDP (official exchange rate)": {
       "text": "$12.16 billion (2017 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$32,400 (2017 est.) / $32,300 (2016 est.) / $33,200 (2015 est.)",
-      "note": "note: data are in 2017 dollars",
-      "country comparison to the world": 54
+    "Real GDP per capita": {
+      "Real GDP per capita 2019": {
+        "text": "$37,101 (2019 est.)"
+      },
+      "Real GDP per capita 2018": {
+        "text": "$37,020 (2018 est.)"
+      },
+      "Real GDP per capita 2017": {
+        "text": "$36,297 (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2017 dollars</p>"
     },
     "Gross national saving": {
-      "text": "11.4% of GDP (2017 est.) / 18.2% of GDP (2016 est.) / 12.3% of GDP (2015 est.)",
-      "country comparison to the world": 155
+      "Gross national saving 2017": {
+        "text": "11.4% of GDP (2017 est.)"
+      },
+      "Gross national saving 2016": {
+        "text": "18.2% of GDP (2016 est.)"
+      },
+      "Gross national saving 2015": {
+        "text": "12.3% of GDP (2015 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -542,21 +568,21 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "text": "59.1 (2020)"
+      "Overall Ease of Doing Business score 2020": {
+        "text": "59.1 (2020)"
+      }
     },
-    "Agriculture - products": {
-      "text": "citrus, vegetables; poultry; seafood"
+    "Agricultural products": {
+      "text": "sugar cane, grapefruit, vegetables, bananas, tomatoes, poultry, tropical fruit, oranges, coconuts, mangoes/guavas"
     },
     "Industries": {
       "text": "tourism, banking, oil bunkering, maritime industries, transshipment and logistics, salt, aragonite, pharmaceuticals"
     },
     "Industrial production growth rate": {
-      "text": "5.8% (2017 est.)",
-      "country comparison to the world": 44
+      "text": "5.8% (2017 est.)"
     },
     "Labor force": {
-      "text": "196,900 (2013 est.)",
-      "country comparison to the world": 171
+      "text": "196,900 (2013 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -573,8 +599,12 @@
       }
     },
     "Unemployment rate": {
-      "text": "10.1% (2017 est.) / 12.2% (2016 est.)",
-      "country comparison to the world": 148
+      "Unemployment rate 2017": {
+        "text": "10.1% (2017 est.)"
+      },
+      "Unemployment rate 2016": {
+        "text": "12.2% (2016 est.)"
+      }
     },
     "Population below poverty line": {
       "text": "9.3% (2010 est.)"
@@ -596,27 +626,37 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "17.6% (of GDP) (2017 est.)",
-      "country comparison to the world": 166
+      "text": "17.6% (of GDP) (2017 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-2.6% (of GDP) (2017 est.)",
-      "country comparison to the world": 115
+      "text": "-2.6% (of GDP) (2017 est.)"
     },
     "Public debt": {
-      "text": "54.6% of GDP (2017 est.) / 50.5% of GDP (2016 est.)",
-      "country comparison to the world": 80
+      "Public debt 2017": {
+        "text": "54.6% of GDP (2017 est.)"
+      },
+      "Public debt 2016": {
+        "text": "50.5% of GDP (2016 est.)"
+      }
     },
     "Fiscal year": {
       "text": "1 July - 30 June"
     },
     "Current account balance": {
-      "text": "-$1.909 billion (2017 est.) / -$868 million (2016 est.)",
-      "country comparison to the world": 166
+      "Current account balance 2017": {
+        "text": "-$1.909 billion (2017 est.)"
+      },
+      "Current account balance 2016": {
+        "text": "-$868 million (2016 est.)"
+      }
     },
     "Exports": {
-      "text": "$550 million (2017 est.) / $444.3 million (2016 est.)",
-      "country comparison to the world": 174
+      "Exports 2017": {
+        "text": "$550 million (2017 est.)"
+      },
+      "Exports 2016": {
+        "text": "$444.3 million (2016 est.)"
+      }
     },
     "Exports - partners": {
       "text": "US 63.9%, Namibia 19.3% (2017)"
@@ -625,25 +665,54 @@
       "text": "Rock lobster, aragonite, crude salt, polystyrene products"
     },
     "Imports": {
-      "text": "$3.18 billion (2017 est.) / $2.594 billion (2016 est.)",
-      "country comparison to the world": 151
-    },
-    "Imports - commodities": {
-      "text": "machinery and transport equipment, manufactures, chemicals, mineral fuels; food and live animals"
+      "Imports 2017": {
+        "text": "$3.18 billion (2017 est.)"
+      },
+      "Imports 2016": {
+        "text": "$2.594 billion (2016 est.)"
+      }
     },
     "Imports - partners": {
       "text": "US 83.2% (2017)"
     },
+    "Imports - commodities": {
+      "text": "machinery and transport equipment, manufactures, chemicals, mineral fuels; food and live animals"
+    },
     "Reserves of foreign exchange and gold": {
-      "text": "$1.522 billion (31 December 2017 est.) / $1.002 billion (31 December 2016 est.)",
-      "country comparison to the world": 125
+      "Reserves of foreign exchange and gold 31 December 2017": {
+        "text": "$1.522 billion (31 December 2017 est.)"
+      },
+      "Reserves of foreign exchange and gold 31 December 2016": {
+        "text": "$1.002 billion (31 December 2016 est.)"
+      }
     },
     "Debt - external": {
-      "text": "$17.56 billion (31 December 2013 est.) / $16.35 billion (31 December 2012 est.)",
-      "country comparison to the world": 98
+      "Debt - external 31 December 2013": {
+        "text": "$17.56 billion (31 December 2013 est.)"
+      },
+      "Debt - external 31 December 2012": {
+        "text": "$16.35 billion (31 December 2012 est.)"
+      }
     },
     "Exchange rates": {
-      "text": "Bahamian dollars (BSD) per US dollar - / 1 (2017 est.) / 1 (2016 est.) / 1 (2015 est.) / 1 (2014 est.) / 1 (2013 est.)"
+      "currency": {
+        "text": "Bahamian dollars (BSD) per US dollar -"
+      },
+      "Exchange rates 2017": {
+        "text": "1 (2017 est.)"
+      },
+      "Exchange rates 2016": {
+        "text": "1 (2016 est.)"
+      },
+      "Exchange rates 2015": {
+        "text": "1 (2015 est.)"
+      },
+      "Exchange rates 2014": {
+        "text": "1 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "1 (2013 est.)"
+      }
     }
   },
   "Energy": {
@@ -653,96 +722,73 @@
       }
     },
     "Electricity - production": {
-      "text": "1.778 billion kWh (2016 est.)",
-      "country comparison to the world": 140
+      "text": "1.778 billion kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "1.654 billion kWh (2016 est.)",
-      "country comparison to the world": 145
+      "text": "1.654 billion kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 102
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - imports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 123
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "577,000 kW (2016 est.)",
-      "country comparison to the world": 141
+      "text": "577,000 kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "100% of total installed capacity (2016 est.)",
-      "country comparison to the world": 1
+      "text": "100% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 43
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 155
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 174
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "0 bbl/day (2018 est.)",
-      "country comparison to the world": 108
+      "text": "0 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 89
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - imports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 93
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2018 est.)",
-      "country comparison to the world": 105
+      "text": "0 bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 116
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "20,040 bbl/day (2016 est.)",
-      "country comparison to the world": 140
+      "text": "20,040 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 128
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "19,150 bbl/day (2015 est.)",
-      "country comparison to the world": 123
+      "text": "19,150 bbl/day (2015 est.)"
     },
     "Natural gas - production": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 101
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "48,020 cu m (2017 est.)",
-      "country comparison to the world": 115
+      "text": "48,020 cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 63
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "48,020 cu m (2017 est.)",
-      "country comparison to the world": 79
+      "text": "48,020 cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "0 cu m (1 January 2009 est.)",
-      "country comparison to the world": 108
+      "text": "0 cu m (1 January 2009 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "3.089 million Mt (2017 est.)",
-      "country comparison to the world": 147
+      "text": "3.089 million Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -752,8 +798,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "23.4 (2019 est.)"
-      },
-      "country comparison to the world": 144
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -761,8 +806,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "109.25 (2019 est.)"
-      },
-      "country comparison to the world": 177
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
@@ -774,10 +818,10 @@
       "international": {
         "text": "country code - 1-242; landing points for the ARCOS-1, BICS, Bahamas 2-US, and BDSN fiber-optic submarine cables that provide links to South and Central America, parts of the Caribbean, and the US; satellite earth stations - 2; the Bahamas Domestic Submarine Network links all of the major islands; (2019)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
-      "text": "The Bahamas has 4 major TV providers that provide service to all major islands in the archipelago; 1 TV station is operated by government-owned, commercially run Broadcasting Corporation of the Bahamas (BCB) and competes freely with 4 privately owned TV stations; multi-channel cable TV subscription service is widely available; there are 32 licensed broadcast (radio) service providers, 31 are privately owned FM radio stations operating on New Providence, Grand Bahama Island, Abaco Island, and on smaller islands in the country; the BCB operates a multi-channel radio broadcasting network that has national coverage; the sector is regulated by the Utilities Regulation and Competition Authority (2019)"
+      "text": "The Bahamas has 4 major TV providers that provide service to all major islands in the archipelago; 1 TV station is operated by government-owned, commercially run Broadcasting Corporation of the Bahamas (BCB) and competes freely with&nbsp;4 privately owned TV stations; multi-channel cable TV subscription service is widely available; there are 32 licensed broadcast (radio) service providers,&nbsp;31 are privately owned FM radio stations operating on New Providence, Grand Bahama Island, Abaco Island, and on smaller islands in the country; the BCB operates a multi-channel radio broadcasting network that has national coverage; the sector is regulated by the Utilities Regulation and Competition Authority (2019)"
     },
     "Internet country code": {
       "text": ".bs"
@@ -788,8 +832,7 @@
       },
       "percent of population": {
         "text": "85% (July 2018 est.)"
-      },
-      "country comparison to the world": 167
+      }
     },
     "Broadband - fixed subscriptions": {
       "total": {
@@ -797,8 +840,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "26 (2018 est.)"
-      },
-      "country comparison to the world": 125
+      }
     }
   },
   "Transportation": {
@@ -820,8 +862,9 @@
       "text": "C6 (2016)"
     },
     "Airports": {
-      "text": "54 (2020)",
-      "country comparison to the world": 85
+      "total": {
+        "text": "54 (2020)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -866,17 +909,15 @@
       },
       "unpaved": {
         "text": "1,080 km (2011)"
-      },
-      "country comparison to the world": 166
+      }
     },
     "Merchant marine": {
       "total": {
-        "text": "1,401"
+        "text": "1,381"
       },
       "by type": {
-        "text": "bulk carrier 333, container ship 49, general cargo 78, oil tanker 268, other 673 (2019)"
-      },
-      "country comparison to the world": 20
+        "text": "bulk carrier 345, container ship 53, general cargo 70, oil tanker 240, other 673 (2020)"
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -906,7 +947,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "disagrees with the US on the alignment of the northern axis of a potential maritime boundary"
+      "text": "<p>disagrees with the US on the alignment of the northern axis of a potential maritime boundary</p>"
     },
     "Illicit drugs": {
       "text": "transshipment point for cocaine and marijuana bound for US and Europe; offshore financial center"

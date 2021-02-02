@@ -23,14 +23,15 @@
       },
       "water": {
         "text": "0 sq km"
-      },
-      "country comparison to the world": 185
+      }
     },
     "Area - comparative": {
       "text": "2.5 times the size of Washington, DC"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "389 km"
@@ -64,8 +65,14 @@
       "agricultural land": {
         "text": "1.1% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "1.1% (2011 est.) / 0% (2011 est.) / 0% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 1.1% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 0% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 0% (2011 est.)"
       },
       "forest": {
         "text": "36.2% (2011 est.)"
@@ -92,8 +99,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "55,926 (July 2020 est.)",
-      "country comparison to the world": 206
+      "text": "57,196 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -138,24 +144,19 @@
       },
       "female": {
         "text": "34.4 years (2020 est.)"
-      },
-      "country comparison to the world": 90
+      }
     },
     "Population growth rate": {
-      "text": "2% (2020 est.)",
-      "country comparison to the world": 47
+      "text": "1.91% (2021 est.)"
     },
     "Birth rate": {
-      "text": "14.1 births/1,000 population (2020 est.)",
-      "country comparison to the world": 133
+      "text": "13.86 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "3.4 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 221
+      "text": "3.46 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "8.9 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 8
+      "text": "8.74 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "eight of the thirty islands are inhabited; the island of Providenciales is the most populated, but the most densely populated is Grand Turk"
@@ -196,45 +197,42 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "9.3 deaths/1,000 live births"
+        "text": "11.87 deaths/1,000 live births"
       },
       "male": {
-        "text": "11.5 deaths/1,000 live births"
+        "text": "14.9 deaths/1,000 live births"
       },
       "female": {
-        "text": "7 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 136
+        "text": "8.69 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "80.3 years"
+        "text": "80.6 years"
       },
       "male": {
-        "text": "77.6 years"
+        "text": "77.84 years"
       },
       "female": {
-        "text": "83.3 years (2020 est.)"
-      },
-      "country comparison to the world": 44
+        "text": "83.51 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "1.7 children born/woman (2020 est.)",
-      "country comparison to the world": 174
+      "text": "1.7 children born/woman (2021 est.)"
     },
     "Drinking water source": {
-      "improved": {
+      "improved: total": {
         "text": "total: 94.3% of population"
       },
-      "unimproved": {
+      "unimproved: total": {
         "text": "total: 5.7% of population (2017 est.)"
       }
     },
     "Sanitation facility access": {
-      "improved": {
+      "improved: total": {
         "text": "total: 88% of population"
       },
-      "unimproved": {
+      "unimproved: total": {
         "text": "total: 12% of population (2017)"
       }
     },
@@ -248,8 +246,7 @@
       "text": "NA"
     },
     "Education expenditures": {
-      "text": "2.9% of GDP (2018)",
-      "country comparison to the world": 139
+      "text": "2.9% of GDP (2018)"
     },
     "School life expectancy (primary to tertiary education)": {
       "total": {
@@ -297,7 +294,7 @@
       "time difference": {
         "text": "UTC-5 (same time as Washington, DC, during Standard Time)"
       },
-      "note": "etymology: named after Sir Francis Cockburn, who served as governor of the Bahamas from 1837 to 1844"
+      "note": "<br><br><strong>etymology:</strong> named after Sir Francis Cockburn, who served as governor of the Bahamas from 1837 to 1844"
     },
     "Administrative divisions": {
       "text": "none (overseas territory of the UK)"
@@ -320,7 +317,7 @@
       "text": "mixed legal system of English common law and civil law"
     },
     "Citizenship": {
-      "note": "see United Kingdom"
+      "text": "see United Kingdom"
     },
     "Suffrage": {
       "text": "18 years of age; universal"
@@ -344,7 +341,7 @@
         "text": "unicameral House of Assembly (19 seats; 15 members in multi-seat constituencies and a single all-islands constituency directly elected by simple majority vote, 1 member nominated by the premier and appointed by the governor, 1 nominated by the opposition party leader and appointed by the governor, and 2 from the Turks and Caicos Islands Civic Society directly appointed by the governor; members serve 4-year terms)"
       },
       "elections": {
-        "text": "last held on 15 December 2016 (next to be held in 2020)"
+        "text": "last held on 15 December 2016 (next to be held in February 2021)"
       },
       "election results": {
         "text": "percent of vote - NA; seats by party - PDM 10, PNP 5; composition - men 15, women 6, percent of women 28.6%"
@@ -362,16 +359,18 @@
       }
     },
     "Political parties and leaders": {
-      "text": "People's Democratic Movement or PDM [Sharlene CARTWRIGHT-ROBINSON] ++ Progressive National Party or PNP [Washington MISICK]"
+      "text": "People's Democratic Movement or PDM [Sharlene CARTWRIGHT-ROBINSON]<br />Progressive National Party or PNP [Washington MISICK]"
     },
     "International organization participation": {
       "text": "Caricom (associate), CDB, Interpol (subbureau), UPU"
     },
     "Diplomatic representation in the US": {
-      "note": "none (overseas territory of the UK)"
+      "text": "none (overseas territory of the UK)"
     },
     "Diplomatic representation from the US": {
-      "text": "none (overseas territory of the UK)"
+      "embassy": {
+        "text": "none (overseas territory of the UK)"
+      }
     },
     "Flag description": {
       "text": "blue with the flag of the UK in the upper hoist-side quadrant and the colonial shield centered on the outer half of the flag; the shield is yellow and displays a conch shell, a spiny lobster, and Turk's cap cactus - three common elements of the islands' biota"
@@ -386,30 +385,56 @@
       "lyrics/music": {
         "text": "Conrad HOWELL"
       },
-      "note": "note: serves as a local anthem; as a territory of the UK, \"God Save the Queen\" is the official anthem (see United Kingdom)"
+      "note": "<p><strong>note:</strong> serves as a local anthem; as a territory of the UK, \"God Save the Queen\" is the official anthem (see United Kingdom)</p>"
     }
   },
   "Economy": {
     "Economic overview": {
       "text": "The Turks and Caicos economy is based on tourism, offshore financial services, and fishing. Most capital goods and food for domestic consumption are imported. The US is the leading source of tourists, accounting for more than three-quarters of the more than 1 million visitors that arrive annually. Three-quarters of the visitors come by ship. Major sources of government revenue also include fees from offshore financial activities and customs receipts."
     },
-    "GDP real growth rate": {
-      "text": "5.3% (2018 est.) / 4.3% (2017 est.) / 4.4% (2016 est.)",
-      "country comparison to the world": 40
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2018": {
+        "text": "5.3% (2018 est.)"
+      },
+      "Real GDP growth rate 2017": {
+        "text": "4.3% (2017 est.)"
+      },
+      "Real GDP growth rate 2016": {
+        "text": "4.4% (2016 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "4% (2017 est.) / 0.7% (2016 est.)",
-      "country comparison to the world": 169
+      "Inflation rate (consumer prices) 2017": {
+        "text": "4% (2017 est.)"
+      },
+      "Inflation rate (consumer prices) 2016": {
+        "text": "0.7% (2016 est.)"
+      }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$632 million (2007 est.) / $568.3 million (2006 est.)"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2019": {
+        "text": "$1.117 billion (2019 est.)"
+      },
+      "Real GDP (purchasing power parity) 2018": {
+        "text": "$1.06 billion (2018 est.)"
+      },
+      "Real GDP (purchasing power parity) 2017": {
+        "text": "$1.004 billion (2017 est.)"
+      }
     },
     "GDP (official exchange rate)": {
       "text": "$1.02 billion (2018 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$27,100 (2018 est.) / $25,900 (2017 est.) / $26,000 (2016 est.)",
-      "country comparison to the world": 59
+    "Real GDP per capita": {
+      "Real GDP per capita 2019": {
+        "text": "$29,253 (2019 est.)"
+      },
+      "Real GDP per capita 2018": {
+        "text": "$28,162 (2018 est.)"
+      },
+      "Real GDP per capita 2017": {
+        "text": "$27,061 (2017 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -442,28 +467,25 @@
         "text": "-56.4% (2017 est.)"
       }
     },
-    "Ease of Doing Business Index scores": {
-    },
-    "Agriculture - products": {
+    "Agricultural products": {
       "text": "corn, beans, cassava (manioc, tapioca), citrus fruits; fish"
     },
     "Industries": {
       "text": "tourism, offshore financial services"
     },
     "Industrial production growth rate": {
-      "text": "3% (2017 est.)",
-      "country comparison to the world": 106
+      "text": "3% (2017 est.)"
     },
     "Labor force": {
-      "text": "4,848 (1990 est.)",
-      "country comparison to the world": 219
+      "text": "4,848 (1990 est.)"
     },
     "Labor force - by occupation": {
-      "note": "note: about 33% in government and 20% in agriculture and fishing; significant numbers in tourism, financial, and other services"
+      "text": "<p><strong>note:</strong> about 33% in government and 20% in agriculture and fishing; significant numbers in tourism, financial, and other services</p>"
     },
     "Unemployment rate": {
-      "text": "10% (1997 est.)",
-      "country comparison to the world": 147
+      "Unemployment rate 1997": {
+        "text": "10% (1997 est.)"
+      }
     },
     "Population below poverty line": {
       "text": "NA"
@@ -488,24 +510,26 @@
       "text": "calendar year"
     },
     "Exports": {
-      "text": "$24.77 million (2008 est.)",
-      "country comparison to the world": 209
+      "Exports 2008": {
+        "text": "$24.77 million (2008 est.)"
+      }
     },
     "Exports - commodities": {
       "text": "lobster, dried and fresh conch, conch shells"
     },
     "Imports": {
-      "text": "$591.3 million (2008 est.)",
-      "country comparison to the world": 197
+      "Imports 2008": {
+        "text": "$591.3 million (2008 est.)"
+      }
     },
     "Imports - commodities": {
       "text": "food and beverages, tobacco, clothing, manufactures, construction materials"
     },
     "Debt - external": {
-      "note": "NA"
+      "text": "<p>NA</p>"
     },
     "Exchange rates": {
-      "note": "the US dollar is used"
+      "text": "<p>the US dollar is used</p>"
     }
   },
   "Energy": {
@@ -515,96 +539,73 @@
       }
     },
     "Electricity - production": {
-      "text": "235 million kWh (2016 est.)",
-      "country comparison to the world": 188
+      "text": "235 million kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "218.6 million kWh (2016 est.)",
-      "country comparison to the world": 191
+      "text": "218.6 million kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 211
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - imports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 213
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "82,000 kW (2016 est.)",
-      "country comparison to the world": 183
+      "text": "82,000 kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "100% of total installed capacity (2016 est.)",
-      "country comparison to the world": 21
+      "text": "100% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 201
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 208
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 211
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "0 bbl/day (2018 est.)",
-      "country comparison to the world": 209
+      "text": "0 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 209
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - imports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 207
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2018 est.)",
-      "country comparison to the world": 207
+      "text": "0 bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 210
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "1,420 bbl/day (2016 est.)",
-      "country comparison to the world": 200
+      "text": "1,420 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 211
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "1,369 bbl/day (2015 est.)",
-      "country comparison to the world": 196
+      "text": "1,369 bbl/day (2015 est.)"
     },
     "Natural gas - production": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 208
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 208
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 203
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 204
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "0 cu m (1 January 2014 est.)",
-      "country comparison to the world": 202
+      "text": "0 cu m (1 January 2014 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "221,800 Mt (2017 est.)",
-      "country comparison to the world": 197
+      "text": "221,800 Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -614,8 +615,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "11.12 (2019 est.)"
-      },
-      "country comparison to the world": 203
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
@@ -625,9 +625,9 @@
         "text": "full range of services available; GSM wireless service available; fixed-line teledensity 11 per 100 persons (2019)"
       },
       "international": {
-        "text": "country code - 1-649; landing point for the ARCOS fiber-optic telecommunications submarine cable providing connectivity to South and Central America, parts of the Caribbean, and the US; satellite earth station - 1 Intelsat (Atlantic Ocean) (2020)"
+        "text": "country code - 1-649;&nbsp;landing point for the&nbsp;ARCOS fiber-optic telecommunications submarine cable providing connectivity to South and Central America, parts of the Caribbean, and the US; satellite earth station - 1 Intelsat (Atlantic Ocean) (2020)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "no local terrestrial TV stations, broadcasts from the Bahamas can be received and multi-channel cable and satellite TV services are available; government-run radio network operates alongside private broadcasters with a total of about 15 stations"
@@ -649,8 +649,9 @@
       "text": "VQ-T (2016)"
     },
     "Airports": {
-      "text": "8 (2013)",
-      "country comparison to the world": 164
+      "total": {
+        "text": "8 (2013)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -686,17 +687,15 @@
       },
       "unpaved": {
         "text": "97 km (2003)"
-      },
-      "country comparison to the world": 212
+      }
     },
     "Merchant marine": {
       "total": {
-        "text": "4"
+        "text": "3"
       },
       "by type": {
-        "text": "general cargo 1, other 3 (2019)"
-      },
-      "country comparison to the world": 169
+        "text": "general cargo 1, other 2 (2020)"
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -711,7 +710,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "have received Haitians fleeing economic and civil disorder"
+      "text": "<p>have received Haitians fleeing economic and civil disorder</p>"
     },
     "Illicit drugs": {
       "text": "transshipment point for South American narcotics destined for the US and Europe"

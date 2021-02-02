@@ -23,8 +23,7 @@
       },
       "water": {
         "text": "122 sq km"
-      },
-      "country comparison to the world": 154
+      }
     },
     "Area - comparative": {
       "text": "slightly smaller than New Jersey"
@@ -69,8 +68,14 @@
       "agricultural land": {
         "text": "22.8% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "8.4% (2011 est.) / 1.3% (2011 est.) / 13.1% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 8.4% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 1.3% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 13.1% (2011 est.)"
       },
       "forest": {
         "text": "62.3% (2011 est.)"
@@ -105,8 +110,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "2,102,678 (July 2020 est.)",
-      "country comparison to the world": 148
+      "text": "2,102,106 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -165,24 +169,19 @@
       },
       "female": {
         "text": "46.6 years (2020 est.)"
-      },
-      "country comparison to the world": 11
+      }
     },
     "Population growth rate": {
-      "text": "0.01% (2020 est.)",
-      "country comparison to the world": 190
+      "text": "-0.03% (2021 est.)"
     },
     "Birth rate": {
-      "text": "8.7 births/1,000 population (2020 est.)",
-      "country comparison to the world": 211
+      "text": "8.5 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "10.3 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 32
+      "text": "10.34 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "1.5 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 54
+      "text": "1.54 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations; pockets in the mountainous northwest exhibit less density than elsewhere"
@@ -225,43 +224,51 @@
       "text": "29.4 years (2017 est.)"
     },
     "Maternal mortality rate": {
-      "text": "7 deaths/100,000 live births (2017 est.)",
-      "country comparison to the world": 156
+      "text": "7 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "1.7 deaths/1,000 live births"
+        "text": "1.53 deaths/1,000 live births"
       },
       "male": {
-        "text": "1.8 deaths/1,000 live births"
+        "text": "1.64 deaths/1,000 live births"
       },
       "female": {
-        "text": "1.6 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 227
+        "text": "1.42 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "81.4 years"
+        "text": "81.61 years"
       },
       "male": {
-        "text": "78.5 years"
+        "text": "78.73 years"
       },
       "female": {
-        "text": "84.4 years (2020 est.)"
-      },
-      "country comparison to the world": 32
+        "text": "84.6 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "1.59 children born/woman (2020 est.)",
-      "country comparison to the world": 187
+      "text": "1.59 children born/woman (2021 est.)"
     },
     "Drinking water source": {
-      "improved": {
-        "text": "urban: 100% of population / rural: 100% of population / total: 100% of population"
+      "improved: urban": {
+        "text": "urban: 100% of population"
       },
-      "unimproved": {
-        "text": "urban: 0% of population / rural: 0% of population / total: 0% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 100% of population"
+      },
+      "improved: total": {
+        "text": "total: 100% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 0% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 0% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 0% of population (2017 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -274,11 +281,23 @@
       "text": "4.5 beds/1,000 population (2017)"
     },
     "Sanitation facility access": {
-      "improved": {
-        "text": "urban: 100% of population / rural: 100% of population / total: 100% of population"
+      "improved: urban": {
+        "text": "urban: 100% of population"
       },
-      "unimproved": {
-        "text": "urban: 0% of population / rural: 0% of population / total: 0% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 100% of population"
+      },
+      "improved: total": {
+        "text": "total: 100% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 0% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 0% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 0% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -291,12 +310,10 @@
       "text": "<100 (2018 est.)"
     },
     "Obesity - adult prevalence rate": {
-      "text": "20.2% (2016)",
-      "country comparison to the world": 104
+      "text": "20.2% (2016)"
     },
     "Education expenditures": {
-      "text": "4.8% of GDP (2017)",
-      "country comparison to the world": 68
+      "text": "4.8% of GDP (2017)"
     },
     "Literacy": {
       "definition": {
@@ -332,8 +349,7 @@
       },
       "female": {
         "text": "9.6% (2018 est.)"
-      },
-      "country comparison to the world": 135
+      }
     }
   },
   "Government": {
@@ -373,10 +389,10 @@
       "daylight saving time": {
         "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
       },
-      "note": "etymology: likely related to the Slavic root \"ljub\", meaning \"to like\" or \"to love\"; by tradition, the name is related to the Slovene word \"ljubljena\" meaning \"beloved\""
+      "note": "<br><br><strong>etymology:</strong> likely related to the Slavic root \"ljub\", meaning \"to like\" or \"to love\"; by tradition, the name is related to the Slovene word \"ljubljena\" meaning \"beloved\""
     },
     "Administrative divisions": {
-      "text": "201 municipalities (obcine, singular - obcina) and 11 urban municipalities (mestne obcine, singular - mestna obcina) ++ municipalities: Ajdovscina, Ankaran, Apace, Beltinci, Benedikt, Bistrica ob Sotli, Bled, Bloke, Bohinj, Borovnica, Bovec, Braslovce, Brda, Brezice, Brezovica, Cankova, Cerklje na Gorenjskem, Cerknica, Cerkno, Cerkvenjak, Cirkulane, Crensovci, Crna na Koroskem, Crnomelj, Destrnik, Divaca, Dobje, Dobrepolje, Dobrna, Dobrova-Polhov Gradec, Dobrovnik/Dobronak, Dolenjske Toplice, Dol pri Ljubljani, Domzale, Dornava, Dravograd, Duplek, Gorenja Vas-Poljane, Gorisnica, Gorje, Gornja Radgona, Gornji Grad, Gornji Petrovci, Grad, Grosuplje, Hajdina, Hoce-Slivnica, Hodos, Horjul, Hrastnik, Hrpelje-Kozina, Idrija, Ig, Ilirska Bistrica, Ivancna Gorica, Izola/Isola, Jesenice, Jezersko, Jursinci, Kamnik, Kanal, Kidricevo, Kobarid, Kobilje, Kocevje, Komen, Komenda, Kosanjevica na Krki, Kostel, Kozje, Kranjska Gora, Krizevci, Krsko, Kungota, Kuzma, Lasko, Lenart, Lendava/Lendva, Litija, Ljubno, Ljutomer, Log-Dragomer, Logatec, Loska Dolina, Loski Potok, Lovrenc na Pohorju, Luce, Lukovica, ++ Majsperk, Makole, Markovci, Medvode, Menges, Metlika, Mezica, Miklavz na Dravskem Polju, Miren-Kostanjevica, Mirna, Mirna Pec, Mislinja, Mokronog-Trebelno, Moravce, Moravske Toplice, Mozirje, Muta, Naklo, Nazarje, Odranci, Oplotnica, Ormoz, Osilnica, Pesnica, Piran/Pirano, Pivka, Podcetrtek, Podlehnik, Podvelka, Poljcane, Polzela, Postojna, Prebold, Preddvor, Prevalje, Puconci, Race-Fram, Radece, Radenci, Radlje ob Dravi, Radovljica, Ravne na Koroskem, Razkrizje, Recica ob Savinji, Rence-Vogrsko, Ribnica, Ribnica na Pohorju, Rogaska Slatina, Rogasovci, Rogatec, Ruse, Selnica ob Dravi, Semic, Sevnica, Sezana, Slovenska Bistrica, Slovenske Konjice, Sodrazica, Solcava, Sredisce ob Dravi, Starse, Straza, Sveta Ana, Sveta Trojica v Slovenskih Goricah, Sveti Andraz v Slovenskih Goricah, Sveti Jurij ob Scavnici, Sveti Jurij v Slovenskih Goricah, Sveti Tomaz, Salovci, Sempeter-Vrtojba, Sencur, Sentilj, Sentjernej, Sentjur, Sentrupert, Skocjan, Skofja Loka, Skofljica, Smarje pri Jelsah, Smarjeske Toplice, Smartno ob Paki, Smartno pri Litiji, Sostanj, Store, Tabor, Tisina, Tolmin, Trbovlje, Trebnje, Trnovska Vas, Trzic, Trzin, Turnisce, Velika Polana, Velike Lasce, Verzej, Videm, Vipava, Vitanje, Vodice, Vojnik, Vransko, Vrhnika, Vuzenica, Zagorje ob Savi, Zalec, Zavrc, Zelezniki, Zetale, Ziri, Zirovnica, Zrece, Zuzemberk ++ urban municipalities: Celje, Koper-Capodistria, Kranj, Ljubljana, Maribor, Murska Sobota, Nova Gorica, Novo Mesto, Ptuj, Slovenj Gradec, Velenje"
+      "text": "<p>201 municipalities (obcine, singular - obcina) and 11 urban municipalities (mestne obcine, singular - mestna obcina)</p> <p><strong>municipalities:</strong> Ajdovscina, Ankaran, Apace, Beltinci, Benedikt, Bistrica ob Sotli, Bled, Bloke, Bohinj, Borovnica, Bovec, Braslovce, Brda, Brezice, Brezovica, Cankova, Cerklje na Gorenjskem, Cerknica, Cerkno, Cerkvenjak, Cirkulane, Crensovci, Crna na Koroskem, Crnomelj, Destrnik, Divaca, Dobje, Dobrepolje, Dobrna, Dobrova-Polhov Gradec, Dobrovnik/Dobronak, Dolenjske Toplice, Dol pri Ljubljani, Domzale, Dornava, Dravograd, Duplek, Gorenja Vas-Poljane, Gorisnica, Gorje, Gornja Radgona, Gornji Grad, Gornji Petrovci, Grad, Grosuplje, Hajdina, Hoce-Slivnica, Hodos, Horjul, Hrastnik, Hrpelje-Kozina, Idrija, Ig, Ilirska Bistrica, Ivancna Gorica, Izola/Isola, Jesenice, Jezersko, Jursinci, Kamnik, Kanal, Kidricevo, Kobarid, Kobilje, Kocevje, Komen, Komenda, Kosanjevica na Krki, Kostel, Kozje, Kranjska Gora, Krizevci, Krsko, Kungota, Kuzma, Lasko, Lenart, Lendava/Lendva, Litija, Ljubno, Ljutomer, Log-Dragomer, Logatec, Loska Dolina, Loski Potok, Lovrenc na Pohorju, Luce, Lukovica,</p> <p>Majsperk, Makole, Markovci, Medvode, Menges, Metlika, Mezica, Miklavz na Dravskem Polju, Miren-Kostanjevica, Mirna, Mirna Pec, Mislinja, Mokronog-Trebelno, Moravce, Moravske Toplice, Mozirje, Muta, Naklo, Nazarje, Odranci, Oplotnica, Ormoz, Osilnica, Pesnica, Piran/Pirano, Pivka, Podcetrtek, Podlehnik, Podvelka, Poljcane, Polzela, Postojna, Prebold, Preddvor, Prevalje, Puconci, Race-Fram, Radece, Radenci, Radlje ob Dravi, Radovljica, Ravne na Koroskem, Razkrizje, Recica ob Savinji, Rence-Vogrsko, Ribnica, Ribnica na Pohorju, Rogaska Slatina, Rogasovci, Rogatec, Ruse, Selnica ob Dravi, Semic, Sevnica, Sezana, Slovenska Bistrica, Slovenske Konjice, Sodrazica, Solcava, Sredisce ob Dravi, Starse, Straza, Sveta Ana, Sveta Trojica v Slovenskih Goricah, Sveti Andraz v Slovenskih Goricah, Sveti Jurij ob Scavnici, Sveti Jurij v Slovenskih Goricah, Sveti Tomaz, Salovci, Sempeter-Vrtojba, Sencur, Sentilj, Sentjernej, Sentjur, Sentrupert, Skocjan, Skofja Loka, Skofljica, Smarje pri Jelsah, Smarjeske Toplice, Smartno ob Paki, Smartno pri Litiji, Sostanj, Store, Tabor, Tisina, Tolmin, Trbovlje, Trebnje, Trnovska Vas, Trzic, Trzin, Turnisce, Velika Polana, Velike Lasce, Verzej, Videm, Vipava, Vitanje, Vodice, Vojnik, Vransko, Vrhnika, Vuzenica, Zagorje ob Savi, Zalec, Zavrc, Zelezniki, Zetale, Ziri, Zirovnica, Zrece, Zuzemberk</p> <p><strong>urban municipalities:</strong> Celje, Koper-Capodistria, Kranj, Ljubljana, Maribor, Murska Sobota, Nova Gorica, Novo Mesto, Ptuj, Slovenj Gradec, Velenje</p>"
     },
     "Independence": {
       "text": "25 June 1991 (from Yugoslavia)"
@@ -417,7 +433,7 @@
     },
     "Executive branch": {
       "chief of state": {
-        "text": "President Borut PAHOR (since 22 December 2012)"
+        "text": "&nbsp;President Borut PAHOR (since 22 December 2012)"
       },
       "head of government": {
         "text": "Prime Minister Janez JANSA (since 13 March 2020)"
@@ -434,13 +450,13 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral Parliament consists of: National Council or Drzavni Svet (40 seats; members indirectly elected by an electoral college to serve 5-year terms); note - the Council is primarily an advisory body with limited legislative powers ++ National Assembly or Drzavni Zbor (90 seats; 88 members directly elected in single-seat constituencies by proportional representation vote and 2 directly elected in special constituencies for Italian and Hungarian minorities by simple majority vote; members serve 4-year terms)"
+        "text": "bicameral Parliament consists of:<br />National Council or Drzavni Svet (40 seats; members indirectly elected by an electoral college to serve 5-year terms); note - the Council is primarily an advisory body with limited legislative powers<br /> National Assembly or Drzavni Zbor (90 seats; 88 members directly elected in single-seat constituencies by proportional representation vote and 2 directly elected in special constituencies for Italian and Hungarian minorities by simple majority vote; members serve 4-year terms)"
       },
       "elections": {
-        "text": "National Council - last held on 22 November 2017 (next to be held in 2022) ++ National Assembly - last held on 3 June 2018 (next to be held no later than 2022)"
+        "text": "<br /> National Council - last held on 22 November 2017 (next to be held in 2022)<br />National Assembly - last held on 3 June 2018 (next to be held no later than 2022)"
       },
       "election results": {
-        "text": "National Council - percent of vote by party - NA; seats by party - NA; composition - men 36, women 4, percent of women 10% ++ National Assembly - percent of vote by party - SDS 24.9%, LMS 12.7%, SD 9.9%, SMC 9.8%, Levica 9.3%, NSi 7.1%, Stranka AB 5.1%, DeSUS 4.9%, SNS 4.2%, other 12.1%; seats by party - SDS 25, LMS 13, SD 10, SMC 10, Levica 9, NSi 7, Stranka AB 5, DeSUS 5, SNS 4, Italian and Hungarian minorities 2; composition - men 68, women 22, percent of women 24.4%; note - total Parliament percent of women 20%"
+        "text": "<br /> National Council - percent of vote by party - NA; seats by party - NA; composition - men 36, women 4, percent of women 10%<br />National Assembly - percent of vote by party - SDS 24.9%, LMS 12.7%, SD 9.9%, SMC 9.8%, Levica 9.3%, NSi 7.1%, Stranka AB 5.1%, DeSUS 4.9%, SNS 4.2%, other 12.1%; seats by party - SDS 25, LMS 13, SD 10, SMC 10, Levica 9, NSi 7, Stranka AB 5, DeSUS 5, SNS 4, Italian and Hungarian minorities 2; composition - men 68, women 22, percent of women 24.4%; note - total Parliament percent of women 20%"
       }
     },
     "Judicial branch": {
@@ -455,7 +471,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Democratic Party of Pensioners of Slovenia or DeSUS [Aleksandra PIVEC] ++ List of Marjan Sarec or LMS [Marjan SAREC] ++ Modern Center Party or SMC [Miro CERAR] ++ New Slovenia or NSi [Matej TONIN] ++ Party of Alenka Bratusek or Stranka AB [Alenka BRATUSEK] (formerly Alliance of Social Liberal Democrats or ZSD and before that Alliance of Alenka Bratusek or ZaAB) ++ Slovenian Democratic Party or SDS [Janez JANSA] ++ Slovenian National Party or SNS [Zmago JELINCIC Plemeniti] ++ Social Democrats or SD [Dejan ZIDAN] ++ The Left or Levica [Luka MESEC] (successor to United Left or ZL)"
+      "text": "Democratic Party of Pensioners of Slovenia or DeSUS [Aleksandra PIVEC]<br />List of Marjan Sarec or LMS [Marjan SAREC]<br />Modern Center Party or SMC [Miro CERAR]<br />New Slovenia or NSi [Matej TONIN]<br />Party of Alenka Bratusek or Stranka AB [Alenka BRATUSEK] (formerly Alliance of Social Liberal Democrats or ZSD and before that Alliance of Alenka Bratusek or ZaAB)<br />Slovenian Democratic Party or SDS [Janez JANSA]<br />Slovenian National Party or SNS [Zmago JELINCIC Plemeniti]<br />Social Democrats or SD [Dejan ZIDAN]<br />The Left or Levica [Luka MESEC] (successor to United Left or ZL)"
     },
     "International organization participation": {
       "text": "Australia Group, BIS, CD, CE, CEI, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating state), EU, FAO, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC"
@@ -507,20 +523,34 @@
       "lyrics/music": {
         "text": "France PRESEREN/Stanko PREMRL"
       },
-      "note": "note: adopted in 1989 while still part of Yugoslavia; originally written in 1848; the full poem, whose seventh verse is used as the anthem, speaks of pan-Slavic nationalism"
+      "note": "<p><strong>note:</strong> adopted in 1989 while still part of Yugoslavia; originally written in 1848; the full poem, whose seventh verse is used as the anthem, speaks of pan-Slavic nationalism</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "With excellent infrastructure, a well-educated work force, and a strategic location between the Balkans and Western Europe, Slovenia has one of the highest per capita GDPs in Central Europe, despite having suffered a protracted recession in the 2008-09 period in the wake of the global financial crisis. Slovenia became the first 2004 EU entrant to adopt the euro (on 1 January 2007) and has experienced a stable political and economic transition. ++ ++ In March 2004, Slovenia became the first transition country to graduate from borrower status to donor partner at the World Bank. In 2007, Slovenia was invited to begin the process for joining the OECD; it became a member in 2012. From 2014 to 2016, export-led growth, fueled by demand in larger European markets, pushed annual GDP growth above 2.3%. Growth reached 5.0% in 2017 and is projected to near or reach 5% in 2018. What used to be stubbornly high unemployment fell below 5.5% in early 2018, driven by strong exports and increasing consumption that boosted labor demand. Continued fiscal consolidation through increased tax collection and social security contributions will likely result in a balanced government budget in 2019. ++ ++ Prime Minister CERAR's government took office in September 2014, pledging to press ahead with commitments to privatize a select group of state-run companies, rationalize public spending, and further stabilize the banking sector. Efforts to privatize Slovenia's largely state-owned banking sector have largely stalled, however, amid concerns about an ongoing dispute over Yugoslav-era foreign currency deposits."
+      "text": "<p>With excellent infrastructure, a well-educated work force, and a strategic location between the Balkans and Western Europe, Slovenia has one of the highest per capita GDPs in Central Europe, despite having suffered a protracted recession in the 2008-09 period in the wake of the global financial crisis. Slovenia became the first 2004 EU entrant to adopt the euro (on 1 January 2007) and has experienced a stable political and economic transition.</p> <p>&nbsp;</p> <p>In March 2004, Slovenia became the first transition country to graduate from borrower status to donor partner at the World Bank. In 2007, Slovenia was invited to begin the process for joining the OECD; it became a member in 2012. From 2014 to 2016, export-led growth, fueled by demand in larger European markets, pushed annual GDP growth above 2.3%. Growth reached 5.0% in 2017 and is projected to near or reach 5% in 2018. What used to be stubbornly high unemployment fell below 5.5% in early 2018, driven by strong exports and increasing consumption that boosted labor demand. Continued fiscal consolidation through increased tax collection and social security contributions will likely result in a balanced government budget in 2019.</p> <p>&nbsp;</p> <p>Prime Minister CERAR&rsquo;s government took office in September 2014, pledging to press ahead with commitments to privatize a select group of state-run companies, rationalize public spending, and further stabilize the banking sector. Efforts to privatize Slovenia&rsquo;s largely state-owned banking sector have largely stalled, however, amid concerns about an ongoing dispute over Yugoslav-era foreign currency deposits.</p>"
     },
-    "GDP real growth rate": {
-      "text": "2.4% (2019 est.) / 4.24% (2018 est.) / 5.14% (2017 est.)",
-      "country comparison to the world": 118
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2019": {
+        "text": "2.4% (2019 est.)"
+      },
+      "Real GDP growth rate 2018": {
+        "text": "4.24% (2018 est.)"
+      },
+      "Real GDP growth rate 2017": {
+        "text": "5.14% (2017 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "1.6% (2019 est.) / 1.7% (2018 est.) / 1.4% (2017 est.)",
-      "country comparison to the world": 96
+      "Inflation rate (consumer prices) 2019": {
+        "text": "1.6% (2019 est.)"
+      },
+      "Inflation rate (consumer prices) 2018": {
+        "text": "1.7% (2018 est.)"
+      },
+      "Inflation rate (consumer prices) 2017": {
+        "text": "1.4% (2017 est.)"
+      }
     },
     "Credit ratings": {
       "Fitch rating": {
@@ -533,21 +563,43 @@
         "text": "AA- (2019)"
       }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$67.903 billion (2019 est.) / $65.84 billion (2018 est.) / $63.003 billion (2017 est.)",
-      "note": "note: data are in 2010 dollars"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2019": {
+        "text": "$81.614 billion (2019 est.)"
+      },
+      "Real GDP (purchasing power parity) 2018": {
+        "text": "$79.095 billion (2018 est.)"
+      },
+      "Real GDP (purchasing power parity) 2017": {
+        "text": "$75.773 billion (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
     },
     "GDP (official exchange rate)": {
       "text": "$54.16 billion (2019 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$27,631 (2019 est.) / $26,802 (2018 est.) / $25,665 (2017 est.)",
-      "note": "note: data are in 2010 dollars",
-      "country comparison to the world": 58
+    "Real GDP per capita": {
+      "Real GDP per capita 2019": {
+        "text": "$39,088 (2019 est.)"
+      },
+      "Real GDP per capita 2018": {
+        "text": "$38,139 (2018 est.)"
+      },
+      "Real GDP per capita 2017": {
+        "text": "$36,670 (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
     },
     "Gross national saving": {
-      "text": "26.4% of GDP (2017 est.) / 24.2% of GDP (2016 est.) / 23.9% of GDP (2015 est.)",
-      "country comparison to the world": 49
+      "Gross national saving 2017": {
+        "text": "26.4% of GDP (2017 est.)"
+      },
+      "Gross national saving 2016": {
+        "text": "24.2% of GDP (2016 est.)"
+      },
+      "Gross national saving 2015": {
+        "text": "23.9% of GDP (2015 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -581,21 +633,21 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "text": "100.0 (2020)"
+      "Overall Ease of Doing Business score 2020": {
+        "text": "100.0 (2020)"
+      }
     },
-    "Agriculture - products": {
-      "text": "hops, wheat, coffee, corn, apples, pears; cattle, sheep, poultry"
+    "Agricultural products": {
+      "text": "milk, maize, wheat, grapes, barley, potatoes, poultry, apples, beef, pork"
     },
     "Industries": {
       "text": "ferrous metallurgy and aluminum products, lead and zinc smelting; electronics (including military electronics), trucks, automobiles, electric power equipment, wood products, textiles, chemicals, machine tools"
     },
     "Industrial production growth rate": {
-      "text": "8.6% (2017 est.)",
-      "country comparison to the world": 22
+      "text": "8.6% (2017 est.)"
     },
     "Labor force": {
-      "text": "885,000 (2020 est.)",
-      "country comparison to the world": 143
+      "text": "885,000 (2020 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -609,11 +661,23 @@
       }
     },
     "Unemployment rate": {
-      "text": "7.64% (2019 est.) / 8.25% (2018 est.)",
-      "country comparison to the world": 119
+      "Unemployment rate 2019": {
+        "text": "7.64% (2019 est.)"
+      },
+      "Unemployment rate 2018": {
+        "text": "8.25% (2018 est.)"
+      }
     },
     "Population below poverty line": {
       "text": "13.9% (2016 est.)"
+    },
+    "Gini Index coefficient - distribution of family income": {
+      "Gini Index coefficient - distribution of family income 2017": {
+        "text": "24.2 (2017 est.)"
+      },
+      "Gini Index coefficient - distribution of family income 2015": {
+        "text": "24.5 (2015)"
+      }
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
@@ -632,28 +696,41 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "43.1% (of GDP) (2017 est.)",
-      "country comparison to the world": 28
+      "text": "43.1% (of GDP) (2017 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "0% (of GDP) (2017 est.)",
-      "country comparison to the world": 46
+      "text": "0% (of GDP) (2017 est.)"
     },
     "Public debt": {
-      "text": "73.6% of GDP (2017 est.) / 78.6% of GDP (2016 est.)",
-      "note": "note: defined by the EU's Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year in the following categories of government liabilities: currency and deposits, securities other than shares excluding financial derivatives, and loans; general government sector comprises the central, state, local government, and social security funds",
-      "country comparison to the world": 44
+      "Public debt 2017": {
+        "text": "73.6% of GDP (2017 est.)"
+      },
+      "Public debt 2016": {
+        "text": "78.6% of GDP (2016 est.)"
+      },
+      "note": "<p><strong>note:</strong> defined by the EU's Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year in the following categories of government liabilities: currency and deposits, securities other than shares excluding financial derivatives, and loans; general government sector comprises the central, state, local government, and social security funds</p>"
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Current account balance": {
-      "text": "$3.05 billion (2019 est.) / $3.17 billion (2018 est.)",
-      "country comparison to the world": 34
+      "Current account balance 2019": {
+        "text": "$3.05 billion (2019 est.)"
+      },
+      "Current account balance 2018": {
+        "text": "$3.17 billion (2018 est.)"
+      }
     },
     "Exports": {
-      "text": "$49.872 billion (2019 est.) / $48.001 billion (2018 est.) / $45.096 billion (2017 est.)",
-      "country comparison to the world": 61
+      "Exports 2019": {
+        "text": "$49.872 billion (2019 est.)"
+      },
+      "Exports 2018": {
+        "text": "$48.001 billion (2018 est.)"
+      },
+      "Exports 2017": {
+        "text": "$45.096 billion (2017 est.)"
+      }
     },
     "Exports - partners": {
       "text": "Germany 18.9%, Italy 10.7%, Austria 7.4%, Croatia 7.1%, France 4.8%, Poland 4.2%, Hungary 4.2% (2017)"
@@ -662,25 +739,57 @@
       "text": "manufactured goods, machinery and transport equipment, chemicals, food"
     },
     "Imports": {
-      "text": "$45.489 billion (2019 est.) / $43.637 billion (2018 est.) / $40.625 billion (2017 est.)",
-      "country comparison to the world": 62
-    },
-    "Imports - commodities": {
-      "text": "machinery and transport equipment, manufactured goods, chemicals, fuels and lubricants, food"
+      "Imports 2019": {
+        "text": "$45.489 billion (2019 est.)"
+      },
+      "Imports 2018": {
+        "text": "$43.637 billion (2018 est.)"
+      },
+      "Imports 2017": {
+        "text": "$40.625 billion (2017 est.)"
+      }
     },
     "Imports - partners": {
       "text": "Germany 16.5%, Italy 13.5%, Austria 9.3%, Turkey 5.8%, Croatia 4.8%, China 4.5% (2017)"
     },
+    "Imports - commodities": {
+      "text": "machinery and transport equipment, manufactured goods, chemicals, fuels and lubricants, food"
+    },
     "Reserves of foreign exchange and gold": {
-      "text": "$889.9 million (31 December 2017 est.) / $853 million (31 December 2016 est.)",
-      "country comparison to the world": 135
+      "Reserves of foreign exchange and gold 31 December 2017": {
+        "text": "$889.9 million (31 December 2017 est.)"
+      },
+      "Reserves of foreign exchange and gold 31 December 2016": {
+        "text": "$853 million (31 December 2016 est.)"
+      }
     },
     "Debt - external": {
-      "text": "$46.3 billion (31 January 2017 est.) / $48.2 billion (31 January 2016 est.)",
-      "country comparison to the world": 69
+      "Debt - external 31 January 2017": {
+        "text": "$46.3 billion (31 January 2017 est.)"
+      },
+      "Debt - external 31 January 2016": {
+        "text": "$48.2 billion (31 January 2016 est.)"
+      }
     },
     "Exchange rates": {
-      "text": "euros (EUR) per US dollar - / 0.82771 (2020 est.) / 0.90338 (2019 est.) / 0.87789 (2018 est.) / 0.885 (2014 est.) / 0.7634 (2013 est.)"
+      "currency": {
+        "text": "euros (EUR) per US dollar -"
+      },
+      "Exchange rates 2020": {
+        "text": "0.82771 (2020 est.)"
+      },
+      "Exchange rates 2019": {
+        "text": "0.90338 (2019 est.)"
+      },
+      "Exchange rates 2018": {
+        "text": "0.87789 (2018 est.)"
+      },
+      "Exchange rates 2014": {
+        "text": "0.885 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "0.7634 (2013 est.)"
+      }
     }
   },
   "Energy": {
@@ -690,95 +799,73 @@
       }
     },
     "Electricity - production": {
-      "text": "15.46 billion kWh (2016 est.)",
-      "country comparison to the world": 88
+      "text": "15.46 billion kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "13.4 billion kWh (2016 est.)",
-      "country comparison to the world": 84
+      "text": "13.4 billion kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "7.972 billion kWh (2017 est.)",
-      "country comparison to the world": 26
+      "text": "7.972 billion kWh (2017 est.)"
     },
     "Electricity - imports": {
-      "text": "8.359 billion kWh (2016 est.)",
-      "country comparison to the world": 29
+      "text": "8.359 billion kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "3.536 million kW (2016 est.)",
-      "country comparison to the world": 95
+      "text": "3.536 million kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "37% of total installed capacity (2016 est.)",
-      "country comparison to the world": 173
+      "text": "37% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "20% of total installed capacity (2017 est.)",
-      "country comparison to the world": 9
+      "text": "20% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "34% of total installed capacity (2017 est.)",
-      "country comparison to the world": 63
+      "text": "34% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "9% of total installed capacity (2017 est.)",
-      "country comparison to the world": 84
+      "text": "9% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "5 bbl/day (2018 est.)",
-      "country comparison to the world": 100
+      "text": "5 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "0 bbl/day (2017 est.)",
-      "country comparison to the world": 194
+      "text": "0 bbl/day (2017 est.)"
     },
     "Crude oil - imports": {
-      "text": "0 bbl/day (2017 est.)",
-      "country comparison to the world": 196
+      "text": "0 bbl/day (2017 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2018 est.)",
-      "country comparison to the world": 196
+      "text": "0 bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "0 bbl/day (2017 est.)",
-      "country comparison to the world": 202
+      "text": "0 bbl/day (2017 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "52,140 bbl/day (2017 est.)",
-      "country comparison to the world": 102
+      "text": "52,140 bbl/day (2017 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "29,350 bbl/day (2017 est.)",
-      "country comparison to the world": 63
+      "text": "29,350 bbl/day (2017 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "93,060 bbl/day (2017 est.)",
-      "country comparison to the world": 56
+      "text": "93,060 bbl/day (2017 est.)"
     },
     "Natural gas - production": {
-      "text": "8 million cu m (2017 est.)",
-      "country comparison to the world": 94
+      "text": "8 million cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "906.1 million cu m (2017 est.)",
-      "country comparison to the world": 94
+      "text": "906.1 million cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "2.832 million cu m (2017 est.)",
-      "country comparison to the world": 55
+      "text": "2.832 million cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "906.1 million cu m (2017 est.)",
-      "country comparison to the world": 62
+      "text": "906.1 million cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
       "text": "NA cu m (2017 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "14.37 million Mt (2017 est.)",
-      "country comparison to the world": 94
+      "text": "14.37 million Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -788,8 +875,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "34.02 (2019 est.)"
-      },
-      "country comparison to the world": 84
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -797,12 +883,11 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "120.85 (2019 est.)"
-      },
-      "country comparison to the world": 146
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "well-developed telecommunications infrastructure; four mobile network operators; increase in Internet community demanding e-govt., e-commerce and e-health; govt. funds to improve broadband to more municipalities; high mobile penetration rate and therefore retaining customers with bundled products; regulatory intervention has improved telecommunications; trials for use of 5G; FttP to 90% of population by 2020 (2020)"
+        "text": "well-developed telecommunications infrastructure;&nbsp;four mobile network operators;&nbsp;increase in Internet&nbsp;community demanding e-govt., e-commerce and e-health; govt. funds to improve broadband to more municipalities; high mobile penetration rate and therefore retaining customers with bundled products;&nbsp;regulatory intervention has improved telecommunications; trials for use of 5G;&nbsp;FttP to 90% of population by 2020 (2020)"
       },
       "domestic": {
         "text": "fixed-line 34 per 100 and mobile-cellular 121 per 100 teledensity (2019)"
@@ -810,7 +895,7 @@
       "international": {
         "text": "country code - 386 (2016)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "public TV broadcaster, Radiotelevizija Slovenija (RTV), operates a system of national and regional TV stations; 35 domestic commercial TV stations operating nationally, regionally, and locally; about 60% of households are connected to multi-channel cable TV; public radio broadcaster operates 3 national and 4 regional stations; more than 75 regional and local commercial and non-commercial radio stations"
@@ -824,8 +909,7 @@
       },
       "percent of population": {
         "text": "79.75% (July 2018 est.)"
-      },
-      "country comparison to the world": 128
+      }
     },
     "Broadband - fixed subscriptions": {
       "total": {
@@ -833,8 +917,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "29 (2018 est.)"
-      },
-      "country comparison to the world": 79
+      }
     }
   },
   "Transportation": {
@@ -856,8 +939,9 @@
       "text": "S5 (2016)"
     },
     "Airports": {
-      "text": "16 (2020)",
-      "country comparison to the world": 144
+      "total": {
+        "text": "16 (2020)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -896,8 +980,7 @@
       },
       "standard gauge": {
         "text": "1,229 km 1.435-m gauge (503 km electrified) (2014)"
-      },
-      "country comparison to the world": 86
+      }
     },
     "Roadways": {
       "total": {
@@ -905,20 +988,18 @@
       },
       "paved": {
         "text": "38,985 km (includes 769 km of expressways) (2012)"
-      },
-      "country comparison to the world": 91
+      }
     },
     "Waterways": {
       "text": "(some transport on the Drava River) (2012)"
     },
     "Merchant marine": {
       "total": {
-        "text": "8"
+        "text": "9"
       },
       "by type": {
-        "text": "other 8 (2019)"
-      },
-      "country comparison to the world": 161
+        "text": "other 9 (2020)"
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -931,8 +1012,21 @@
       "text": "Slovenian Armed Forces (Slovenska Vojska, SV): structured as a combined Force Command with air, land, logistical, maritime, support, and training components (2019)"
     },
     "Military expenditures": {
-      "text": "1.04% of GDP (2019 est.) / 1.01% of GDP (2018) / 0.98% of GDP (2017) / 1.01% of GDP (2016) / 0.93% of GDP (2015)",
-      "country comparison to the world": 115
+      "Military Expenditures 2019": {
+        "text": "1.04% of GDP (2019 est.)"
+      },
+      "Military Expenditures 2018": {
+        "text": "1.01% of GDP (2018)"
+      },
+      "Military Expenditures 2017": {
+        "text": "0.98% of GDP (2017)"
+      },
+      "Military Expenditures 2016": {
+        "text": "1.01% of GDP (2016)"
+      },
+      "Military Expenditures 2015": {
+        "text": "0.93% of GDP (2015)"
+      }
     },
     "Military and security service personnel strengths": {
       "text": "the Slovenian Armed Forces have approximately 7,000 active duty troops, including ground, air, and maritime elements (June 2020)"
@@ -949,13 +1043,13 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piran Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led Slovenia to lift its objections to Croatia joining the EU; in June 2017 the arbitration panel issued a ruling on the border that Croatia has not implemented; as a member state that forms part of the EU's external border, Slovenia has implemented the strict Schengen border rules to curb illegal migration and commerce through southeastern Europe while encouraging close cross-border ties with Croatia; Slovenia continues to impose a hard border Schengen regime with Croatia, which joined the EU in 2013 but has not yet fulfilled Schengen requirements"
+      "text": "<p>since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piran Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led Slovenia to lift its objections to Croatia joining the EU; in June 2017 the arbitration panel issued a ruling on the border that Croatia has not implemented; as a member state that forms part of the EU's external border, Slovenia has implemented the strict Schengen border rules to curb illegal migration and commerce through southeastern Europe while encouraging close cross-border ties with Croatia; Slovenia continues to impose a hard border Schengen regime with Croatia, which joined the EU in 2013 but has not yet fulfilled Schengen requirements</p>"
     },
     "Refugees and internally displaced persons": {
       "stateless persons": {
         "text": "5 (2019)"
       },
-      "note": "note: 517,914 estimated refugee and migrant arrivals (January 2015-November 2020); migration through the Western Balkans has decreased significantly since March 2016; Slovenia is predominantly a transit country and hosts approximately 300 asylum seekers as of the end of June 2018"
+      "note": "<p><strong>note:&nbsp; </strong>517,914 estimated refugee and migrant arrivals (January 2015-November 2020); migration through the Western Balkans has decreased significantly since March 2016; Slovenia is predominantly a transit country and hosts approximately 300 asylum seekers as of the end of June 2018</p>"
     },
     "Illicit drugs": {
       "text": "minor transit point for cocaine and Southwest Asian heroin bound for Western Europe, and for precursor chemicals"

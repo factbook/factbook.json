@@ -24,14 +24,15 @@
       "water": {
         "text": "0 sq km"
       },
-      "note": "note: the archipelago includes 11,673 sq km of lagoon waters and encompasses the atolls of Bikini, Enewetak, Kwajalein, Majuro, Rongelap, and Utirik",
-      "country comparison to the world": 216
+      "note": "<p><strong>note:</strong> the archipelago includes 11,673 sq km of lagoon waters and encompasses the atolls of Bikini, Enewetak, Kwajalein, Majuro, Rongelap, and Utirik</p>"
     },
     "Area - comparative": {
       "text": "about the size of Washington, DC"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "370.4 km"
@@ -40,11 +41,11 @@
       "territorial sea": {
         "text": "12 nm"
       },
-      "exclusive economic zone": {
-        "text": "200 nm"
-      },
       "contiguous zone": {
         "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
       }
     },
     "Climate": {
@@ -71,8 +72,14 @@
       "agricultural land": {
         "text": "50.7% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "7.8% (2011 est.) / 31.2% (2011 est.) / 11.7% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 7.8% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 31.2% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 11.7% (2011 est.)"
       },
       "forest": {
         "text": "49.3% (2011 est.)"
@@ -107,8 +114,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "77,917 (July 2020 est.)",
-      "country comparison to the world": 199
+      "text": "78,831 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -123,10 +129,10 @@
     },
     "Languages": {
       "text": "Marshallese (official) 98.2%, other languages 1.8% (1999 census)",
-      "note": "note: English (official), widely spoken as a second language"
+      "note": "<p><strong>note:</strong> English (official), widely spoken as a second language</p>"
     },
     "Religions": {
-      "text": "Protestant 80.5% (United Church of Christ 47%, Assembly of God 16.2%, Bukot Nan Jesus 5.4%, Full Gospel 3.3%, Reformed Congressional Church 3%, Salvation Army 1.9%, Seventh Day Adventist 1.4%, Meram in Jesus 1.2%, other Protestant 1.1%), Roman Catholic 8.5%, Mormon 7%, Jehovah's Witness 1.7%, other 1.2%, none 1.1% (2011 est.)"
+      "text": "Protestant 80.5% (United Church of Christ 47%, Assembly of God 16.2%, Bukot Nan Jesus 5.4%, Full Gospel 3.3%, Reformed Congressional Church 3%, Salvation Army 1.9%, Seventh Day Adventist 1.4%, Meram in Jesus 1.2%, other Protestant 1.1%), Roman Catholic 8.5%,&nbsp;Mormon 7%, Jehovah's Witness 1.7%,&nbsp; other 1.2%, none 1.1% (2011 est.)"
     },
     "Age structure": {
       "0-14 years": {
@@ -154,24 +160,19 @@
       },
       "female": {
         "text": "23.9 years (2020 est.)"
-      },
-      "country comparison to the world": 173
+      }
     },
     "Population growth rate": {
-      "text": "1.43% (2020 est.)",
-      "country comparison to the world": 77
+      "text": "1.37% (2021 est.)"
     },
     "Birth rate": {
-      "text": "22.8 births/1,000 population (2020 est.)",
-      "country comparison to the world": 60
+      "text": "22.42 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "4.3 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 209
+      "text": "4.25 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "-4.5 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 192
+      "text": "-4.43 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "most people live in urban clusters found on many of the country's islands; more than two-thirds of the population lives on the atolls of Majuro and Ebeye"
@@ -212,38 +213,47 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "17.4 deaths/1,000 live births"
+        "text": "22.2 deaths/1,000 live births"
       },
       "male": {
-        "text": "19.7 deaths/1,000 live births"
+        "text": "25.83 deaths/1,000 live births"
       },
       "female": {
-        "text": "15.1 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 85
+        "text": "18.4 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "74.1 years"
+        "text": "74.38 years"
       },
       "male": {
-        "text": "71.8 years"
+        "text": "72.12 years"
       },
       "female": {
-        "text": "76.5 years (2020 est.)"
-      },
-      "country comparison to the world": 135
+        "text": "76.76 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "2.86 children born/woman (2020 est.)",
-      "country comparison to the world": 57
+      "text": "2.81 children born/woman (2021 est.)"
     },
     "Drinking water source": {
-      "improved": {
-        "text": "urban: 99.8% of population / rural: 99.7% of population / total: 99.8% of population"
+      "improved: urban": {
+        "text": "urban: 99.8% of population"
       },
-      "unimproved": {
-        "text": "urban: 0.2% of population / rural: 0.3% of population / total: 0.2% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 99.7% of population"
+      },
+      "improved: total": {
+        "text": "total: 99.8% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 0.2% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 0.3% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 0.2% of population (2017 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -256,11 +266,23 @@
       "text": "2.7 beds/1,000 population (2010)"
     },
     "Sanitation facility access": {
-      "improved": {
-        "text": "urban: 96.3% of population / rural: 65.4% of population / total: 89.1% of population"
+      "improved: urban": {
+        "text": "urban: 96.3% of population"
       },
-      "unimproved": {
-        "text": "urban: 15.5% of population / rural: 34.6% of population / total: 10.9% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 65.4% of population"
+      },
+      "improved: total": {
+        "text": "total: 89.1% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 15.5% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 34.6% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 10.9% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -284,12 +306,10 @@
       }
     },
     "Obesity - adult prevalence rate": {
-      "text": "52.9% (2016)",
-      "country comparison to the world": 4
+      "text": "52.9% (2016)"
     },
     "Children under the age of 5 years underweight": {
-      "text": "11.9% (2017)",
-      "country comparison to the world": 53
+      "text": "11.9% (2017)"
     },
     "Education expenditures": {
       "text": "NA"
@@ -328,8 +348,7 @@
       },
       "female": {
         "text": "8.7% (2010 est.)"
-      },
-      "country comparison to the world": 118
+      }
     }
   },
   "Government": {
@@ -369,10 +388,10 @@
       "time difference": {
         "text": "UTC+12 (17 hours ahead of Washington, DC, during Standard Time)"
       },
-      "note": "etymology: Majuro means \"two openings\" or \"two eyes\" and refers to the two major northern passages through the atoll into the Majuro lagoon"
+      "note": "<br><br><strong>etymology:</strong> Majuro means \"two openings\" or \"two eyes\" and refers to the two major northern passages through the atoll into the Majuro lagoon"
     },
     "Administrative divisions": {
-      "text": "24 municipalities; Ailinglaplap, Ailuk, Arno, Aur, Bikini & Kili, Ebon, Enewetak & Ujelang, Jabat, Jaluit, Kwajalein, Lae, Lib, Likiep, Majuro, Maloelap, Mejit, Mili, Namorik, Namu, Rongelap, Ujae, Utrik, Wotho, Wotje"
+      "text": "24 municipalities; Ailinglaplap, Ailuk, Arno, Aur, Bikini &amp; Kili, Ebon, Enewetak &amp; Ujelang, Jabat, Jaluit, Kwajalein, Lae, Lib, Likiep, Majuro, Maloelap, Mejit, Mili, Namorik, Namu, Rongelap, Ujae, Utrik, Wotho, Wotje"
     },
     "Independence": {
       "text": "21 October 1986 (from the US-administered UN trusteeship)"
@@ -413,24 +432,24 @@
     },
     "Executive branch": {
       "chief of state": {
-        "text": "President David KABUA (since 13 January 2020); note - the president is both chief of state and head of government"
+        "text": "President David KABUA&nbsp;(since&nbsp; 13 January 2020); note - the president is both chief of state and head of government"
       },
       "head of government": {
-        "text": "President David KABUA (since 13 January 2020)"
+        "text": "President David KABUA&nbsp;(since&nbsp;13 January 2020)"
       },
       "cabinet": {
         "text": "Cabinet nominated by the president from among members of the Nitijela, appointed by Nitijela speaker"
       },
       "elections/appointments": {
-        "text": "president indirectly elected by the Nitijela from among its members for a 4-year term (no term limits); election last held on 6 January 2020 (next to be held in 2024)"
+        "text": "president indirectly elected by the Nitijela from among its members for a 4-year term (no term limits); election last held on&nbsp;6 January 2020 (next to be held in 2024)"
       },
       "election results": {
-        "text": "David KABUA elected president; Parliament vote - David KABUA 20, Hilda C. HEINE 12"
+        "text": "David KABUA&nbsp;elected president; Parliament vote - David KABUA&nbsp;20, Hilda C. HEINE&nbsp;12"
       }
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral National Parliament consists of: Council of Iroij, a 12-member group of tribal leaders advises the Presidential Cabinet and reviews legislation affecting customary law or any traditional practice); members appointed to serve 1-year terms ++ Nitijela (33 seats; members in 19 single- and 5 multi-seat constituencies directly elected by simple majority vote to serve 4-year terms); note - legislative power resides in the Nitijela"
+        "text": "bicameral National Parliament consists of:<br />Council of Iroij, a 12-member group of tribal leaders advises the Presidential Cabinet and reviews legislation affecting customary law or any traditional practice); members appointed to serve 1-year terms<br />Nitijela (33 seats; members in 19 single- and 5 multi-seat constituencies directly elected by simple majority vote to serve 4-year terms); note - legislative power resides in the Nitijela"
       },
       "elections": {
         "text": "last held on 18 November 2019 (next to be held by November 2023)"
@@ -506,32 +525,52 @@
       "lyrics/music": {
         "text": "Amata KABUA"
       },
-      "note": "note: adopted 1981"
+      "note": "<p><strong>note:</strong> adopted 1981</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "US assistance and lease payments for the use of Kwajalein Atoll as a US military base are the mainstay of this small island country. Agricultural production, primarily subsistence, is concentrated on small farms; the most important commercial crops are coconuts and breadfruit. Industry is limited to handicrafts, tuna processing, and copra. Tourism holds some potential. The islands and atolls have few natural resources, and imports exceed exports. ++ The Marshall Islands received roughly $1 billion in aid from the US during the period 1986-2001 under the original Compact of Free Association (Compact). In 2002 and 2003, the US and the Marshall Islands renegotiated the Compact's financial package for a 20-year period, 2004 to 2024. Under the amended Compact, the Marshall Islands will receive roughly $1.5 billion in direct US assistance. Under the amended Compact, the US and Marshall Islands are also jointly funding a Trust Fund for the people of the Marshall Islands that will provide an income stream beyond 2024, when direct Compact aid ends."
+      "text": "<p>US assistance and lease payments for the use of Kwajalein Atoll as a US military base are the mainstay of this small island country. Agricultural production, primarily subsistence, is concentrated on small farms; the most important commercial crops are coconuts and breadfruit. Industry is limited to handicrafts, tuna processing, and copra. Tourism holds some potential. The islands and atolls have few natural resources, and imports exceed exports.</p><p></p><p>The Marshall Islands received roughly $1 billion in aid from the US during the period 1986-2001 under the original Compact of Free Association (Compact). In 2002 and 2003, the US and the Marshall Islands renegotiated the Compact's financial package for a 20-year period, 2004 to 2024. Under the amended Compact, the Marshall Islands will receive roughly $1.5 billion in direct US assistance. Under the amended Compact, the US and Marshall Islands are also jointly funding a Trust Fund for the people of the Marshall Islands that will provide an income stream beyond 2024, when direct Compact aid ends.</p>"
     },
-    "GDP real growth rate": {
-      "text": "2.5% (2017 est.) / 3.6% (2016 est.) / 2% (2015 est.)",
-      "country comparison to the world": 112
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2017": {
+        "text": "2.5% (2017 est.)"
+      },
+      "Real GDP growth rate 2016": {
+        "text": "3.6% (2016 est.)"
+      },
+      "Real GDP growth rate 2015": {
+        "text": "2% (2015 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "0% (2017 est.) / -1.5% (2016 est.)",
-      "country comparison to the world": 21
+      "Inflation rate (consumer prices) 2017": {
+        "text": "0% (2017 est.)"
+      },
+      "Inflation rate (consumer prices) 2016": {
+        "text": "-1.5% (2016 est.)"
+      }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$196 million (2017 est.) / $191.3 million (2016 est.) / $184.6 million (2015 est.)",
-      "note": "note: data are in 2017 dollars"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2018": {
+        "text": "$227 million (2018 est.)"
+      },
+      "Real GDP (purchasing power parity) 2017": {
+        "text": "$219 million (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2017 dollars</p>"
     },
     "GDP (official exchange rate)": {
       "text": "$222 million (2017 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$3,600 (2017 est.) / $3,500 (2016 est.) / $3,400 (2015 est.)",
-      "note": "note: data are in 2017 dollars",
-      "country comparison to the world": 172
+    "Real GDP per capita": {
+      "Real GDP per capita 2018": {
+        "text": "$3,889 (2018 est.)"
+      },
+      "Real GDP per capita 2017": {
+        "text": "$3,776 (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2017 dollars</p>"
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -562,10 +601,12 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "text": "88.4 (2020)"
+      "Overall Ease of Doing Business score 2020": {
+        "text": "88.4 (2020)"
+      }
     },
-    "Agriculture - products": {
-      "text": "coconuts, tomatoes, melons, taro, breadfruit, fruits; pigs, chickens"
+    "Agricultural products": {
+      "text": "coconuts"
     },
     "Industries": {
       "text": "copra, tuna processing, tourism, craft items (from seashells, wood, and pearls)"
@@ -574,8 +615,7 @@
       "text": "NA"
     },
     "Labor force": {
-      "text": "10,670 (2013 est.)",
-      "country comparison to the world": 216
+      "text": "10,670 (2013 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -589,8 +629,12 @@
       }
     },
     "Unemployment rate": {
-      "text": "36% (2006 est.) / 30.9% (2000 est.)",
-      "country comparison to the world": 213
+      "Unemployment rate 2006": {
+        "text": "36% (2006 est.)"
+      },
+      "Unemployment rate 2000": {
+        "text": "30.9% (2000 est.)"
+      }
     },
     "Population below poverty line": {
       "text": "NA"
@@ -612,44 +656,59 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "52.6% (of GDP) (2013 est.)",
-      "country comparison to the world": 13
+      "text": "52.6% (of GDP) (2013 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "1.3% (of GDP) (2013 est.)",
-      "country comparison to the world": 26
+      "text": "1.3% (of GDP) (2013 est.)"
     },
     "Public debt": {
-      "text": "25.5% of GDP (2017 est.) / 30% of GDP (2016 est.)",
-      "country comparison to the world": 173
+      "Public debt 2017": {
+        "text": "25.5% of GDP (2017 est.)"
+      },
+      "Public debt 2016": {
+        "text": "30% of GDP (2016 est.)"
+      }
     },
     "Fiscal year": {
       "text": "1 October - 30 September"
     },
     "Current account balance": {
-      "text": "-$1 million (2017 est.) / $15 million (2016 est.)",
-      "country comparison to the world": 67
+      "Current account balance 2017": {
+        "text": "-$1 million (2017 est.)"
+      },
+      "Current account balance 2016": {
+        "text": "$15 million (2016 est.)"
+      }
     },
     "Exports": {
-      "text": "$0 (2013 est.)",
-      "country comparison to the world": 224
+      "Exports 2013": {
+        "text": "$0 (2013 est.)"
+      }
     },
     "Exports - commodities": {
       "text": "copra cake, coconut oil, handicrafts, fish"
     },
     "Imports": {
-      "text": "$103.8 million (2016 est.) / $133.7 million (2013 est.)",
-      "country comparison to the world": 216
+      "Imports 2016": {
+        "text": "$103.8 million (2016 est.)"
+      },
+      "Imports 2013": {
+        "text": "$133.7 million (2013 est.)"
+      }
     },
     "Imports - commodities": {
       "text": "foodstuffs, machinery and equipment, fuels, beverages, tobacco"
     },
     "Debt - external": {
-      "text": "$97.96 million (2013 est.) / $87 million (2008 est.)",
-      "country comparison to the world": 193
+      "Debt - external 2013": {
+        "text": "$97.96 million (2013 est.)"
+      },
+      "Debt - external 2008": {
+        "text": "$87 million (2008 est.)"
+      }
     },
     "Exchange rates": {
-      "note": "the US dollar is used"
+      "text": "<p>the US dollar is used</p>"
     }
   },
   "Energy": {
@@ -665,92 +724,70 @@
       }
     },
     "Electricity - production": {
-      "text": "650 million kWh (2016 est.)",
-      "country comparison to the world": 161
+      "text": "650 million kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "604.5 million kWh (2016 est.)",
-      "country comparison to the world": 167
+      "text": "604.5 million kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 168
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - imports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 172
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "52,000 kW (2016 est.)",
-      "country comparison to the world": 189
+      "text": "52,000 kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "81% of total installed capacity (2016 est.)",
-      "country comparison to the world": 80
+      "text": "81% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 140
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "19% of total installed capacity (2017 est.)",
-      "country comparison to the world": 90
+      "text": "19% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 201
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "0 bbl/day (2017 est.)",
-      "country comparison to the world": 172
+      "text": "0 bbl/day (2017 est.)"
     },
     "Crude oil - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 163
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - imports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 163
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2018 est.)",
-      "country comparison to the world": 167
+      "text": "0 bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 175
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "2,000 bbl/day (2016 est.)",
-      "country comparison to the world": 195
+      "text": "2,000 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 179
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "2,060 bbl/day (2015 est.)",
-      "country comparison to the world": 190
+      "text": "2,060 bbl/day (2015 est.)"
     },
     "Natural gas - production": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 168
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 173
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 149
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 155
+      "text": "0 cu m (2017 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "293,700 Mt (2017 est.)",
-      "country comparison to the world": 192
+      "text": "293,700 Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -760,8 +797,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "4.13 (2019 est.)"
-      },
-      "country comparison to the world": 212
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -769,12 +805,11 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "27.56 (2019 est.)"
-      },
-      "country comparison to the world": 213
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "some telecom infrastructure improvements made in recent years; modern services include fiber optic cable service, cellular, Internet, international calling, caller ID, and leased data circuits; the US Government, World Bank, UN and International Telecommunication Union (ITU), have aided in improvements and monetary aid to the islands telecom; mobile penetrations is around 30%; radio communication is especially vital to remote islands (2018)"
+        "text": "some telecom infrastructure improvements made in recent years; modern services include fiber optic cable service, cellular, Internet, international calling, caller ID, and leased data circuits;&nbsp;the US Government, World Bank, UN and International Telecommunication Union (ITU), have aided in&nbsp;improvements and monetary aid to the islands telecom; mobile penetrations is around 30%; radio communication is&nbsp;especially&nbsp;vital to remote islands (2018)"
       },
       "domestic": {
         "text": "Majuro Atoll and Ebeye and Kwajalein islands have regular, seven-digit, direct-dial telephones; other islands interconnected by high frequency radiotelephone (used mostly for government purposes) and mini-satellite telephones; fixed-line 4 per 100 persons and mobile-cellular is 28 per 100 persons (2019)"
@@ -782,7 +817,7 @@
       "international": {
         "text": "country code - 692; satellite earth stations - 2 Intelsat (Pacific Ocean); US Government satellite communications system on Kwajalein"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "no TV broadcast station; a cable network is available on Majuro with programming via videotape replay and satellite relays; 4 radio broadcast stations; American Armed Forces Radio and Television Service (AFRTS) provides satellite radio and television service to Kwajalein Atoll (2019)"
@@ -796,8 +831,7 @@
       },
       "percent of population": {
         "text": "38.7% (July 2018 est.)"
-      },
-      "country comparison to the world": 205
+      }
     },
     "Broadband - fixed subscriptions": {
       "total": {
@@ -805,8 +839,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "1 (2017 est.)"
-      },
-      "country comparison to the world": 196
+      }
     },
     "Communications - note": {
       "text": "Kwajalein hosts one of four dedicated ground antennas that assist in the operation of the Global Positioning System (GPS) navigation system (the others are at Cape Canaveral, Florida (US), on Ascension (Saint Helena, Ascension, and Tristan da Cunha), and at Diego Garcia (British Indian Ocean Territory))"
@@ -831,8 +864,9 @@
       "text": "V7 (2016)"
     },
     "Airports": {
-      "text": "15 (2013)",
-      "country comparison to the world": 147
+      "total": {
+        "text": "15 (2013)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -865,17 +899,15 @@
       },
       "unpaved": {
         "text": "1,953 km"
-      },
-      "country comparison to the world": 171
+      }
     },
     "Merchant marine": {
       "total": {
-        "text": "3,537"
+        "text": "3,683"
       },
       "by type": {
-        "text": "bulk carrier 1,537, container ship 257, general cargo 66, oil tanker 856, other 821 (2019)"
-      },
-      "country comparison to the world": 6
+        "text": "bulk carrier 1,647, container ship 249, general cargo 73, oil tanker 915, other 799 (2020)"
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -893,7 +925,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "claims US territory of Wake Island"
+      "text": "<p>claims US territory of Wake Island</p>"
     },
     "Trafficking in persons": {
       "current situation": {

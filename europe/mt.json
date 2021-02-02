@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "With a civilization that dates back thousands of years, Malta boasts some of the oldest megalithic sites in the world. Situated in the center of the Mediterranean, Malta's islands have long served as a strategic military asset, with the islands at various times having come under control of the Phoenicians, Carthaginians, Greeks, Romans,\nByzantines, Moors, Normans, Sicilians, Spanish, Knights of St. John, and the French. Most recently a British colony (since 1814), Malta gained its independence in 1964 and declared itself a republic ten years later. While under British rule, the island staunchly supported the UK through both world wars. Since about the mid-1980s, the island has transformed itself into a freight transshipment point, a financial center, and a tourist destination while its key industries moved toward more service-oriented activities. Malta became an EU member in May 2004 and began using the euro as currency in 2008."
+      "text": "With a civilization that dates back thousands of years, Malta boasts some of the oldest megalithic sites in the world. Situated in the center of the Mediterranean, Malta’s islands have long served as a strategic military asset, with the islands at various times having come under control of the Phoenicians, Carthaginians, Greeks, Romans, Byzantines, Moors, Normans, Sicilians, Spanish, Knights of St. John, and the French. Most recently a British colony (since 1814), Malta gained its independence in 1964 and declared itself a republic ten years later. While under British rule, the island staunchly supported the UK through both world wars. Since about the mid-1980s, the island has transformed itself into a freight transshipment point, a financial center, and a tourist destination while its key industries moved toward more service-oriented activities. Malta became an EU member in May 2004 and began using the euro as currency in 2008."
     }
   },
   "Geography": {
@@ -23,14 +23,15 @@
       },
       "water": {
         "text": "0 sq km"
-      },
-      "country comparison to the world": 208
+      }
     },
     "Area - comparative": {
       "text": "slightly less than twice the size of Washington, DC"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "196.8 km (excludes 56 km for the island of Gozo)"
@@ -70,8 +71,14 @@
       "agricultural land": {
         "text": "32.3% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "28.4% (2011 est.) / 3.9% (2011 est.) / 0% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 28.4% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 3.9% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 0% (2011 est.)"
       },
       "forest": {
         "text": "0.9% (2011 est.)"
@@ -106,8 +113,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "457,267 (July 2020 est.)",
-      "country comparison to the world": 174
+      "text": "460,891 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -166,24 +172,19 @@
       },
       "female": {
         "text": "43.5 years (2020 est.)"
-      },
-      "country comparison to the world": 35
+      }
     },
     "Population growth rate": {
-      "text": "0.87% (2020 est.)",
-      "country comparison to the world": 118
+      "text": "0.75% (2021 est.)"
     },
     "Birth rate": {
-      "text": "9.9 births/1,000 population (2020 est.)",
-      "country comparison to the world": 191
+      "text": "9.84 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "8.3 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 79
+      "text": "8.37 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "6.6 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 16
+      "text": "6.04 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "most of the population lives on the eastern half of Malta, the largest of the three inhabited islands"
@@ -224,46 +225,54 @@
     },
     "Mother's mean age at first birth": {
       "text": "28.9 years (2017 est.)",
-      "note": "note: data refer to the average of the different childbearing ages of first-order births"
+      "note": "<p><strong>note:</strong> data refer to the average of the different childbearing ages of first-order births</p>"
     },
     "Maternal mortality rate": {
-      "text": "6 deaths/100,000 live births (2017 est.)",
-      "country comparison to the world": 161
+      "text": "6 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "4.6 deaths/1,000 live births"
+        "text": "4.62 deaths/1,000 live births"
       },
       "male": {
-        "text": "4.5 deaths/1,000 live births"
+        "text": "4.51 deaths/1,000 live births"
       },
       "female": {
-        "text": "4.7 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 180
+        "text": "4.73 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "82.8 years"
+        "text": "83 years"
       },
       "male": {
-        "text": "80.7 years"
+        "text": "80.91 years"
       },
       "female": {
-        "text": "85 years (2020 est.)"
-      },
-      "country comparison to the world": 12
+        "text": "85.19 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "1.49 children born/woman (2020 est.)",
-      "country comparison to the world": 204
+      "text": "1.5 children born/woman (2021 est.)"
     },
     "Drinking water source": {
-      "improved": {
-        "text": "urban: 100% of population / rural: 100% of population / total: 100% of population"
+      "improved: urban": {
+        "text": "urban: 100% of population"
       },
-      "unimproved": {
-        "text": "urban: 0% of population / rural: 0% of population / total: 0% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 100% of population"
+      },
+      "improved: total": {
+        "text": "total: 100% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 0% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 0% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 0% of population (2017 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -276,16 +285,27 @@
       "text": "4.5 beds/1,000 population (2017)"
     },
     "Sanitation facility access": {
-      "improved": {
-        "text": "urban: 100% of population / rural: 100% of population / total: 100% of population"
+      "improved: urban": {
+        "text": "urban: 100% of population"
       },
-      "unimproved": {
-        "text": "urban: 0% of population / rural: 0% of population / total: 0% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 100% of population"
+      },
+      "improved: total": {
+        "text": "total: 100% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 0% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 0% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 0% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "0.1% (2016 est.)",
-      "country comparison to the world": 126
+      "text": "0.1% (2016 est.)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
       "text": "<500 (2016 est.)"
@@ -294,12 +314,10 @@
       "text": "<100 (2016 est.)"
     },
     "Obesity - adult prevalence rate": {
-      "text": "28.9% (2016)",
-      "country comparison to the world": 28
+      "text": "28.9% (2016)"
     },
     "Education expenditures": {
-      "text": "4.8% of GDP (2017)",
-      "country comparison to the world": 66
+      "text": "4.8% of GDP (2017)"
     },
     "Literacy": {
       "definition": {
@@ -335,8 +353,7 @@
       },
       "female": {
         "text": "6.8% (2018 est.)"
-      },
-      "country comparison to the world": 133
+      }
     }
   },
   "Government": {
@@ -373,7 +390,7 @@
       "daylight saving time": {
         "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
       },
-      "note": "etymology: named in honor of Jean de Valette, the Grand Master of the Order of Saint John (crusader knights), who successfully led a defense of the island from an Ottoman invasion in 1565"
+      "note": "<br><br><strong>etymology:</strong> named in honor of Jean de Valette, the Grand Master of the Order of Saint John (crusader knights), who successfully led a defense of the island from an Ottoman invasion in 1565"
     },
     "Administrative divisions": {
       "text": "68 localities (Il-lokalita); Attard, Balzan, Birgu, Birkirkara, Birzebbuga, Bormla, Dingli, Fgura, Floriana, Fontana, Ghajnsielem, Gharb, Gharghur, Ghasri, Ghaxaq, Gudja, Gzira, Hamrun, Iklin, Imdina, Imgarr, Imqabba, Imsida, Imtarfa, Isla, Kalkara, Kercem, Kirkop, Lija, Luqa, Marsa, Marsaskala, Marsaxlokk, Mellieha, Mosta, Munxar, Nadur, Naxxar, Paola, Pembroke, Pieta, Qala, Qormi, Qrendi, Rabat, Rabat (Ghawdex), Safi, San Giljan/Saint Julian, San Gwann/Saint John, San Lawrenz/Saint Lawrence, Sannat, San Pawl il-Bahar/Saint Paul's Bay, Santa Lucija/Saint Lucia, Santa Venera/Saint Venera, Siggiewi, Sliema, Swieqi, Tarxien, Ta' Xbiex, Valletta, Xaghra, Xewkija, Xghajra, Zabbar, Zebbug, Zebbug (Ghawdex), Zejtun, Zurrieq"
@@ -417,10 +434,10 @@
     },
     "Executive branch": {
       "chief of state": {
-        "text": "President George VELLA (since 4 April 2019)"
+        "text": "President George VELLA (since 4 April 2019)&nbsp;"
       },
       "head of government": {
-        "text": "Prime Minister Robert ABELA (13 January 2020)"
+        "text": "&nbsp;Prime Minister Robert ABELA (13 January 2020)&nbsp;"
       },
       "cabinet": {
         "text": "Cabinet appointed by the president on the advice of the prime minister"
@@ -455,7 +472,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Democratic Party (Partit Demokratiku) or PD [Godfrey FARRUGIA] ++ Labor Party (Partit Laburista) or PL [Joseph MUSCAT] ++ Nationalist Party (Partit Nazzjonalista) or PN [Adrian DELIA]"
+      "text": "Democratic Party (Partit Demokratiku) or PD [Godfrey FARRUGIA]<br />Labor Party (Partit Laburista) or PL [Joseph MUSCAT]<br />Nationalist Party (Partit Nazzjonalista) or PN [Adrian DELIA]"
     },
     "International organization participation": {
       "text": "Australia Group, C, CD, CE, EAPC, EBRD, ECB, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NSG, OAS (observer), OPCW, OSCE, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNIDO, Union Latina (observer), UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
@@ -504,20 +521,34 @@
       "lyrics/music": {
         "text": "Dun Karm PSAILA/Robert SAMMUT"
       },
-      "note": "note: adopted 1945; written in the form of a prayer"
+      "note": "<p><strong>note:</strong> adopted 1945; written in the form of a prayer</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "Malta's free market economy – the smallest economy in the euro-zone – relies heavily on trade in both goods and services, principally with Europe. Malta produces less than a quarter of its food needs, has limited fresh water supplies, and has few domestic energy sources. Malta's economy is dependent on foreign trade, manufacturing, and tourism. Malta joined the EU in 2004 and adopted the euro on 1 January 2008. ++ Malta has weathered the euro-zone crisis better than most EU member states due to a low debt-to-GDP ratio and financially sound banking sector. It maintains one of the lowest unemployment rates in Europe, and growth has fully recovered since the 2009 recession. In 2014 through 2016, Malta led the euro zone in growth, expanding more than 4.5% per year. ++ Malta's services sector continues to grow, with sustained growth in the financial services and online gaming sectors. Advantageous tax schemes remained attractive to foreign investors, though EU discussions of anti-tax avoidance measures have raised concerns among Malta's financial services and insurance providers, as the measures could have a significant impact on those sectors. The tourism sector also continued to grow, with 2016 showing record-breaking numbers of both air and cruise passenger arrivals. ++ Malta's GDP growth remains strong and is supported by a strong labor market. The government has implemented new programs, including free childcare, to encourage increased labor participation. The high cost of borrowing and small labor market remain potential constraints to future economic growth. Increasingly, other EU and European migrants are relocating to Malta for employment, though wages have remained low compared to other European countries. Inflation remains low."
+      "text": "<p>Malta’s free market economy – the smallest economy in the euro-zone – relies heavily on trade in both goods and services, principally with Europe. Malta produces less than a quarter of its food needs, has limited fresh water supplies, and has few domestic energy sources. Malta's economy is dependent on foreign trade, manufacturing, and tourism. Malta joined the EU in 2004 and adopted the euro on 1 January 2008.</p><p></p><p>Malta has weathered the euro-zone crisis better than most EU member states due to a low debt-to-GDP ratio and financially sound banking sector. It maintains one of the lowest unemployment rates in Europe, and growth has fully recovered since the 2009 recession. In 2014 through 2016, Malta led the euro zone in growth, expanding more than 4.5% per year.</p><p></p><p>Malta’s services sector continues to grow, with sustained growth in the financial services and online gaming sectors. Advantageous tax schemes remained attractive to foreign investors, though EU discussions of anti-tax avoidance measures have raised concerns among Malta’s financial services and insurance providers, as the measures could have a significant impact on those sectors. The tourism sector also continued to grow, with 2016 showing record-breaking numbers of both air and cruise passenger arrivals.</p><p></p><p>Malta’s GDP growth remains strong and is supported by a strong labor market. The government has implemented new programs, including free childcare, to encourage increased labor participation. The high cost of borrowing and small labor market remain potential constraints to future economic growth. Increasingly, other EU and European migrants are relocating to Malta for employment, though wages have remained low compared to other European countries. Inflation remains low.</p>"
     },
-    "GDP real growth rate": {
-      "text": "4.94% (2019 est.) / 5.17% (2018 est.) / 8.03% (2017 est.)",
-      "country comparison to the world": 49
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2019": {
+        "text": "4.94% (2019 est.)"
+      },
+      "Real GDP growth rate 2018": {
+        "text": "5.17% (2018 est.)"
+      },
+      "Real GDP growth rate 2017": {
+        "text": "8.03% (2017 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "1.6% (2019 est.) / 1.1% (2018 est.) / 1.3% (2017 est.)",
-      "country comparison to the world": 94
+      "Inflation rate (consumer prices) 2019": {
+        "text": "1.6% (2019 est.)"
+      },
+      "Inflation rate (consumer prices) 2018": {
+        "text": "1.1% (2018 est.)"
+      },
+      "Inflation rate (consumer prices) 2017": {
+        "text": "1.3% (2017 est.)"
+      }
     },
     "Credit ratings": {
       "Fitch rating": {
@@ -530,21 +561,43 @@
         "text": "A- (2016)"
       }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$21.639 billion (2019 est.) / $20.624 billion (2018 est.) / $19.609 billion (2017 est.)",
-      "note": "note: data are in 2010 dollars"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2019": {
+        "text": "$21.639 billion (2019 est.)"
+      },
+      "Real GDP (purchasing power parity) 2018": {
+        "text": "$20.624 billion (2018 est.)"
+      },
+      "Real GDP (purchasing power parity) 2017": {
+        "text": "$19.609 billion (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
     },
     "GDP (official exchange rate)": {
       "text": "$14.986 billion (2019 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$37,300 (2019 est.) / $35,642 (2018 est.) / $33,989 (2017 est.)",
-      "note": "note: data are in 2010 dollars",
-      "country comparison to the world": 46
+    "Real GDP per capita": {
+      "Real GDP per capita 2019": {
+        "text": "$37,300 (2019 est.)"
+      },
+      "Real GDP per capita 2018": {
+        "text": "$35,642 (2018 est.)"
+      },
+      "Real GDP per capita 2017": {
+        "text": "$33,989 (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
     },
     "Gross national saving": {
-      "text": "33.5% of GDP (2017 est.) / 31.8% of GDP (2016 est.) / 31.2% of GDP (2015 est.)",
-      "country comparison to the world": 22
+      "Gross national saving 2017": {
+        "text": "33.5% of GDP (2017 est.)"
+      },
+      "Gross national saving 2016": {
+        "text": "31.8% of GDP (2016 est.)"
+      },
+      "Gross national saving 2015": {
+        "text": "31.2% of GDP (2015 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -578,21 +631,21 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "text": "88.2 (2020)"
+      "Overall Ease of Doing Business score 2020": {
+        "text": "88.2 (2020)"
+      }
     },
-    "Agriculture - products": {
-      "text": "potatoes, cauliflower, grapes, wheat, barley, tomatoes, citrus, cut flowers, green peppers; pork, milk, poultry, eggs"
+    "Agricultural products": {
+      "text": "milk, tomatoes, potatoes, onions, cauliflowers, broccoli, eggplants, pork, cabbages, poultry"
     },
     "Industries": {
       "text": "tourism, electronics, ship building and repair, construction, food and beverages, pharmaceuticals, footwear, clothing, tobacco, aviation services, financial services, information technology services"
     },
     "Industrial production growth rate": {
-      "text": "-3.3% (2016 est.)",
-      "country comparison to the world": 189
+      "text": "-3.3% (2016 est.)"
     },
     "Labor force": {
-      "text": "223,000 (2019 est.)",
-      "country comparison to the world": 166
+      "text": "223,000 (2019 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -606,11 +659,23 @@
       }
     },
     "Unemployment rate": {
-      "text": "0.78% (2019 est.) / 0.89% (2018 est.)",
-      "country comparison to the world": 5
+      "Unemployment rate 2019": {
+        "text": "0.78% (2019 est.)"
+      },
+      "Unemployment rate 2018": {
+        "text": "0.89% (2018 est.)"
+      }
     },
     "Population below poverty line": {
       "text": "16.3% (2015 est.)"
+    },
+    "Gini Index coefficient - distribution of family income": {
+      "Gini Index coefficient - distribution of family income 2017": {
+        "text": "29.2 (2017 est.)"
+      },
+      "Gini Index coefficient - distribution of family income 2014": {
+        "text": "27.7 (2014)"
+      }
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
@@ -629,28 +694,41 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "40.4% (of GDP) (2017 est.)",
-      "country comparison to the world": 38
+      "text": "40.4% (of GDP) (2017 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "3.9% (of GDP) (2017 est.)",
-      "country comparison to the world": 9
+      "text": "3.9% (of GDP) (2017 est.)"
     },
     "Public debt": {
-      "text": "50.7% of GDP (2017 est.) / 56.3% of GDP (2016 est.)",
-      "note": "note: Malta reports public debt at nominal value outstanding at the end of the year, according to guidelines set out in the Maastricht Treaty for general government gross debt; the data include the following categories of government liabilities (as defined in ESA95): currency and deposits (AF.2), securities other than shares excluding financial derivatives (AF.3, excluding AF.34), and loans (AF.4); general government comprises the central, state, and local governments, and social security funds",
-      "country comparison to the world": 99
+      "Public debt 2017": {
+        "text": "50.7% of GDP (2017 est.)"
+      },
+      "Public debt 2016": {
+        "text": "56.3% of GDP (2016 est.)"
+      },
+      "note": "<p><strong>note:</strong> Malta reports public debt at nominal value outstanding at the end of the year, according to guidelines set out in the Maastricht Treaty for general government gross debt; the data include the following categories of government liabilities (as defined in ESA95): currency and deposits (AF.2), securities other than shares excluding financial derivatives (AF.3, excluding AF.34), and loans (AF.4); general government comprises the central, state, and local governments, and social security funds</p>"
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Current account balance": {
-      "text": "$1.561 billion (2019 est.) / $1.55 billion (2018 est.)",
-      "country comparison to the world": 46
+      "Current account balance 2019": {
+        "text": "$1.561 billion (2019 est.)"
+      },
+      "Current account balance 2018": {
+        "text": "$1.55 billion (2018 est.)"
+      }
     },
     "Exports": {
-      "text": "$23.868 billion (2019 est.) / $22.475 billion (2018 est.) / $22.607 billion (2017 est.)",
-      "country comparison to the world": 75
+      "Exports 2019": {
+        "text": "$23.868 billion (2019 est.)"
+      },
+      "Exports 2018": {
+        "text": "$22.475 billion (2018 est.)"
+      },
+      "Exports 2017": {
+        "text": "$22.607 billion (2017 est.)"
+      }
     },
     "Exports - partners": {
       "text": "Germany 17.3%, France 10.2%, Italy 9.4%, Singapore 5.9%, Hong Kong 5.8%, US 5.7%, Japan 4.9%, Libya 4.5% (2017)"
@@ -659,25 +737,57 @@
       "text": "machinery and mechanical appliances; mineral fuels, oils and petroleum products; pharmaceutical products; books and newspapers; aircraft/spacecraft and parts; toys, games, and sports equipment"
     },
     "Imports": {
-      "text": "$21.94 billion (2019 est.) / $20.335 billion (2018 est.) / $20.257 billion (2017 est.)",
-      "country comparison to the world": 79
-    },
-    "Imports - commodities": {
-      "text": "mineral fuels, oils and products; electrical machinery; aircraft/spacecraft and parts thereof; machinery and mechanical appliances; plastic and other semi-manufactured goods; vehicles and parts"
+      "Imports 2019": {
+        "text": "$21.94 billion (2019 est.)"
+      },
+      "Imports 2018": {
+        "text": "$20.335 billion (2018 est.)"
+      },
+      "Imports 2017": {
+        "text": "$20.257 billion (2017 est.)"
+      }
     },
     "Imports - partners": {
       "text": "Italy 23%, Germany 7.9%, UK 7.7%, Spain 5%, Canada 4.5%, US 4.3%, France 4.2% (2017)"
     },
+    "Imports - commodities": {
+      "text": "mineral fuels, oils and products; electrical machinery; aircraft/spacecraft and parts thereof; machinery and mechanical appliances; plastic and other semi-manufactured goods; vehicles and parts"
+    },
     "Reserves of foreign exchange and gold": {
-      "text": "$833 million (31 December 2017 est.) / $677.1 million (31 December 2016 est.)",
-      "country comparison to the world": 139
+      "Reserves of foreign exchange and gold 31 December 2017": {
+        "text": "$833 million (31 December 2017 est.)"
+      },
+      "Reserves of foreign exchange and gold 31 December 2016": {
+        "text": "$677.1 million (31 December 2016 est.)"
+      }
     },
     "Debt - external": {
-      "text": "$90.98 billion (September 2016 est.) / $99.02 billion (31 December 2015 est.)",
-      "country comparison to the world": 53
+      "Debt - external September 2016": {
+        "text": "$90.98 billion (September 2016 est.)"
+      },
+      "Debt - external 31 December 2015": {
+        "text": "$99.02 billion (31 December 2015 est.)"
+      }
     },
     "Exchange rates": {
-      "text": "euros (EUR) per US dollar - / 0.82771 (2020 est.) / 0.90338 (2019 est.) / 0.87789 (2018 est.) / 0.885 (2014 est.) / 0.7634 (2013 est.)"
+      "currency": {
+        "text": "euros (EUR) per US dollar -"
+      },
+      "Exchange rates 2020": {
+        "text": "0.82771 (2020 est.)"
+      },
+      "Exchange rates 2019": {
+        "text": "0.90338 (2019 est.)"
+      },
+      "Exchange rates 2018": {
+        "text": "0.87789 (2018 est.)"
+      },
+      "Exchange rates 2014": {
+        "text": "0.885 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "0.7634 (2013 est.)"
+      }
     }
   },
   "Energy": {
@@ -687,96 +797,73 @@
       }
     },
     "Electricity - production": {
-      "text": "813 million kWh (2016 est.)",
-      "country comparison to the world": 156
+      "text": "813 million kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "2.122 billion kWh (2016 est.)",
-      "country comparison to the world": 142
+      "text": "2.122 billion kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 167
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - imports": {
-      "text": "1.525 billion kWh (2016 est.)",
-      "country comparison to the world": 61
+      "text": "1.525 billion kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "575,100 kW (2016 est.)",
-      "country comparison to the world": 142
+      "text": "575,100 kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "81% of total installed capacity (2016 est.)",
-      "country comparison to the world": 79
+      "text": "81% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 139
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 186
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "19% of total installed capacity (2017 est.)",
-      "country comparison to the world": 43
+      "text": "19% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "0 bbl/day (2018 est.)",
-      "country comparison to the world": 171
+      "text": "0 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 162
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - imports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 162
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2018 est.)",
-      "country comparison to the world": 166
+      "text": "0 bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "0 bbl/day (2017 est.)",
-      "country comparison to the world": 174
+      "text": "0 bbl/day (2017 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "45,000 bbl/day (2016 est.)",
-      "country comparison to the world": 110
+      "text": "45,000 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "10,400 bbl/day (2015 est.)",
-      "country comparison to the world": 81
+      "text": "10,400 bbl/day (2015 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "52,290 bbl/day (2015 est.)",
-      "country comparison to the world": 79
+      "text": "52,290 bbl/day (2015 est.)"
     },
     "Natural gas - production": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 167
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "283.2 million cu m (2017 est.)",
-      "country comparison to the world": 102
+      "text": "283.2 million cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 148
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "311.5 million cu m (2017 est.)",
-      "country comparison to the world": 69
+      "text": "311.5 million cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "0 cu m (1 January 2014 est.)",
-      "country comparison to the world": 168
+      "text": "0 cu m (1 January 2014 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "8.141 million Mt (2017 est.)",
-      "country comparison to the world": 116
+      "text": "8.141 million Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -786,8 +873,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "58.36 (2019 est.)"
-      },
-      "country comparison to the world": 115
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -795,20 +881,19 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "144.14 (2019 est.)"
-      },
-      "country comparison to the world": 166
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "one of the most advanced telecoms in Europe, high penetration of mobile and broadband, and a way forward to expand e-commerce opportunities; stimulated by regulator measures to reduce consumer prices; extensive FttP network and investment in LTE and fiber thru 2023; launches 5G ready network (2020)"
+        "text": "one of the most advanced telecoms in Europe, high penetration of mobile and broadband, and a way forward to expand e-commerce opportunities;&nbsp;stimulated by regulator measures to reduce consumer prices; extensive FttP network and investment in LTE and fiber thru 2023; launches 5G ready network (2020)"
       },
       "domestic": {
-        "text": "fixed-line 58 per 100 persons and mobile-cellular subscribership 144 per 100 persons; automatic system featuring submarine cable and microwave radio relay between islands (2019)"
+        "text": "fixed-line 58 per 100&nbsp; persons and mobile-cellular subscribership 144 per 100 persons; automatic system featuring submarine cable and microwave radio relay between islands (2019)"
       },
       "international": {
         "text": "country code - 356; landing points for the Malta-Gozo Cable, VMSCS, GO-1 Mediterranean Cable System, Malta Italy Interconnector, Melita-1, and the Italy-Malta submarine cable connections to Italy; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "2 publicly owned TV stations, Television Malta broadcasting nationally plus an educational channel; several privately owned national television stations, 2 of which are owned by political parties; Italian and British broadcast programs are available; multi-channel cable and satellite TV services are available; publicly owned radio broadcaster operates 3 stations; roughly 20 commercial radio stations (2019)"
@@ -822,8 +907,7 @@
       },
       "percent of population": {
         "text": "81.4% (July 2018 est.)"
-      },
-      "country comparison to the world": 161
+      }
     },
     "Broadband - fixed subscriptions": {
       "total": {
@@ -831,8 +915,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "43 (2018 est.)"
-      },
-      "country comparison to the world": 110
+      }
     }
   },
   "Transportation": {
@@ -854,8 +937,9 @@
       "text": "9H (2016)"
     },
     "Airports": {
-      "text": "1 (2013)",
-      "country comparison to the world": 227
+      "total": {
+        "text": "1 (2013)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -883,17 +967,15 @@
       },
       "non-urban": {
         "text": "832 km (2001)"
-      },
-      "country comparison to the world": 169
+      }
     },
     "Merchant marine": {
       "total": {
-        "text": "2,172"
+        "text": "2,207"
       },
       "by type": {
-        "text": "bulk carrier 637, container ship 268, general cargo 253, oil tanker 412, other 602 (2019)"
-      },
-      "country comparison to the world": 11
+        "text": "bulk carrier 617, container ship 315, general cargo 240, oil tanker 422, other 613 (2020)"
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -909,8 +991,21 @@
       "text": "Armed Forces of Malta (AFM, includes land, maritime, and air elements, plus a Volunteer Reserve Force) (2020)"
     },
     "Military expenditures": {
-      "text": "0.6% of GDP (2019) / 0.5% of GDP (2018) / 0.5% of GDP (2017) / 0.5% of GDP (2016) / 0.5% of GDP (2015)",
-      "country comparison to the world": 144
+      "Military Expenditures 2019": {
+        "text": "0.6% of GDP (2019)"
+      },
+      "Military Expenditures 2018": {
+        "text": "0.5% of GDP (2018)"
+      },
+      "Military Expenditures 2017": {
+        "text": "0.5% of GDP (2017)"
+      },
+      "Military Expenditures 2016": {
+        "text": "0.5% of GDP (2016)"
+      },
+      "Military Expenditures 2015": {
+        "text": "0.5% of GDP (2015)"
+      }
     },
     "Military and security service personnel strengths": {
       "text": "the Armed Forces of Malta have approximately 2,000 active duty personnel (2019 est.)"
@@ -924,13 +1019,13 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "none"
+      "text": "<p>none</p>"
     },
     "Refugees and internally displaced persons": {
       "stateless persons": {
         "text": "11 (2018)"
       },
-      "note": "note: 7,281 estimated refugee and migrant arrivals by sea (January 2015-November 2020)"
+      "note": "<p><strong>note:</strong> 7,281 estimated refugee and migrant arrivals by sea (January 2015-November 2020)</p>"
     },
     "Illicit drugs": {
       "text": "minor transshipment point for hashish from North Africa to Western Europe"

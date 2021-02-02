@@ -23,8 +23,7 @@
       },
       "water": {
         "text": "21,140 sq km"
-      },
-      "country comparison to the world": 67
+      }
     },
     "Area - comparative": {
       "text": "about three times the size of Tennessee; slightly larger than New Mexico"
@@ -44,11 +43,11 @@
       "territorial sea": {
         "text": "12 nm"
       },
-      "exclusive economic zone": {
-        "text": "200 nm"
-      },
       "contiguous zone": {
         "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
       },
       "continental shelf": {
         "text": "200 nm or to the edge of the continental margin"
@@ -78,8 +77,14 @@
       "agricultural land": {
         "text": "34.8% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "20.6% (2011 est.) / 12.1% (2011 est.) / 2.1% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 20.6% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 12.1% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 2.1% (2011 est.)"
       },
       "forest": {
         "text": "45% (2011 est.)"
@@ -109,13 +114,12 @@
       }
     },
     "Geography - note": {
-      "note": "note 1: extending 1,650 km north to south, the country is only 50 km across at its narrowest point ++ note 2: Son Doong in Phong Nha-Ke Bang National Park is the world's largest cave (greatest cross sectional area) and is the largest known cave passage in the world by volume; it currently measures a total of 38.5 million cu m (about 1.35 billion cu ft); it connects to Thung cave (but not yet officially); when recognized, it will add an additional 1.6 million cu m in volume; Son Doong is so massive that it contains its own jungle, underground river, and localized weather system; clouds form inside the cave and spew out from its exits and two dolines (openings (sinkhole skylights) created by collapsed ceilings that allow sunlight to stream in) ++ ++"
+      "text": "<strong>note 1:</strong> extending 1,650 km north to south, the country is only 50 km across at its narrowest point <br /><br /><strong>note 2:</strong> Son Doong in Phong Nha-Ke Bang National Park is the world's largest cave (greatest cross sectional area) and is the largest known cave passage in the world by volume; it currently measures a total of 38.5 million cu m (about 1.35 billion cu ft); it connects to Thung cave (but not yet officially); when recognized, it will add an additional 1.6 million cu m in volume; Son Doong is so massive that it contains its own jungle, underground river, and localized weather system; clouds form inside the cave and spew out from its exits and two dolines (openings (sinkhole skylights) created by collapsed ceilings that allow sunlight to stream in)<br /><strong><br /></strong>"
     }
   },
   "People and Society": {
     "Population": {
-      "text": "98,721,275 (July 2020 est.)",
-      "country comparison to the world": 16
+      "text": "102,789,598 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -127,7 +131,7 @@
     },
     "Ethnic groups": {
       "text": "Kinh (Viet) 85.7%, Tay 1.9%, Thai 1.8%, Muong 1.5%, Khmer 1.5%, Mong 1.2%, Nung 1.1%, Hoa 1%, other 4.3% (2009 est.)",
-      "note": "note: 54 ethnic groups are recognized by the Vietnamese Government"
+      "note": "<p><strong>note:</strong> 54 ethnic groups are recognized by the Vietnamese Government</p>"
     },
     "Languages": {
       "text": "Vietnamese (official), English (increasingly favored as a second language), some French, Chinese, and Khmer, mountain area languages (Mon-Khmer and Malayo-Polynesian)"
@@ -175,24 +179,19 @@
       },
       "female": {
         "text": "33 years (2020 est.)"
-      },
-      "country comparison to the world": 112
+      }
     },
     "Population growth rate": {
-      "text": "0.84% (2020 est.)",
-      "country comparison to the world": 124
+      "text": "1% (2021 est.)"
     },
     "Birth rate": {
-      "text": "14.5 births/1,000 population (2020 est.)",
-      "country comparison to the world": 129
+      "text": "16.04 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "6 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 166
+      "text": "5.78 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "-0.3 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 120
+      "text": "-0.23 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "though it has one of the highest population densities in the world, the population is not evenly dispersed; clustering is heaviest along the South China Sea and Gulf of Tonkin, with the Mekong Delta (in the south) and the Red River Valley (in the north) having the largest concentrations of people"
@@ -206,7 +205,7 @@
       }
     },
     "Major urban areas - population": {
-      "text": "8.602 million Ho Chi Minh City, 4.678 million HANOI (capital), 1.618 million Can Tho, 1.300 million Hai Phong, 1.125 million Da Nang, 1.013 million Bien Hoa (2020)"
+      "text": "8.602 million Ho Chi Minh City, 4.678 million HANOI (capital), 1.618 million Can Tho, 1.300 million Hai Phong, 1.125 million&nbsp;Da Nang, 1.013 million Bien Hoa (2020)"
     },
     "Sex ratio": {
       "at birth": {
@@ -232,46 +231,54 @@
       }
     },
     "Maternal mortality rate": {
-      "text": "43 deaths/100,000 live births (2017 est.)",
-      "country comparison to the world": 100
+      "text": "43 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "15.7 deaths/1,000 live births"
+        "text": "15.09 deaths/1,000 live births"
       },
       "male": {
-        "text": "16 deaths/1,000 live births"
+        "text": "15.42 deaths/1,000 live births"
       },
       "female": {
-        "text": "15.3 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 95
+        "text": "14.71 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "74.4 years"
+        "text": "75.25 years"
       },
       "male": {
-        "text": "71.9 years"
+        "text": "72.67 years"
       },
       "female": {
-        "text": "77.1 years (2020 est.)"
-      },
-      "country comparison to the world": 132
+        "text": "78.12 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "1.77 children born/woman (2020 est.)",
-      "country comparison to the world": 156
+      "text": "2.06 children born/woman (2021 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "77.5% (2016)"
     },
     "Drinking water source": {
-      "improved": {
-        "text": "urban: 98.6% of population / rural: 92.6% of population / total: 94.7% of population"
+      "improved: urban": {
+        "text": "urban: 98.6% of population"
       },
-      "unimproved": {
-        "text": "urban: 1.4% of population / rural: 7.4% of population / total: 5.3% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 92.6% of population"
+      },
+      "improved: total": {
+        "text": "total: 94.7% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 1.4% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 7.4% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 5.3% of population (2017 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -284,24 +291,33 @@
       "text": "2.6 beds/1,000 population (2014)"
     },
     "Sanitation facility access": {
-      "improved": {
-        "text": "urban: 96.9% of population / rural: 82.1% of population / total: 87.3% of population"
+      "improved: urban": {
+        "text": "urban: 96.9% of population"
       },
-      "unimproved": {
-        "text": "urban: 3.1% of population / rural: 17.9% of population / total: 12.7% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 82.1% of population"
+      },
+      "improved: total": {
+        "text": "total: 87.3% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 3.1% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 17.9% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 12.7% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "0.3% (2019 est.)",
-      "country comparison to the world": 94
+      "text": "0.3% (2019 est.)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
-      "text": "230,000 (2019 est.)",
-      "country comparison to the world": 27
+      "text": "230,000 (2019 est.)"
     },
     "HIV/AIDS - deaths": {
-      "text": "5,000 (2019 est.)",
-      "country comparison to the world": 26
+      "text": "5,000 (2019 est.)"
     },
     "Major infectious diseases": {
       "degree of risk": {
@@ -315,16 +331,13 @@
       }
     },
     "Obesity - adult prevalence rate": {
-      "text": "2.1% (2016)",
-      "country comparison to the world": 192
+      "text": "2.1% (2016)"
     },
     "Children under the age of 5 years underweight": {
-      "text": "13.4% (2017)",
-      "country comparison to the world": 45
+      "text": "13.4% (2017)"
     },
     "Education expenditures": {
-      "text": "4.2% of GDP (2018)",
-      "country comparison to the world": 90
+      "text": "4.2% of GDP (2018)"
     },
     "Literacy": {
       "definition": {
@@ -349,8 +362,7 @@
       },
       "female": {
         "text": "7.9% (2018 est.)"
-      },
-      "country comparison to the world": 154
+      }
     }
   },
   "Government": {
@@ -387,10 +399,10 @@
       "time difference": {
         "text": "UTC+7 (12 hours ahead of Washington, DC, during Standard Time)"
       },
-      "note": "etymology: the city has had many names in its history going back to A.D. 1010 when it first became the capital of imperial Vietnam; in 1831, it received its current name of Ha Noi, meaning \"between the rivers,\" which refers to its geographic location"
+      "note": "<br><br><strong>etymology:</strong> the city has had many names in its history going back to A.D. 1010 when it first became the capital of imperial Vietnam; in 1831, it received its current name of Ha Noi, meaning \"between the rivers,\" which refers to its geographic location"
     },
     "Administrative divisions": {
-      "text": "58 provinces (tinh, singular and plural) and 5 municipalities (thanh pho, singular and plural) ++ provinces: An Giang, Bac Giang, Bac Kan, Bac Lieu, Bac Ninh, Ba Ria-Vung Tau, Ben Tre, Binh Dinh, Binh Duong, Binh Phuoc, Binh Thuan, Ca Mau, Cao Bang, Dak Lak, Dak Nong, Dien Bien, Dong Nai, Dong Thap, Gia Lai, Ha Giang, Ha Nam, Ha Tinh, Hai Duong, Hau Giang, Hoa Binh, Hung Yen, Khanh Hoa, Kien Giang, Kon Tum, Lai Chau, Lam Dong, Lang Son, Lao Cai, Long An, Nam Dinh, Nghe An, Ninh Binh, Ninh Thuan, Phu Tho, Phu Yen, Quang Binh, Quang Nam, Quang Ngai, Quang Ninh, Quang Tri, Soc Trang, Son La, Tay Ninh, Thai Binh, Thai Nguyen, Thanh Hoa, Thua Thien-Hue, Tien Giang, Tra Vinh, Tuyen Quang, Vinh Long, Vinh Phuc, Yen Bai ++ municipalities: Can Tho, Da Nang, Ha Noi (Hanoi), Hai Phong, Ho Chi Minh City (Saigon)"
+      "text": "<p>58 provinces (tinh, singular and plural) and 5 municipalities (thanh pho, singular and plural)</p> <p><strong>provinces:</strong> An Giang, Bac Giang, Bac Kan, Bac Lieu, Bac Ninh, Ba Ria-Vung Tau, Ben Tre, Binh Dinh, Binh Duong, Binh Phuoc, Binh Thuan, Ca Mau, Cao Bang, Dak Lak, Dak Nong, Dien Bien, Dong Nai, Dong Thap, Gia Lai, Ha Giang, Ha Nam, Ha Tinh, Hai Duong, Hau Giang, Hoa Binh, Hung Yen, Khanh Hoa, Kien Giang, Kon Tum, Lai Chau, Lam Dong, Lang Son, Lao Cai, Long An, Nam Dinh, Nghe An, Ninh Binh, Ninh Thuan, Phu Tho, Phu Yen, Quang Binh, Quang Nam, Quang Ngai, Quang Ninh, Quang Tri, Soc Trang, Son La, Tay Ninh, Thai Binh, Thai Nguyen, Thanh Hoa, Thua Thien-Hue, Tien Giang, Tra Vinh, Tuyen Quang, Vinh Long, Vinh Phuc, Yen Bai</p> <p><strong>municipalities:</strong> Can Tho, Da Nang, Ha Noi (Hanoi), Hai Phong, Ho Chi Minh City (Saigon)</p>"
     },
     "Independence": {
       "text": "2 September 1945 (from France)"
@@ -403,7 +415,7 @@
         "text": "several previous; latest adopted 28 November 2013, effective 1 January 2014"
       },
       "amendments": {
-        "text": "proposed by the president, by the National Assembly's Standing Committee, or by at least two thirds of the National Assembly membership; a decision to draft an amendment requires approval by at least a two-thirds majority vote of the Assembly membership, followed by the formation of a constitutional drafting committee to write a draft and collect citizens' opinions; passage requires at least two-thirds majority of the Assembly membership; the Assembly can opt to conduct a referendum"
+        "text": "proposed by the president, by the National Assembly&rsquo;s Standing Committee, or by at least two thirds of the National Assembly membership; a decision to draft an amendment requires approval by at least a two-thirds majority vote of the Assembly membership, followed by the formation of a constitutional drafting committee to write a draft and collect citizens&rsquo; opinions; passage requires at least two-thirds majority of the Assembly membership; the Assembly can opt to conduct a referendum"
       }
     },
     "Legal system": {
@@ -431,13 +443,13 @@
     },
     "Executive branch": {
       "chief of state": {
-        "text": "President Nguyen Phu TRONG (since 23 October 2018); note - President Tran Dai QUANG (since 2 April 2016) died on 21 September 2018"
+        "text": "President Nguyen Phu TRONG (since 23 October 2018); note - President Tran Dai QUANG (since 2 April 2016) died on 21 September 2018&nbsp;"
       },
       "head of government": {
-        "text": "Prime Minister Nguyen Xuan PHUC (since 7 April 2016); Deputy Prime Ministers Truong Hoa BINH (since 9 April 2016), Vuong Dinh HUE (since 9 April 2016), Vu Duc DAM (since 13 November 2013), Trinh Dinh DUNG (since 9 April 2016), Pham Binh MINH (since 13 November 2013)"
+        "text": "Prime Minister Nguyen Xuan PHUC (since 7 April 2016); Deputy Prime Ministers Truong Hoa BINH (since 9 April 2016), Vuong Dinh HUE (since 9 April 2016), Vu Duc DAM (since 13 November 2013), Trinh Dinh DUNG (since 9 April 2016), Pham Binh MINH (since 13 November 2013)&nbsp;"
       },
       "cabinet": {
-        "text": "Cabinet proposed by prime minister confirmed by the National Assembly and appointed by the president"
+        "text": "Cabinet proposed by prime minister confirmed by the National Assembly and appointed by the president&nbsp;"
       },
       "elections/appointments": {
         "text": "president indirectly elected by National Assembly from among its members for a single 5-year term; election last held on 2 April 2016 (next to be held in spring 2021); prime minister recommended by the president and confirmed by National Assembly; deputy prime ministers confirmed by the National Assembly and appointed by the president"
@@ -469,8 +481,8 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Communist Party of Vietnam or CPV [Nguyen Phu TRONG] ++",
-      "note": "note: other parties proscribed"
+      "text": "Communist Party of Vietnam or CPV [Nguyen Phu TRONG]<br />",
+      "note": "<p><strong>note:</strong> other parties proscribed</p>"
     },
     "International organization participation": {
       "text": "ADB, APEC, ARF, ASEAN, CICA, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, NAM, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
@@ -528,20 +540,31 @@
       "lyrics/music": {
         "text": "Nguyen Van CAO"
       },
-      "note": "note: adopted as the national anthem of the Democratic Republic of Vietnam in 1945; it became the national anthem of the unified Socialist Republic of Vietnam in 1976; although it consists of two verses, only the first is used as the official anthem"
+      "note": "<p><strong>note:</strong> adopted as the national anthem of the Democratic Republic of Vietnam in 1945; it became the national anthem of the unified Socialist Republic of Vietnam in 1976; although it consists of two verses, only the first is used as the official anthem</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "Vietnam is a densely populated developing country that has been transitioning since 1986 from the rigidities of a centrally planned, highly agrarian economy to a more industrial and market based economy, and it has raised incomes substantially. Vietnam exceeded its 2017 GDP growth target of 6.7% with growth of 6.8%, primarily due to unexpected increases in domestic demand, and strong manufacturing exports. ++ Vietnam has a young population, stable political system, commitment to sustainable growth, relatively low inflation, stable currency, strong FDI inflows, and strong manufacturing sector. In addition, the country is committed to continuing its global economic integration. Vietnam joined the WTO in January 2007 and concluded several free trade agreements in 2015-16, including the EU-Vietnam Free Trade Agreement (which the EU has not yet ratified), the Korean Free Trade Agreement, and the Eurasian Economic Union Free Trade Agreement. In 2017, Vietnam successfully chaired the Asia-Pacific Economic Cooperation (APEC) Conference with its key priorities including inclusive growth, innovation, strengthening small and medium enterprises, food security, and climate change. Seeking to diversify its opportunities, Vietnam also signed the Comprehensive and Progressive Agreement for the Transpacific Partnership in 2018 and continued to pursue the Regional Comprehensive Economic Partnership. ++ To continue its trajectory of strong economic growth, the government acknowledges the need to spark a ‘second wave' of reforms, including reforming state-owned-enterprises, reducing red tape, increasing business sector transparency, reducing the level of non-performing loans in the banking sector, and increasing financial sector transparency. Vietnam's public debt to GDP ratio is nearing the government mandated ceiling of 65%. ++ In 2016, Vietnam cancelled its civilian nuclear energy development program, citing public concerns about safety and the high cost of the program; it faces growing pressure on energy infrastructure. Overall, the country's infrastructure fails to meet the needs of an expanding middle class. Vietnam has demonstrated a commitment to sustainable growth over the last several years, but despite the recent speed-up in economic growth the government remains cautious about the risk of external shocks."
+      "text": "<p>Vietnam is a densely populated developing country that has been transitioning since 1986 from the rigidities of a centrally planned, highly agrarian economy to a more industrial and market based economy, and it has raised incomes substantially. Vietnam exceeded its 2017 GDP growth target of 6.7% with growth of 6.8%, primarily due to unexpected increases in domestic demand, and strong manufacturing exports.</p><p></p><p>Vietnam has a young population, stable political system, commitment to sustainable growth, relatively low inflation, stable currency, strong FDI inflows, and strong manufacturing sector. In addition, the country is committed to continuing its global economic integration. Vietnam joined the WTO in January 2007 and concluded several free trade agreements in 2015-16, including the EU-Vietnam Free Trade Agreement (which the EU has not yet ratified), the Korean Free Trade Agreement, and the Eurasian Economic Union Free Trade Agreement. In 2017, Vietnam successfully chaired the Asia-Pacific Economic Cooperation (APEC) Conference with its key priorities including inclusive growth, innovation, strengthening small and medium enterprises, food security, and climate change. Seeking to diversify its opportunities, Vietnam also signed the Comprehensive and Progressive Agreement for the Transpacific Partnership in 2018 and continued to pursue the Regional Comprehensive Economic Partnership.</p><p></p><p>To continue its trajectory of strong economic growth, the government acknowledges the need to spark a ‘second wave’ of reforms, including reforming state-owned-enterprises, reducing red tape, increasing business sector transparency, reducing the level of non-performing loans in the banking sector, and increasing financial sector transparency. Vietnam’s public debt to GDP ratio is nearing the government mandated ceiling of 65%.</p><p></p><p>In 2016, Vietnam cancelled its civilian nuclear energy development program, citing public concerns about safety and the high cost of the program; it faces growing pressure on energy infrastructure. Overall, the country’s infrastructure fails to meet the needs of an expanding middle class. Vietnam has demonstrated a commitment to sustainable growth over the last several years, but despite the recent speed-up in economic growth the government remains cautious about the risk of external shocks.</p>"
     },
-    "GDP real growth rate": {
-      "text": "6.8% (2017 est.) / 7.16% (2017 est.) / 6.2% (2016 est.)",
-      "country comparison to the world": 21
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2017": {
+        "text": "7.16% (2017 est.)"
+      },
+      "Real GDP growth rate 2016": {
+        "text": "6.2% (2016 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "2.7% (2019 est.) / 3.5% (2018 est.) / 3.5% (2017 est.)",
-      "country comparison to the world": 138
+      "Inflation rate (consumer prices) 2019": {
+        "text": "2.7% (2019 est.)"
+      },
+      "Inflation rate (consumer prices) 2018": {
+        "text": "3.5% (2018 est.)"
+      },
+      "Inflation rate (consumer prices) 2017": {
+        "text": "3.5% (2017 est.)"
+      }
     },
     "Credit ratings": {
       "Fitch rating": {
@@ -554,21 +577,43 @@
         "text": "BB (2019)"
       }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$673.484 billion (2019 est.) / $631.971 billion (2018 est.) / $591.671 billion (2017 est.)",
-      "note": "note: data are in 2017 dollars"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2019": {
+        "text": "$673.484 billion (2019 est.)"
+      },
+      "Real GDP (purchasing power parity) 2018": {
+        "text": "$631.971 billion (2018 est.)"
+      },
+      "Real GDP (purchasing power parity) 2017": {
+        "text": "$591.671 billion (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2017 dollars</p>"
     },
     "GDP (official exchange rate)": {
       "text": "$259.957 billion (2019 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$2,125 (2019 est.) / $2,014 (2018 est.) / $1,904 (2017 est.)",
-      "note": "note: data are in 2010 dollars",
-      "country comparison to the world": 188
+    "Real GDP per capita": {
+      "Real GDP per capita 2019": {
+        "text": "$2,125 (2019 est.)"
+      },
+      "Real GDP per capita 2018": {
+        "text": "$2,014 (2018 est.)"
+      },
+      "Real GDP per capita 2017": {
+        "text": "$1,904 (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
     },
     "Gross national saving": {
-      "text": "29% of GDP (2017 est.) / 29.5% of GDP (2016 est.) / 27.5% of GDP (2015 est.)",
-      "country comparison to the world": 33
+      "Gross national saving 2017": {
+        "text": "29% of GDP (2017 est.)"
+      },
+      "Gross national saving 2016": {
+        "text": "29.5% of GDP (2016 est.)"
+      },
+      "Gross national saving 2015": {
+        "text": "27.5% of GDP (2015 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -602,21 +647,21 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "text": "70.8 (2020)"
+      "Overall Ease of Doing Business score 2020": {
+        "text": "70.8 (2020)"
+      }
     },
-    "Agriculture - products": {
-      "text": "rice, coffee, rubber, tea, pepper, soybeans, cashews, sugar cane, peanuts, bananas; pork; poultry; seafood"
+    "Agricultural products": {
+      "text": "rice, vegetables, sugar cane, cassava, maize, pork, fruit, bananas, coffee, coconuts"
     },
     "Industries": {
       "text": "food processing, garments, shoes, machine-building; mining, coal, steel; cement, chemical fertilizer, glass, tires, oil, mobile phones"
     },
     "Industrial production growth rate": {
-      "text": "8% (2017 est.)",
-      "country comparison to the world": 24
+      "text": "8% (2017 est.)"
     },
     "Labor force": {
-      "text": "54.659 million (2019 est.)",
-      "country comparison to the world": 10
+      "text": "54.659 million (2019 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -630,11 +675,23 @@
       }
     },
     "Unemployment rate": {
-      "text": "3.11% (2018 est.) / 2.2% (2017 est.)",
-      "country comparison to the world": 42
+      "Unemployment rate 2018": {
+        "text": "3.11% (2018 est.)"
+      },
+      "Unemployment rate 2017": {
+        "text": "2.2% (2017 est.)"
+      }
     },
     "Population below poverty line": {
       "text": "8% (2017 est.)"
+    },
+    "Gini Index coefficient - distribution of family income": {
+      "Gini Index coefficient - distribution of family income 2018": {
+        "text": "35.7 (2018 est.)"
+      },
+      "Gini Index coefficient - distribution of family income 2008": {
+        "text": "37.6 (2008)"
+      }
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
@@ -653,28 +710,41 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "24.8% (of GDP) (2017 est.)",
-      "country comparison to the world": 119
+      "text": "24.8% (of GDP) (2017 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-6.7% (of GDP) (2017 est.)",
-      "country comparison to the world": 191
+      "text": "-6.7% (of GDP) (2017 est.)"
     },
     "Public debt": {
-      "text": "58.5% of GDP (2017 est.) / 59.9% of GDP (2016 est.)",
-      "note": "note: official data; data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions",
-      "country comparison to the world": 76
+      "Public debt 2017": {
+        "text": "58.5% of GDP (2017 est.)"
+      },
+      "Public debt 2016": {
+        "text": "59.9% of GDP (2016 est.)"
+      },
+      "note": "<p><strong>note:</strong> official data; data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions</p>"
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Current account balance": {
-      "text": "$12.478 billion (2019 est.) / $5.769 billion (2018 est.)",
-      "country comparison to the world": 22
+      "Current account balance 2019": {
+        "text": "$12.478 billion (2019 est.)"
+      },
+      "Current account balance 2018": {
+        "text": "$5.769 billion (2018 est.)"
+      }
     },
     "Exports": {
-      "text": "$248.953 billion (2019 est.) / $233.294 billion (2018 est.) / $204.169 billion (2017 est.)",
-      "country comparison to the world": 31
+      "Exports 2019": {
+        "text": "$248.953 billion (2019 est.)"
+      },
+      "Exports 2018": {
+        "text": "$233.294 billion (2018 est.)"
+      },
+      "Exports 2017": {
+        "text": "$204.169 billion (2017 est.)"
+      }
     },
     "Exports - partners": {
       "text": "US 20.1%, China 14.5%, Japan 8%, South Korea 6.8% (2017)"
@@ -683,25 +753,57 @@
       "text": "clothes, shoes, electronics, seafood, crude oil, rice, coffee, wooden products, machinery"
     },
     "Imports": {
-      "text": "$266.066 billion (2019 est.) / $245.563 billion (2018 est.) / $217.684 billion (2017 est.)",
-      "country comparison to the world": 26
-    },
-    "Imports - commodities": {
-      "text": "machinery and equipment, petroleum products, steel products, raw materials for the clothing and shoe industries, electronics, plastics, automobiles"
+      "Imports 2019": {
+        "text": "$266.066 billion (2019 est.)"
+      },
+      "Imports 2018": {
+        "text": "$245.563 billion (2018 est.)"
+      },
+      "Imports 2017": {
+        "text": "$217.684 billion (2017 est.)"
+      }
     },
     "Imports - partners": {
       "text": "China 25.8%, South Korea 20.5%, Japan 7.8%, Thailand 4.9% (2017)"
     },
+    "Imports - commodities": {
+      "text": "machinery and equipment, petroleum products, steel products, raw materials for the clothing and shoe industries, electronics, plastics, automobiles"
+    },
     "Reserves of foreign exchange and gold": {
-      "text": "$49.5 billion (31 December 2017 est.) / $36.91 billion (31 December 2016 est.)",
-      "country comparison to the world": 40
+      "Reserves of foreign exchange and gold 31 December 2017": {
+        "text": "$49.5 billion (31 December 2017 est.)"
+      },
+      "Reserves of foreign exchange and gold 31 December 2016": {
+        "text": "$36.91 billion (31 December 2016 est.)"
+      }
     },
     "Debt - external": {
-      "text": "$96.58 billion (31 December 2017 est.) / $84.34 billion (31 December 2016 est.)",
-      "country comparison to the world": 48
+      "Debt - external 31 December 2017": {
+        "text": "$96.58 billion (31 December 2017 est.)"
+      },
+      "Debt - external 31 December 2016": {
+        "text": "$84.34 billion (31 December 2016 est.)"
+      }
     },
     "Exchange rates": {
-      "text": "dong (VND) per US dollar - / 23,129 (2020 est.) / 23,171.5 (2019 est.) / 23,312.5 (2018 est.) / 21,909 (2014 est.) / 21,189 (2013 est.)"
+      "currency": {
+        "text": "dong (VND) per US dollar -"
+      },
+      "Exchange rates 2020": {
+        "text": "23,129 (2020 est.)"
+      },
+      "Exchange rates 2019": {
+        "text": "23,171.5 (2019 est.)"
+      },
+      "Exchange rates 2018": {
+        "text": "23,312.5 (2018 est.)"
+      },
+      "Exchange rates 2014": {
+        "text": "21,909 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "21,189 (2013 est.)"
+      }
     }
   },
   "Energy": {
@@ -711,96 +813,73 @@
       }
     },
     "Electricity - production": {
-      "text": "158.2 billion kWh (2016 est.)",
-      "country comparison to the world": 24
+      "text": "158.2 billion kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "143.2 billion kWh (2016 est.)",
-      "country comparison to the world": 25
+      "text": "143.2 billion kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "713 million kWh (2017 est.)",
-      "country comparison to the world": 63
+      "text": "713 million kWh (2017 est.)"
     },
     "Electricity - imports": {
-      "text": "2.733 billion kWh (2016 est.)",
-      "country comparison to the world": 51
+      "text": "2.733 billion kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "40.77 million kW (2016 est.)",
-      "country comparison to the world": 25
+      "text": "40.77 million kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "56% of total installed capacity (2016 est.)",
-      "country comparison to the world": 139
+      "text": "56% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 209
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "43% of total installed capacity (2017 est.)",
-      "country comparison to the world": 47
+      "text": "43% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "1% of total installed capacity (2017 est.)",
-      "country comparison to the world": 171
+      "text": "1% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "242,000 bbl/day (2018 est.)",
-      "country comparison to the world": 33
+      "text": "242,000 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "324,600 bbl/day (2015 est.)",
-      "country comparison to the world": 25
+      "text": "324,600 bbl/day (2015 est.)"
     },
     "Crude oil - imports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 213
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "4.4 billion bbl (1 January 2018 est.)",
-      "country comparison to the world": 25
+      "text": "4.4 billion bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "153,800 bbl/day (2015 est.)",
-      "country comparison to the world": 58
+      "text": "153,800 bbl/day (2015 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "438,000 bbl/day (2016 est.)",
-      "country comparison to the world": 35
+      "text": "438,000 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "25,620 bbl/day (2015 est.)",
-      "country comparison to the world": 67
+      "text": "25,620 bbl/day (2015 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "282,800 bbl/day (2015 est.)",
-      "country comparison to the world": 25
+      "text": "282,800 bbl/day (2015 est.)"
     },
     "Natural gas - production": {
-      "text": "8.098 billion cu m (2017 est.)",
-      "country comparison to the world": 44
+      "text": "8.098 billion cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "8.098 billion cu m (2017 est.)",
-      "country comparison to the world": 52
+      "text": "8.098 billion cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 210
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 210
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "699.4 billion cu m (1 January 2018 est.)",
-      "country comparison to the world": 27
+      "text": "699.4 billion cu m (1 January 2018 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "235.3 million Mt (2017 est.)",
-      "country comparison to the world": 29
+      "text": "235.3 million Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -810,8 +889,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "3.79 (2019 est.)"
-      },
-      "country comparison to the world": 37
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -819,20 +897,19 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "141.23 (2019 est.)"
-      },
-      "country comparison to the world": 12
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "despite being a communist country there are plans to part privatize the state's holdings in telecom companies as well as a large number of other enterprises; competition is thriving in the market place; mobile dominates over fixed-line; FttH market growing, as is e-commerce; govt. is the driving force for growth and moving towards commercializing 5G services with test licenses issued in 2019; 5 major operators; Ho Chi Minh City to become the first smart city in Vietnam with cloud computing infrastructure, big data, data centers and security-monitoring centers (2020)"
+        "text": "despite being a communist country there are&nbsp;plans to part privatize the state&rsquo;s holdings in telecom companies&nbsp;as well as a large number of other enterprises; competition is thriving in the market place; mobile dominates over fixed-line; FttH market growing, as is e-commerce; govt. is the driving force for growth and moving towards commercializing 5G services with test licenses issued in 2019;&nbsp;5 major operators; Ho Chi Minh City to become the first smart city in Vietnam with cloud computing infrastructure, big data, data centers and security-monitoring centers (2020)"
       },
       "domestic": {
         "text": "all provincial exchanges are digitalized and connected to Hanoi, Da Nang, and Ho Chi Minh City by fiber-optic cable or microwave radio relay networks; main lines have been increased, and the use of mobile telephones is growing rapidly; fixed-line 4 per 100 and mobile-cellular 141 per 100 (2019)"
       },
       "international": {
-        "text": "country code - 84; landing points for the SeaMeWe-3, APG, SJC2, AAE-1, AAG and the TGN-IA submarine cable system providing connectivity to Europe, Africa, the Middle East, Asia, Southeast Asia, Australia, and the US; satellite earth stations - 2 Intersputnik (Indian Ocean region) (2020)"
+        "text": "country code - 84; landing points for the SeaMeWe-3,&nbsp;APG, SJC2, AAE-1, AAG and the TGN-IA submarine cable system providing connectivity to Europe, Africa, the Middle East, Asia, Southeast Asia, Australia, and the US; satellite earth stations - 2 Intersputnik (Indian Ocean region) (2020)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "government controls all broadcast media exercising oversight through the Ministry of Information and Communication (MIC); government-controlled national TV provider, Vietnam Television (VTV), operates a network of several channels with regional broadcasting centers; programming is relayed nationwide via a network of provincial and municipal TV stations; law limits access to satellite TV but many households are able to access foreign programming via home satellite equipment; government-controlled Voice of Vietnam, the national radio broadcaster, broadcasts on several channels and is repeated on AM, FM, and shortwave stations throughout Vietnam (2018)"
@@ -846,8 +923,7 @@
       },
       "percent of population": {
         "text": "70.35% (July 2018 est.)"
-      },
-      "country comparison to the world": 11
+      }
     },
     "Broadband - fixed subscriptions": {
       "total": {
@@ -855,8 +931,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "13 (2018 est.)"
-      },
-      "country comparison to the world": 16
+      }
     }
   },
   "Transportation": {
@@ -878,8 +953,9 @@
       "text": "VN (2016)"
     },
     "Airports": {
-      "text": "45 (2013)",
-      "country comparison to the world": 96
+      "total": {
+        "text": "45 (2013)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -927,8 +1003,7 @@
       },
       "narrow gauge": {
         "text": "2,169 km 1.000-m gauge (2014)"
-      },
-      "country comparison to the world": 66
+      }
     },
     "Roadways": {
       "total": {
@@ -939,21 +1014,18 @@
       },
       "unpaved": {
         "text": "47,130 km (2013)"
-      },
-      "country comparison to the world": 28
+      }
     },
     "Waterways": {
-      "text": "47,130 km (30,831 km weight under 50 tons) (2011)",
-      "country comparison to the world": 4
+      "text": "47,130 km (30,831 km weight under 50 tons) (2011)"
     },
     "Merchant marine": {
       "total": {
-        "text": "1,863"
+        "text": "1,909"
       },
       "by type": {
-        "text": "bulk carrier 83, container ship 38, general cargo 1266, oil tanker 114, other 362 (2019)"
-      },
-      "country comparison to the world": 14
+        "text": "bulk carrier 102, container ship 40, general cargo 1,196, oil tanker 121, other 450 (2020)"
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -972,11 +1044,24 @@
       "text": "People's Army of Vietnam (PAVN): PAVN Ground Forces, PAVN Navy (includes naval infantry), PAVN Air Force and Air Defense, Border Defense Force, and Vietnam Coast Guard; Vietnam People's Public Security; Vietnam Civil Defense Force (2019)"
     },
     "Military expenditures": {
-      "text": "2.3% of GDP (2018) / 2.3% of GDP (2017) / 2.5% of GDP (2016) / 2.4% of GDP (2015) / 2.3% of GDP (2014)",
-      "country comparison to the world": 40
+      "Military Expenditures 2018": {
+        "text": "2.3% of GDP (2018)"
+      },
+      "Military Expenditures 2017": {
+        "text": "2.3% of GDP (2017)"
+      },
+      "Military Expenditures 2016": {
+        "text": "2.5% of GDP (2016)"
+      },
+      "Military Expenditures 2015": {
+        "text": "2.4% of GDP (2015)"
+      },
+      "Military Expenditures 2014": {
+        "text": "2.3% of GDP (2014)"
+      }
     },
     "Military and security service personnel strengths": {
-      "text": "information is limited and estimates of the size of the People's Army of Vietnam (PAVN) vary; approximately 475,000 active duty troops (405,000 ground; 40,000 naval; 30,000 air); est. 40,000 Border Defense Force and Coast Guard (2019)"
+      "text": "information is limited and estimates of the size of the People&rsquo;s Army of Vietnam (PAVN) vary; approximately 475,000 active duty troops (405,000 ground; 40,000 naval; 30,000 air); est. 40,000 Border Defense Force and Coast Guard (2019)"
     },
     "Military equipment inventories and acquisitions": {
       "text": "the PAVN is armed largely with weapons and equipment from Russia and the former Soviet Union; Russia remains the main supplier of newer PAVN military equipment, although in recent years Vietnam has begun diversifying its procurement with purchases from other countries including Belarus, India, Israel, and Ukraine (2019 est.)"
@@ -990,7 +1075,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "southeast Asian states have enhanced border surveillance to check the spread of Asian swine fever; Cambodia and Laos protest Vietnamese squatters and armed encroachments along border; Cambodia accuses Vietnam of a wide variety of illicit cross-border activities; progress on a joint development area with Cambodia is hampered by an unresolved dispute over sovereignty of offshore islands; an estimated 300,000 Vietnamese refugees reside in China; establishment of a maritime boundary with Cambodia is hampered by unresolved dispute over the sovereignty of offshore islands; the decade-long demarcation of the China-Vietnam land boundary was completed in 2009; China occupies the Paracel Islands also claimed by Vietnam and Taiwan; Brunei claims a maritime boundary extending beyond as far as a median with Vietnam, thus asserting an implicit claim to Lousia Reef; the 2002 \"Declaration on the Conduct of Parties in the South China Sea\" eased tensions but differences between the parties negotiating the Code of Conduct continue; Vietnam continues to expand construction of facilities in the Spratly Islands; in March 2005, the national oil companies of China, the Philippines, and Vietnam signed a joint accord to conduct marine seismic activities in the Spratly Islands; Economic Exclusion Zone negotiations with Indonesia are ongoing, and the two countries in Fall 2011 agreed to work together to reduce illegal fishing along their maritime boundary; in May 2018, Russia's RosneftVietnam unit started drilling at a block southeast of Vietnam which is within the area outlined by China's nine-dash line and Beijing issued a warning"
+      "text": "<p>southeast Asian states have enhanced border surveillance to check the spread of Asian swine fever; Cambodia and Laos protest Vietnamese squatters and armed encroachments along border; Cambodia accuses Vietnam of a wide variety of illicit cross-border activities; progress on a joint development area with Cambodia is hampered by an unresolved dispute over sovereignty of offshore islands; an estimated 300,000 Vietnamese refugees reside in China; establishment of a maritime boundary with Cambodia is hampered by unresolved dispute over the sovereignty of offshore islands; the decade-long demarcation of the China-Vietnam land boundary was completed in 2009; China occupies the Paracel Islands also claimed by Vietnam and Taiwan; Brunei claims a maritime boundary extending beyond as far as a median with Vietnam, thus asserting an implicit claim to Lousia Reef; the 2002 \"Declaration on the Conduct of Parties in the South China Sea\" eased tensions but differences between the parties negotiating the Code of Conduct continue; Vietnam continues to expand construction of facilities in the Spratly Islands; in March 2005, the national oil companies of China, the Philippines, and Vietnam signed a joint accord to conduct marine seismic activities in the Spratly Islands; Economic Exclusion Zone negotiations with Indonesia are ongoing, and the two countries in Fall 2011 agreed to work together to reduce illegal fishing along their maritime boundary; in May 2018, Russia&rsquo;s RosneftVietnam unit started drilling at a block southeast of Vietnam which is within the area outlined by China&rsquo;s nine-dash line and Beijing issued a warning</p>"
     },
     "Refugees and internally displaced persons": {
       "stateless persons": {

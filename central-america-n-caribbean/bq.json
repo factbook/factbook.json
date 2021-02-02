@@ -23,14 +23,15 @@
       },
       "water": {
         "text": "0 sq km"
-      },
-      "country comparison to the world": 248
+      }
     },
     "Area - comparative": {
       "text": "about nine times the size of the National Mall in Washington, DC"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "8 km"
@@ -64,8 +65,14 @@
       "agricultural land": {
         "text": "0% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "0% (2011 est.) / 0% (2011 est.) / 0% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 0% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 0% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 0% (2011 est.)"
       },
       "forest": {
         "text": "0% (2011 est.)"
@@ -111,7 +118,9 @@
       "text": "the laws of the US apply where applicable"
     },
     "Diplomatic representation from the US": {
-      "text": "none (territory of the US)"
+      "embassy": {
+        "text": "none (territory of the US)"
+      }
     },
     "Flag description": {
       "text": "the flag of the US is used"
@@ -120,13 +129,11 @@
   "Economy": {
     "Economic overview": {
       "text": "Subsistence fishing and commercial trawling occur within refuge waters."
-    },
-    "Ease of Doing Business Index scores": {
     }
   },
   "Transportation": {
     "Ports and terminals": {
-      "note": "none; offshore anchorage only"
+      "text": "none; offshore anchorage only"
     }
   },
   "Military and Security": {
@@ -136,7 +143,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "claimed by Haiti, source of subsistence fishing"
+      "text": "<p>claimed by Haiti, source of subsistence fishing</p>"
     }
   }
 }

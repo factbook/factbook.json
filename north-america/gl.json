@@ -20,14 +20,15 @@
       },
       "land": {
         "text": "2,166,086 sq km (approximately 1,710,000 sq km ice-covered)"
-      },
-      "country comparison to the world": 13
+      }
     },
     "Area - comparative": {
       "text": "slightly more than three times the size of Texas"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "44,087 km"
@@ -67,8 +68,14 @@
       "agricultural land": {
         "text": "0.6% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "0% (2011 est.) / 0% (2011 est.) / 0.6% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 0% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 0% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 0.6% (2011 est.)"
       },
       "forest": {
         "text": "0% (2011 est.)"
@@ -95,8 +102,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "57,616 (July 2020 est.)",
-      "country comparison to the world": 205
+      "text": "57,799 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -108,7 +114,7 @@
     },
     "Ethnic groups": {
       "text": "Greenlandic 89.5%, Danish 7.5%, other Nordic peoples 1.1%, and other 1.9% (2020 est.)",
-      "note": "note: data represent population by country of birth"
+      "note": "<br><br><strong>note:</strong> data represent population by country of birth"
     },
     "Languages": {
       "text": "Greenlandic (West Greenlandic or Kalaallisut is the official language), Danish, English"
@@ -142,24 +148,19 @@
       },
       "female": {
         "text": "33.4 years (2020 est.)"
-      },
-      "country comparison to the world": 92
+      }
     },
     "Population growth rate": {
-      "text": "-0.08% (2020 est.)",
-      "country comparison to the world": 201
+      "text": "-0.01% (2021 est.)"
     },
     "Birth rate": {
-      "text": "14.1 births/1,000 population (2020 est.)",
-      "country comparison to the world": 132
+      "text": "13.88 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "9 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 62
+      "text": "8.88 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "-6 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 203
+      "text": "-5.07 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "settlement concentrated on the southwest shoreline, with limited settlements scattered along the remaining coast; interior is uninhabited"
@@ -200,38 +201,47 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "8.3 deaths/1,000 live births"
+        "text": "8.9 deaths/1,000 live births"
       },
       "male": {
-        "text": "9.5 deaths/1,000 live births"
+        "text": "10.43 deaths/1,000 live births"
       },
       "female": {
-        "text": "7.1 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 147
+        "text": "7.28 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "73.4 years"
+        "text": "73.71 years"
       },
       "male": {
-        "text": "70.7 years"
+        "text": "70.99 years"
       },
       "female": {
-        "text": "76.3 years (2020 est.)"
-      },
-      "country comparison to the world": 145
+        "text": "76.56 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "1.94 children born/woman (2020 est.)",
-      "country comparison to the world": 122
+      "text": "1.92 children born/woman (2021 est.)"
     },
     "Drinking water source": {
-      "improved": {
-        "text": "urban: 100% of population / rural: 100% of population / total: 100% of population"
+      "improved: urban": {
+        "text": "urban: 100% of population"
       },
-      "unimproved": {
-        "text": "urban: 0% of population / rural: 0% of population / total: 0% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 100% of population"
+      },
+      "improved: total": {
+        "text": "total: 100% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 0% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 0% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 0% of population (2017 est.)"
       }
     },
     "Physicians density": {
@@ -241,11 +251,23 @@
       "text": "14 beds/1,000 population (2016)"
     },
     "Sanitation facility access": {
-      "improved": {
-        "text": "urban: 100% of population / rural: 100% of population / total: 100% of population"
+      "improved: urban": {
+        "text": "urban: 100% of population"
       },
-      "unimproved": {
-        "text": "urban: 0% of population / rural: 0% of population / total: 0% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 100% of population"
+      },
+      "improved: total": {
+        "text": "total: 100% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 0% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 0% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 0% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -289,7 +311,7 @@
       "local short form": {
         "text": "Kalaallit Nunaat"
       },
-      "note": "note: named by Norwegian adventurer Erik THORVALDSSON (Erik the Red) in A.D. 985 in order to entice settlers to the island"
+      "note": "<p><strong>note:</strong> named by Norwegian adventurer Erik THORVALDSSON (Erik the Red) in A.D. 985 in order to entice settlers to the island</p>"
     },
     "Dependency status": {
       "text": "part of the Kingdom of Denmark; self-governing overseas administrative division of Denmark since 1979"
@@ -310,11 +332,11 @@
       "daylight saving time": {
         "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
       },
-      "note": "note: Greenland has four time zones ++ etymology: \"nuuk\" is the Inuit word for \"cape\" and refers to the city's position at the end of the Nuup Kangerlua fjord"
+      "note": "<p><strong>note:</strong> Greenland has four time zones<br /><br /><strong>etymology:</strong> \"nuuk\" is the Inuit word for \"cape\" and refers to the city's position at the end of the Nuup Kangerlua fjord</p>"
     },
     "Administrative divisions": {
       "text": "5 municipalities (kommuner, singular kommune); Avannaata, Kujalleq, Qeqertalik, Qeqqata, Sermersooq",
-      "note": "note: Northeast Greenland National Park (Kalaallit Nunaanni Nuna Eqqissisimatitaq) and the Thule Air Base in Pituffik (in northwest Greenland) are two unincorporated areas; the national park's 972,000 sq km - about 46% of the island - makes it the largest national park in the world and also the most northerly"
+      "note": "<p><strong>note:</strong> Northeast Greenland National Park (Kalaallit Nunaanni Nuna Eqqissisimatitaq) and the Thule Air Base in Pituffik (in northwest Greenland) are two unincorporated areas; the national park's 972,000 sq km - about 46% of the island - makes it the largest national park in the world and also the most northerly</p>"
     },
     "Independence": {
       "text": "none (extensive self-rule as part of the Kingdom of Denmark; foreign affairs is the responsibility of Denmark, but Greenland actively participates in international agreements relating to Greenland)"
@@ -331,7 +353,7 @@
       "text": "the laws of Denmark apply where applicable and Greenlandic law applies to other areas"
     },
     "Citizenship": {
-      "note": "see Denmark"
+      "text": "see Denmark"
     },
     "Suffrage": {
       "text": "18 years of age; universal"
@@ -355,13 +377,13 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "unicameral Parliament or Inatsisartut (31 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms) ++ Greenland elects 2 members to the Danish Parliament to serve 4-year terms"
+        "text": "unicameral Parliament or Inatsisartut (31 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)<br />Greenland elects 2 members to the Danish Parliament to serve 4-year terms"
       },
       "elections": {
-        "text": "Greenland Parliament - last held on 24 April 2018 (next to be held by 2022) ++ Greenland members to Danish Parliament - last held on 5 June 2019(next to be held by 4 June 2023)"
+        "text": "Greenland Parliament -&nbsp;last held on 24 April 2018 (next to be held by 2022)<br />Greenland members to Danish Parliament - &nbsp;last held on 5 June 2019(next to be held by 4 June 2023)"
       },
       "election results": {
-        "text": "Greenland Parliament percent of vote by party - S 27.2%, IA 25.5%, D 19.5%, PN 13.4%, A 5.9%, SA 4.1%, NQ 3.4% other 1%; seats by party - S 9, IA 8, D 6, PN 4, A 2, SA 1, NQ 1; composition - men 19, women 12, percent of women 38.7% ++ Greenland members in Danish Parliament - percent of vote by party - NA; seats by party - IA 1, S 1; composition - 2 women"
+        "text": "Greenland Parliament percent of vote by party - S 27.2%, IA 25.5%, D 19.5%, PN 13.4%, A 5.9%, SA 4.1%, NQ 3.4% other 1%; seats by party - S 9, IA 8, D 6, PN 4, A 2, SA 1, NQ 1; composition - men 19, women 12, percent of women 38.7%<br /><br />Greenland members in Danish Parliament - percent of vote by party - NA; seats by party - IA 1, S 1; composition - 2 women"
       }
     },
     "Judicial branch": {
@@ -376,16 +398,20 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Cooperation Party (Suleqatigiissitsisut or Samarbejdspartiet) or SA [Michael ROSING] ++ Democrats Party (Demokraatit) or D [Niels THOMSEN] ++ Forward Party (Siumut) or S [Kim KIELSEN] ++ Inuit Community (Inuit Ataqatigiit) or IA [Sara OLSVIG] ++ Our Country's Future (Nunatta Qitornai) or NQ [Vittus QUJAUKITSOQ] ++ Signpost Party (Partii Naleraq) or PN [Hans ENOKSEN] ++ Fellowship Party (Atassut) or A [Siverth Karl HEILMANN]"
+      "text": "Cooperation Party (Suleqatigiissitsisut or Samarbejdspartiet) or SA [Michael ROSING]<br />Democrats Party (Demokraatit) or D [Niels THOMSEN]<br />Forward Party (Siumut) or S [Kim KIELSEN]<br />Inuit Community (Inuit Ataqatigiit) or IA [Sara OLSVIG]<br />Our Country's Future (Nunatta Qitornai) or NQ [Vittus QUJAUKITSOQ]<br />Signpost Party (Partii Naleraq) or PN [Hans ENOKSEN]<br />Fellowship Party (Atassut) or A [Siverth Karl HEILMANN]"
     },
     "International organization participation": {
       "text": "Arctic Council, ICC, NC, NIB, UPU"
     },
     "Diplomatic representation in the US": {
-      "text": "none (self-governing overseas administrative division of Denmark); note - Greenland has an office in the Danish Embassy in the US; it also has offices in the Danish consulates in Chicago and New York"
+      "chief of mission": {
+        "text": "none (self-governing overseas administrative division of Denmark); note - Greenland has an office in the Danish Embassy in the US; it also has offices in the Danish consulates in Chicago and New York"
+      }
     },
     "Diplomatic representation from the US": {
-      "text": "none (self-governing overseas administrative division of Denmark)"
+      "embassy": {
+        "text": "none (self-governing overseas administrative division of Denmark)"
+      }
     },
     "Flag description": {
       "text": "two equal horizontal bands of white (top) and red with a large disk slightly to the hoist side of center - the top half of the disk is red, the bottom half is white; the design represents the sun reflecting off a field of ice; the colors are the same as those of the Danish flag and symbolize Greenland's links to the Kingdom of Denmark"
@@ -400,31 +426,57 @@
       "lyrics/music": {
         "text": "Henrik LUND/Jonathan PETERSEN"
       },
-      "note": "note: adopted 1916; the government also recognizes \"Nuna asiilasooq\" as a secondary anthem"
+      "note": "<p><strong>note:</strong> adopted 1916; the government also recognizes \"Nuna asiilasooq\" as a secondary anthem</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "Greenland's economy depends on exports of shrimp and fish, and on a substantial subsidy from the Danish Government. Fish account for over 90% of its exports, subjecting the economy to price fluctuations. The subsidy from the Danish Government is budgeted to be about $535 million in 2017, more than 50% of government revenues, and 25% of GDP. ++ The economy is expanding after a period of decline. The economy contracted between 2012 and 2014, grew by 1.7% in 2015 and by 7.7%in 2016. The expansion has been driven by larger quotas for shrimp, the predominant Greenlandic export, and also by increased activity in the construction sector, especially in Nuuk, the capital. Private consumption and tourism also are contributing to GDP growth more than in previous years. Tourism in Greenland grew annually around 20% in 2015 and 2016, largely a result of increasing numbers of cruise lines now operating in Greenland's western and southern waters during the peak summer tourism season. ++ The public sector, including publicly owned enterprises and the municipalities, plays a dominant role in Greenland's economy. During the last decade the Greenland Self Rule Government pursued conservative fiscal and monetary policies, but public pressure has increased for better schools, health care, and retirement systems. The budget was in deficit in 2014 and 2016, but public debt remains low at about 5% of GDP. The government plans a balanced budget for the 2017–20 period. ++ Significant challenges face the island, including low levels of qualified labor, geographic dispersion, lack of industry diversification, the long-term sustainability of the public budget, and a declining population due to emigration. Hydrocarbon exploration has ceased with declining oil prices. The island has potential for natural resource exploitation with rare-earth, uranium, and iron ore mineral projects proposed, but a lack of infrastructure hinders development."
+      "text": "<p>Greenland’s economy depends on exports of shrimp and fish, and on a substantial subsidy from the Danish Government. Fish account for over 90% of its exports, subjecting the economy to price fluctuations. The subsidy from the Danish Government is budgeted to be about $535 million in 2017, more than 50% of government revenues, and 25% of GDP.</p><p></p><p>The economy is expanding after a period of decline. The economy contracted between 2012 and 2014, grew by 1.7% in 2015 and by 7.7%in 2016. The expansion has been driven by larger quotas for shrimp, the predominant Greenlandic export, and also by increased activity in the construction sector, especially in Nuuk, the capital. Private consumption and tourism also are contributing to GDP growth more than in previous years. Tourism in Greenland grew annually around 20% in 2015 and 2016, largely a result of increasing numbers of cruise lines now operating in Greenland's western and southern waters during the peak summer tourism season.</p><p></p><p>The public sector, including publicly owned enterprises and the municipalities, plays a dominant role in Greenland's economy. During the last decade the Greenland Self Rule Government pursued conservative fiscal and monetary policies, but public pressure has increased for better schools, health care, and retirement systems. The budget was in deficit in 2014 and 2016, but public debt remains low at about 5% of GDP. The government plans a balanced budget for the 2017–20 period.</p><p></p><p>Significant challenges face the island, including low levels of qualified labor, geographic dispersion, lack of industry diversification, the long-term sustainability of the public budget, and a declining population due to emigration. Hydrocarbon exploration has ceased with declining oil prices. The island has potential for natural resource exploitation with rare-earth, uranium, and iron ore mineral projects proposed, but a lack of infrastructure hinders development.</p>"
     },
-    "GDP real growth rate": {
-      "text": "7.7% (2016 est.) / 1.7% (2015 est.) / -0.8% (2014 est.)",
-      "country comparison to the world": 10
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2016": {
+        "text": "7.7% (2016 est.)"
+      },
+      "Real GDP growth rate 2015": {
+        "text": "1.7% (2015 est.)"
+      },
+      "Real GDP growth rate 2014": {
+        "text": "-0.8% (2014 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "0.3% (January 2017 est.) / 1.2% (January 2016 est.)",
-      "country comparison to the world": 32
+      "Inflation rate (consumer prices) January 2017": {
+        "text": "0.3% (January 2017 est.)"
+      },
+      "Inflation rate (consumer prices) January 2016": {
+        "text": "1.2% (January 2016 est.)"
+      }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$2.413 billion (2015 est.) / $2.24 billion (2014 est.) / $2.203 billion (2013 est.)",
-      "note": "note: data are in 2015 US dollars"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2015": {
+        "text": "$2.413 billion (2015 est.)"
+      },
+      "Real GDP (purchasing power parity) 2014": {
+        "text": "$2.24 billion (2014 est.)"
+      },
+      "Real GDP (purchasing power parity) 2013": {
+        "text": "$2.203 billion (2013 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2015 US dollars</p>"
     },
     "GDP (official exchange rate)": {
       "text": "$2.221 billion (2015 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$41,800 (2015 est.) / $38,800 (2014 est.) / $38,500 (2013 est.)",
-      "country comparison to the world": 39
+    "Real GDP per capita": {
+      "Real GDP per capita 2015": {
+        "text": "$41,800 (2015 est.)"
+      },
+      "Real GDP per capita 2014": {
+        "text": "$38,800 (2014 est.)"
+      },
+      "Real GDP per capita 2013": {
+        "text": "$38,500 (2013 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -457,9 +509,7 @@
         "text": "-28.6% (2015 est.)"
       }
     },
-    "Ease of Doing Business Index scores": {
-    },
-    "Agriculture - products": {
+    "Agricultural products": {
       "text": "sheep, cattle, reindeer, fish, shellfish"
     },
     "Industries": {
@@ -469,8 +519,7 @@
       "text": "NA"
     },
     "Labor force": {
-      "text": "26,840 (2015 est.)",
-      "country comparison to the world": 206
+      "text": "26,840 (2015 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -484,11 +533,23 @@
       }
     },
     "Unemployment rate": {
-      "text": "9.1% (2015 est.) / 10.3% (2014 est.)",
-      "country comparison to the world": 140
+      "Unemployment rate 2015": {
+        "text": "9.1% (2015 est.)"
+      },
+      "Unemployment rate 2014": {
+        "text": "10.3% (2014 est.)"
+      }
     },
     "Population below poverty line": {
       "text": "16.2% (2015 est.)"
+    },
+    "Gini Index coefficient - distribution of family income": {
+      "Gini Index coefficient - distribution of family income 2015": {
+        "text": "33.9 (2015 est.)"
+      },
+      "Gini Index coefficient - distribution of family income 2014": {
+        "text": "34.3 (2014 est.)"
+      }
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
@@ -507,23 +568,26 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "77.4% (of GDP) (2016 est.)",
-      "country comparison to the world": 3
+      "text": "77.4% (of GDP) (2016 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "5.6% (of GDP) (2016 est.)",
-      "country comparison to the world": 5
+      "text": "5.6% (of GDP) (2016 est.)"
     },
     "Public debt": {
-      "text": "13% of GDP (2015 est.)",
-      "country comparison to the world": 196
+      "Public debt 2015": {
+        "text": "13% of GDP (2015 est.)"
+      }
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Exports": {
-      "text": "$407.1 million (2015 est.) / $599.7 million (2014 est.)",
-      "country comparison to the world": 182
+      "Exports 2015": {
+        "text": "$407.1 million (2015 est.)"
+      },
+      "Exports 2014": {
+        "text": "$599.7 million (2014 est.)"
+      }
     },
     "Exports - partners": {
       "text": "Denmark 82.5%, Iceland 4.4% (2017)"
@@ -532,21 +596,46 @@
       "text": "fish and fish products 91% (2015 est.)"
     },
     "Imports": {
-      "text": "$783.5 million (2015 est.) / $866.1 million (2014 est.)",
-      "country comparison to the world": 192
-    },
-    "Imports - commodities": {
-      "text": "machinery and transport equipment, manufactured goods, food, petroleum products"
+      "Imports 2015": {
+        "text": "$783.5 million (2015 est.)"
+      },
+      "Imports 2014": {
+        "text": "$866.1 million (2014 est.)"
+      }
     },
     "Imports - partners": {
       "text": "Denmark 69.7%, Sweden 10.6% (2017)"
     },
+    "Imports - commodities": {
+      "text": "machinery and transport equipment, manufactured goods, food, petroleum products"
+    },
     "Debt - external": {
-      "text": "$36.4 million (2010) / $58 million (2009)",
-      "country comparison to the world": 197
+      "Debt - external 2010": {
+        "text": "$36.4 million (2010)"
+      },
+      "Debt - external 2009": {
+        "text": "$58 million (2009)"
+      }
     },
     "Exchange rates": {
-      "text": "Danish kroner (DKK) per US dollar - / 6.586 (2017 est.) / 6.7309 (2016 est.) / 6.7309 (2015 est.) / 6.7326 (2014 est.) / 5.6125 (2013 est.)"
+      "currency": {
+        "text": "Danish kroner (DKK) per US dollar -"
+      },
+      "Exchange rates 2017": {
+        "text": "6.586 (2017 est.)"
+      },
+      "Exchange rates 2016": {
+        "text": "6.7309 (2016 est.)"
+      },
+      "Exchange rates 2015": {
+        "text": "6.7309 (2015 est.)"
+      },
+      "Exchange rates 2014": {
+        "text": "6.7326 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "5.6125 (2013 est.)"
+      }
     }
   },
   "Energy": {
@@ -556,96 +645,73 @@
       }
     },
     "Electricity - production": {
-      "text": "538 million kWh (2016 est.)",
-      "country comparison to the world": 163
+      "text": "538 million kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "468 million kWh (2016 est.)",
-      "country comparison to the world": 170
+      "text": "468 million kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 141
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - imports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 153
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "187,000 kW (2016 est.)",
-      "country comparison to the world": 167
+      "text": "187,000 kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "51% of total installed capacity (2016 est.)",
-      "country comparison to the world": 148
+      "text": "51% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 99
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "49% of total installed capacity (2017 est.)",
-      "country comparison to the world": 42
+      "text": "49% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 189
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "0 bbl/day (2018 est.)",
-      "country comparison to the world": 142
+      "text": "0 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 130
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - imports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 133
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2018 est.)",
-      "country comparison to the world": 138
+      "text": "0 bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 150
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "4,000 bbl/day (2016 est.)",
-      "country comparison to the world": 184
+      "text": "4,000 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 159
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "3,973 bbl/day (2015 est.)",
-      "country comparison to the world": 177
+      "text": "3,973 bbl/day (2015 est.)"
     },
     "Natural gas - production": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 138
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 151
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 113
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 131
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "0 cu m (1 January 2014 est.)",
-      "country comparison to the world": 140
+      "text": "0 cu m (1 January 2014 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "613,800 Mt (2017 est.)",
-      "country comparison to the world": 179
+      "text": "613,800 Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -655,8 +721,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "12.59 (2019 est.)"
-      },
-      "country comparison to the world": 197
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -664,8 +729,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "114.48 (2019 est.)"
-      },
-      "country comparison to the world": 202
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
@@ -675,9 +739,9 @@
         "text": "13 per 100 for fixed-line subscriptions and 115 per 100 for mobile-cellular (2019)"
       },
       "international": {
-        "text": "country code - 299; landing points for Greenland Connect, Greenland Connect North, Nunavut Undersea Fiber System submarine cables to Greenland, Iceland, and Canada; satellite earth stations - 15 (12 Intelsat, 1 Eutelsat, 2 Americom GE-2 (all Atlantic Ocean)) (2019)"
+        "text": "country code - 299; landing points for Greenland Connect, Greenland Connect North, Nunavut Undersea Fiber System submarine cables to Greenland, Iceland, and Canada;&nbsp;satellite earth stations - 15 (12 Intelsat, 1 Eutelsat, 2 Americom GE-2 (all Atlantic Ocean)) (2019)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "the Greenland Broadcasting Company provides public radio and TV services throughout the island with a broadcast station and a series of repeaters; a few private local TV and radio stations; Danish public radio rebroadcasts are available (2019)"
@@ -691,8 +755,7 @@
       },
       "percent of population": {
         "text": "69.48% (July 2018 est.)"
-      },
-      "country comparison to the world": 201
+      }
     },
     "Broadband - fixed subscriptions": {
       "total": {
@@ -700,8 +763,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "23 (2018 est.)"
-      },
-      "country comparison to the world": 164
+      }
     }
   },
   "Transportation": {
@@ -717,8 +779,9 @@
       "text": "OY-H (2016)"
     },
     "Airports": {
-      "text": "15 (2013)",
-      "country comparison to the world": 146
+      "total": {
+        "text": "15 (2013)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -752,16 +815,15 @@
       }
     },
     "Roadways": {
-      "note": "note: although there are short roads in towns, there are no roads between towns; inter-urban transport is either by sea or by air"
+      "text": "<p><strong>note:</strong> although there are short roads in towns, there are no roads between towns; inter-urban transport is either by sea or by air</p>"
     },
     "Merchant marine": {
       "total": {
         "text": "8"
       },
       "by type": {
-        "text": "other 8 (2019)"
-      },
-      "country comparison to the world": 159
+        "text": "other 8 (2020)"
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -774,12 +836,12 @@
       "text": "no regular military forces or conscription. (2019)"
     },
     "Military - note": {
-      "text": "The Danish military's Joint Arctic Command in Nuuk is responsible for territorial defense of Greenland (2019)"
+      "text": "The Danish military&rsquo;s Joint Arctic Command in Nuuk is responsible for territorial defense of Greenland (2019)"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "managed dispute between Canada and Denmark over Hans Island in the Kennedy Channel between Canada's Ellesmere Island and Greenland; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission"
+      "text": "<p>managed dispute between Canada and Denmark over Hans Island in the Kennedy Channel between Canada's Ellesmere Island and Greenland; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission</p>"
     }
   }
 }

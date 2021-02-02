@@ -23,14 +23,15 @@
       },
       "water": {
         "text": "910 sq km"
-      },
-      "country comparison to the world": 143
+      }
     },
     "Area - comparative": {
       "text": "slightly smaller than Maryland"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "5,313 km"
@@ -45,7 +46,7 @@
       "continental shelf": {
         "text": "200 nm"
       },
-      "note": "measured from claimed archipelagic baselines"
+      "note": "<br><br>measured from claimed archipelagic baselines"
     },
     "Climate": {
       "text": "tropical monsoon; few temperature and weather extremes"
@@ -68,8 +69,14 @@
       "agricultural land": {
         "text": "3.9% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "0.7% (2011 est.) / 2.9% (2011 est.) / 0.3% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 0.7% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 2.9% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 0.3% (2011 est.)"
       },
       "forest": {
         "text": "78.9% (2011 est.)"
@@ -85,7 +92,7 @@
       "text": "most of the population lives along the coastal regions; about one in five live in urban areas, and of these some two-thirds reside in Honiara, the largest town and chief port"
     },
     "Natural hazards": {
-      "text": "tropical cyclones, but rarely destructive; geologically active region with frequent earthquakes, tremors, and volcanic activity; tsunamis ++ volcanism: Tinakula (851 m) has frequent eruption activity, while an eruption of Savo (485 m) could affect the capital Honiara on nearby Guadalcanal"
+      "text": "<p>tropical cyclones, but rarely destructive; geologically active region with frequent earthquakes, tremors, and volcanic activity; tsunamis</p><p><strong>volcanism:</strong> Tinakula (851 m) has frequent eruption activity, while an eruption of Savo (485 m) could affect the capital Honiara on nearby Guadalcanal</p>"
     },
     "Environment - current issues": {
       "text": "deforestation; soil erosion; many of the surrounding coral reefs are dead or dying; effects of climate change and rising sea levels"
@@ -104,8 +111,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "685,097 (July 2020 est.)",
-      "country comparison to the world": 167
+      "text": "690,598 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -164,24 +170,19 @@
       },
       "female": {
         "text": "23.7 years (2020 est.)"
-      },
-      "country comparison to the world": 176
+      }
     },
     "Population growth rate": {
-      "text": "1.84% (2020 est.)",
-      "country comparison to the world": 55
+      "text": "1.75% (2021 est.)"
     },
     "Birth rate": {
-      "text": "23.6 births/1,000 population (2020 est.)",
-      "country comparison to the world": 52
+      "text": "23.07 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "3.8 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 216
+      "text": "3.97 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "-1.6 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 156
+      "text": "-1.57 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "most of the population lives along the coastal regions; about one in five live in urban areas, and of these some two-thirds reside in Honiara, the largest town and chief port"
@@ -222,49 +223,57 @@
     },
     "Mother's mean age at first birth": {
       "text": "22.6 years (2015 est.)",
-      "note": "note: median age at first birth among women 25-29"
+      "note": "<p><strong>note:</strong> median age at first birth among women 25-29</p>"
     },
     "Maternal mortality rate": {
-      "text": "104 deaths/100,000 live births (2017 est.)",
-      "country comparison to the world": 69
+      "text": "104 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "13.4 deaths/1,000 live births"
+        "text": "20.52 deaths/1,000 live births"
       },
       "male": {
-        "text": "15.3 deaths/1,000 live births"
+        "text": "24.49 deaths/1,000 live births"
       },
       "female": {
-        "text": "11.4 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 101
+        "text": "16.36 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "76.2 years"
+        "text": "76.45 years"
       },
       "male": {
-        "text": "73.5 years"
+        "text": "73.78 years"
       },
       "female": {
-        "text": "79 years (2020 est.)"
-      },
-      "country comparison to the world": 103
+        "text": "79.25 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "2.97 children born/woman (2020 est.)",
-      "country comparison to the world": 51
+      "text": "2.92 children born/woman (2021 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "29.3% (2015)"
     },
     "Drinking water source": {
-      "improved": {
-        "text": "urban: 95% of population / rural: 67.1% of population / total: 73.6% of population"
+      "improved: urban": {
+        "text": "urban: 95% of population"
       },
-      "unimproved": {
-        "text": "urban: 5% of population / rural: 32.9% of population / total: 26.4% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 67.1% of population"
+      },
+      "improved: total": {
+        "text": "total: 73.6% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 5% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 32.9% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 26.4% of population (2017 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -277,11 +286,23 @@
       "text": "1.4 beds/1,000 population (2012)"
     },
     "Sanitation facility access": {
-      "improved": {
-        "text": "urban: 95.6% of population / rural: 22% of population / total: 39.1% of population"
+      "improved: urban": {
+        "text": "urban: 95.6% of population"
       },
-      "unimproved": {
-        "text": "urban: 4.4% of population / rural: 78% of population / total: 60.9% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 22% of population"
+      },
+      "improved: total": {
+        "text": "total: 39.1% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 4.4% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 78% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 60.9% of population (2017 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -305,16 +326,13 @@
       }
     },
     "Obesity - adult prevalence rate": {
-      "text": "22.5% (2016)",
-      "country comparison to the world": 76
+      "text": "22.5% (2016)"
     },
     "Children under the age of 5 years underweight": {
-      "text": "16.2% (2015)",
-      "country comparison to the world": 37
+      "text": "16.2% (2015)"
     },
     "Education expenditures": {
-      "text": "9.9% of GDP (2010)",
-      "country comparison to the world": 3
+      "text": "9.9% of GDP (2010)"
     },
     "Unemployment, youth ages 15-24": {
       "total": {
@@ -325,8 +343,7 @@
       },
       "female": {
         "text": "1.6% (2013)"
-      },
-      "country comparison to the world": 176
+      }
     }
   },
   "Government": {
@@ -363,7 +380,7 @@
       "time difference": {
         "text": "UTC+11 (16 hours ahead of Washington, DC, during Standard Time)"
       },
-      "note": "etymology: the name derives from \"nagho ni ara,\" which in one of the Guadalcanal languages roughly translates as \"facing the eastern wind\""
+      "note": "<br><br><strong>etymology:</strong> the name derives from \"nagho ni ara,\" which in one of the Guadalcanal languages roughly translates as \"facing the eastern wind\""
     },
     "Administrative divisions": {
       "text": "9 provinces and 1 city*; Central, Choiseul, Guadalcanal, Honiara*, Isabel, Makira and Ulawa, Malaita, Rennell and Bellona, Temotu, Western"
@@ -376,7 +393,7 @@
     },
     "Constitution": {
       "history": {
-        "text": "adopted 31 May 1978, effective 7 July 1978; note - in late 2017, provincial leaders agreed to adopt a new federal constitution, with passage expected in 2018, but it has been postponed indefinitely"
+        "text": "adopted 31 May 1978, effective 7 July 1978; note - in late 2017, provincial leaders agreed to adopt a new federal constitution, with passage&nbsp;expected in 2018, but it has been postponed indefinitely"
       },
       "amendments": {
         "text": "proposed by the National Parliament; passage of constitutional sections, including those on fundamental rights and freedoms, the legal system, Parliament, alteration of the constitution and the ombudsman, requires three-fourths majority vote by Parliament and assent of the governor general; passage of other amendments requires two-thirds majority vote and assent of the governor general; amended several times, last in 2014"
@@ -407,7 +424,7 @@
     },
     "Executive branch": {
       "chief of state": {
-        "text": "Queen ELIZABETH II (since 6 February 1952); represented by Governor General David VUNAGI (since 8 July 2019)"
+        "text": "Queen ELIZABETH II (since 6 February 1952); represented by Governor General David VUNAGI (since&nbsp;8 July 2019)"
       },
       "head of government": {
         "text": "Prime Minister Rick HOU (since 16 November 2017)"
@@ -445,8 +462,8 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Democratic Alliance Party or DAP [Steve ABANA] ++ Kadere Party of Solomon Islands or KPSI [Peter BOYERS] ++ People's Alliance Party or PAP [Nathaniel WAENA] ++ Solomon Islands People First Party or SIPFP [Dr. Jimmie RODGERS] ++ Solomon Islands Party for Rural Advancement or SIPRA [Manasseh MAELANGA] ++ United Democratic Party or UDP [Sir Thomas Ko CHAN]",
-      "note": "note: in general, Solomon Islands politics is characterized by fluid coalitions"
+      "text": "Democratic Alliance Party or DAP [Steve ABANA]<br />Kadere Party of Solomon Islands or KPSI [Peter BOYERS]<br />People's Alliance Party or PAP [Nathaniel WAENA]<br />Solomon Islands People First Party or SIPFP [Dr. Jimmie RODGERS]<br />Solomon Islands Party for Rural Advancement or SIPRA [Manasseh MAELANGA]<br />United Democratic Party or UDP [Sir Thomas Ko CHAN]",
+      "note": "<p><strong>note:</strong> in general, Solomon Islands politics is characterized by fluid coalitions</p>"
     },
     "International organization participation": {
       "text": "ACP, ADB, AOSIS, C, EITI (candidate country), ESCAP, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IOC, ITU, MIGA, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UPU, WFTU, WHO, WMO, WTO"
@@ -466,7 +483,9 @@
       }
     },
     "Diplomatic representation from the US": {
-      "text": "the US does not have an embassy in the Solomon Islands; the US Ambassador to Papua New Guinea is accredited to the Solomon Islands"
+      "embassy": {
+        "text": "the US does not have an embassy in the Solomon Islands; the US Ambassador to Papua New Guinea is accredited to the Solomon Islands"
+      }
     },
     "Flag description": {
       "text": "divided diagonally by a thin yellow stripe from the lower hoist-side corner; the upper triangle (hoist side) is blue with five white five-pointed stars arranged in an X pattern; the lower triangle is green; blue represents the ocean, green the land, and yellow sunshine; the five stars stand for the five main island groups of the Solomon Islands"
@@ -481,41 +500,74 @@
       "lyrics/music": {
         "text": "Panapasa BALEKANA and Matila BALEKANA/Panapasa BALEKANA"
       },
-      "note": "note: adopted 1978"
+      "note": "<p><strong>note:</strong> adopted 1978</p>"
     }
   },
   "Economy": {
     "Economic overview": {
       "text": "The bulk of the population depends on agriculture, fishing, and forestry for at least part of its livelihood. Most manufactured goods and petroleum products must be imported. The islands are rich in undeveloped mineral resources such as lead, zinc, nickel, and gold. Prior to the arrival of The Regional Assistance Mission to the Solomon Islands (RAMSI), severe ethnic violence, the closure of key businesses, and an empty government treasury culminated in economic collapse. RAMSI's efforts, which concluded in Jun 2017, to restore law and order and economic stability have led to modest growth as the economy rebuilds."
     },
-    "GDP real growth rate": {
-      "text": "3.5% (2017 est.) / 3.5% (2016 est.) / 2.5% (2015 est.)",
-      "country comparison to the world": 86
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2017": {
+        "text": "3.5% (2017 est.)"
+      },
+      "Real GDP growth rate 2016": {
+        "text": "3.5% (2016 est.)"
+      },
+      "Real GDP growth rate 2015": {
+        "text": "2.5% (2015 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "0.5% (2017 est.) / 0.5% (2016 est.)",
-      "country comparison to the world": 44
+      "Inflation rate (consumer prices) 2017": {
+        "text": "0.5% (2017 est.)"
+      },
+      "Inflation rate (consumer prices) 2016": {
+        "text": "0.5% (2016 est.)"
+      }
     },
     "Credit ratings": {
       "Moody's rating": {
         "text": "B3 (2015)"
       }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$1.33 billion (2017 est.) / $1.285 billion (2016 est.) / $1.242 billion (2015 est.)",
-      "note": "note: data are in 2017 dollars"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2019": {
+        "text": "$1.783 billion (2019 est.)"
+      },
+      "Real GDP (purchasing power parity) 2018": {
+        "text": "$1.762 billion (2018 est.)"
+      },
+      "Real GDP (purchasing power parity) 2017": {
+        "text": "$1.695 billion (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2017 dollars</p>"
     },
     "GDP (official exchange rate)": {
       "text": "$1.298 billion (2017 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$2,200 (2017 est.) / $2,100 (2016 est.) / $2,100 (2015 est.)",
-      "note": "note: data are in 2017 dollars",
-      "country comparison to the world": 187
+    "Real GDP per capita": {
+      "Real GDP per capita 2019": {
+        "text": "$2,663 (2019 est.)"
+      },
+      "Real GDP per capita 2018": {
+        "text": "$2,700 (2018 est.)"
+      },
+      "Real GDP per capita 2017": {
+        "text": "$2,666 (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2017 dollars</p>"
     },
     "Gross national saving": {
-      "text": "13.1% of GDP (2017 est.) / 15.2% of GDP (2016 est.) / 14.5% of GDP (2015 est.)",
-      "country comparison to the world": 145
+      "Gross national saving 2017": {
+        "text": "13.1% of GDP (2017 est.)"
+      },
+      "Gross national saving 2016": {
+        "text": "15.2% of GDP (2016 est.)"
+      },
+      "Gross national saving 2015": {
+        "text": "14.5% of GDP (2015 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -549,21 +601,21 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "text": "53.4 (2020)"
+      "Overall Ease of Doing Business score 2020": {
+        "text": "53.4 (2020)"
+      }
     },
-    "Agriculture - products": {
-      "text": "cocoa, coconuts, palm kernels, rice, fruit; cattle, pigs; fish; timber"
+    "Agricultural products": {
+      "text": "oil palm fruit, sweet potatoes, coconuts, taro, yams, fruit, pulses nes, vegetables, cocoa, cassava"
     },
     "Industries": {
       "text": "fish (tuna), mining, timber"
     },
     "Industrial production growth rate": {
-      "text": "3.6% (2017 est.)",
-      "country comparison to the world": 83
+      "text": "3.6% (2017 est.)"
     },
     "Labor force": {
-      "text": "202,500 (2007 est.)",
-      "country comparison to the world": 169
+      "text": "202,500 (2007 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -577,10 +629,15 @@
       }
     },
     "Unemployment rate": {
-      "note": "NA"
+      "text": "<p>NA</p>"
     },
     "Population below poverty line": {
       "text": "NA"
+    },
+    "Gini Index coefficient - distribution of family income": {
+      "Gini Index coefficient - distribution of family income 2013": {
+        "text": "37.1 (2013 est.)"
+      }
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
@@ -599,27 +656,37 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "41% (of GDP) (2017 est.)",
-      "country comparison to the world": 33
+      "text": "41% (of GDP) (2017 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-2.9% (of GDP) (2017 est.)",
-      "country comparison to the world": 130
+      "text": "-2.9% (of GDP) (2017 est.)"
     },
     "Public debt": {
-      "text": "9.4% of GDP (2017 est.) / 7.9% of GDP (2016 est.)",
-      "country comparison to the world": 198
+      "Public debt 2017": {
+        "text": "9.4% of GDP (2017 est.)"
+      },
+      "Public debt 2016": {
+        "text": "7.9% of GDP (2016 est.)"
+      }
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Current account balance": {
-      "text": "-$54 million (2017 est.) / -$49 million (2016 est.)",
-      "country comparison to the world": 82
+      "Current account balance 2017": {
+        "text": "-$54 million (2017 est.)"
+      },
+      "Current account balance 2016": {
+        "text": "-$49 million (2016 est.)"
+      }
     },
     "Exports": {
-      "text": "$468.6 million (2017 est.) / $419.9 million (2016 est.)",
-      "country comparison to the world": 176
+      "Exports 2017": {
+        "text": "$468.6 million (2017 est.)"
+      },
+      "Exports 2016": {
+        "text": "$419.9 million (2016 est.)"
+      }
     },
     "Exports - partners": {
       "text": "China 64.5%, Italy 6.2%, Switzerland 4.6%, Philippines 4.4% (2017)"
@@ -628,25 +695,54 @@
       "text": "timber, fish, copra, palm oil, cocoa, coconut oil"
     },
     "Imports": {
-      "text": "$462.1 million (2017 est.) / $419.3 million (2016 est.)",
-      "country comparison to the world": 200
-    },
-    "Imports - commodities": {
-      "text": "food, plant and equipment, manufactured goods, fuels, chemicals"
+      "Imports 2017": {
+        "text": "$462.1 million (2017 est.)"
+      },
+      "Imports 2016": {
+        "text": "$419.3 million (2016 est.)"
+      }
     },
     "Imports - partners": {
       "text": "China 21.9%, Australia 19.6%, Singapore 10.7%, Vietnam 7.5%, NZ 6.2%, Papua New Guinea 5%, South Korea 4.7% (2017)"
     },
+    "Imports - commodities": {
+      "text": "food, plant and equipment, manufactured goods, fuels, chemicals"
+    },
     "Reserves of foreign exchange and gold": {
-      "text": "$0 (31 December 2017 est.) / $421 million (31 December 2016 est.)",
-      "country comparison to the world": 194
+      "Reserves of foreign exchange and gold 31 December 2017": {
+        "text": "$0 (31 December 2017 est.)"
+      },
+      "Reserves of foreign exchange and gold 31 December 2016": {
+        "text": "$421 million (31 December 2016 est.)"
+      }
     },
     "Debt - external": {
-      "text": "$757 million (31 December 2017 est.) / $643 million (31 December 2016 est.)",
-      "country comparison to the world": 171
+      "Debt - external 31 December 2017": {
+        "text": "$757 million (31 December 2017 est.)"
+      },
+      "Debt - external 31 December 2016": {
+        "text": "$643 million (31 December 2016 est.)"
+      }
     },
     "Exchange rates": {
-      "text": "Solomon Islands dollars (SBD) per US dollar - / 8.06126 (2020 est.) / 8.10373 (2019 est.) / 8.01282 (2018 est.) / 7.9147 (2014 est.) / 7.3754 (2013 est.)"
+      "currency": {
+        "text": "Solomon Islands dollars (SBD) per US dollar -"
+      },
+      "Exchange rates 2020": {
+        "text": "8.06126 (2020 est.)"
+      },
+      "Exchange rates 2019": {
+        "text": "8.10373 (2019 est.)"
+      },
+      "Exchange rates 2018": {
+        "text": "8.01282 (2018 est.)"
+      },
+      "Exchange rates 2014": {
+        "text": "7.9147 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "7.3754 (2013 est.)"
+      }
     }
   },
   "Energy": {
@@ -662,96 +758,73 @@
       }
     },
     "Electricity - production": {
-      "text": "103 million kWh (2016 est.)",
-      "country comparison to the world": 200
+      "text": "103 million kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "95.79 million kWh (2016 est.)",
-      "country comparison to the world": 202
+      "text": "95.79 million kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 199
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - imports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 201
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "38,000 kW (2016 est.)",
-      "country comparison to the world": 197
+      "text": "38,000 kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "92% of total installed capacity (2016 est.)",
-      "country comparison to the world": 51
+      "text": "92% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 184
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 201
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "8% of total installed capacity (2017 est.)",
-      "country comparison to the world": 90
+      "text": "8% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "0 bbl/day (2018 est.)",
-      "country comparison to the world": 201
+      "text": "0 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 195
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - imports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 197
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2018 est.)",
-      "country comparison to the world": 197
+      "text": "0 bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 203
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "1,600 bbl/day (2016 est.)",
-      "country comparison to the world": 198
+      "text": "1,600 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 203
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "1,577 bbl/day (2015 est.)",
-      "country comparison to the world": 194
+      "text": "1,577 bbl/day (2015 est.)"
     },
     "Natural gas - production": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 197
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 198
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 185
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 189
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "0 cu m (1 January 2014 est.)",
-      "country comparison to the world": 195
+      "text": "0 cu m (1 January 2014 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "233,500 Mt (2017 est.)",
-      "country comparison to the world": 195
+      "text": "233,500 Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -761,8 +834,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "1.06 (2019 est.)"
-      },
-      "country comparison to the world": 198
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -770,12 +842,11 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "71.38 (2019 est.)"
-      },
-      "country comparison to the world": 173
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "Internet penetration has reached 20%; 3G and 4G LTE mobile network expansions, investment in mobile services in the region; otherwise 3G and satellite services for communication and Internet access; increase in broadband subscriptions; the launch of the Kacific-1 satellite in 2019 and the Coral Sea Cable System have vastly improved the telecom sector (2020)"
+        "text": "Internet penetration has reached 20%; 3G and&nbsp;4G LTE mobile network expansions, investment in mobile services in the region; otherwise 3G and satellite services for communication and Internet access; increase in broadband subscriptions; the launch of the Kacific-1 satellite in 2019 and the Coral Sea Cable System have vastly improved the telecom sector (2020)"
       },
       "domestic": {
         "text": "fixed-line is 1 per 100 persons and mobile-cellular telephone density is about 71 per 100 persons; domestic cable system to extend to key major islands (2019)"
@@ -783,7 +854,7 @@
       "international": {
         "text": "country code - 677; landing points for the CSCS and ICNS2 submarine cables providing connectivity from Solomon Islands, to PNG, Vanuatu and Australia; satellite earth station - 1 Intelsat (Pacific Ocean) (2019)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "Solomon Islands Broadcasting Corporation (SIBC) does not broadcast television; multi-channel pay-TV is available; SIBC operates 2 national radio stations and 2 provincial stations; there are 2 local commercial radio stations; Radio Australia is available via satellite feed (since 2009) (2019)"
@@ -797,8 +868,7 @@
       },
       "percent of population": {
         "text": "11.92% (July 2018 est.)"
-      },
-      "country comparison to the world": 181
+      }
     },
     "Broadband - fixed subscriptions": {
       "total": {
@@ -806,8 +876,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "less than 1 (2018 est.)"
-      },
-      "country comparison to the world": 192
+      }
     }
   },
   "Transportation": {
@@ -829,8 +898,9 @@
       "text": "H4 (2016)"
     },
     "Airports": {
-      "text": "36 (2013)",
-      "country comparison to the world": 109
+      "total": {
+        "text": "36 (2013)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -867,17 +937,15 @@
       "unpaved": {
         "text": "1,356 km (2011)"
       },
-      "note": "note: includes 920 km of private plantation roads",
-      "country comparison to the world": 175
+      "note": "<p><strong>note:</strong> includes 920 km of private plantation roads</p>"
     },
     "Merchant marine": {
       "total": {
-        "text": "23"
+        "text": "24"
       },
       "by type": {
-        "text": "general cargo 7, oil tanker 1, other 15 (2019)"
-      },
-      "country comparison to the world": 141
+        "text": "general cargo 8, oil tanker 1, other 15 (2020)"
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -892,11 +960,11 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "since 2003, the Regional Assistance Mission to Solomon Islands, consisting of police, military, and civilian advisors drawn from 15 countries, has assisted in reestablishing and maintaining civil and political order while reinforcing regional stability and security"
+      "text": "<p>since 2003, the Regional Assistance Mission to Solomon Islands, consisting of police, military, and civilian advisors drawn from 15 countries, has assisted in reestablishing and maintaining civil and political order while reinforcing regional stability and security</p>"
     },
     "Trafficking in persons": {
       "current situation": {
-        "text": "the Solomon Islands is a source and destination country for local adults and children and Southeast Asian men and women subjected to forced labor and forced prostitution; women from China, Indonesia, Malaysia, and the Philippines are recruited for legitimate work and upon arrival are forced into prostitution; men from Indonesia and Malaysia recruited to work in the Solomon Islands' mining and logging industries may be subjected to forced labor; local children are forced into prostitution near foreign logging camps, on fishing vessels, at hotels, and entertainment venues; some local children are also sold by their parents for marriage to foreign workers or put up for \"informal adoption\" to pay off debts and then find themselves forced into domestic servitude or forced prostitution"
+        "text": "the Solomon Islands is a source and destination country for local adults and children and Southeast Asian men and women subjected to forced labor and forced prostitution; women from China, Indonesia, Malaysia, and the Philippines are recruited for legitimate work and upon arrival are forced into prostitution; men from Indonesia and Malaysia recruited to work in the Solomon Islands’ mining and logging industries may be subjected to forced labor; local children are forced into prostitution near foreign logging camps, on fishing vessels, at hotels, and entertainment venues; some local children are also sold by their parents for marriage to foreign workers or put up for \"informal adoption\" to pay off debts and then find themselves forced into domestic servitude or forced prostitution"
       },
       "tier rating": {
         "text": "Tier 2 Watch List – the Solomon Islands does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; in 2014, the Solomon Islands was granted a waiver from an otherwise required downgrade to Tier 3 because its government has a written plan that, if implemented, would constitute making significant efforts to bring itself into compliance with the minimum standards for the elimination of trafficking; the government gazetted implementing regulations for the 2012 immigration act prohibiting transnational trafficking, but the penalties are not sufficiently stringent because they allow the option of paying a fine; a new draft law to address these weaknesses awaits parliamentary review; no new trafficking investigations were conducted, even after labor inspections at logging and fishing companies, no existing cases led to prosecutions or convictions, and no funding was allocated for national anti-trafficking efforts; authorities did not identify or protect any victims and lack any procedures or shelters to do so; civil society and religious organizations provide most of the limited services available; a lack of understanding of the crime of trafficking remains a serious challenge (2015)"

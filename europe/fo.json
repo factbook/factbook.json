@@ -23,14 +23,15 @@
       },
       "water": {
         "text": "0 sq km (some lakes and streams)"
-      },
-      "country comparison to the world": 182
+      }
     },
     "Area - comparative": {
       "text": "eight times the size of Washington, DC"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "1,117 km"
@@ -67,8 +68,14 @@
       "agricultural land": {
         "text": "2.1% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "2.1% (2011 est.) / 0% (2011 est.) / 0% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 2.1% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 0% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 0% (2011 est.)"
       },
       "forest": {
         "text": "0.1% (2011 est.)"
@@ -97,8 +104,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "51,628 (July 2020 est.)",
-      "country comparison to the world": 208
+      "text": "51,943 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -110,11 +116,11 @@
     },
     "Ethnic groups": {
       "text": "Faroese 87.6% (Scandinavian and Anglo-Saxon descent), Danish 7.8%, other Nordic 1.4%, other 3.2% (includes Filipino, Thai, British) (2018 est.)",
-      "note": "note: data represent respondents by country of birth"
+      "note": "<p><strong>note:</strong> data represent respondents by country of birth</p>"
     },
     "Languages": {
       "text": "Faroese 93.8% (derived from Old Norse), Danish 3.2%, other 3% (2011 est.)",
-      "note": "note: data represent population by primary language"
+      "note": "<br><br><strong>note:</strong>&nbsp; data represent population by primary language"
     },
     "Religions": {
       "text": "Christian 89.3% (predominantly Evangelical Lutheran), other 1%, none 3.8%, unspecified 6% (2011 est.)"
@@ -145,24 +151,19 @@
       },
       "female": {
         "text": "37.7 years (2020 est.)"
-      },
-      "country comparison to the world": 72
+      }
     },
     "Population growth rate": {
-      "text": "0.6% (2020 est.)",
-      "country comparison to the world": 149
+      "text": "0.62% (2021 est.)"
     },
     "Birth rate": {
-      "text": "14.9 births/1,000 population (2020 est.)",
-      "country comparison to the world": 118
+      "text": "14.92 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "8.8 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 66
+      "text": "8.68 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "0 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 81
+      "text": "0 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "the island of Streymoy is by far the most populous with over 40% of the population; it has approximately twice as many inhabitants as Eysturoy, the second most populous island; seven of the inhabited islands have fewer than 100 people"
@@ -203,37 +204,34 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "5.1 deaths/1,000 live births"
+        "text": "6.11 deaths/1,000 live births"
       },
       "male": {
-        "text": "5.4 deaths/1,000 live births"
+        "text": "6.74 deaths/1,000 live births"
       },
       "female": {
-        "text": "4.8 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 175
+        "text": "5.44 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "80.8 years"
+        "text": "81.04 years"
       },
       "male": {
-        "text": "78.3 years"
+        "text": "78.5 years"
       },
       "female": {
-        "text": "83.6 years (2020 est.)"
-      },
-      "country comparison to the world": 42
+        "text": "83.77 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "2.31 children born/woman (2020 est.)",
-      "country comparison to the world": 81
+      "text": "2.3 children born/woman (2021 est.)"
     },
     "Drinking water source": {
-      "improved": {
+      "improved: total": {
         "text": "total: 99% of population"
       },
-      "unimproved": {
+      "unimproved: total": {
         "text": "total: 0% of population (2017 est.)"
       }
     },
@@ -244,10 +242,10 @@
       "text": "4.1 beds/1,000 population (2015)"
     },
     "Sanitation facility access": {
-      "improved": {
+      "improved: total": {
         "text": "total: 100% of population"
       },
-      "unimproved": {
+      "unimproved: total": {
         "text": "total: 1% of population (2017)"
       }
     },
@@ -298,7 +296,7 @@
       "daylight saving time": {
         "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
       },
-      "note": "etymology: the meaning in Danish is Thor's harbor"
+      "note": "<br><br><strong>etymology:</strong> the meaning in Danish is Thor's harbor"
     },
     "Administrative divisions": {
       "text": "part of the Kingdom of Denmark; self-governing overseas administrative division of Denmark; there are 29 first-order municipalities (kommunur, singular - kommuna) Eidhis, Eystur, Famjins, Fuglafjardhar, Fugloyar, Hovs, Husavikar, Hvalbiar, Hvannasunds, Klaksvikar, Kunoyar, Kvivik, Nes, Porkeris, Runavikar, Sands, Sjovar, Skalavikar, Skopunar, Skuvoyar, Sorvags, Sumbiar, Sunda, Torshavnar, Tvoroyrar, Vaga, Vags, Vestmanna, Vidhareidhis"
@@ -321,7 +319,7 @@
       "text": "the laws of Denmark apply where applicable"
     },
     "Citizenship": {
-      "note": "see Denmark"
+      "text": "see Denmark"
     },
     "Suffrage": {
       "text": "18 years of age; universal"
@@ -345,13 +343,13 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "unicameral Faroese Parliament or Logting (33 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms) ++ the Faroe Islands elect 2 members to the Danish Parliament to serve 4-year terms"
+        "text": "unicameral Faroese Parliament or Logting (33 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br />the Faroe Islands elect 2 members to the Danish Parliament to serve 4-year terms"
       },
       "elections": {
-        "text": "Faroese Parliament - last held on 31 August 2019 (next to be held in 2023) ++ Faroese seats in the Danish Parliament last held on 5 June 2019 (next to be held no later than June 2023)"
+        "text": "Faroese Parliament -&nbsp;last held on 31 August 2019 (next to be held in 2023)<br />Faroese seats in the Danish Parliament last held on 5 June 2019 (next to be held no later than June 2023)"
       },
       "election results": {
-        "text": "Faroese Parliament percent of vote by party - People's Party 24.5%, JF 22.1%, Union Party 20.3%, Republic 18.1%, Center Party 5.4%, Progressive Party 4.6%, New Self-Government Party 3.4%, other 1.4%, seats by party - People's Party 8, JF 7, Union Party 7, Republic 6, Center Party 2, Progressive Party 2, New Self-Government Party 1, composition - men 25, women 8; percent of women 24.2% ++ Faroese seats in Danish Parliament - percent of vote by party - NA; seats by party - Social Democratic Party 1, Republican Party 1; composition - 2 men"
+        "text": "Faroese Parliament percent of vote by party - People's Party 24.5%, JF 22.1%, Union Party 20.3%, Republic 18.1%, Center Party 5.4%, Progressive Party 4.6%, New Self-Government Party 3.4%, other 1.4%, seats by party - People's Party 8, JF 7, Union Party 7, Republic 6, Center Party 2, Progressive Party 2, New Self-Government Party 1, composition - men 25, women 8; percent of women 24.2% <br />Faroese seats in Danish Parliament - percent of vote by party - NA; seats by party - Social Democratic Party 1, Republican Party 1; composition - 2 men"
       }
     },
     "Judicial branch": {
@@ -363,20 +361,22 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Center Party (Midflokkurin) [Jenis av RANA] ++ Self-Government Party (Sjalvstyri or Sjalvstyrisflokkurin) [Jogvan SKORHEIM] ++ People's Party (Folkaflokkurin) [Jorgen NICLASEN] ++ Progressive Party (Framsokn) [Poul MICHELSEN] ++ Republic (Tjodveldi) [Hogni HOYDAL] (formerly the Republican Party) ++ Social Democratic Party (Javnadarflokkurin) or JF [Aksel V. JOHANNESEN] ++ Union Party (Sambandsflokkurin) [Bardhur A STEIG NIELSEN]"
+      "text": "Center Party (Midflokkurin) [Jenis av RANA]<br />Self-Government Party (Sjalvstyri or Sjalvstyrisflokkurin) [Jogvan SKORHEIM]<br />People's Party (Folkaflokkurin) [Jorgen NICLASEN]<br />Progressive Party (Framsokn) [Poul MICHELSEN]<br />Republic (Tjodveldi) [Hogni HOYDAL] (formerly the Republican Party)<br />Social Democratic Party (Javnadarflokkurin) or JF [Aksel V. JOHANNESEN]<br />Union Party (Sambandsflokkurin) [Bardhur A STEIG NIELSEN]"
     },
     "International organization participation": {
       "text": "Arctic Council, IMO (associate), NC, NIB, UNESCO (associate), UPU"
     },
     "Diplomatic representation in the US": {
-      "note": "none (self-governing overseas administrative division of Denmark)"
+      "text": "none (self-governing overseas administrative division of Denmark)"
     },
     "Diplomatic representation from the US": {
-      "text": "none (self-governing overseas administrative division of Denmark)"
+      "embassy": {
+        "text": "none (self-governing overseas administrative division of Denmark)"
+      }
     },
     "Flag description": {
       "text": "white with a red cross outlined in blue extending to the edges of the flag; the vertical part of the cross is shifted toward the hoist side in the style of the Dannebrog (Danish flag); referred to as Merkid, meaning \"the banner\" or \"the mark,\" the flag resembles those of neighboring Iceland and Norway, and uses the same three colors - but in a different sequence; white represents the clear Faroese sky, as well as the foam of the waves; red and blue are traditional Faroese colors",
-      "note": "note: the blue on the flag is a lighter blue (azure) than that found on the flags of Iceland or Norway"
+      "note": "<p><strong>note:</strong> the blue on the flag is a lighter blue (azure) than that found on the flags of Iceland or Norway</p>"
     },
     "National symbol(s)": {
       "text": "ram; national colors: red, white, blue"
@@ -388,34 +388,61 @@
       "lyrics/music": {
         "text": "Simun av SKAROI/Peter ALBERG"
       },
-      "note": "note: adopted 1948; the anthem is also known as \"Tu alfagra land mitt\" (Thou Fairest Land of Mine); as a self-governing overseas administrative division of Denmark, the Faroe Islands are permitted their own national anthem"
+      "note": "<p><strong>note:</strong> adopted 1948; the anthem is also known as \"Tu alfagra land mitt\" (Thou Fairest Land of Mine); as a self-governing overseas administrative division of Denmark, the Faroe Islands are permitted their own national anthem</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "The Faroese economy has experienced a period of significant growth since 2011, due to higher fish prices and increased salmon farming and catches in the pelagic fisheries. Fishing has been the main source of income for the Faroe Islands since the late 19th century, but dependence on fishing makes the economy vulnerable to price fluctuations. Nominal GDP, measured in current prices, grew 5.6% in 2015 and 6.8% in 2016. GDP growth was forecast at 6.2% in 2017, slowing to 0.5% in 2018, due to lower fisheries quotas, higher oil prices and fewer farmed salmon combined with lower salmon prices. The fisheries sector accounts for about 97% of exports, and half of GDP. Unemployment is low, estimated at 2.1% in early 2018. Aided by an annual subsidy from Denmark, which amounts to about 11% of Faroese GDP , Faroese have a standard of living equal to that of Denmark. The Faroe Islands have bilateral free trade agreements with the EU, Iceland, Norway, Switzerland, and Turkey. ++ For the first time in 8 years, the Faroe Islands managed to generate a public budget surplus in 2016, a trend which continued in 2017. The local government intends to use this to reduce public debt, which reached 38% of GDP in 2015. A fiscal sustainability analysis of the Faroese economy shows that a long-term tightening of fiscal policy of 5% of GDP is required for fiscal sustainability. ++ Increasing public infrastructure investments are likely to lead to continued growth in the short term, and the Faroese economy is becoming somewhat more diversified. Growing industries include financial services, petroleum-related businesses, shipping, maritime manufacturing services, civil aviation, IT, telecommunications, and tourism."
+      "text": "<p>The Faroese economy has experienced a period of significant growth since 2011, due to higher fish prices and increased salmon farming and catches in the pelagic fisheries. Fishing has been the main source of income for the Faroe Islands since the late 19th century, but dependence on fishing makes the economy vulnerable to price fluctuations. Nominal GDP, measured in current prices, grew 5.6% in 2015 and 6.8% in 2016. GDP growth was forecast at 6.2% in 2017, slowing to 0.5% in 2018, due to lower fisheries quotas, higher oil prices and fewer farmed salmon combined with lower salmon prices. The fisheries sector accounts for about 97% of exports, and half of GDP. Unemployment is low, estimated at 2.1% in early 2018. Aided by an annual subsidy from Denmark, which amounts to about 11% of Faroese GDP , Faroese have a standard of living equal to that of Denmark. The Faroe Islands have bilateral free trade agreements with the EU, Iceland, Norway, Switzerland, and Turkey.</p><p></p><p>For the first time in 8 years, the Faroe Islands managed to generate a public budget surplus in 2016, a trend which continued in 2017. The local government intends to use this to reduce public debt, which reached 38% of GDP in 2015. A fiscal sustainability analysis of the Faroese economy shows that a long-term tightening of fiscal policy of 5% of GDP is required for fiscal sustainability.</p><p></p><p>Increasing public infrastructure investments are likely to lead to continued growth in the short term, and the Faroese economy is becoming somewhat more diversified. Growing industries include financial services, petroleum-related businesses, shipping, maritime manufacturing services, civil aviation, IT, telecommunications, and tourism.</p>"
     },
-    "GDP real growth rate": {
-      "text": "5.9% (2017 est.) / 7.5% (2016 est.) / 2.4% (2015 est.)",
-      "country comparison to the world": 30
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2017": {
+        "text": "5.9% (2017 est.)"
+      },
+      "Real GDP growth rate 2016": {
+        "text": "7.5% (2016 est.)"
+      },
+      "Real GDP growth rate 2015": {
+        "text": "2.4% (2015 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "-0.3% (2016) / -1.7% (2015)",
-      "country comparison to the world": 15
+      "Inflation rate (consumer prices) 2016": {
+        "text": "-0.3% (2016)"
+      },
+      "Inflation rate (consumer prices) 2015": {
+        "text": "-1.7% (2015)"
+      }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$2.001 billion (2014 est.) / $1.89 billion (2013 est.) / $1.608 billion (2012 est.)"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2014": {
+        "text": "$2.001 billion (2014 est.)"
+      },
+      "Real GDP (purchasing power parity) 2013": {
+        "text": "$1.89 billion (2013 est.)"
+      },
+      "Real GDP (purchasing power parity) 2012": {
+        "text": "$1.608 billion (2012 est.)"
+      }
     },
     "GDP (official exchange rate)": {
       "text": "$2.765 billion (2014 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$40,000 (2014 est.)",
-      "country comparison to the world": 40
+    "Real GDP per capita": {
+      "Real GDP per capita 2014": {
+        "text": "$40,000 (2014 est.)"
+      }
     },
     "Gross national saving": {
-      "text": "25.7% of GDP (2012 est.) / 25.2% of GDP (2011 est.) / 25.9% of GDP (2010 est.)",
-      "country comparison to the world": 53
+      "Gross national saving 2012": {
+        "text": "25.7% of GDP (2012 est.)"
+      },
+      "Gross national saving 2011": {
+        "text": "25.2% of GDP (2011 est.)"
+      },
+      "Gross national saving 2010": {
+        "text": "25.9% of GDP (2010 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -439,21 +466,17 @@
         "text": "18.4% (2013)"
       }
     },
-    "Ease of Doing Business Index scores": {
-    },
-    "Agriculture - products": {
-      "text": "milk, potatoes, vegetables, sheep, salmon, herring, mackerel and other fish"
+    "Agricultural products": {
+      "text": "potatoes, mutton, sheep skins, sheep offals, beef, sheep fat, cattle offals, cattle hides, cattle fat"
     },
     "Industries": {
       "text": "fishing, fish processing, tourism, small ship repair and refurbishment, handicrafts"
     },
     "Industrial production growth rate": {
-      "text": "3.4% (2009 est.)",
-      "country comparison to the world": 91
+      "text": "3.4% (2009 est.)"
     },
     "Labor force": {
-      "text": "27,540 (2017 est.)",
-      "country comparison to the world": 205
+      "text": "27,540 (2017 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -467,11 +490,23 @@
       }
     },
     "Unemployment rate": {
-      "text": "2.2% (2017 est.) / 3.4% (2016 est.)",
-      "country comparison to the world": 22
+      "Unemployment rate 2017": {
+        "text": "2.2% (2017 est.)"
+      },
+      "Unemployment rate 2016": {
+        "text": "3.4% (2016 est.)"
+      }
     },
     "Population below poverty line": {
       "text": "10% (2015 est.)"
+    },
+    "Gini Index coefficient - distribution of family income": {
+      "Gini Index coefficient - distribution of family income 2013": {
+        "text": "22.7 (2013 est.)"
+      },
+      "Gini Index coefficient - distribution of family income 2011": {
+        "text": "21.6 (2011 est.)"
+      }
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
@@ -488,26 +523,29 @@
       "expenditures": {
         "text": "883.8 million (2014)"
       },
-      "note": "note: Denmark supplies the Faroe Islands with almost one-third of its public funds"
+      "note": "<p><strong>note:</strong> Denmark supplies the Faroe Islands with almost one-third of its public funds</p>"
     },
     "Taxes and other revenues": {
-      "text": "30.2% (of GDP) (2014 est.)",
-      "country comparison to the world": 76
+      "text": "30.2% (of GDP) (2014 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-1.7% (of GDP) (2014 est.)",
-      "country comparison to the world": 95
+      "text": "-1.7% (of GDP) (2014 est.)"
     },
     "Public debt": {
-      "text": "35% of GDP (2014 est.)",
-      "country comparison to the world": 152
+      "Public debt 2014": {
+        "text": "35% of GDP (2014 est.)"
+      }
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Exports": {
-      "text": "$1.184 billion (2016 est.) / $1.019 billion (2015 est.)",
-      "country comparison to the world": 153
+      "Exports 2016": {
+        "text": "$1.184 billion (2016 est.)"
+      },
+      "Exports 2015": {
+        "text": "$1.019 billion (2015 est.)"
+      }
     },
     "Exports - partners": {
       "text": "Russia 26.4%, UK 14.1%, Germany 8.4%, China 7.9%, Spain 6.8%, Denmark 6.2%, US 4.7%, Poland 4.4%, Norway 4.1% (2017)"
@@ -516,21 +554,46 @@
       "text": "fish and fish products (97%) (2017 est.)"
     },
     "Imports": {
-      "text": "$978.4 million (2016 est.) / $906.1 million (2015 est.)",
-      "country comparison to the world": 187
-    },
-    "Imports - commodities": {
-      "text": "goods for household consumption, machinery and transport equipment, fuels, raw materials and semi-manufactures, cars"
+      "Imports 2016": {
+        "text": "$978.4 million (2016 est.)"
+      },
+      "Imports 2015": {
+        "text": "$906.1 million (2015 est.)"
+      }
     },
     "Imports - partners": {
       "text": "Denmark 33%, China 10.7%, Germany 7.6%, Poland 6.8%, Norway 6.7%, Ireland 5%, Chile 4.3% (2017)"
     },
+    "Imports - commodities": {
+      "text": "goods for household consumption, machinery and transport equipment, fuels, raw materials and semi-manufactures, cars"
+    },
     "Debt - external": {
-      "text": "$387.6 million (2012) / $274.5 million (2010)",
-      "country comparison to the world": 181
+      "Debt - external 2012": {
+        "text": "$387.6 million (2012)"
+      },
+      "Debt - external 2010": {
+        "text": "$274.5 million (2010)"
+      }
     },
     "Exchange rates": {
-      "text": "Danish kroner (DKK) per US dollar - / 6.586 (2017 est.) / 6.7269 (2016 est.) / 6.7269 (2015 est.) / 6.7236 (2014 est.) / 5.6125 (2013 est.)"
+      "currency": {
+        "text": "Danish kroner (DKK) per US dollar -"
+      },
+      "Exchange rates 2017": {
+        "text": "6.586 (2017 est.)"
+      },
+      "Exchange rates 2016": {
+        "text": "6.7269 (2016 est.)"
+      },
+      "Exchange rates 2015": {
+        "text": "6.7269 (2015 est.)"
+      },
+      "Exchange rates 2014": {
+        "text": "6.7236 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "5.6125 (2013 est.)"
+      }
     }
   },
   "Energy": {
@@ -540,96 +603,73 @@
       }
     },
     "Electricity - production": {
-      "text": "307 million kWh (2016 est.)",
-      "country comparison to the world": 180
+      "text": "307 million kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "285.5 million kWh (2016 est.)",
-      "country comparison to the world": 185
+      "text": "285.5 million kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 134
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - imports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 148
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "128,300 kW (2016 est.)",
-      "country comparison to the world": 176
+      "text": "128,300 kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "54% of total installed capacity (2016 est.)",
-      "country comparison to the world": 141
+      "text": "54% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 90
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "31% of total installed capacity (2017 est.)",
-      "country comparison to the world": 66
+      "text": "31% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "16% of total installed capacity (2017 est.)",
-      "country comparison to the world": 52
+      "text": "16% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "0 bbl/day (2018 est.)",
-      "country comparison to the world": 136
+      "text": "0 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 123
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - imports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 127
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2018 est.)",
-      "country comparison to the world": 131
+      "text": "0 bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 145
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "4,600 bbl/day (2016 est.)",
-      "country comparison to the world": 180
+      "text": "4,600 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 155
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "4,555 bbl/day (2015 est.)",
-      "country comparison to the world": 174
+      "text": "4,555 bbl/day (2015 est.)"
     },
     "Natural gas - production": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 132
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 146
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 104
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 125
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "0 cu m (1 January 2014 est.)",
-      "country comparison to the world": 135
+      "text": "0 cu m (1 January 2014 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "739,300 Mt (2017 est.)",
-      "country comparison to the world": 176
+      "text": "739,300 Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -639,8 +679,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "37.29 (2019 est.)"
-      },
-      "country comparison to the world": 178
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -648,8 +687,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "116.47 (2019 est.)"
-      },
-      "country comparison to the world": 204
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
@@ -659,9 +697,9 @@
         "text": "37 per 100 for fixed-line and 116 per 100 for mobile-cellular; both NMT (analog) and GSM (digital) mobile telephone systems are installed (2019)"
       },
       "international": {
-        "text": "country code - 298; landing points for the SHEFA-2, FARICE-1, and CANTAT-3 fiber-optic submarine cables from the Faeroe Islands, to Denmark, Germany, UK and Iceland; satellite earth stations - 1 Orion; (2019)"
+        "text": "country code - 298;&nbsp;landing points for the SHEFA-2, FARICE-1, and CANTAT-3&nbsp;fiber-optic submarine cables&nbsp;from the&nbsp;Faeroe Islands, to&nbsp;Denmark, Germany, UK&nbsp;and Iceland; satellite earth stations - 1 Orion; (2019)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "1 publicly owned TV station; the Faroese telecommunications company distributes local and international channels through its digital terrestrial network; publicly owned radio station supplemented by 3 privately owned stations broadcasting over multiple frequencies"
@@ -675,8 +713,7 @@
       },
       "percent of population": {
         "text": "97.58% (July 2018 est.)"
-      },
-      "country comparison to the world": 197
+      }
     },
     "Broadband - fixed subscriptions": {
       "total": {
@@ -684,8 +721,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "36 (2018 est.)"
-      },
-      "country comparison to the world": 155
+      }
     }
   },
   "Transportation": {
@@ -701,8 +737,9 @@
       "text": "OY-H (2016)"
     },
     "Airports": {
-      "text": "1 (2020)",
-      "country comparison to the world": 219
+      "total": {
+        "text": "1 (2020)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -722,17 +759,15 @@
       "unpaved": {
         "text": "460 km (2017)"
       },
-      "note": "note: those islands not connected by roads (bridges or tunnels) are connected by seven different ferry links operated by the nationally owned company SSL; 28 km of tunnels",
-      "country comparison to the world": 186
+      "note": "<p><strong>note:</strong> those islands not connected by roads (bridges or tunnels) are connected by seven different ferry links operated by the nationally owned company SSL; 28 km of tunnels</p>"
     },
     "Merchant marine": {
       "total": {
-        "text": "107"
+        "text": "100"
       },
       "by type": {
-        "text": "bulk carrier 6, general cargo 46, oil tanker 1, other 54 (2019)"
-      },
-      "country comparison to the world": 86
+        "text": "container ships 6, general cargo 46, oil tanker 1, other 47 (2020)"
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -742,7 +777,7 @@
   },
   "Military and Security": {
     "Military and security forces": {
-      "text": "no regular military forces or conscription; the Government of Denmark has responsibility for defense; as such, the Danish military's Joint Arctic Command in Nuuk, Greenland is responsible for territorial defense of the Faroe Islands; the Joint Arctic Command has a contact element in the capital of Torshavn (2019)"
+      "text": "no regular military forces or conscription; the Government of Denmark has responsibility for defense; as such, the Danish military&rsquo;s Joint Arctic Command in Nuuk, Greenland is responsible for territorial defense of the Faroe Islands; the Joint Arctic Command has a contact element in the capital of Torshavn (2019)"
     },
     "Military - note": {
       "text": "defense is the responsibility of Denmark"
@@ -750,7 +785,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "because anticipated offshore hydrocarbon resources have not been realized, earlier Faroese proposals for full independence have been deferred; Iceland, the UK, and Ireland dispute Denmark's claim to UNCLOS that the Faroe Islands' continental shelf extends beyond 200 nm"
+      "text": "<p>because anticipated offshore hydrocarbon resources have not been realized, earlier Faroese proposals for full independence have been deferred; Iceland, the UK, and Ireland dispute Denmark's claim to UNCLOS that the Faroe Islands' continental shelf extends beyond 200 nm</p>"
     }
   }
 }

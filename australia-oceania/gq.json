@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "Spain ceded Guam to the US in 1898. Captured by the Japanese in 1941, it was retaken by the US three years later. The military installations on the island are some of the most strategically important US bases in the Pacific; they also constitute the island's most important source of income and economic stability."
+      "text": "Spain ceded Guam to the US in 1898. Captured by the Japanese in 1941, it was retaken by the US three years later. The military installations on the island are some of the most strategically important US bases in the Pacific; they also constitute the island’s most important source of income and economic stability."
     }
   },
   "Geography": {
@@ -23,14 +23,15 @@
       },
       "water": {
         "text": "0 sq km"
-      },
-      "country comparison to the world": 194
+      }
     },
     "Area - comparative": {
       "text": "three times the size of Washington, DC"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "125.5 km"
@@ -64,8 +65,14 @@
       "agricultural land": {
         "text": "33.4% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "1.9% (2011 est.) / 16.7% (2011 est.) / 14.8% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 1.9% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 16.7% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 14.8% (2011 est.)"
       },
       "forest": {
         "text": "47.9% (2011 est.)"
@@ -92,8 +99,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "168,485 (July 2020 est.)",
-      "country comparison to the world": 185
+      "text": "168,801 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -152,24 +158,19 @@
       },
       "female": {
         "text": "30.2 years (2020 est.)"
-      },
-      "country comparison to the world": 130
+      }
     },
     "Population growth rate": {
-      "text": "0.2% (2020 est.)",
-      "country comparison to the world": 180
+      "text": "0.18% (2021 est.)"
     },
     "Birth rate": {
-      "text": "18.9 births/1,000 population (2020 est.)",
-      "country comparison to the world": 79
+      "text": "18.76 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "6 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 162
+      "text": "5.99 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "-11 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 216
+      "text": "-10.98 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "no large cities exist on the island, though large villages (municipalities) attract much of the population; the largest of these is Dededo"
@@ -210,46 +211,55 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "10.8 deaths/1,000 live births"
+        "text": "11.73 deaths/1,000 live births"
       },
       "male": {
-        "text": "10.7 deaths/1,000 live births"
+        "text": "11.75 deaths/1,000 live births"
       },
       "female": {
-        "text": "10.8 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 125
+        "text": "11.72 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "77 years"
+        "text": "77.25 years"
       },
       "male": {
-        "text": "74.6 years"
+        "text": "74.81 years"
       },
       "female": {
-        "text": "79.6 years (2020 est.)"
-      },
-      "country comparison to the world": 86
+        "text": "79.85 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "2.84 children born/woman (2020 est.)",
-      "country comparison to the world": 58
+      "text": "2.81 children born/woman (2021 est.)"
     },
     "Drinking water source": {
-      "improved": {
+      "improved: total": {
         "text": "total: 100% of population"
       },
-      "unimproved": {
+      "unimproved: total": {
         "text": "total: 0% of population (2017 est.)"
       }
     },
     "Sanitation facility access": {
-      "improved": {
-        "text": "urban: 89.8% of population (2015 est.) / rural: 89.8% of population (2015 est.) / total: 89.8% of population (2015 est.)"
+      "improved: urban": {
+        "text": "urban: 89.8% of population (2015 est.)"
       },
-      "unimproved": {
-        "text": "urban: 10.2% of population (2015 est.) / rural: 10.2% of population (2015 est.) / total: 10.2% of population (2015 est.)"
+      "improved: rural": {
+        "text": "rural: 89.8% of population (2015 est.)"
+      },
+      "improved: total": {
+        "text": "total: 89.8% of population (2015 est.)"
+      },
+      "unimproved: urban": {
+        "text": "urban: 10.2% of population (2015 est.)"
+      },
+      "unimproved: rural": {
+        "text": "rural: 10.2% of population (2015 est.)"
+      },
+      "unimproved: total": {
+        "text": "total: 10.2% of population (2015 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -273,8 +283,7 @@
       },
       "female": {
         "text": "28.9% (2011 est.)"
-      },
-      "country comparison to the world": 33
+      }
     }
   },
   "Government": {
@@ -299,7 +308,7 @@
       }
     },
     "Dependency status": {
-      "text": "unincorporated organized territory of the US with policy relations between Guam and the federal government under the jurisdiction of the Office of Insular Affairs, US Department of the Interior"
+      "text": "unincorporated organized territory of the US with policy relations between Guam and the&nbsp;federal government&nbsp;under the jurisdiction of the Office of Insular Affairs, US Department of the Interior"
     },
     "Government type": {
       "text": "republican form of government with separate executive, legislative, and judicial branches; unincorporated organized territory of the US with local self-government"
@@ -314,7 +323,7 @@
       "time difference": {
         "text": "UTC+10 (15 hours ahead of Washington, DC, during Standard Time)"
       },
-      "note": "etymology: the name is derived from the Chamoru word \"haga,\" meaning \"blood\", and may refer to the bloodlines of the various families that established the original settlement"
+      "note": "<br><br><strong>etymology:</strong> the name is derived from the Chamoru word \"haga,\" meaning \"blood\", and may refer to the bloodlines of the various families that established the original settlement"
     },
     "Administrative divisions": {
       "text": "none (territory of the US)"
@@ -337,14 +346,14 @@
       "text": "common law modeled on US system; US federal laws apply"
     },
     "Citizenship": {
-      "note": "see United States"
+      "text": "see United States"
     },
     "Suffrage": {
       "text": "18 years of age; universal; note - Guamanians are US citizens but do not vote in US presidential elections"
     },
     "Executive branch": {
       "chief of state": {
-        "text": "President Donald J. TRUMP (since 20 January 2017); Vice President Michael R. PENCE (since 20 January 2017)"
+        "text": "<p>President Joseph R. BIDEN Jr. (since 20 January 2021); Vice President Kamala D. HARRIS (since 20 January 2021)</p>"
       },
       "head of government": {
         "text": "Governor Lourdes LEON GUERRERO (since 7 January 2019); Lieutenant Governor Josh TENORIO (since 7 January 2019)"
@@ -356,7 +365,7 @@
         "text": "president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state to serve a 4-year term (eligible for a second term); under the US Constitution, residents of unincorporated territories, such as Guam, do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican presidential primary elections; governor and lieutenant governor elected on the same ballot by absolute majority vote in 2 rounds if needed for a 4-year term (eligible for 2 consecutive terms); election last held on 6 November 2018 (next to be held in November 2022)"
       },
       "election results": {
-        "text": "Lourdes LEON GUERRERO elected governor; percent of vote - Lourdes LEON GUERRERO (Democratic Party) 50.7%, Ray TENORIO (Republican Party) 26.4%; Josh TENORIO (Democratic Party) elected lieutenant governor"
+        "text": "Lourdes LEON GUERRERO elected governor; percent of vote - &nbsp;Lourdes LEON GUERRERO (Democratic Party) 50.7%, Ray TENORIO (Republican Party) 26.4%; Josh TENORIO (Democratic Party) elected lieutenant governor"
       }
     },
     "Legislative branch": {
@@ -369,7 +378,7 @@
       "election results": {
         "text": "percent of vote by party - NA; seats by party - Democratic Party 10, Republican Party 5; composition - men 5, women 10, percent of women 66.7%"
       },
-      "note": "note: Guam directly elects 1 member by simple majority vote to serve a 2-year term as a delegate to the US House of Representatives; the delegate can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a \"full floor\" House vote; election of delegate last held on 6 November 2018 (next to be held on 3 November 2020); election results - seat by party - Democratic Party 1; composition 1 man"
+      "note": "<p><strong>note:</strong> Guam directly elects 1 member by simple majority vote to serve a 2-year term as a delegate to the US House of Representatives; the delegate can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a &ldquo;full floor&rdquo; House vote; election of delegate last held on 6 November 2018 (next to be held on 3 November 2020); election results - seat by party - Democratic Party 1; composition 1 man</p>"
     },
     "Judicial branch": {
       "highest courts": {
@@ -383,20 +392,22 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Democratic Party [Joaquin \"Kin\" PEREZ] ++ Republican Party [Jerry CRISOSTOMO]"
+      "text": "Democratic Party [Joaquin \"Kin\" PEREZ]<br />Republican Party [Jerry CRISOSTOMO]"
     },
     "International organization participation": {
       "text": "AOSIS (observer), IOC, PIF (observer), SPC, UPU"
     },
     "Diplomatic representation in the US": {
-      "note": "none (territory of the US)"
+      "text": "none (territory of the US)"
     },
     "Diplomatic representation from the US": {
-      "text": "none (territory of the US)"
+      "embassy": {
+        "text": "none (territory of the US)"
+      }
     },
     "Flag description": {
       "text": "territorial flag is dark blue with a narrow red border on all four sides; centered is a red-bordered, pointed, vertical ellipse containing a beach scene, a proa or outrigger canoe with sail, and a palm tree with the word GUAM superimposed in bold red letters; the proa is sailing in Agana Bay with the promontory of Punta Dos Amantes, near the capital, in the background; the shape of the central emblem is that of a Chamorro sling stone, used as a weapon for defense or hunting; blue represents the sea and red the blood shed in the struggle against oppression",
-      "note": "note: the US flag is the national flag"
+      "note": "<p><strong>note:</strong> the US flag is the national flag</p>"
     },
     "National symbol(s)": {
       "text": "coconut tree; national colors: deep blue, red"
@@ -408,30 +419,56 @@
       "lyrics/music": {
         "text": "Ramon Manalisay SABLAN [English], Lagrimas UNTALAN [Chamoru]/Ramon Manalisay SABLAN"
       },
-      "note": "note: adopted 1919; the local anthem is also known as \"Guam Hymn\"; as a territory of the United States, \"The Star-Spangled Banner,\" which generally follows the playing of \"Stand Ye Guamanians,\" is official (see United States)"
+      "note": "<p><strong>note:</strong> adopted 1919; the local anthem is also known as \"Guam Hymn\"; as a territory of the United States, \"The Star-Spangled Banner,\" which generally follows the playing of \"Stand Ye Guamanians,\" is official (see United States)</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "US national defense spending is the main driver of Guam's economy, followed closely by tourism and other services. Guam serves as a forward US base for the Western Pacific and is home to thousands of American military personnel. Total federal spending (defense and non-defense) amounted to $1.988 billion in 2016, or 34.2 of Guam's GDP. Of that total, federal grants and cover-over payments amounted to $3444.1 million in 2016, or 35.8% of Guam's total revenues for the fiscal year. In 2016, Guam's economy grew 0.3%. Despite slow growth, Guam's economy has been stable over the last decade. National defense spending cushions the island's economy against fluctuations in tourism. Service exports, mainly spending by foreign tourists in Guam, amounted to over $1 billion for the first time in 2016, or 17.8% of GDP."
+      "text": "US national defense spending is the main driver of Guam’s economy, followed closely by tourism and other services. Guam serves as a forward US base for the Western Pacific and is home to thousands of American military personnel. Total federal spending (defense and non-defense) amounted to $1.988 billion in 2016, or 34.2 of Guam’s GDP. Of that total, federal grants and cover-over payments amounted to $3444.1 million in 2016, or 35.8% of Guam’s total revenues for the fiscal year. In 2016, Guam’s economy grew 0.3%. Despite slow growth, Guam’s economy has been stable over the last decade. National defense spending cushions the island’s economy against fluctuations in tourism. Service exports, mainly spending by foreign tourists in Guam, amounted to over $1 billion for the first time in 2016, or 17.8% of GDP."
     },
-    "GDP real growth rate": {
-      "text": "0.4% (2016 est.) / 0.5% (2015 est.) / 1.6% (2014 est.)",
-      "country comparison to the world": 186
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2016": {
+        "text": "0.4% (2016 est.)"
+      },
+      "Real GDP growth rate 2015": {
+        "text": "0.5% (2015 est.)"
+      },
+      "Real GDP growth rate 2014": {
+        "text": "1.6% (2014 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "1% (2017 est.) / 0% (2016 est.)",
-      "country comparison to the world": 66
+      "Inflation rate (consumer prices) 2017": {
+        "text": "1% (2017 est.)"
+      },
+      "Inflation rate (consumer prices) 2016": {
+        "text": "0% (2016 est.)"
+      }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$5.793 billion (2016 est.) / $5.697 billion (2015 est.) / $5.531 billion (2014 est.)"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2016": {
+        "text": "$5.793 billion (2016 est.)"
+      },
+      "Real GDP (purchasing power parity) 2015": {
+        "text": "$5.697 billion (2015 est.)"
+      },
+      "Real GDP (purchasing power parity) 2014": {
+        "text": "$5.531 billion (2014 est.)"
+      }
     },
     "GDP (official exchange rate)": {
       "text": "$5.793 billion (2016 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$35,600 (2016 est.) / $35,200 (2015 est.) / $34,400 (2014 est.)",
-      "country comparison to the world": 48
+    "Real GDP per capita": {
+      "Real GDP per capita 2016": {
+        "text": "$35,600 (2016 est.)"
+      },
+      "Real GDP per capita 2015": {
+        "text": "$35,200 (2015 est.)"
+      },
+      "Real GDP per capita 2014": {
+        "text": "$34,400 (2014 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -464,9 +501,7 @@
         "text": "-51.2% (2016 est.)"
       }
     },
-    "Ease of Doing Business Index scores": {
-    },
-    "Agriculture - products": {
+    "Agricultural products": {
       "text": "fruits, copra, vegetables; eggs, pork, poultry, beef"
     },
     "Industries": {
@@ -477,8 +512,7 @@
     },
     "Labor force": {
       "text": "73,210 (2016 est.)",
-      "note": "note: includes only the civilian labor force",
-      "country comparison to the world": 183
+      "note": "<p><strong>note:</strong> includes only the civilian labor force</p>"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -492,8 +526,12 @@
       }
     },
     "Unemployment rate": {
-      "text": "4.5% (2017 est.) / 3.9% (2016 est.)",
-      "country comparison to the world": 68
+      "Unemployment rate 2017": {
+        "text": "4.5% (2017 est.)"
+      },
+      "Unemployment rate 2016": {
+        "text": "3.9% (2016 est.)"
+      }
     },
     "Population below poverty line": {
       "text": "23% (2001 est.)"
@@ -515,23 +553,29 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "21.4% (of GDP) (2016 est.)",
-      "country comparison to the world": 139
+      "text": "21.4% (of GDP) (2016 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-1% (of GDP) (2016 est.)",
-      "country comparison to the world": 78
+      "text": "-1% (of GDP) (2016 est.)"
     },
     "Public debt": {
-      "text": "22.1% of GDP (2016 est.) / 32.1% of GDP (2013)",
-      "country comparison to the world": 184
+      "Public debt 2016": {
+        "text": "22.1% of GDP (2016 est.)"
+      },
+      "Public debt 2013": {
+        "text": "32.1% of GDP (2013)"
+      }
     },
     "Fiscal year": {
       "text": "1 October - 30 September"
     },
     "Exports": {
-      "text": "$1.124 billion (2016 est.) / $1.046 billion (2015 est.)",
-      "country comparison to the world": 156
+      "Exports 2016": {
+        "text": "$1.124 billion (2016 est.)"
+      },
+      "Exports 2015": {
+        "text": "$1.046 billion (2015 est.)"
+      }
     },
     "Exports - partners": {
       "text": "Palau 13.6% (2017)"
@@ -540,20 +584,24 @@
       "text": "transshipments of refined petroleum products, construction materials, fish, foodstuffs and beverages"
     },
     "Imports": {
-      "text": "$2.964 billion (2016 est.) / $3.054 billion (2015 est.)",
-      "country comparison to the world": 155
-    },
-    "Imports - commodities": {
-      "text": "petroleum and petroleum products, food, manufactured goods"
+      "Imports 2016": {
+        "text": "$2.964 billion (2016 est.)"
+      },
+      "Imports 2015": {
+        "text": "$3.054 billion (2015 est.)"
+      }
     },
     "Imports - partners": {
       "text": "Singapore 41.7%, Japan 30.6%, Hong Kong 10.6% (2017)"
     },
+    "Imports - commodities": {
+      "text": "petroleum and petroleum products, food, manufactured goods"
+    },
     "Debt - external": {
-      "note": "NA"
+      "text": "<p>NA</p>"
     },
     "Exchange rates": {
-      "note": "the US dollar is used"
+      "text": "<p>the US dollar is used</p>"
     }
   },
   "Energy": {
@@ -563,96 +611,73 @@
       }
     },
     "Electricity - production": {
-      "text": "1.722 billion kWh (2016 est.)",
-      "country comparison to the world": 141
+      "text": "1.722 billion kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "1.601 billion kWh (2016 est.)",
-      "country comparison to the world": 146
+      "text": "1.601 billion kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 143
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - imports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 155
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "560,000 kW (2016 est.)",
-      "country comparison to the world": 143
+      "text": "560,000 kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "94% of total installed capacity (2016 est.)",
-      "country comparison to the world": 45
+      "text": "94% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 101
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 175
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "6% of total installed capacity (2017 est.)",
-      "country comparison to the world": 98
+      "text": "6% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "0 bbl/day (2018 est.)",
-      "country comparison to the world": 144
+      "text": "0 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 132
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - imports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 135
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2018 est.)",
-      "country comparison to the world": 140
+      "text": "0 bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 152
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "14,000 bbl/day (2016 est.)",
-      "country comparison to the world": 153
+      "text": "14,000 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 161
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "13,500 bbl/day (2015 est.)",
-      "country comparison to the world": 141
+      "text": "13,500 bbl/day (2015 est.)"
     },
     "Natural gas - production": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 140
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 153
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 115
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 133
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "0 cu m (1 January 2014 est.)",
-      "country comparison to the world": 142
+      "text": "0 cu m (1 January 2014 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "2.214 million Mt (2017 est.)",
-      "country comparison to the world": 157
+      "text": "2.214 million Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -662,8 +687,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "42.01 (2019 est.)"
-      },
-      "country comparison to the world": 149
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -671,8 +695,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "113 (July 2016 est.)"
-      },
-      "country comparison to the world": 185
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
@@ -684,7 +707,7 @@
       "international": {
         "text": "country code - 1-671; major landing points for Atisa, HANTRU1, HK-G, JGA-N, JGA-S, PIPE-1, SEA-US, SxS, Tata TGN-Pacific, AJC, GOKI, AAG, AJC and Mariana-Guam Cable submarine cables between Asia, Australia, and the US (Guam is a transpacific communications hub for major carriers linking the US and Asia); satellite earth stations - 2 Intelsat (Pacific Ocean) (2019)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "about a dozen TV channels, including digital channels; multi-channel cable TV services are available; roughly 20 radio stations"
@@ -698,14 +721,14 @@
       },
       "percent of population": {
         "text": "80.51% (July 2018 est.)"
-      },
-      "country comparison to the world": 177
+      }
     }
   },
   "Transportation": {
     "Airports": {
-      "text": "5 (2013)",
-      "country comparison to the world": 179
+      "total": {
+        "text": "5 (2013)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -732,17 +755,15 @@
     "Roadways": {
       "total": {
         "text": "1,045 km (2008)"
-      },
-      "country comparison to the world": 184
+      }
     },
     "Merchant marine": {
       "total": {
         "text": "3"
       },
       "by type": {
-        "text": "other 3 (2019)"
-      },
-      "country comparison to the world": 171
+        "text": "other 3 (2020)"
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -757,7 +778,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "none"
+      "text": "<p>none</p>"
     }
   }
 }

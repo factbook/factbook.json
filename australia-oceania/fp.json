@@ -23,14 +23,15 @@
       },
       "water": {
         "text": "340 sq km"
-      },
-      "country comparison to the world": 174
+      }
     },
     "Area - comparative": {
       "text": "slightly less than one-third the size of Connecticut"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "2,525 km"
@@ -64,8 +65,14 @@
       "agricultural land": {
         "text": "12.5% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "0.7% (2011 est.) / 6.3% (2011 est.) / 5.5% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 0.7% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 6.3% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 5.5% (2011 est.)"
       },
       "forest": {
         "text": "43.7% (2011 est.)"
@@ -92,8 +99,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "295,121 (July 2020 est.)",
-      "country comparison to the world": 180
+      "text": "297,154 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -152,24 +158,19 @@
       },
       "female": {
         "text": "33.5 years (2020 est.)"
-      },
-      "country comparison to the world": 98
+      }
     },
     "Population growth rate": {
-      "text": "0.79% (2020 est.)",
-      "country comparison to the world": 127
+      "text": "0.75% (2021 est.)"
     },
     "Birth rate": {
-      "text": "14 births/1,000 population (2020 est.)",
-      "country comparison to the world": 134
+      "text": "13.69 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "5.5 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 182
+      "text": "5.51 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "-0.7 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 130
+      "text": "-0.66 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "the majority of the population lives in the Society Islands, one of five archipelagos that includes the most populous island - Tahiti - with approximately 70% of the nation's population"
@@ -210,37 +211,34 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "4.5 deaths/1,000 live births"
+        "text": "4.46 deaths/1,000 live births"
       },
       "male": {
-        "text": "5 deaths/1,000 live births"
+        "text": "5.37 deaths/1,000 live births"
       },
       "female": {
-        "text": "4 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 181
+        "text": "3.51 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "77.9 years"
+        "text": "78.19 years"
       },
       "male": {
-        "text": "75.6 years"
+        "text": "75.86 years"
       },
       "female": {
-        "text": "80.4 years (2020 est.)"
-      },
-      "country comparison to the world": 71
+        "text": "80.63 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "1.83 children born/woman (2020 est.)",
-      "country comparison to the world": 144
+      "text": "1.82 children born/woman (2021 est.)"
     },
     "Drinking water source": {
-      "improved": {
+      "improved: total": {
         "text": "total: 100% of population"
       },
-      "unimproved": {
+      "unimproved: total": {
         "text": "total: 0% of population (2017 est.)"
       }
     },
@@ -248,10 +246,10 @@
       "text": "2.13 physicians/1,000 population (2009)"
     },
     "Sanitation facility access": {
-      "improved": {
+      "improved: total": {
         "text": "total: 96.9% of population"
       },
-      "unimproved": {
+      "unimproved: total": {
         "text": "total: 3.1% of population (2017 est.)"
       }
     },
@@ -284,8 +282,7 @@
       },
       "female": {
         "text": "59.7% (2012 est.)"
-      },
-      "country comparison to the world": 1
+      }
     }
   },
   "Government": {
@@ -325,7 +322,7 @@
       "time difference": {
         "text": "UTC-10 (5 hours behind Washington, DC, during Standard Time)"
       },
-      "note": "etymology: the name means \"water basket\" and refers to the fact that the islanders originally used calabashes enclosed in baskets to fetch water at a spring in the area"
+      "note": "<br><br><strong>etymology:</strong> the name means \"water basket\" and refers to the fact that the islanders originally used calabashes enclosed in baskets to fetch water at a spring in the area"
     },
     "Administrative divisions": {
       "text": "5 administrative subdivisions (subdivisions administratives, singular - subdivision administrative): Iles Australes (Austral Islands), Iles du Vent (Windward Islands), Iles Marquises (Marquesas Islands), Iles Sous-le-Vent (Leeward Islands), Iles Tuamotu-Gambier; note - the Leeward Islands and the Windward Islands together make up the Society Islands (Iles de la Societe)"
@@ -348,7 +345,7 @@
       "text": "the laws of France, where applicable, apply"
     },
     "Citizenship": {
-      "note": "see France"
+      "text": "see France"
     },
     "Suffrage": {
       "text": "18 years of age; universal"
@@ -369,13 +366,13 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "unicameral Assembly of French Polynesia or Assemblée de la Polynésie française (57 seats; elections held in 2 rounds; in the second round, 38 members directly elected in multi-seat constituencies by a closed-list proportional representation vote; the party receiving the most votes gets an additional 19 seats; members serve 5-year terms) ++ ++ ++ French Polynesia indirectly elects 2 senators to the French Senate via an electoral college by absolute majority vote for 6-year terms with one-half the membership renewed every 3 years and directly elects 3 deputies to the French National Assembly by absolute majority vote in 2 rounds if needed for 5-year terms"
+        "text": "unicameral Assembly of French Polynesia or Assembl&eacute;e de la Polyn&eacute;sie fran&ccedil;aise (57 seats; elections held in 2 rounds; in the second round, 38 members directly elected in multi-seat constituencies by a closed-list proportional representation vote; the party receiving the most votes gets an additional 19 seats; members serve 5-year terms)<br /> <br /> <br /> <br /> <br />French Polynesia indirectly&nbsp;elects 2 senators to the French Senate via an electoral college by absolute majority vote for 6-year terms with one-half the membership renewed every 3 years and directly elects 3 deputies to the French National Assembly by absolute majority vote in 2 rounds if needed for 5-year terms"
       },
       "elections": {
-        "text": "Assembly of French Polynesia - last held on 22 April 2018 and 6 May 2018 (next to be held in 2023) ++ French Senate - last held in September 2017 (next to be held in September 2020) ++ French National Assembly - last held in 2 rounds on 3 and 17 June 2017 (next to be held in 2022)"
+        "text": "<p>Assembly of French Polynesia - last held on 22 April 2018 and 6 May 2018 (next to be held in 2023)<br />French Senate - last held in September 2017 (next to be held in September 2020)<br />French National Assembly - last held in 2 rounds on 3 and 17 June 2017 (next to be held in 2022)</p>"
       },
       "election results": {
-        "text": "Assembly of French Polynesia - percent of vote by party - Tapura Huiraatira 45.1%, Popular Rally 29.3%, Tavini Huiraatira 25.6%; seats by party - Tapura Huiraatira 38, Popular Rally 11, Tavini Huiraatira 8; composition - men 27, women 30, percent of women 52.6% ++ French Senate - percent of vote by party - NA; seats by party - Popular Rally 1, People's Servant Party 1; composition - men 246, women 102, percent of women 29.3% ++ French National Assembly - percent of vote by party - NA; seats by party - Tapura Huiractura 2, Tavini Huiraatura 1; composition - men 353, women 224, percent of women 38.8%; note - total Parliament percent of women 20%"
+        "text": "<p>Assembly of French Polynesia - percent of vote by party - Tapura Huiraatira 45.1%, Popular Rally 29.3%, Tavini Huiraatira 25.6%; seats by party - Tapura Huiraatira 38, Popular Rally 11, Tavini Huiraatira 8; composition - men 27, women 30, percent of women 52.6%<br />French Senate - percent of vote by party - NA; seats by party - Popular Rally 1, People's Servant Party 1; composition - men 246, women 102, percent of women 29.3%<br />French National Assembly - percent of vote by party - NA; seats by party - Tapura Huiractura 2, Tavini Huiraatura 1; composition - men 353, women 224, percent of women 38.8%; note - total Parliament percent of women 20%</p>"
       }
     },
     "Judicial branch": {
@@ -390,20 +387,22 @@
       }
     },
     "Political parties and leaders": {
-      "text": "A Tia Porinetia [Teva ROHFRITSCH] ++ Alliance for a New Democracy or ADN (includes The New Star [Philip SCHYLE], This Country is Yours [Nicole BOUTEAU]) ++ New Fatherland Party (Ai'a Api) [Emile VERNAUDON] ++ Our Home alliance ++ People's Servant Party (Tavini Huiraatira) [Oscar TEMARU] ++ Popular Rally (Tahoeraa Huiraatira) [Gaston FLOSSE] ++ Tapura Huiraatira [Edouard FRITICH] ++ Tavini Huiraatira [James CHANCELOR] ++ Union for Democracy alliance or UPD [Oscar TEMARU]"
+      "text": "A Tia Porinetia [Teva ROHFRITSCH]<br />Alliance for a New Democracy or ADN (includes The New Star [Philip SCHYLE], This Country is Yours [Nicole BOUTEAU])<br />New Fatherland Party (Ai'a Api) [Emile VERNAUDON]<br />Our Home alliance<br />People's Servant Party (Tavini Huiraatira) [Oscar TEMARU]<br />Popular Rally (Tahoeraa Huiraatira) [Gaston FLOSSE]<br />Tapura Huiraatira [Edouard FRITICH]<br />Tavini Huiraatira [James CHANCELOR]<br />Union for Democracy alliance or UPD [Oscar TEMARU]"
     },
     "International organization participation": {
       "text": "ITUC (NGOs), PIF (associate member), SPC, UPU, WMO"
     },
     "Diplomatic representation in the US": {
-      "note": "none (overseas lands of France)"
+      "text": "none (overseas lands of France)"
     },
     "Diplomatic representation from the US": {
-      "text": "none (overseas lands of France)"
+      "embassy": {
+        "text": "none (overseas lands of France)"
+      }
     },
     "Flag description": {
       "text": "two red horizontal bands encase a wide white band in a 1:2:1 ratio; centered on the white band is a disk with a blue and white wave pattern depicting the sea on the lower half and a gold and white ray pattern depicting the sun on the upper half; a Polynesian canoe rides on the wave pattern; the canoe has a crew of five represented by five stars that symbolize the five island groups; red and white are traditional Polynesian colors",
-      "note": "note: identical to the red-white-red flag of Tahiti, the largest and most populous of the islands in French Polynesia, but which has no emblem in the white band; the flag of France is used for official occasions"
+      "note": "<p><strong>note:</strong> identical to the red-white-red flag of Tahiti, the largest and most populous of the islands in French Polynesia, but which has no emblem in the white band; the flag of France is used for official occasions</p>"
     },
     "National symbol(s)": {
       "text": "outrigger canoe, Tahitian gardenia (Gardenia taitensis) flower; national colors: red, white"
@@ -415,7 +414,7 @@
       "lyrics/music": {
         "text": "Maeva BOUGES, Irmine TEHEI, Angele TEROROTUA, Johanna NOUVEAU, Patrick AMARU, Louis MAMATUI, and Jean-Pierre CELESTIN (the compositional group created both the lyrics and music)"
       },
-      "note": "note: adopted 1993; serves as a local anthem; as a territory of France, \"La Marseillaise\" is official (see France)"
+      "note": "<p><strong>note:</strong> adopted 1993; serves as a local anthem; as a territory of France, \"La Marseillaise\" is official (see France)</p>"
     },
     "Government - note": {
       "text": "under certain acts of France, French Polynesia has acquired autonomy in all areas except those relating to police, monetary policy, tertiary education, immigration, and defense and foreign affairs; the duties of its president are fashioned after those of the French prime minister"
@@ -423,25 +422,51 @@
   },
   "Economy": {
     "Economic overview": {
-      "text": "Since 1962, when France stationed military personnel in the region, French Polynesia has changed from a subsistence agricultural economy to one in which a high proportion of the work force is either employed by the military or supports the tourist industry. With the halt of French nuclear testing in 1996, the military contribution to the economy fell sharply. ++ After growing at an average yearly rate of 4.2% from 1997-2007, the economic and financial crisis in 2008 marked French Polynesia's entry into recession. However, since 2014, French Polynesia has shown signs of recovery. Business turnover reached 1.8% year-on-year in September 2016, tourism increased 1.8% in 2015, and GDP grew 2.0% in 2015. ++ French Polynesia's tourism-dominated service sector accounted for 85% of total value added for the economy in 2012. Tourism employs 17% of the workforce. Pearl farming is the second biggest industry, accounting for 54% of exports in 2015; however, the output has decreased to 12.5 tons – the lowest level since 2008. A small manufacturing sector predominantly processes commodities from French Polynesia's primary sector - 8% of total economy in 2012 - including agriculture and fishing. ++ France has agreed to finance infrastructure, marine businesses, and cultural and ecological sites at roughly $80 million per year between 2015 and 2020. Japan, the US, and China are French Polynesia's three largest trade partners."
+      "text": "<p>Since 1962, when France stationed military personnel in the region, French Polynesia has changed from a subsistence agricultural economy to one in which a high proportion of the work force is either employed by the military or supports the tourist industry. With the halt of French nuclear testing in 1996, the military contribution to the economy fell sharply.</p><p></p><p>After growing at an average yearly rate of 4.2% from 1997-2007, the economic and financial crisis in 2008 marked French Polynesia’s entry into recession. However, since 2014, French Polynesia has shown signs of recovery. Business turnover reached 1.8% year-on-year in September 2016, tourism increased 1.8% in 2015, and GDP grew 2.0% in 2015.</p><p></p><p>French Polynesia’s tourism-dominated service sector accounted for 85% of total value added for the economy in 2012. Tourism employs 17% of the workforce. Pearl farming is the second biggest industry, accounting for 54% of exports in 2015; however, the output has decreased to 12.5 tons – the lowest level since 2008. A small manufacturing sector predominantly processes commodities from French Polynesia’s primary sector - 8% of total economy in 2012 - including agriculture and fishing.</p><p></p><p>France has agreed to finance infrastructure, marine businesses, and cultural and ecological sites at roughly $80 million per year between 2015 and 2020. Japan, the US, and China are French Polynesia’s three largest trade partners.</p>"
     },
-    "GDP real growth rate": {
-      "text": "2% (2015 est.) / -2.7% (2014 est.) / -2.5% (2010 est.)",
-      "country comparison to the world": 136
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2015": {
+        "text": "2% (2015 est.)"
+      },
+      "Real GDP growth rate 2014": {
+        "text": "-2.7% (2014 est.)"
+      },
+      "Real GDP growth rate 2010": {
+        "text": "-2.5% (2010 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "0% (2015 est.) / 0.3% (2014 est.)",
-      "country comparison to the world": 20
+      "Inflation rate (consumer prices) 2015": {
+        "text": "0% (2015 est.)"
+      },
+      "Inflation rate (consumer prices) 2014": {
+        "text": "0.3% (2014 est.)"
+      }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$5.49 billion (2017 est.) / $5.383 billion (2016 est.) / $6.963 billion (2015 est.)"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2017": {
+        "text": "$5.49 billion (2017 est.)"
+      },
+      "Real GDP (purchasing power parity) 2016": {
+        "text": "$5.383 billion (2016 est.)"
+      },
+      "Real GDP (purchasing power parity) 2015": {
+        "text": "$6.963 billion (2015 est.)"
+      }
     },
     "GDP (official exchange rate)": {
       "text": "$4.795 billion (2015 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$17,000 (2015 est.) / $20,100 (2014 est.) / $22,700 (2010)",
-      "country comparison to the world": 83
+    "Real GDP per capita": {
+      "Real GDP per capita 2015": {
+        "text": "$17,000 (2015 est.)"
+      },
+      "Real GDP per capita 2014": {
+        "text": "$20,100 (2014 est.)"
+      },
+      "Real GDP per capita 2010": {
+        "text": "$22,700 (2010)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -474,10 +499,8 @@
         "text": "-37.5% (2014 est.)"
       }
     },
-    "Ease of Doing Business Index scores": {
-    },
-    "Agriculture - products": {
-      "text": "coconuts, vanilla, vegetables, fruits, coffee; poultry, beef, dairy products; fish"
+    "Agricultural products": {
+      "text": "coconuts, fruit, roots/tubers nes, pineapples, cassava, sugar cane, eggs, tropical fruit, tomatoes"
     },
     "Industries": {
       "text": "tourism, pearls, agricultural processing, handicrafts, phosphates"
@@ -486,8 +509,7 @@
       "text": "NA"
     },
     "Labor force": {
-      "text": "126,300 (2016 est.)",
-      "country comparison to the world": 178
+      "text": "126,300 (2016 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -501,8 +523,12 @@
       }
     },
     "Unemployment rate": {
-      "text": "21.8% (2012) / 11.7% (2010)",
-      "country comparison to the world": 192
+      "Unemployment rate 2012": {
+        "text": "21.8% (2012)"
+      },
+      "Unemployment rate 2010": {
+        "text": "11.7% (2010)"
+      }
     },
     "Population below poverty line": {
       "text": "19.7% (2009 est.)"
@@ -524,23 +550,29 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "39.4% (of GDP) (2012)",
-      "country comparison to the world": 46
+      "text": "39.4% (of GDP) (2012)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "1.2% (of GDP) (2012)",
-      "country comparison to the world": 28
+      "text": "1.2% (of GDP) (2012)"
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Current account balance": {
-      "text": "$207.7 million (2014 est.) / $158.8 million (2013 est.)",
-      "country comparison to the world": 57
+      "Current account balance 2014": {
+        "text": "$207.7 million (2014 est.)"
+      },
+      "Current account balance 2013": {
+        "text": "$158.8 million (2013 est.)"
+      }
     },
     "Exports": {
-      "text": "$1.245 billion (2014 est.) / $1.168 billion (2013 est.)",
-      "country comparison to the world": 152
+      "Exports 2014": {
+        "text": "$1.245 billion (2014 est.)"
+      },
+      "Exports 2013": {
+        "text": "$1.168 billion (2013 est.)"
+      }
     },
     "Exports - partners": {
       "text": "Japan 23.1%, Hong Kong 21.5%, Kyrgyzstan 15.9%, US 15.9%, France 12.4% (2017)"
@@ -549,20 +581,41 @@
       "text": "cultured pearls, coconut products, mother-of-pearl, vanilla, shark meat"
     },
     "Imports": {
-      "text": "$2.235 billion (2014 est.) / $2.271 billion (2013 est.)",
-      "country comparison to the world": 167
-    },
-    "Imports - commodities": {
-      "text": "fuels, foodstuffs, machinery and equipment"
+      "Imports 2014": {
+        "text": "$2.235 billion (2014 est.)"
+      },
+      "Imports 2013": {
+        "text": "$2.271 billion (2013 est.)"
+      }
     },
     "Imports - partners": {
       "text": "France 27.9%, South Korea 12.1%, US 10.1%, China 7.3%, NZ 6.7%, Singapore 4.2% (2017)"
     },
+    "Imports - commodities": {
+      "text": "fuels, foodstuffs, machinery and equipment"
+    },
     "Debt - external": {
-      "note": "NA"
+      "text": "<p>NA</p>"
     },
     "Exchange rates": {
-      "text": "Comptoirs Francais du Pacifique francs (XPF) per US dollar - / 110.2 (2017 est.) / 107.84 (2016 est.) / 107.84 (2015 est.) / 89.85 (2014 est.) / 90.56 (2013 est.)"
+      "currency": {
+        "text": "Comptoirs Francais du Pacifique francs (XPF) per US dollar -"
+      },
+      "Exchange rates 2017": {
+        "text": "110.2 (2017 est.)"
+      },
+      "Exchange rates 2016": {
+        "text": "107.84 (2016 est.)"
+      },
+      "Exchange rates 2015": {
+        "text": "107.84 (2015 est.)"
+      },
+      "Exchange rates 2014": {
+        "text": "89.85 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "90.56 (2013 est.)"
+      }
     }
   },
   "Energy": {
@@ -572,96 +625,73 @@
       }
     },
     "Electricity - production": {
-      "text": "677.3 million kWh (2016 est.)",
-      "country comparison to the world": 158
+      "text": "677.3 million kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "629.9 million kWh (2016 est.)",
-      "country comparison to the world": 164
+      "text": "629.9 million kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 136
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - imports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 150
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "253,000 kW (2016 est.)",
-      "country comparison to the world": 163
+      "text": "253,000 kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "70% of total installed capacity (2016 est.)",
-      "country comparison to the world": 107
+      "text": "70% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 92
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "19% of total installed capacity (2017 est.)",
-      "country comparison to the world": 89
+      "text": "19% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "11% of total installed capacity (2017 est.)",
-      "country comparison to the world": 77
+      "text": "11% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "0 bbl/day (2018 est.)",
-      "country comparison to the world": 139
+      "text": "0 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 127
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - imports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 129
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2018 est.)",
-      "country comparison to the world": 134
+      "text": "0 bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 147
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "6,600 bbl/day (2016 est.)",
-      "country comparison to the world": 168
+      "text": "6,600 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 157
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "6,785 bbl/day (2015 est.)",
-      "country comparison to the world": 160
+      "text": "6,785 bbl/day (2015 est.)"
     },
     "Natural gas - production": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 135
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 148
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 106
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 127
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "0 cu m (1 January 2014 est.)",
-      "country comparison to the world": 137
+      "text": "0 cu m (1 January 2014 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "1.03 million Mt (2017 est.)",
-      "country comparison to the world": 168
+      "text": "1.03 million Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -671,8 +701,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "21.78 (2019 est.)"
-      },
-      "country comparison to the world": 152
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -680,12 +709,11 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "104.25 (2019 est.)"
-      },
-      "country comparison to the world": 179
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "one of the most advanced telecom infrastructures for the Pacific island region; 85% mobile broadband coverage; 40% of its mobile connections using 3G and the rest using emerging 4G LTE technology; 100% mobile penetration; uses Uplink systems of the Galileo satellite network; and with the launch of the Kacific-1 satellite in 2019, it will allow speedy access to the Internet for Pacific islands (2020)"
+        "text": "one of the most advanced telecom infrastructures for the Pacific island&nbsp;region; 85% mobile broadband coverage; 40% of its mobile connections using 3G and the rest using emerging 4G LTE technology; 100% mobile penetration;&nbsp;uses Uplink systems of the Galileo satellite network; and with the launch of the&nbsp;Kacific-1 satellite in 2019,&nbsp;it will allow speedy access to the Internet&nbsp;for Pacific islands (2020)"
       },
       "domestic": {
         "text": "fixed-line subscriptions 22 per 100 persons and mobile-cellular density is roughly 104 per 100 persons (2019)"
@@ -693,7 +721,7 @@
       "international": {
         "text": "country code - 689; landing points for the NATITUA, Manatua, and Honotua submarine cables to other French Polynesian Islands, Cook Islands, Niue, Samoa and US; satellite earth station - 1 Intelsat (Pacific Ocean) (2019)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "French public overseas broadcaster Reseau Outre-Mer provides 2 TV channels and 1 radio station; 1 government-owned TV station; a small number of privately owned radio stations (2019)"
@@ -707,8 +735,7 @@
       },
       "percent of population": {
         "text": "72.7% (July 2018 est.)"
-      },
-      "country comparison to the world": 174
+      }
     },
     "Broadband - fixed subscriptions": {
       "total": {
@@ -716,8 +743,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "21 (2018 est.)"
-      },
-      "country comparison to the world": 132
+      }
     }
   },
   "Transportation": {
@@ -733,8 +759,9 @@
       "text": "F-OH (2016)"
     },
     "Airports": {
-      "text": "54 (2013)",
-      "country comparison to the world": 86
+      "total": {
+        "text": "54 (2013)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -776,17 +803,15 @@
       },
       "unpaved": {
         "text": "855 km (1999)"
-      },
-      "country comparison to the world": 167
+      }
     },
     "Merchant marine": {
       "total": {
-        "text": "17"
+        "text": "24"
       },
       "by type": {
-        "text": "general cargo 10, other 7 (2019)"
-      },
-      "country comparison to the world": 145
+        "text": "general cargo 14, other 10 (2020)"
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -804,7 +829,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "none"
+      "text": "<p>none</p>"
     }
   }
 }

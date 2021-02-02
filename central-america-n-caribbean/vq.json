@@ -23,14 +23,15 @@
       },
       "water": {
         "text": "1,564 sq km"
-      },
-      "country comparison to the world": 181
+      }
     },
     "Area - comparative": {
       "text": "twice the size of Washington, DC"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "188 km"
@@ -64,8 +65,14 @@
       "agricultural land": {
         "text": "11.5% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "2.9% (2011 est.) / 2.9% (2011 est.) / 5.7% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 2.9% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 2.9% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 5.7% (2011 est.)"
       },
       "forest": {
         "text": "57.4% (2011 est.)"
@@ -92,8 +99,7 @@
   },
   "People and Society": {
     "Population": {
-      "text": "106,235 (July 2020 est.)",
-      "country comparison to the world": 191
+      "text": "105,870 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -105,7 +111,7 @@
     },
     "Ethnic groups": {
       "text": "Black 76%, White 15.6%, Asian 1.4%, other 4.9%, mixed 2.1% (2010 est.)",
-      "note": "note: 17.4% self-identify as latino"
+      "note": "<p><strong>note:</strong> 17.4% self-identify as latino</p>"
     },
     "Languages": {
       "text": "English 71.6%, Spanish or Spanish Creole 17.2%, French or French Creole 8.6%, other 2.5% (2010 est.)"
@@ -153,24 +159,19 @@
       },
       "female": {
         "text": "42.8 years (2020 est.)"
-      },
-      "country comparison to the world": 42
+      }
     },
     "Population growth rate": {
-      "text": "-0.37% (2020 est.)",
-      "country comparison to the world": 222
+      "text": "-0.42% (2021 est.)"
     },
     "Birth rate": {
-      "text": "12.1 births/1,000 population (2020 est.)",
-      "country comparison to the world": 161
+      "text": "11.84 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "8.5 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 74
+      "text": "8.58 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "-7.5 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 210
+      "text": "-7.42 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "while overall population density throughout the islands is relatively low, concentrations appear around Charlotte Amalie on St. Thomas and Christiansted on St. Croix"
@@ -211,45 +212,42 @@
     },
     "Infant mortality rate": {
       "total": {
-        "text": "7.4 deaths/1,000 live births"
+        "text": "7.81 deaths/1,000 live births"
       },
       "male": {
-        "text": "8.4 deaths/1,000 live births"
+        "text": "8.82 deaths/1,000 live births"
       },
       "female": {
-        "text": "6.3 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 158
+        "text": "6.74 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "79.8 years"
+        "text": "80.05 years"
       },
       "male": {
-        "text": "76.6 years"
+        "text": "76.84 years"
       },
       "female": {
-        "text": "83.2 years (2020 est.)"
-      },
-      "country comparison to the world": 51
+        "text": "83.45 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "2.03 children born/woman (2020 est.)",
-      "country comparison to the world": 108
+      "text": "2.01 children born/woman (2021 est.)"
     },
     "Drinking water source": {
-      "improved": {
+      "improved: total": {
         "text": "total: 98.7% of population"
       },
-      "unimproved": {
+      "unimproved: total": {
         "text": "total: 1.3% of population (2017 est.)"
       }
     },
     "Sanitation facility access": {
-      "improved": {
+      "improved: total": {
         "text": "total: 100% of population"
       },
-      "unimproved": {
+      "unimproved: total": {
         "text": "total: 100% of population (2017 est.)"
       }
     },
@@ -300,7 +298,7 @@
       "time difference": {
         "text": "UTC-4 (1 hour ahead of Washington, DC, during Standard Time)"
       },
-      "note": "etymology: originally called Taphus in Danish - meaning \"tap house\" or \"beer house\" because of its many beer halls - the town received a more dignified name in 1691 when it was named Charlotte Amalie in honor of Danish King Christian V's wife, Charlotte Amalie of Hesse-Kassel (1650–1714)"
+      "note": "<br><br><strong>etymology:</strong> originally called Taphus in Danish - meaning \"tap house\" or \"beer house\" because of its many beer halls - the town received a more dignified name in 1691 when it was named Charlotte Amalie in honor of Danish King Christian V&rsquo;s wife, Charlotte Amalie of Hesse-Kassel (1650&ndash;1714)"
     },
     "Administrative divisions": {
       "text": "none (territory of the US); there are no first-order administrative divisions as defined by the US Government, but there are 3 islands at the second order; Saint Croix, Saint John, Saint Thomas"
@@ -323,14 +321,14 @@
       "text": "US common law"
     },
     "Citizenship": {
-      "note": "see United States"
+      "text": "see United States"
     },
     "Suffrage": {
       "text": "18 years of age; universal; note - island residents are US citizens but do not vote in US presidential elections"
     },
     "Executive branch": {
       "chief of state": {
-        "text": "President Donald J. TRUMP (since 20 January 2017); Vice President Michael R. PENCE (since 20 January 2017)"
+        "text": "President Joseph R. BIDEN Jr. (since 20 January 2021); Vice President Kamala D. HARRIS (since 20 January 2021)"
       },
       "head of government": {
         "text": "Governor Albert BRYAN, Jr. (since 7 January 2019), Lieutenant Governor Tregenza ROACH (since 7 January 2019)"
@@ -339,23 +337,23 @@
         "text": "Territorial Cabinet appointed by the governor and confirmed by the Senate"
       },
       "elections/appointments": {
-        "text": "president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state; president and vice president serve a 4-year term (eligible for a second term); under the US Constitution, residents of the Virgin Islands do not vote in elections for US president and vice president; however, they may vote in the Democratic and Republican presidential primary elections; governor and lieutenant governor directly elected on the same ballot by absolute majority vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on 6 November 2018 with a runoff on 20 November 2018 (next to be held in November 2022)"
+        "text": "president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state; president and vice president serve a 4-year term (eligible for a second term); under the US Constitution, residents of the Virgin Islands do not vote in elections for US president and vice president; however, they may vote in the Democratic and Republican presidential primary elections; governor and lieutenant governor directly elected on the same ballot by absolute majority vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on&nbsp;6 November 2018 with a runoff on 20 November 2018 (next to be held in November 2022)"
       },
       "election results": {
-        "text": "Albert BRYAN, Jr. elected governor in the second round; percent of vote in first round - Albert BRYAN, Jr. (Democratic Party) 38.1%, Kenneth MAPP (independent) 33.5%, Adlah \"Foncie\" DONASTORG, Jr. (independent) 16.5%, other 11.9%; percent of vote in second round- Albert BRYAN, Jr. (Democratic Party) 54.5%, Kenneth MAPP (independent) 45.2%, other .3%"
+        "text": "<p>Albert&nbsp;BRYAN, Jr. elected governor in the second round; percent of vote in first round - Albert BRYAN, Jr. (Democratic Party) 38.1%, Kenneth&nbsp;MAPP (independent) 33.5%,&nbsp;Adlah \"Foncie\" DONASTORG, Jr. (independent) 16.5%, other 11.9%; percent of vote in second round- Albert BRYAN, Jr. (Democratic Party) 54.5%, Kenneth MAPP (independent) 45.2%, other .3%</p>"
       }
     },
     "Legislative branch": {
       "description": {
-        "text": "unicameral Legislature of the Virgin Islands (15 seats; senators directly elected in single- and multi-seat constituencies by simple majority popular vote to serve 2-year terms) ++ the Virgin Islands directly elects 1 delegate to the US House of Representatives by simple majority vote to serve a 2-year term"
+        "text": "unicameral Legislature of the Virgin Islands (15 seats; senators directly elected in single- and multi-seat constituencies by simple majority popular vote to serve 2-year terms)<br /><br />the Virgin Islands directly elects 1 delegate to the US House of Representatives by simple majority vote to serve a 2-year term"
       },
       "elections": {
-        "text": "Legislature of the Virgin Islands last held on 6 November 2018 (next to be held in November 2020) ++ US House of Representatives last held on 6 November 2018 (next to be held in November 2020)"
+        "text": "Legislature of the Virgin Islands last held on&nbsp;6 November 2018 (next to be held in November 2020)<br />US House of Representatives last held on&nbsp;6 November 2018 (next to be held in November 2020)"
       },
       "election results": {
-        "text": "Legislature of the Virgin Islands - percent of vote by party - NA; seats by party - Democratic Party 13, independents 2; composition - men 11, women 4, percent of women 26.7% ++ delegate to US House of Representatives - seat by party - Democratic Party 1; composition - 1 woman"
+        "text": "Legislature of the Virgin Islands - percent of vote by party - NA; seats by party - Democratic Party 13, independents 2; composition - men 11, women 4, percent of women 26.7%<br /><br />delegate to US House of Representatives - seat by party - Democratic Party 1; composition - 1 woman"
       },
-      "note": "note: the Virgin Islands to the US House of Representatives can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a \"full floor\" House vote"
+      "note": "<p><strong>note:</strong> the Virgin Islands to the US House of Representatives can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a &ldquo;full floor&rdquo; House vote</p>"
     },
     "Judicial branch": {
       "highest courts": {
@@ -369,16 +367,16 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Democratic Party [Stacey PLASKELL] ++ Independent Citizens' Movement or ICM [Dale BLYDEN] ++ Republican Party [John CANEGATA]"
+      "text": "Democratic Party [Stacey PLASKELL]<br />Independent Citizens' Movement or ICM [Dale BLYDEN]<br />Republican Party [John CANEGATA]"
     },
     "International organization participation": {
       "text": "AOSIS (observer), Interpol (subbureau), IOC, UPU, WFTU (NGOs)"
     },
     "Diplomatic representation in the US": {
-      "note": "none (territory of the US)"
+      "text": "none (territory of the US)"
     },
     "Diplomatic representation from the US": {
-      "note": "none (territory of the US)"
+      "text": "none (territory of the US)"
     },
     "Flag description": {
       "text": "white field with a modified US coat of arms in the center between the large blue initials V and I; the coat of arms shows a yellow eagle holding an olive branch in its right talon and three arrows in the left with a superimposed shield of seven red and six white vertical stripes below a blue panel; white is a symbol of purity, the letters stand for the Virgin Islands"
@@ -390,31 +388,57 @@
       "lyrics/music": {
         "text": "multiple/Alton Augustus ADAMS, Sr."
       },
-      "note": "note: adopted 1963; serves as a local anthem; as a territory of the US, \"The Star-Spangled Banner\" is official (see United States)"
+      "note": "<p><strong>note:</strong> adopted 1963; serves as a local anthem; as a territory of the US, \"The Star-Spangled Banner\" is official (see United States)</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "Tourism, trade, other services, and rum production are the primary economic activities of the US Virgin Islands (USVI), accounting for most of its GDP and employment. The USVI receives between 2.5 and 3 million tourists a year, mostly from visiting cruise ships. The islands are vulnerable to damage from storms, as evidenced by the destruction from two major hurricanes in 2017. Recovery and rebuilding have continued, but full recovery from these back-to-back hurricanes is years away. The USVI government estimates it will need $7.5 billion, almost twice the territory's GDP, to rebuild the territory. ++ The agriculture sector is small and most food is imported. In 2016, government spending (both federal and territorial together) accounted for about 27% of GDP while exports of goods and services, including spending by tourists, accounted for nearly 47%. Federal programs and grants, including rum tax cover-over totaling $482.3 million in 2016, contributed 32.2% of the territory's total revenues. The economy picked up 0.9% in 2016 and had appeared to be progressing before the 2017 hurricanes severely damaged the territory's infrastructure and the economy."
+      "text": "<p>Tourism, trade, other services, and rum production are the primary economic activities of the US Virgin Islands (USVI), accounting for most of its GDP and employment. The USVI receives between 2.5 and 3 million tourists a year, mostly from visiting cruise ships. The islands are vulnerable to damage from storms, as evidenced by the destruction from two major hurricanes in 2017. Recovery and rebuilding have continued, but full recovery from these back-to-back hurricanes is years away. The USVI government estimates it will need $7.5 billion, almost twice the territory’s GDP, to rebuild the territory.</p><p></p><p>The agriculture sector is small and most food is imported. In 2016, government spending (both federal and territorial together) accounted for about 27% of GDP while exports of goods and services, including spending by tourists, accounted for nearly 47%. Federal programs and grants, including rum tax cover-over totaling $482.3 million in 2016, contributed 32.2% of the territory’s total revenues. The economy picked up 0.9% in 2016 and had appeared to be progressing before the 2017 hurricanes severely damaged the territory’s infrastructure and the economy.</p>"
     },
-    "GDP real growth rate": {
-      "text": "0.9% (2016 est.) / 0.3% (2015 est.) / -1% (2014 est.)",
-      "country comparison to the world": 175
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2016": {
+        "text": "0.9% (2016 est.)"
+      },
+      "Real GDP growth rate 2015": {
+        "text": "0.3% (2015 est.)"
+      },
+      "Real GDP growth rate 2014": {
+        "text": "-1% (2014 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "1% (2016 est.) / 2.6% (2015 est.)",
-      "country comparison to the world": 68
+      "Inflation rate (consumer prices) 2016": {
+        "text": "1% (2016 est.)"
+      },
+      "Inflation rate (consumer prices) 2015": {
+        "text": "2.6% (2015 est.)"
+      }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$3.872 billion (2016 est.) / $3.759 billion (2015 est.) / $3.622 billion (2014 est.)",
-      "note": "note: data are in 2013 dollars"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2016": {
+        "text": "$3.872 billion (2016 est.)"
+      },
+      "Real GDP (purchasing power parity) 2015": {
+        "text": "$3.759 billion (2015 est.)"
+      },
+      "Real GDP (purchasing power parity) 2014": {
+        "text": "$3.622 billion (2014 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2013 dollars</p>"
     },
     "GDP (official exchange rate)": {
       "text": "$5.182 billion (2016 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$37,000 (2016 est.) / $35,800 (2015 est.) / $34,500 (2014 est.)",
-      "country comparison to the world": 47
+    "Real GDP per capita": {
+      "Real GDP per capita 2016": {
+        "text": "$37,000 (2016 est.)"
+      },
+      "Real GDP per capita 2015": {
+        "text": "$35,800 (2015 est.)"
+      },
+      "Real GDP per capita 2014": {
+        "text": "$34,500 (2014 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -447,9 +471,7 @@
         "text": "-64.3% (2016 est.)"
       }
     },
-    "Ease of Doing Business Index scores": {
-    },
-    "Agriculture - products": {
+    "Agricultural products": {
       "text": "fruit, vegetables, sorghum; Senepol cattle"
     },
     "Industries": {
@@ -459,8 +481,7 @@
       "text": "NA"
     },
     "Labor force": {
-      "text": "48,550 (2016 est.)",
-      "country comparison to the world": 193
+      "text": "48,550 (2016 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -474,8 +495,12 @@
       }
     },
     "Unemployment rate": {
-      "text": "10.4% (2017 est.) / 11% (2016 est.)",
-      "country comparison to the world": 152
+      "Unemployment rate 2017": {
+        "text": "10.4% (2017 est.)"
+      },
+      "Unemployment rate 2016": {
+        "text": "11% (2016 est.)"
+      }
     },
     "Population below poverty line": {
       "text": "28.9% (2002 est.)"
@@ -497,39 +522,49 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "28.9% (of GDP) (2016 est.)",
-      "country comparison to the world": 89
+      "text": "28.9% (of GDP) (2016 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-0.4% (of GDP) (2016 est.)",
-      "country comparison to the world": 59
+      "text": "-0.4% (of GDP) (2016 est.)"
     },
     "Public debt": {
-      "text": "53.3% of GDP (2016 est.) / 45.9% of GDP (2014 est.)",
-      "country comparison to the world": 91
+      "Public debt 2016": {
+        "text": "53.3% of GDP (2016 est.)"
+      },
+      "Public debt 2014": {
+        "text": "45.9% of GDP (2014 est.)"
+      }
     },
     "Fiscal year": {
       "text": "1 October - 30 September"
     },
     "Exports": {
-      "text": "$1.81 billion (2016 est.) / $1.537 billion (2015 est.)",
-      "country comparison to the world": 148
+      "Exports 2016": {
+        "text": "$1.81 billion (2016 est.)"
+      },
+      "Exports 2015": {
+        "text": "$1.537 billion (2015 est.)"
+      }
     },
     "Exports - commodities": {
       "text": "rum"
     },
     "Imports": {
-      "text": "$2.489 billion (2016 est.) / $1.549 billion (2015 est.)",
-      "country comparison to the world": 164
+      "Imports 2016": {
+        "text": "$2.489 billion (2016 est.)"
+      },
+      "Imports 2015": {
+        "text": "$1.549 billion (2015 est.)"
+      }
     },
     "Imports - commodities": {
       "text": "foodstuffs, consumer goods, building materials"
     },
     "Debt - external": {
-      "note": "NA"
+      "text": "<p>NA</p>"
     },
     "Exchange rates": {
-      "note": "the US dollar is used"
+      "text": "<p>the US dollar is used</p>"
     }
   },
   "Energy": {
@@ -539,96 +574,73 @@
       }
     },
     "Electricity - production": {
-      "text": "704 million kWh (2016 est.)",
-      "country comparison to the world": 157
+      "text": "704 million kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "654.7 million kWh (2016 est.)",
-      "country comparison to the world": 162
+      "text": "654.7 million kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 216
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - imports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 217
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "325,000 kW (2016 est.)",
-      "country comparison to the world": 157
+      "text": "325,000 kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "98% of total installed capacity (2016 est.)",
-      "country comparison to the world": 29
+      "text": "98% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 210
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 212
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "2% of total installed capacity (2017 est.)",
-      "country comparison to the world": 146
+      "text": "2% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "0 bbl/day (2018 est.)",
-      "country comparison to the world": 215
+      "text": "0 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 214
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - imports": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 214
+      "text": "0 bbl/day (2015 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2018 est.)",
-      "country comparison to the world": 211
+      "text": "0 bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "0 bbl/day (2015 est.)",
-      "country comparison to the world": 214
+      "text": "0 bbl/day (2015 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "1,240 bbl/day (2016 est.)",
-      "country comparison to the world": 203
+      "text": "1,240 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "3,285 bbl/day (2015 est.)",
-      "country comparison to the world": 97
+      "text": "3,285 bbl/day (2015 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "23,480 bbl/day (2015 est.)",
-      "country comparison to the world": 112
+      "text": "23,480 bbl/day (2015 est.)"
     },
     "Natural gas - production": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 213
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 212
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 211
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 211
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "0 cu m (1 January 2014 est.)",
-      "country comparison to the world": 206
+      "text": "0 cu m (1 January 2014 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "2.764 million Mt (2017 est.)",
-      "country comparison to the world": 150
+      "text": "2.764 million Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -638,12 +650,11 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "72.41 (2019 est.)"
-      },
-      "country comparison to the world": 145
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "modern system with total digital switching, uses fiber-optic cable and microwave radio relay; good interisland and international connections; broadband access; expansion of FttP (Fiber to the Home) markets; LTE launches; regulatory development and expansion in several markets point to investment and focus on data (2020)"
+        "text": "modern system with total digital switching, uses fiber-optic cable and microwave radio relay; good interisland and international connections; broadband access; expansion of&nbsp;FttP (Fiber to the Home) markets; LTE launches; regulatory development and expansion in several markets point to investment and focus on data (2020)"
       },
       "domestic": {
         "text": "full range of services available; fixed-line 72 per 100 persons and mobile-cellular 75 per 100 (2019)"
@@ -651,7 +662,7 @@
       "international": {
         "text": "country code - 1-340; landing points for the BSCS, St Thomas-ST Croix System, Southern Caribbean Fiber, Americas II, GCN, MAC, PAN-AM and SAC submarine cable connections to US, the Caribbean, Central and South America; satellite earth stations - NA (2020)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "about a dozen TV broadcast stations including 1 public TV station; multi-channel cable and satellite TV services are available; 24 radio stations"
@@ -665,14 +676,14 @@
       },
       "percent of population": {
         "text": "64.38% (July 2018 est.)"
-      },
-      "country comparison to the world": 189
+      }
     }
   },
   "Transportation": {
     "Airports": {
-      "text": "2 (2013)",
-      "country comparison to the world": 206
+      "total": {
+        "text": "2 (2013)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -688,8 +699,7 @@
     "Roadways": {
       "total": {
         "text": "1,260 km (2008)"
-      },
-      "country comparison to the world": 178
+      }
     },
     "Merchant marine": {
       "total": {
@@ -697,8 +707,7 @@
       },
       "by type": {
         "text": "bulk carrier 91, container ship 39, general cargo 1,205, oil tanker 118, other 415 (2019)"
-      },
-      "country comparison to the world": 13
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -713,7 +722,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "none"
+      "text": "<p>none</p>"
     }
   }
 }

@@ -24,14 +24,15 @@
       "water": {
         "text": "4,301 sq km"
       },
-      "note": "note: includes Antipodes Islands, Auckland Islands, Bounty Islands, Campbell Island, Chatham Islands, and Kermadec Islands",
-      "country comparison to the world": 77
+      "note": "<p><strong>note:</strong> includes Antipodes Islands, Auckland Islands, Bounty Islands, Campbell Island, Chatham Islands, and Kermadec Islands</p>"
     },
     "Area - comparative": {
       "text": "almost twice the size of North Carolina; about the size of Colorado"
     },
     "Land boundaries": {
-      "text": "0 km"
+      "total": {
+        "text": "0 km"
+      }
     },
     "Coastline": {
       "text": "15,134 km"
@@ -40,11 +41,11 @@
       "territorial sea": {
         "text": "12 nm"
       },
-      "exclusive economic zone": {
-        "text": "200 nm"
-      },
       "contiguous zone": {
         "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
       },
       "continental shelf": {
         "text": "200 nm or to the edge of the continental margin"
@@ -74,8 +75,14 @@
       "agricultural land": {
         "text": "43.2% (2011 est.)"
       },
-      "arable land / permanent crops / permanent pasture": {
-        "text": "1.8% (2011 est.) / 0.3% (2011 est.) / 41.1% (2011 est.)"
+      "agricultural land: arable land": {
+        "text": "arable land: 1.8% (2011 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 0.3% (2011 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 41.1% (2011 est.)"
       },
       "forest": {
         "text": "31.4% (2011 est.)"
@@ -91,7 +98,7 @@
       "text": "over three-quarters of New Zealanders, including the indigenous Maori, live on the North Island, primarily in urban areas"
     },
     "Natural hazards": {
-      "text": "earthquakes are common, though usually not severe; volcanic activity ++ volcanism: significant volcanism on North Island; Ruapehu (2,797 m), which last erupted in 2007, has a history of large eruptions in the past century; Taranaki has the potential to produce dangerous avalanches and lahars; other historically active volcanoes include Okataina, Raoul Island, Tongariro, and White Island; see note 2 under \"Geography - note\""
+      "text": "<p>earthquakes are common, though usually not severe; volcanic activity</p><p><strong>volcanism:</strong> significant volcanism on North Island; Ruapehu (2,797 m), which last erupted in 2007, has a history of large eruptions in the past century; Taranaki has the potential to produce dangerous avalanches and lahars; other historically active volcanoes include Okataina, Raoul Island, Tongariro, and White Island; see note 2 under \"Geography - note\"</p>"
     },
     "Environment - current issues": {
       "text": "water quality and availability; rapid urbanisation; deforestation; soil erosion and degradation; native flora and fauna hard-hit by invasive species; negative effects of climate change"
@@ -105,13 +112,12 @@
       }
     },
     "Geography - note": {
-      "note": "note 1: consists of two main islands and a number of smaller islands; South Island, the larger main island, is the 12th largest island in the world and is divided along its length by the Southern Alps; North Island is the 14th largest island in the world and is not as mountainous, but it is marked by volcanism ++ note 2: New Zealand lies along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire ++ note 3: almost 90% of the population lives in cities and over three-quarters on North Island; Wellington is the southernmost national capital in the world"
+      "text": "<p><strong>note 1:</strong> consists of two main islands and a number of smaller islands; South Island, the larger main island, is the 12th largest island in the world and is divided along its length by the Southern Alps; North Island is the 14th largest island in the world and is not as mountainous, but it is marked by volcanism</p> <p><strong>note 2:</strong> New Zealand lies along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p> <p><strong>note 3:</strong> almost 90% of the population lives in cities and over three-quarters on North Island; Wellington is the southernmost national capital in the world</p>"
     }
   },
   "People and Society": {
     "Population": {
-      "text": "4,925,477 (July 2020 est.)",
-      "country comparison to the world": 125
+      "text": "4,991,442 (July 2021 est.)"
     },
     "Nationality": {
       "noun": {
@@ -123,15 +129,15 @@
     },
     "Ethnic groups": {
       "text": "European 64.1%, Maori 16.5%, Chinese 4.9%, Indian 4.7%, Samoan 3.9%, Tongan 1.8%, Cook Islands Maori 1.7%, English 1.5%, Filipino 1.5%, New Zealander 1%, other 13.7% (2018 est.)",
-      "note": "note: based on the 2018 census of the usually resident population; percentages add up to more than 100% because respondents were able to identify more than one ethnic group"
+      "note": "<p><strong>note:</strong> based on the 2018 census of the usually resident population; percentages add up to more than 100% because respondents were able to identify more than one ethnic group</p>"
     },
     "Languages": {
       "text": "English (de facto official) 95.4%, Maori (de jure official) 4%, Samoan 2.2%, Northern Chinese 2%, Hindi 1.5%, French 1.2%, Yue 1.1%, New Zealand Sign Language (de jure official) .5%, other or not stated 17.2% (2018 est.)",
-      "note": "note: shares sum to 124.1% due to multiple responses on the 2018 census"
+      "note": "<p><strong>note:</strong> shares sum to 124.1% due to multiple responses on the 2018 census</p>"
     },
     "Religions": {
       "text": "Christian 37.3% (Catholic 10.1%, Anglican 6.8%, Presbyterian and Congregational 5.2%, Pentecostal 1.8%, Methodist 1.6%, Mormon 1.2%, other 10.7%), Hindu 2.7%, Maori 1.3%, Muslim, 1.3%, Buddhist 1.1%, other religion 1.6% (includes Judaism, Spiritualism and New Age religions, Baha'i, Asian religions other than Buddhism), no religion 48.6%, objected to answering 6.7% (2018 est.)",
-      "note": "note: based on the 2018 census of the usually resident population; percentages add up to more than 100% because respondents were able to identify more than one religion"
+      "note": "<p><strong>note:</strong> based on the 2018 census of the usually resident population; percentages add up to more than 100% because respondents were able to identify more than one religion</p>"
     },
     "Age structure": {
       "0-14 years": {
@@ -173,24 +179,19 @@
       },
       "female": {
         "text": "37.9 years (2020 est.)"
-      },
-      "country comparison to the world": 73
+      }
     },
     "Population growth rate": {
-      "text": "1.44% (2020 est.)",
-      "country comparison to the world": 76
+      "text": "1.28% (2021 est.)"
     },
     "Birth rate": {
-      "text": "12.8 births/1,000 population (2020 est.)",
-      "country comparison to the world": 146
+      "text": "12.83 births/1,000 population (2021 est.)"
     },
     "Death rate": {
-      "text": "6.9 deaths/1,000 population (2020 est.)",
-      "country comparison to the world": 132
+      "text": "6.91 deaths/1,000 population (2021 est.)"
     },
     "Net migration rate": {
-      "text": "8 migrant(s)/1,000 population (2020 est.)",
-      "country comparison to the world": 12
+      "text": "6.89 migrant(s)/1,000 population (2021 est.)"
     },
     "Population distribution": {
       "text": "over three-quarters of New Zealanders, including the indigenous Maori, live on the North Island, primarily in urban areas"
@@ -231,50 +232,58 @@
     },
     "Mother's mean age at first birth": {
       "text": "27.8 years (2009 est.)",
-      "note": "note: median age at first birth"
+      "note": "<p><strong>note:</strong> median age at first birth</p>"
     },
     "Maternal mortality rate": {
-      "text": "9 deaths/100,000 live births (2017 est.)",
-      "country comparison to the world": 148
+      "text": "9 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
       "total": {
         "text": "3.5 deaths/1,000 live births"
       },
       "male": {
-        "text": "3.7 deaths/1,000 live births"
+        "text": "3.69 deaths/1,000 live births"
       },
       "female": {
-        "text": "3.4 deaths/1,000 live births (2020 est.)"
-      },
-      "country comparison to the world": 199
+        "text": "3.29 deaths/1,000 live births (2021 est.)"
+      }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "82.1 years"
+        "text": "82.33 years"
       },
       "male": {
-        "text": "80.4 years"
+        "text": "80.57 years"
       },
       "female": {
-        "text": "84 years (2020 est.)"
-      },
-      "country comparison to the world": 22
+        "text": "84.19 years (2021 est.)"
+      }
     },
     "Total fertility rate": {
-      "text": "1.87 children born/woman (2020 est.)",
-      "country comparison to the world": 136
+      "text": "1.87 children born/woman (2021 est.)"
     },
     "Contraceptive prevalence rate": {
       "text": "79.9% (2014/15)",
-      "note": "note: percent of women aged 18-45"
+      "note": "<br><br><strong>note:</strong> percent of women aged 18-45"
     },
     "Drinking water source": {
-      "improved": {
-        "text": "urban: 100% of population / rural: 100% of population / total: 100% of population"
+      "improved: urban": {
+        "text": "urban: 100% of population"
       },
-      "unimproved": {
-        "text": "urban: 0% of population / rural: 0% of population / total: 0% of population (2017 est.)"
+      "improved: rural": {
+        "text": "rural: 100% of population"
+      },
+      "improved: total": {
+        "text": "total: 100% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 0% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 0% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 0% of population (2017 est.)"
       }
     },
     "Current Health Expenditure": {
@@ -287,30 +296,39 @@
       "text": "2.7 beds/1,000 population (2017)"
     },
     "Sanitation facility access": {
-      "improved": {
-        "text": "urban: 100% of population / rural: 100% of population / total: 100% of population"
+      "improved: urban": {
+        "text": "urban: 100% of population"
       },
-      "unimproved": {
-        "text": "urban: 0% of population / rural: 0% of population / total: 0% of population (2017)"
+      "improved: rural": {
+        "text": "rural: 100% of population"
+      },
+      "improved: total": {
+        "text": "total: 100% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 0% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 0% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 0% of population (2017)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
       "text": "<.1% (2019 est.)"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
-      "text": "3,500 (2019 est.)",
-      "country comparison to the world": 129
+      "text": "3,500 (2019 est.)"
     },
     "HIV/AIDS - deaths": {
       "text": "<100 (2019 est.)"
     },
     "Obesity - adult prevalence rate": {
-      "text": "30.8% (2016)",
-      "country comparison to the world": 22
+      "text": "30.8% (2016)"
     },
     "Education expenditures": {
-      "text": "6.3% of GDP (2017)",
-      "country comparison to the world": 23
+      "text": "6.3% of GDP (2017)"
     },
     "School life expectancy (primary to tertiary education)": {
       "total": {
@@ -332,8 +350,7 @@
       },
       "female": {
         "text": "10.7% (2018 est.)"
-      },
-      "country comparison to the world": 114
+      }
     }
   },
   "Government": {
@@ -352,7 +369,7 @@
       }
     },
     "Government type": {
-      "text": "parliamentary democracy under a constitutional monarchy; a Commonwealth realm"
+      "text": "parliamentary democracy&nbsp;under a constitutional monarchy; a Commonwealth realm"
     },
     "Capital": {
       "name": {
@@ -367,7 +384,7 @@
       "daylight saving time": {
         "text": "+1hr, begins last Sunday in September; ends first Sunday in April"
       },
-      "note": "note: New Zealand has two time zones: New Zealand standard time (UTC+12) and Chatham Islands time (45 minutes in advance of New Zealand standard time; UTC+12:45) ++ etymology: named in 1840 after Arthur Wellesley, the first Duke of Wellington and victorious general at the Battle of Waterloo"
+      "note": "<p><strong>note:</strong> New Zealand has two time zones: New Zealand standard time (UTC+12) and Chatham Islands time (45 minutes in advance of New Zealand standard time; UTC+12:45)<br /><br /><strong>etymology:</strong> named in 1840 after Arthur Wellesley, the first Duke of Wellington and victorious general at the Battle of Waterloo</p>"
     },
     "Administrative divisions": {
       "text": "16 regions and 1 territory*; Auckland, Bay of Plenty, Canterbury, Chatham Islands*, Gisborne, Hawke's Bay, Manawatu-Wanganui, Marlborough, Nelson, Northland, Otago, Southland, Taranaki, Tasman, Waikato, Wellington, West Coast"
@@ -420,7 +437,7 @@
         "text": "Prime Minister Jacinda ARDERN (since 26 October 2017); Deputy Prime Minister Grant ROBERTSON (since 2 November 2020)"
       },
       "cabinet": {
-        "text": "Executive Council appointed by the governor-general on the recommendation of the prime minister"
+        "text": "Executive Council appointed by the governor-general on the recommendation of the prime minister&nbsp;"
       },
       "elections/appointments": {
         "text": "the monarchy is hereditary; governor-general appointed by the monarch on the advice of the prime minister; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor-general; deputy prime minister appointed by the governor-general; note - Prime Minister ARDERN heads up a minority coalition government consisting of the Labor and New Zealand First parties with confidence and supply support from the Green Party"
@@ -449,14 +466,14 @@
       }
     },
     "Political parties and leaders": {
-      "text": "ACT New Zealand [David SEYMOUR] ++ Green Party [James SHAW] ++ Mana Movement [Hone HARAWIRA] (formerly Mana Party) ++ Maori Party [Che WILSON and Kaapua SMITH] ++ New Zealand First Party or NZ First [Winston PETERS] ++ New Zealand Labor Party [Jacinda ARDERN] ++ New Zealand National Party [Judith COLLINS] ++ United Future New Zealand [Damian LIGHT]"
+      "text": "ACT New Zealand [David SEYMOUR]<br />Green Party [James SHAW]<br />Mana Movement [Hone HARAWIRA] (formerly Mana Party)<br />Maori Party [Che WILSON and Kaapua SMITH]<br />New Zealand First Party or NZ First [Winston PETERS]<br />New Zealand Labor Party [Jacinda ARDERN]<br />New Zealand National Party [Judith COLLINS]<br />United Future New Zealand [Damian LIGHT]"
     },
     "International organization participation": {
       "text": "ADB, ANZUS, APEC, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CP, EAS, EBRD, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NSG, OECD, OPCW, Pacific Alliance (observer), Paris Club (associate), PCA, PIF, SICA (observer), Sparteca, SPC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNTSO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
     },
     "Diplomatic representation in the US": {
       "chief of mission": {
-        "text": "Ambassador Rosemary BANKS (since 11 January 2019)"
+        "text": "Ambassador Rosemary&nbsp;BANKS (since&nbsp;11 January 2019)"
       },
       "chancery": {
         "text": "37 Observatory Circle NW, Washington, DC 20008"
@@ -504,20 +521,34 @@
       "lyrics/music": {
         "text": "Thomas BRACKEN [English], Thomas Henry SMITH [Maori]/John Joseph WOODS"
       },
-      "note": "note: adopted 1940 as national song, adopted 1977 as co-national anthem; New Zealand has two national anthems with equal status; as a commonwealth realm, in addition to \"God Defend New Zealand,\" \"God Save the Queen\" serves as a national anthem (see United Kingdom); \"God Save the Queen\" normally played only when a member of the royal family or the governor-general is present; in all other cases, \"God Defend New Zealand\" is played"
+      "note": "<p><strong>note:</strong> adopted 1940 as national song, adopted 1977 as co-national anthem; New Zealand has two national anthems with equal status; as a commonwealth realm, in addition to \"God Defend New Zealand,\" \"God Save the Queen\" serves as a national anthem (see United Kingdom); \"God Save the Queen\" normally played only when a member of the royal family or the governor-general is present; in all other cases, \"God Defend New Zealand\" is played</p>"
     }
   },
   "Economy": {
     "Economic overview": {
-      "text": "Over the past 40 years, the government has transformed New Zealand from an agrarian economy, dependent on concessionary British market access, to a more industrialized, free market economy that can compete globally. This dynamic growth has boosted real incomes, but left behind some at the bottom of the ladder and broadened and deepened the technological capabilities of the industrial sector. ++ Per capita income rose for 10 consecutive years until 2007 in purchasing power parity terms, but fell in 2008-09. Debt-driven consumer spending drove robust growth in the first half of the decade, fueling a large balance of payments deficit that posed a challenge for policymakers. Inflationary pressures caused the central bank to raise its key rate steadily from January 2004 until it was among the highest in the OECD in 2007 and 2008. The higher rate attracted international capital inflows, which strengthened the currency and housing market while aggravating the current account deficit. Rising house prices, especially in Auckland, have become a political issue in recent years, as well as a policy challenge in 2016 and 2017, as the ability to afford housing has declined for many. ++ Expanding New Zealand's network of free trade agreements remains a top foreign policy priority. New Zealand was an early promoter of the Trans-Pacific Partnership (TPP) and was the second country to ratify the agreement in May 2017. Following the United States' withdrawal from the TPP in January 2017, on 10 November 2017 the remaining 11 countries agreed on the core elements of a modified agreement, which they renamed the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP). In November 2016, New Zealand opened negotiations to upgrade its FTA with China; China is one of New Zealand's most important trading partners."
+      "text": "<p>Over the past 40 years, the government has transformed New Zealand from an agrarian economy, dependent on concessionary British market access, to a more industrialized, free market economy that can compete globally. This dynamic growth has boosted real incomes, but left behind some at the bottom of the ladder and broadened and deepened the technological capabilities of the industrial sector.</p><p></p><p>Per capita income rose for 10 consecutive years until 2007 in purchasing power parity terms, but fell in 2008-09. Debt-driven consumer spending drove robust growth in the first half of the decade, fueling a large balance of payments deficit that posed a challenge for policymakers. Inflationary pressures caused the central bank to raise its key rate steadily from January 2004 until it was among the highest in the OECD in 2007 and 2008. The higher rate attracted international capital inflows, which strengthened the currency and housing market while aggravating the current account deficit. Rising house prices, especially in Auckland, have become a political issue in recent years, as well as a policy challenge in 2016 and 2017, as the ability to afford housing has declined for many.</p><p></p><p>Expanding New Zealand’s network of free trade agreements remains a top foreign policy priority. New Zealand was an early promoter of the Trans-Pacific Partnership (TPP) and was the second country to ratify the agreement in May 2017. Following the United States’ withdrawal from the TPP in January 2017, on 10 November 2017 the remaining 11 countries agreed on the core elements of a modified agreement, which they renamed the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP). In November 2016, New Zealand opened negotiations to upgrade its FTA with China; China is one of New Zealand’s most important trading partners.</p>"
     },
-    "GDP real growth rate": {
-      "text": "2.22% (2019 est.) / 3.22% (2018 est.) / 3.8% (2017 est.)",
-      "country comparison to the world": 127
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2019": {
+        "text": "2.22% (2019 est.)"
+      },
+      "Real GDP growth rate 2018": {
+        "text": "3.22% (2018 est.)"
+      },
+      "Real GDP growth rate 2017": {
+        "text": "3.8% (2017 est.)"
+      }
     },
     "Inflation rate (consumer prices)": {
-      "text": "1.6% (2019 est.) / 1.5% (2018 est.) / 1.8% (2017 est.)",
-      "country comparison to the world": 95
+      "Inflation rate (consumer prices) 2019": {
+        "text": "1.6% (2019 est.)"
+      },
+      "Inflation rate (consumer prices) 2018": {
+        "text": "1.5% (2018 est.)"
+      },
+      "Inflation rate (consumer prices) 2017": {
+        "text": "1.8% (2017 est.)"
+      }
     },
     "Credit ratings": {
       "Fitch rating": {
@@ -530,21 +561,43 @@
         "text": "AA (2011)"
       }
     },
-    "GDP (purchasing power parity) - real": {
-      "text": "$176.341 billion (2019 est.) / $172.509 billion (2018 est.) / $167.14 billion (2017 est.)",
-      "note": "note: data are in 2010 dollars"
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2019": {
+        "text": "$210.877 billion (2019 est.)"
+      },
+      "Real GDP (purchasing power parity) 2018": {
+        "text": "$205.112 billion (2018 est.)"
+      },
+      "Real GDP (purchasing power parity) 2017": {
+        "text": "$198.913 billion (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
     },
     "GDP (official exchange rate)": {
       "text": "$205.202 billion (2019 est.)"
     },
-    "GDP - per capita (PPP)": {
-      "text": "$39,815 (2019 est.) / $39,277 (2018 est.) / $38,388 (2017 est.)",
-      "note": "note: data are in 2010 dollars",
-      "country comparison to the world": 41
+    "Real GDP per capita": {
+      "Real GDP per capita 2019": {
+        "text": "$42,888 (2019 est.)"
+      },
+      "Real GDP per capita 2018": {
+        "text": "$42,370 (2018 est.)"
+      },
+      "Real GDP per capita 2017": {
+        "text": "$41,493 (2017 est.)"
+      },
+      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
     },
     "Gross national saving": {
-      "text": "21% of GDP (2017 est.) / 21.5% of GDP (2016 est.) / 20.2% of GDP (2015 est.)",
-      "country comparison to the world": 89
+      "Gross national saving 2017": {
+        "text": "21% of GDP (2017 est.)"
+      },
+      "Gross national saving 2016": {
+        "text": "21.5% of GDP (2016 est.)"
+      },
+      "Gross national saving 2015": {
+        "text": "20.2% of GDP (2015 est.)"
+      }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -578,21 +631,21 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "text": "100.0 (2020)"
+      "Overall Ease of Doing Business score 2020": {
+        "text": "100.0 (2020)"
+      }
     },
-    "Agriculture - products": {
-      "text": "dairy products, sheep, beef, poultry, fruit, vegetables, wine, seafood, wheat and barley"
+    "Agricultural products": {
+      "text": "milk, beef, kiwi fruit, apples, potatoes, mutton, grapes, wheat, barley, green onions/shallots"
     },
     "Industries": {
       "text": "agriculture, forestry, fishing, logs and wood articles, manufacturing, mining, construction, financial services, real estate services, tourism"
     },
     "Industrial production growth rate": {
-      "text": "1.8% (2017 est.)",
-      "country comparison to the world": 137
+      "text": "1.8% (2017 est.)"
     },
     "Labor force": {
-      "text": "2.709 million (2020 est.)",
-      "country comparison to the world": 109
+      "text": "2.709 million (2020 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -606,11 +659,20 @@
       }
     },
     "Unemployment rate": {
-      "text": "4.13% (2019 est.) / 4.32% (2018 est.)",
-      "country comparison to the world": 63
+      "Unemployment rate 2019": {
+        "text": "4.13% (2019 est.)"
+      },
+      "Unemployment rate 2018": {
+        "text": "4.32% (2018 est.)"
+      }
     },
     "Population below poverty line": {
       "text": "NA"
+    },
+    "Gini Index coefficient - distribution of family income": {
+      "Gini Index coefficient - distribution of family income 1997": {
+        "text": "36.2 (1997)"
+      }
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
@@ -629,28 +691,41 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "36.8% (of GDP) (2017 est.)",
-      "country comparison to the world": 56
+      "text": "36.8% (of GDP) (2017 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "1.6% (of GDP) (2017 est.)",
-      "country comparison to the world": 21
+      "text": "1.6% (of GDP) (2017 est.)"
     },
     "Public debt": {
-      "text": "31.7% of GDP (2017 est.) / 33.5% of GDP (2016 est.)",
-      "country comparison to the world": 162
+      "Public debt 2017": {
+        "text": "31.7% of GDP (2017 est.)"
+      },
+      "Public debt 2016": {
+        "text": "33.5% of GDP (2016 est.)"
+      }
     },
     "Fiscal year": {
       "text": "1 April - 31 March",
-      "note": "note: this is the fiscal year for tax purposes"
+      "note": "<p><strong>note:</strong> this is the fiscal year for tax purposes</p>"
     },
     "Current account balance": {
-      "text": "-$6.962 billion (2019 est.) / -$8.742 billion (2018 est.)",
-      "country comparison to the world": 187
+      "Current account balance 2019": {
+        "text": "-$6.962 billion (2019 est.)"
+      },
+      "Current account balance 2018": {
+        "text": "-$8.742 billion (2018 est.)"
+      }
     },
     "Exports": {
-      "text": "$56.219 billion (2019 est.) / $54.977 billion (2018 est.) / $53.457 billion (2017 est.)",
-      "country comparison to the world": 59
+      "Exports 2019": {
+        "text": "$56.219 billion (2019 est.)"
+      },
+      "Exports 2018": {
+        "text": "$54.977 billion (2018 est.)"
+      },
+      "Exports 2017": {
+        "text": "$53.457 billion (2017 est.)"
+      }
     },
     "Exports - partners": {
       "text": "China 22.4%, Australia 16.4%, US 9.9%, Japan 6.1% (2017)"
@@ -659,25 +734,57 @@
       "text": "dairy products, meat and edible offal, logs and wood articles, fruit, crude oil, wine"
     },
     "Imports": {
-      "text": "$63.622 billion (2019 est.) / $62.276 billion (2018 est.) / $58.494 billion (2017 est.)",
-      "country comparison to the world": 57
-    },
-    "Imports - commodities": {
-      "text": "petroleum and products, mechanical machinery, vehicles and parts, electrical machinery, textiles"
+      "Imports 2019": {
+        "text": "$63.622 billion (2019 est.)"
+      },
+      "Imports 2018": {
+        "text": "$62.276 billion (2018 est.)"
+      },
+      "Imports 2017": {
+        "text": "$58.494 billion (2017 est.)"
+      }
     },
     "Imports - partners": {
       "text": "China 19%, Australia 12.1%, US 10.5%, Japan 7.3%, Germany 5.3%, Thailand 4.6% (2017)"
     },
+    "Imports - commodities": {
+      "text": "petroleum and products, mechanical machinery, vehicles and parts, electrical machinery, textiles"
+    },
     "Reserves of foreign exchange and gold": {
-      "text": "$20.68 billion (31 December 2017 est.) / $17.81 billion (31 December 2016 est.)",
-      "country comparison to the world": 58
+      "Reserves of foreign exchange and gold 31 December 2017": {
+        "text": "$20.68 billion (31 December 2017 est.)"
+      },
+      "Reserves of foreign exchange and gold 31 December 2016": {
+        "text": "$17.81 billion (31 December 2016 est.)"
+      }
     },
     "Debt - external": {
-      "text": "$91.62 billion (31 December 2017 est.) / $84.03 billion (31 December 2016 est.)",
-      "country comparison to the world": 51
+      "Debt - external 31 December 2017": {
+        "text": "$91.62 billion (31 December 2017 est.)"
+      },
+      "Debt - external 31 December 2016": {
+        "text": "$84.03 billion (31 December 2016 est.)"
+      }
     },
     "Exchange rates": {
-      "text": "New Zealand dollars (NZD) per US dollar - / 1.41794 (2020 est.) / 1.52334 (2019 est.) / 1.45709 (2018 est.) / 1.4279 (2014 est.) / 1.2039 (2013 est.)"
+      "currency": {
+        "text": "New Zealand dollars (NZD) per US dollar -"
+      },
+      "Exchange rates 2020": {
+        "text": "1.41794 (2020 est.)"
+      },
+      "Exchange rates 2019": {
+        "text": "1.52334 (2019 est.)"
+      },
+      "Exchange rates 2018": {
+        "text": "1.45709 (2018 est.)"
+      },
+      "Exchange rates 2014": {
+        "text": "1.4279 (2014 est.)"
+      },
+      "Exchange rates 2013": {
+        "text": "1.2039 (2013 est.)"
+      }
     }
   },
   "Energy": {
@@ -687,96 +794,73 @@
       }
     },
     "Electricity - production": {
-      "text": "42.53 billion kWh (2016 est.)",
-      "country comparison to the world": 56
+      "text": "42.53 billion kWh (2016 est.)"
     },
     "Electricity - consumption": {
-      "text": "39.5 billion kWh (2016 est.)",
-      "country comparison to the world": 55
+      "text": "39.5 billion kWh (2016 est.)"
     },
     "Electricity - exports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 176
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - imports": {
-      "text": "0 kWh (2016 est.)",
-      "country comparison to the world": 179
+      "text": "0 kWh (2016 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "9.301 million kW (2016 est.)",
-      "country comparison to the world": 63
+      "text": "9.301 million kW (2016 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "23% of total installed capacity (2016 est.)",
-      "country comparison to the world": 192
+      "text": "23% of total installed capacity (2016 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "country comparison to the world": 154
+      "text": "0% of total installed capacity (2017 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "58% of total installed capacity (2017 est.)",
-      "country comparison to the world": 29
+      "text": "58% of total installed capacity (2017 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "20% of total installed capacity (2017 est.)",
-      "country comparison to the world": 40
+      "text": "20% of total installed capacity (2017 est.)"
     },
     "Crude oil - production": {
-      "text": "24,000 bbl/day (2018 est.)",
-      "country comparison to the world": 64
+      "text": "24,000 bbl/day (2018 est.)"
     },
     "Crude oil - exports": {
-      "text": "26,440 bbl/day (2017 est.)",
-      "country comparison to the world": 48
+      "text": "26,440 bbl/day (2017 est.)"
     },
     "Crude oil - imports": {
-      "text": "108,900 bbl/day (2017 est.)",
-      "country comparison to the world": 43
+      "text": "108,900 bbl/day (2017 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "51.8 million bbl (1 January 2018 est.)",
-      "country comparison to the world": 76
+      "text": "51.8 million bbl (1 January 2018 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "115,100 bbl/day (2017 est.)",
-      "country comparison to the world": 65
+      "text": "115,100 bbl/day (2017 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "169,100 bbl/day (2017 est.)",
-      "country comparison to the world": 61
+      "text": "169,100 bbl/day (2017 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "1,782 bbl/day (2017 est.)",
-      "country comparison to the world": 106
+      "text": "1,782 bbl/day (2017 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "56,000 bbl/day (2017 est.)",
-      "country comparison to the world": 76
+      "text": "56,000 bbl/day (2017 est.)"
     },
     "Natural gas - production": {
-      "text": "5.097 billion cu m (2017 est.)",
-      "country comparison to the world": 51
+      "text": "5.097 billion cu m (2017 est.)"
     },
     "Natural gas - consumption": {
-      "text": "5.182 billion cu m (2017 est.)",
-      "country comparison to the world": 57
+      "text": "5.182 billion cu m (2017 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 161
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - imports": {
-      "text": "0 cu m (2017 est.)",
-      "country comparison to the world": 166
+      "text": "0 cu m (2017 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "33.7 billion cu m (1 January 2018 est.)",
-      "country comparison to the world": 67
+      "text": "33.7 billion cu m (1 January 2018 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "37.75 million Mt (2017 est.)",
-      "country comparison to the world": 68
+      "text": "37.75 million Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -786,8 +870,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "37.11 (2019 est.)"
-      },
-      "country comparison to the world": 60
+      }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
@@ -795,12 +878,11 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "134.93 (2019 est.)"
-      },
-      "country comparison to the world": 108
+      }
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "excellent domestic and international systems; mobile and P2P services soar; LTE rates some of the fastest in the world; growth in mobile broadband and fiber sectors; roll out of 5G; investment and development of infrastructure enable network capabilities to propel the digital economy, digital media sector along with e-government, e-commerce across the country; newest and most powerful commercial satellite, Kacific-1 satellite, launched in 2019 to improve telecommunications in the Asia Pacific region (2020)"
+        "text": "excellent domestic and international systems; mobile and P2P services soar; LTE rates some of the fastest in the world; growth in mobile broadband and fiber sectors; roll out of 5G; investment and development of infrastructure enable network capabilities to&nbsp;propel the digital economy, digital media sector along with e-government, e-commerce across the country; newest and most powerful commercial satellite, Kacific-1 satellite, launched in 2019 to improve telecommunications in the Asia Pacific region (2020)"
       },
       "domestic": {
         "text": "fixed-line 37 per 100 and mobile-cellular telephone subscribership 135 per 100 persons (2019)"
@@ -808,7 +890,7 @@
       "international": {
         "text": "country code - 64; landing points for the Southern Cross NEXT, Aqualink, Nelson-Levin, SCCN and Hawaiki submarine cable system providing links to Australia, Fiji, American Samoa, Kiribati, Samo, Tokelau, US and around New Zealand; satellite earth stations - 8 (1 Inmarsat - Pacific Ocean, 7 other) (2019)"
       },
-      "note": "note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "state-owned Television New Zealand operates multiple TV networks and state-owned Radio New Zealand operates 3 radio networks and an external shortwave radio service to the South Pacific region; a small number of national commercial TV and radio stations and many regional commercial television and radio stations are available; cable and satellite TV systems are available, as are a range of streaming services (2019)"
@@ -822,8 +904,7 @@
       },
       "percent of population": {
         "text": "90.81% (July 2018 est.)"
-      },
-      "country comparison to the world": 91
+      }
     },
     "Broadband - fixed subscriptions": {
       "total": {
@@ -831,8 +912,7 @@
       },
       "subscriptions per 100 inhabitants": {
         "text": "34 (2018 est.)"
-      },
-      "country comparison to the world": 59
+      }
     }
   },
   "Transportation": {
@@ -854,8 +934,9 @@
       "text": "ZK (2016)"
     },
     "Airports": {
-      "text": "123 (2013)",
-      "country comparison to the world": 47
+      "total": {
+        "text": "123 (2013)"
+      }
     },
     "Airports - with paved runways": {
       "total": {
@@ -900,8 +981,7 @@
       },
       "narrow gauge": {
         "text": "4,128 km 1.067-m gauge (506 km electrified) (2018)"
-      },
-      "country comparison to the world": 46
+      }
     },
     "Roadways": {
       "total": {
@@ -912,17 +992,15 @@
       },
       "unpaved": {
         "text": "32,400 km (2017)"
-      },
-      "country comparison to the world": 53
+      }
     },
     "Merchant marine": {
       "total": {
-        "text": "113"
+        "text": "114"
       },
       "by type": {
-        "text": "general cargo 12, oil tanker 4, other 97 (2019)"
-      },
-      "country comparison to the world": 84
+        "text": "container ship 1, general cargo 12, oil tanker 4, other 97 (2020)"
+      }
     },
     "Ports and terminals": {
       "major seaport(s)": {
@@ -935,8 +1013,21 @@
       "text": "New Zealand Defence Force (NZDF): New Zealand Army, Royal New Zealand Navy, Royal New Zealand Air Force (2020)"
     },
     "Military expenditures": {
-      "text": "1.5% of GDP (2019) / 1.3% of GDP (2018) / 1.2% of GDP (2017) / 1.2% of GDP (2016) / 1.2% of GDP (2015)",
-      "country comparison to the world": 83
+      "Military Expenditures 2019": {
+        "text": "1.5% of GDP (2019)"
+      },
+      "Military Expenditures 2018": {
+        "text": "1.3% of GDP (2018)"
+      },
+      "Military Expenditures 2017": {
+        "text": "1.2% of GDP (2017)"
+      },
+      "Military Expenditures 2016": {
+        "text": "1.2% of GDP (2016)"
+      },
+      "Military Expenditures 2015": {
+        "text": "1.2% of GDP (2015)"
+      }
     },
     "Military and security service personnel strengths": {
       "text": "the New Zealand Defense Force (NZDF) has about 9,600 active duty troops (4,700 Army; 2,300 Navy; 2,600 Air Force) (2020)"
@@ -953,7 +1044,7 @@
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "asserts a territorial claim in Antarctica (Ross Dependency)"
+      "text": "<p>asserts a territorial claim in Antarctica (Ross Dependency)</p>"
     },
     "Illicit drugs": {
       "text": "significant consumer of amphetamines"
