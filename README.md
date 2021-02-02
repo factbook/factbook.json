@@ -5,7 +5,7 @@ What's the World Factbook?
 The World Factbook [1][2] published by the Central Intelligence Agency (CIA)
 offers free country profiles in the public domain (that is, no copyright(s), no rights reserved, no license).
 
-- [1] [The World Factbook](https://www.cia.gov/library/publications/the-world-factbook/)
+- [1] [The World Factbook](https://www.cia.gov/the-world-factbook/)
 - [2] [Wikipedia Article: The World Factbook](http://en.wikipedia.org/wiki/The_World_Factbook)
 
 **Note: All country profiles use the original / official two-letter GEC (formerly FIPS) codes and NOT the ISO codes (you
@@ -27,7 +27,7 @@ from another talk. Happy exploring the world with JavaScript Object Notation (JS
 ### Q: Why not just use the ISO country codes? Not a bug, a feature request.
 
 A: The factbook has many more entities / countries than ISO and sometimes with a different definition - 
-it's NOT an easy 1:1 mapping, see [Appendix D - Cross-Reference List of Country Data Codes](https://www.cia.gov/library/publications/the-world-factbook/appendix/appendix-d.html).
+it's NOT an easy 1:1 mapping, see [Cross-Reference List of Country Data Codes](https://www.cia.gov/the-world-factbook/references/country-data-codes/).
 
 ### Q: I noticed that you've got Zambian data under ZA for the African region... It should be South African data...
 
