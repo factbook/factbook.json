@@ -24,7 +24,7 @@
       "water": {
         "text": "0 sq km"
       },
-      "note": "<p><strong>note:</strong> includes Perim, Socotra, the former Yemen Arab Republic (YAR or North Yemen), and the former People's Democratic Republic of Yemen (PDRY or South Yemen)</p>"
+      "note": "<strong>note:</strong> includes Perim, Socotra, the former Yemen Arab Republic (YAR or North Yemen), and the former People's Democratic Republic of Yemen (PDRY or South Yemen)"
     },
     "Area - comparative": {
       "text": "almost four times the size of Alabama; slightly larger than twice the size of Wyoming"
@@ -61,14 +61,14 @@
       "text": "narrow coastal plain backed by flat-topped hills and rugged mountains; dissected upland desert plains in center slope into the desert interior of the Arabian Peninsula"
     },
     "Elevation": {
-      "mean elevation": {
-        "text": "999 m"
+      "highest point": {
+        "text": "Jabal an Nabi Shu'ayb 3,666 m"
       },
       "lowest point": {
         "text": "Arabian Sea 0 m"
       },
-      "highest point": {
-        "text": "Jabal an Nabi Shu'ayb 3,666 m"
+      "mean elevation": {
+        "text": "999 m"
       }
     },
     "Natural resources": {
@@ -103,17 +103,6 @@
     "Natural hazards": {
       "text": "<p>sandstorms and dust storms in summer</p><p><strong>volcanism:</strong> limited volcanic activity; Jebel at Tair (Jabal al-Tair, Jebel Teir, Jabal al-Tayr, Jazirat at-Tair) (244 m), which forms an island in the Red Sea, erupted in 2007 after awakening from dormancy; other historically active volcanoes include Harra of Arhab, Harras of Dhamar, Harra es-Sawad, and Jebel Zubair, although many of these have not erupted in over a century</p>"
     },
-    "Environment - current issues": {
-      "text": "limited natural freshwater resources; inadequate supplies of potable water; overgrazing; soil erosion; desertification"
-    },
-    "Environment - international agreements": {
-      "party to": {
-        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection"
-      },
-      "signed, but not ratified": {
-        "text": "none of the selected agreements"
-      }
-    },
     "Geography - note": {
       "text": "strategic location on Bab el Mandeb, the strait linking the Red Sea and the Gulf of Aden, one of world's most active shipping lanes"
     }
@@ -134,8 +123,8 @@
       "text": "predominantly Arab; but also Afro-Arab, South Asian, European"
     },
     "Languages": {
-      "text": "Arabic (official)",
-      "note": "<p><strong>note:</strong> a distinct Socotri language is widely used on Socotra Island and Archipelago; Mahri is still fairly widely spoken in eastern Yemen</p>"
+      "text": "Arabic (official)<br><br><strong>note:</strong> a distinct Socotri language is widely used on Socotra Island and Archipelago; Mahri is still fairly widely spoken in eastern Yemen",
+      "note": "<strong>note:</strong> a distinct Socotri language is widely used on Socotra Island and Archipelago; Mahri is still fairly widely spoken in eastern Yemen"
     },
     "Religions": {
       "text": "Muslim 99.1% (official; virtually all are citizens, an estimated 65% are Sunni and 35% are Shia), other 0.9% (includes Jewish, Baha'i, Hindu, and Christian; many are refugees or temporary foreign residents) (2010 est.)"
@@ -199,10 +188,10 @@
     },
     "Urbanization": {
       "urban population": {
-        "text": "37.9% of total population (2020)"
+        "text": "38.5% of total population (2021)"
       },
       "rate of urbanization": {
-        "text": "4.06% annual rate of change (2015-20 est.)"
+        "text": "3.71% annual rate of change (2015-20 est.)"
       }
     },
     "Major urban areas - population": {
@@ -232,8 +221,8 @@
       }
     },
     "Mother's mean age at first birth": {
-      "text": "21.4 years (2013 est.)",
-      "note": "<br><br><strong>note:</strong> median age at first birth among women 25-29"
+      "text": "21.4 years (2013 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29",
+      "note": "<strong>note:</strong> median age at first birth among women 25-29"
     },
     "Maternal mortality rate": {
       "text": "164 deaths/100,000 live births (2017 est.)"
@@ -384,6 +373,115 @@
       }
     }
   },
+  "Environment": {
+    "Environment - current issues": {
+      "text": "limited natural freshwater resources; inadequate supplies of potable water; overgrazing; soil erosion; desertification"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban"
+      }
+    },
+    "Air pollutants": {
+      "particulate matter emissions": {
+        "text": "44.96 micrograms per cubic meter (2016 est.)"
+      },
+      "carbon dioxide emissions": {
+        "text": "10.61 megatons (2016 est.)"
+      },
+      "methane emissions": {
+        "text": "8.03 megatons (2020 est.)"
+      }
+    },
+    "Total water withdrawal": {
+      "municipal": {
+        "text": "265 million cubic meters (2017 est.)"
+      },
+      "industrial": {
+        "text": "65 million cubic meters (2017 est.)"
+      },
+      "agricultural": {
+        "text": "3.235 billion cubic meters (2017 est.)"
+      }
+    },
+    "Total renewable water resources": {
+      "text": "2.1 billion cubic meters (2017 est.)"
+    },
+    "Climate": {
+      "text": "mostly desert; hot and humid along west coast; temperate in western mountains affected by seasonal monsoon; extraordinarily hot, dry, harsh desert in east"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "44.5% (2018 est.)"
+      },
+      "agricultural land: arable land": {
+        "text": "arable land: 2.2% (2018 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 0.6% (2018 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 41.7% (2018 est.)"
+      },
+      "forest": {
+        "text": "1% (2018 est.)"
+      },
+      "other": {
+        "text": "54.5% (2018 est.)"
+      }
+    },
+    "Revenue from forest resources": {
+      "forest revenues": {
+        "text": "0.04% of GDP (2018 est.)"
+      }
+    },
+    "Revenue from coal": {
+      "coal revenues": {
+        "text": "0% of GDP (2018 est.)"
+      }
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "38.5% of total population (2021)"
+      },
+      "rate of urbanization": {
+        "text": "3.71% annual rate of change (2015-20 est.)"
+      }
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "high (2020)"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial diarrhea, hepatitis A, and typhoid fever"
+      },
+      "vectorborne diseases": {
+        "text": "dengue fever and malaria"
+      },
+      "water contact diseases": {
+        "text": "schistosomiasis"
+      }
+    },
+    "Food insecurity": {
+      "widespread lack of access": {
+        "text": "due to conflict, poverty, floods, high food and fuel prices - between January and June 2021, the number of food insecure was projected to increase by nearly 3 million to 16.2 million people; out of these, an estimated 11 million people will likely be in \"Crisis,\" 5 million in \"Emergency,\" and the number of those in \"Catastrophe\" will likely increase to 47,000; internal conflict continues to compromise all economic activities, including agriculture; the conflict is further hampering already constrained livelihood activities and humanitarian access; income earning opportunities have declined due to COVID‑19‑related business disruptions; although no physical shortages of goods are reported, the high prices severely limit households&rsquo; access; fuel prices remained over 250% above February 2015 levels; humanitarian funding significantly reduced in 2020 resulting in many operations being scaled down leaving the needs of millions of people unattended (2021)"
+      }
+    },
+    "Waste and recycling": {
+      "municipal solid waste generated annually": {
+        "text": "4,836,820 tons (2011 est.)"
+      },
+      "municipal solid waste recycled annually": {
+        "text": "386,946 tons (2016 est.)"
+      },
+      "percent of municipal solid waste recycled": {
+        "text": "8% (2016 est.)"
+      }
+    }
+  },
   "Government": {
     "Country name": {
       "conventional long form": {
@@ -418,7 +516,7 @@
       "time difference": {
         "text": "UTC+3 (8 hours ahead of Washington, DC, during Standard Time)"
       },
-      "note": "<br><br><strong>etymology:</strong> the name is reputed to mean \"well-fortified\" in Sabaean, the South Arabian language that went extinct in Yemen in the 6th century A.D."
+      "note": "<strong>etymology:</strong> the name is reputed to mean \"well-fortified\" in Sabaean, the South Arabian language that went extinct in Yemen in the 6th century A.D."
     },
     "Administrative divisions": {
       "text": "22 governorates (muhafazat, singular - muhafazah); Abyan, 'Adan (Aden), Ad Dali', Al Bayda', Al Hudaydah, Al Jawf, Al Mahrah, Al Mahwit, Amanat al 'Asimah (Sanaa City), 'Amran, Arkhabil Suqutra (Socotra Archipelago), Dhamar, Hadramawt, Hajjah, Ibb, Lahij, Ma'rib, Raymah, Sa'dah, San'a' (Sanaa), Shabwah, Ta'izz"
@@ -500,8 +598,8 @@
       }
     },
     "Political parties and leaders": {
-      "text": "General People&rsquo;s Congress or GPC (3 factions: pro-Hadi [Abdrabbi Mansur HADI], pro-Houthi [Sadeq Ameen Abu RAS], pro-Saleh [Ahmed SALEH]<br />National Arab Socialist Ba'ath Party [Qassem Salam SAID]<br />Nasserist Unionist People's Organization [Abdulmalik al-MEKHLAFI]<br />Southern Transitional Council or STC [Aidarus al-ZOUBAIDA] <br />Yemeni Reform Grouping or Islah [Muhammed Abdallah al-YADUMI]<br />Yemeni Socialist Party or YSP [Dr. Abd al-Rahman Umar al-SAQQAF]",
-      "note": "<br><br>("
+      "text": "General People&rsquo;s Congress or GPC (3 factions: pro-Hadi [Abdrabbi Mansur HADI], pro-Houthi [Sadeq Ameen Abu RAS], pro-Saleh [Ahmed SALEH]<br />National Arab Socialist Ba'ath Party [Qassem Salam SAID]<br />Nasserist Unionist People's Organization [Abdulmalik al-MEKHLAFI]<br />Southern Transitional Council or STC [Aidarus al-ZOUBAIDA] <br />Yemeni Reform Grouping or Islah [Muhammed Abdallah al-YADUMI]<br />Yemeni Socialist Party or YSP [Dr. Abd al-Rahman Umar al-SAQQAF]<br><br>(",
+      "note": "("
     },
     "International organization participation": {
       "text": "AFESD, AMF, CAEU, CD, EITI (temporarily suspended), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MINURSO, MINUSMA, MONUSCO, NAM, OAS (observer), OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMIS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
@@ -538,8 +636,8 @@
       }
     },
     "Flag description": {
-      "text": "three equal horizontal bands of red (top), white, and black; the band colors derive from the Arab Liberation flag and represent oppression (black), overcome through bloody struggle (red), to be replaced by a bright future (white)",
-      "note": "<p><strong>note:</strong> similar to the flag of Syria, which has two green stars in the white band, and of Iraq, which has an Arabic inscription centered in the white band; also similar to the flag of Egypt, which has a heraldic eagle centered in the white band</p>"
+      "text": "three equal horizontal bands of red (top), white, and black; the band colors derive from the Arab Liberation flag and represent oppression (black), overcome through bloody struggle (red), to be replaced by a bright future (white)<br><br><strong>note:</strong> similar to the flag of Syria, which has two green stars in the white band, and of Iraq, which has an Arabic inscription centered in the white band; also similar to the flag of Egypt, which has a heraldic eagle centered in the white band",
+      "note": "<strong>note:</strong> similar to the flag of Syria, which has two green stars in the white band, and of Iraq, which has an Arabic inscription centered in the white band; also similar to the flag of Egypt, which has a heraldic eagle centered in the white band"
     },
     "National symbol(s)": {
       "text": "golden eagle; national colors: red, white, black"
@@ -551,7 +649,7 @@
       "lyrics/music": {
         "text": "Abdullah Abdulwahab NOA'MAN/Ayyoab Tarish ABSI"
       },
-      "note": "<p><strong>note:</strong> adopted 1990; the music first served as the anthem for South Yemen before unification with North Yemen in 1990</p>"
+      "note": "<strong>note:</strong> adopted 1990; the music first served as the anthem for South Yemen before unification with North Yemen in 1990"
     }
   },
   "Economy": {
@@ -587,7 +685,7 @@
       "Real GDP (purchasing power parity) 2015": {
         "text": "$90.63 billion (2015 est.)"
       },
-      "note": "<p><strong>note:</strong> data are in 2017 dollars</p>"
+      "note": "<strong>note:</strong> data are in 2017 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$54.356 billion (2018 est.)"
@@ -602,7 +700,7 @@
       "Real GDP per capita 2015": {
         "text": "$3,200 (2015 est.)"
       },
-      "note": "<p><strong>note:</strong> data are in 2017 dollars</p>"
+      "note": "<strong>note:</strong> data are in 2017 dollars"
     },
     "Gross national saving": {
       "Gross national saving 2017": {
@@ -647,8 +745,17 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "Overall Ease of Doing Business score 2020": {
-        "text": "0.0 (2020)"
+      "Overall score": {
+        "text": "31.8 (2020)"
+      },
+      "Starting a Business score": {
+        "text": "76.8 (2020)"
+      },
+      "Trading score": {
+        "text": "0 (2020)"
+      },
+      "Enforcement score": {
+        "text": "48.5 (2020)"
       }
     },
     "Agricultural products": {
@@ -675,7 +782,7 @@
       }
     },
     "Population below poverty line": {
-      "text": "54% (2014 est.)"
+      "text": "48.6% (2014 est.)"
     },
     "Gini Index coefficient - distribution of family income": {
       "Gini Index coefficient - distribution of family income 2014": {
@@ -735,10 +842,10 @@
       }
     },
     "Exports - partners": {
-      "text": "Egypt 29.4%, Thailand 16.7%, Belarus 13.5%, Oman 10.5%, UAE 6.5%, Saudi Arabia 5% (2017)"
+      "text": "China 53%, Saudi Arabia 10%, United Arab Emirates 7%, Australia 5% (2019)"
     },
     "Exports - commodities": {
-      "text": "crude oil, coffee, dried and salted fish, liquefied natural gas"
+      "text": "crude petroleum, gold, fish, industrial chemical liquids, scrap iron (2019)"
     },
     "Imports": {
       "Imports 2017": {
@@ -749,10 +856,10 @@
       }
     },
     "Imports - partners": {
-      "text": "UAE 12.2%, China 12.1%, Turkey 8.7%, Brazil 7.3%, Saudi Arabia 6.5%, Argentina 5.5%, India 4.7% (2017)"
+      "text": "China 25%, Turkey 10%, United Arab Emirates 9%, Saudi Arabia 8%, India 7% (2019)"
     },
     "Imports - commodities": {
-      "text": "food and live animals, machinery and equipment, chemicals"
+      "text": "wheat, refined petroleum, iron, rice, cars (2019)"
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 31 December 2017": {
@@ -868,9 +975,6 @@
     },
     "Natural gas - proved reserves": {
       "text": "478.5 billion cu m (1 January 2018 est.)"
-    },
-    "Carbon dioxide emissions from consumption of energy": {
-      "text": "13.68 million Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -900,7 +1004,7 @@
       "international": {
         "text": "country code - 967; landing points for the FALCON, SeaMeWe-5, Aden-Djibouti, and the AAE-1 international submarine cable connecting Europe, Africa, the Middle East, Asia and Southeast Asia; satellite earth stations - 3 Intelsat (2 Indian Ocean and 1 Atlantic Ocean), 1 Intersputnik (Atlantic Ocean region), and 2 Arabsat; microwave radio relay to Saudi Arabia and Djibouti (2020)"
       },
-      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "state-run TV with 2 stations; state-run radio with 2 national radio stations and 5 local stations; stations from Oman and Saudi Arabia can be accessed"
@@ -941,7 +1045,7 @@
       }
     },
     "Civil aircraft registration country code prefix": {
-      "text": "7O (2016)"
+      "text": "7O"
     },
     "Airports": {
       "total": {
@@ -1015,40 +1119,44 @@
   },
   "Military and Security": {
     "Military and security forces": {
-      "text": "Land Forces (includes seven Military Regional Commands, supported by Strategic Reserve Forces), Naval and Coastal Defense Forces (includes naval infantry/marines and Coast Guard), Air and Air Defense Force (although it still exists in name, in practice many of the officers and soldiers in this branch have been distributed to other military branches and jobs), Border Guards, Strategic Reserve Forces (supports the Land Forces at the discretion of the Armed Forces Commander-in-Chief; includes a Missile Group, Presidential Protection Brigades, and Special Operations Forces) (2018)"
+      "text": "Government forces are organized as the Yemeni National Army (YNA); the YNA is supported by a variety of ethnically-based and tribal militias<br /><br />prior to the civil war, Yemen's armed forces consisted of Land Forces, Air/Air Defense Forces, Naval Forces/Coastal Defense, Border Guards, and a Strategic Reserve (Presidential Protective Forces, Missile Defense Command, <span class=\"inlineLinkContainer \"><a class=\"inlineLinkAnchor\" title=\"Special\" data-bind=\"attr: { title: label }, click : onClick, event : { contextmenu : onClick}\">Special</a></span> Operations Command) (2020)<br><br>note: by some estimates, up to 70 percent of Yemen's military, police, and paramilitary forces joined the Houthi-Saleh alliance at the beginning of the civil war in 2014",
+      "note": "note: by some estimates, up to 70 percent of Yemen's military, police, and paramilitary forces joined the Houthi-Saleh alliance at the beginning of the civil war in 2014"
     },
     "Military expenditures": {
       "Military Expenditures 2014": {
-        "text": "3.98% of GDP (2014)"
+        "text": "4.3% of GDP (2014)"
       },
       "Military Expenditures 2013": {
-        "text": "4.08% of GDP (2013)"
+        "text": "4.3% of GDP (2013)"
       },
       "Military Expenditures 2012": {
-        "text": "4.57% of GDP (2012)"
+        "text": "4.7% of GDP (2012)"
       },
       "Military Expenditures 2011": {
-        "text": "4.19% of GDP (2011)"
+        "text": "5% of GDP (2011)"
       },
-      "note": "<p>note - no reliable information exists following the start of renewed conflict in 2015</p>"
+      "Military Expenditures 2010": {
+        "text": "4.8% of GDP (2010)"
+      },
+      "note": "note - no reliable information exists following the start of renewed conflict in 2015"
     },
     "Military and security service personnel strengths": {
-      "text": "N/A; note: prior to the civil war, Yemeni Government armed forces had approximately 70,000 active personnel, including about 60,000 Army (2019 est.)"
+      "text": "N/A; note: prior to the civil war, Yemeni Government armed forces had approximately 70,000 active personnel (2020)"
     },
     "Military equipment inventories and acquisitions": {
-      "text": "the inventory of the Yemeni Government forces consists primarily of Russian and Soviet-era equipment, although much of it has been lost in the current conflict; since 2010, it has received limited amounts of equipment from a variety of countries, including Belarus, Czechia, Jordan, Russia, Saudi Arabia, South Africa, Spain, UAE, Ukraine, and the US (2019 est.)"
+      "text": "the inventory of the Yemeni Government forces consists primarily of Russian and Soviet-era equipment, although much of it has been lost in the current conflict; since the start of the civil war in 2014, it has received limited amounts of donated equipment from some Gulf States, including Saudi Arabia and UAE (2020)"
     },
     "Military service age and obligation": {
-      "text": "18 is the legal minimum age for voluntary military service; no conscription; 2-year service obligation (2018)"
+      "text": "18 is the legal minimum age for voluntary military service; conscription abolished in 2001; 2-year service obligation (note - limited information since the start of the civil war) (2019)"
     },
     "Maritime threats": {
-      "text": "the International Maritime Bureau reports offshore waters in the Gulf of Aden are high risk for piracy; numerous vessels, including commercial shipping and pleasure craft, have been attacked and hijacked both at anchor and while underway; crew, passengers, and cargo have been held for ransom; the presence of several naval task forces in the Gulf of Aden and additional anti-piracy measures on the part of ship operators reduced the incidence of piracy in that body of water; one attack was reported in 2016 while three ships reported being fired upon in 2017"
+      "text": "<p>the Maritime Administration of the US Department of Transportation has issued Maritime Advisory 2020-017 (Red Sea, Gulf of Aden, Arabian Sea, and Indian Ocean-Violence Due to Regional Conflict and Piracy) effective 14 December 2020, which states in part the \"Conflict in Yemen continues to pose potential risk to US flagged commercial vessels transiting the southern Red Sea, Bab al Mandeb Strait, and Gulf of Aden. Threats may come from a variety of different sources including, but not limited to, missiles, rockets, projectiles, mines, small arms, unmanned aerial vehicles, unmanned surface vessels, or waterborne improvised explosive devices. These threat vectors continue to pose a direct or collateral risk to US flagged commercial vessels operating in the region. Additionally, piracy poses a threat in the Gulf of Aden, Western Arabian Sea, and Western Indian Ocean.\"</p>"
     }
   },
   "Terrorism": {
     "Terrorist group(s)": {
-      "text": "Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham - Yemen; al-Qa'ida in the Arabian Peninsula (2020)",
-      "note": "<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in <a title=\"Appendix-T\" href=\"../appendix/appendix-t.html\">Appendix-T</a>"
+      "text": "Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham - Yemen; al-Qa'ida in the Arabian Peninsula (2020)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in <a title=\"Appendix-T\" href=\"../appendix/appendix-t.html\">Appendix-T</a>",
+      "note": "<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in <a title=\"Appendix-T\" href=\"../appendix/appendix-t.html\">Appendix-T</a>"
     }
   },
   "Transnational Issues": {
@@ -1057,10 +1165,10 @@
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
-        "text": "14,638 (Ethiopia) (2019); 151,155 (Somalia) (2020)"
+        "text": "111,970 (Somalia), 16,051 (Ethiopia) (2021)"
       },
       "IDPs": {
-        "text": "3,635,000 (conflict in Sa'ada Governorate; clashes between al-Qa'ida in the Arabian Peninsula and government forces) (2019)"
+        "text": "4,002,012 (conflict in Sa'ada Governorate; clashes between al-Qa'ida in the Arabian Peninsula and government forces) (2020)"
       }
     },
     "Trafficking in persons": {

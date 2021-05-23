@@ -54,14 +54,14 @@
       "text": "Negev desert in the south; low coastal plain; central mountains; Jordan Rift Valley"
     },
     "Elevation": {
-      "mean elevation": {
-        "text": "508 m note - does not include elevation data from the Golan Heights"
+      "highest point": {
+        "text": "Mitspe Shlagim 2,224 m; note - this is the highest named point, the actual highest point is an unnamed dome slightly to the west of Mitspe Shlagim at 2,236 m; both points are on the northeastern border of Israel, along the southern end of the Anti-Lebanon mountain range"
       },
       "lowest point": {
         "text": "Dead Sea -431 m"
       },
-      "highest point": {
-        "text": "Mitspe Shlagim 2,224 m; note - this is the highest named point, the actual highest point is an unnamed dome slightly to the west of Mitspe Shlagim at 2,236 m; both points are on the northeastern border of Israel, along the southern end of the Anti-Lebanon mountain range"
+      "mean elevation": {
+        "text": "508 m note - does not include elevation data from the Golan Heights"
       }
     },
     "Natural resources": {
@@ -96,25 +96,14 @@
     "Natural hazards": {
       "text": "sandstorms may occur during spring and summer; droughts; periodic earthquakes"
     },
-    "Environment - current issues": {
-      "text": "limited arable land and restricted natural freshwater resources; desertification; air pollution from industrial and vehicle emissions; groundwater pollution from industrial and domestic waste, chemical fertilizers, and pesticides"
-    },
-    "Environment - international agreements": {
-      "party to": {
-        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
-      },
-      "signed, but not ratified": {
-        "text": "Marine Life Conservation"
-      }
-    },
     "Geography - note": {
       "text": "<strong>note 1:</strong> Lake Tiberias (Sea of Galilee) is an important freshwater source; the Dead Sea is the second saltiest body of water in the world (after Lake Assal in Djibouti)<br /><br /><strong>note 2:&nbsp;</strong>the Malham Cave in Mount Sodom is the world's longest salt cave at 10 km (6 mi); its survey is not complete and its length will undoubtedly increase; Mount Sodom is actually a hill some 220 m (722 ft) high that is 80% salt (multiple salt layers covered by a veneer of rock) <br /><br /><strong>note 3:</strong> in March 2019, there were 380 Israeli settlements,to include 213 settlements and 132 outposts in the West Bank, and 35 settlements in East Jerusalem; there are no Israeli settlements in the Gaza Strip, as all were evacuated in 2005 (2019)"
     }
   },
   "People and Society": {
     "Population": {
-      "text": "8,787,045 (includes populations of the Golan Heights or Golan Sub-District and also East Jerusalem, which was annexed by Israel after 1967) (July 2021 est.)",
-      "note": "<p><strong>note:</strong> approximately 22,900 Israeli settlers live in the Golan Heights (2018); approximately 215,900 Israeli settlers live in East Jerusalem (2017)</p>"
+      "text": "8,787,045 (includes populations of the Golan Heights or Golan Sub-District and also East Jerusalem, which was annexed by Israel after 1967) (July 2021 est.)<br><br><strong>note:</strong> approximately 22,900 Israeli settlers live in the Golan Heights (2018); approximately 215,900 Israeli settlers live in East Jerusalem (2017)",
+      "note": "<strong>note:</strong> approximately 22,900 Israeli settlers live in the Golan Heights (2018); approximately 215,900 Israeli settlers live in East Jerusalem (2017)"
     },
     "Nationality": {
       "noun": {
@@ -192,10 +181,10 @@
     },
     "Urbanization": {
       "urban population": {
-        "text": "92.6% of total population (2020)"
+        "text": "92.7% of total population (2021)"
       },
       "rate of urbanization": {
-        "text": "1.64% annual rate of change (2015-20 est.)"
+        "text": "1.51% annual rate of change (2020-25 est.)"
       }
     },
     "Major urban areas - population": {
@@ -346,13 +335,103 @@
     },
     "Unemployment, youth ages 15-24": {
       "total": {
-        "text": "7.2%"
+        "text": "6.7%"
       },
       "male": {
-        "text": "6.9%"
+        "text": "6.1%"
       },
       "female": {
-        "text": "7.4% (2018 est.)"
+        "text": "7.2% (2019 est.)"
+      }
+    }
+  },
+  "Environment": {
+    "Environment - current issues": {
+      "text": "limited arable land and restricted natural freshwater resources; desertification; air pollution from industrial and vehicle emissions; groundwater pollution from industrial and domestic waste, chemical fertilizers, and pesticides"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "Comprehensive Nuclear Test Ban, Marine Life Conservation"
+      }
+    },
+    "Air pollutants": {
+      "particulate matter emissions": {
+        "text": "19.46 micrograms per cubic meter (2016 est.)"
+      },
+      "carbon dioxide emissions": {
+        "text": "65.17 megatons (2016 est.)"
+      },
+      "methane emissions": {
+        "text": "13.02 megatons (2020 est.)"
+      }
+    },
+    "Total water withdrawal": {
+      "municipal": {
+        "text": "983 million cubic meters (2017 est.)"
+      },
+      "industrial": {
+        "text": "72 million cubic meters (2017 est.)"
+      },
+      "agricultural": {
+        "text": "1.249 billion cubic meters (2017 est.)"
+      }
+    },
+    "Total renewable water resources": {
+      "text": "1.78 billion cubic meters (2017 est.)"
+    },
+    "Climate": {
+      "text": "temperate; hot and dry in southern and eastern desert areas"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "23.8% (2018 est.)"
+      },
+      "agricultural land: arable land": {
+        "text": "arable land: 13.7% (2018 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 3.8% (2018 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 6.3% (2018 est.)"
+      },
+      "forest": {
+        "text": "7.1% (2018 est.)"
+      },
+      "other": {
+        "text": "69.1% (2018 est.)"
+      }
+    },
+    "Revenue from forest resources": {
+      "forest revenues": {
+        "text": "0% of GDP (2018 est.)"
+      }
+    },
+    "Revenue from coal": {
+      "coal revenues": {
+        "text": "0% of GDP (2018 est.)"
+      }
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "92.7% of total population (2021)"
+      },
+      "rate of urbanization": {
+        "text": "1.51% annual rate of change (2020-25 est.)"
+      }
+    },
+    "Waste and recycling": {
+      "municipal solid waste generated annually": {
+        "text": "5.4 million tons (2015 est.)"
+      },
+      "municipal solid waste recycled annually": {
+        "text": "1.35 million tons (2017 est.)"
+      },
+      "percent of municipal solid waste recycled": {
+        "text": "25% (2017 est.)"
       }
     }
   },
@@ -390,7 +469,7 @@
       "daylight saving time": {
         "text": "+1hr, Friday before the last Sunday in March; ends the last Sunday in October"
       },
-      "note": "<br><br><strong>etymology:</strong> Jerusalem's settlement may date back to 2800 B.C.; it is named Urushalim in Egyptian texts of the 14th century B.C.; \"uru-shalim\" likely means \"foundation of [by] the god Shalim\", and derives from Hebrew/Semitic \"yry\", \"to found or lay a cornerstone\", and Shalim, the Canaanite god of dusk and the nether world; Shalim was associated with sunset and peace and the name is based on the same S-L-M root from which Semitic words for \"peace\" are derived (Salam or Shalom in modern Arabic and Hebrew); this confluence has thus led to naming interpretations such as \"The City of Peace\" or \"The Abode of Peace\""
+      "note": "<strong>etymology:</strong> Jerusalem's settlement may date back to 2800 B.C.; it is named Urushalim in Egyptian texts of the 14th century B.C.; \"uru-shalim\" likely means \"foundation of [by] the god Shalim\", and derives from Hebrew/Semitic \"yry\", \"to found or lay a cornerstone\", and Shalim, the Canaanite god of dusk and the nether world; Shalim was associated with sunset and peace and the name is based on the same S-L-M root from which Semitic words for \"peace\" are derived (Salam or Shalom in modern Arabic and Hebrew); this confluence has thus led to naming interpretations such as \"The City of Peace\" or \"The Abode of Peace\""
     },
     "Administrative divisions": {
       "text": "6 districts (mehozot, singular - mehoz); Central, Haifa, Jerusalem, Northern, Southern, Tel Aviv"
@@ -406,7 +485,7 @@
         "text": "no formal constitution; some functions of a constitution are filled by the Declaration of Establishment (1948), the Basic Laws, and the Law of Return (as amended)"
       },
       "amendments": {
-        "text": "proposed by Government of Israel ministers or by the Knesset; passage requires a majority vote of Knesset members and subject to Supreme Court judicial review; 11 of the 13 Basic Laws have been amended at least once, latest in 2020"
+        "text": "proposed by Government of Israel ministers or by the Knesset; passage requires a majority vote of Knesset members and subject to Supreme Court judicial review; 11 of the 13 Basic Laws have been amended at least once, latest in 2020 (Basic Law: the Knesset)"
       }
     },
     "Legal system": {
@@ -428,37 +507,37 @@
       "residency requirement for naturalization": {
         "text": "3 out of the 5 years preceding the application for naturalization"
       },
-      "note": "<p><strong>note:</strong> Israeli law (Law of Return, 5 July 1950) provides for the granting of citizenship to any Jew - defined as a person being born to a Jewish mother or having converted to Judaism while renouncing any other religion - who immigrates to and expresses a desire to settle in Israel on the basis of the Right of aliyah; the 1970 amendment of this act extended the right to family members including the spouse of a Jew, any child or grandchild, and the spouses of children and grandchildren</p>"
+      "note": "<strong>note:</strong> Israeli law (Law of Return, 5 July 1950) provides for the granting of citizenship to any Jew - defined as a person being born to a Jewish mother or having converted to Judaism while renouncing any other religion - who immigrates to and expresses a desire to settle in Israel on the basis of the Right of aliyah; the 1970 amendment of this act extended the right to family members including the spouse of a Jew, any child or grandchild, and the spouses of children and grandchildren"
     },
     "Suffrage": {
       "text": "18 years of age; universal; 17 years of age for municipal elections"
     },
     "Executive branch": {
       "chief of state": {
-        "text": "&nbsp;President Reuben RIVLIN (since 27 July 2014)"
+        "text": "President Reuben RIVLIN (since 24 July 2014)"
       },
       "head of government": {
-        "text": "&nbsp;Prime Minister Binyamin NETANYAHU (since 31 March 2009)"
+        "text": "Prime Minister Binyamin NETANYAHU (since 31 March 2009); note - NETANYAHU failed to form a new government within the four-week window following the 23 March 2021 Knesset election, and his mandate was returned to President RIVLIN on 4 May"
       },
       "cabinet": {
-        "text": "Cabinet selected by prime minister and approved by the Knesset&nbsp;"
+        "text": "Cabinet selected by prime minister and approved by the Knesset"
       },
       "elections/appointments": {
-        "text": "president indirectly elected by the Knesset for a single 7-year term; election last held on 10 June 2014 (next to be held in 2021); following legislative elections, the president, in consultation with party leaders, tasks a Knesset member (usually the member of the largest party) with forming a government"
+        "text": "president indirectly elected by the Knesset for a single 7-year term; election last held on 10 June 2014 (next to be held on 5 July 2021); following legislative elections, the president, in consultation with party leaders, tasks a Knesset member (usually the member of the largest party) with forming a new government"
       },
       "election results": {
-        "text": "Reuven RIVLIN elected president in second round; Knesset vote - Reuven RIVLIN (Likud) 63, Meir SHEETRIT (The Movement) 53, other/invalid 4; note - on 20 May 2020 &ndash; after three national elections, each ending in failed bids by Prime Minister Binyamin NETANYAHU and Blue and White party leader Benny GANTZ to form a coalition government, both signed an agreement on the formation of a national emergency government in which NETANYAHU continues as prime minister for 18 months when GANTZ will replace him"
+        "text": "Reuven RIVLIN elected president in second round; Knesset vote - Reuven RIVLIN (Likud) 63, Meir SHEETRIT (The Movement) 53, other/invalid 4"
       }
     },
     "Legislative branch": {
       "description": {
-        "text": "unicameral Knesset (120 seats; members directly elected in a single nationwide constituency by closed-list proportional representation vote, with a 3.25% threshold to gain representation; members serve 4-year terms)"
+        "text": "unicameral Knesset (120 seats; members directly elected in a single nationwide constituency by closed-list proportional representation vote, with a 3.25% vote threshold to gain representation; members serve 4-year terms)"
       },
       "elections": {
-        "text": "last held on 2 March 2020 (next to be held on 23 March 2021)"
+        "text": "last held on 23 March 2021 (next to be held in 2025)"
       },
       "election results": {
-        "text": "percent by party (preliminary) - Likud 29.2%, Blue and White 26.4%, Joint List 13.1%, Shas 7.7%, United Torah Judaism 6.2%, Yisrael Beiteinu 5.9%, Labor-Gesher-Meretz 5.7%, Yamina 5%, other 0.8%; seats by party (preliminary) - Likud 36, Blue and White 33, Joint List 15, Shas 9, United Torah Judaism 7, Yisrael Beiteinu 7, Labor-Gesher Meretz 7, Yamina 6; composition - NA"
+        "text": "percent by party - Likud 24.2%, Yesh Atid 13.9%, Shas 7.2%, Blue and White 6.6%, Yamina 6.2%, Labor 6.1%, UTJ 5.6%, Yisrael Beiteinu 5.6%, Religious Zionist Party 5.1%, Joint List 4.8%, New Hope 4.7%, Meretz 4.6%, Ra'am 3.8%, other 0.5%; seats by party - Likud 30, Yesh Atid 17, Shas 9, Blue and White 8, Yamina 7, Labor 7, UTJ 7, Yisrael Beiteinu 7, Religious Zionist Party 6, Joint List 6, New Hope 6, Meretz 6, Ra'am 4 - NA"
       }
     },
     "Judicial branch": {
@@ -473,14 +552,14 @@
       }
     },
     "Political parties and leaders": {
-      "text": "<p>Democratic Union [Nitzan HOROWITZ] (alliance includes Democratic Israel, Meretz, Green Movement)<br /> Joint List [Ayman ODEH] (alliance includes Hadash, Ta&rsquo;al, United Arab List, Balad)<br />Kahol Lavan [Benny GANTZ] (alliance includes Israeli Resilience, Yesh Atid, Telem)<br />Labor-Gesher [Amir PERETZ]<br /> Likud [Binyamin NETANYAHU]<br />Otzma Yehudit [Itamar BEN-GVIR]<br /> SHAS [Arye DERI]<br /> United Torah Judaism, or UTJ [Yaakov LITZMAN] (alliance includes Agudat Israel and Degel HaTorah)<br />Yamina [Ayelet SHAKED]<br /> Yisrael Beiteinu [Avigdor LIEBERMAN]<br />Zehut [Moshe FEIGLIN]</p>"
+      "text": "<p>Democratic Union [Nitzan HOROWITZ] (alliance includes Democratic Israel, Meretz, Green Movement)<br />Joint List [Ayman ODEH] (alliance includes Hadash, Ta&rsquo;al, United Arab List, Balad)<br />Kahol Lavan [Benny GANTZ] (alliance includes Israeli Resilience, Yesh Atid, Telem)<br />Labor-Gesher [Amir PERETZ]<br />Likud [Binyamin NETANYAHU]<br />Otzma Yehudit [Itamar BEN-GVIR]<br />Religous Zionist Party [Belzalel SMOTRICH, chairperson]<br />SHAS [Arye DERI]<br />United Torah Judaism, or UTJ [Yaakov LITZMAN] (alliance includes Agudat Israel and Degel HaTorah)<br />Yamina [Ayelet SHAKED]<br />Yesh Atid [Yair LAPID]<br />Yisrael Beiteinu [Avigdor LIEBERMAN]<br />Zehut [Moshe FEIGLIN]</p>"
     },
     "International organization participation": {
       "text": "BIS, BSEC (observer), CE (observer), CERN, CICA, EBRD, FAO, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, OAS (observer), OECD, OPCW (signatory), OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
     },
     "Diplomatic representation in the US": {
       "chief of mission": {
-        "text": "Ambassador Ron DERMER (since 3 December 2013)"
+        "text": "Ambassador Gilad Menashe ERDAN (since 17 February 2021)"
       },
       "chancery": {
         "text": "3514 International Drive NW, Washington, DC 20008"
@@ -508,11 +587,11 @@
       "FAX": {
         "text": "NA"
       },
-      "note": "<p><strong>note:</strong> on 14 May 2018, the US Embassy relocated to Jerusalem from Tel Aviv; on 4 March 2019, Consulate General Jerusalem merged into US Embassy Jerusalem to form a single diplomatic mission</p>"
+      "note": "<strong>note:</strong> on 14 May 2018, the US Embassy relocated to Jerusalem from Tel Aviv; on 4 March 2019, Consulate General Jerusalem merged into US Embassy Jerusalem to form a single diplomatic mission"
     },
     "Flag description": {
-      "text": "white with a blue hexagram (six-pointed linear star) known as the Magen David (Star of David or Shield of David) centered between two equal horizontal blue bands near the top and bottom edges of the flag; the basic design resembles a traditional Jewish prayer shawl (tallit), which is white with blue stripes; the hexagram as a Jewish symbol dates back to medieval times",
-      "note": "<p><strong>note:</strong> the Israeli flag proclamation states that the flag colors are sky blue and white, but the exact shade of blue has never been set and can vary from a light to a dark blue</p>"
+      "text": "white with a blue hexagram (six-pointed linear star) known as the Magen David (Star of David or Shield of David) centered between two equal horizontal blue bands near the top and bottom edges of the flag; the basic design resembles a traditional Jewish prayer shawl (tallit), which is white with blue stripes; the hexagram as a Jewish symbol dates back to medieval times<br><br><strong>note:</strong> the Israeli flag proclamation states that the flag colors are sky blue and white, but the exact shade of blue has never been set and can vary from a light to a dark blue",
+      "note": "<strong>note:</strong> the Israeli flag proclamation states that the flag colors are sky blue and white, but the exact shade of blue has never been set and can vary from a light to a dark blue"
     },
     "National symbol(s)": {
       "text": "Star of David (Magen David), menorah (seven-branched lampstand); national colors: blue, white"
@@ -524,7 +603,7 @@
       "lyrics/music": {
         "text": "Naftali Herz IMBER/traditional, arranged by Samuel COHEN"
       },
-      "note": "<p><strong>note:</strong> adopted 2004, unofficial since 1948; used as the anthem of the Zionist movement since 1897; the 1888 arrangement by Samuel COHEN is thought to be based on the Romanian folk song \"Carul cu boi\" (The Ox Driven Cart)</p>"
+      "note": "<strong>note:</strong> adopted 2004, unofficial since 1948; used as the anthem of the Zionist movement since 1897; the 1888 arrangement by Samuel COHEN is thought to be based on the Romanian folk song \"Carul cu boi\" (The Ox Driven Cart)"
     }
   },
   "Economy": {
@@ -574,7 +653,7 @@
       "Real GDP (purchasing power parity) 2017": {
         "text": "$339.528 billion (2017 est.)"
       },
-      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
+      "note": "<strong>note:</strong> data are in 2010 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$394.93 billion (2019 est.)"
@@ -589,7 +668,7 @@
       "Real GDP per capita 2017": {
         "text": "$38,967 (2017 est.)"
       },
-      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
+      "note": "<strong>note:</strong> data are in 2010 dollars"
     },
     "Gross national saving": {
       "Gross national saving 2019": {
@@ -634,8 +713,17 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "Overall Ease of Doing Business score 2020": {
+      "Overall score": {
+        "text": "76.7 (2020)"
+      },
+      "Starting a Business score": {
         "text": "94.1 (2020)"
+      },
+      "Trading score": {
+        "text": "83.4 (2020)"
+      },
+      "Enforcement score": {
+        "text": "58.9 (2020)"
       }
     },
     "Agricultural products": {
@@ -670,8 +758,8 @@
       }
     },
     "Population below poverty line": {
-      "text": "22% (2014 est.) (2014 est.)",
-      "note": "<p><strong>note:</strong> Israel's poverty line is $7.30 per person per day</p>"
+      "text": "22% (2014 est.)<br><br><strong>note:</strong> Israel's poverty line is $7.30 per person per day",
+      "note": "<strong>note:</strong> Israel's poverty line is $7.30 per person per day"
     },
     "Gini Index coefficient - distribution of family income": {
       "Gini Index coefficient - distribution of family income 2016": {
@@ -734,10 +822,10 @@
       }
     },
     "Exports - partners": {
-      "text": "US 28.8%, UK 8.2%, Hong Kong 7%, China 5.4%, Belgium 4.5% (2017)"
+      "text": "United States 32%, China 9%, Hong Kong 5% (2019)"
     },
     "Exports - commodities": {
-      "text": "machinery and equipment, software, cut diamonds, agricultural products, chemicals, textiles and apparel"
+      "text": "diamonds, packaged medicines, medical instruments, integrated circuits, refined petroleum (2019)"
     },
     "Imports": {
       "Imports 2019": {
@@ -751,10 +839,10 @@
       }
     },
     "Imports - partners": {
-      "text": "US 11.7%, China 9.5%, Switzerland 8%, Germany 6.8%, UK 6.2%, Belgium 5.9%, Netherlands 4.2%, Turkey 4.2%, Italy 4% (2017)"
+      "text": "United States 18%, China 14%, Germany 7%, Turkey 6% (2019)"
     },
     "Imports - commodities": {
-      "text": "raw materials, military equipment, investment goods, rough diamonds, fuels, grain, consumer goods"
+      "text": "diamonds, cars, crude petroleum, refined petroleum, broadcasting equipment (2019)"
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 31 December 2017": {
@@ -864,9 +952,6 @@
     },
     "Natural gas - proved reserves": {
       "text": "176 billion cu m (1 January 2018 est.)"
-    },
-    "Carbon dioxide emissions from consumption of energy": {
-      "text": "73.82 million Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -896,7 +981,7 @@
       "international": {
         "text": "country code - 972; landing points for the MedNautilus Submarine System, Tameres North, Jonah and Lev Submarine System, submarine cables that provide links to Europe, Cyprus, and parts of the Middle East; satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean) (2019)"
       },
-      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "the Israel Broadcasting Corporation (est 2015) broadcasts on&nbsp;3 channels,&nbsp;two in Hebrew and the other in Arabic; multi-channel satellite and cable TV packages provide access to foreign channels; the Israeli Broadcasting Corporation broadcasts on 8 radio networks with multiple repeaters and Israel Defense Forces Radio broadcasts over multiple stations; about 15 privately owned radio stations; overall more than 100 stations and repeater stations (2019)"
@@ -937,7 +1022,7 @@
       }
     },
     "Civil aircraft registration country code prefix": {
-      "text": "4X (2016)"
+      "text": "4X"
     },
     "Airports": {
       "total": {
@@ -1016,8 +1101,8 @@
   },
   "Military and Security": {
     "Military and security forces": {
-      "text": "Israel Defense Forces (IDF): Ground Forces, Israel Naval Force (IN, includes commandos), Israel Air Force (IAF, includes air defense); Ministry of Public Security: Border Police (2019)",
-      "note": "<br><br>note: the Border Police is a unit within the Israel Police with its own organizational and command structure; it works both independently as well as in cooperation with or in support of the Israel Police and Israel Defense Force"
+      "text": "Israel Defense Forces (IDF): Ground Forces, Israel Naval Force (IN, includes commandos), Israel Air Force (IAF, includes air defense); Ministry of Public Security: Border Police (2021)<br><br>note: the Border Police is a unit within the Israel Police with its own organizational and command structure; it works both independently as well as in cooperation with or in support of the Israel Police and Israel Defense Force",
+      "note": "note: the Border Police is a unit within the Israel Police with its own organizational and command structure; it works both independently as well as in cooperation with or in support of the Israel Police and Israel Defense Force"
     },
     "Military expenditures": {
       "Military Expenditures 2019": {
@@ -1037,22 +1122,22 @@
       }
     },
     "Military and security service personnel strengths": {
-      "text": "the Israel Defense Forces (IDF) have approximately 173,000 active personnel (130,000 Ground Forces; 9,500 Naval; 34,000 Air Force) (2019 )"
+      "text": "the Israel Defense Forces (IDF) have approximately 173,000 active personnel (130,000 Ground Forces; 9,000 Naval; 34,000 Air Force) (2020)"
     },
     "Military equipment inventories and acquisitions": {
-      "text": "the majority of the IDF's inventory is comprised of weapons that are domestically-produced or imported from Europe and the US; since 2010, Germany and the US are the leading suppliers of weapons to Israel; Israel has a broad defense industrial base that can develop, produce, support, and sustain a wide variety of weapons systems for both domestic use and export, particularly armored vehicles, unmanned aerial systems, air defense, and guided missiles (2019 est.)"
+      "text": "the majority of the IDF's inventory is comprised of weapons that are domestically-produced or imported from Europe and the US; since 2010, the US is by far the leading supplier of arms to Israel, followed by Germany; Israel has a broad defense industrial base that can develop, produce, support, and sustain a wide variety of weapons systems for both domestic use and export, particularly armored vehicles, unmanned aerial systems, air defense, and guided missiles (2021)"
     },
     "Military service age and obligation": {
-      "text": "18 years of age for compulsory (Jews, Druze) military service; 17 years of age for voluntary (Christians, Muslims, Circassians) military service; both sexes are obligated to military service; conscript service obligation - 32 months for enlisted men and about 24 months for enlisted women (varies based on military occupation), 48 months for officers; pilots commit to 9-year service; reserve obligation to age 41-51 (men), age 24 (women) (2015)"
+      "text": "18 years of age for compulsory (Jews, Druze) military service; 17 years of age for voluntary (Christians, Muslims, Circassians) military service; both sexes are obligated to military service; conscript service obligation - 32 months for enlisted men and about 24 months for enlisted women (varies based on military occupation), 48 months for officers; pilots commit to 9-year service; reserve obligation to age 41-51 (men), age 24 (women) (2020)"
     },
     "Military - note": {
-      "text": "the United Nations Disengagement Observer Force (UNDOF) has operated in the Golan between Israel and Syria since 1974 to monitor the ceasefire following the 1973 Arab-Israeli War and supervise the areas of separation between the two countries; as of March 2020, UNDOF consisted of about 1,000 personnel (2020)"
+      "text": "the United Nations Disengagement Observer Force (UNDOF) has operated in the Golan between Israel and Syria since 1974 to monitor the ceasefire following the 1973 Arab-Israeli War and supervise the areas of separation between the two countries; as of December 2020, UNDOF consisted of about 1,100 military personnel"
     }
   },
   "Terrorism": {
     "Terrorist group(s)": {
-      "text": "Kahane Chai; Popular Front for the Liberation of Palestine; Palestinian Islamic Jihad (2019)",
-      "note": "<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in <a title=\"Appendix-T\" href=\"../appendix/appendix-t.html\">Appendix-T</a>"
+      "text": "Kahane Chai; Popular Front for the Liberation of Palestine; Palestinian Islamic Jihad (2019)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in <a title=\"Appendix-T\" href=\"../appendix/appendix-t.html\">Appendix-T</a>",
+      "note": "<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in <a title=\"Appendix-T\" href=\"../appendix/appendix-t.html\">Appendix-T</a>"
     }
   },
   "Transnational Issues": {

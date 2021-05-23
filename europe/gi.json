@@ -51,11 +51,11 @@
       "text": "a narrow coastal lowland borders the Rock of Gibraltar"
     },
     "Elevation": {
-      "lowest point": {
-        "text": "Mediterranean Sea 0 m"
-      },
       "highest point": {
         "text": "Rock of Gibraltar 426 m"
+      },
+      "lowest point": {
+        "text": "Mediterranean Sea 0 m"
       }
     },
     "Natural resources": {
@@ -75,9 +75,6 @@
     "Natural hazards": {
       "text": "occasional droughts; no streams or large bodies of water on the peninsula (all potable water comes from desalination)"
     },
-    "Environment - current issues": {
-      "text": "limited natural freshwater resources: more than 90% of drinking water supplied by desalination, the remainder from stored rainwater; a separate supply of saltwater used for sanitary services"
-    },
     "Geography - note": {
       "text": "<p><strong>note 1:</strong> strategic location on Strait of Gibraltar that links the North Atlantic Ocean and Mediterranean Sea</p> <p><strong>note 2:</strong> one of only two British territories where traffic drives on the right, the other being the island of Diego Garcia in the British Indian Ocean Territory</p>"
     }
@@ -95,8 +92,8 @@
       }
     },
     "Ethnic groups": {
-      "text": "Gibraltarian 79%, other British 13.2%, Spanish 2.1%, Moroccan 1.6%, other EU 2.4%, other 1.6% (2012 est.)",
-      "note": "<br><br><strong>note:</strong> data represent population by nationality"
+      "text": "Gibraltarian 79%, other British 13.2%, Spanish 2.1%, Moroccan 1.6%, other EU 2.4%, other 1.6% (2012 est.)<br><br><strong>note:</strong> data represent population by nationality",
+      "note": "<strong>note:</strong> data represent population by nationality"
     },
     "Languages": {
       "text": "English (used in schools and for official purposes), Spanish, Italian, Portuguese"
@@ -146,7 +143,7 @@
     },
     "Urbanization": {
       "urban population": {
-        "text": "100% of total population (2020)"
+        "text": "100% of total population (2021)"
       },
       "rate of urbanization": {
         "text": "0.45% annual rate of change (2015-20 est.)"
@@ -244,6 +241,40 @@
       "text": "NA"
     }
   },
+  "Environment": {
+    "Environment - current issues": {
+      "text": "limited natural freshwater resources: more than 90% of drinking water supplied by desalination, the remainder from stored rainwater; a separate supply of saltwater used for sanitary services"
+    },
+    "Air pollutants": {
+      "carbon dioxide emissions": {
+        "text": "0.63 megatons (2016 est.)"
+      }
+    },
+    "Climate": {
+      "text": "Mediterranean with mild winters and warm summers"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "0% (2011 est.)"
+      },
+      "other": {
+        "text": "100% (2018 est.)"
+      }
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "100% of total population (2021)"
+      },
+      "rate of urbanization": {
+        "text": "0.45% annual rate of change (2015-20 est.)"
+      }
+    },
+    "Waste and recycling": {
+      "municipal solid waste generated annually": {
+        "text": "16,954 tons (2012 est.)"
+      }
+    }
+  },
   "Government": {
     "Country name": {
       "conventional long form": {
@@ -275,7 +306,7 @@
       "daylight saving time": {
         "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
       },
-      "note": "<br><br><strong>etymology:</strong> from the Spanish derivation of the Arabic \"Jabal Tariq,\" which means \"Mountain of Tariq\" and which refers to the Rock of Gibraltar"
+      "note": "<strong>etymology:</strong> from the Spanish derivation of the Arabic \"Jabal Tariq,\" which means \"Mountain of Tariq\" and which refers to the Rock of Gibraltar"
     },
     "Administrative divisions": {
       "text": "none (overseas territory of the UK)"
@@ -291,7 +322,7 @@
         "text": "previous 1969; latest passed by referendum 30 November 2006, entered into effect 14 December 2006, entered into force 2 January 2007"
       },
       "amendments": {
-        "text": "proposed by Parliament and require prior consent of the British monarch (through the Secretary of State); passage requires at least three-fourths majority vote in Parliament followed by simple majority vote in a referendum; note – only sections 1 through 15 in Chapter 1 (Protection of Fundamental Rights and Freedoms) can be amended by Parliament"
+        "text": "proposed by Parliament and requires prior consent of the British monarch (through the Secretary of State); passage requires at least three-fourths majority vote in Parliament followed by simple majority vote in a referendum; note &ndash; only sections 1 through 15 in Chapter 1 (Protection of Fundamental Rights and Freedoms) can be amended by Parliament"
       }
     },
     "Legal system": {
@@ -305,7 +336,7 @@
     },
     "Executive branch": {
       "chief of state": {
-        "text": "Queen ELIZABETH II (since 6 February 1952); represented by Governor Lt. Gen. Edward DAVIS (since 19 January 2016)"
+        "text": "Queen ELIZABETH II (since 6 February 1952); represented by Governor Sir David STEEL (since 11 June 2020)"
       },
       "head of government": {
         "text": "Chief Minister Fabian PICARDO (since 9 December 2011)"
@@ -366,7 +397,7 @@
       "lyrics/music": {
         "text": "Peter EMBERLEY"
       },
-      "note": "<p><strong>note:</strong> adopted 1994; serves as a local anthem; as a territory of the United Kingdom, \"God Save the Queen\" is official (see United Kingdom)</p>"
+      "note": "<strong>note:</strong> adopted 1994; serves as a local anthem; as a territory of the United Kingdom, \"God Save the Queen\" is official (see United Kingdom)"
     }
   },
   "Economy": {
@@ -391,7 +422,7 @@
       "Real GDP (purchasing power parity) 2012": {
         "text": "$2 billion (2012 est.)"
       },
-      "note": "<p><strong>note:</strong> data are in 2014 dollars</p>"
+      "note": "<strong>note:</strong> data are in 2014 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$2.044 billion (2014 est.)"
@@ -491,10 +522,10 @@
       }
     },
     "Exports - partners": {
-      "text": "Spain 27.1%, Germany 20.4%, Netherlands 10.8%, Poland 8.6%, France 6.6%, Italy 5.7%, Cote dIvoire 4.5% (2017)"
+      "text": "Poland 31%, Netherlands 27%, France 11%, Germany 8%, United States 6% (2019)"
     },
     "Exports - commodities": {
-      "text": "(principally reexports) petroleum 51%, manufactured goods (2010 est.)"
+      "text": "cars, ships, refined petroleum, fish, recreational boats (2019)"
     },
     "Imports": {
       "Imports 2004": {
@@ -502,10 +533,10 @@
       }
     },
     "Imports - partners": {
-      "text": "Spain 15.6%, Italy 13.4%, US 13.3%, Netherlands 10.9%, Greece 8.5%, Russia 6.6%, UK 5.8%, Belgium 4.4% (2017)"
+      "text": "Spain 19%, US 12%, India 12%, Italy 12%, Netherlands 11%, United Kingdom 7%, Greece 6% (2019)"
     },
     "Imports - commodities": {
-      "text": "fuels, manufactured goods, foodstuffs"
+      "text": "refined petroleum, recreational boats, cars, coal tar oil, crude petroleum (2019)"
     },
     "Debt - external": {
       "text": "<p>NA</p>"
@@ -602,9 +633,6 @@
     },
     "Natural gas - proved reserves": {
       "text": "0 cu m (1 January 2014 est.)"
-    },
-    "Carbon dioxide emissions from consumption of energy": {
-      "text": "13.34 million Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -660,7 +688,7 @@
   },
   "Transportation": {
     "Civil aircraft registration country code prefix": {
-      "text": "VP-G (2016)"
+      "text": "VP-G"
     },
     "Airports": {
       "total": {
@@ -699,10 +727,10 @@
   },
   "Military and Security": {
     "Military and security forces": {
-      "text": "Royal Gibraltar Regiment (2019)"
+      "text": "Royal Gibraltar Regiment (2021)"
     },
     "Military - note": {
-      "text": "defense is the responsibility of the UK; the Royal Gibraltar Regiment replaced the last British regular infantry forces in 1991 (2019)"
+      "text": "defense is the responsibility of the UK (2021)"
     }
   },
   "Transnational Issues": {

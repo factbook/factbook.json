@@ -54,14 +54,14 @@
       "text": "gently rolling savanna in north; central hills; southern plateau; low coastal plain with extensive lagoons and marshes"
     },
     "Elevation": {
-      "mean elevation": {
-        "text": "236 m"
+      "highest point": {
+        "text": "Mont Agou 986 m"
       },
       "lowest point": {
         "text": "Atlantic Ocean 0 m"
       },
-      "highest point": {
-        "text": "Mont Agou 986 m"
+      "mean elevation": {
+        "text": "236 m"
       }
     },
     "Natural resources": {
@@ -96,25 +96,14 @@
     "Natural hazards": {
       "text": "hot, dry harmattan wind can reduce visibility in north during winter; periodic droughts"
     },
-    "Environment - current issues": {
-      "text": "deforestation attributable to slash-and-burn agriculture and the use of wood for fuel; very little rain forest still present and what remains is highly degraded; desertification; water pollution presents health hazards and hinders the fishing industry; air pollution increasing in urban areas"
-    },
-    "Environment - international agreements": {
-      "party to": {
-        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
-      },
-      "signed, but not ratified": {
-        "text": "none of the selected agreements"
-      }
-    },
     "Geography - note": {
       "text": "the country's length allows it to stretch through six distinct geographic regions; climate varies from tropical to savanna"
     }
   },
   "People and Society": {
     "Population": {
-      "text": "8,283,189 (July 2021 est.)",
-      "note": "<p><strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected</p>"
+      "text": "8,283,189 (July 2021 est.)<br><br><strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected",
+      "note": "<strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected"
     },
     "Nationality": {
       "noun": {
@@ -125,8 +114,8 @@
       }
     },
     "Ethnic groups": {
-      "text": "Adja-Ewe/Mina 42.4%, Kabye/Tem 25.9%, Para-Gourma/Akan 17.1%, Akposso/Akebu 4.1%, Ana-Ife 3.2%, other Togolese 1.7%, foreigners 5.2%, no response .4% (2013-14 est.)",
-      "note": "<br><br><strong>note:</strong> Togo has an estimated 37 ethnic groups"
+      "text": "Adja-Ewe/Mina 42.4%, Kabye/Tem 25.9%, Para-Gourma/Akan 17.1%, Akposso/Akebu 4.1%, Ana-Ife 3.2%, other Togolese 1.7%, foreigners 5.2%, no response .4% (2013-14 est.)<br><br><strong>note:</strong> Togo has an estimated 37 ethnic groups",
+      "note": "<strong>note:</strong> Togo has an estimated 37 ethnic groups"
     },
     "Languages": {
       "text": "French (official, the language of commerce), Ewe and Mina (the two major African languages in the south), Kabye (sometimes spelled Kabiye) and Dagomba (the two major African languages in the north)"
@@ -199,7 +188,7 @@
         "text": "42.8% of total population (2020)"
       },
       "rate of urbanization": {
-        "text": "3.76% annual rate of change (2015-20 est.)"
+        "text": "3.6% annual rate of change (2020-25 est.)"
       }
     },
     "Major urban areas - population": {
@@ -229,8 +218,8 @@
       }
     },
     "Mother's mean age at first birth": {
-      "text": "21 years (2013/14 est.)",
-      "note": "<p><strong>note:</strong> median age at first birth among women 25-29</p>"
+      "text": "21 years (2013/14 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29",
+      "note": "<strong>note:</strong> median age at first birth among women 25-29"
     },
     "Maternal mortality rate": {
       "text": "396 deaths/100,000 live births (2017 est.)"
@@ -377,13 +366,123 @@
     },
     "Unemployment, youth ages 15-24": {
       "total": {
-        "text": "3.9%"
+        "text": "9.5%"
       },
       "male": {
-        "text": "3.7%"
+        "text": "12.3%"
       },
       "female": {
-        "text": "4.1% (2015 est.)"
+        "text": "7.4% (2017 est.)"
+      }
+    }
+  },
+  "Environment": {
+    "Environment - current issues": {
+      "text": "deforestation attributable to slash-and-burn agriculture and the use of wood for fuel; very little rain forest still present and what remains is highly degraded; desertification; water pollution presents health hazards and hinders the fishing industry; air pollution increasing in urban areas"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Air pollutants": {
+      "particulate matter emissions": {
+        "text": "32.71 micrograms per cubic meter (2016 est.)"
+      },
+      "carbon dioxide emissions": {
+        "text": "3 megatons (2016 est.)"
+      },
+      "methane emissions": {
+        "text": "3.06 megatons (2020 est.)"
+      }
+    },
+    "Total water withdrawal": {
+      "municipal": {
+        "text": "140.7 million cubic meters (2017 est.)"
+      },
+      "industrial": {
+        "text": "6.3 million cubic meters (2017 est.)"
+      },
+      "agricultural": {
+        "text": "76 million cubic meters (2017 est.)"
+      }
+    },
+    "Total renewable water resources": {
+      "text": "14.7 billion cubic meters (2017 est.)"
+    },
+    "Climate": {
+      "text": "tropical; hot, humid in south; semiarid in north"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "67.4% (2018 est.)"
+      },
+      "agricultural land: arable land": {
+        "text": "arable land: 45.2% (2018 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 3.8% (2018 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 18.4% (2018 est.)"
+      },
+      "forest": {
+        "text": "4.9% (2018 est.)"
+      },
+      "other": {
+        "text": "27.7% (2018 est.)"
+      }
+    },
+    "Revenue from forest resources": {
+      "forest revenues": {
+        "text": "3.96% of GDP (2018 est.)"
+      }
+    },
+    "Revenue from coal": {
+      "coal revenues": {
+        "text": "0% of GDP (2018 est.)"
+      }
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "42.8% of total population (2020)"
+      },
+      "rate of urbanization": {
+        "text": "3.6% annual rate of change (2020-25 est.)"
+      }
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "very high (2020)"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial and protozoal diarrhea, hepatitis A, and typhoid fever"
+      },
+      "vectorborne diseases": {
+        "text": "malaria, dengue fever, and yellow fever"
+      },
+      "water contact diseases": {
+        "text": "schistosomiasis"
+      },
+      "animal contact diseases": {
+        "text": "rabies"
+      },
+      "respiratory diseases": {
+        "text": "meningococcal meningitis"
+      }
+    },
+    "Waste and recycling": {
+      "municipal solid waste generated annually": {
+        "text": "1,109,030 tons (2014 est.)"
+      },
+      "municipal solid waste recycled annually": {
+        "text": "22,181 tons (2012 est.)"
+      },
+      "percent of municipal solid waste recycled": {
+        "text": "2% (2012 est.)"
       }
     }
   },
@@ -421,7 +520,7 @@
       "time difference": {
         "text": "UTC 0 (5 hours ahead of Washington, DC, during Standard Time)"
       },
-      "note": "<br><br><strong>etymology:</strong> Lome comes from \"alotime\" which in the native Ewe language means \"among the alo plants\"; alo trees dominated the city's original founding site"
+      "note": "<strong>etymology:</strong> Lome comes from \"alotime\" which in the native Ewe language means \"among the alo plants\"; alo trees dominated the city's original founding site"
     },
     "Administrative divisions": {
       "text": "5 regions (regions, singular - region); Centrale, Kara, Maritime, Plateaux, Savanes"
@@ -437,7 +536,7 @@
         "text": "several previous; latest adopted 27 September 1992, effective 14 October 1992"
       },
       "amendments": {
-        "text": "proposed by the president of the republic or supported by at least one fifth of the National Assembly membership; passage requires four-fifths majority vote by the Assembly; a referendum is required if approved by only two-thirds majority of the Assembly or if requested by the president; constitutional articles on the republican and secular form of government cannot be amended; amended 2002, 2007, 2019 when the National Assembly unanimously approved a package of amendments, including setting presidential term limits of two 5-year mandates"
+        "text": "proposed by the president of the republic or supported by at least one fifth of the National Assembly membership; passage requires four-fifths majority vote by the Assembly; a referendum is required if approved by only two-thirds majority of the Assembly or if requested by the president; constitutional articles on the republican and secular form of government cannot be amended; amended 2002, 2007, last in 2019 when the National Assembly unanimously approved a package of amendments, including setting presidential term limits of two 5-year mandates"
       }
     },
     "Legal system": {
@@ -540,8 +639,8 @@
       }
     },
     "Flag description": {
-      "text": "five equal horizontal bands of green (top and bottom) alternating with yellow; a white five-pointed star on a red square is in the upper hoist-side corner; the five horizontal stripes stand for the five different regions of the country; the red square is meant to express the loyalty and patriotism of the people, green symbolizes hope, fertility, and agriculture, while yellow represents mineral wealth and faith that hard work and strength will bring prosperity; the star symbolizes life, purity, peace, dignity, and Togo's independence",
-      "note": "<p><strong>note:</strong> uses the popular Pan-African colors of Ethiopia</p>"
+      "text": "five equal horizontal bands of green (top and bottom) alternating with yellow; a white five-pointed star on a red square is in the upper hoist-side corner; the five horizontal stripes stand for the five different regions of the country; the red square is meant to express the loyalty and patriotism of the people, green symbolizes hope, fertility, and agriculture, while yellow represents mineral wealth and faith that hard work and strength will bring prosperity; the star symbolizes life, purity, peace, dignity, and Togo's independence<br><br><strong>note:</strong> uses the popular Pan-African colors of Ethiopia",
+      "note": "<strong>note:</strong> uses the popular Pan-African colors of Ethiopia"
     },
     "National symbol(s)": {
       "text": "lion; national colors: green, yellow, red, white"
@@ -553,7 +652,7 @@
       "lyrics/music": {
         "text": "Alex CASIMIR-DOSSEH"
       },
-      "note": "<p><strong>note:</strong> adopted 1960, restored 1992; this anthem was replaced by another during one-party rule between 1979 and 1992</p>"
+      "note": "<strong>note:</strong> adopted 1960, restored 1992; this anthem was replaced by another during one-party rule between 1979 and 1992"
     }
   },
   "Economy": {
@@ -600,7 +699,7 @@
       "Real GDP (purchasing power parity) 2017": {
         "text": "$11.674 billion (2017 est.)"
       },
-      "note": "<p><strong>note:</strong> data are in 2017 dollars</p>"
+      "note": "<strong>note:</strong> data are in 2017 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$5.232 billion (2018 est.)"
@@ -615,7 +714,7 @@
       "Real GDP per capita 2017": {
         "text": "$1,517 (2017 est.)"
       },
-      "note": "<p><strong>note:</strong> data are in 2017 dollars</p>"
+      "note": "<strong>note:</strong> data are in 2017 dollars"
     },
     "Gross national saving": {
       "Gross national saving 2018": {
@@ -660,8 +759,17 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "Overall Ease of Doing Business score 2020": {
+      "Overall score": {
+        "text": "62.3 (2020)"
+      },
+      "Starting a Business score": {
+        "text": "95.1 (2020)"
+      },
+      "Trading score": {
         "text": "63.7 (2020)"
+      },
+      "Enforcement score": {
+        "text": "49 (2020)"
       }
     },
     "Agricultural products": {
@@ -750,10 +858,10 @@
       }
     },
     "Exports - partners": {
-      "text": "Benin 16.7%, Burkina Faso 15.2%, Niger 8.9%, India 7.3%, Mali 6.7%, Ghana 5.5%, Cote dIvoire 5.4%, Nigeria 4.1% (2017)"
+      "text": "India 16%, Benin 15%, Burkina Faso 6%, France 6%, Morocco 5% (2019)"
     },
     "Exports - commodities": {
-      "text": "reexports, cotton, phosphates, coffee, cocoa"
+      "text": "refined petroleum, crude petroleum, electricity, calcium phosphates, cotton (2019)"
     },
     "Imports": {
       "Imports 2018": {
@@ -764,10 +872,10 @@
       }
     },
     "Imports - partners": {
-      "text": "China 27.5%, France 9.1%, Netherlands 4.4%, Japan 4.3% (2017)"
+      "text": "China 18%, South Korea 13%, India 11%, Belgium 10%, Netherlands 8%, United States 5% (2019)"
     },
     "Imports - commodities": {
-      "text": "machinery and equipment, foodstuffs, petroleum products"
+      "text": "refined petroleum, motorcycles, crude petroleum, rice, broadcasting equipment (2019)"
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 31 December 2017": {
@@ -883,9 +991,6 @@
     },
     "Natural gas - proved reserves": {
       "text": "0 cu m (1 January 2014 est.)"
-    },
-    "Carbon dioxide emissions from consumption of energy": {
-      "text": "2.651 million Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -915,7 +1020,7 @@
       "international": {
         "text": "country code - 228; landing point for the WACS submarine cable, linking countries along the west coast of Africa with each other and with Portugal; satellite earth stations - 1 Intelsat (Atlantic Ocean), 1 Symphonie (2020)"
       },
-      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "1&nbsp;state-owned TV station with multiple transmission sites; five private TV stations broadcast locally; cable TV service is available; state-owned radio network with two stations (in Lome and Kara); several dozen private radio stations and a few community radio stations; transmissions of multiple international broadcasters available (2019)"
@@ -956,7 +1061,7 @@
       }
     },
     "Civil aircraft registration country code prefix": {
-      "text": "5V (2016)"
+      "text": "5V"
     },
     "Airports": {
       "total": {
@@ -1026,9 +1131,12 @@
   },
   "Military and Security": {
     "Military and security forces": {
-      "text": "Togolese Armed Forces (Forces Armees Togolaise, FAT): Togolese Army (l'Armee de Terre), Togolese Navy (Forces Naval Togolaises), Togolese Air Force (Armee de l&rsquo;Air), National Gendarmerie (2020)"
+      "text": "Togolese Armed Forces (Forces Armees Togolaise, FAT): Togolese Army (l'Armee de Terre), Togolese Navy (Forces Naval Togolaises), Togolese Air Force (Armee de l&rsquo;Air), National Gendarmerie (2021)"
     },
     "Military expenditures": {
+      "Military Expenditures 2020": {
+        "text": "2% of GDP (2020 est.)"
+      },
       "Military Expenditures 2019": {
         "text": "3.1% of GDP (2019)"
       },
@@ -1039,23 +1147,23 @@
         "text": "1.9% of GDP (2017)"
       },
       "Military Expenditures 2016": {
-        "text": "1.9% of GDP (2016)"
-      },
-      "Military Expenditures 2015": {
-        "text": "1.7% of GDP (2015)"
+        "text": "1.8% of GDP (2016)"
       }
     },
     "Military and security service personnel strengths": {
-      "text": "the Togolese Armed Forces (FAT) are comprised of approximately 9,100 personnel (8,000 Army; 200 Navy; 200 Navy; 750 Gendarmerie) (2019 est.)"
+      "text": "the Togolese Armed Forces (FAT) are comprised of approximately 9,000 personnel (8,000 Army; 200 Navy; 200 Air Force; 600 Gendarmerie) (2020)"
     },
     "Military equipment inventories and acquisitions": {
-      "text": "the FAT's small inventory is a mix of older Brazilian, British, French, German, Russian/Soviet, and US equipment; since 2010, France is the leading supplier of military hardware to Togo (2020)"
+      "text": "the FAT's small inventory is a mix of older equipment from a variety of countries, including Brazil, France, Germany, Russia/former Soviet Union, the UK, and the US; since 2010, France is the leading supplier of military hardware to Togo (2020)"
     },
     "Military deployments": {
-      "text": "920 Mali (MINUSMA) (2020)"
+      "text": "925 Mali (MINUSMA) (Jan 2021)"
     },
     "Military service age and obligation": {
-      "text": "18 years of age for military service; 2-year service obligation; currently the military is only an all-volunteer force (2017)"
+      "text": "18 years of age for military service; 2-year service obligation; the military is an all-volunteer force (2021)"
+    },
+    "Maritime threats": {
+      "text": "the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; in 2020, there were 98 reported incidents of piracy and armed robbery at sea in the Gulf of Guinea region; although a 24% decrease from the total number of incidents in 2019, it included all three hijackings and 9 of 11 ships fired upon worldwide; while boarding and attempted boarding to steal valuables from ships and crews are the most common types of incidents, almost a third of all incidents involve a hijacking and/or kidnapping; in 2020, a record 130 crew members were kidnapped in 22 separate incidents in the Gulf of Guinea, representing 95% of kidnappings worldwide; approximately 51% of all incidents of piracy and armed robbery are taking place off Nigeria, which is a decrease from the 71% in 2019 and an indication pirates are traveling further to target vessels; Nigerian pirates are well armed and very aggressive, operating as far as 200 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2021-002 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 9 January 2021, which states in part, \"Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea.&rdquo;"
     }
   },
   "Transnational Issues": {
@@ -1064,7 +1172,7 @@
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
-        "text": "9,556 (Ghana) (2020)"
+        "text": "8,391 (Ghana) (2021)"
       }
     },
     "Illicit drugs": {

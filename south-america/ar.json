@@ -60,14 +60,14 @@
       "text": "rich plains of the Pampas in northern half, flat to rolling plateau of Patagonia in south, rugged Andes along western border"
     },
     "Elevation": {
-      "mean elevation": {
-        "text": "595 m"
+      "highest point": {
+        "text": "Cerro Aconcagua (located in the northwestern corner of the province of Mendoza; highest point in South America) 6,962 m"
       },
       "lowest point": {
         "text": "Laguna del Carbon (located between Puerto San Julian and Comandante Luis Piedra Buena in the province of Santa Cruz) -105 m"
       },
-      "highest point": {
-        "text": "Cerro Aconcagua (located in the northwestern corner of the province of Mendoza; highest point in South America) 6,962 m"
+      "mean elevation": {
+        "text": "595 m"
       }
     },
     "Natural resources": {
@@ -102,20 +102,8 @@
     "Natural hazards": {
       "text": "<p>San Miguel de Tucuman and Mendoza areas in the Andes subject to earthquakes; pamperos are violent windstorms that can strike the pampas and northeast; heavy flooding in some areas</p><p><strong>volcanism:</strong> volcanic activity in the Andes Mountains along the Chilean border; Copahue (2,997 m) last erupted in 2000; other historically active volcanoes include Llullaillaco, Maipo, Planchon-Peteroa, San Jose, Tromen, Tupungatito, and Viedma</p>"
     },
-    "Environment - current issues": {
-      "text": "environmental problems (urban and rural) typical of an industrializing economy such as deforestation, soil degradation (erosion, salinization), desertification, air pollution, and water pollution",
-      "note": "<p><strong>note:</strong> Argentina is a world leader in setting voluntary greenhouse gas targets</p>"
-    },
-    "Environment - international agreements": {
-      "party to": {
-        "text": "Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
-      },
-      "signed, but not ratified": {
-        "text": "Marine Life Conservation"
-      }
-    },
     "Geography - note": {
-      "text": "second-largest country in South America (after Brazil); strategic location relative to sea lanes between the South Atlantic and the South Pacific Oceans (Strait of Magellan, Beagle Channel, Drake Passage); diverse geophysical landscapes range from tropical climates in the north to tundra in the far south; Cerro Aconcagua is the Western Hemisphere's tallest mountain, while Laguna del Carbon is the lowest point in the Western Hemisphere; shares Iguazu Falls, the world's largest waterfalls system, with Brazil"
+      "text": "<strong>note 1:</strong> second-largest country in South America (after Brazil); strategic location relative to sea lanes between the South Atlantic and the South Pacific Oceans (Strait of Magellan, Beagle Channel, Drake Passage); diverse geophysical landscapes range from tropical climates in the north to tundra in the far south; Cerro Aconcagua is the Western Hemisphere's tallest mountain, while Laguna del Carbon is the lowest point in the Western Hemisphere; shares Iguazu Falls, the world's largest waterfalls system, with Brazil<br /><br /><strong>note 2: </strong>southeast Bolivia and northwest Argentina seem to be the original development site for peanuts"
     }
   },
   "People and Society": {
@@ -201,10 +189,10 @@
     },
     "Urbanization": {
       "urban population": {
-        "text": "92.1% of total population (2020)"
+        "text": "92.2% of total population (2021)"
       },
       "rate of urbanization": {
-        "text": "1.07% annual rate of change (2015-20 est.)"
+        "text": "0.97% annual rate of change (2020-25 est.)"
       }
     },
     "Major urban areas - population": {
@@ -311,7 +299,7 @@
       "text": "1,400 (2019 est.)"
     },
     "Major infectious diseases": {
-      "text": "<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Argentina; as of 24 January 2021, Argentina has reported a total of 1,853,830 cases of COVID-19 or 4,101.8 cumulative cases of COVID-19 per 100,000 population with 103.1 cumulative deaths per 100,000 population"
+      "text": "<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Argentina; as of 25 April 2021, Argentina has reported a total of 2,824,652 cases of COVID-19 or 6,249.8 cumulative cases of COVID-19 per 100,000 population with 135.4 cumulative deaths per 100,000 population; as of 28 April 2021, 14.7% of the population has received at least one dose of COVID-19 vaccine"
     },
     "Obesity - adult prevalence rate": {
       "text": "28.3% (2016)"
@@ -349,13 +337,106 @@
     },
     "Unemployment, youth ages 15-24": {
       "total": {
-        "text": "23.7%"
+        "text": "25.9%"
       },
       "male": {
-        "text": "20.8%"
+        "text": "23.9%"
       },
       "female": {
-        "text": "27.8% (2018 est.)"
+        "text": "28.8% (2019 est.)"
+      }
+    }
+  },
+  "Environment": {
+    "Environment - current issues": {
+      "text": "environmental problems (urban and rural) typical of an industrializing economy such as deforestation, soil degradation (erosion, salinization), desertification, air pollution, and water pollution"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "Marine Dumping-London Protocol, Marine Life Conservation"
+      }
+    },
+    "Air pollutants": {
+      "particulate matter emissions": {
+        "text": "11.83 micrograms per cubic meter (2016 est.)"
+      },
+      "carbon dioxide emissions": {
+        "text": "201.35 megatons (2016 est.)"
+      },
+      "methane emissions": {
+        "text": "120.66 megatons (2020 est.)"
+      }
+    },
+    "Total water withdrawal": {
+      "municipal": {
+        "text": "5.85 billion cubic meters (2017 est.)"
+      },
+      "industrial": {
+        "text": "4 billion cubic meters (2017 est.)"
+      },
+      "agricultural": {
+        "text": "27.93 billion cubic meters (2017 est.)"
+      }
+    },
+    "Total renewable water resources": {
+      "text": "876.24 billion cubic meters (2017 est.)"
+    },
+    "Climate": {
+      "text": "mostly temperate; arid in southeast; subantarctic in southwest"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "53.9% (2018 est.)"
+      },
+      "agricultural land: arable land": {
+        "text": "arable land: 13.9% (2018 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 0.4% (2018 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 39.6% (2018 est.)"
+      },
+      "forest": {
+        "text": "10.7% (2018 est.)"
+      },
+      "other": {
+        "text": "35.4% (2018 est.)"
+      }
+    },
+    "Revenue from forest resources": {
+      "forest revenues": {
+        "text": "0.09% of GDP (2018 est.)"
+      }
+    },
+    "Revenue from coal": {
+      "coal revenues": {
+        "text": "0% of GDP (2018 est.)"
+      }
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "92.2% of total population (2021)"
+      },
+      "rate of urbanization": {
+        "text": "0.97% annual rate of change (2020-25 est.)"
+      }
+    },
+    "Major infectious diseases": {
+      "text": "<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Argentina; as of 25 April 2021, Argentina has reported a total of 2,824,652 cases of COVID-19 or 6,249.8 cumulative cases of COVID-19 per 100,000 population with 135.4 cumulative deaths per 100,000 population; as of 28 April 2021, 14.7% of the population has received at least one dose of COVID-19 vaccine"
+    },
+    "Waste and recycling": {
+      "municipal solid waste generated annually": {
+        "text": "17,910,550 tons (2014 est.)"
+      },
+      "municipal solid waste recycled annually": {
+        "text": "1,074,633 tons (2010 est.)"
+      },
+      "percent of municipal solid waste recycled": {
+        "text": "6% (2010 est.)"
       }
     }
   },
@@ -390,11 +471,11 @@
       "time difference": {
         "text": "UTC-3 (2 hours ahead of Washington, DC, during Standard Time)"
       },
-      "note": "<br><br><strong>etymology:</strong> the name translates as \"fair winds\" in Spanish and derives from the original designation of the settlement that would become the present-day city, \"Santa Maria del Buen Aire\" (Saint Mary of the Fair Winds)"
+      "note": "<strong>etymology:</strong> the name translates as \"fair winds\" in Spanish and derives from the original designation of the settlement that would become the present-day city, \"Santa Maria del Buen Aire\" (Saint Mary of the Fair Winds)"
     },
     "Administrative divisions": {
-      "text": "23 provinces (provincias, singular - provincia) and 1 autonomous city*; Buenos Aires, Catamarca, Chaco, Chubut, Ciudad Autonoma de Buenos Aires*, Cordoba, Corrientes, Entre Rios, Formosa, Jujuy, La Pampa, La Rioja, Mendoza, Misiones, Neuquen, Rio Negro, Salta, San Juan, San Luis, Santa Cruz, Santa Fe, Santiago del Estero, Tierra del Fuego - Antartida e Islas del Atlantico Sur (Tierra del Fuego - Antarctica and the South Atlantic Islands), Tucuman",
-      "note": "<p><strong>note:</strong> the US does not recognize any claims to Antarctica</p>"
+      "text": "23 provinces (provincias, singular - provincia) and 1 autonomous city*; Buenos Aires, Catamarca, Chaco, Chubut, Ciudad Autonoma de Buenos Aires*, Cordoba, Corrientes, Entre Rios, Formosa, Jujuy, La Pampa, La Rioja, Mendoza, Misiones, Neuquen, Rio Negro, Salta, San Juan, San Luis, Santa Cruz, Santa Fe, Santiago del Estero, Tierra del Fuego - Antartida e Islas del Atlantico Sur (Tierra del Fuego - Antarctica and the South Atlantic Islands), Tucuman<br><br><strong>note:</strong> the US does not recognize any claims to Antarctica",
+      "note": "<strong>note:</strong> the US does not recognize any claims to Antarctica"
     },
     "Independence": {
       "text": "9 July 1816 (from Spain)"
@@ -525,7 +606,7 @@
       "lyrics/music": {
         "text": "Vicente LOPEZ y PLANES/Jose Blas PARERA"
       },
-      "note": "<p><strong>note:</strong> adopted 1813; Vicente LOPEZ was inspired to write the anthem after watching a play about the 1810 May Revolution against Spain</p>"
+      "note": "<strong>note:</strong> adopted 1813; Vicente LOPEZ was inspired to write the anthem after watching a play about the 1810 May Revolution against Spain"
     }
   },
   "Economy": {
@@ -550,7 +631,7 @@
       "Inflation rate (consumer prices) 2016": {
         "text": "26.5% (2016 est.)"
       },
-      "note": "<p><strong>note:</strong> data are derived from private estimates</p>"
+      "note": "<strong>note:</strong> data are derived from private estimates"
     },
     "Credit ratings": {
       "Fitch rating": {
@@ -573,7 +654,7 @@
       "Real GDP (purchasing power parity) 2017": {
         "text": "$1,039,330,000,000 (2017 est.)"
       },
-      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
+      "note": "<strong>note:</strong> data are in 2010 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$447.467 billion (2019 est.)"
@@ -588,7 +669,7 @@
       "Real GDP per capita 2017": {
         "text": "$23,597 (2017 est.)"
       },
-      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
+      "note": "<strong>note:</strong> data are in 2010 dollars"
     },
     "Gross national saving": {
       "Gross national saving 2019": {
@@ -633,7 +714,16 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "Overall Ease of Doing Business score 2020": {
+      "Overall score": {
+        "text": "59 (2020)"
+      },
+      "Starting a Business score": {
+        "text": "80.4 (2020)"
+      },
+      "Trading score": {
+        "text": "67.1 (2020)"
+      },
+      "Enforcement score": {
         "text": "57.5 (2020)"
       }
     },
@@ -644,12 +734,12 @@
       "text": "food processing, motor vehicles, consumer durables, textiles, chemicals and petrochemicals, printing, metallurgy, steel"
     },
     "Industrial production growth rate": {
-      "text": "2.7% (2017 est.)",
-      "note": "<p><strong>note:</strong> based on private sector estimates</p>"
+      "text": "2.7% (2017 est.)<br><br><strong>note:</strong> based on private sector estimates",
+      "note": "<strong>note:</strong> based on private sector estimates"
     },
     "Labor force": {
-      "text": "18 million (2017 est.)",
-      "note": "<p><strong>note:</strong> urban areas only</p>"
+      "text": "18 million (2017 est.)<br><br><strong>note:</strong> urban areas only",
+      "note": "<strong>note:</strong> urban areas only"
     },
     "Labor force - by occupation": {
       "agriculture": {
@@ -671,8 +761,7 @@
       }
     },
     "Population below poverty line": {
-      "text": "25.7% (2017 est.)",
-      "note": "<p><strong>note:</strong> data are based on private estimates</p>"
+      "text": "35.5% (2019 est.)"
     },
     "Gini Index coefficient - distribution of family income": {
       "Gini Index coefficient - distribution of family income 2018": {
@@ -735,10 +824,10 @@
       }
     },
     "Exports - partners": {
-      "text": "Brazil 16.1%, US 7.9%, China 7.5%, Chile 4.4% (2017)"
+      "text": "Brazil 16%, China 11%, United States 7%, Chile 5% (2019)"
     },
     "Exports - commodities": {
-      "text": "soybeans and derivatives, petroleum and gas, vehicles, corn, wheat"
+      "text": "soybean products, corn, delivery trucks, wheat, frozen meat, gold (2019)"
     },
     "Imports": {
       "Imports 2019": {
@@ -752,10 +841,10 @@
       }
     },
     "Imports - partners": {
-      "text": "Brazil 26.9%, China 18.5%, US 11.3%, Germany 4.9% (2017)"
+      "text": "Brazil 21%, China 18%, US 14%, Germany 6% (2019)"
     },
     "Imports - commodities": {
-      "text": "machinery, motor vehicles, petroleum and natural gas, organic chemicals, plastics"
+      "text": "cars, refined petroleum, vehicle parts, natural gas, soybeans (2019)"
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 31 December 2017": {
@@ -871,9 +960,6 @@
     },
     "Natural gas - proved reserves": {
       "text": "336.6 billion cu m (1 January 2018 est.)"
-    },
-    "Carbon dioxide emissions from consumption of energy": {
-      "text": "203.7 million Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -903,7 +989,7 @@
       "international": {
         "text": "country code - 54; landing points for the UNISUR, Bicentenario,&nbsp;Atlantis-2, SAm-1, and&nbsp;SAC, Tannat, Malbec and ARBR&nbsp;submarine cable systems that provide links to Europe, Africa, South and Central America, and US; satellite earth stations - 112 (2019)"
       },
-      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "government owns a TV station and radio network; more than 2 dozen TV stations and hundreds of privately owned radio stations; high rate of cable TV subscription usage"
@@ -944,7 +1030,7 @@
       }
     },
     "Civil aircraft registration country code prefix": {
-      "text": "LV (2016)"
+      "text": "LV"
     },
     "Airports": {
       "total": {
@@ -1010,7 +1096,7 @@
       "broad gauge": {
         "text": "26,391 km 1.676-m gauge (149 km electrified) (2014)"
       },
-      "note": "<br><br>258 km 0.750-m gauge"
+      "note": "258 km 0.750-m gauge"
     },
     "Roadways": {
       "total": {
@@ -1051,7 +1137,7 @@
   },
   "Military and Security": {
     "Military and security forces": {
-      "text": "Armed Forces of the Argentine Republic (Fuerzas Armadas de la Rep&uacute;blica Argentina): Argentine Army (Ejercito Argentino), Navy of the Argentine Republic (Armada Republica; includes naval aviation and naval infantry), Argentine Air Force (Fuerza Aerea Argentina, FAA); Ministry of Security: Gendarmerie, Prefectura Naval (coast guard) (2020)"
+      "text": "Armed Forces of the Argentine Republic (Fuerzas Armadas de la Rep&uacute;blica Argentina): Argentine Army (Ejercito Argentino), Navy of the Argentine Republic (Armada Republica; includes naval aviation and naval infantry), Argentine Air Force (Fuerza Aerea Argentina, FAA); Ministry of Security: Gendarmer&iacute;a Nacional Argentina (National Gendarmerie), Prefectura Naval (Coast Guard) (2021)"
     },
     "Military expenditures": {
       "Military Expenditures 2019": {
@@ -1071,19 +1157,19 @@
       }
     },
     "Military and security service personnel strengths": {
-      "text": "Argentina's armed forces have approximately 75,000 (45,000 Army; 17,000 Navy; 13,000 Air Force); est. 18,000 Gendarmerie (2019 est.)"
+      "text": "assessments for the size of Argentina's armed forces vary; approximately 84,000 total personnel (50,000 Army; 19,000 Navy (includes about 3,000 marines); 15,000 Air Force); est. 25,000 Gendarmerie (2020)"
     },
     "Military equipment inventories and acquisitions": {
-      "text": "the inventory of Argentina's armed forces is a mix of domestically-produced and mostly older imported weapons, largely from Europe and the US; since 2010, France and the US are the leading suppliers of equipment; Argentina has an indigenous defense industry that can produce air, land, and sea systems (2019 est.)"
+      "text": "the inventory of Argentina's armed forces is a mix of domestically-produced and mostly older imported weapons, largely from Europe and the US; since 2010, France and the US are the leading suppliers of equipment; Argentina has an indigenous defense industry that can produce air, land, and sea systems (2020)"
     },
     "Military deployments": {
-      "text": "250 Cyprus (UNFICYP) (2020)"
+      "text": "250 Cyprus (UNFICYP) (Jan 2021)"
     },
     "Military service age and obligation": {
-      "text": "18-24 years of age for voluntary military service (18-21 requires parental consent); no conscription; if the number of volunteers fails to meet the quota of recruits for a particular year, Congress can authorize the conscription of citizens turning 18 that year for a period not exceeding one year (2012)"
+      "text": "18-24 years of age for voluntary military service; conscription suspended in 1995; Argentinians can still be drafted in times of crisis, national emergency, or war, or if the Defense Ministry is unable to fill all vacancies to keep the military functional (2019)"
     },
     "Military - note": {
-      "text": "the Argentine military focuses primarily on border security and counter-narcotics operations; in 2018, the government approved a decree allowing greater latitude for the military in internal security missions, with a focus on logistics support in border areas (2019)"
+      "text": "the Argentine military focuses primarily on border security and counter-narcotics operations; in 2018, the government approved a decree allowing greater latitude for the military in internal security missions, with a focus on logistics support in border areas"
     }
   },
   "Terrorism": {
@@ -1094,7 +1180,7 @@
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
-        "text": "213,769 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2020)"
+        "text": "226,484 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)"
       }
     },
     "Illicit drugs": {

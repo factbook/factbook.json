@@ -24,7 +24,7 @@
       "water": {
         "text": "10 sq km"
       },
-      "note": "<p><strong>note:</strong> includes Agalega Islands, Cargados Carajos Shoals (Saint Brandon), and Rodrigues</p>"
+      "note": "<strong>note:</strong> includes Agalega Islands, Cargados Carajos Shoals (Saint Brandon), and Rodrigues"
     },
     "Area - comparative": {
       "text": "almost 11 times the size of Washington, DC"
@@ -47,7 +47,7 @@
       "continental shelf": {
         "text": "200 nm or to the edge of the continental margin"
       },
-      "note": "<br><br>measured from claimed archipelagic straight baselines"
+      "note": "measured from claimed archipelagic straight baselines"
     },
     "Climate": {
       "text": "tropical, modified by southeast trade winds; warm, dry winter (May to November); hot, wet, humid summer (November to May)"
@@ -56,11 +56,11 @@
       "text": "small coastal plain rising to discontinuous mountains encircling central plateau"
     },
     "Elevation": {
-      "lowest point": {
-        "text": "Indian Ocean 0 m"
-      },
       "highest point": {
         "text": "Mont Piton 828 m"
+      },
+      "lowest point": {
+        "text": "Indian Ocean 0 m"
       }
     },
     "Natural resources": {
@@ -95,17 +95,6 @@
     "Natural hazards": {
       "text": "cyclones (November to April); almost completely surrounded by reefs that may pose maritime hazards"
     },
-    "Environment - current issues": {
-      "text": "water pollution, degradation of coral reefs; soil erosion; wildlife preservation; solid waste disposal"
-    },
-    "Environment - international agreements": {
-      "party to": {
-        "text": "Antarctic-Marine Living Resources, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Wetlands"
-      },
-      "signed, but not ratified": {
-        "text": "none of the selected agreements"
-      }
-    },
     "Geography - note": {
       "text": "the main island, from which the country derives its name, is of volcanic origin and is almost entirely surrounded by coral reefs; former home of the dodo, a large flightless bird related to pigeons, driven to extinction by the end of the 17th century through a combination of hunting and the introduction of predatory species"
     }
@@ -123,8 +112,8 @@
       }
     },
     "Ethnic groups": {
-      "text": "Indo-Mauritian (compose approximately two thirds of the total population), Creole, Sino-Mauritian, Franco-Mauritian",
-      "note": "<p><strong>note:</strong> Mauritius has not had a question on ethnicity on its national census since 1972</p>"
+      "text": "Indo-Mauritian (compose approximately two thirds of the total population), Creole, Sino-Mauritian, Franco-Mauritian<br><br><strong>note:</strong> Mauritius has not had a question on ethnicity on its national census since 1972",
+      "note": "<strong>note:</strong> Mauritius has not had a question on ethnicity on its national census since 1972"
     },
     "Languages": {
       "text": "Creole 86.5%, Bhojpuri 5.3%, French 4.1%, two languages 1.4%, other 2.6% (includes English, the official language of the National Assembly, which is spoken by less than 1% of the population), unspecified 0.1% (2011 est.)"
@@ -194,10 +183,10 @@
     },
     "Urbanization": {
       "urban population": {
-        "text": "40.8% of total population (2020)"
+        "text": "40.8% of total population (2021)"
       },
       "rate of urbanization": {
-        "text": "0.11% annual rate of change (2015-20 est.)"
+        "text": "0.28% annual rate of change (2020-25 est.)"
       }
     },
     "Major urban areas - population": {
@@ -348,13 +337,97 @@
     },
     "Unemployment, youth ages 15-24": {
       "total": {
-        "text": "23.9%"
+        "text": "21.8%"
       },
       "male": {
-        "text": "20.6%"
+        "text": "16.8%"
       },
       "female": {
-        "text": "28% (2018 est.)"
+        "text": "28.4% (2019 est.)"
+      }
+    }
+  },
+  "Environment": {
+    "Environment - current issues": {
+      "text": "water pollution, degradation of coral reefs; soil erosion; wildlife preservation; solid waste disposal"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Antarctic-Marine Living Resources, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Air pollutants": {
+      "particulate matter emissions": {
+        "text": "13.54 micrograms per cubic meter (2016 est.)"
+      },
+      "carbon dioxide emissions": {
+        "text": "4.35 megatons (2016 est.)"
+      },
+      "methane emissions": {
+        "text": "2.06 megatons (2020 est.)"
+      }
+    },
+    "Total water withdrawal": {
+      "municipal": {
+        "text": "260 million cubic meters (2017 est.)"
+      },
+      "industrial": {
+        "text": "12 million cubic meters (2017 est.)"
+      },
+      "agricultural": {
+        "text": "344 million cubic meters (2017 est.)"
+      }
+    },
+    "Total renewable water resources": {
+      "text": "2.751 billion cubic meters (2017 est.)"
+    },
+    "Climate": {
+      "text": "tropical, modified by southeast trade winds; warm, dry winter (May to November); hot, wet, humid summer (November to May)"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "43.8% (2018 est.)"
+      },
+      "agricultural land: arable land": {
+        "text": "arable land: 38.4% (2018 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 2% (2018 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 3.4% (2018 est.)"
+      },
+      "forest": {
+        "text": "17.3% (2018 est.)"
+      },
+      "other": {
+        "text": "38.9% (2018 est.)"
+      }
+    },
+    "Revenue from forest resources": {
+      "forest revenues": {
+        "text": "0% of GDP (2018 est.)"
+      }
+    },
+    "Revenue from coal": {
+      "coal revenues": {
+        "text": "0% of GDP (2018 est.)"
+      }
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "40.8% of total population (2021)"
+      },
+      "rate of urbanization": {
+        "text": "0.28% annual rate of change (2020-25 est.)"
+      }
+    },
+    "Waste and recycling": {
+      "municipal solid waste generated annually": {
+        "text": "438,000 tons (2016 est.)"
       }
     }
   },
@@ -375,7 +448,7 @@
       "etymology": {
         "text": "island named after Prince Maurice VAN NASSAU, stadtholder of the Dutch Republic, in 1598"
       },
-      "note": "<p><strong>note:</strong> pronounced mah-rish-us</p>"
+      "note": "<strong>note:</strong> pronounced mah-rish-us"
     },
     "Government type": {
       "text": "parliamentary republic"
@@ -390,7 +463,7 @@
       "time difference": {
         "text": "UTC+4 (9 hours ahead of Washington, DC, during Standard Time)"
       },
-      "note": "<br><br><strong>etymology:</strong> named after Louis XV, who was king of France in 1736 when the port became the administrative center of Mauritius&nbsp;and a major reprovisioning stop for French ships traveling between Europe and Asia"
+      "note": "<strong>etymology:</strong> named after Louis XV, who was king of France in 1736 when the port became the administrative center of Mauritius&nbsp;and a major reprovisioning stop for French ships traveling between Europe and Asia"
     },
     "Administrative divisions": {
       "text": "9 districts and 3 dependencies*; Agalega Islands*, Black River, Cargados Carajos Shoals*, Flacq, Grand Port, Moka, Pamplemousses, Plaines Wilhems, Port Louis, Riviere du Rempart, Rodrigues*, Savanne"
@@ -479,7 +552,7 @@
     },
     "Diplomatic representation in the US": {
       "chief of mission": {
-        "text": "Ambassador Sooroojdev PHOKEER (since 3 August 2015)"
+        "text": "Ambassador (vacant); Charge d'Affaires Vikash NEETHALIA (since 18 January 2020)"
       },
       "chancery": {
         "text": "1709 N Street NW, Washington, DC 20036; administrative offices at 3201 Connecticut Avenue NW, Suite 441, Washington, DC 20036"
@@ -509,8 +582,8 @@
       }
     },
     "Flag description": {
-      "text": "four equal horizontal bands of red (top), blue, yellow, and green; red represents self-determination and independence, blue the Indian Ocean surrounding the island, yellow has been interpreted as the new light of independence, golden sunshine, or the bright future, and green can symbolize either agriculture or the lush vegetation of the island",
-      "note": "<p><strong>note:</strong> while many national flags consist of three - and in some cases five - horizontal bands of color, the flag of Mauritius is the world's only national flag to consist of four horizontal color bands</p>"
+      "text": "four equal horizontal bands of red (top), blue, yellow, and green; red represents self-determination and independence, blue the Indian Ocean surrounding the island, yellow has been interpreted as the new light of independence, golden sunshine, or the bright future, and green can symbolize either agriculture or the lush vegetation of the island<br><br><strong>note:</strong> while many national flags consist of three - and in some cases five - horizontal bands of color, the flag of Mauritius is the world's only national flag to consist of four horizontal color bands",
+      "note": "<strong>note:</strong> while many national flags consist of three - and in some cases five - horizontal bands of color, the flag of Mauritius is the world's only national flag to consist of four horizontal color bands"
     },
     "National symbol(s)": {
       "text": "dodo bird, Trochetia Boutoniana flower; national colors: red, blue, yellow, green"
@@ -522,7 +595,7 @@
       "lyrics/music": {
         "text": "Jean Georges PROSPER/Philippe GENTIL"
       },
-      "note": "<p><strong>note:</strong> adopted 1968</p>"
+      "note": "<strong>note:</strong> adopted 1968"
     }
   },
   "Economy": {
@@ -566,7 +639,7 @@
       "Real GDP (purchasing power parity) 2017": {
         "text": "$27.081 billion (2017 est.)"
       },
-      "note": "<p><strong>note:</strong> data are in 2017 dollars</p>"
+      "note": "<strong>note:</strong> data are in 2017 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$14.004 billion (2019 est.)"
@@ -581,7 +654,7 @@
       "Real GDP per capita 2017": {
         "text": "$21,415 (2017 est.)"
       },
-      "note": "<p><strong>note:</strong> data are in 2017 dollars</p>"
+      "note": "<strong>note:</strong> data are in 2017 dollars"
     },
     "Gross national saving": {
       "Gross national saving 2019": {
@@ -626,8 +699,17 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "Overall Ease of Doing Business score 2020": {
+      "Overall score": {
+        "text": "81.5 (2020)"
+      },
+      "Starting a Business score": {
         "text": "94.5 (2020)"
+      },
+      "Trading score": {
+        "text": "81 (2020)"
+      },
+      "Enforcement score": {
+        "text": "72.2 (2020)"
       }
     },
     "Agricultural products": {
@@ -662,7 +744,7 @@
       }
     },
     "Population below poverty line": {
-      "text": "8% (2006 est.)"
+      "text": "10.3% (2017 est.)"
     },
     "Gini Index coefficient - distribution of family income": {
       "Gini Index coefficient - distribution of family income 2017": {
@@ -722,10 +804,10 @@
       }
     },
     "Exports - partners": {
-      "text": "France 16.7%, US 12.5%, UK 12%, South Africa 9%, Madagascar 6.7%, Italy 6.6%, Spain 5.2% (2017)"
+      "text": "France 10%, South Africa 10%, United States 10%, United Kingdom 8%, Zambia 7%, Madagascar 6% (2019)"
     },
     "Exports - commodities": {
-      "text": "clothing and textiles, sugar, cut flowers, molasses, fish, primates (for research)"
+      "text": "fish products, raw sugar, clothing and apparel, diamonds, refined petroleum (2019)"
     },
     "Imports": {
       "Imports 2017": {
@@ -736,10 +818,10 @@
       }
     },
     "Imports - partners": {
-      "text": "India 17.9%, China 15.7%, France 11.1%, South Africa 9.7% (2017)"
+      "text": "China 15%, India 13%, France 10%, South Africa 8%, United Arab Emirates 7% (2019)"
     },
     "Imports - commodities": {
-      "text": "manufactured goods, capital equipment, foodstuffs, petroleum products, chemicals"
+      "text": "refined petroleum, cars, fish products, aircraft, packaged medicines (2019)"
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 31 December 2017": {
@@ -849,9 +931,6 @@
     },
     "Natural gas - proved reserves": {
       "text": "0 cu m (1 January 2014 est.)"
-    },
-    "Carbon dioxide emissions from consumption of energy": {
-      "text": "6.429 million Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -881,7 +960,7 @@
       "international": {
         "text": "country code - 230; landing points for the SAFE, MARS, IOX Cable System, METISS&nbsp;and LION submarine cable system that provides links to Asia, Africa, Southeast Asia, Indian Ocean Islands of Reunion, Madagascar, and Mauritius; satellite earth station - 1 Intelsat (Indian Ocean); new microwave link to Reunion; HF radiotelephone links to several countries (2019)"
       },
-      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "the government maintains control over TV broadcasting through the Mauritius Broadcasting Corporation (MBC), which only operates digital TV stations since June 2015; MBC is a shareholder in a local company that operates 2 pay-TV stations; the state retains the largest radio broadcast network with multiple stations; several private radio broadcasters have entered the market since 2001; transmissions of at least 2 international broadcasters are available (2019)"
@@ -922,7 +1001,7 @@
       }
     },
     "Civil aircraft registration country code prefix": {
-      "text": "3B (2016)"
+      "text": "3B"
     },
     "Airports": {
       "total": {
@@ -978,9 +1057,12 @@
   },
   "Military and Security": {
     "Military and security forces": {
-      "text": "no regular military forces; Mauritius Police Force includes a Special Mobile Force (a paramilitary force formed as a mobile infantry battalion) and the National Coast Guard (2019)"
+      "text": "no regular military forces; the Mauritius Police Force (MPF) includes a paramilitary unit known as the Special Mobile Force, which is formed as a mobile infantry battalion; the PMF also has a Police Helicopter Squadron, a Special Support Unit (riot police), and the National Coast Guard (also includes an air squadron) (2021)"
     },
     "Military expenditures": {
+      "Military Expenditures 2019": {
+        "text": "0.2% of GDP (2019)"
+      },
       "Military Expenditures 2018": {
         "text": "0.2% of GDP (2018)"
       },
@@ -992,16 +1074,16 @@
       },
       "Military Expenditures 2015": {
         "text": "0.2% of GDP (2015)"
-      },
-      "Military Expenditures 2014": {
-        "text": "0.2% of GDP (2014)"
       }
     },
     "Military and security service personnel strengths": {
-      "text": "police paramilitary forces for Mauritius number about 2,500 (est. 1.700 Special Mobile Force; 800 National Coast Guard) (2019 est.)"
+      "text": "the Special Mobile Force has approximately 1,700 personnel; the National Coast Guard has about 800 (2020)"
     },
     "Military equipment inventories and acquisitions": {
-      "text": "the Special Mobile Force's inventory includes mostly second-hand equipment from France and the UK; since 2014, India has provided the majority of the Coast Guard's equipment, including patrol boats and aircraft (2019 est.)"
+      "text": "the MPF's inventory is comprised of mostly second-hand equipment from France, Germany, India, and the UK (2021)"
+    },
+    "Military service age and obligation": {
+      "text": "service is voluntary"
     }
   },
   "Transnational Issues": {

@@ -51,14 +51,14 @@
       "text": "lowland, many scattered small lakes, fertile soil"
     },
     "Elevation": {
-      "mean elevation": {
-        "text": "110 m"
+      "highest point": {
+        "text": "Aukstojas 294 m"
       },
       "lowest point": {
         "text": "Baltic Sea 0 m"
       },
-      "highest point": {
-        "text": "Aukstojas 294 m"
+      "mean elevation": {
+        "text": "110 m"
       }
     },
     "Natural resources": {
@@ -92,17 +92,6 @@
     },
     "Natural hazards": {
       "text": "occasional floods, droughts"
-    },
-    "Environment - current issues": {
-      "text": "water pollution; air pollution; deforestation; threatened animal and plant species; chemicals and waste materials released into the environment contaminate soil and groundwater; soil degradation and erosion"
-    },
-    "Environment - international agreements": {
-      "party to": {
-        "text": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands"
-      },
-      "signed, but not ratified": {
-        "text": "none of the selected agreements"
-      }
     },
     "Geography - note": {
       "text": "fertile central plains are separated by hilly uplands that are ancient glacial deposits"
@@ -188,10 +177,10 @@
     },
     "Urbanization": {
       "urban population": {
-        "text": "68% of total population (2020)"
+        "text": "68.2% of total population (2021)"
       },
       "rate of urbanization": {
-        "text": "-0.31% annual rate of change (2015-20 est.)"
+        "text": "-0.12% annual rate of change (2020-25 est.)"
       }
     },
     "Major urban areas - population": {
@@ -350,13 +339,111 @@
     },
     "Unemployment, youth ages 15-24": {
       "total": {
-        "text": "11.1%"
+        "text": "11.9%"
       },
       "male": {
-        "text": "12%"
+        "text": "14.1%"
       },
       "female": {
-        "text": "10.1% (2018 est.)"
+        "text": "9.3% (2019 est.)"
+      }
+    }
+  },
+  "Environment": {
+    "Environment - current issues": {
+      "text": "water pollution; air pollution; deforestation; threatened animal and plant species; chemicals and waste materials released into the environment contaminate soil and groundwater; soil degradation and erosion"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Air pollutants": {
+      "particulate matter emissions": {
+        "text": "11.49 micrograms per cubic meter (2016 est.)"
+      },
+      "carbon dioxide emissions": {
+        "text": "12.96 megatons (2016 est.)"
+      },
+      "methane emissions": {
+        "text": "3.15 megatons (2020 est.)"
+      }
+    },
+    "Total water withdrawal": {
+      "municipal": {
+        "text": "130.4 million cubic meters (2017 est.)"
+      },
+      "industrial": {
+        "text": "69.7 million cubic meters (2017 est.)"
+      },
+      "agricultural": {
+        "text": "58.9 million cubic meters (2017 est.)"
+      }
+    },
+    "Total renewable water resources": {
+      "text": "24.5 billion cubic meters (2017 est.)"
+    },
+    "Climate": {
+      "text": "transitional, between maritime and continental; wet, moderate winters and summers"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "44.8% (2018 est.)"
+      },
+      "agricultural land: arable land": {
+        "text": "arable land: 34.9% (2018 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 0.5% (2018 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 9.4% (2018 est.)"
+      },
+      "forest": {
+        "text": "34.6% (2018 est.)"
+      },
+      "other": {
+        "text": "20.6% (2018 est.)"
+      }
+    },
+    "Revenue from forest resources": {
+      "forest revenues": {
+        "text": "0.31% of GDP (2018 est.)"
+      }
+    },
+    "Revenue from coal": {
+      "coal revenues": {
+        "text": "0% of GDP (2018 est.)"
+      }
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "68.2% of total population (2021)"
+      },
+      "rate of urbanization": {
+        "text": "-0.12% annual rate of change (2020-25 est.)"
+      }
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "intermediate (2020)"
+      },
+      "vectorborne diseases": {
+        "text": "tickborne encephalitis"
+      }
+    },
+    "Waste and recycling": {
+      "municipal solid waste generated annually": {
+        "text": "1.3 million tons (2015 est.)"
+      },
+      "municipal solid waste recycled annually": {
+        "text": "297,960 tons (2015 est.)"
+      },
+      "percent of municipal solid waste recycled": {
+        "text": "22.9% (2015 est.)"
       }
     }
   },
@@ -397,7 +484,7 @@
       "daylight saving time": {
         "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
       },
-      "note": "<br><br><strong>etymology:</strong> named after the Vilnia River, which flows into the Neris River at Vilnius; the river name derives from the Lithuanian word \"vilnis\" meaning \"a surge\""
+      "note": "<strong>etymology:</strong> named after the Vilnia River, which flows into the Neris River at Vilnius; the river name derives from the Lithuanian word \"vilnis\" meaning \"a surge\""
     },
     "Administrative divisions": {
       "text": "60 municipalities (savivaldybe, singular - savivaldybe); Akmene, Alytaus Miestas, Alytus, Anksciai, Birstono, Birzai, Druskininkai, Elektrenai, Ignalina, Jonava, Joniskis, Jurbarkas, Kaisiadorys, Kalvarijos, Kauno Miestas, Kaunas, Kazlu Rudos, Kedainiai, Kelme, Klaipedos Miestas, Klaipeda, Kretinga, Kupiskis, Lazdijai, Marijampole, Mazeikiai, Moletai, Neringa, Pagegiai, Pakruojis, Palangos Miestas, Panevezio Miestas, Panevezys, Pasvalys, Plunge, Prienai, Radviliskis, Raseiniai, Rietavo, Rokiskis, Sakiai, Salcininkai, Siauliu Miestas, Siauliai, Silale, Silute, Sirvintos, Skuodas, Svencionys, Taurage, Telsiai, Trakai, Ukmerge, Utena, Varena, Vilkaviskis, Vilniaus Miestas, Vilnius, Visaginas, Zarasai"
@@ -413,7 +500,7 @@
         "text": "several previous; latest adopted by referendum 25 October 1992, entered into force 2 November 1992"
       },
       "amendments": {
-        "text": "proposed by at least one fourth of all Parliament members or by petition of at least 300,000 voters; passage requires two-thirds majority vote of Parliament in each of two readings three months apart and a presidential signature; amendments to constitutional articles on national sovereignty and constitutional amendment procedure also require three-fourths voter approval in a referendum; amended 1996, 2003, 2006"
+        "text": "proposed by at least one fourth of all Parliament members or by petition of at least 300,000 voters; passage requires two-thirds majority vote of Parliament in each of two readings three months apart and a presidential signature; amendments to constitutional articles on national sovereignty and constitutional amendment procedure also require three-fourths voter approval in a referendum; amended many times, last in 2019"
       }
     },
     "Legal system": {
@@ -486,7 +573,7 @@
     },
     "Diplomatic representation in the US": {
       "chief of mission": {
-        "text": "Ambassador Rolandas KRISCIUNAS (since 17 September 2015)"
+        "text": "Ambassador (vacant); Charge d'Affaires Dovydas SPOKAUSKAS (since 31 July 2020)"
       },
       "chancery": {
         "text": "2622 16th Street NW, Washington, DC 20009"
@@ -503,7 +590,7 @@
     },
     "Diplomatic representation from the US": {
       "chief of mission": {
-        "text": "Ambassador Robert S. GILCHRIST (since 4 February 2010)"
+        "text": "Ambassador Robert S. GILCHRIST (since 4 February 2020)"
       },
       "telephone": {
         "text": "[370] (5) 266-5500"
@@ -531,7 +618,7 @@
       "lyrics/music": {
         "text": "Vincas KUDIRKA"
       },
-      "note": "<p><strong>note:</strong> adopted 1918, restored 1990; written in 1898 while Lithuania was a part of Russia; banned during the Soviet occupation from 1940 to 1990</p>"
+      "note": "<strong>note:</strong> adopted 1918, restored 1990; written in 1898 while Lithuania was a part of Russia; banned during the Soviet occupation from 1940 to 1990"
     }
   },
   "Economy": {
@@ -581,7 +668,7 @@
       "Real GDP (purchasing power parity) 2017": {
         "text": "$95.675 billion (2017 est.)"
       },
-      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
+      "note": "<strong>note:</strong> data are in 2010 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$54.597 billion (2019 est.)"
@@ -596,7 +683,7 @@
       "Real GDP per capita 2017": {
         "text": "$33,827 (2017 est.)"
       },
-      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
+      "note": "<strong>note:</strong> data are in 2010 dollars"
     },
     "Gross national saving": {
       "Gross national saving 2019": {
@@ -641,8 +728,17 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "Overall Ease of Doing Business score 2020": {
+      "Overall score": {
+        "text": "81.6 (2020)"
+      },
+      "Starting a Business score": {
         "text": "93.3 (2020)"
+      },
+      "Trading score": {
+        "text": "97.8 (2020)"
+      },
+      "Enforcement score": {
+        "text": "78.8 (2020)"
       }
     },
     "Agricultural products": {
@@ -677,7 +773,7 @@
       }
     },
     "Population below poverty line": {
-      "text": "22.2% (2015 est.)"
+      "text": "20.6% (2018 est.)"
     },
     "Gini Index coefficient - distribution of family income": {
       "Gini Index coefficient - distribution of family income 2017": {
@@ -716,7 +812,7 @@
       "Public debt 2016": {
         "text": "40.1% of GDP (2016 est.)"
       },
-      "note": "<p><strong>note:</strong> official data; data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities, debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are sold at public auctions</p>"
+      "note": "<strong>note:</strong> official data; data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities, debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are sold at public auctions"
     },
     "Fiscal year": {
       "text": "calendar year"
@@ -741,10 +837,10 @@
       }
     },
     "Exports - partners": {
-      "text": "Russia 15%, Latvia 9.9%, Poland 8.1%, Germany 7.3%, US 5.2%, Estonia 5%, Sweden 4.8% (2017)"
+      "text": "Russia 13%, Latvia 9%, Poland 8%, Germany 7%, Estonia 5% (2019)"
     },
     "Exports - commodities": {
-      "text": "refined fuel, machinery and equipment, chemicals, textiles, foodstuffs, plastics"
+      "text": "refined petroleum, furniture, cigarettes, wheat, polyethylene (2019)"
     },
     "Imports": {
       "Imports 2019": {
@@ -758,10 +854,10 @@
       }
     },
     "Imports - partners": {
-      "text": "Russia 13%, Germany 12.3%, Poland 10.6%, Latvia 7.1%, Italy 5.2%, Netherlands 5.1%, Sweden 4% (2017)"
+      "text": "Poland 12%, Russia 12%, Germany 12%, Latvia 7%, Netherlands 5% (2019)"
     },
     "Imports - commodities": {
-      "text": "oil, natural gas, machinery and equipment, transport equipment, chemicals, textiles and clothing, metals"
+      "text": "crude petroleum, cars, packaged medicines, refined petroleum, electricity (2019)"
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 31 December 2017": {
@@ -871,9 +967,6 @@
     },
     "Natural gas - proved reserves": {
       "text": "0 cu m (2016 est.)"
-    },
-    "Carbon dioxide emissions from consumption of energy": {
-      "text": "13.49 million Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -903,7 +996,7 @@
       "international": {
         "text": "country code - 370; landing points for the BCS East, BCS East-West Interlink and NordBalt connecting Lithuania to Sweden, and Latvia&nbsp;; further transmission by satellite; landline connections to Latvia and Poland (2019)"
       },
-      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "public broadcaster operates 3 channels with the third channel - a satellite channel - introduced in 2007; various privately owned commercial TV broadcasters operate national and multiple regional channels; many privately owned local TV stations; multi-channel cable and satellite TV services available; publicly owned broadcaster operates 3 radio networks; many privately owned commercial broadcasters, with repeater stations in various regions throughout the country"
@@ -941,7 +1034,7 @@
       }
     },
     "Civil aircraft registration country code prefix": {
-      "text": "LY (2016)"
+      "text": "LY"
     },
     "Airports": {
       "total": {
@@ -1036,16 +1129,16 @@
     },
     "Military expenditures": {
       "Military Expenditures 2020": {
-        "text": "2.28% of GDP (2020 est.)"
+        "text": "2.13% of GDP (2020 est.)"
       },
       "Military Expenditures 2019": {
-        "text": "2.02% of GDP (2019)"
+        "text": "2% of GDP (2019)"
       },
       "Military Expenditures 2018": {
-        "text": "1.98% of GDP (2018)"
+        "text": "1.97% of GDP (2018)"
       },
       "Military Expenditures 2017": {
-        "text": "0.72% of GDP (2017)"
+        "text": "1.71% of GDP (2017)"
       },
       "Military Expenditures 2016": {
         "text": "1.48% of GDP (2016)"
@@ -1055,10 +1148,10 @@
       "text": "the Lithuanian Armed Forces have approximately 16,000 active duty personnel (12,500 Army, including about 5,000 National Defense Voluntary Forces; 600 Navy; 1,000 Air Force; 2,000 other, including special operations forces, logistics support, training, etc); est. 11,000 Riflemen Union (2021)"
     },
     "Military equipment inventories and acquisitions": {
-      "text": "the Lithuanian Armed Forces' inventory is mostly a mix of Western weapons systems and Soviet-era equipment (primarily aircraft and helicopters); Germany and the UK are the leading suppliers of armaments to Lithuania since 2010 (2019 est.)"
+      "text": "the Lithuanian Armed Forces' inventory is mostly a mix of Western weapons systems and Soviet-era equipment (primarily aircraft and helicopters); Germany and the UK are the leading suppliers of armaments to Lithuania since 2010 (2020)"
     },
     "Military deployments": {
-      "text": "contributes about 350 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Warsaw and is comprised of an international staff, three battalions, and specialized units (2019)"
+      "text": "contributes about 350 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Warsaw and is comprised of an international staff, three battalions, and specialized units"
     },
     "Military service age and obligation": {
       "text": "19-26 years of age for conscripted military service (males); 9-month service obligation; in 2015, Lithuania reinstated conscription after having converted to a professional military in 2008; 18-38 for voluntary service (male and female) (2019)"

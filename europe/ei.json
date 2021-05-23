@@ -54,14 +54,14 @@
       "text": "mostly flat to rolling interior plain surrounded by rugged hills and low mountains; sea cliffs on west coast"
     },
     "Elevation": {
-      "mean elevation": {
-        "text": "118 m"
+      "highest point": {
+        "text": "Carrauntoohil 1,041 m"
       },
       "lowest point": {
         "text": "Atlantic Ocean 0 m"
       },
-      "highest point": {
-        "text": "Carrauntoohil 1,041 m"
+      "mean elevation": {
+        "text": "118 m"
       }
     },
     "Natural resources": {
@@ -95,17 +95,6 @@
     },
     "Natural hazards": {
       "text": "rare extreme weather events"
-    },
-    "Environment - current issues": {
-      "text": "water pollution, especially of lakes, from agricultural runoff; acid rain kills plants, destroys soil fertility, and contributes to deforestation"
-    },
-    "Environment - international agreements": {
-      "party to": {
-        "text": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Sulfur 94, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
-      },
-      "signed, but not ratified": {
-        "text": "Air Pollution-Persistent Organic Pollutants, Marine Life Conservation"
-      }
     },
     "Geography - note": {
       "text": "strategic location on major air and sea routes between North America and northern Europe; over 40% of the population resides within 100 km of Dublin"
@@ -191,10 +180,10 @@
     },
     "Urbanization": {
       "urban population": {
-        "text": "63.7% of total population (2020)"
+        "text": "63.9% of total population (2021)"
       },
       "rate of urbanization": {
-        "text": "1.14% annual rate of change (2015-20 est.)"
+        "text": "1.15% annual rate of change (2020-25 est.)"
       }
     },
     "Major urban areas - population": {
@@ -255,8 +244,8 @@
       "text": "1.93 children born/woman (2021 est.)"
     },
     "Contraceptive prevalence rate": {
-      "text": "73.3% (2010)",
-      "note": "<br><br><strong>note:</strong> percent of women aged 18-45"
+      "text": "73.3% (2010)<br><br><strong>note:</strong> percent of women aged 18-45",
+      "note": "<strong>note:</strong> percent of women aged 18-45"
     },
     "Drinking water source": {
       "improved: urban": {
@@ -335,13 +324,103 @@
     },
     "Unemployment, youth ages 15-24": {
       "total": {
-        "text": "13.8%"
+        "text": "12.5%"
       },
       "male": {
-        "text": "14.8%"
+        "text": "14.2%"
       },
       "female": {
-        "text": "12.6% (2018 est.)"
+        "text": "10.6% (2019 est.)"
+      }
+    }
+  },
+  "Environment": {
+    "Environment - current issues": {
+      "text": "water pollution, especially of lakes, from agricultural runoff; acid rain kills plants, destroys soil fertility, and contributes to deforestation"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 94, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Marine Life Conservation"
+      }
+    },
+    "Air pollutants": {
+      "particulate matter emissions": {
+        "text": "8.26 micrograms per cubic meter (2016 est.)"
+      },
+      "carbon dioxide emissions": {
+        "text": "37.71 megatons (2016 est.)"
+      },
+      "methane emissions": {
+        "text": "13.67 megatons (2020 est.)"
+      }
+    },
+    "Total water withdrawal": {
+      "municipal": {
+        "text": "631 million cubic meters (2017 est.)"
+      },
+      "industrial": {
+        "text": "51 million cubic meters (2017 est.)"
+      },
+      "agricultural": {
+        "text": "179 million cubic meters (2017 est.)"
+      }
+    },
+    "Total renewable water resources": {
+      "text": "52 billion cubic meters (2017 est.)"
+    },
+    "Climate": {
+      "text": "temperate maritime; modified by North Atlantic Current; mild winters, cool summers; consistently humid; overcast about half the time"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "66.1% (2018 est.)"
+      },
+      "agricultural land: arable land": {
+        "text": "arable land: 15.4% (2018 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 0% (2018 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 50.7% (2018 est.)"
+      },
+      "forest": {
+        "text": "10.9% (2018 est.)"
+      },
+      "other": {
+        "text": "23% (2018 est.)"
+      }
+    },
+    "Revenue from forest resources": {
+      "forest revenues": {
+        "text": "0.01% of GDP (2018 est.)"
+      }
+    },
+    "Revenue from coal": {
+      "coal revenues": {
+        "text": "0% of GDP (2018 est.)"
+      }
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "63.9% of total population (2021)"
+      },
+      "rate of urbanization": {
+        "text": "1.15% annual rate of change (2020-25 est.)"
+      }
+    },
+    "Waste and recycling": {
+      "municipal solid waste generated annually": {
+        "text": "2,692,537 tons (2012 est.)"
+      },
+      "municipal solid waste recycled annually": {
+        "text": "888,537 tons (2012 est.)"
+      },
+      "percent of municipal solid waste recycled": {
+        "text": "33% (2012 est.)"
       }
     }
   },
@@ -379,7 +458,7 @@
       "daylight saving time": {
         "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
       },
-      "note": "<br><br><strong>etymology:</strong> derived from Irish \"dubh\" and \"lind\" meaning respectively \"black, dark\" and \"pool\" and which referred to the dark tidal pool where the River Poddle entered the River Liffey; today the area is the site of the castle gardens behind Dublin Castle"
+      "note": "<strong>etymology:</strong> derived from Irish \"dubh\" and \"lind\" meaning respectively \"black, dark\" and \"pool\" and which referred to the dark tidal pool where the River Poddle entered the River Liffey; today the area is the site of the castle gardens behind Dublin Castle"
     },
     "Administrative divisions": {
       "text": "28 counties and 3 cities*; Carlow, Cavan, Clare, Cork, Cork*, Donegal, Dublin*, Dun Laoghaire-Rathdown, Fingal, Galway, Galway*, Kerry, Kildare, Kilkenny, Laois, Leitrim, Limerick, Longford, Louth, Mayo, Meath, Monaghan, Offaly, Roscommon, Sligo, South Dublin, Tipperary, Waterford, Westmeath, Wexford, Wicklow"
@@ -501,8 +580,8 @@
       }
     },
     "Flag description": {
-      "text": "three equal vertical bands of green (hoist side), white, and orange; officially the flag colors have no meaning, but a common interpretation is that the green represents the Irish nationalist (Gaelic) tradition of Ireland; orange represents the Orange tradition (minority supporters of William of Orange); white symbolizes peace (or a lasting truce) between the green and the orange",
-      "note": "<p><strong>note:</strong> similar to the flag of Cote d'Ivoire, which is shorter and has the colors reversed - orange (hoist side), white, and green; also similar to the flag of Italy, which is shorter and has colors of green (hoist side), white, and red</p>"
+      "text": "three equal vertical bands of green (hoist side), white, and orange; officially the flag colors have no meaning, but a common interpretation is that the green represents the Irish nationalist (Gaelic) tradition of Ireland; orange represents the Orange tradition (minority supporters of William of Orange); white symbolizes peace (or a lasting truce) between the green and the orange<br><br><strong>note:</strong> similar to the flag of Cote d'Ivoire, which is shorter and has the colors reversed - orange (hoist side), white, and green; also similar to the flag of Italy, which is shorter and has colors of green (hoist side), white, and red",
+      "note": "<strong>note:</strong> similar to the flag of Cote d'Ivoire, which is shorter and has the colors reversed - orange (hoist side), white, and green; also similar to the flag of Italy, which is shorter and has colors of green (hoist side), white, and red"
     },
     "National symbol(s)": {
       "text": "harp, shamrock (trefoil); national colors: blue, green"
@@ -514,7 +593,7 @@
       "lyrics/music": {
         "text": "Peadar KEARNEY [English], Liam O RINN [Irish]/Patrick HEENEY and Peadar KEARNEY"
       },
-      "note": "<p><strong>note:</strong> adopted 1926; instead of \"Amhran na bhFiann,\" the song \"Ireland's Call\" is often used at athletic events where citizens of Ireland and Northern Ireland compete as a unified team</p>"
+      "note": "<strong>note:</strong> adopted 1926; instead of \"Amhran na bhFiann,\" the song \"Ireland's Call\" is often used at athletic events where citizens of Ireland and Northern Ireland compete as a unified team"
     }
   },
   "Economy": {
@@ -564,7 +643,7 @@
       "Real GDP (purchasing power parity) 2017": {
         "text": "$375.592 billion (2017 est.)"
       },
-      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
+      "note": "<strong>note:</strong> data are in 2010 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$398.476 billion (2019 est.)"
@@ -579,7 +658,7 @@
       "Real GDP per capita 2017": {
         "text": "$78,128 (2017 est.)"
       },
-      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
+      "note": "<strong>note:</strong> data are in 2010 dollars"
     },
     "Gross national saving": {
       "Gross national saving 2019": {
@@ -624,8 +703,17 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "Overall Ease of Doing Business score 2020": {
+      "Overall score": {
+        "text": "79.6 (2020)"
+      },
+      "Starting a Business score": {
         "text": "94.4 (2020)"
+      },
+      "Trading score": {
+        "text": "87.2 (2020)"
+      },
+      "Enforcement score": {
+        "text": "57.9 (2020)"
       }
     },
     "Agricultural products": {
@@ -660,7 +748,7 @@
       }
     },
     "Population below poverty line": {
-      "text": "8.2% (2013 est.)"
+      "text": "13.1% (2018 est.)"
     },
     "Gini Index coefficient - distribution of family income": {
       "Gini Index coefficient - distribution of family income 2016": {
@@ -699,7 +787,7 @@
       "Public debt 2016": {
         "text": "73.6% of GDP (2016 est.)"
       },
-      "note": "<p><strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions</p>"
+      "note": "<strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions"
     },
     "Fiscal year": {
       "text": "calendar year"
@@ -724,10 +812,10 @@
       }
     },
     "Exports - partners": {
-      "text": "US 27.1%, UK 13.4%, Belgium 11%, Germany 8.1%, Switzerland 5.1%, Netherlands 4.9%, France 4.3% (2017)"
+      "text": "United States 28%, Belgium 10%, Germany 10%, UK 9%, China 5%, Netherlands 5% (2019)"
     },
     "Exports - commodities": {
-      "text": "machinery and equipment, computers, chemicals, medical devices, pharmaceuticals; foodstuffs, animal products"
+      "text": "medical cultures/vaccines, nitrogen compounds, packaged medicines, integrated circuits, scented mixtures (2019)"
     },
     "Imports": {
       "Imports 2019": {
@@ -741,10 +829,10 @@
       }
     },
     "Imports - partners": {
-      "text": "UK 29%, US 18.9%, France 12.1%, Germany 9.6%, Netherlands 4.1% (2017)"
+      "text": "United Kingdom 31%, United States 16%, Germany 10%, Netherlands 5%, France 5% (2019)"
     },
     "Imports - commodities": {
-      "text": "data processing equipment, other machinery and equipment, chemicals, petroleum and petroleum products, textiles, clothing"
+      "text": "aircraft, computers, packaged medicines, refined petroleum, medical cultures/vaccines (2019)"
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 31 December 2017": {
@@ -854,9 +942,6 @@
     },
     "Natural gas - proved reserves": {
       "text": "9.911 billion cu m (1 January 2018 est.)"
-    },
-    "Carbon dioxide emissions from consumption of energy": {
-      "text": "36.91 million Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -886,7 +971,7 @@
       "international": {
         "text": "country code - 353; landing point for the&nbsp;AEConnect&nbsp;-1,&nbsp;Celtic-Norse, Havfrue/AEC-2, GTT Express, Celtic, ESAT-1, IFC-1, Solas, Pan European Crossing, ESAT-2, CeltixConnect -1 &amp; 2, GTT Atlantic, Sirius South, Emerald Bridge Fibres&nbsp;and Geo Eirgrid&nbsp;submarine cable with links to the US, Canada, Norway, Isle of Man and UK; satellite earth stations - 81 (2019)"
       },
-      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "publicly owned broadcaster Radio Telefis Eireann (RTE) operates&nbsp;4 TV stations; commercial TV stations are available; about 75% of households utilize multi-channel satellite and TV services that provide access to a wide range of stations; RTE operates 4 national radio stations and has launched digital audio broadcasts on several stations; a number of commercial broadcast stations operate at the national, regional, and local levels (2019)"
@@ -927,7 +1012,7 @@
       }
     },
     "Civil aircraft registration country code prefix": {
-      "text": "EI (2016)"
+      "text": "EI"
     },
     "Airports": {
       "total": {
@@ -1018,42 +1103,42 @@
   },
   "Military and Security": {
     "Military and security forces": {
-      "text": "Irish Defence Forces (Oglaigh na h-Eireannn): Army (includes Army Reserve), Naval Service (includes Naval Service Reserves), Air Corps (2019)"
+      "text": "Irish Defense Forces (Oglaigh na h-Eireannn): Army, Air Corps, Naval Service, Reserve Defense Forces (2021)"
     },
     "Military expenditures": {
+      "Military Expenditures 2020": {
+        "text": "0.27% of GDP (2020)"
+      },
       "Military Expenditures 2019": {
-        "text": "0.3% of GDP (2019)"
+        "text": "0.29% of GDP (2019)"
       },
       "Military Expenditures 2018": {
-        "text": "0.3% of GDP (2018)"
+        "text": "0.29% of GDP (2018)"
       },
       "Military Expenditures 2017": {
-        "text": "0.3% of GDP (2017)"
+        "text": "0.31% of GDP (2017)"
       },
       "Military Expenditures 2016": {
-        "text": "0.3% of GDP (2016)"
-      },
-      "Military Expenditures 2015": {
-        "text": "0.3% of GDP (2015)"
+        "text": "0.33% of GDP (2016)"
       }
     },
     "Military and security service personnel strengths": {
-      "text": "the Irish Defence Forces have approximately 8,700 active duty personnel (7,000 Army; 1,000 Navy; 700 Air Force) (2019 est.)"
+      "text": "the Irish Defence Forces have approximately 8,700 active duty personnel (7,000 Army; 1,000 Navy; 700 Air Force) (2020)"
     },
     "Military equipment inventories and acquisitions": {
-      "text": "the Irish Defense Forces have a small inventory of imported weapons systems from a variety of European countries, as well as South Africa and the US; the UK is the leading supplier of military hardware to Ireland since 2010 (2019 est.)"
+      "text": "the Irish Defense Forces have a small inventory of imported weapons systems from a variety of mostly European countries; the UK is the leading supplier of military hardware to Ireland since 2010 (2020)"
     },
     "Military deployments": {
-      "text": "130 Golan Heights (UNDOF); 340 Lebanon (UNIFIL) (2020)"
+      "text": "130 Golan Heights (UNDOF); 340 Lebanon (UNIFIL) (Jan 2021)"
     },
     "Military service age and obligation": {
-      "text": "18-25 years of age for male and female voluntary military service recruits to the Defence Forces (18-27 years of age for the Naval Service); 18-26 for cadetship (officer) applicants; 12-year service (5 active, 7 reserves); Irish citizen, European Economic Area citizenship, or refugee status (2019)"
+      "text": "18-25 years of age for male and female voluntary military service recruits to the Defence Forces (18-27 years of age for the Naval Service); 18-26 for cadetship (officer) applicants; 12-year service (5 active, 7 reserves); Irish citizen, European Economic Area citizenship, or refugee status (2020)"
     }
   },
   "Terrorism": {
     "Terrorist group(s)": {
-      "text": "Continuity Irish Republican Army; New Irish Republican Army (2019)",
-      "note": "<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in <a title=\"Appendix-T\" href=\"../appendix/appendix-t.html\">Appendix-T</a>"
+      "text": "Continuity Irish Republican Army; New Irish Republican Army (2019)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in <a title=\"Appendix-T\" href=\"../appendix/appendix-t.html\">Appendix-T</a>",
+      "note": "<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in <a title=\"Appendix-T\" href=\"../appendix/appendix-t.html\">Appendix-T</a>"
     }
   },
   "Transnational Issues": {

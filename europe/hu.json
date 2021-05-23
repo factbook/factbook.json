@@ -49,14 +49,14 @@
       "text": "mostly flat to rolling plains; hills and low mountains on the Slovakian border"
     },
     "Elevation": {
-      "mean elevation": {
-        "text": "143 m"
+      "highest point": {
+        "text": "Kekes 1,014 m"
       },
       "lowest point": {
         "text": "Tisza River 78 m"
       },
-      "highest point": {
-        "text": "Kekes 1,014 m"
+      "mean elevation": {
+        "text": "143 m"
       }
     },
     "Natural resources": {
@@ -88,17 +88,6 @@
     "Population distribution": {
       "text": "a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations"
     },
-    "Environment - current issues": {
-      "text": "air and water pollution are some of Hungary's most serious environmental problems; water quality in the Hungarian part of the Danube has improved but is still plagued by pollutants from industry and large-scale agriculture; soil pollution"
-    },
-    "Environment - international agreements": {
-      "party to": {
-        "text": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
-      },
-      "signed, but not ratified": {
-        "text": "none of the selected agreements"
-      }
-    },
     "Geography - note": {
       "text": "landlocked; strategic location astride main land routes between Western Europe and Balkan Peninsula as well as between Ukraine and Mediterranean basin; the north-south flowing Duna (Danube) and Tisza Rivers divide the country into three large regions"
     }
@@ -116,12 +105,12 @@
       }
     },
     "Ethnic groups": {
-      "text": "Hungarian 85.6%, Romani 3.2%, German 1.9%, other 2.6%, unspecified 14.1% (2011 est.)",
-      "note": "<p><strong>note:</strong> percentages add up to more than 100% because respondents were able to identify more than one ethnic group; Romani populations are usually underestimated in official statistics and may represent 5–10% of Hungary's population</p>"
+      "text": "Hungarian 85.6%, Romani 3.2%, German 1.9%, other 2.6%, unspecified 14.1% (2011 est.)<br><br><strong>note:</strong> percentages add up to more than 100% because respondents were able to identify more than one ethnic group; Romani populations are usually underestimated in official statistics and may represent 5–10% of Hungary's population",
+      "note": "<strong>note:</strong> percentages add up to more than 100% because respondents were able to identify more than one ethnic group; Romani populations are usually underestimated in official statistics and may represent 5–10% of Hungary's population"
     },
     "Languages": {
-      "text": "Hungarian (official) 99.6%, English 16%, German 11.2%, Russian 1.6%, Romanian 1.3%, French 1.2%, other 4.2% (2011 est.)",
-      "note": "<p><strong>note:</strong> shares sum to more than 100% because some respondents gave more than one answer on the census; Hungarian is the mother tongue of 98.9% of Hungarian speakers</p>"
+      "text": "Hungarian (official) 99.6%, English 16%, German 11.2%, Russian 1.6%, Romanian 1.3%, French 1.2%, other 4.2% (2011 est.)<br><br><strong>note:</strong> shares sum to more than 100% because some respondents gave more than one answer on the census; Hungarian is the mother tongue of 98.9% of Hungarian speakers",
+      "note": "<strong>note:</strong> shares sum to more than 100% because some respondents gave more than one answer on the census; Hungarian is the mother tongue of 98.9% of Hungarian speakers"
     },
     "Religions": {
       "text": "Roman Catholic 37.2%, Calvinist 11.6%, Lutheran 2.2%, Greek Catholic 1.8%, other 1.9%, none 18.2%, no response 27.2% (2011 est.)"
@@ -185,10 +174,10 @@
     },
     "Urbanization": {
       "urban population": {
-        "text": "71.9% of total population (2020)"
+        "text": "72.2% of total population (2021)"
       },
       "rate of urbanization": {
-        "text": "0.07% annual rate of change (2015-20 est.)"
+        "text": "0.05% annual rate of change (2020-25 est.)"
       }
     },
     "Major urban areas - population": {
@@ -347,13 +336,111 @@
     },
     "Unemployment, youth ages 15-24": {
       "total": {
-        "text": "10.2%"
+        "text": "11.4%"
       },
       "male": {
-        "text": "9.8%"
+        "text": "11.9%"
       },
       "female": {
-        "text": "10.7% (2018 est.)"
+        "text": "10.6% (2019 est.)"
+      }
+    }
+  },
+  "Environment": {
+    "Environment - current issues": {
+      "text": "air and water pollution are some of Hungary's most serious environmental problems; water quality in the Hungarian part of the Danube has improved but is still plagued by pollutants from industry and large-scale agriculture; soil pollution"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "Antarctic-Environmental Protection"
+      }
+    },
+    "Air pollutants": {
+      "particulate matter emissions": {
+        "text": "15.62 micrograms per cubic meter (2016 est.)"
+      },
+      "carbon dioxide emissions": {
+        "text": "45.54 megatons (2016 est.)"
+      },
+      "methane emissions": {
+        "text": "7.25 megatons (2020 est.)"
+      }
+    },
+    "Total water withdrawal": {
+      "municipal": {
+        "text": "624.5 million cubic meters (2017 est.)"
+      },
+      "industrial": {
+        "text": "3.358 billion cubic meters (2017 est.)"
+      },
+      "agricultural": {
+        "text": "518.6 million cubic meters (2017 est.)"
+      }
+    },
+    "Total renewable water resources": {
+      "text": "104 billion cubic meters (2017 est.)"
+    },
+    "Climate": {
+      "text": "temperate; cold, cloudy, humid winters; warm summers"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "58.9% (2018 est.)"
+      },
+      "agricultural land: arable land": {
+        "text": "arable land: 48.5% (2018 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 2% (2018 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 8.4% (2018 est.)"
+      },
+      "forest": {
+        "text": "22.5% (2018 est.)"
+      },
+      "other": {
+        "text": "18.6% (2018 est.)"
+      }
+    },
+    "Revenue from forest resources": {
+      "forest revenues": {
+        "text": "0.1% of GDP (2018 est.)"
+      }
+    },
+    "Revenue from coal": {
+      "coal revenues": {
+        "text": "0.01% of GDP (2018 est.)"
+      }
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "72.2% of total population (2021)"
+      },
+      "rate of urbanization": {
+        "text": "0.05% annual rate of change (2020-25 est.)"
+      }
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "intermediate (2016)"
+      },
+      "vectorborne diseases": {
+        "text": "tickborne encephalitis (2016)"
+      }
+    },
+    "Waste and recycling": {
+      "municipal solid waste generated annually": {
+        "text": "3.712 million tons (2015 est.)"
+      },
+      "municipal solid waste recycled annually": {
+        "text": "962,893 tons (2015 est.)"
+      },
+      "percent of municipal solid waste recycled": {
+        "text": "25.9% (2015 est.)"
       }
     }
   },
@@ -394,7 +481,7 @@
       "daylight saving time": {
         "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
       },
-      "note": "<br><br><strong>etymology:</strong> the Hungarian capital city was formed in 1873 from the merger of three cities on opposite banks of the Danube: Buda and Obuda (Old Buda) on the western shore and Pest on the eastern; the origins of the original names are obscure, but according to the second century A.D. geographer, Ptolemy, the settlement that would become Pest was called \"Pession\" in ancient times; \"Buda\" may derive from either a Slavic or Turkic personal name"
+      "note": "<strong>etymology:</strong> the Hungarian capital city was formed in 1873 from the merger of three cities on opposite banks of the Danube: Buda and Obuda (Old Buda) on the western shore and Pest on the eastern; the origins of the original names are obscure, but according to the second century A.D. geographer, Ptolemy, the settlement that would become Pest was called \"Pession\" in ancient times; \"Buda\" may derive from either a Slavic or Turkic personal name"
     },
     "Administrative divisions": {
       "text": "<p>19 counties (megyek, singular - megye), 23 cities with county rights (megyei jogu varosok, singular - megyei jogu varos), and 1 capital city (fovaros)</p> <p><strong>counties:</strong> Bacs-Kiskun, Baranya, Bekes, Borsod-Abauj-Zemplen, Csongrad-Csanad, Fejer, Gyor-Moson-Sopron, Hajdu-Bihar, Heves, Jasz-Nagykun-Szolnok, Komarom-Esztergom, Nograd, Pest, Somogy, Szabolcs-Szatmar-Bereg, Tolna, Vas, Veszprem, Zala</p> <p><strong>cities with county rights:</strong> Bekescsaba, Debrecen, Dunaujvaros, Eger, Erd, Gyor, Hodmezovasarhely, Kaposvar, Kecskemet, Miskolc, Nagykanizsa, Nyiregyhaza, Pecs, Salgotarjan, Sopron, Szeged, Szekesfehervar, Szekszard, Szolnok, Szombathely, Tatabanya, Veszprem, Zalaegerszeg</p> <p><strong>capital city:</strong> Budapest</p>"
@@ -483,7 +570,7 @@
     },
     "Diplomatic representation in the US": {
       "chief of mission": {
-        "text": "Charge d'Affaires Dora ZOMBORI (since 14 April 2020)"
+        "text": "Ambassador Szabolcs Ferenc TAKACS (since 23 December 2020)"
       },
       "chancery": {
         "text": "3910 Shoemaker Street NW, Washington, DC 20008"
@@ -500,7 +587,7 @@
     },
     "Diplomatic representation from the US": {
       "chief of mission": {
-        "text": "Ambassador David B. CORNSTEIN (since 25 June 2018)"
+        "text": "&nbsp; Ambassador (vacant); Charge d'Affaires Marc DILLARD (since 30 October 2020)"
       },
       "telephone": {
         "text": "[36] (1) 475-4400"
@@ -528,7 +615,7 @@
       "lyrics/music": {
         "text": "Ferenc KOLCSEY/Ferenc ERKEL"
       },
-      "note": "<p><strong>note:</strong> adopted 1844</p>"
+      "note": "<strong>note:</strong> adopted 1844"
     }
   },
   "Economy": {
@@ -578,7 +665,7 @@
       "Real GDP (purchasing power parity) 2017": {
         "text": "$291.995 billion (2017 est.)"
       },
-      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
+      "note": "<strong>note:</strong> data are in 2010 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$163.251 billion (2019 est.)"
@@ -593,7 +680,7 @@
       "Real GDP per capita 2017": {
         "text": "$29,832 (2017 est.)"
       },
-      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
+      "note": "<strong>note:</strong> data are in 2010 dollars"
     },
     "Gross national saving": {
       "Gross national saving 2019": {
@@ -638,8 +725,17 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "Overall Ease of Doing Business score 2020": {
+      "Overall score": {
         "text": "73.4 (2020)"
+      },
+      "Starting a Business score": {
+        "text": "88.2 (2020)"
+      },
+      "Trading score": {
+        "text": "100 (2020)"
+      },
+      "Enforcement score": {
+        "text": "71 (2020)"
       }
     },
     "Agricultural products": {
@@ -674,7 +770,7 @@
       }
     },
     "Population below poverty line": {
-      "text": "14.9% (2015 est.)"
+      "text": "12.3% (2018 est.)"
     },
     "Gini Index coefficient - distribution of family income": {
       "Gini Index coefficient - distribution of family income 2017": {
@@ -704,8 +800,8 @@
       "text": "44.5% (of GDP) (2017 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-2% (of GDP) (2017 est.)",
-      "note": "<p><strong>note:</strong> Hungary has been under the EU Excessive Deficit Procedure since it joined the EU in 2004; in March 2012, the EU elevated its Excessive Deficit Procedure against Hungary and proposed freezing 30% of the country's Cohesion Funds because 2011 deficit reductions were not achieved in a sustainable manner; in June 2012, the EU lifted the freeze, recognizing that steps had been taken to reduce the deficit; the Hungarian deficit increased above 3% both in 2013 and in 2014 due to sluggish growth and the government's fiscal tightening</p>"
+      "text": "-2% (of GDP) (2017 est.)<br><br><strong>note:</strong> Hungary has been under the EU Excessive Deficit Procedure since it joined the EU in 2004; in March 2012, the EU elevated its Excessive Deficit Procedure against Hungary and proposed freezing 30% of the country's Cohesion Funds because 2011 deficit reductions were not achieved in a sustainable manner; in June 2012, the EU lifted the freeze, recognizing that steps had been taken to reduce the deficit; the Hungarian deficit increased above 3% both in 2013 and in 2014 due to sluggish growth and the government's fiscal tightening",
+      "note": "<strong>note:</strong> Hungary has been under the EU Excessive Deficit Procedure since it joined the EU in 2004; in March 2012, the EU elevated its Excessive Deficit Procedure against Hungary and proposed freezing 30% of the country's Cohesion Funds because 2011 deficit reductions were not achieved in a sustainable manner; in June 2012, the EU lifted the freeze, recognizing that steps had been taken to reduce the deficit; the Hungarian deficit increased above 3% both in 2013 and in 2014 due to sluggish growth and the government's fiscal tightening"
     },
     "Public debt": {
       "Public debt 2017": {
@@ -714,7 +810,7 @@
       "Public debt 2016": {
         "text": "76% of GDP (2016 est.)"
       },
-      "note": "<p><strong>note:</strong> general government gross debt is defined in the Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year in the following categories of government liabilities: currency and deposits, securities other than shares excluding financial derivatives, and national, state, and local government and social security funds.</p>"
+      "note": "<strong>note:</strong> general government gross debt is defined in the Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year in the following categories of government liabilities: currency and deposits, securities other than shares excluding financial derivatives, and national, state, and local government and social security funds."
     },
     "Fiscal year": {
       "text": "calendar year"
@@ -739,10 +835,10 @@
       }
     },
     "Exports - partners": {
-      "text": "Germany 27.7%, Romania 5.4%, Italy 5.1%, Austria 5%, Slovakia 4.8%, France 4.4%, Czech Republic 4.4%, Poland 4.3% (2017)"
+      "text": "Germany 27%, Romania 5%, Italy 5%, Slovakia 5% (2019)"
     },
     "Exports - commodities": {
-      "text": "machinery and equipment (55.8%), other manufactures (32.7%), food products (6.8%), raw materials (2.4%), fuels and electricity (2.3%) (2017 est.)"
+      "text": "cars and vehicle parts, packaged medicines, spark-ignition engines, video displays, broadcasting equipment (2019)"
     },
     "Imports": {
       "Imports 2019": {
@@ -756,10 +852,10 @@
       }
     },
     "Imports - partners": {
-      "text": "Germany 26.2%, Austria 6.3%, China 5.9%, Poland 5.5%, Slovakia 5.3%, Netherlands 5%, Czech Republic 4.8%, Italy 4.7%, France 4% (2017)"
+      "text": "Germany 25%, China 6%, Poland 6%, Austria 6%, Czechia 5%, Slovakia 5%, Italy 5%, Netherlands 5% (2019)"
     },
     "Imports - commodities": {
-      "text": "machinery and equipment 45.4%, other manufactures 34.3%, fuels and electricity 12.6%, food products 5.3%, raw materials 2.5% (2012)"
+      "text": "cars and vehicle parts, integrated circuits, packaged medicines, broadcasting equipment, crude petroleum (2019)"
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 31 December 2017": {
@@ -869,9 +965,6 @@
     },
     "Natural gas - proved reserves": {
       "text": "6.598 billion cu m (1 January 2018 est.)"
-    },
-    "Carbon dioxide emissions from consumption of energy": {
-      "text": "51.28 million Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -901,7 +994,7 @@
       "international": {
         "text": "country code - 36; Hungary has fiber-optic cable connections with all neighboring countries; the international switch is in Budapest; satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian Ocean regions), 1 Inmarsat, 1 (very small aperture terminal) VSAT system of ground terminals"
       },
-      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "mixed system of state-supported public service broadcast media and private broadcasters; the 5 publicly owned TV channels and the 2 main privately owned TV stations are the major national broadcasters; a large number of special interest channels; highly developed market for satellite and cable TV services with about two-thirds of viewers utilizing their services; 4 state-supported public-service radio networks; a large number of local stations including commercial, public service, nonprofit, and community radio stations; digital transition completed at the end of 2013; government-linked businesses have greatly consolidated ownership in broadcast and print media"
@@ -939,7 +1032,7 @@
       }
     },
     "Civil aircraft registration country code prefix": {
-      "text": "HA (2016)"
+      "text": "HA"
     },
     "Airports": {
       "total": {
@@ -1030,37 +1123,37 @@
   },
   "Military and Security": {
     "Military and security forces": {
-      "text": "Hungarian Defense Forces: Combat Command (consists of operational/combat air and land force units); Logistics Center; Preparation and Training Command (2020)",
-      "note": "<br><br>note: the Hungarian Defense Forces are organized into a joint force structure with ground, air, and logistic components"
+      "text": "Hungarian Defense Forces: Land Forces (Army); Air Forces (note - both the air and land components are subordinate to a Joint Forces Combat Command); Logistics Center; Preparation and Training Command (2020)<br><br>note: the Hungarian Defense Forces are organized into a joint force structure with ground, air, and logistic components",
+      "note": "note: the Hungarian Defense Forces are organized into a joint force structure with ground, air, and logistic components"
     },
     "Military expenditures": {
       "Military Expenditures 2020": {
-        "text": "1.33% of GDP (2020 est.)"
+        "text": "1.85% of GDP (2020 est.)"
       },
       "Military Expenditures 2019": {
-        "text": "1.27% of GDP (2019)"
+        "text": "1.25% of GDP (2019)"
       },
       "Military Expenditures 2018": {
-        "text": "1.15% of GDP (2018)"
+        "text": "1.01% of GDP (2018)"
       },
       "Military Expenditures 2017": {
-        "text": "1.05% of GDP (2017)"
+        "text": "1.19% of GDP (2017)"
       },
       "Military Expenditures 2016": {
-        "text": "1.02% of GDP (2016)"
+        "text": "1% of GDP (2016)"
       }
     },
     "Military and security service personnel strengths": {
       "text": "the Hungarian Defense Forces have approximately 23,000 active duty troops (18,000 Army; 5,000 Air Force) (2020)"
     },
     "Military equipment inventories and acquisitions": {
-      "text": "the inventory of the Hungarian Defense Forces consists largely of Soviet-era weapons, with a smaller mix of more modern European and US equipment; since 2010, Hungary has received limited quantities of equipment from Czechia, Finland, France, Germany, Russia, Sweden, and the US (2019)"
+      "text": "the inventory of the Hungarian Defense Forces consists largely of Soviet-era weapons, with a smaller mix of more modern European and US equipment; since 2010, Hungary has received limited quantities of equipment from several European countries and the US (2020)"
     },
     "Military deployments": {
-      "text": "160 Bosnia-Herzegovina (EUFOR stabilization force); 150 Iraq (counter-ISIS coalition); 400 Kosovo (NATO) (2020)"
+      "text": "160 Bosnia-Herzegovina (EUFOR stabilization force); 150 Iraq (counter-ISIS coalition); 430 Kosovo (NATO/KFOR) (2021)"
     },
     "Military service age and obligation": {
-      "text": "18-25 years of age for voluntary military service; no conscription; 6-month service obligation (2012)"
+      "text": "18-25 years of age for voluntary military service; no conscription (abolished 2005); 6-month service obligation (2019)"
     }
   },
   "Transnational Issues": {
@@ -1074,7 +1167,7 @@
       "stateless persons": {
         "text": "76 (2019)"
       },
-      "note": "<p><strong>note:</strong> 432,744 estimated refugee and migrant arrivals (January 2015-December 2018); Hungary is predominantly a transit country and hosts 137 migrants and asylum seekers as of the end of June 2018; 1,626 migrant arrivals in 2017</p>"
+      "note": "<strong>note:</strong> 432,744 estimated refugee and migrant arrivals (January 2015-December 2018); Hungary is predominantly a transit country and hosts 137 migrants and asylum seekers as of the end of June 2018; 1,626 migrant arrivals in 2017"
     },
     "Illicit drugs": {
       "text": "transshipment point for Southwest Asian heroin and cannabis and for South American cocaine destined for Western Europe; limited producer of precursor chemicals, particularly for amphetamine and methamphetamine; efforts to counter money laundering, related to organized crime and drug trafficking are improving but remain vulnerable; significant consumer of ecstasy"

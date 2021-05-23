@@ -54,16 +54,16 @@
       "text": "mountainous with ranges extending into the sea as peninsulas or chains of islands"
     },
     "Elevation": {
-      "mean elevation": {
-        "text": "498 m"
+      "highest point": {
+        "text": "Mount Olympus 2,917"
       },
       "lowest point": {
         "text": "Mediterranean Sea 0 m"
       },
-      "highest point": {
-        "text": "Mount Olympus 2,917"
+      "mean elevation": {
+        "text": "498 m"
       },
-      "note": "<br><br><strong>note:</strong> Mount Olympus actually has 52 peaks but its highest point, Mytikas (meaning \"nose\"), rises to 2,917 meters; in Greek mythology, Olympus' Mytikas peak was the home of the Greek gods"
+      "note": "<strong>note:</strong> Mount Olympus actually has 52 peaks but its highest point, Mytikas (meaning \"nose\"), rises to 2,917 meters; in Greek mythology, Olympus' Mytikas peak was the home of the Greek gods"
     },
     "Natural resources": {
       "text": "lignite, petroleum, iron ore, bauxite, lead, zinc, nickel, magnesite, marble, salt, hydropower potential"
@@ -97,17 +97,6 @@
     "Natural hazards": {
       "text": "<p>severe earthquakes</p><p><strong>volcanism:</strong> Santorini (367 m) has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; although there have been very few eruptions in recent centuries, Methana and Nisyros in the Aegean are classified as historically active</p>"
     },
-    "Environment - current issues": {
-      "text": "air pollution; air emissions from transport and electricity power stations; water pollution; degradation of coastal zones; loss of biodiversity in terrestrial and marine ecosystems; increasing municipal and industrial waste"
-    },
-    "Environment - international agreements": {
-      "party to": {
-        "text": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Sulfur 94, Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands"
-      },
-      "signed, but not ratified": {
-        "text": "Air Pollution-Persistent Organic Pollutants, Air Pollution-Volatile Organic Compounds"
-      }
-    },
     "Geography - note": {
       "text": "strategic location dominating the Aegean Sea and southern approach to Turkish Straits; a peninsular country, possessing an archipelago of about 2,000 islands"
     }
@@ -125,8 +114,8 @@
       }
     },
     "Ethnic groups": {
-      "text": "Greek 91.6%, Albanian 4.4%, other 4% (2011)",
-      "note": "<p><strong>note:</strong> data represent citizenship; Greece does not collect data on ethnicity</p>"
+      "text": "Greek 91.6%, Albanian 4.4%, other 4% (2011)<br><br><strong>note:</strong> data represent citizenship; Greece does not collect data on ethnicity",
+      "note": "<strong>note:</strong> data represent citizenship; Greece does not collect data on ethnicity"
     },
     "Languages": {
       "text": "Greek (official) 99%, other (includes English and French) 1%"
@@ -193,10 +182,10 @@
     },
     "Urbanization": {
       "urban population": {
-        "text": "79.7% of total population (2020)"
+        "text": "80% of total population (2021)"
       },
       "rate of urbanization": {
-        "text": "0.22% annual rate of change (2015-20 est.)"
+        "text": "0.11% annual rate of change (2020-25 est.)"
       }
     },
     "Major urban areas - population": {
@@ -347,13 +336,103 @@
     },
     "Unemployment, youth ages 15-24": {
       "total": {
-        "text": "39.9%"
+        "text": "35.2%"
       },
       "male": {
-        "text": "36.4%"
+        "text": "33.5%"
       },
       "female": {
-        "text": "43.9% (2018 est.)"
+        "text": "37.2% (2019 est.)"
+      }
+    }
+  },
+  "Environment": {
+    "Environment - current issues": {
+      "text": "air pollution; air emissions from transport and electricity power stations; water pollution; degradation of coastal zones; loss of biodiversity in terrestrial and marine ecosystems; increasing municipal and industrial waste"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Sulphur 94, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Persistent Organic Pollutants, Air Pollution-Volatile Organic Compounds"
+      }
+    },
+    "Air pollutants": {
+      "particulate matter emissions": {
+        "text": "15.69 micrograms per cubic meter (2016 est.)"
+      },
+      "carbon dioxide emissions": {
+        "text": "62.43 megatons (2016 est.)"
+      },
+      "methane emissions": {
+        "text": "9.8 megatons (2020 est.)"
+      }
+    },
+    "Total water withdrawal": {
+      "municipal": {
+        "text": "1.991 billion cubic meters (2017 est.)"
+      },
+      "industrial": {
+        "text": "208.3 million cubic meters (2017 est.)"
+      },
+      "agricultural": {
+        "text": "9.041 billion cubic meters (2017 est.)"
+      }
+    },
+    "Total renewable water resources": {
+      "text": "68.4 billion cubic meters (2017 est.)"
+    },
+    "Climate": {
+      "text": "temperate; mild, wet winters; hot, dry summers"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "63.4% (2018 est.)"
+      },
+      "agricultural land: arable land": {
+        "text": "arable land: 19.7% (2018 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 8.9% (2018 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 34.8% (2018 est.)"
+      },
+      "forest": {
+        "text": "30.5% (2018 est.)"
+      },
+      "other": {
+        "text": "6.1% (2018 est.)"
+      }
+    },
+    "Revenue from forest resources": {
+      "forest revenues": {
+        "text": "0.01% of GDP (2018 est.)"
+      }
+    },
+    "Revenue from coal": {
+      "coal revenues": {
+        "text": "0.04% of GDP (2018 est.)"
+      }
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "80% of total population (2021)"
+      },
+      "rate of urbanization": {
+        "text": "0.11% annual rate of change (2020-25 est.)"
+      }
+    },
+    "Waste and recycling": {
+      "municipal solid waste generated annually": {
+        "text": "5,477,424 tons (2014 est.)"
+      },
+      "municipal solid waste recycled annually": {
+        "text": "1,040,711 tons (2014 est.)"
+      },
+      "percent of municipal solid waste recycled": {
+        "text": "19% (2014 est.)"
       }
     }
   },
@@ -394,7 +473,7 @@
       "daylight saving time": {
         "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
       },
-      "note": "<br><br><strong>etymology:</strong> Athens is the oldest European capital city; according to tradition, the city is named after Athena, the Greek goddess of wisdom; in actuality, the appellation probably derives from a lost name in a pre-Hellenic language"
+      "note": "<strong>etymology:</strong> Athens is the oldest European capital city; according to tradition, the city is named after Athena, the Greek goddess of wisdom; in actuality, the appellation probably derives from a lost name in a pre-Hellenic language"
     },
     "Administrative divisions": {
       "text": "13 regions (perifereies, singular - perifereia) and 1 autonomous monastic state* (aftonomi monastiki politeia); Agion Oros* (Mount Athos), Anatoliki Makedonia kai Thraki (East Macedonia and Thrace), Attiki (Attica), Dytiki Ellada (West Greece), Dytiki Makedonia (West Macedonia), Ionia Nisia (Ionian Islands), Ipeiros (Epirus), Kentriki Makedonia (Central Macedonia), Kriti (Crete), Notio Aigaio (South Aegean), Peloponnisos (Peloponnese), Sterea Ellada (Central Greece), Thessalia (Thessaly), Voreio Aigaio (North Aegean)"
@@ -410,7 +489,7 @@
         "text": "many previous; latest entered into force 11 June 1975"
       },
       "amendments": {
-        "text": "proposed by at least 50 members of Parliament and agreed by three-fifths majority vote in two separate ballots at least 30 days apart; passage requires absolute majority vote by the next elected Parliament; entry into force finalized through a \"special parliamentary resolution\"; articles on human rights and freedoms and the form of government cannot be amended; amended 1986, 2001, 2008"
+        "text": "proposed by at least 50 members of Parliament and agreed by three-fifths majority vote in two separate ballots at least 30 days apart; passage requires absolute majority vote by the next elected Parliament; entry into force finalized through a \"special parliamentary resolution\"; articles on human rights and freedoms and the form of government cannot be amended; amended 1986, 2001, 2008, 2019"
       }
     },
     "Legal system": {
@@ -522,8 +601,8 @@
       }
     },
     "Flag description": {
-      "text": "nine equal horizontal stripes of blue alternating with white; a blue square bearing a white cross appears in the upper hoist-side corner; the cross symbolizes Greek Orthodoxy, the established religion of the country; there is no agreed upon meaning for the nine stripes or for the colors",
-      "note": "<p><strong>note:</strong> Greek legislation states that the flag colors are cyan and white, but cyan can mean \"blue\" in Greek, so the exact shade of blue has never been set and has varied from a light to a dark blue over time; in general, the hue of blue normally encountered is a form of azure</p>"
+      "text": "nine equal horizontal stripes of blue alternating with white; a blue square bearing a white cross appears in the upper hoist-side corner; the cross symbolizes Greek Orthodoxy, the established religion of the country; there is no agreed upon meaning for the nine stripes or for the colors<br><br><strong>note:</strong> Greek legislation states that the flag colors are cyan and white, but cyan can mean \"blue\" in Greek, so the exact shade of blue has never been set and has varied from a light to a dark blue over time; in general, the hue of blue normally encountered is a form of azure",
+      "note": "<strong>note:</strong> Greek legislation states that the flag colors are cyan and white, but cyan can mean \"blue\" in Greek, so the exact shade of blue has never been set and has varied from a light to a dark blue over time; in general, the hue of blue normally encountered is a form of azure"
     },
     "National symbol(s)": {
       "text": "Greek cross (white cross on blue field, arms equal length); national colors: blue, white"
@@ -535,7 +614,7 @@
       "lyrics/music": {
         "text": "Dionysios SOLOMOS/Nikolaos MANTZAROS"
       },
-      "note": "<p><strong>note:</strong> adopted 1864; the anthem is based on a 158-stanza poem by the same name, which was inspired by the Greek Revolution of 1821 against the Ottomans (only the first two stanzas are used); Cyprus also uses \"Hymn to Liberty\" as its anthem</p>"
+      "note": "<strong>note:</strong> adopted 1864; the anthem is based on a 158-stanza poem by the same name, which was inspired by the Greek Revolution of 1821 against the Ottomans (only the first two stanzas are used); Cyprus also uses \"Hymn to Liberty\" as its anthem"
     }
   },
   "Economy": {
@@ -585,7 +664,7 @@
       "Real GDP (purchasing power parity) 2017": {
         "text": "$307.521 billion (2017 est.)"
       },
-      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
+      "note": "<strong>note:</strong> data are in 2010 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$209.79 billion (2019 est.)"
@@ -600,7 +679,7 @@
       "Real GDP per capita 2017": {
         "text": "$28,594 (2017 est.)"
       },
-      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
+      "note": "<strong>note:</strong> data are in 2010 dollars"
     },
     "Gross national saving": {
       "Gross national saving 2019": {
@@ -645,8 +724,17 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "Overall Ease of Doing Business score 2020": {
+      "Overall score": {
         "text": "68.4 (2020)"
+      },
+      "Starting a Business score": {
+        "text": "96 (2020)"
+      },
+      "Trading score": {
+        "text": "93.7 (2020)"
+      },
+      "Enforcement score": {
+        "text": "48.1 (2020)"
       }
     },
     "Agricultural products": {
@@ -681,7 +769,7 @@
       }
     },
     "Population below poverty line": {
-      "text": "36% (2014 est.)"
+      "text": "17.9% (2018 est.)"
     },
     "Gini Index coefficient - distribution of family income": {
       "Gini Index coefficient - distribution of family income 2017": {
@@ -744,10 +832,10 @@
       }
     },
     "Exports - partners": {
-      "text": "Italy 10.6%, Germany 7.1%, Turkey 6.8%, Cyprus 6.5%, Bulgaria 4.9%, Lebanon 4.3% (2017)"
+      "text": "Italy 10%, Germany 7%, Turkey 5%, Cyprus 5%, Bulgaria 5% (2019)"
     },
     "Exports - commodities": {
-      "text": "food and beverages, manufactured goods, petroleum products, chemicals, textiles"
+      "text": "refined petroleum, packaged medicines, aluminum plating, computers, cotton (2019)"
     },
     "Imports": {
       "Imports 2019": {
@@ -761,10 +849,10 @@
       }
     },
     "Imports - partners": {
-      "text": "Germany 10.4%, Italy 8.2%, Russia 6.8%, Iraq 6.3%, South Korea 6.1%, China 5.4%, Netherlands 5.3%, France 4.3% (2017)"
+      "text": "Germany 11%, China 9%, Italy 8%, Iraq 7%, Russia 6%, Netherlands 5% (2019)"
     },
     "Imports - commodities": {
-      "text": "machinery, transport equipment, fuels, chemicals"
+      "text": "crude petroleum, refined petroleum, packaged medicines, cars, ships (2019)"
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 31 December 2017": {
@@ -874,9 +962,6 @@
     },
     "Natural gas - proved reserves": {
       "text": "991.1 million cu m (1 January 2018 est.)"
-    },
-    "Carbon dioxide emissions from consumption of energy": {
-      "text": "69.37 million Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -906,7 +991,7 @@
       "international": {
         "text": "country code - 30; landing points for the SEA-ME-WE-3, Adria-1, Italy-Greece 1, OTEGLOBE, MedNautilus Submarine System, Aphrodite 2, AAE-1&nbsp;and Silphium optical telecommunications submarine cable that provides links to Europe, the Middle East, Africa, Southeast Asia, Asia and Australia;&nbsp; tropospheric scatter; satellite earth stations - 4 (2 Intelsat - 1 Atlantic Ocean and 1 Indian Ocean, 1 Eutelsat, and 1 Inmarsat - Indian Ocean region) (2019)"
       },
-      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "broadcast media dominated by the private sector; roughly 150 private TV channels, about 10 of which broadcast nationwide; 1 government-owned terrestrial TV channel with national coverage; 3 privately owned satellite channels; multi-channel satellite and cable TV services available; upwards of 1,500 radio stations, all of them privately owned; government-owned broadcaster has 2 national radio stations"
@@ -947,7 +1032,7 @@
       }
     },
     "Civil aircraft registration country code prefix": {
-      "text": "SX (2016)"
+      "text": "SX"
     },
     "Airports": {
       "total": {
@@ -1001,7 +1086,7 @@
       "narrow gauge": {
         "text": "961 km 1.000-m gauge (2014)"
       },
-      "note": "<br><br>22 0.750-m gauge"
+      "note": "22 0.750-m gauge"
     },
     "Roadways": {
       "total": {
@@ -1040,19 +1125,19 @@
     },
     "Military expenditures": {
       "Military Expenditures 2020": {
-        "text": "2.58% of GDP (2020 est.)"
+        "text": "2.68% of GDP (2020 est.)"
       },
       "Military Expenditures 2019": {
-        "text": "2.31% of GDP (2019)"
+        "text": "2.36% of GDP (2019)"
       },
       "Military Expenditures 2018": {
-        "text": "2.48% of GDP (2018)"
+        "text": "2.54% of GDP (2018)"
       },
       "Military Expenditures 2017": {
-        "text": "2.34% of GDP (2017)"
+        "text": "2.38% of GDP (2017)"
       },
       "Military Expenditures 2016": {
-        "text": "2.38% of GDP (2016)"
+        "text": "2.4% of GDP (2016)"
       }
     },
     "Military and security service personnel strengths": {
@@ -1062,16 +1147,16 @@
       "text": "the inventory of the Hellenic Armed Forces consists mostly of a mix of imported weapons from Europe and the US, as well as a limited number of domestically produced systems, particularly naval vessels; Germany is the leading supplier of weapons systems to Greece since 2010, followed by France and the US; Greece's defense industry is capable of producing naval vessels and associated subsystems (2020)"
     },
     "Military deployments": {
-      "text": "est. 1,000 Cyprus; 110 Kosovo (NATO); 140 Lebanon (UNIFIL) (2020)"
+      "text": "approximately 1,000 Cyprus; 110 Kosovo (NATO); 150 Lebanon (UNIFIL) (Jan 2021)"
     },
     "Military service age and obligation": {
-      "text": "19-45 years of age for compulsory military service; during wartime the law allows for recruitment beginning January of the year of inductee's 18th birthday, thus including 17 year olds; 18 years of age for volunteers; conscript service obligation is 1 year for the Army and 9 months for the Air Force and Navy; women are eligible for voluntary military service (2014)"
+      "text": "19-45 years of age for compulsory military service; during wartime the law allows for recruitment beginning January of the year of inductee's 18th birthday, thus including 17 year olds; 18 years of age for volunteers; conscript service obligation is 1 year for the Army and 9 months for the Air Force and Navy; women are eligible for voluntary military service (2019)"
     }
   },
   "Terrorism": {
     "Terrorist group(s)": {
-      "text": "Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle (2019)",
-      "note": "<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in <a title=\"Appendix-T\" href=\"../appendix/appendix-t.html\">Appendix-T</a>"
+      "text": "Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle (2019)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in <a title=\"Appendix-T\" href=\"../appendix/appendix-t.html\">Appendix-T</a>",
+      "note": "<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in <a title=\"Appendix-T\" href=\"../appendix/appendix-t.html\">Appendix-T</a>"
     }
   },
   "Transnational Issues": {
@@ -1085,7 +1170,7 @@
       "stateless persons": {
         "text": "4,734 (2019)"
       },
-      "note": "<p><strong>note:</strong> 1,206,071 estimated refugee and migrant arrivals (January 2015-February 2021); as of the end of December 2019, an estimated 112,300 migrants and refugees were stranded in Greece since 2015-16</p>"
+      "note": "<strong>note:</strong> 1,206,862 estimated refugee and migrant arrivals (January 2015-May 2021); as of the end of December 2020, an estimated 119,700 migrants and refugees were stranded in Greece since 2015-16"
     },
     "Illicit drugs": {
       "text": "a gateway to Europe for traffickers smuggling cannabis and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime"

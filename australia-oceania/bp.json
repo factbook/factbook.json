@@ -46,7 +46,7 @@
       "continental shelf": {
         "text": "200 nm"
       },
-      "note": "<br><br>measured from claimed archipelagic baselines"
+      "note": "measured from claimed archipelagic baselines"
     },
     "Climate": {
       "text": "tropical monsoon; few temperature and weather extremes"
@@ -55,11 +55,11 @@
       "text": "mostly rugged mountains with some low coral atolls"
     },
     "Elevation": {
-      "lowest point": {
-        "text": "Pacific Ocean 0 m"
-      },
       "highest point": {
         "text": "Mount Popomanaseu 2,335 m"
+      },
+      "lowest point": {
+        "text": "Pacific Ocean 0 m"
       }
     },
     "Natural resources": {
@@ -93,17 +93,6 @@
     },
     "Natural hazards": {
       "text": "<p>tropical cyclones, but rarely destructive; geologically active region with frequent earthquakes, tremors, and volcanic activity; tsunamis</p><p><strong>volcanism:</strong> Tinakula (851 m) has frequent eruption activity, while an eruption of Savo (485 m) could affect the capital Honiara on nearby Guadalcanal</p>"
-    },
-    "Environment - current issues": {
-      "text": "deforestation; soil erosion; many of the surrounding coral reefs are dead or dying; effects of climate change and rising sea levels"
-    },
-    "Environment - international agreements": {
-      "party to": {
-        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Environmental Modification, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Whaling"
-      },
-      "signed, but not ratified": {
-        "text": "none of the selected agreements"
-      }
     },
     "Geography - note": {
       "text": "strategic location on sea routes between the South Pacific Ocean, the Solomon Sea, and the Coral Sea"
@@ -189,10 +178,10 @@
     },
     "Urbanization": {
       "urban population": {
-        "text": "24.7% of total population (2020)"
+        "text": "25.1% of total population (2021)"
       },
       "rate of urbanization": {
-        "text": "3.91% annual rate of change (2015-20 est.)"
+        "text": "3.57% annual rate of change (2020-25 est.)"
       }
     },
     "Major urban areas - population": {
@@ -222,8 +211,8 @@
       }
     },
     "Mother's mean age at first birth": {
-      "text": "22.6 years (2015 est.)",
-      "note": "<p><strong>note:</strong> median age at first birth among women 25-29</p>"
+      "text": "22.6 years (2015 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29",
+      "note": "<strong>note:</strong> median age at first birth among women 25-29"
     },
     "Maternal mortality rate": {
       "text": "104 deaths/100,000 live births (2017 est.)"
@@ -346,6 +335,90 @@
       }
     }
   },
+  "Environment": {
+    "Environment - current issues": {
+      "text": "deforestation; soil erosion; many of the surrounding coral reefs are dead or dying; effects of climate change and rising sea levels"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Law of the Sea, Marine Dumping-London Convention, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "Comprehensive Nuclear Test Ban"
+      }
+    },
+    "Air pollutants": {
+      "particulate matter emissions": {
+        "text": "10.67 micrograms per cubic meter (2016 est.)"
+      },
+      "carbon dioxide emissions": {
+        "text": "0.17 megatons (2016 est.)"
+      },
+      "methane emissions": {
+        "text": "0.43 megatons (2020 est.)"
+      }
+    },
+    "Total renewable water resources": {
+      "text": "44.7 billion cubic meters (2017 est.)"
+    },
+    "Climate": {
+      "text": "tropical monsoon; few temperature and weather extremes"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "3.9% (2018 est.)"
+      },
+      "agricultural land: arable land": {
+        "text": "arable land: 0.7% (2018 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 2.9% (2018 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 0.3% (2018 est.)"
+      },
+      "forest": {
+        "text": "78.9% (2018 est.)"
+      },
+      "other": {
+        "text": "17.2% (2018 est.)"
+      }
+    },
+    "Revenue from forest resources": {
+      "forest revenues": {
+        "text": "20.27% of GDP (2018 est.)"
+      }
+    },
+    "Revenue from coal": {
+      "coal revenues": {
+        "text": "0% of GDP (2018 est.)"
+      }
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "25.1% of total population (2021)"
+      },
+      "rate of urbanization": {
+        "text": "3.57% annual rate of change (2020-25 est.)"
+      }
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "high (2020)"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial diarrhea"
+      },
+      "vectorborne diseases": {
+        "text": "malaria"
+      }
+    },
+    "Waste and recycling": {
+      "municipal solid waste generated annually": {
+        "text": "179,972 tons (2013 est.)"
+      }
+    }
+  },
   "Government": {
     "Country name": {
       "conventional long form": {
@@ -380,7 +453,7 @@
       "time difference": {
         "text": "UTC+11 (16 hours ahead of Washington, DC, during Standard Time)"
       },
-      "note": "<br><br><strong>etymology:</strong> the name derives from \"nagho ni ara,\" which in one of the Guadalcanal languages roughly translates as \"facing the eastern wind\""
+      "note": "<strong>etymology:</strong> the name derives from \"nagho ni ara,\" which in one of the Guadalcanal languages roughly translates as \"facing the eastern wind\""
     },
     "Administrative divisions": {
       "text": "9 provinces and 1 city*; Central, Choiseul, Guadalcanal, Honiara*, Isabel, Makira and Ulawa, Malaita, Rennell and Bellona, Temotu, Western"
@@ -396,7 +469,7 @@
         "text": "adopted 31 May 1978, effective 7 July 1978; note - in late 2017, provincial leaders agreed to adopt a new federal constitution, with passage&nbsp;expected in 2018, but it has been postponed indefinitely"
       },
       "amendments": {
-        "text": "proposed by the National Parliament; passage of constitutional sections, including those on fundamental rights and freedoms, the legal system, Parliament, alteration of the constitution and the ombudsman, requires three-fourths majority vote by Parliament and assent of the governor general; passage of other amendments requires two-thirds majority vote and assent of the governor general; amended several times, last in 2014"
+        "text": "proposed by the National Parliament; passage of constitutional sections, including those on fundamental rights and freedoms, the legal system, Parliament, alteration of the constitution and the ombudsman, requires three-fourths majority vote by Parliament and assent of the governor general; passage of other amendments requires two-thirds majority vote and assent of the governor general; amended several times, last in 2018; note - a new constitution was drafted in mid-2009 and the latest version drafted in 2013"
       }
     },
     "Legal system": {
@@ -462,8 +535,8 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Democratic Alliance Party or DAP [Steve ABANA]<br />Kadere Party of Solomon Islands or KPSI [Peter BOYERS]<br />People's Alliance Party or PAP [Nathaniel WAENA]<br />Solomon Islands People First Party or SIPFP [Dr. Jimmie RODGERS]<br />Solomon Islands Party for Rural Advancement or SIPRA [Manasseh MAELANGA]<br />United Democratic Party or UDP [Sir Thomas Ko CHAN]",
-      "note": "<p><strong>note:</strong> in general, Solomon Islands politics is characterized by fluid coalitions</p>"
+      "text": "Democratic Alliance Party or DAP [Steve ABANA]<br />Kadere Party of Solomon Islands or KPSI [Peter BOYERS]<br />People's Alliance Party or PAP [Nathaniel WAENA]<br />Solomon Islands People First Party or SIPFP [Dr. Jimmie RODGERS]<br />Solomon Islands Party for Rural Advancement or SIPRA [Manasseh MAELANGA]<br />United Democratic Party or UDP [Sir Thomas Ko CHAN]<br><br><strong>note:</strong> in general, Solomon Islands politics is characterized by fluid coalitions",
+      "note": "<strong>note:</strong> in general, Solomon Islands politics is characterized by fluid coalitions"
     },
     "International organization participation": {
       "text": "ACP, ADB, AOSIS, C, EITI (candidate country), ESCAP, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IOC, ITU, MIGA, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UPU, WFTU, WHO, WMO, WTO"
@@ -500,7 +573,7 @@
       "lyrics/music": {
         "text": "Panapasa BALEKANA and Matila BALEKANA/Panapasa BALEKANA"
       },
-      "note": "<p><strong>note:</strong> adopted 1978</p>"
+      "note": "<strong>note:</strong> adopted 1978"
     }
   },
   "Economy": {
@@ -541,7 +614,7 @@
       "Real GDP (purchasing power parity) 2017": {
         "text": "$1.695 billion (2017 est.)"
       },
-      "note": "<p><strong>note:</strong> data are in 2017 dollars</p>"
+      "note": "<strong>note:</strong> data are in 2017 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$1.298 billion (2017 est.)"
@@ -556,7 +629,7 @@
       "Real GDP per capita 2017": {
         "text": "$2,666 (2017 est.)"
       },
-      "note": "<p><strong>note:</strong> data are in 2017 dollars</p>"
+      "note": "<strong>note:</strong> data are in 2017 dollars"
     },
     "Gross national saving": {
       "Gross national saving 2017": {
@@ -601,8 +674,17 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "Overall Ease of Doing Business score 2020": {
+      "Overall score": {
+        "text": "55.3 (2020)"
+      },
+      "Starting a Business score": {
+        "text": "85.6 (2020)"
+      },
+      "Trading score": {
         "text": "53.4 (2020)"
+      },
+      "Enforcement score": {
+        "text": "43.5 (2020)"
       }
     },
     "Agricultural products": {
@@ -632,7 +714,7 @@
       "text": "<p>NA</p>"
     },
     "Population below poverty line": {
-      "text": "NA"
+      "text": "12.7% (2012 est.)"
     },
     "Gini Index coefficient - distribution of family income": {
       "Gini Index coefficient - distribution of family income 2013": {
@@ -689,10 +771,10 @@
       }
     },
     "Exports - partners": {
-      "text": "China 64.5%, Italy 6.2%, Switzerland 4.6%, Philippines 4.4% (2017)"
+      "text": "China 65%, Italy 9%, India 6% (2019)"
     },
     "Exports - commodities": {
-      "text": "timber, fish, copra, palm oil, cocoa, coconut oil"
+      "text": "lumber, fish, aluminum, palm oil, cocoa beans (2019)"
     },
     "Imports": {
       "Imports 2017": {
@@ -703,10 +785,10 @@
       }
     },
     "Imports - partners": {
-      "text": "China 21.9%, Australia 19.6%, Singapore 10.7%, Vietnam 7.5%, NZ 6.2%, Papua New Guinea 5%, South Korea 4.7% (2017)"
+      "text": "China 24%, Australia 13%, South Korea 12%, Singapore 12%, Malaysia 10% (2019)"
     },
     "Imports - commodities": {
-      "text": "food, plant and equipment, manufactured goods, fuels, chemicals"
+      "text": "refined petroleum, fish, insulated wiring, broadcasting equipment, excavation machinery (2019)"
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 31 December 2017": {
@@ -822,9 +904,6 @@
     },
     "Natural gas - proved reserves": {
       "text": "0 cu m (1 January 2014 est.)"
-    },
-    "Carbon dioxide emissions from consumption of energy": {
-      "text": "233,500 Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -854,7 +933,7 @@
       "international": {
         "text": "country code - 677; landing points for the CSCS and ICNS2 submarine cables providing connectivity from Solomon Islands, to PNG, Vanuatu and Australia; satellite earth station - 1 Intelsat (Pacific Ocean) (2019)"
       },
-      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "Solomon Islands Broadcasting Corporation (SIBC) does not broadcast television; multi-channel pay-TV is available; SIBC operates 2 national radio stations and 2 provincial stations; there are 2 local commercial radio stations; Radio Australia is available via satellite feed (since 2009) (2019)"
@@ -895,7 +974,7 @@
       }
     },
     "Civil aircraft registration country code prefix": {
-      "text": "H4 (2016)"
+      "text": "H4"
     },
     "Airports": {
       "total": {
@@ -937,7 +1016,7 @@
       "unpaved": {
         "text": "1,356 km (2011)"
       },
-      "note": "<p><strong>note:</strong> includes 920 km of private plantation roads</p>"
+      "note": "<strong>note:</strong> includes 920 km of private plantation roads"
     },
     "Merchant marine": {
       "total": {
@@ -949,13 +1028,16 @@
     },
     "Ports and terminals": {
       "major seaport(s)": {
-        "text": "Honiara, Malloco Bay, Viru Harbor, Tulaghi"
+        "text": "Honiara, Malloco Bay, Viru Harbor, Tulagi"
       }
     }
   },
   "Military and Security": {
     "Military and security forces": {
-      "text": "no regular military forces; Royal Solomon Islands Police Force (2019)"
+      "text": "no regular military forces; Royal Solomon Islands Police Force"
+    },
+    "Military equipment inventories and acquisitions": {
+      "text": "the maritime branch of the Royal Solomon Islands Police Force operates patrol boats provided by Australia"
     }
   },
   "Transnational Issues": {

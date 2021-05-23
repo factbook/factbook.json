@@ -24,7 +24,7 @@
       "water": {
         "text": "660 sq km"
       },
-      "note": "<p><strong>note:</strong> includes the island of Bornholm in the Baltic Sea and the rest of metropolitan Denmark (the Jutland Peninsula, and the major islands of Sjaelland and Fyn), but excludes the Faroe Islands and Greenland</p>"
+      "note": "<strong>note:</strong> includes the island of Bornholm in the Baltic Sea and the rest of metropolitan Denmark (the Jutland Peninsula, and the major islands of Sjaelland and Fyn), but excludes the Faroe Islands and Greenland"
     },
     "Area - comparative": {
       "text": "slightly less than twice the size of Massachusetts; about two-thirds the size of West Virginia"
@@ -61,14 +61,14 @@
       "text": "low and flat to gently rolling plains"
     },
     "Elevation": {
-      "mean elevation": {
-        "text": "34 m"
+      "highest point": {
+        "text": "Mollehoj/Ejer Bavnehoj 171 m"
       },
       "lowest point": {
         "text": "Lammefjord -7 m"
       },
-      "highest point": {
-        "text": "Mollehoj/Ejer Bavnehoj 171 m"
+      "mean elevation": {
+        "text": "34 m"
       }
     },
     "Natural resources": {
@@ -93,7 +93,7 @@
       "other": {
         "text": "23.7% (2018 est.)"
       },
-      "note": "<p><strong>note:</strong> highest percentage of arable land for any country in the world</p>"
+      "note": "<strong>note:</strong> highest percentage of arable land for any country in the world"
     },
     "Irrigated land": {
       "text": "4,350 sq km (2012)"
@@ -103,17 +103,6 @@
     },
     "Natural hazards": {
       "text": "flooding is a threat in some areas of the country (e.g., parts of Jutland, along the southern coast of the island of Lolland) that are protected from the sea by a system of dikes"
-    },
-    "Environment - current issues": {
-      "text": "air pollution, principally from vehicle and power plant emissions; nitrogen and phosphorus pollution of the North Sea; drinking and surface water becoming polluted from animal wastes and pesticides; much of country's household and industrial waste is recycled"
-    },
-    "Environment - international agreements": {
-      "party to": {
-        "text": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
-      },
-      "signed, but not ratified": {
-        "text": "none of the selected agreements"
-      }
     },
     "Geography - note": {
       "text": "composed of the Jutland Peninsula and a group of more than 400 islands (Danish Archipelago); controls Danish Straits (Skagerrak and Kattegat) linking Baltic and North Seas; about one-quarter of the population lives in greater Copenhagen"
@@ -132,12 +121,12 @@
       }
     },
     "Ethnic groups": {
-      "text": "Danish (includes Greenlandic (who are predominantly Inuit) and Faroese) 86.3%, Turkish 1.1%, other 12.6% (largest groups are Polish, Syrian, German, Iraqi, and Romanian) (2018 est.)",
-      "note": "<p><strong>note:</strong> data represent population by ancestry</p>"
+      "text": "Danish (includes Greenlandic (who are predominantly Inuit) and Faroese) 86.3%, Turkish 1.1%, other 12.6% (largest groups are Polish, Syrian, German, Iraqi, and Romanian) (2018 est.)<br><br><strong>note:</strong> data represent population by ancestry",
+      "note": "<strong>note:</strong> data represent population by ancestry"
     },
     "Languages": {
-      "text": "Danish, Faroese, Greenlandic (an Inuit dialect), German (small minority)",
-      "note": "<p><strong>note:</strong> English is the predominant second language</p>"
+      "text": "Danish, Faroese, Greenlandic (an Inuit dialect), German (small minority)<br><br><strong>note:</strong> English is the predominant second language",
+      "note": "<strong>note:</strong> English is the predominant second language"
     },
     "Religions": {
       "text": "Evangelical Lutheran (official) 74.7%, Muslim 5.5%, other/none/unspecified (denominations of less than 1% each in descending order of size include Roman Catholic, Jehovah's Witness, Serbian Orthodox Christian, Jewish, Baptist, Buddhist, Mormon, Pentecostal, and nondenominational Christian) 19.8% (2019 est.)"
@@ -201,10 +190,10 @@
     },
     "Urbanization": {
       "urban population": {
-        "text": "88.1% of total population (2020)"
+        "text": "88.2% of total population (2021)"
       },
       "rate of urbanization": {
-        "text": "0.51% annual rate of change (2015-20 est.)"
+        "text": "0.54% annual rate of change (2020-25 est.)"
       }
     },
     "Major urban areas - population": {
@@ -341,13 +330,104 @@
     },
     "Unemployment, youth ages 15-24": {
       "total": {
-        "text": "9.4%"
+        "text": "10.1%"
       },
       "male": {
-        "text": "10.5%"
+        "text": "10.4%"
       },
       "female": {
-        "text": "8.2% (2018 est.)"
+        "text": "9.7% (2019 est.)"
+      }
+    }
+  },
+  "Environment": {
+    "Environment - current issues": {
+      "text": "air pollution, principally from vehicle and power plant emissions; nitrogen and phosphorus pollution of the North Sea; drinking and surface water becoming polluted from animal wastes and pesticides; much of country's household and industrial waste is recycled"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "Antarctic-Environmental Protection"
+      }
+    },
+    "Air pollutants": {
+      "particulate matter emissions": {
+        "text": "10.12 micrograms per cubic meter (2016 est.)"
+      },
+      "carbon dioxide emissions": {
+        "text": "31.79 megatons (2016 est.)"
+      },
+      "methane emissions": {
+        "text": "6.54 megatons (2020 est.)"
+      }
+    },
+    "Total water withdrawal": {
+      "municipal": {
+        "text": "381.5 million cubic meters (2017 est.)"
+      },
+      "industrial": {
+        "text": "32.9 million cubic meters (2017 est.)"
+      },
+      "agricultural": {
+        "text": "326.7 million cubic meters (2017 est.)"
+      }
+    },
+    "Total renewable water resources": {
+      "text": "6 billion cubic meters (2017 est.)"
+    },
+    "Climate": {
+      "text": "temperate; humid and overcast; mild, windy winters and cool summers"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "63.4% (2018 est.)"
+      },
+      "agricultural land: arable land": {
+        "text": "arable land: 58.9% (2018 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 0.1% (2018 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 4.4% (2018 est.)"
+      },
+      "forest": {
+        "text": "12.9% (2018 est.)"
+      },
+      "other": {
+        "text": "23.7% (2018 est.)"
+      },
+      "note": "<strong>note:</strong> highest percentage of arable land for any country in the world"
+    },
+    "Revenue from forest resources": {
+      "forest revenues": {
+        "text": "0.02% of GDP (2018 est.)"
+      }
+    },
+    "Revenue from coal": {
+      "coal revenues": {
+        "text": "0% of GDP (2018 est.)"
+      }
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "88.2% of total population (2021)"
+      },
+      "rate of urbanization": {
+        "text": "0.54% annual rate of change (2020-25 est.)"
+      }
+    },
+    "Waste and recycling": {
+      "municipal solid waste generated annually": {
+        "text": "4.485 million tons (2015 est.)"
+      },
+      "municipal solid waste recycled annually": {
+        "text": "1,223,060 tons (2015 est.)"
+      },
+      "percent of municipal solid waste recycled": {
+        "text": "27.3% (2015 est.)"
       }
     }
   },
@@ -385,7 +465,7 @@
       "daylight saving time": {
         "text": "+1hr, begins last Sunday in March; ends last Sunday in October; note - applies to continental Denmark only, not to its North Atlantic components"
       },
-      "note": "<p><strong>etymology: </strong>name derives from the city's Danish appellation Kobenhavn, meaning \"Merchant's Harbor\" <strong><br /></strong></p>"
+      "note": "<strong>etymology: </strong>name derives from the city's Danish appellation Kobenhavn, meaning \"Merchant's Harbor\" <strong><br /></strong>"
     },
     "Administrative divisions": {
       "text": "metropolitan Denmark - 5 regions (regioner, singular - region); Hovedstaden (Capital), Midtjylland (Central Jutland), Nordjylland (North Jutland), Sjaelland (Zealand), Syddanmark (Southern Denmark)"
@@ -464,7 +544,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "The Alternative A or AP (vacant)<br />Conservative People's Party or DKF or C [Soren PAPE POULSEN]<br />Danish People's Party or DF or O [Kristian THULESEN DAHL]<br />Liberal Alliance or LA [Alex VANOPSLAGH]<br />Liberal Party (Venstre) or V [Jakob ELLEMAN-JENSEN]<br />New Right Party or D or NB [Pernille VERMUND]<br />Red-Green Alliance (Unity List) or EL [collective leadership, Pernille SKIPPER, spokesperson]<br />Social Democrats or A or SDP [Mette FREDERIKSEN]<br />Social Liberal Party or B or SLP [Sofie CARSTEN]<br />Socialist People's Party or SF [Pia OLSEN DYHR]"
+      "text": "The Alternative A or AP (Franciska ROSENKILDE)<br />Conservative People's Party or DKF or C [Soren PAPE POULSEN]<br />Danish People's Party or DF or O [Kristian THULESEN DAHL]<br />Liberal Alliance or LA [Alex VANOPSLAGH]<br />Liberal Party (Venstre) or V [Jakob ELLEMANN-JENSEN]<br />New Right Party or D or NB [Pernille VERMUND]<br />Red-Green Alliance (Unity List) or EL [collective leadership, Mai VILLADSEN, spokesperson]<br />Social Democrats or A or SDP [Mette FREDERIKSEN]<br />Social Liberal Party or B or SLP [Sofie CARSTEN NIELSEN]<br />Socialist People's Party or SF [Pia OLSEN DYHR]"
     },
     "International organization participation": {
       "text": "ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNRWA, UNTSO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC"
@@ -504,8 +584,8 @@
       }
     },
     "Flag description": {
-      "text": "red with a white cross that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side; the banner is referred to as the Dannebrog (Danish flag) and is one of the oldest national flags in the world; traditions as to the origin of the flag design vary, but the best known is a legend that the banner fell from the sky during an early-13th century battle; caught up by the Danish king before it ever touched the earth, this heavenly talisman inspired the royal army to victory; in actuality, the flag may derive from a crusade banner or ensign",
-      "note": "<p><strong>note:</strong> the shifted cross design element was subsequently adopted by the other Nordic countries of Finland, Iceland, Norway, and Sweden</p>"
+      "text": "red with a white cross that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side; the banner is referred to as the Dannebrog (Danish flag) and is one of the oldest national flags in the world; traditions as to the origin of the flag design vary, but the best known is a legend that the banner fell from the sky during an early-13th century battle; caught up by the Danish king before it ever touched the earth, this heavenly talisman inspired the royal army to victory; in actuality, the flag may derive from a crusade banner or ensign<br><br><strong>note:</strong> the shifted cross design element was subsequently adopted by the other Nordic countries of Finland, Iceland, Norway, and Sweden, as well as by the Faroe Islands",
+      "note": "<strong>note:</strong> the shifted cross design element was subsequently adopted by the other Nordic countries of Finland, Iceland, Norway, and Sweden, as well as by the Faroe Islands"
     },
     "National symbol(s)": {
       "text": "lion, mute swan; national colors: red, white"
@@ -517,7 +597,7 @@
       "lyrics/music": {
         "text": "Adam Gottlob OEHLENSCHLAGER/Hans Ernst KROYER; Johannes EWALD/unknown"
       },
-      "note": "<p><strong>note:</strong> Denmark has two national anthems with equal status; \"Der er et yndigt land,\" adopted 1844, is a national anthem, while \"Kong Christian,\" adopted 1780, serves as both a national and royal anthem; \"Kong Christian\" is also known as \"Kong Christian stod ved hojen mast\" (King Christian Stood by the Lofty Mast) and \"Kongesangen\" (The King's Anthem); within Denmark, the royal anthem is played only when royalty is present and is usually followed by the national anthem; when royalty is not present, only the national anthem is performed; outside Denmark, the royal anthem is played, unless the national anthem is requested</p>"
+      "note": "<strong>note:</strong> Denmark has two national anthems with equal status; \"Der er et yndigt land,\" adopted 1844, is a national anthem, while \"Kong Christian,\" adopted 1780, serves as both a national and royal anthem; \"Kong Christian\" is also known as \"Kong Christian stod ved hojen mast\" (King Christian Stood by the Lofty Mast) and \"Kongesangen\" (The King's Anthem); within Denmark, the royal anthem is played only when royalty is present and is usually followed by the national anthem; when royalty is not present, only the national anthem is performed; outside Denmark, the royal anthem is played, unless the national anthem is requested"
     }
   },
   "Economy": {
@@ -567,7 +647,7 @@
       "Real GDP (purchasing power parity) 2017": {
         "text": "$320.053 billion (2017 est.)"
       },
-      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
+      "note": "<strong>note:</strong> data are in 2010 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$350.037 billion (2019 est.)"
@@ -582,7 +662,7 @@
       "Real GDP per capita 2017": {
         "text": "$55,517 (2017 est.)"
       },
-      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
+      "note": "<strong>note:</strong> data are in 2010 dollars"
     },
     "Gross national saving": {
       "Gross national saving 2019": {
@@ -627,8 +707,17 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "Overall Ease of Doing Business score 2020": {
+      "Overall score": {
         "text": "85.3 (2020)"
+      },
+      "Starting a Business score": {
+        "text": "92.7 (2020)"
+      },
+      "Trading score": {
+        "text": "100 (2020)"
+      },
+      "Enforcement score": {
+        "text": "73.9 (2020)"
       }
     },
     "Agricultural products": {
@@ -663,8 +752,7 @@
       }
     },
     "Population below poverty line": {
-      "text": "13.4% (2011 est.)",
-      "note": "<p><strong>note:</strong> excludes students</p>"
+      "text": "12.5% (2018 est.)"
     },
     "Gini Index coefficient - distribution of family income": {
       "Gini Index coefficient - distribution of family income 2017": {
@@ -703,7 +791,7 @@
       "Public debt 2016": {
         "text": "37.9% of GDP (2016 est.)"
       },
-      "note": "<p><strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intra-governmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions</p>"
+      "note": "<strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intra-governmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions"
     },
     "Fiscal year": {
       "text": "calendar year"
@@ -728,10 +816,10 @@
       }
     },
     "Exports - partners": {
-      "text": "Germany 15.5%, Sweden 11.6%, UK 8.2%, US 7.5%, Norway 6%, China 4.4%, Netherlands 4.4% (2017)"
+      "text": "Germany 14%, United States 11%, Sweden 10%, United Kingdom 7%, Norway 6%, Netherlands 5%, China 5% (2019)"
     },
     "Exports - commodities": {
-      "text": "wind turbines, pharmaceuticals, machinery and instruments, meat and meat products, dairy products, fish, furniture and design"
+      "text": "packaged medicines, electric generators, pork, refined petroleum, medical cultures/vaccines (2019)"
     },
     "Imports": {
       "Imports 2019": {
@@ -745,10 +833,10 @@
       }
     },
     "Imports - partners": {
-      "text": "Germany 21.3%, Sweden 11.9%, Netherlands 7.8%, China 7.1%, Norway 6.3%, Poland 4% (2017)"
+      "text": "Germany 21%, Sweden 11%, Netherlands 8%, China 7% (2019)"
     },
     "Imports - commodities": {
-      "text": "machinery and equipment, raw materials and semimanufactures for industry, chemicals, grain and foodstuffs, consumer goods"
+      "text": "cars, refined petroleum, packaged medicines, crude petroleum, broadcasting equipment (2019)"
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 31 December 2017": {
@@ -858,9 +946,6 @@
     },
     "Natural gas - proved reserves": {
       "text": "12.86 billion cu m (1 January 2018 est.)"
-    },
-    "Carbon dioxide emissions from consumption of energy": {
-      "text": "37.45 million Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -890,7 +975,7 @@
       "international": {
         "text": "country code - 45; landing points for the NSC, COBRAcable, CANTAT-3, DANICE, Havfrue/AEC-2, TAT-14m Denmark-Norway-5 &amp;&nbsp;6, Skagenfiber West &amp;&nbsp;East, GC1,&nbsp;GC2, GC3, GC-KPN, Kattegat 1 &amp;&nbsp;2 &amp;&nbsp;3, Energinet Lyngsa-Laeso,&nbsp;Energinet Laeso-Varberg, Fehmarn Balt, Baltica, German-Denmark 2 &amp; 3, Ronne-Rodvig, Denmark-Sweden 15 &amp; 16 &amp; 17 &amp; 18, IP-Only Denmark-Sweden, Scandinavian&nbsp;South, Scandinavian Ring North, Danica North, 34&nbsp;series of fiber-optic submarine cables link Denmark with Canada, Faroe Islands, Germany, Iceland, Netherlands, Norway, Poland, Russia, Sweden, US and UK; satellite earth stations - 18 (6 Intelsat, 10 Eutelsat, 1 Orion, 1 Inmarsat (Blaavand-Atlantic-East)); note - the Nordic countries (Denmark, Finland, Iceland, Norway, and Sweden) share the Danish earth station and the Eik, Norway, station for worldwide Inmarsat access (2019)"
       },
-      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "strong public-sector TV presence with state-owned Danmarks Radio (DR) operating 6 channels and publicly owned TV2 operating roughly a half-dozen channels; broadcasts of privately owned stations are available via satellite and cable feed; DR operates 4 nationwide FM radio stations, 10 digital audio broadcasting stations, and 14 web-based radio stations; 140 commercial and 187 community (non-commercial) radio stations (2019)"
@@ -931,7 +1016,7 @@
       }
     },
     "Civil aircraft registration country code prefix": {
-      "text": "OY (2016)"
+      "text": "OY"
     },
     "Airports": {
       "total": {
@@ -1012,42 +1097,42 @@
       "dry bulk cargo port(s)": {
         "text": "Ensted (coal)"
       },
-      "note": "<br><br>North Sea - Esbjerg,"
+      "note": "North Sea - Esbjerg,"
     }
   },
   "Military and Security": {
     "Military and security forces": {
-      "text": "Royal Danish Army, Royal Danish Navy, Royal Danish Air Force, Danish Home Guard (Reserves) (2021)",
-      "note": "<br><br>note: the Danish military also maintains a Joint Arctic Command"
+      "text": "Royal Danish Army, Royal Danish Navy, Royal Danish Air Force, Danish Home Guard (Reserves) (2021)<br><br>note: the Danish military also maintains a Joint Arctic Command",
+      "note": "note: the Danish military also maintains a Joint Arctic Command"
     },
     "Military expenditures": {
       "Military Expenditures 2020": {
-        "text": "1.47% of GDP (2020 est.)"
+        "text": "1.43% of GDP (2020 est.)"
       },
       "Military Expenditures 2019": {
-        "text": "1.31% of GDP (2019)"
+        "text": "1.3% of GDP (2019)"
       },
       "Military Expenditures 2018": {
-        "text": "1.3% of GDP (2018)"
+        "text": "1.28% of GDP (2018)"
       },
       "Military Expenditures 2017": {
-        "text": "1.15% of GDP (2017)"
+        "text": "1.14% of GDP (2017)"
       },
       "Military Expenditures 2016": {
         "text": "1.15% of GDP (2016)"
       }
     },
     "Military and security service personnel strengths": {
-      "text": "the Danish military has approximately 18,000 active duty personnel (8,500 Army; 3,500 Navy; 3,500 Air Force; 2,500 joint) (2020 est.)"
+      "text": "the Danish military has approximately 18,000 active duty personnel (8,500 Army; 3,500 Navy; 3,500 Air Force; 2,500 joint/other) (2020)"
     },
     "Military equipment inventories and acquisitions": {
-      "text": "the Danish military inventory is comprised of a mix of modern European, US, and domestically-produced equipment; the US is the largest supplier of military equipment to Denmark since 2010, followed by Germany and the Netherlands; the Danish defense industry is mainly active in the production of naval vessels, defense electronics, and subcomponents of larger weapons systems, such as the US F-35 fighter aircraft (2019 est.)"
+      "text": "the Danish military inventory is comprised of a mix of modern European, US, and domestically-produced equipment; the US is the largest supplier of military equipment to Denmark since 2010, followed by Germany and the Netherlands; the Danish defense industry is active in the production of naval vessels, defense electronics, and subcomponents of larger weapons systems, such as the US F-35 fighter aircraft (2020)"
     },
     "Military deployments": {
-      "text": "110 Afghanistan (NATO); 130 Middle East/Iraq (NATO/Operation Inherent Resolve) (2020)"
+      "text": "130 Afghanistan (NATO); 140 Middle East/Iraq (NATO/Operation Inherent Resolve) (2021)"
     },
     "Military service age and obligation": {
-      "text": "18 years of age for compulsory and voluntary military service; conscripts serve an initial training period that varies from 4 to 12 months depending on specialization; former conscripts are assigned to mobilization units; women eligible to volunteer for military service; in addition to full time employment, the Danish Military offers reserve contracts in all three branches (2016)"
+      "text": "18 years of age for compulsory and voluntary military service; conscripts serve an initial training period that varies from 4 to 12 months depending on specialization; former conscripts are assigned to mobilization units; women eligible to volunteer for military service; in addition to full time employment, the Danish Military offers reserve contracts in all three branches (2019)"
     },
     "Military - note": {
       "text": "in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020"
@@ -1055,8 +1140,8 @@
   },
   "Terrorism": {
     "Terrorist group(s)": {
-      "text": "Islamic State of Iraq and ash-Sham; Islamic Revolutionary Guard Corps/Qods Force (2019)",
-      "note": "<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in <a title=\"Appendix-T\" href=\"../appendix/appendix-t.html\">Appendix-T</a>"
+      "text": "Islamic State of Iraq and ash-Sham; Islamic Revolutionary Guard Corps/Qods Force (2021)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in <a title=\"Appendix-T\" href=\"../appendix/appendix-t.html\">Appendix-T</a>",
+      "note": "<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in <a title=\"Appendix-T\" href=\"../appendix/appendix-t.html\">Appendix-T</a>"
     }
   },
   "Transnational Issues": {

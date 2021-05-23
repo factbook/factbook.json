@@ -35,11 +35,11 @@
       "border countries": {
         "text": "US 8893 km (includes 2477 km with Alaska)"
       },
-      "note": "<p><strong>note:</strong> Canada is the world's largest country that borders only one country</p>"
+      "note": "<strong>note:</strong> Canada is the world's largest country that borders only one country"
     },
     "Coastline": {
-      "text": "202,080 km",
-      "note": "<p><strong>note:</strong> the Canadian Arctic Archipelago - consisting of 36,563 islands, several of them some of the world's largest - contributes to Canada easily having the longest coastline in the world</p>"
+      "text": "202,080 km<br><br><strong>note:</strong> the Canadian Arctic Archipelago - consisting of 36,563 islands, several of them some of the world's largest - contributes to Canada easily having the longest coastline in the world",
+      "note": "<strong>note:</strong> the Canadian Arctic Archipelago - consisting of 36,563 islands, several of them some of the world's largest - contributes to Canada easily having the longest coastline in the world"
     },
     "Maritime claims": {
       "territorial sea": {
@@ -62,18 +62,18 @@
       "text": "mostly plains with mountains in west, lowlands in southeast"
     },
     "Elevation": {
-      "mean elevation": {
-        "text": "487 m"
+      "highest point": {
+        "text": "Mount Logan 5,959 m"
       },
       "lowest point": {
         "text": "Atlantic/Pacific/Arctic Oceans 0 m"
       },
-      "highest point": {
-        "text": "Mount Logan 5,959 m"
+      "mean elevation": {
+        "text": "487 m"
       }
     },
     "Natural resources": {
-      "text": "bauxite, iron ore, nickel, zinc, copper, gold, lead, rare earth elements, molybdenum, potash, diamonds, silver, fish, timber, wildlife, coal, petroleum, natural gas, hydropower"
+      "text": "bauxite, iron ore, nickel, zinc, copper, gold, lead, uranium, rare earth elements, molybdenum, potash, diamonds, silver, fish, timber, wildlife, coal, petroleum, natural gas, hydropower"
     },
     "Land use": {
       "agricultural land": {
@@ -104,17 +104,6 @@
     "Natural hazards": {
       "text": "<p>continuous permafrost in north is a serious obstacle to development; cyclonic storms form east of the Rocky Mountains, a result of the mixing of air masses from the Arctic, Pacific, and North American interior, and produce most of the country's rain and snow east of the mountains</p><p><strong>volcanism:</strong> the vast majority of volcanoes in Western Canada's Coast Mountains remain dormant</p>"
     },
-    "Environment - current issues": {
-      "text": "metal smelting, coal-burning utilities, and vehicle emissions impacting agricultural and forest productivity; air pollution and resulting acid rain severely affecting lakes and damaging forests; ocean waters becoming contaminated due to agricultural, industrial, mining, and forestry activities"
-    },
-    "Environment - international agreements": {
-      "party to": {
-        "text": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulfur 94, Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands"
-      },
-      "signed, but not ratified": {
-        "text": "Air Pollution-Volatile Organic Compounds, Marine Life Conservation"
-      }
-    },
     "Geography - note": {
       "text": "<p><strong>note 1:</strong> second-largest country in world (after Russia) and largest in the Americas; strategic location between Russia and US via north polar route; approximately 90% of the population is concentrated within 160 km (100 mi) of the US border</p> <p><strong>note 2:</strong> Canada has more fresh water than any other country and almost 9% of Canadian territory is water; Canada has at least 2 million and possibly over 3 million lakes - that is more than all other countries combined</p>"
     }
@@ -132,8 +121,8 @@
       }
     },
     "Ethnic groups": {
-      "text": "Canadian 32.3%, English 18.3%, Scottish 13.9%, French 13.6%, Irish 13.4%, German 9.6%, Chinese 5.1%, Italian 4.6%, North American Indian 4.4%, East Indian 4%, other 51.6% (2016 est.)",
-      "note": "<p><strong>note:</strong> percentages add up to more than 100% because respondents were able to identify more than one ethnic origin</p>"
+      "text": "Canadian 32.3%, English 18.3%, Scottish 13.9%, French 13.6%, Irish 13.4%, German 9.6%, Chinese 5.1%, Italian 4.6%, North American Indian 4.4%, East Indian 4%, other 51.6% (2016 est.)<br><br><strong>note:</strong> percentages add up to more than 100% because respondents were able to identify more than one ethnic origin",
+      "note": "<strong>note:</strong> percentages add up to more than 100% because respondents were able to identify more than one ethnic origin"
     },
     "Languages": {
       "text": "English (official) 58.7%, French (official) 22%, Punjabi 1.4%, Italian 1.3%, Spanish 1.3%, German 1.3%, Cantonese 1.2%, Tagalog 1.2%, Arabic 1.1%, other 10.5% (2011 est.)"
@@ -200,10 +189,10 @@
     },
     "Urbanization": {
       "urban population": {
-        "text": "81.6% of total population (2020)"
+        "text": "81.7% of total population (2021)"
       },
       "rate of urbanization": {
-        "text": "0.97% annual rate of change (2015-20 est.)"
+        "text": "0.95% annual rate of change (2020-25 est.)"
       }
     },
     "Major urban areas - population": {
@@ -340,13 +329,103 @@
     },
     "Unemployment, youth ages 15-24": {
       "total": {
-        "text": "11.1%"
+        "text": "20.2%"
       },
       "male": {
-        "text": "12.5%"
+        "text": "20.9%"
       },
       "female": {
-        "text": "9.6% (2018 est.)"
+        "text": "19.4% (2020 est.)"
+      }
+    }
+  },
+  "Environment": {
+    "Environment - current issues": {
+      "text": "metal smelting, coal-burning utilities, and vehicle emissions impacting agricultural and forest productivity; air pollution and resulting acid rain severely affecting lakes and damaging forests; ocean waters becoming contaminated due to agricultural, industrial, mining, and forestry activities"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "Air Pollution-Volatile Organic Compounds, Marine Life Conservation"
+      }
+    },
+    "Air pollutants": {
+      "particulate matter emissions": {
+        "text": "6.48 micrograms per cubic meter (2016 est.)"
+      },
+      "carbon dioxide emissions": {
+        "text": "544.89 megatons (2016 est.)"
+      },
+      "methane emissions": {
+        "text": "101.82 megatons (2020 est.)"
+      }
+    },
+    "Total water withdrawal": {
+      "municipal": {
+        "text": "4.888 billion cubic meters (2017 est.)"
+      },
+      "industrial": {
+        "text": "28.07 billion cubic meters (2017 est.)"
+      },
+      "agricultural": {
+        "text": "2.639 billion cubic meters (2017 est.)"
+      }
+    },
+    "Total renewable water resources": {
+      "text": "2.902 trillion cubic meters (2017 est.)"
+    },
+    "Climate": {
+      "text": "varies from temperate in south to subarctic and arctic in north"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "6.8% (2018 est.)"
+      },
+      "agricultural land: arable land": {
+        "text": "arable land: 4.7% (2018 est.)"
+      },
+      "agricultural land: permanent crops": {
+        "text": "permanent crops: 0.5% (2018 est.)"
+      },
+      "agricultural land: permanent pasture": {
+        "text": "permanent pasture: 1.6% (2018 est.)"
+      },
+      "forest": {
+        "text": "34.1% (2018 est.)"
+      },
+      "other": {
+        "text": "59.1% (2018 est.)"
+      }
+    },
+    "Revenue from forest resources": {
+      "forest revenues": {
+        "text": "0.08% of GDP (2018 est.)"
+      }
+    },
+    "Revenue from coal": {
+      "coal revenues": {
+        "text": "0.08% of GDP (2018 est.)"
+      }
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "81.7% of total population (2021)"
+      },
+      "rate of urbanization": {
+        "text": "0.95% annual rate of change (2020-25 est.)"
+      }
+    },
+    "Waste and recycling": {
+      "municipal solid waste generated annually": {
+        "text": "25,103,034 tons (2014 est.)"
+      },
+      "municipal solid waste recycled annually": {
+        "text": "5,168,715 tons (2008 est.)"
+      },
+      "percent of municipal solid waste recycled": {
+        "text": "20.6% (2008 est.)"
       }
     }
   },
@@ -378,7 +457,7 @@
       "daylight saving time": {
         "text": "+1hr, begins second Sunday in March; ends first Sunday in November"
       },
-      "note": "<p><strong>note: </strong>Canada has six time zones<strong><br /><br />etymology: </strong>the city lies on the south bank of the Ottawa River, from which it derives its name; the river name comes from the Algonquin word \"adawe\" meaning \"to trade\" and refers to the indigenous peoples who used the river as a trade highway<strong><br /><br /><br /></strong></p>"
+      "note": "<strong>note: </strong>Canada has six time zones<strong><br /><br />etymology: </strong>the city lies on the south bank of the Ottawa River, from which it derives its name; the river name comes from the Algonquin word \"adawe\" meaning \"to trade\" and refers to the indigenous peoples who used the river as a trade highway<strong><br /><br /><br /></strong>"
     },
     "Administrative divisions": {
       "text": "10 provinces and 3 territories*; Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Northwest Territories*, Nova Scotia, Nunavut*, Ontario, Prince Edward Island, Quebec, Saskatchewan, Yukon*"
@@ -433,7 +512,7 @@
       "elections/appointments": {
         "text": "the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister for a 5-year term; following legislative elections, the leader of the majority party or majority coalition in the House of Commons generally designated prime minister by the governor general"
       },
-      "note": "<p><strong>note:</strong> the governor general position is largely ceremonial; Julie PAYETTE, Canada's fourth female governor general, resigned on 21 January 2021; Richard WAGNER, chief justice of the Supreme Court, will be Acting Governor General in the interim</p>"
+      "note": "<strong>note:</strong> the governor general position is largely ceremonial; Julie PAYETTE, Canada's fourth female governor general, resigned on 21 January 2021; Richard WAGNER, chief justice of the Supreme Court, will be Acting Governor General in the interim"
     },
     "Legislative branch": {
       "description": {
@@ -458,7 +537,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Bloc Quebecois [Mario BEAULIEU]<br />Conservative Party of Canada or CPC [Erin O'TOOLE]<br />Green Party [Annamie PAUL]<br />Liberal Party [Justin TRUDEAU]<br />New Democratic Party or NDP [Jagmeet SINGH]<br />People's Party of Canada [Maxime BERNIER]"
+      "text": "Bloc Quebecois [Yves-Francois BLANCHET]<br />Conservative Party of Canada or CPC [Erin O'TOOLE]<br />Green Party [Annamie PAUL]<br />Liberal Party [Justin TRUDEAU]<br />New Democratic Party or NDP [Jagmeet SINGH]<br />People's Party of Canada [Maxime BERNIER]"
     },
     "International organization participation": {
       "text": "ADB (nonregional member), AfDB (nonregional member), APEC, Arctic Council, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CDB, CE (observer), EAPC, EBRD, EITI (implementing country), FAO, FATF, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSTAH, MONUSCO, NAFTA, NATO, NEA, NSG, OAS, OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNMISS, UNRWA, UNTSO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
@@ -519,7 +598,7 @@
       "lyrics/music": {
         "text": "Adolphe-Basile ROUTHIER [French], Robert Stanley WEIR [English]/Calixa LAVALLEE"
       },
-      "note": "<p><strong>note:</strong> adopted 1980; originally written in 1880, \"O Canada\" served as an unofficial anthem many years before its official adoption; the anthem has French and English versions whose lyrics differ; as a Commonwealth realm, in addition to the national anthem, \"God Save the Queen\" serves as the royal anthem (see United Kingdom)</p>"
+      "note": "<strong>note:</strong> adopted 1980; originally written in 1880, \"O Canada\" served as an unofficial anthem many years before its official adoption; the anthem has French and English versions whose lyrics differ; as a Commonwealth realm, in addition to the national anthem, \"God Save the Queen\" serves as the royal anthem (see United Kingdom)"
     }
   },
   "Economy": {
@@ -569,7 +648,7 @@
       "Real GDP (purchasing power parity) 2017": {
         "text": "$1,777,241,000,000 (2017 est.)"
       },
-      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
+      "note": "<strong>note:</strong> data are in 2010 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$1,741,865,000,000 (2019 est.)"
@@ -584,7 +663,7 @@
       "Real GDP per capita 2017": {
         "text": "$48,634 (2017 est.)"
       },
-      "note": "<p><strong>note:</strong> data are in 2010 dollars</p>"
+      "note": "<strong>note:</strong> data are in 2010 dollars"
     },
     "Gross national saving": {
       "Gross national saving 2019": {
@@ -629,8 +708,17 @@
       }
     },
     "Ease of Doing Business Index scores": {
-      "Overall Ease of Doing Business score 2020": {
+      "Overall score": {
         "text": "79.6 (2020)"
+      },
+      "Starting a Business score": {
+        "text": "98.2 (2020)"
+      },
+      "Trading score": {
+        "text": "88.4 (2020)"
+      },
+      "Enforcement score": {
+        "text": "57.1 (2020)"
       }
     },
     "Agricultural products": {
@@ -671,8 +759,8 @@
       }
     },
     "Population below poverty line": {
-      "text": "9.4% (2008 est.)",
-      "note": "<p><strong>note:</strong> this figure is the Low Income Cut-Off, a calculation that results in higher figures than found in many comparable economies; Canada does not have an official poverty line</p>"
+      "text": "9.4% (2008 est.)<br><br><strong>note:</strong> this figure is the Low Income Cut-Off, a calculation that results in higher figures than found in many comparable economies; Canada does not have an official poverty line",
+      "note": "<strong>note:</strong> this figure is the Low Income Cut-Off, a calculation that results in higher figures than found in many comparable economies; Canada does not have an official poverty line"
     },
     "Gini Index coefficient - distribution of family income": {
       "Gini Index coefficient - distribution of family income 2017": {
@@ -711,7 +799,7 @@
       "Public debt 2016": {
         "text": "91.1% of GDP (2016 est.)"
       },
-      "note": "<p><strong>note:</strong> figures are for gross general government debt, as opposed to net federal debt; gross general government debt includes both intragovernmental debt and the debt of public entities at the sub-national level</p>"
+      "note": "<strong>note:</strong> figures are for gross general government debt, as opposed to net federal debt; gross general government debt includes both intragovernmental debt and the debt of public entities at the sub-national level"
     },
     "Fiscal year": {
       "text": "1 April - 31 March"
@@ -736,10 +824,10 @@
       }
     },
     "Exports - partners": {
-      "text": "US 76.4%, China 4.3% (2017)"
+      "text": "US 73% (2019)"
     },
     "Exports - commodities": {
-      "text": "motor vehicles and parts, industrial machinery, aircraft, telecommunications equipment; chemicals, plastics, fertilizers; wood pulp, timber, crude petroleum, natural gas, electricity, aluminum"
+      "text": "crude petroleum, cars and vehicle parts, gold, refined petroleum, natural gas (2019)"
     },
     "Imports": {
       "Imports 2019": {
@@ -753,10 +841,10 @@
       }
     },
     "Imports - partners": {
-      "text": "US 51.5%, China 12.6%, Mexico 6.3% (2017)"
+      "text": "US 57%, China 11%, Mexico 5% (2019)"
     },
     "Imports - commodities": {
-      "text": "machinery and equipment, motor vehicles and parts, crude oil, chemicals, electricity, durable consumer goods"
+      "text": "cars and vehicle parts, delivery trucks, crude petroleum, refined petroleum (2019)"
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 31 December 2017": {
@@ -866,9 +954,6 @@
     },
     "Natural gas - proved reserves": {
       "text": "2.056 trillion cu m (1 January 2018 est.)"
-    },
-    "Carbon dioxide emissions from consumption of energy": {
-      "text": "640.6 million Mt (2017 est.)"
     }
   },
   "Communications": {
@@ -898,7 +983,7 @@
       "international": {
         "text": "country code - 1; landing points for the Nunavut Undersea Fiber Optic Network System, Greenland Connect, Persona, GTT Atlantic, and Express, KetchCan 1 Submarine Fiber Cable system, St Pierre and Miquelon Cable submarine cables providing links to the US and Europe; satellite earth stations - 7 (5 Intelsat - 4 Atlantic Ocean and 1 Pacific Ocean, and 2 Intersputnik - Atlantic Ocean region) (2019)"
       },
-      "note": "<br><br><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
     },
     "Broadcast media": {
       "text": "2 public TV broadcasting networks, 1 in English and 1 in French, each with a large number of network affiliates; several private-commercial networks also with multiple network affiliates; overall, about 150 TV stations; multi-channel satellite and cable systems provide access to a wide range of stations including US stations; mix of public and commercial radio broadcasters with the Canadian Broadcasting Corporation (CBC), the public radio broadcaster, operating 4 radio networks, Radio Canada International, and radio services to indigenous populations in the north; roughly 1,119 licensed radio stations (2016)"
@@ -939,7 +1024,7 @@
       }
     },
     "Civil aircraft registration country code prefix": {
-      "text": "C (2016)"
+      "text": "C"
     },
     "Airports": {
       "total": {
@@ -1035,20 +1120,20 @@
       "dry bulk cargo port(s)": {
         "text": "Port-Cartier (iron ore and grain),"
       },
-      "note": "<br><br>Fraser River Port (Fraser) Hamilton (Lake Ontario)"
+      "note": "Fraser River Port (Fraser) Hamilton (Lake Ontario)"
     }
   },
   "Military and Security": {
     "Military and security forces": {
-      "text": "Canadian Forces: Canadian Army, Royal Canadian Navy, Royal Canadian Air Force, Canadian Joint Operations Command, Canadian Special Operations Forces Command; Primary Reserve (army, air, naval reserves); Coast Guard (Department of Fisheries and Oceans) (2021)",
-      "note": "<br><br>note: the Army reserves include the Canadian Rangers, which provides a limited presence in Canada's northern, coastal, and isolated areas for sovereignty, public safety, and surveillance roles"
+      "text": "Canadian Forces: Canadian Army, Royal Canadian Navy, Royal Canadian Air Force, Canadian Joint Operations Command, Canadian Special Operations Forces Command; Primary Reserve (army, air, naval reserves); Coast Guard (Department of Fisheries and Oceans) (2021)<br><br>note: the Army reserves include the Canadian Rangers, which provides a limited presence in Canada's northern, coastal, and isolated areas for sovereignty, public safety, and surveillance roles",
+      "note": "note: the Army reserves include the Canadian Rangers, which provides a limited presence in Canada's northern, coastal, and isolated areas for sovereignty, public safety, and surveillance roles"
     },
     "Military expenditures": {
       "Military Expenditures 2020": {
-        "text": "1.45% of GDP (2020 est.)"
+        "text": "1.42% of GDP (2020 est.)"
       },
       "Military Expenditures 2019": {
-        "text": "1.3% of GDP (2019)"
+        "text": "1.29% of GDP (2019)"
       },
       "Military Expenditures 2018": {
         "text": "1.31% of GDP (2018)"
@@ -1061,22 +1146,22 @@
       }
     },
     "Military and security service personnel strengths": {
-      "text": "the Canadian Armed Forces have approximately 66,000 total active personnel (23,000 Army; 8,000 Navy; 12,000 Air Force; 23,000 other uniformed personnel) (2020 est.)"
+      "text": "the Canadian Armed Forces have approximately 66,000 total active personnel (23,000 Army; 8,000 Navy; 12,000 Air Force; 23,000 other uniformed personnel) (2020)"
     },
     "Military equipment inventories and acquisitions": {
-      "text": "the CAF's inventory is a mix of domestically-produced equipment and imported weapons systems from Australia, Europe, Israel, and the US; since 2010, the leading supplier is the US; Canada's defense industry develops, maintains, and produces a range of equipment, including aircraft, combat vehicles, naval vessels, and associated components (2019 est.)"
+      "text": "the CAF's inventory is a mix of domestically-produced equipment and imported weapons systems from Australia, Europe, Israel, and the US; since 2010, the leading supplier by far is the US; Canada's defense industry develops, maintains, and produces a range of equipment, including aircraft, combat vehicles, naval vessels, and associated components (2020)"
     },
     "Military deployments": {
-      "text": "540 Latvia (NATO); up to 200 Ukraine; up to 850 Middle East (multiple missions, including support to the Global Coalition to Defeat ISIS and NATO assistance mission Iraq; reduced considerably in 2020 because of COVID 19) (2020)"
+      "text": "540 Latvia (NATO); up to 200 Ukraine; up to 850 Middle East (multiple missions, including support to the Global Coalition to Defeat ISIS and NATO assistance mission Iraq) (2021)"
     },
     "Military service age and obligation": {
-      "text": "17 years of age for voluntary male and female military service (with parental consent); 16 years of age for Reserve and Military College applicants; Canadian citizenship or permanent residence status required; maximum 34 years of age; service obligation 3-9 years (2012)"
+      "text": "17 years of age for voluntary male and female military service (with parental consent); 16 years of age for Reserve and Military College applicants; Canadian citizenship or permanent residence status required; maximum 34 years of age; service obligation 3-9 years (2021)"
     }
   },
   "Terrorism": {
     "Terrorist group(s)": {
-      "text": "Islamic State of Iraq and ash-Sham (ISIS) (2019)",
-      "note": "<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in <a title=\"Appendix-T\" href=\"../appendix/appendix-t.html\">Appendix-T</a>"
+      "text": "Islamic State of Iraq and ash-Sham (ISIS) (2019)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in <a title=\"Appendix-T\" href=\"../appendix/appendix-t.html\">Appendix-T</a>",
+      "note": "<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in <a title=\"Appendix-T\" href=\"../appendix/appendix-t.html\">Appendix-T</a>"
     }
   },
   "Transnational Issues": {
