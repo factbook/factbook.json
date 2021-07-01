@@ -120,8 +120,12 @@
       "note": "<strong>note:</strong> data represent population by nationality"
     },
     "Languages": {
-      "text": "Thai (official) only 90.7%, Thai and other languages 6.4%, only other languages 2.9% (includes Malay, Burmese) (2010 est.)<br><br><strong>note:</strong> data represent population by language(s) spoken at home; English is a secondary language of the elite",
-      "note": "<strong>note:</strong> data represent population by language(s) spoken at home; English is a secondary language of the elite"
+      "Languages": {
+        "text": "Thai (official) only 90.7%, Thai and other languages 6.4%, only other languages 2.9% (includes Malay, Burmese); note - data represent population by language(s) spoken at home; English is a secondary language of the elite (2010 est.)"
+      },
+      "printed major-language sample": {
+        "text": "<br />สารานุกรมโลก - แหล่งข้อมูลพื้นฐานที่สำคัญ (Thai)<br /><br />The World Factbook, the indispensable source for basic information."
+      }
     },
     "Religions": {
       "text": "Buddhist 94.6%, Muslim 4.3%, Christian 1%, other <.1%, none <.1% (2015 est.)"
@@ -223,7 +227,7 @@
     "Mother's mean age at first birth": {
       "text": "23.3 years (2009 est.)"
     },
-    "Maternal mortality rate": {
+    "Maternal mortality ratio": {
       "text": "37 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
@@ -995,18 +999,18 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "2,580,166"
+        "text": "5.415 million"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "3.75 (2019 est.)"
+        "text": "7.84 (2019 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
-        "text": "128,086,321"
+        "text": "129.614 million"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "186.16 (2019 est.)"
+        "text": "187.62 (2019 est.)"
       }
     },
     "Telecommunication systems": {
@@ -1019,7 +1023,7 @@
       "international": {
         "text": "country code - 66; landing points for the AAE-1, FEA, SeaMeWe-3,-4, APG, SJC2, TIS, MCT and AAG submarine cable systems providing links throughout Asia, Australia, Africa, Middle East, Europe, and US; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Pacific Ocean) (2019)"
       },
-      "note": "<strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
       "text": "26 digital TV stations in Bangkok broadcast nationally, 6 terrestrial TV stations in Bangkok broadcast nationally via relay stations - 2 of the stations are owned by the military, the other 4 are government-owned or controlled, leased to private enterprise, and all are required to broadcast government-produced news programs twice a day; multi-channel satellite and cable TV subscription services are available; radio frequencies have been allotted for more than 500 government and commercial radio stations; many small community radio stations operate with low-power transmitters (2017)"
@@ -1037,10 +1041,10 @@
     },
     "Broadband - fixed subscriptions": {
       "total": {
-        "text": "9.189 million"
+        "text": "10,108,819"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "13 (2018 est.)"
+        "text": "14.63 (2019 est.)"
       }
     }
   },

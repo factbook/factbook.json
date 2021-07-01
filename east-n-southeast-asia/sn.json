@@ -111,8 +111,12 @@
       "note": "<strong>note:</strong> data represent population by self-identification; the population is divided into four categories: Chinese, Malay (includes indigenous Malays and Indonesians), Indian (includes Indian, Pakistani, Bangladeshi, or Sri Lankan), and other ethnic groups (includes Eurasians, Caucasians, Japanese, Filipino, Vietnamese)"
     },
     "Languages": {
-      "text": "English (official) 36.9%, Mandarin (official) 34.9%, other Chinese dialects (includes Hokkien, Cantonese, Teochew, Hakka) 12.2%, Malay (official) 10.7%, Tamil (official) 3.3%, other 2% (2015 est.)<br><br><strong>note:</strong> data represent language most frequently spoken at home",
-      "note": "<strong>note:</strong> data represent language most frequently spoken at home"
+      "Languages": {
+        "text": "English (official) 36.9%, Mandarin (official) 34.9%, other Chinese dialects (includes Hokkien, Cantonese, Teochew, Hakka) 12.2%, Malay (official) 10.7%, Tamil (official) 3.3%, other 2%; note - data represent language most frequently spoken at home (2015 est.)"
+      },
+      "printed major-language sample": {
+        "text": "<br />The World Factbook, the indispensable source for basic information. (English)<br /><br />世界概況 &nbsp;&ndash; &nbsp;不可缺少的基本消息來源 (Mandarin)"
+      }
     },
     "Religions": {
       "text": "Buddhist 33.2%, Christian 18.8%, Muslim 14%, Taoist 10%, Hindu 5%, other 0.6%, none 18.5% (2015 est.)"
@@ -215,7 +219,7 @@
       "text": "30.5 years (2015 est.)<br><br>median age",
       "note": "median age"
     },
-    "Maternal mortality rate": {
+    "Maternal mortality ratio": {
       "text": "8 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
@@ -947,23 +951,23 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "2,003,594"
+        "text": "1,911,200"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "32.83 (2019 est.)"
+        "text": "33.22 (2019 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
-        "text": "9,543,773"
+        "text": "9,034,300"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "156.38 (2019 est.)"
+        "text": "157.02 (2019 est.)"
       }
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "excellent service; world leader in telecommunications and perhaps the first 'Smart Nation' where a sensor network is implemented, for water and air, smart logistics and smart sensor in the home of elderly or chronically ill;&nbsp;roll out of 4G and 5G networks to ensure faster speeds; wireless and fiber broadband growing segments of telecommunications; roll out of 'Next Generation Network' (NGNBN) almost complete with FttH and wireless network&nbsp;fiber based services; mobile sector saturated, but with mobile operators competing to&nbsp;offer more to the consumer such as value-added services; 4 MNVO; demand for data storage in Singapore (2020)"
+        "text": "<p>a wealthy city-state, Singapore has a highly developed ICT infrastructure; government supported near universal home broadband penetration and free public access to wireless network; operators proceeded with investment programs, particularly in 5G standalone networks; government actively promoting Smart Nation initiative supporting digital innovation; government oversees service providers, controls Internet content, and regulators lack independence; well served by submarine cable and satellite connections; major importer of integrated circuits and broadcasting equipment from China and exporter of same to SE Asian neighboring countries (2021)</p> (2020)"
       },
       "domestic": {
         "text": "excellent domestic facilities; fixed-line 33 per 100 and mobile-cellular 156 per 100 teledensity; multiple providers of high-speed Internet connectivity (2019)"
@@ -971,7 +975,7 @@
       "international": {
         "text": "country code - 65; landing points for INDIGO-West, SeaMeWe -3,-4,-5, SIGMAR, SJC, i2icn,&nbsp;PGASCOM, BSCS,&nbsp;IGG,&nbsp;B3JS, SAEx2, APCN-2, APG, ASC, SEAX-1, ASE, EAC-C2C, Matrix Cable System and SJC2 submarine cables providing links throughout Asia, Southeast Asia, Africa, Australia, the Middle East, and Europe; satellite earth stations - 3, Bukit Timah, Seletar, and Sentosa; supplemented by VSAT coverage (2019 )"
       },
-      "note": "<strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
       "text": "state controls broadcast media;&nbsp;6 domestic TV stations operated by MediaCorp which is wholly owned by a state investment company; broadcasts from Malaysian and Indonesian stations available; satellite dishes banned; multi-channel cable TV services available; a total of 19 domestic radio stations broadcasting, with MediaCorp operating 11, Singapore Press Holdings, also government-linked, another 5,&nbsp;2 controlled by the Singapore Armed Forces Reservists Association and one owned by BBC Radio; Malaysian and Indonesian radio stations are available as is BBC; a number of Internet service radio stations are also available (2019)"
@@ -989,10 +993,10 @@
     },
     "Broadband - fixed subscriptions": {
       "total": {
-        "text": "1,610,500"
+        "text": "1.504 million"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "27 (2018 est.)"
+        "text": "26.14 (2019 est.)"
       }
     }
   },

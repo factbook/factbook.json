@@ -117,8 +117,12 @@
       "note": "<strong>note:</strong> represents ethnicity declared first"
     },
     "Languages": {
-      "text": "Polish (official) 98.2%, Silesian 1.4%, other 1.1%, unspecified 1.3% (2011 est.)<br><br><strong>note:</strong> data represent the language spoken at home; shares sum to more than 100% because some respondents gave more than one answer on the census; Poland ratified the European Charter for Regional or Minority Languages in 2009 recognizing Kashub as a regional language, Czech, Hebrew, Yiddish, Belarusian, Lithuanian, German, Armenian, Russian, Slovak, and Ukrainian as national minority languages, and Karaim, Lemko, Romani (Polska Roma and Bergitka Roma), and Tatar as ethnic minority languages",
-      "note": "<strong>note:</strong> data represent the language spoken at home; shares sum to more than 100% because some respondents gave more than one answer on the census; Poland ratified the European Charter for Regional or Minority Languages in 2009 recognizing Kashub as a regional language, Czech, Hebrew, Yiddish, Belarusian, Lithuanian, German, Armenian, Russian, Slovak, and Ukrainian as national minority languages, and Karaim, Lemko, Romani (Polska Roma and Bergitka Roma), and Tatar as ethnic minority languages"
+      "Languages": {
+        "text": "Polish (official) 98.2%, Silesian 1.4%, other 1.1%, unspecified 1.3%; note - data represent the language spoken at home; shares sum to more than 100% because some respondents gave more than one answer on the census; Poland ratified the European Charter for Regional or Minority Languages in 2009 recognizing Kashub as a regional language, Czech, Hebrew, Yiddish, Belarusian, Lithuanian, German, Armenian, Russian, Slovak, and Ukrainian as national minority languages, and Karaim, Lemko, Romani (Polska Roma and Bergitka Roma), and Tatar as ethnic minority languages (2011 est.)"
+      },
+      "printed major-language sample": {
+        "text": "<br />Księga Fakt&oacute;w Świata, niezbędne źr&oacute;dło podstawowych informacji. (Polish)<br /><br />The World Factbook, the indispensable source for basic information."
+      }
     },
     "Religions": {
       "text": "Catholic 85.9% (includes Roman Catholic 85.6% and Greek Catholic, Armenian Catholic, and Byzantine-Slavic Catholic .3%), Orthodox 1.3% (almost all are Polish Autocephalous Orthodox), Protestant 0.4% (mainly Augsburg Evangelical and Pentacostal), other 0.4% (includes Jehovah's Witness, Buddhist, Hare Krishna, Gaudiya Vaishnavism, Muslim, Jewish, Mormon), unspecified 12.1% (2017 est.)"
@@ -217,7 +221,7 @@
     "Mother's mean age at first birth": {
       "text": "27.8 years (2017 est.)"
     },
-    "Maternal mortality rate": {
+    "Maternal mortality ratio": {
       "text": "2 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
@@ -988,23 +992,23 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "6,907,937"
+        "text": "6,824,896"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "18.01 (2019 est.)"
+        "text": "17.8 (2019 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
-        "text": "52,916,105"
+        "text": "48,392,944"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "137.96 (2019 est.)"
+        "text": "126.2 (2019 est.)"
       }
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "fixed-line service is&nbsp;dominated by the former state-owned company, yet it&nbsp;is dwarfed by the growth in mobile-cellular services; regulatory is&nbsp;framed by EU principles of competition; regulator measures have improved wholesale market access; rapid extension of LTE networks and development of mobile data service; mobile penetration is above European average;&nbsp;regulator to auction 700MHz spectrum of 5G services;&nbsp;good market competition (2020)"
+        "text": "<p>liberalized telecom market supported by market competition in broadband and mobile sectors ensuring access to cable and fiber infrastructure; rapid extension of LTE networks and development of mobile data service; mobile penetration is above European average;&nbsp;fixed broadband benefits from DSL infrastructure and investment in fiber through EU support; major importer of broadcasting equipment and accessories from Germany (2021)</p> (2020)"
       },
       "domestic": {
         "text": "several nation-wide networks provide mobile-cellular service; coverage is generally good; fixed-line 18 per 100 service lags in rural areas, mobile-cellular 138 per 100 persons (2019)"
@@ -1012,7 +1016,7 @@
       "international": {
         "text": "country code - 48; landing points for the Baltica and the Denmark-Poland2 submarine cables connecting Poland, Denmark and Sweden; international direct dialing with automated exchanges; satellite earth station - 1 with access to Intelsat, Eutelsat, Inmarsat, and Intersputnik (2019)"
       },
-      "note": "<strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
       "text": "state-run public TV operates 2 national channels supplemented by 16 regional channels and several niche channels; privately owned entities operate several national TV networks and a number of special interest channels; many privately owned channels broadcasting locally; roughly half of all households are linked to either satellite or cable TV systems providing access to foreign television networks; state-run public radio operates 5 national networks and 17 regional radio stations; 2 privately owned national radio networks, several commercial stations broadcasting to multiple cities, and many privately owned local radio stations (2019)"
@@ -1030,10 +1034,10 @@
     },
     "Broadband - fixed subscriptions": {
       "total": {
-        "text": "6,114,926"
+        "text": "7,783,887"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "16 (2018 est.)"
+        "text": "20.3 (2019 est.)"
       }
     }
   },
@@ -1178,11 +1182,14 @@
       "text": "the inventory of the Polish Armed Forces consists of a mix of Soviet-era and more modern Western weapons systems; since 2010, the leading suppliers of armaments to Poland are Finland, Germany, Italy, and the US (2020)"
     },
     "Military deployments": {
-      "text": "290 Afghanistan (NATO); 240 Kosovo (NATO/KFOR); up to 175 Latvia (NATO); 250 Lebanon (UNIFIL) (Jan 2021)<br><br>note: Poland contributes troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Warsaw and is comprised of an international staff, three battalions, and specialized units",
+      "text": "240 Kosovo (NATO/KFOR); up to 175 Latvia (NATO); 250 Lebanon (UNIFIL) (June 2021)<br><br>note: Poland contributes troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Warsaw and is comprised of an international staff, three battalions, and specialized units",
       "note": "note: Poland contributes troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Warsaw and is comprised of an international staff, three battalions, and specialized units"
     },
     "Military service age and obligation": {
       "text": "18-28 years of age for male and female voluntary military service; conscription phased out in 2009-12; professional soldiers serve on a permanent basis (for an unspecified period of time) or on a contract basis (for a specified period of time); initial contract period is 24 months; women serve in the military on the same terms as men (2019)"
+    },
+    "Military - note": {
+      "text": "Poland joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997 and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance"
     }
   },
   "Transnational Issues": {

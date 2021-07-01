@@ -112,8 +112,12 @@
       "note": "<strong>note:</strong> North Macedonia has not conducted a census since 2002; Romani populations are usually underestimated in official statistics and may represent 6.5&ndash;13% of North Macedonia&rsquo;s population"
     },
     "Languages": {
-      "text": "Macedonian (official) 66.5%, Albanian&nbsp;25.1%, Turkish 3.5%, Romani 1.9%, Serbian 1.2%, other (includes Aromanian (Vlach) and Bosnian) 1.8% (2002 est.)<br><br><strong>note:</strong> minority languages are co-official with Macedonian in municipalities where they are spoken by at least 20% of the population; Albanian is co-official in Tetovo, Brvenica, Vrapciste, and other municipalities; Turkish is co-official in Centar Zupa and Plasnica; Romani is co-official in Suto Orizari; Aromanian is co-official in Krusevo; Serbian is co-official in Cucer Sandevo",
-      "note": "<strong>note:</strong> minority languages are co-official with Macedonian in municipalities where they are spoken by at least 20% of the population; Albanian is co-official in Tetovo, Brvenica, Vrapciste, and other municipalities; Turkish is co-official in Centar Zupa and Plasnica; Romani is co-official in Suto Orizari; Aromanian is co-official in Krusevo; Serbian is co-official in Cucer Sandevo"
+      "Languages": {
+        "text": "Macedonian (official) 66.5%, Albanian (official) 25.1%, Turkish 3.5%, Romani 1.9%, Serbian 1.2%, other (includes Aromanian (Vlach) and Bosnian) 1.8% (2002 est.); note - minority languages are co-official with Macedonian in municipalities where they are spoken by at least 20% of the population; Albanian is co-official in Tetovo, Brvenica, Vrapciste, and other municipalities; Turkish is co-official in Centar Zupa and Plasnica; Romani is co-official in Suto Orizari; Aromanian is co-official in Krusevo; Serbian is co-official in Cucer Sandevo"
+      },
+      "printed major-language sample": {
+        "text": "<br />Книга на Светски Факти, неопходен извор на основни информации. (Macedonian)<br /><br />The World Factbook, the indispensable source for basic information."
+      }
     },
     "Religions": {
       "text": "Macedonian Orthodox 64.8%, Muslim 33.3%, other Christian 0.4%, other and unspecified 1.5% (2002 est.)"
@@ -212,7 +216,7 @@
     "Mother's mean age at first birth": {
       "text": "27.2 years (2017 est.)"
     },
-    "Maternal mortality rate": {
+    "Maternal mortality ratio": {
       "text": "7 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
@@ -953,23 +957,23 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "402,250"
+        "text": "400,454"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "18.95 (2019 est.)"
+        "text": "18.87 (2019 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
-        "text": "2,094,037"
+        "text": "1,921,013"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "98.65 (2019 est.)"
+        "text": "90.51 (2019 est.)"
       }
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "being part of the EU pre-accession process has led to stronger teledensity with a closer regulatory framework and independent regulators; administrative ties with the European Union have led to progress; broadband services are widely available; more customers moving to fiber networks; 2 mobile network operators; end of roaming tariffs (2020)"
+        "text": "<p>EU pre-accession process has led to stronger tele-density with a closer regulatory framework and independent regulators; administrative ties with the EU have led to progress; broadband services are widely available; more customers moving to fiber networks; operators investing in LTE; importer of broadcasting equipment from Vietnam and China; MOU for 5G with US (2021)</p> (2020)"
       },
       "domestic": {
         "text": "fixed-line 19 per 100 and mobile-cellular 99 per 100 subscriptions (2019)"
@@ -977,7 +981,7 @@
       "international": {
         "text": "country code - 389"
       },
-      "note": "<strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
       "text": "public service TV broadcaster Macedonian Radio and Television operates 3 national terrestrial TV channels and 2 satellite TV channels; additionally, there are 10 regional TV stations that broadcast nationally using terrestrial transmitters, 54 TV channels with concession for cable TV, 9 regional TV stations with concessions for cable TV; 4 satellite TV channels broadcasting on a national level, 21 local commercial TV channels, and a large number of cable operators that offer domestic and international programming; the public radio broadcaster operates over 3 stations; there are 4 privately owned radio stations that broadcast nationally; 17 regional radio stations, and 49 local commercial radio stations (2019)"
@@ -995,10 +999,10 @@
     },
     "Broadband - fixed subscriptions": {
       "total": {
-        "text": "427,964"
+        "text": "454,300"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "20 (2018 est.)"
+        "text": "21.41 (2019 est.)"
       }
     }
   },
@@ -1086,11 +1090,14 @@
     },
     "Military service age and obligation": {
       "text": "18 years of age for voluntary military service; conscription abolished in 2007 (2019)"
+    },
+    "Military - note": {
+      "text": "North Macedonia officially became the 30th member of NATO in 2020"
     }
   },
   "Terrorism": {
     "Terrorist group(s)": {
-      "text": "Islamic State of Iraq and ash-Sham (ISIS) (2020)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in <a href=\"https://www.cia.gov/library/publications/the-world-factbook/appendix/appendix-t.html\">Appendix-T</a>",
+      "text": "Islamic State of Iraq and ash-Sham (ISIS)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in <a href=\"https://www.cia.gov/library/publications/the-world-factbook/appendix/appendix-t.html\">Appendix-T</a>",
       "note": "<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in <a href=\"https://www.cia.gov/library/publications/the-world-factbook/appendix/appendix-t.html\">Appendix-T</a>"
     }
   },
@@ -1102,7 +1109,7 @@
       "stateless persons": {
         "text": "567 (2019)"
       },
-      "note": "<strong>note:</strong> 513,799 estimated refugee and migrant arrivals (January 2015-May 2021)"
+      "note": "<strong>note:</strong> 514,450 estimated refugee and migrant arrivals (January 2015-June 2021)"
     },
     "Illicit drugs": {
       "text": "major transshipment point for Southwest Asian heroin and hashish; minor transit point for South American cocaine destined for Europe; although not a financial center and most criminal activity is thought to be domestic, money laundering is a problem due to a mostly cash-based economy and weak enforcement"

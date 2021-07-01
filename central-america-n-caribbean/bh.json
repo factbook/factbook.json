@@ -117,8 +117,12 @@
       "note": "<strong>note:</strong> percentages add up to more than 100% because respondents were able to identify more than one ethnic origin"
     },
     "Languages": {
-      "text": "English 62.9% (official), Spanish 56.6%, Creole 44.6%, Maya 10.5%, German 3.2%, Garifuna 2.9%, other 1.8%, unknown 0.3%, none 0.2% (cannot speak) (2010 est.)<br><br><strong>note:</strong> shares sum to more than 100% because some respondents gave more than one answer on the census",
-      "note": "<strong>note:</strong> shares sum to more than 100% because some respondents gave more than one answer on the census"
+      "Languages": {
+        "text": "English 62.9% (official), Spanish 56.6%, Creole 44.6%, Maya 10.5%, German 3.2%, Garifuna 2.9%, other 1.8%, unknown 0.3%, none 0.2% (cannot speak); note - shares sum to more than 100% because some respondents gave more than one answer on the census (2010 est.)"
+      },
+      "printed major-language sample": {
+        "text": "<br />The World Factbook, the indispensable source for basic information. (English)<br /><br />La Libreta Informativa del Mundo, la fuente indispensable de informaci&oacute;n b&aacute;sica. (Spanish)"
+      }
     },
     "Religions": {
       "text": "Roman Catholic 40.1%, Protestant 31.5% (includes Pentecostal 8.4%, Seventh Day Adventist 5.4%, Anglican 4.7%, Mennonite 3.7%, Baptist 3.6%, Methodist 2.9%, Nazarene 2.8%), Jehovah's Witness 1.7%, other 10.5% (includes Baha'i, Buddhist, Hindu, Mormon, Muslim, Rastafarian, Salvation Army), unspecified 0.6%, none 15.5% (2010 est.)"
@@ -217,7 +221,7 @@
         "text": "1 male(s)/female (2020 est.)"
       }
     },
-    "Maternal mortality rate": {
+    "Maternal mortality ratio": {
       "text": "36 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
@@ -926,23 +930,23 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "18,617"
+        "text": "18,500"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "4.74 (2019 est.)"
+        "text": "4.72 (2019 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
-        "text": "256,479"
+        "text": "254,919"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "65.3 (2019 est.)"
+        "text": "65.01 (2019 est.)"
       }
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "govt. telecom company, Belize Telemedia Ltd., continues to hold a monopoly in fixed-line services, mobile and broadband fixed-line teledensity; it is a small market; fixed-line teledensity and mobile penetration below regional average; lack of competition and underinvestment in telecom system, make it pricey for consumer (2020)"
+        "text": "Belize&rsquo;s fixed-line tele-density and mobile penetration is lower than average for the region, due to insufficient competition, underinvestment in services, and lax standards; mobile accounts for 90% of all phones; operator aims to provide cheaper prices and customer retention through investment in broadband to over 80% of premises and LTE infrastructure; operator launched safe cities project to fight crime; government distributed tablets to students to promote e-learning; submarine cable to Ambergris Caye enables FttP service in San Pedro; importer of broadcast equipment from the United States (2021) (2020)"
       },
       "domestic": {
         "text": "5 per 100 fixed-line and mobile-cellular teledensity approaching 65 per 100 persons; mobile sector accounting for over 90% of all phone subscriptions (2019)"
@@ -950,7 +954,7 @@
       "international": {
         "text": "country code - 501; landing points for the&nbsp;ARCOS and SEUL&nbsp;fiber-optic telecommunications submarine cable that provides links to South and Central America, parts of the Caribbean, and the US; satellite earth station - 8 (Intelsat - 2, unknown - 6) (2019)"
       },
-      "note": "<strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
       "text": "8 privately owned TV stations; multi-channel cable TV provides access to foreign stations; about 25 radio stations broadcasting on roughly 50 different frequencies; state-run radio was privatized in 1998 (2019)"
@@ -968,10 +972,10 @@
     },
     "Broadband - fixed subscriptions": {
       "total": {
-        "text": "24,658"
+        "text": "29,600"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "6 (2018 est.)"
+        "text": "7.55 (2019 est.)"
       }
     }
   },

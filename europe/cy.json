@@ -120,8 +120,12 @@
       "note": "<strong>note:</strong> data represent only the Greek-Cypriot citizens in the Republic of Cyprus"
     },
     "Languages": {
-      "text": "Greek (official) 80.9%, Turkish (official) 0.2%, English 4.1%, Romanian 2.9%, Russian 2.5%, Bulgarian 2.2%, Arabic 1.2%, Filipino 1.1%, other 4.3%, unspecified 0.6% (2011 est.)<br><br><strong>note:</strong> data represent only the Republic of Cyprus",
-      "note": "<strong>note:</strong> data represent only the Republic of Cyprus"
+      "Languages": {
+        "text": "Greek (official) 80.9%, Turkish (official) 0.2%, English 4.1%, Romanian 2.9%, Russian 2.5%, Bulgarian 2.2%, Arabic 1.2%, Filipino 1.1%, other 4.3%, unspecified 0.6%; note - data represent only the Republic of Cyprus (2011 est.)"
+      },
+      "printed major-language sample": {
+        "text": "<br />&Tau;&omicron; &Pi;&alpha;&gamma;&kappa;ό&sigma;&mu;&iota;&omicron; &Beta;&iota;&beta;&lambda;ί&omicron; &Delta;&epsilon;&delta;&omicron;&mu;έ&nu;&omega;&nu;, &eta; &alpha;&pi;&alpha;&rho;&alpha;ί&tau;&eta;&tau;&eta; &pi;&eta;&gamma;ή &beta;&alpha;&sigma;&iota;&kappa;ώ&nu; &pi;&lambda;&eta;&rho;&omicron;&phi;&omicron;&rho;&iota;ώ&nu;. (Greek)<br /><br />The World Factbook, the indispensable source for basic information."
+      }
     },
     "Religions": {
       "text": "Orthodox Christian 89.1%, Roman Catholic 2.9%, Protestant/Anglican 2%, Muslim 1.8%, Buddhist 1%, other (includes Maronite, Armenian Church, Hindu) 1.4%, unknown 1.1%, none/atheist 0.6% (2011 est.)<br><br><strong>note:</strong> data represent only the government-controlled area of Cyprus",
@@ -223,7 +227,7 @@
       "text": "29.2 years (2017 est.)<br><br><strong>note:</strong> data represent only government-controlled areas",
       "note": "<strong>note:</strong> data represent only government-controlled areas"
     },
-    "Maternal mortality rate": {
+    "Maternal mortality ratio": {
       "text": "6 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
@@ -975,23 +979,23 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "469,305"
+        "text": "323,914"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "37.48 (2019 est.)"
+        "text": "25.86 (2019 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
-        "text": "1,801,213"
+        "text": "1,243,151"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "143.85 (2019 est.)"
+        "text": "99.24 (2019 est.)"
       }
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "broadband market steadily developing with one of the highest penetrations rates in the&nbsp;region;&nbsp;despite the&nbsp;growth of Cyprus's telecom sector, the market overall continues to be dominated by the incumbent, Cyprus Telecommunications Authority (CyTA), which is still fully-owned by the state, but it is losing ground to its competition annually; improved regulatory circumstances,&nbsp;especially in relation to network interconnection and access, has given competing operators the&nbsp;certainty to invest in network infrastructure, and&nbsp;to launch competing services; fiber infrastructure in the early days and DSL remains the dominate access platform (2020)"
+        "text": "<p>despite the&nbsp;growth of Cyprus's telecom sector, the market is dominated by its state-owned operator; one of the highest broadband penetration rates in the region; DSL remains the dominant access platform as broadband is restricted to a few towns; fixed-line and mobile cable infrastructure available for more than half of premises; fiber infrastructure in development; improved regulations provide confidence for investment in network infrastructure and competing services; operator expanded FttP services and initiated cable connection to France and Egypt; operator signed vendor agreement with international investor, Huawei, to develop 5G; operators extended LTE services and upgraded transmission capacity on TE-North Cable System (2021)</p> (2020)"
       },
       "domestic": {
         "text": "fixed-line is 37 per 100, and&nbsp;&nbsp;144 per 100 for mobile-cellular; open-wire, fiber-optic cable, and microwave radio relay (2019)"
@@ -999,7 +1003,7 @@
       "international": {
         "text": "country code - 357 (area administered by Turkish Cypriots uses the country code of Turkey - 90); a number of submarine cables, including the SEA-ME-WE-3, CADMOS, MedNautilus Submarine System, POSEIDON, TE North/TGN-Eurasia/SEACOM/Alexandros/Medes, UGARIT, Aphrodite2, Hawk, Lev Submarine System, and Tamares combine to provide connectivity to&nbsp;Europe, the Middle East, Africa, Asia, Australia, and Southeast Asia; Turcyos-1 and Turcyos-2 submarine cable in Turkish North Cyprus link to Turkey; tropospheric scatter; satellite earth stations - 8 (3 Intelsat - 1 Atlantic Ocean and 2 Indian Ocean, 2 Eutelsat, 2 Intersputnik, and 1 Arabsat) (2019)"
       },
-      "note": "<strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
       "text": "mixture of state and privately run TV and radio services; the public broadcaster operates 2 TV channels and 4 radio stations; 6 private TV broadcasters, satellite and cable TV services including telecasts from Greece and Turkey, and a number of private radio stations are available; in areas administered by Turkish Cypriots, there are 2 public TV stations, 4 public radio stations, and 7 privately owned TV and 21 radio broadcast stations plus 6 radio and 4 TV channels of local universities, plus 1 radio station of military, security forces and 1 radio station of civil defense cooperation, as well as relay stations from Turkey (2019)"
@@ -1017,10 +1021,10 @@
     },
     "Broadband - fixed subscriptions": {
       "total": {
-        "text": "313,462"
+        "text": "326,565"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "25 (2018 est.)"
+        "text": "26.07 (2019 est.)"
       }
     }
   },
@@ -1155,7 +1159,7 @@
       "IDPs": {
         "text": "228,000 (both Turkish and Greek Cypriots; many displaced since 1974) (2019)"
       },
-      "note": "<strong>note:</strong> 21,704 estimated refugee and migrant arrivals (January 2015-April 2021)"
+      "note": "<strong>note:</strong> 22,707 estimated refugee and migrant arrivals (January 2015-May 2021)"
     },
     "Illicit drugs": {
       "text": "minor transit point for heroin and hashish via air routes and container traffic to Europe, especially from Lebanon and Turkey; some cocaine transits as well; despite a strengthening of anti-money-laundering legislation, remains vulnerable to money laundering; reporting of suspicious transactions in offshore sector remains weak"

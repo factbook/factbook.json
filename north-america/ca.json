@@ -125,7 +125,12 @@
       "note": "<strong>note:</strong> percentages add up to more than 100% because respondents were able to identify more than one ethnic origin"
     },
     "Languages": {
-      "text": "English (official) 58.7%, French (official) 22%, Punjabi 1.4%, Italian 1.3%, Spanish 1.3%, German 1.3%, Cantonese 1.2%, Tagalog 1.2%, Arabic 1.1%, other 10.5% (2011 est.)"
+      "Languages": {
+        "text": "English (official) 58.7%, French (official) 22%, Punjabi 1.4%, Italian 1.3%, Spanish 1.3%, German 1.3%, Cantonese 1.2%, Tagalog 1.2%, Arabic 1.1%, other 10.5% (2011 est.)"
+      },
+      "printed major-language sample": {
+        "text": "<br />The World Factbook, the indispensable source for basic information. (English)<br /><br />The World Factbook, une source indispensable d'informations de base. (French)"
+      }
     },
     "Religions": {
       "text": "Catholic 39% (includes Roman Catholic 38.8%, other Catholic .2%), Protestant 20.3% (includes United Church 6.1%, Anglican 5%, Baptist 1.9%, Lutheran 1.5%, Pentecostal 1.5%, Presbyterian 1.4%, other Protestant 2.9%), Orthodox 1.6%, other Christian 6.3%, Muslim 3.2%, Hindu 1.5%, Sikh 1.4%, Buddhist 1.1%, Jewish 1%, other 0.6%, none 23.9% (2011 est.)"
@@ -224,7 +229,7 @@
     "Mother's mean age at first birth": {
       "text": "29 years (2017 est.)"
     },
-    "Maternal mortality rate": {
+    "Maternal mortality ratio": {
       "text": "10 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
@@ -959,23 +964,23 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "13,258,721"
+        "text": "13.267 million"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "35.46 (2019 est.)"
+        "text": "35.52 (2019 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
-        "text": "34,597,559"
+        "text": "34,366,950"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "92.53 (2019 est.)"
+        "text": "92.01 (2019 est.)"
       }
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "excellent service provided by first-rate&nbsp;technology; offers 99% coverage with LTE; consumer demand for mobile data services have prompted telecom companies&nbsp;to invest and&nbsp;advance LTE infrastructure,&nbsp;and further investment in 5G; govt. policy has&nbsp;aided&nbsp;the extension of broadband to rural and regional areas, with the result that services are almost universally accessible; govt. sets up $400 million public-private partnership to exploit benefits of 5G (2020)"
+        "text": "<p>Canada has highly developed, technologically advanced telecom services; LTE and broadband are nearly universal; competition between the DSL and cable platforms with investment in fiber networks; regulatory efforts ensure operators have spectrum available to develop 5G services; policy to improve service speeds and enable digital economy and e-services; operator&rsquo;s 5G network facilitates smart-city vehicle and pedestrian traffic; high value in e-commerce transactions; international connections through submarine, terrestrial, and satellite systems; importer of broadcasting equipment from China (2021)</p> (2020)"
       },
       "domestic": {
         "text": "35 per 100 fixed-line; 93 per 100 mobile-cellular; comparatively low mobile penetration provides further room for growth; domestic satellite system with about 300 earth stations (2019)"
@@ -983,7 +988,7 @@
       "international": {
         "text": "country code - 1; landing points for the Nunavut Undersea Fiber Optic Network System, Greenland Connect, Persona, GTT Atlantic, and Express, KetchCan 1 Submarine Fiber Cable system, St Pierre and Miquelon Cable submarine cables providing links to the US and Europe; satellite earth stations - 7 (5 Intelsat - 4 Atlantic Ocean and 1 Pacific Ocean, and 2 Intersputnik - Atlantic Ocean region) (2019)"
       },
-      "note": "<strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
       "text": "2 public TV broadcasting networks, 1 in English and 1 in French, each with a large number of network affiliates; several private-commercial networks also with multiple network affiliates; overall, about 150 TV stations; multi-channel satellite and cable systems provide access to a wide range of stations including US stations; mix of public and commercial radio broadcasters with the Canadian Broadcasting Corporation (CBC), the public radio broadcaster, operating 4 radio networks, Radio Canada International, and radio services to indigenous populations in the north; roughly 1,119 licensed radio stations (2016)"
@@ -1001,10 +1006,10 @@
     },
     "Broadband - fixed subscriptions": {
       "total": {
-        "text": "14,445,606"
+        "text": "15,273,496"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "39 (2018 est.)"
+        "text": "40.89 (2019 est.)"
       }
     }
   },
@@ -1156,11 +1161,14 @@
     },
     "Military service age and obligation": {
       "text": "17 years of age for voluntary male and female military service (with parental consent); 16 years of age for Reserve and Military College applicants; Canadian citizenship or permanent residence status required; maximum 34 years of age; service obligation 3-9 years (2021)"
+    },
+    "Military - note": {
+      "text": "Canada is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949"
     }
   },
   "Terrorism": {
     "Terrorist group(s)": {
-      "text": "Islamic State of Iraq and ash-Sham (ISIS) (2019)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in <a title=\"Appendix-T\" href=\"../appendix/appendix-t.html\">Appendix-T</a>",
+      "text": "Islamic State of Iraq and ash-Sham (ISIS)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in <a title=\"Appendix-T\" href=\"../appendix/appendix-t.html\">Appendix-T</a>",
       "note": "<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in <a title=\"Appendix-T\" href=\"../appendix/appendix-t.html\">Appendix-T</a>"
     }
   },

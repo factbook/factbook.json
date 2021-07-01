@@ -115,10 +115,15 @@
       "note": "<strong>note:</strong> data represent population by self-identified nationality"
     },
     "Languages": {
-      "text": "Arabic (official), English (widely understood among upper and middle classes)"
+      "Languages": {
+        "text": "Arabic (official), English (widely understood among upper and middle classes)"
+      },
+      "printed major-language sample": {
+        "text": "<br />كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br /><br />The World Factbook, the indispensable source for basic information."
+      }
     },
     "Religions": {
-      "text": "Muslim 97.2% (official; predominantly Sunni), Christian 2.2% (majority Greek Orthodox, but some Greek and Roman Catholics, Syrian Orthodox, Coptic Orthodox, Armenian Orthodox, and Protestant denominations), Buddhist 0.4%, Hindu 0.1%, Jewish &lt;0.1, folk &lt;0.1, unaffiliated &lt;0.1, other &lt;0.1 (2010 est.)"
+      "text": "Muslim 97.1% (official; predominantly Sunni), Christian 2.1% (majority Greek Orthodox, but some Greek and Roman Catholics, Syrian Orthodox, Coptic Orthodox, Armenian Orthodox, and Protestant denominations), Buddhist 0.4%, Hindu 0.1%, Jewish &lt;0.1, folk &lt;0.1, unaffiliated &lt;0.1, other &lt;0.1 (2020 est.)"
     },
     "Age structure": {
       "0-14 years": {
@@ -215,7 +220,7 @@
       "text": "24.8 years (2017/18 est.)<br><br><strong>note:</strong> median age at first birth among women 30-34",
       "note": "<strong>note:</strong> median age at first birth among women 30-34"
     },
-    "Maternal mortality rate": {
+    "Maternal mortality ratio": {
       "text": "46 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
@@ -960,23 +965,23 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "375,576"
+        "text": "355,537"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "3.52 (2019 est.)"
+        "text": "3.33 (2019 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
-        "text": "8,215,735"
+        "text": "7,778,770"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "77 (2019 est.)"
+        "text": "72.91 (2019 est.)"
       }
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "microwave radio relay transmission and coaxial and fiber-optic cable are employed on trunk lines; growing mobile-cellular usage in both urban and rural areas is reducing use of fixed-line services; recent influx of refugees putting burden on country's economy, infrastructure and society; mobile broadband&nbsp;is area of&nbsp;growth with 4G services; govt. recently launched Ministry of Digital Economy &amp; Entrepreneurship; preparing for next wave of development&nbsp;with 5G and IoT/MsM services (2020)"
+        "text": "<p>Jordan is host to a growing number of ICT companies and has emerged as a technology start-up hub for the Middle East; recently focused on telecom solutions to pandemic issues such as e-health and education; progress in the digital financial services; economic goals rely on digital economy, developed mobile sector, and extensive LTE infrastructure; preparation for 5G and e-commerce; importer of broadcasting equipment from Vietnam and China (2021)</p> (2020)"
       },
       "domestic": {
         "text": "1995 a telecommunications law opened all non-fixed-line services to private competition; in 2005, the monopoly over fixed-line services terminated and the entire telecommunications sector was opened to competition; currently fixed-line 4 per 100 persons and multiple mobile-cellular providers with subscribership up to 77 per 100 persons (2019)"
@@ -984,7 +989,7 @@
       "international": {
         "text": "country code - 962; landing point for the&nbsp;FEA and&nbsp;Taba-Aqaba submarine cable networks providing connectivity to Europe, the Middle East, Southeast Asia and Asia; satellite earth stations - 33 (3 Intelsat, 1 Arabsat, and 29 land and maritime Inmarsat terminals (2019)"
       },
-      "note": "<strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
       "text": "radio and TV dominated by the government-owned Jordan Radio and Television Corporation (JRTV) that operates a main network, a sports network, a film network, and a satellite channel; first independent TV broadcaster aired in 2007; international satellite TV and Israeli and Syrian TV broadcasts are available; roughly 30 radio stations with JRTV operating the main government-owned station; transmissions of multiple international radio broadcasters are available"
@@ -1002,10 +1007,10 @@
     },
     "Broadband - fixed subscriptions": {
       "total": {
-        "text": "399,596"
+        "text": "457,496"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "4 (2018 est.)"
+        "text": "4.29 (2019 est.)"
       }
     }
   },

@@ -123,7 +123,12 @@
       "note": "<strong>note:</strong> data represent respondents by nationality"
     },
     "Languages": {
-      "text": "Arabic (official), Arabic, English, and French widely understood by educated classes"
+      "Languages": {
+        "text": "Arabic (official), English, and French widely understood by educated classes"
+      },
+      "printed major-language sample": {
+        "text": "<br />كتاب حقائق العالم، أفضل مصدر للمعلومات الأساسية (Arabic)<br /><br />The World Factbook, the indispensable source for basic information."
+      }
     },
     "Religions": {
       "text": "Muslim (predominantly Sunni) 90%, Christian (majority Coptic Orthodox, other Christians include Armenian Apostolic, Catholic, Maronite, Orthodox, and Anglican) 10% (2015 est.)"
@@ -226,7 +231,7 @@
       "text": "22.7 years (2014 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29",
       "note": "<strong>note:</strong> median age at first birth among women 25-29"
     },
-    "Maternal mortality rate": {
+    "Maternal mortality ratio": {
       "text": "37 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
@@ -985,23 +990,23 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "8,885,103"
+        "text": "8,760,436"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "8.73 (2019 est.)"
+        "text": "8.61 (2019 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
-        "text": "96,657,295"
+        "text": "95,340,262"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "94.97 (2019 est.)"
+        "text": "93.68 (2019 est.)"
       }
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "one of the&nbsp;biggest fixed-line systems in Africa and the Arab region; one of the largest mobile telecom markets in North Africa; penetration rate of about 94%; LTE launch in late 2017, which greatly&nbsp;helped the capabilities of mobile broadband services, and the beginning&nbsp;of developing the&nbsp;5G network; recent govt. efforts to fund next generation networks, develop technology parks and extend broadband availability (2020)"
+        "text": "with a large urbanized population and effective competition, Egypt has one of the largest fixed-line and mobile telecom markets in North Africa; investment has spurred broadband infrastructure and migration to digital economy; operator has ambitions for satellite/smart infrastructure based on 5G and fiber networks; Egypt&rsquo;s geographical position enabled inexpensive bandwidth through fiber and cable connection to Europe, Middle East, and Asia; rural Internet connections continue to suffer from poor quality and low speeds; government disrupted service during political crises (2021) (2020)"
       },
       "domestic": {
         "text": "fixed-line 9 per 100, mobile-cellular 95 per 100 (2019)"
@@ -1009,7 +1014,7 @@
       "international": {
         "text": "country code - 20; landing points for Aletar, Africa-1, FEA, Hawk, IMEWE,&nbsp;and the SEA-ME-WE-3 &amp; 4&nbsp;submarine cable networks linking to Asia, Africa, the Middle East, and Australia&nbsp;; satellite earth stations - 4 (2 Intelsat - Atlantic Ocean and Indian Ocean, 1 Arabsat, and 1 Inmarsat); tropospheric scatter to Sudan; microwave radio relay to Israel; a participant in Medarabtel (2019)"
       },
-      "note": "<!-- x-tinymce/html --><strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<!-- x-tinymce/html --><strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
       "text": "mix of state-run and private broadcast media; state-run TV operates 2 national and 6 regional terrestrial networks, as well as a few satellite channels; dozens of private satellite channels and a large number of Arabic satellite channels are available for free; some limited satellite services are also available via subscription; state-run radio operates about 30 stations belonging to 8 networks; privately-owned radio includes 8 major stations, 4 of which belong to 1 network (2019)"
@@ -1027,10 +1032,10 @@
     },
     "Broadband - fixed subscriptions": {
       "total": {
-        "text": "6,579,762"
+        "text": "7,598,941"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "7 (2018 est.)"
+        "text": "7.47 (2019 est.)"
       }
     },
     "Communications - note": {
@@ -1169,7 +1174,7 @@
       }
     },
     "Military and security service personnel strengths": {
-      "text": "estimates of the size of the Egyptian Armed Forces (EAF) vary; approximately 450,000 total active personnel (325,000 Army; 18,500 Navy; 30,000 Air Force; 75,000 Air Defense Command) (2020)"
+      "text": "size estimates for the Egyptian Armed Forces (EAF) vary; approximately 450,000 total active personnel (325,000 Army; 18,000 Navy; 30,000 Air Force; 75,000 Air Defense Command); approximately 300,000 Central Security Forces (2021)"
     },
     "Military equipment inventories and acquisitions": {
       "text": "the EAF's inventory is comprised of a mix of domestically produced, imported Soviet-era, and more modern, particularly Western, weapons systems; in recent years, the EAF has embarked on an extensive equipment modernization program with major purchases from a variety of suppliers; since 2010, the leading suppliers of military hardware to Egypt are France, Russia, and the US; Egypt has an established defense industry that produces a range of products from small arms to armored vehicles and naval vessels; it also has licensed and co-production agreements with several countries (2020)"
@@ -1186,7 +1191,7 @@
   },
   "Terrorism": {
     "Terrorist group(s)": {
-      "text": "Army of Islam; Islamic State of Iraq and ash-Sham &ndash; Sinai Province; Mujahidin Shura Council in the Environs of Jerusalem; al-Qa&rsquo;ida (2019)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in <a title=\"Appendix-T\" href=\"../appendix/appendix-t.html\">Appendix-T</a>",
+      "text": "Army of Islam; Islamic State of Iraq and ash-Sham &ndash; Sinai Province; Mujahidin Shura Council in the Environs of Jerusalem; al-Qa&rsquo;ida<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in <a title=\"Appendix-T\" href=\"../appendix/appendix-t.html\">Appendix-T</a>",
       "note": "<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in <a title=\"Appendix-T\" href=\"../appendix/appendix-t.html\">Appendix-T</a>"
     }
   },

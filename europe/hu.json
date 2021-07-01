@@ -109,8 +109,12 @@
       "note": "<strong>note:</strong> percentages add up to more than 100% because respondents were able to identify more than one ethnic group; Romani populations are usually underestimated in official statistics and may represent 5–10% of Hungary's population"
     },
     "Languages": {
-      "text": "Hungarian (official) 99.6%, English 16%, German 11.2%, Russian 1.6%, Romanian 1.3%, French 1.2%, other 4.2% (2011 est.)<br><br><strong>note:</strong> shares sum to more than 100% because some respondents gave more than one answer on the census; Hungarian is the mother tongue of 98.9% of Hungarian speakers",
-      "note": "<strong>note:</strong> shares sum to more than 100% because some respondents gave more than one answer on the census; Hungarian is the mother tongue of 98.9% of Hungarian speakers"
+      "Languages": {
+        "text": "Hungarian (official) 99.6%, English 16%, German 11.2%, Russian 1.6%, Romanian 1.3%, French 1.2%, other 4.2%; note - shares sum to more than 100% because some respondents gave more than one answer on the census; Hungarian is the mother tongue of 98.9% of Hungarian speakers (2011 est.)"
+      },
+      "printed major-language sample": {
+        "text": "<br />A World Factbook n&eacute;lk&uuml;l&ouml;zhetetlen forr&aacute;sa az alapvető inform&aacute;ci&oacute;nak.&nbsp; (Hungarian)<br /><br />The World Factbook, the indispensable source for basic information."
+      }
     },
     "Religions": {
       "text": "Roman Catholic 37.2%, Calvinist 11.6%, Lutheran 2.2%, Greek Catholic 1.8%, other 1.9%, none 18.2%, no response 27.2% (2011 est.)"
@@ -209,7 +213,7 @@
     "Mother's mean age at first birth": {
       "text": "28.6 years (2017 est.)"
     },
-    "Maternal mortality rate": {
+    "Maternal mortality ratio": {
       "text": "12 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
@@ -970,23 +974,23 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "3,084,836"
+        "text": "3,048,754"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "31.48 (2019 est.)"
+        "text": "31.16 (2019 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
-        "text": "10,394,172"
+        "text": "10,272,694"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "106.07 (2019 est.)"
+        "text": "105 (2019 est.)"
       }
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "telephone system is digital and highly automated; broadband penetration is the highest in Eastern Europe; replacement of all copper infrastructure with fiber nationally; govt. expands e-payment systems; regulator makes preparations for 5G service (2020)"
+        "text": "Hungary benefits from a well-developed telecom infrastructure, with adoption of 5G and upgrade of fixed networks to 1Gb/s service; fixed-line subscribership fell as subscribers migrated to mobile for voice and data; effective infrastructure-based competition, with an extensive cable network competing against DSL and expanding fiber sector; high mobile penetration and highest fixed broadband penetration rate in Eastern Europe; government supports private partnership in smart agriculture applications; as part of EU, fully liberalized and open to investment; broadcasting equipment is one of the country&rsquo;s top five imports, plus mobile phones, from China (2021) (2020)"
       },
       "domestic": {
         "text": "competition among mobile-cellular service providers has led to a sharp increase in the use of mobile-cellular phones, and a decrease in the number of fixed-line connections, 31 per 100 persons, while mobile-cellular is 106 per 100 (2019)"
@@ -994,7 +998,7 @@
       "international": {
         "text": "country code - 36; Hungary has fiber-optic cable connections with all neighboring countries; the international switch is in Budapest; satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian Ocean regions), 1 Inmarsat, 1 (very small aperture terminal) VSAT system of ground terminals"
       },
-      "note": "<strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
       "text": "mixed system of state-supported public service broadcast media and private broadcasters; the 5 publicly owned TV channels and the 2 main privately owned TV stations are the major national broadcasters; a large number of special interest channels; highly developed market for satellite and cable TV services with about two-thirds of viewers utilizing their services; 4 state-supported public-service radio networks; a large number of local stations including commercial, public service, nonprofit, and community radio stations; digital transition completed at the end of 2013; government-linked businesses have greatly consolidated ownership in broadcast and print media"
@@ -1012,10 +1016,10 @@
     },
     "Broadband - fixed subscriptions": {
       "total": {
-        "text": "3,079,549"
+        "text": "3,189,689"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "31 (2018 est.)"
+        "text": "32.6 (2019 est.)"
       }
     }
   },
@@ -1154,6 +1158,9 @@
     },
     "Military service age and obligation": {
       "text": "18-25 years of age for voluntary military service; no conscription (abolished 2005); 6-month service obligation (2019)"
+    },
+    "Military - note": {
+      "text": "Hungary joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997 and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance"
     }
   },
   "Transnational Issues": {

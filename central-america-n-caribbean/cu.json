@@ -121,10 +121,15 @@
       "note": "<strong>note:</strong> data represent racial self-identification from Cuba's 2012 national census"
     },
     "Languages": {
-      "text": "Spanish (official)"
+      "Languages": {
+        "text": "Spanish (official)"
+      },
+      "printed major-language sample": {
+        "text": "<br />La Libreta Informativa del Mundo, la fuente indispensable de informaci&oacute;n b&aacute;sica. (Spanish)<br /><br />The World Factbook, the indispensable source for basic information."
+      }
     },
     "Religions": {
-      "text": "Christian 59.2%, folk 17.4%, other .4%, none 23% (2010 est.)<br><br><strong>note:</strong> folk religions include religions of African origin, spiritualism, and others intermingled with Catholicism or Protestantism; data is estimative because no authoritative source on religious affiliation exists in Cuba",
+      "text": "Christian 59.2%, folk 17.4%, other 0.4%, none 23% (2010 est.)<br><br><strong>note:</strong> folk religions include religions of African origin, spiritualism, and others intermingled with Catholicism or Protestantism; data is estimative because no authoritative source on religious affiliation exists in Cuba",
       "note": "<strong>note:</strong> folk religions include religions of African origin, spiritualism, and others intermingled with Catholicism or Protestantism; data is estimative because no authoritative source on religious affiliation exists in Cuba"
     },
     "Age structure": {
@@ -218,7 +223,7 @@
         "text": "0.99 male(s)/female (2020 est.)"
       }
     },
-    "Maternal mortality rate": {
+    "Maternal mortality ratio": {
       "text": "36 deaths/100,000 live births (2017 est.)"
     },
     "Infant mortality rate": {
@@ -940,23 +945,23 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "1,475,679"
+        "text": "1,447,134"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "13.31 (2019 est.)"
+        "text": "13.05 (2019 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
-        "text": "5,911,586"
+        "text": "6,042,629"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "53.32 (2019 est.)"
+        "text": "54.5 (2019 est.)"
       }
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "<span style=\"display: inline !important; float: none; background-color: transparent; color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 18px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">lowest mobile phone and Internet penetration rates in the region, fixed-line teledensity is also low; fixed-line and mobile services run by the state-run ETESCA; mobile-cellular telephone service is expensive and must be paid in convertible pesos; the Cuban Government has opened several hundred Wi-Fi hotspots around the island, which are expensive, and launched a new residential Internet pilot in Havana and other provinces; as of 2018, 3G mobile service is available, if limited</span> (2020)"
+        "text": "<p>state control of the telecom sector hinders development; Cuba has the lowest mobile phone and Internet penetration rates in the region; fixed-line density is also very low; thaw of US-Cuba relations encouraged access to services, such as Wi-Fi hotspots; access to sites is controlled and censored; DSL and Internet available in Havana, though costs are too high for most Cubans;&nbsp; international investment and agreement to improve Internet access through cost-free and direct connection between networks (2021)</p> (2020)"
       },
       "domestic": {
         "text": "fixed-line density remains low at about 13 per 100 inhabitants; mobile-cellular service is expanding to about 53 per 100 persons (2019)"
@@ -964,7 +969,7 @@
       "international": {
         "text": "<span style=\"display: inline !important; float: none; background-color: transparent; color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 18px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">country code - 53; the ALBA-1, GTMO-1,&nbsp;and GTMO-PR&nbsp;fiber-optic submarine cables link Cuba, Jamaica, and Venezuela;&nbsp;satellite earth station - 1 Intersputnik (Atlantic Ocean region)</span> (2019)"
       },
-      "note": "<strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated"
+      "note": "<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
     },
     "Broadcast media": {
       "text": "<p>Government owns and controls all broadcast media: five national TV channels (Cubavision, Tele Rebelde, Multivision, Educational Channel 1 and 2,)&nbsp;2 international channels (Cubavision Internacional and Caribe,) 16 regional TV stations,&nbsp;6 national radio networks and multiple regional stations; the Cuban government beams over the Radio-TV Marti signal;&nbsp;although private ownership of electronic media is prohibited, several online independent news sites exist; those that are not openly critical of the government are often tolerated; the others are blocked by the government; there are no independent TV channels, but several outlets have created strong audiovisual content (El Toque, for example);&nbsp;a community of young Youtubers is also growing, mostly with channels about sports, technology and fashion; Christian denominations are creating original video content to distribute via social media</p> (2019)"
@@ -983,10 +988,10 @@
     },
     "Broadband - fixed subscriptions": {
       "total": {
-        "text": "98,838"
+        "text": "182,732"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "1 less than 1 (2018 est.)"
+        "text": "1.65 less than 1 (2019 est.)"
       }
     }
   },
