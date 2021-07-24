@@ -390,7 +390,7 @@ Norway (3):
 `jn` Jan Mayen
 `sv` Svalbard
 
-Great Britain (17):
+United Kingdom (17):
 `ax` Akrotiri (Sovereign Base)
 `av` Anguilla
 `bd` Bermuda
