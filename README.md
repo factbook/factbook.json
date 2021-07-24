@@ -149,7 +149,7 @@ Europe/Austria - `au.json`:
 
 ## The World Factbook Summary (~~266~~ 260 Entries)
 
-The World Factbook includes 266 entries -
+The World Factbook includes ~~266~~ 260 entries -
 195 sovereign countries /
 2 others /
 ~~58~~ 52 dependencies /
