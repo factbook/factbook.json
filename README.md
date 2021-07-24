@@ -40,6 +40,45 @@ online CIA World Factbook country profile datsets (cached in [`cache.factbook.js
 every 1st and 15th of every month. See the [GitHub Actions log](https://github.com/factbook/factbook/actions) for details.  
 
 
+### Q: The World Factbook front-page says "for 266 world entities" - but here I find only 260 (thus, 6 entities short)? What's the story?
+
+> The World Factbook provides basic intelligence on the history,
+> people, government, economy, energy, geography, communications,
+> transportation, military, terrorism, and transnational issues
+> for 266 world entities.
+>
+> (Source: [`cia.gov/the-world-factbook`](https://www.cia.gov/the-world-factbook/))
+
+A: Since March 2006
+the United States Pacific Island Wildlife Refuges (`um`)
+country profile consolidates
+seven profiles into a single new one
+(but keeps entities count as before):
+
+- Baker Island  (`fq`)
+- Howland Island (`hq`)
+- Jarvis Island (`dq`)
+- Johnston Atoll (`jq`)
+- Kingman Reef (`kq`)
+- Midway Islands (`mq`)
+- Palmyra Atoll (`lq`)
+
+### Q: What happened to the Western Sahara (`wi`) country profile?
+
+A: In December 2020 the World Factbook dropped coverage of the Western Sahara (`wi`). Why?
+In a deal with Morocco the United States recognizes the claim
+of Marocco over the Western Sahara and in return
+Morocco starts official diplomatic relations with Israel.
+
+```
+Code, Name,           Category,      Region
+wi,   Western Sahara, Miscellaneous, Africa
+```
+
+
+
+
+
 
 ## Examples
 
@@ -108,13 +147,13 @@ Europe/Austria - `au.json`:
 ```
 
 
-## The World Factbook Summary (267 Entries)
+## The World Factbook Summary (~~266~~ 260 Entries)
 
-The World Factbook includes 267 entries -
+The World Factbook includes 266 entries -
 195 sovereign countries /
 2 others /
-58 dependencies /
-6 miscellaneous /
+~~58~~ 52 dependencies /
+5 miscellaneous /
 5 oceans /
 1 world:
 
@@ -347,7 +386,7 @@ The World Factbook includes 267 entries -
 `tw` Taiwan
 `ee` European Union
 
-### Dependencies (58)
+### Dependencies (52)
 
 Australia (6):
 `at` Ashmore and Cartier Islands
@@ -409,7 +448,7 @@ United Kingdom (17):
 `sx` South Georgia and the South Sandwich Islands
 `tk` Turks and Caicos Islands
 
-United States (14):
+United States (~~14~~ 8):
 `aq` American Samoa
 `gq` Guam
 `bq` Navassa Island
@@ -421,13 +460,13 @@ United States (14):
 (Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands, Palmyra Atoll)
 
 
-### Miscellaneous (6)
+### Miscellaneous (5)
 
 `ay` Antarctica
 `gz` Gaza Strip
 `pf` Paracel Islands
 `pg` Spratly Islands
-`we` West Bank
+~~`we` West Bank~~
 `wi` Western Sahara
 
 ### Oceans (5)
