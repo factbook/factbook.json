@@ -209,7 +209,7 @@ The World Factbook includes 266 entries -
 `hr` Croatia
 `cu` Cuba
 `cy` Cyprus
-`ez` Czech Republic
+`ez` Czechia
 **D**
 `da` Denmark
 `dj` Djibouti
@@ -222,6 +222,7 @@ The World Factbook includes 266 entries -
 `ek` Equatorial Guinea
 `er` Eritrea
 `en` Estonia
+`wz` Eswatini
 `et` Ethiopia
 **F**
 `fj` Fiji
@@ -276,7 +277,6 @@ The World Factbook includes 266 entries -
 `lh` Lithuania
 `lu` Luxembourg
 **M**
-`mk` Macedonia
 `ma` Madagascar
 `mi` Malawi
 `my` Malaysia
@@ -304,6 +304,7 @@ The World Factbook includes 266 entries -
 `ng` Niger
 `ni` Nigeria
 `no` Norway
+`mk` North Macedonia
 **O**
 `mu` Oman
 **P**
@@ -345,7 +346,6 @@ The World Factbook includes 266 entries -
 `ce` Sri Lanka
 `su` Sudan
 `ns` Suriname
-`wz` Swaziland
 `sw` Sweden
 `sz` Switzerland
 `sy` Syria
@@ -466,8 +466,8 @@ United States (~~14~~ 8):
 `gz` Gaza Strip
 `pf` Paracel Islands
 `pg` Spratly Islands
-~~`we` West Bank~~
-`wi` Western Sahara
+`we` West Bank
+~~`wi` Western Sahara~~
 
 ### Oceans (5)
 
