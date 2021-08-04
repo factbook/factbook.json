@@ -35,9 +35,9 @@ A: See why not ISO codes -  Uhhh... nevermind, I see it's stored under SF. Weird
 
 ### Q: Can you update the datasets? 
 
-A: Since February 2021 the datasets get auto-updated using / fetching the original
-online CIA World Factbook country profile datsets (cached in [`cache.factbook.json`](https://github.com/factbook/cache.factbook.json)) twice a month, that is,
-every 1st and 15th of every month. See the [GitHub Actions log](https://github.com/factbook/factbook/actions) for details.  
+A: Since August 2021 the datasets get auto-updated using / fetching the original
+online CIA World Factbook country profile datsets (cached in [`cache.factbook.json`](https://github.com/factbook/cache.factbook.json)) weekly, that is,
+every Thursday. See the [GitHub Actions log](https://github.com/factbook/factbook/actions) for details.  
 
 
 ### Q: The World Factbook front-page says "for 266 world entities" - but here I find only 260 (thus, 6 entities short)? What's the story?
