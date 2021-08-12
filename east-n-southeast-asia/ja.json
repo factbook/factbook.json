@@ -121,7 +121,7 @@
       "Languages": {
         "text": "Japanese"
       },
-      "printed major-language sample": {
+      "major-language sample(s)": {
         "text": "<br>必要不可欠な基本情報の源、ワールド・ファクトブック(Japanese)<br><br>The World Factbook, the indispensable source for basic information."
       }
     },
@@ -495,6 +495,18 @@
     "Suffrage": {
       "text": "18 years of age; universal"
     },
+    "Legislative branch": {
+      "description": {
+        "text": "bicameral Diet or Kokkai consists of:<br>House of Councillors or Sangi-in (242 seats; 146 members directly elected in multi-seat districts by simple majority vote and 96 directly elected in a single national constituency by proportional representation vote; members serve 6-year terms with half the membership renewed every 3 years)<br> House of Representatives or Shugi-in (465 seats; 289 members directly elected in single-seat districts by simple majority vote and 176 directly elected in multi-seat districts by party-list proportional representation vote; members serve 4-year terms)"
+      },
+      "elections": {
+        "text": "<br> House of Councillors - last held on 10 July 2016 (next to be held in July 2019)<br> House of Representatives - last held on 22 October 2017 (next to be held by 21 October 2021)"
+      },
+      "election results": {
+        "text": "<br>House of Councillors - percent of vote by party - NA; seats by party - LDP 55, DP 32, Komeito 14, JCP 6, Osaka Ishin no Kai (Initiatives from Osaka) 7, PLPTYF 1, SDP 1, independent 5<br> House of Representatives - percent of vote by party - NA; seats by party - LDP 284, CDP 55, Party of Hope 50, Komeito 29, JCP 12, JIP 11, SDP 2, independent 22"
+      },
+      "note": "<strong>note: </strong>the Diet in June 2017 redrew Japan's electoral district boundaries and reduced from 475 to 465 seats in the House of Representatives; the amended electoral law, which cuts 6 seats in single-seat districts and 4 in multi-seat districts, was reportedly intended to reduce voting disparities between densely and sparsely populated voting districts"
+    },
     "Executive branch": {
       "chief of state": {
         "text": "Emperor NARUHITO (since 1 May 2019); note - succeeds his father who abdicated on 30 April 2019&nbsp;"
@@ -508,18 +520,6 @@
       "elections/appointments": {
         "text": "the monarchy is hereditary; the leader of the majority party or majority coalition in the House of Representatives usually becomes prime minister"
       }
-    },
-    "Legislative branch": {
-      "description": {
-        "text": "bicameral Diet or Kokkai consists of:<br>House of Councillors or Sangi-in (242 seats; 146 members directly elected in multi-seat districts by simple majority vote and 96 directly elected in a single national constituency by proportional representation vote; members serve 6-year terms with half the membership renewed every 3 years)<br> House of Representatives or Shugi-in (465 seats; 289 members directly elected in single-seat districts by simple majority vote and 176 directly elected in multi-seat districts by party-list proportional representation vote; members serve 4-year terms)"
-      },
-      "elections": {
-        "text": "<br> House of Councillors - last held on 10 July 2016 (next to be held in July 2019)<br> House of Representatives - last held on 22 October 2017 (next to be held by 21 October 2021)"
-      },
-      "election results": {
-        "text": "<br>House of Councillors - percent of vote by party - NA; seats by party - LDP 55, DP 32, Komeito 14, JCP 6, Osaka Ishin no Kai (Initiatives from Osaka) 7, PLPTYF 1, SDP 1, independent 5<br> House of Representatives - percent of vote by party - NA; seats by party - LDP 284, CDP 55, Party of Hope 50, Komeito 29, JCP 12, JIP 11, SDP 2, independent 22"
-      },
-      "note": "<strong>note: </strong>the Diet in June 2017 redrew Japan's electoral district boundaries and reduced from 475 to 465 seats in the House of Representatives; the amended electoral law, which cuts 6 seats in single-seat districts and 4 in multi-seat districts, was reportedly intended to reduce voting disparities between densely and sparsely populated voting districts"
     },
     "Judicial branch": {
       "highest courts": {
@@ -566,10 +566,13 @@
         "text": "1-10-5 Akasaka, Minato-ku, Tokyo 107-8420"
       },
       "mailing address": {
-        "text": "Unit 9800, Box 300, APO AP 96303-0300"
+        "text": "9800 Tokyo Place, Washington DC&nbsp; 20521-9800"
       },
       "FAX": {
         "text": "[81] (03) 3505-1862"
+      },
+      "email address": {
+        "text": "TokyoACS@state.gov"
       },
       "consulate(s) general": {
         "text": "Naha (Okinawa), Osaka-Kobe, Sapporo"

@@ -120,7 +120,7 @@
       "Languages": {
         "text": "Polish (official) 98.2%, Silesian 1.4%, other 1.1%, unspecified 1.3%; note - data represent the language spoken at home; shares sum to more than 100% because some respondents gave more than one answer on the census; Poland ratified the European Charter for Regional or Minority Languages in 2009 recognizing Kashub as a regional language, Czech, Hebrew, Yiddish, Belarusian, Lithuanian, German, Armenian, Russian, Slovak, and Ukrainian as national minority languages, and Karaim, Lemko, Romani (Polska Roma and Bergitka Roma), and Tatar as ethnic minority languages (2011 est.)"
       },
-      "printed major-language sample": {
+      "major-language sample(s)": {
         "text": "<br>Księga Faktów Świata, niezbędne źródło podstawowych informacji. (Polish)<br><br>The World Factbook, the indispensable source for basic information."
       }
     },
@@ -541,6 +541,18 @@
     "Suffrage": {
       "text": "18 years of age; universal"
     },
+    "Legislative branch": {
+      "description": {
+        "text": "bicameral legislature consists of:<br>Senate or Senat (100 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br> Sejm (460 seats; members elected in multi-seat constituencies by party-list proportional representation vote with 5% threshold of total votes needed for parties and 8% for coalitions to gain seats; minorities exempt from threshold; members serve 4-year terms)"
+      },
+      "elections": {
+        "text": "<br>Senate - last held on 13 October 2019 (next to be held in October 2023)<br> Sejm - last held on 13 October 2019 (next to be held in October 2023)"
+      },
+      "election results": {
+        "text": "<br>Senate - percent of vote by party - NA; seats by party - PiS 48, KO 43, PSL 3, SLD 2, independent 4; composition - men 87, women 13, percent of women 13%<br> Sejm - percent of vote by party - PiS 43.6%, KO 27.4%, SLD 12.6%, PSL 8.5% Confederation 6.8%, other 1.1%; seats by party - PiS 235, KO 134, SLD 49, PSL 30, KWiN 11, MN 1; men 334, women 126, percent of women 27.4%; note - total legislature percent of women 24.8%"
+      },
+      "note": "<strong>note:</strong> the designation National Assembly or Zgromadzenie Narodowe is only used on those rare occasions when the 2 houses meet jointly"
+    },
     "Executive branch": {
       "chief of state": {
         "text": "&nbsp;President Andrzej DUDA (since 6 August 2015)"
@@ -557,18 +569,6 @@
       "election results": {
         "text": "Andrzej DUDA reelected president in runoff; percent of vote - Andrzej DUDA (independent) 51%, Rafal TRZASKOWSKI (KO) 49%"
       }
-    },
-    "Legislative branch": {
-      "description": {
-        "text": "bicameral legislature consists of:<br>Senate or Senat (100 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br> Sejm (460 seats; members elected in multi-seat constituencies by party-list proportional representation vote with 5% threshold of total votes needed for parties and 8% for coalitions to gain seats; minorities exempt from threshold; members serve 4-year terms)"
-      },
-      "elections": {
-        "text": "<br>Senate - last held on 13 October 2019 (next to be held in October 2023)<br> Sejm - last held on 13 October 2019 (next to be held in October 2023)"
-      },
-      "election results": {
-        "text": "<br>Senate - percent of vote by party - NA; seats by party - PiS 48, KO 43, PSL 3, SLD 2, independent 4; composition - men 87, women 13, percent of women 13%<br> Sejm - percent of vote by party - PiS 43.6%, KO 27.4%, SLD 12.6%, PSL 8.5% Confederation 6.8%, other 1.1%; seats by party - PiS 235, KO 134, SLD 49, PSL 30, KWiN 11, MN 1; men 334, women 126, percent of women 27.4%; note - total legislature percent of women 24.8%"
-      },
-      "note": "<strong>note:</strong> the designation National Assembly or Zgromadzenie Narodowe is only used on those rare occasions when the 2 houses meet jointly"
     },
     "Judicial branch": {
       "highest courts": {
@@ -615,10 +615,13 @@
         "text": "Aleje Ujazdowskie 29/31 00-540 Warsaw"
       },
       "mailing address": {
-        "text": "American Embassy Warsaw, US Department of State, Washington, DC 20521-5010 (pouch)"
+        "text": "5010 Warsaw Place, Washington, DC 20521-5010"
       },
       "FAX": {
         "text": "[48] (22) 504-2226"
+      },
+      "email address": {
+        "text": "ACSWarsaw@state.gov"
       },
       "consulate(s) general": {
         "text": "Krakow"
@@ -1190,6 +1193,12 @@
     },
     "Military - note": {
       "text": "Poland joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997, and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance"
+    }
+  },
+  "Terrorism": {
+    "Terrorist group(s)": {
+      "text": "Islamic State of Iraq and ash-Sham (ISIS)",
+      "note": "<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T"
     }
   },
   "Transnational Issues": {

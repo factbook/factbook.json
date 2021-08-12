@@ -137,7 +137,7 @@
       "Languages": {
         "text": "French (official) 100%, declining regional dialects and languages (Provencal, Breton, Alsatian, Corsican, Catalan, Basque, Flemish, Occitan, Picard); note - overseas departments: French, Creole patois, Mahorian (a Swahili dialect)"
       },
-      "printed major-language sample": {
+      "major-language sample(s)": {
         "text": "<br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>The World Factbook, the indispensable source for basic information."
       }
     },
@@ -531,6 +531,17 @@
     "Suffrage": {
       "text": "18 years of age; universal"
     },
+    "Legislative branch": {
+      "description": {
+        "text": "bicameral Parliament or Parlement consists of:<br>Senate or Senat (348 seats - 328 for metropolitan France and overseas departments and regions of Guadeloupe, Martinique, French Guiana, Reunion, and Mayotte, 2 for New Caledonia, 2 for French Polynesia, 1 for Saint-Pierre and Miquelon, 1 for Saint-Barthelemy, 1 for Saint-Martin, 1 for Wallis and Futuna, and 12 for French nationals abroad; members indirectly elected by departmental electoral colleges using absolute majority vote in 2 rounds if needed for departments with 1-3 members and proportional representation vote in departments with 4 or more members; members serve 6-year terms with one-half of the membership renewed every 3 years)<br> National Assembly or Assemblee Nationale (577 seats - 556 for metropolitan France, 10 for overseas departments, and 11 for citizens abroad; members directly elected by absolute majority vote in 2 rounds if needed to serve 5-year terms)"
+      },
+      "elections": {
+        "text": "<br>Senate - last held on 24 September 2017 (next to be held on 24 September 2020)<br> National Assembly - last held on 11 and 18 June 2017 (next to be held in June 2022)"
+      },
+      "election results": {
+        "text": "<br>Senate - percent of vote by party - NA; seats by political caucus (party or group of parties)  - LR 144, PS 73, UC 51. LREM 23, RDSE 22, CRCE 16, RTLI 13, other 6; composition - men 246, women 102, percent of women 29.3%<br> National Assembly - percent of vote by party first round - LREM 28.2%, LR 15.8%. FN 13.2%, FI 11%, PS 7.4%, other 24.4%; percent of vote by party second round - LREM 43.1%, LR 22.2%, FN 8.8%, MoDEM 6.1%, PS 5.7%. FI 4.9%, other 9.2%; seats by political caucus (party or group of parties) - LREM 306, LR 104, MoDEM 46, UDI/Agir 29, PS 29, UDI 18, FI 17, Liberties and Territories 16, PCF 16, other 14; composition - men 349, women 228, percent of women 39.5%; note - total Parliament percent of women 35.7%"
+      }
+    },
     "Executive branch": {
       "chief of state": {
         "text": "President Emmanuel MACRON (since 14 May 2017)&nbsp;"
@@ -546,17 +557,6 @@
       },
       "election results": {
         "text": "Emmanuel MACRON elected president in second round; percent of vote in first round - Emmanuel MACRON (EM) 24.%, Marine LE PEN (FN) 21.3%, Francois FILLON (LR) 20.%, Jean-Luc MELENCHON (FI) 19.6%, Benoit HAMON (PS) 6.4%, other 8.7%; percent of vote in second round - MACRON 66.1%, LE PEN 33.9%"
-      }
-    },
-    "Legislative branch": {
-      "description": {
-        "text": "bicameral Parliament or Parlement consists of:<br>Senate or Senat (348 seats - 328 for metropolitan France and overseas departments and regions of Guadeloupe, Martinique, French Guiana, Reunion, and Mayotte, 2 for New Caledonia, 2 for French Polynesia, 1 for Saint-Pierre and Miquelon, 1 for Saint-Barthelemy, 1 for Saint-Martin, 1 for Wallis and Futuna, and 12 for French nationals abroad; members indirectly elected by departmental electoral colleges using absolute majority vote in 2 rounds if needed for departments with 1-3 members and proportional representation vote in departments with 4 or more members; members serve 6-year terms with one-half of the membership renewed every 3 years)<br> National Assembly or Assemblee Nationale (577 seats - 556 for metropolitan France, 10 for overseas departments, and 11 for citizens abroad; members directly elected by absolute majority vote in 2 rounds if needed to serve 5-year terms)"
-      },
-      "elections": {
-        "text": "<br>Senate - last held on 24 September 2017 (next to be held on 24 September 2020)<br> National Assembly - last held on 11 and 18 June 2017 (next to be held in June 2022)"
-      },
-      "election results": {
-        "text": "<br>Senate - percent of vote by party - NA; seats by political caucus (party or group of parties)  - LR 144, PS 73, UC 51. LREM 23, RDSE 22, CRCE 16, RTLI 13, other 6; composition - men 246, women 102, percent of women 29.3%<br> National Assembly - percent of vote by party first round - LREM 28.2%, LR 15.8%. FN 13.2%, FI 11%, PS 7.4%, other 24.4%; percent of vote by party second round - LREM 43.1%, LR 22.2%, FN 8.8%, MoDEM 6.1%, PS 5.7%. FI 4.9%, other 9.2%; seats by political caucus (party or group of parties) - LREM 306, LR 104, MoDEM 46, UDI/Agir 29, PS 29, UDI 18, FI 17, Liberties and Territories 16, PCF 16, other 14; composition - men 349, women 228, percent of women 39.5%; note - total Parliament percent of women 35.7%"
       }
     },
     "Judicial branch": {
@@ -605,10 +605,13 @@
         "text": "2 Avenue Gabriel, 75008 Paris"
       },
       "mailing address": {
-        "text": "PSC 116, APO AE 09777"
+        "text": "9200 Paris Place, Washington DC&nbsp; 20521-9200"
       },
       "FAX": {
         "text": "[33] (1) 42 66 97 83"
+      },
+      "email address": {
+        "text": "Citizeninfo@state.gov"
       },
       "consulate(s) general": {
         "text": "Marseille, Strasbourg"

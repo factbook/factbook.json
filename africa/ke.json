@@ -123,7 +123,7 @@
       "Languages": {
         "text": "English (official), Kiswahili (official), numerous indigenous languages"
       },
-      "printed major-language sample": {
+      "major-language sample(s)": {
         "text": "<br>The World Factbook, the indispensable source for basic information. (English)<br><br>The World Factbook, Chanzo cha Lazima Kuhusu Habari ya Msingi. (Kiswahili)"
       }
     },
@@ -568,6 +568,17 @@
     "Suffrage": {
       "text": "18 years of age; universal"
     },
+    "Legislative branch": {
+      "description": {
+        "text": "bicameral Parliament consists of:<br>Senate (67 seats; 47 members directly elected in single-seat constituencies by simple majority vote and 20 directly elected by proportional representation vote - 16 women, 2 representing youth, and 2 representing the disabled; members serve 5-year terms)<br> National Assembly (349 seats; 290 members directly elected in single-seat constituencies by simple majority vote, 47 women in single-seat constituencies elected by simple majority vote, and 12 members nominated by the National Assembly - 6 representing youth and 6 representing the disabled; members serve 5-year terms)"
+      },
+      "elections": {
+        "text": "Senate - last held on 8 August 2017 (next to be held in August 2022)<br> National Assembly - last held on 8 August 2017 (next to be held in August 2022)"
+      },
+      "election results": {
+        "text": "Senate - percent of vote by party/coalition - NA; seats by party/coalition - Jubilee Party 24; National Super Alliance 28, other 14, independent 1; composition - men 46, women 41, percent of women is 31.3%<br><br> National Assembly - percent of vote by party/coalition - NA; seats by party/coalition - Jubilee Party 165, National Super Alliance 119, other 51, independent 13; composition - men 273, women 76, percent of women 21.8%; note - total Parliament percent of women is 23%"
+      }
+    },
     "Executive branch": {
       "chief of state": {
         "text": "President Uhuru KENYATTA (since 9 April 2013); Deputy President William RUTO (since 9 April 2013); note - the president is both chief of state and head of government"
@@ -583,17 +594,6 @@
       },
       "election results": {
         "text": "Uhuru KENYATTA reelected president; percent of vote - Uhuru KENYATTA (Jubilee Party) 98.3%, Raila ODINGA (ODM) 1%, other 0.7%; note - Kenya held a previous presidential election on 8 August 2017, but Kenya's Supreme Court on 1 September 2017 nullified the results, citing irregularities; the political opposition boycotted the October vote"
-      }
-    },
-    "Legislative branch": {
-      "description": {
-        "text": "bicameral Parliament consists of:<br>Senate (67 seats; 47 members directly elected in single-seat constituencies by simple majority vote and 20 directly elected by proportional representation vote - 16 women, 2 representing youth, and 2 representing the disabled; members serve 5-year terms)<br> National Assembly (349 seats; 290 members directly elected in single-seat constituencies by simple majority vote, 47 women in single-seat constituencies elected by simple majority vote, and 12 members nominated by the National Assembly - 6 representing youth and 6 representing the disabled; members serve 5-year terms)"
-      },
-      "elections": {
-        "text": "Senate - last held on 8 August 2017 (next to be held in August 2022)<br> National Assembly - last held on 8 August 2017 (next to be held in August 2022)"
-      },
-      "election results": {
-        "text": "Senate - percent of vote by party/coalition - NA; seats by party/coalition - Jubilee Party 24; National Super Alliance 28, other 14, independent 1; composition - men 46, women 41, percent of women is 31.3%<br><br> National Assembly - percent of vote by party/coalition - NA; seats by party/coalition - Jubilee Party 165, National Super Alliance 119, other 51, independent 13; composition - men 273, women 76, percent of women 21.8%; note - total Parliament percent of women is 23%"
       }
     },
     "Judicial branch": {
@@ -644,10 +644,13 @@
         "text": "United Nations Avenue, Nairobi; P.O. Box 606 Village Market, Nairobi 00621"
       },
       "mailing address": {
-        "text": "American Embassy Nairobi, U.S. Department of State, Washington, DC 20521-8900"
+        "text": "8900 Nairobi Place, Washington, DC&nbsp; 20521-8900"
       },
       "FAX": {
         "text": "[254] (20) 363-6157"
+      },
+      "email address": {
+        "text": "kenya_acs@state.gov"
       }
     },
     "Flag description": {

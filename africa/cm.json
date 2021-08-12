@@ -120,7 +120,7 @@
       "Languages": {
         "text": "24 major African language groups, English (official), French (official)"
       },
-      "printed major-language sample": {
+      "major-language sample(s)": {
         "text": "<br>The World Factbook, the indispensable source for basic information. (English)<br><br>The World Factbook, une source indispensable d'informations de base. (French)"
       }
     },
@@ -571,6 +571,17 @@
     "Suffrage": {
       "text": "20 years of age; universal"
     },
+    "Legislative branch": {
+      "description": {
+        "text": "bicameral Parliament or Parlement consists of:<br>Senate or Senat (100 seats; 70 members indirectly elected by regional councils and 30 appointed by the president; members serve 5-year terms)<br> National Assembly or Assemblee Nationale (180 seats; members directly elected in multi-seat constituencies by simple majority vote to serve 5-year terms)"
+      },
+      "elections": {
+        "text": "Senate - last held on 25 March 2018 (next to be held in 2023)<br> National Assembly - last held on 9 February 2020 (current term extended by President); note - the constitutional court has ordered a partial rerun of elections in the English speaking areas; date to be determined"
+      },
+      "election results": {
+        "text": "Senate - percent of vote by party - CDPM 81.1%, SDF 8.6%, UNDP 5.8%, UDC 1.16%, other 2.8%; seats by party - CPDM 63, SDF 7 <br>National Assembly - percent of vote by party - NA; seats by party - CPDM 139, UNDP 7, SDF 5, PCRN 5, UDC 4, FSNC 3, MDR 2, Union of Socialist Movements 2; 13 vacant; composition - NA"
+      }
+    },
     "Executive branch": {
       "chief of state": {
         "text": "President Paul BIYA (since 6 November 1982)"
@@ -586,17 +597,6 @@
       },
       "election results": {
         "text": "Paul BIYA reelected president; percent of vote - Paul BIYA (CPDM) 71.3%, Maurice KAMTO (MRC) 14.2%, Cabral LIBII (Univers) 6.3%, other 8.2%"
-      }
-    },
-    "Legislative branch": {
-      "description": {
-        "text": "bicameral Parliament or Parlement consists of:<br>Senate or Senat (100 seats; 70 members indirectly elected by regional councils and 30 appointed by the president; members serve 5-year terms)<br> National Assembly or Assemblee Nationale (180 seats; members directly elected in multi-seat constituencies by simple majority vote to serve 5-year terms)"
-      },
-      "elections": {
-        "text": "Senate - last held on 25 March 2018 (next to be held in 2023)<br> National Assembly - last held on 9 February 2020 (current term extended by President); note - the constitutional court has ordered a partial rerun of elections in the English speaking areas; date to be determined"
-      },
-      "election results": {
-        "text": "Senate - percent of vote by party - CDPM 81.1%, SDF 8.6%, UNDP 5.8%, UDC 1.16%, other 2.8%; seats by party - CPDM 63, SDF 7 <br>National Assembly - percent of vote by party - NA; seats by party - CPDM 139, UNDP 7, SDF 5, PCRN 5, UDC 4, FSNC 3, MDR 2, Union of Socialist Movements 2; 13 vacant; composition - NA"
       }
     },
     "Judicial branch": {
@@ -641,10 +641,13 @@
         "text": "Avenue Rosa Parks, Yaound&eacute;"
       },
       "mailing address": {
-        "text": "P.O. Box 817, Yaounde; pouch: American Embassy, US Department of State, Washington, DC 20521-2520"
+        "text": "2520 Yaounde Place, Washington, DC&nbsp; 20521-2520"
       },
       "FAX": {
         "text": "[237] 22220 1500 Ext. 4531; Consular FAX: [237] 22220 1752"
+      },
+      "email address": {
+        "text": "YaoundeACS@state.gov"
       },
       "branch office(s)": {
         "text": "Douala"
@@ -1215,7 +1218,7 @@
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
-        "text": "325,366 (Central African Republic), 118,334 (Nigeria) (2021)"
+        "text": "328,258 (Central African Republic), 118,409 (Nigeria) (2021)"
       },
       "IDPs": {
         "text": "1,032,942 (2021) (includes far north, northwest, and southwest)"

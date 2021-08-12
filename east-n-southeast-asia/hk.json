@@ -113,7 +113,7 @@
       "Languages": {
         "text": "Cantonese (official) 88.9%, English (official) 4.3%, Mandarin (official) 1.9%, other Chinese dialects 3.1%, other 1.9% (2016 est.)"
       },
-      "printed major-language sample": {
+      "major-language sample(s)": {
         "text": "<br>世界概放，必須擁有的基本資料参考书 (Cantonese)<br><br>The World Factbook, the indispensable source for basic information."
       }
     },
@@ -427,6 +427,17 @@
     "Suffrage": {
       "text": "18 years of age in direct elections for half of the Legislative Council seats and all of the seats in 18 district councils; universal for permanent residents living in the territory of Hong Kong for the past 7 years; note - in indirect elections, suffrage is limited to about 220,000 members of functional constituencies for the other half of the legislature and a 1,200-member election committee for the chief executive drawn from broad sectoral groupings, central government bodies, municipal organizations, and elected Hong Kong officials"
     },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral Legislative Council or LegCo (70 seats; 35 members directly elected in multi-seat constituencies by party-list proportional representation vote; 30 members indirectly elected by the approximately 220,000 members of various functional constituencies based on a variety of methods; 5 at large \"super-seat\" members directly elected by all of Hong Kong&rsquo;s eligible voters who do not participate in a functional constituency; members serve 4-year terms)"
+      },
+      "elections": {
+        "text": "last held on 4 September 2016; (scheduled for September 2020, but delayed until 19 December 2021); note - byelection held on 11 March and 25 November 2018 to fill 5 seats left vacant after 5 legislators were removed from office"
+      },
+      "election results": {
+        "text": "percent of vote by block - pro-democracy 36%; pro-Beijing 40.2%, localist 19%, other 4.8%; seats by block/party - pro-Beijing 40 (DAB 12, BPA 7, FTU 5, Liberal Party 4, NPP 3, other 9); pro-democracy 23 (Democratic Party 7, Civic Party 6, PP-LSD 2, Professional Commons 2, Labor 1, NWSC 1, PTU 1, other democrats 3), localists 6 (ALLinHK 2, CP-PPI-HKRO 1, Demosisto 1, Democracy Groundwork 1, other localist 1), non-aligned independent 1; composition - men 59, women 11, percent of women 15.7%; note - 2 localists were barred from taking office in November 2016 and 4 pro-democracy legislators were removed in July 2017; two pan-democratic, two DAB, and one pro-establishment candidates won the byelections in 2018 to fill the seats vacated by the 5 legislators removed from office; one pro-democracy seat remains unfilled pending a court appeal; percent of vote by block as of March 2019 - pro-Beijing 62% pro-democracy 38%; seats by block/party as of March 2019 - pro-Beijing 43 (DAB 13, BPA 7, FTU 5, Liberal Party 4, NPP 3, other 11); pro-democracy 26 (Democratic Party 7, Civic Party 5, Professional Commons 2, Civic Passion 1, Labor 1 PTU 1, Council Front 6, independent 3); composition as of March 2019 - men 58, women 11; percent of women 15.7%<br> <p><strong> </strong></p>"
+      }
+    },
     "Executive branch": {
       "chief of state": {
         "text": "President of China XI Jinping (since 14 March 2013)&nbsp;"
@@ -444,17 +455,6 @@
         "text": "Carrie LAM elected chief executive; Election Committee vote - Carrie LAM 777, John TSANG 365, WOO Kwok-hing 21, invalid 23"
       },
       "note": "<strong>note:</strong> the Legislative Council voted in June 2010 to expand the Election Committee to 1,200 members"
-    },
-    "Legislative branch": {
-      "description": {
-        "text": "unicameral Legislative Council or LegCo (70 seats; 35 members directly elected in multi-seat constituencies by party-list proportional representation vote; 30 members indirectly elected by the approximately 220,000 members of various functional constituencies based on a variety of methods; 5 at large \"super-seat\" members directly elected by all of Hong Kong&rsquo;s eligible voters who do not participate in a functional constituency; members serve 4-year terms)"
-      },
-      "elections": {
-        "text": "last held on 4 September 2016; (scheduled for September 2020, but delayed until 19 December 2021); note - byelection held on 11 March and 25 November 2018 to fill 5 seats left vacant after 5 legislators were removed from office"
-      },
-      "election results": {
-        "text": "percent of vote by block - pro-democracy 36%; pro-Beijing 40.2%, localist 19%, other 4.8%; seats by block/party - pro-Beijing 40 (DAB 12, BPA 7, FTU 5, Liberal Party 4, NPP 3, other 9); pro-democracy 23 (Democratic Party 7, Civic Party 6, PP-LSD 2, Professional Commons 2, Labor 1, NWSC 1, PTU 1, other democrats 3), localists 6 (ALLinHK 2, CP-PPI-HKRO 1, Demosisto 1, Democracy Groundwork 1, other localist 1), non-aligned independent 1; composition - men 59, women 11, percent of women 15.7%; note - 2 localists were barred from taking office in November 2016 and 4 pro-democracy legislators were removed in July 2017; two pan-democratic, two DAB, and one pro-establishment candidates won the byelections in 2018 to fill the seats vacated by the 5 legislators removed from office; one pro-democracy seat remains unfilled pending a court appeal; percent of vote by block as of March 2019 - pro-Beijing 62% pro-democracy 38%; seats by block/party as of March 2019 - pro-Beijing 43 (DAB 13, BPA 7, FTU 5, Liberal Party 4, NPP 3, other 11); pro-democracy 26 (Democratic Party 7, Civic Party 5, Professional Commons 2, Civic Passion 1, Labor 1 PTU 1, Council Front 6, independent 3); composition as of March 2019 - men 58, women 11; percent of women 15.7%<br> <p><strong> </strong></p>"
-      }
     },
     "Judicial branch": {
       "highest courts": {
@@ -493,10 +493,13 @@
         "text": "U. S. Consulate General Hong Kong and Macau<br>26 Garden Road<br>Central Hong Kong"
       },
       "mailing address": {
-        "text": "Unit 8000, Box 1, DPO AP 96521-0006"
+        "text": "8000 Hong Kong Place, Washington DC&nbsp; 20521-8000"
       },
       "FAX": {
         "text": "[852] 2845-1598"
+      },
+      "email address": {
+        "text": "acshk@state.gov"
       },
       "consulate(s) general": {
         "text": "26 Garden Road, Hong Kong"

@@ -117,7 +117,7 @@
       "Languages": {
         "text": "Arabic (official), French, English, Armenian"
       },
-      "printed major-language sample": {
+      "major-language sample(s)": {
         "text": "<br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information."
       }
     },
@@ -501,9 +501,21 @@
     "Suffrage": {
       "text": "21 years of age; authorized for all men and women regardless of religion; excludes persons convicted of felonies and other crimes or those imprisoned; excludes all military and security service personnel regardless of rank"
     },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral National Assembly or Majlis al-Nuwab in Arabic or Assemblee Nationale in French (128 seats; members directly elected by listed-based proportional representation vote; members serve 4-year terms); prior to 2017, the electoral system was by majoritarian vote"
+      },
+      "elections": {
+        "text": "last held on 6 May 2018 (next to be held in 2022)"
+      },
+      "election results": {
+        "text": "percent of vote by coalition - NA; seats by coalition &ndash; Strong Lebanon Bloc (Free Patriotic Movement-led) 25; Future Bloc (Future Movement-led) 20; Development and Liberation Bloc (Amal Movement-led) 16; Loyalty to the Resistance Bloc (Hizballah-led) 15; Strong Republic Bloc (Lebanese Forces-led) 15; Democratic Gathering (Progressive Socialist Party-led) 9; Independent Centre Bloc 4; National Bloc (Marada Movement-led) 3; Syrian Social Nationalist Party 3; Tashnaq 3; Kata&rsquo;ib 3; other 8; independent 4; &nbsp;composition - men 122, women 6, percent of women 4.6%"
+      },
+      "note": "<strong>note:</strong> Lebanon’s constitution states the National Assembly cannot conduct regular business until it elects a president when the position is vacant"
+    },
     "Executive branch": {
       "chief of state": {
-        "text": "President Michel AWN (since 21 January 2021)"
+        "text": "President Michel AWN (since 31 October 2016)"
       },
       "head of government": {
         "text": "Prime Minister Hassan DIAB (since 22 October 2020); note - the Lebanese Government is in \"caretaker\" status"
@@ -517,18 +529,6 @@
       "election results": {
         "text": "Michel AWN elected president in second round; National Assembly vote - Michel AWN (FPM) 83 votes; note - in the initial election held on 23 April 2014, no candidate received the required two-thirds vote, and subsequent attempts failed because the Assembly lacked the necessary quorum to hold a vote; the president was finally elected in its 46th attempt on 31 October 2016"
       }
-    },
-    "Legislative branch": {
-      "description": {
-        "text": "unicameral National Assembly or Majlis al-Nuwab in Arabic or Assemblee Nationale in French (128 seats; members directly elected by listed-based proportional representation vote; members serve 4-year terms); prior to 2017, the electoral system was by majoritarian vote"
-      },
-      "elections": {
-        "text": "last held on 6 May 2018 (next to be held in 2022)"
-      },
-      "election results": {
-        "text": "percent of vote by coalition - NA; seats by coalition &ndash; Strong Lebanon Bloc (Free Patriotic Movement-led) 25; Future Bloc (Future Movement-led) 20; Development and Liberation Bloc (Amal Movement-led) 16; Loyalty to the Resistance Bloc (Hizballah-led) 15; Strong Republic Bloc (Lebanese Forces-led) 15; Democratic Gathering (Progressive Socialist Party-led) 9; Independent Centre Bloc 4; National Bloc (Marada Movement-led) 3; Syrian Social Nationalist Party 3; Tashnaq 3; Kata&rsquo;ib 3; other 8; independent 4; &nbsp;composition - men 122, women 6, percent of women 4.6%"
-      },
-      "note": "<strong>note:</strong> Lebanon’s constitution states the National Assembly cannot conduct regular business until it elects a president when the position is vacant"
     },
     "Judicial branch": {
       "highest courts": {
@@ -575,10 +575,13 @@
         "text": "Awkar-Facing the Municipality, Main Street, Beirut"
       },
       "mailing address": {
-        "text": "P. O. Box 70-840, Antelias, Lebanon; from US: US Embassy Beirut, 6070 Beirut Place, Washington, DC 20521-6070"
+        "text": "6070 Beirut Place, Washington DC&nbsp; 20521-6070"
       },
       "FAX": {
         "text": "[961] (4) 544136"
+      },
+      "email address": {
+        "text": "BeirutACS@state.gov"
       }
     },
     "Flag description": {
