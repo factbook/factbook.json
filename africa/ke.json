@@ -526,7 +526,9 @@
       "time difference": {
         "text": "UTC+3 (8 hours ahead of Washington, DC, during Standard Time)"
       },
-      "note": "<strong>etymology:</strong> the name derives from the Maasai expression meaning \"cool waters\" and refers to a cold water stream that flowed through the area in the late 19th century"
+      "etymology": {
+        "text": "the name derives from the Maasai expression meaning \"cool waters\" and refers to a cold water stream that flowed through the area in the late 19th century"
+      }
     },
     "Administrative divisions": {
       "text": "47 counties; Baringo, Bomet, Bungoma, Busia, Elgeyo/Marakwet, Embu, Garissa, Homa Bay, Isiolo, Kajiado, Kakamega, Kericho, Kiambu, Kilifi, Kirinyaga, Kisii, Kisumu, Kitui, Kwale, Laikipia, Lamu, Machakos, Makueni, Mandera, Marsabit, Meru, Migori, Mombasa, Murang'a, Nairobi City, Nakuru, Nandi, Narok, Nyamira, Nyandarua, Nyeri, Samburu, Siaya, Taita/Taveta, Tana River, Tharaka-Nithi, Trans Nzoia, Turkana, Uasin Gishu, Vihiga, Wajir, West Pokot"
@@ -568,17 +570,6 @@
     "Suffrage": {
       "text": "18 years of age; universal"
     },
-    "Legislative branch": {
-      "description": {
-        "text": "bicameral Parliament consists of:<br>Senate (67 seats; 47 members directly elected in single-seat constituencies by simple majority vote and 20 directly elected by proportional representation vote - 16 women, 2 representing youth, and 2 representing the disabled; members serve 5-year terms)<br> National Assembly (349 seats; 290 members directly elected in single-seat constituencies by simple majority vote, 47 women in single-seat constituencies elected by simple majority vote, and 12 members nominated by the National Assembly - 6 representing youth and 6 representing the disabled; members serve 5-year terms)"
-      },
-      "elections": {
-        "text": "Senate - last held on 8 August 2017 (next to be held in August 2022)<br> National Assembly - last held on 8 August 2017 (next to be held in August 2022)"
-      },
-      "election results": {
-        "text": "Senate - percent of vote by party/coalition - NA; seats by party/coalition - Jubilee Party 24; National Super Alliance 28, other 14, independent 1; composition - men 46, women 41, percent of women is 31.3%<br><br> National Assembly - percent of vote by party/coalition - NA; seats by party/coalition - Jubilee Party 165, National Super Alliance 119, other 51, independent 13; composition - men 273, women 76, percent of women 21.8%; note - total Parliament percent of women is 23%"
-      }
-    },
     "Executive branch": {
       "chief of state": {
         "text": "President Uhuru KENYATTA (since 9 April 2013); Deputy President William RUTO (since 9 April 2013); note - the president is both chief of state and head of government"
@@ -594,6 +585,17 @@
       },
       "election results": {
         "text": "Uhuru KENYATTA reelected president; percent of vote - Uhuru KENYATTA (Jubilee Party) 98.3%, Raila ODINGA (ODM) 1%, other 0.7%; note - Kenya held a previous presidential election on 8 August 2017, but Kenya's Supreme Court on 1 September 2017 nullified the results, citing irregularities; the political opposition boycotted the October vote"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "bicameral Parliament consists of:<br>Senate (67 seats; 47 members directly elected in single-seat constituencies by simple majority vote and 20 directly elected by proportional representation vote - 16 women, 2 representing youth, and 2 representing the disabled; members serve 5-year terms)<br> National Assembly (349 seats; 290 members directly elected in single-seat constituencies by simple majority vote, 47 women in single-seat constituencies elected by simple majority vote, and 12 members nominated by the National Assembly - 6 representing youth and 6 representing the disabled; members serve 5-year terms)"
+      },
+      "elections": {
+        "text": "Senate - last held on 8 August 2017 (next to be held in August 2022)<br> National Assembly - last held on 8 August 2017 (next to be held in August 2022)"
+      },
+      "election results": {
+        "text": "Senate - percent of vote by party/coalition - NA; seats by party/coalition - Jubilee Party 24; National Super Alliance 28, other 14, independent 1; composition - men 46, women 41, percent of women is 31.3%<br><br> National Assembly - percent of vote by party/coalition - NA; seats by party/coalition - Jubilee Party 165, National Super Alliance 119, other 51, independent 13; composition - men 273, women 76, percent of women 21.8%; note - total Parliament percent of women is 23%"
       }
     },
     "Judicial branch": {
@@ -1185,6 +1187,9 @@
       "note": "note: the National Police Service includes a paramilitary General Service Unit"
     },
     "Military expenditures": {
+      "Military Expenditures 2020": {
+        "text": "1.2% of GDP (2020)"
+      },
       "Military Expenditures 2019": {
         "text": "1.3% of GDP (2019)"
       },
@@ -1196,9 +1201,6 @@
       },
       "Military Expenditures 2016": {
         "text": "1.3% of GDP (2016)"
-      },
-      "Military Expenditures 2015": {
-        "text": "1.3% of GDP (2015)"
       }
     },
     "Military and security service personnel strengths": {

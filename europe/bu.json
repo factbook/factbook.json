@@ -483,7 +483,9 @@
       "daylight saving time": {
         "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
       },
-      "note": "<strong>etymology:</strong> named after the Saint Sofia Church in the city, parts of which date back to the 4th century A.D."
+      "etymology": {
+        "text": "named after the Saint Sofia Church in the city, parts of which date back to the 4th century A.D."
+      }
     },
     "Administrative divisions": {
       "text": "28 provinces (oblasti, singular - oblast); Blagoevgrad, Burgas, Dobrich, Gabrovo, Haskovo, Kardzhali, Kyustendil, Lovech, Montana, Pazardzhik, Pernik, Pleven, Plovdiv, Razgrad, Ruse, Shumen, Silistra, Sliven, Smolyan, Sofia, Sofia-Grad (Sofia City), Stara Zagora, Targovishte, Varna, Veliko Tarnovo, Vidin, Vratsa, Yambol"
@@ -525,17 +527,6 @@
     "Suffrage": {
       "text": "18 years of age; universal"
     },
-    "Legislative branch": {
-      "description": {
-        "text": "unicameral National Assembly or Narodno Sabranie (240 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)"
-      },
-      "elections": {
-        "text": "last held on 11 July 2021 (next election to be held in 2025)"
-      },
-      "election results": {
-        "text": "percent of vote by party/coalition - ITN 23.8%, GERB-SDS 23.2%, BSP for Bulgaria 13.2%, DB 12.5%, DPS 10.6%, ISMV 5%, other 11.7%; seats by party/coalition ITN 65, GERB-SDS 63, BSP for Bulgaria 36, DB 34, DPS 29, ISMV 13"
-      }
-    },
     "Executive branch": {
       "chief of state": {
         "text": "President Rumen RADEV (since 22 January 2017); Vice President Iliana IOTOVA (since 22 January 2017)"
@@ -551,6 +542,17 @@
       },
       "election results": {
         "text": "Rumen RADEV elected president in second round; percent of vote - Rumen RADEV (independent, supported by Bulgarian Socialist Party) 59.4%, Tsetska TSACHEVA (GERB) 36.2%, neither 4.5%"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral National Assembly or Narodno Sabranie (240 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)"
+      },
+      "elections": {
+        "text": "last held on 11 July 2021 (next election to be held in 2025)"
+      },
+      "election results": {
+        "text": "percent of vote by party/coalition - ITN 23.8%, GERB-SDS 23.2%, BSP for Bulgaria 13.2%, DB 12.5%, DPS 10.6%, ISMV 5%, other 11.7%; seats by party/coalition ITN 65, GERB-SDS 63, BSP for Bulgaria 36, DB 34, DPS 29, ISMV 13"
       }
     },
     "Judicial branch": {

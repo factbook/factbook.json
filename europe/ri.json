@@ -502,7 +502,9 @@
       "daylight saving time": {
         "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
       },
-      "note": "<strong>etymology:</strong> the Serbian \"Beograd\" means \"white fortress\" or \"white city\" and dates back to the 9th century; the name derives from the white fortress wall that once enclosed the city"
+      "etymology": {
+        "text": "the Serbian \"Beograd\" means \"white fortress\" or \"white city\" and dates back to the 9th century; the name derives from the white fortress wall that once enclosed the city"
+      }
     },
     "Administrative divisions": {
       "text": "<p>119 municipalities (opstine, singular - opstina) and 26 cities (gradovi, singular - grad)</p><p><strong>municipalities:</strong> Ada*, Aleksandrovac, Aleksinac, Alibunar*, Apatin*, Arandelovac, Arilje, Babusnica, Bac*, Backa Palanka*, Backa Topola*, Backi Petrovac*, Bajina Basta, Batocina, Becej*, Bela Crkva*, Bela Palanka, Beocin*, Blace, Bogatic, Bojnik, Boljevac, Bor, Bosilegrad, Brus, Bujanovac, Cajetina, Cicevac, Coka*, Crna Trava, Cuprija, Despotovac, Dimitrov, Doljevac, Gadzin Han, Golubac, Gornji Milanovac, Indija*, Irig*, Ivanjica, Kanjiza*, Kladovo, Knic, Knjazevac, Koceljeva, Kosjeric, Kovacica*, Kovin*, Krupanj, Kucevo, Kula*, Kursumlija, Lajkovac, Lapovo, Lebane, Ljig, Ljubovija, Lucani, Majdanpek, Mali Idos*, Mali Zvornik, Malo Crnice, Medveda, Merosina, Mionica, Negotin, Nova Crnja*, Nova Varos, Novi Becej*, Novi Knezevac*, Odzaci*, Opovo*, Osecina, Paracin, Pecinci*, Petrovac na Mlavi, Plandiste*, Pozega, Presevo, Priboj, Prijepolje, Prokuplje, Raca, Raska, Razanj, Rekovac, Ruma*, Secanj*, Senta*, Sid*, Sjenica, Smederevska Palanka, Sokobanja, Srbobran*, Sremski Karlovci*, Stara Pazova*, Surdulica, Svilajnac, Svrljig, Temerin*, Titel*, Topola, Trgoviste, Trstenik, Tutin, Ub, Varvarin, Velika Plana, Veliko Gradiste, Vladicin Han, Vladimirci, Vlasotince, Vrbas*, Vrnjacka Banja, Zabalj*, Zabari, Zagubica, Zitiste*, Zitorada; </p><p><strong>cities:</strong> Beograd, Cacak, Jagodina, Kikinda*, Kragujevac, Kraljevo, Krusevac, Leskovac, Loznica, Nis, Novi Pazar, Novi Sad*, Pancevo*, Pirot, Pozarevac, Sabac, Smederevo, Sombor*, Sremska Mitrovica*, Subotica*, Uzice, Valjevo, Vranje, Vrsac*, Zajecar, Zrenjanin*</p>",
@@ -545,18 +547,6 @@
     "Suffrage": {
       "text": "18 years of age, 16 if employed; universal"
     },
-    "Legislative branch": {
-      "description": {
-        "text": "unicameral National Assembly or Narodna Skupstina (250 seats; members directly elected by party list proportional representation vote in a single nationwide constituency to serve 4-year terms)"
-      },
-      "elections": {
-        "text": "last held on 21 June 2020 (originally scheduled for 26 April 2020 but postponed due to the COVID-19 pandemic) (next to be held in 2024)"
-      },
-      "election results": {
-        "text": "percent of vote by party/coalition - For Our Children 60.7%, SPS-JS 10.4%, SPAS 3.8%, SVM 2.2%, Straight Ahead 1%, Albanian Democratic Alternative .8%, SDA .8%, other 20.3%; seats by party/coalition For Our Children 188, SPS-JS 32, SPAS 11, SVM 9, Straight Ahead 4, Albanian Democratic Alternative 3, SDA 3; composition (preliminary) -&nbsp; men 165, women 85, percent of women 30%"
-      },
-      "note": "<strong>note:</strong> seats by party as of May 2019  - SNS 91, SRS 22, SPS 20, DS 13, SDPS 10, PUPS 9, Dveri 6, JS 6, LDP 4, SDS 4, SVM 4, other 36, independent 25; composition - men 157, women 93, percent of women 37.2%"
-    },
     "Executive branch": {
       "chief of state": {
         "text": "President Aleksandar VUCIC (since 31 May 2017)"
@@ -572,6 +562,17 @@
       },
       "election results": {
         "text": "Aleksandar VUCIC elected president in the first round; percent of vote - Aleksandar VUCIC (SNS) 55.1%, Sasa JANKOVIC (independent) 16.4%, Luka MAKSIMOVIC (independent) 9.4%, Vuk JEREMIC (independent) 5.7%, Vojislav SESELJ (SRS) 4.5%, Bosko OBRADOVIC (Dveri) 2.3%, other 5.0%, invalid/blank 1.6%; Prime Minister Ana BRNABIC reelected by the National Assembly on 5 October 2020"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral National Assembly or Narodna Skupstina (250 seats; members directly elected by party list proportional representation vote in a single nationwide constituency to serve 4-year terms)"
+      },
+      "elections": {
+        "text": "last held on 21 June 2020 (originally scheduled for 26 April 2020 but postponed due to the COVID-19 pandemic) (next to be held in 2024)"
+      },
+      "election results": {
+        "text": "percent of vote by party/coalition - For Our Children 60.7%, SPS-JS 10.4%, SPAS 3.8%, SVM 2.2%, Straight Ahead 1%, Albanian Democratic Alternative .8%, SDA .8%, other 20.3%; seats by party/coalition For Our Children 188, SPS-JS 32, SPAS 11, SVM 9, Straight Ahead 4, Albanian Democratic Alternative 3, SDA 3; composition (preliminary) -&nbsp; men 165, women 85, percent of women 30%"
       }
     },
     "Judicial branch": {
@@ -1132,7 +1133,7 @@
     },
     "Military expenditures": {
       "Military Expenditures 2020": {
-        "text": "2.4% of GDP (2020 est.)"
+        "text": "2% of GDP (2020 est.)"
       },
       "Military Expenditures 2019": {
         "text": "2.2% of GDP (2019)"
@@ -1174,7 +1175,7 @@
       "stateless persons": {
         "text": "2,144 (includes stateless persons in Kosovo) (2020)"
       },
-      "note": "<strong>note:</strong> 787,266 estimated refugee and migrant arrivals (January 2015-September 2021); Serbia is predominantly a transit country and hosts an estimated 6,165 migrants and refugees as of April 2021"
+      "note": "<strong>note:</strong> 789,409 estimated refugee and migrant arrivals (January 2015-September 2021); Serbia is predominantly a transit country and hosts an estimated 5,255 migrants and asylum seekers as of May 2021"
     },
     "Illicit drugs": {
       "text": "transshipment point for Southwest Asian heroin moving to Western Europe on the Balkan route; economy vulnerable to money laundering"

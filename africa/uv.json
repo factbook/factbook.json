@@ -519,7 +519,9 @@
       "time difference": {
         "text": "UTC 0 (5 hours ahead of Washington, DC, during Standard Time)"
       },
-      "note": "<strong>etymology:</strong> Ouagadougou is a Francophone spelling of the native name \"Wogodogo,\" meaning \"where people get honor and respect\""
+      "etymology": {
+        "text": "Ouagadougou is a Francophone spelling of the native name \"Wogodogo,\" meaning \"where people get honor and respect\""
+      }
     },
     "Administrative divisions": {
       "text": "13 regions; Boucle du Mouhoun, Cascades, Centre, Centre-Est, Centre-Nord, Centre-Ouest, Centre-Sud, Est, Hauts-Bassins, Nord, Plateau-Central, Sahel, Sud-Ouest"
@@ -561,17 +563,6 @@
     "Suffrage": {
       "text": "18 years of age; universal"
     },
-    "Legislative branch": {
-      "description": {
-        "text": "unicameral National Assembly (127 seats; 111 members directly elected in 13 multi-seat constituencies by party-list proportional representation vote and 26 members elected in a nationwide constituency by proportional representation vote; all member serve 5-year terms)"
-      },
-      "elections": {
-        "text": "last held on 22 November 2020 (next to be held in November 2025)"
-      },
-      "election results": {
-        "text": "percent of vote by party - NA; seats by party (preliminary results) - MPP 56, CDP 20, NTD 13, UPC 12"
-      }
-    },
     "Executive branch": {
       "chief of state": {
         "text": "President Roch Marc Christian KABORE (since 29 December 2015; re-elected 22 November 2020)"
@@ -587,6 +578,17 @@
       },
       "election results": {
         "text": "Roch Marc Christian KABORE reelected president in first round; percent of vote - Roch Marc Christian KABORE (MPP) 57.9%, Eddie KOMBOIGO (CDP) 15.5%, Zephirin DIABRE (UPC)12.5%, other 14.1%"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral National Assembly (127 seats; 111 members directly elected in 13 multi-seat constituencies by party-list proportional representation vote and 26 members elected in a nationwide constituency by proportional representation vote; all member serve 5-year terms)"
+      },
+      "elections": {
+        "text": "last held on 22 November 2020 (next to be held in November 2025)"
+      },
+      "election results": {
+        "text": "percent of vote by party - NA; seats by party (preliminary results) - MPP 56, CDP 20, NTD 13, UPC 12"
       }
     },
     "Judicial branch": {
@@ -1126,6 +1128,9 @@
       "note": "note: the National Gendarmerie officially reports to the Ministry of Defense, but usually operates in support of the Ministry of Security and the Ministry of Justice; Gendarmerie troops are typically integrated with Army forces in anti-terrorism operations; for example, Gendarmerie, Army, and police forces were combined to form a 1,500-member task force known as the <em>Groupement des Forces Anti-Terroristes</em> (GFAT) to address terrorist activities along the country's northern border in 2013"
     },
     "Military expenditures": {
+      "Military Expenditures 2020": {
+        "text": "2.5% of GDP (2020 est.)"
+      },
       "Military Expenditures 2019": {
         "text": "2.4% of GDP (2019)"
       },
@@ -1137,9 +1142,6 @@
       },
       "Military Expenditures 2016": {
         "text": "1.2% of GDP (2016)"
-      },
-      "Military Expenditures 2015": {
-        "text": "1.3% of GDP (2015)"
       }
     },
     "Military and security service personnel strengths": {

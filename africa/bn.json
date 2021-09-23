@@ -516,7 +516,9 @@
       "time difference": {
         "text": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)"
       },
-      "note": "etymology: the name Porto-Novo is Portuguese for \"new port\"; Cotonou means \"by the river of death\" in the native Fon language"
+      "etymology": {
+        "text": "the name Porto-Novo is Portuguese for \"new port\"; Cotonou means \"by the river of death\" in the native Fon language"
+      }
     },
     "Administrative divisions": {
       "text": "12 departments; Alibori, Atacora, Atlantique, Borgou, Collines, Couffo, Donga, Littoral, Mono, Oueme, Plateau, Zou"
@@ -558,17 +560,6 @@
     "Suffrage": {
       "text": "18 years of age; universal"
     },
-    "Legislative branch": {
-      "description": {
-        "text": "unicameral National Assembly or Assemblee Nationale (83 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms)"
-      },
-      "elections": {
-        "text": "last held on 28 April 2019 (next to be held in April 2023)"
-      },
-      "election results": {
-        "text": "percent of vote by party - Union Progressiste 56.2%, Bloc Republicain 43.8%; seats by party - Union Progressiste 47, Bloc Republicain 36; composition - men 77, women 6, percent of women 7.2%"
-      }
-    },
     "Executive branch": {
       "chief of state": {
         "text": "President Patrice TALON (since 6 April 2016); note - the president is both chief of state and head of government"
@@ -584,6 +575,17 @@
       },
       "election results": {
         "text": "Patrice TALON elected to a second term; percent of vote - Patrice TALON (independent) 86.4%, Alassane SOUMANOU (FCBE) 11.3%, other 2.3%"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral National Assembly or Assemblee Nationale (83 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms)"
+      },
+      "elections": {
+        "text": "last held on 28 April 2019 (next to be held in April 2023)"
+      },
+      "election results": {
+        "text": "percent of vote by party - Union Progressiste 56.2%, Bloc Republicain 43.8%; seats by party - Union Progressiste 47, Bloc Republicain 36; composition - men 77, women 6, percent of women 7.2%"
       }
     },
     "Judicial branch": {
@@ -1132,6 +1134,9 @@
       "text": "Benin Armed Forces (Forces Armees Beninoises, FAB): Army, Navy, Air Force; Ministry of Interior and Public Security: Republican Police (Police Republicaine, DGPR) (2021)"
     },
     "Military expenditures": {
+      "Military Expenditures 2020": {
+        "text": "0.5% of GDP (2020 est.)"
+      },
       "Military Expenditures 2019": {
         "text": "0.7% of GDP (2019)"
       },
@@ -1143,9 +1148,6 @@
       },
       "Military Expenditures 2016": {
         "text": "1.1% of GDP (2016)"
-      },
-      "Military Expenditures 2015": {
-        "text": "1.1% of GDP (2015)"
       }
     },
     "Military and security service personnel strengths": {
@@ -1157,14 +1159,14 @@
     "Military deployments": {
       "text": "250 Mali (MINUSMA) (Jan 2021)"
     },
-    "Military service age and obligation": {
-      "text": "18-35 years of age for selective compulsory and voluntary military service; a higher education diploma is required; both sexes are eligible for military service; conscript tour of duty - 18 months (2019)"
-    },
     "Maritime threats": {
       "text": "<p>the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; in 2020, there were 98 reported incidents of piracy and armed robbery at sea in the Gulf of Guinea region; although a 24% decrease from the total number of incidents in 2019, it included all three hijackings and 9 of 11 ships fired upon worldwide; while boarding and attempted boarding to steal valuables from ships and crews are the most common types of incidents, almost a third of all incidents involve a hijacking and/or kidnapping; in 2020, a record 130 crew members were kidnapped in 22 separate incidents in the Gulf of Guinea, representing 95% of kidnappings worldwide; approximately 51% of all incidents of piracy and armed robbery are taking place off Nigeria, which is a decrease from the 71% in 2019 and an indication pirates are traveling further to target vessels; Nigerian pirates are well armed and very aggressive, operating as far as 200 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2021-002 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 9 January 2021, which states in part, \"Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea.”</p>"
     },
     "Military - note": {
       "text": "Benin participates in the Multinational Joint Task Force (MNJTF) against Boko Haram along with Cameroon, Chad, Niger, and Nigeria; the Benin military contingent is in charge of MNJTF garrison duties (2020)"
+    },
+    "Military service age and obligation": {
+      "text": "18-35 years of age for selective compulsory and voluntary military service; a higher education diploma is required; both sexes are eligible for military service; conscript tour of duty - 18 months (2019)"
     }
   },
   "Terrorism": {

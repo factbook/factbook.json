@@ -526,7 +526,9 @@
       "time difference": {
         "text": "UTC 0 (5 hours ahead of Washington, DC, during Standard Time)"
       },
-      "note": "<strong>etymology:</strong> Yamoussoukro is named after Queen YAMOUSSOU, who ruled in the village of N'Gokro in 1929 at the time of French colonization; the village was renamed Yamoussoukro, the suffix \"-kro\" meaning \"town\" in the native Baoule language; Abidjan's name supposedly comes from a misunderstanding; tradition states that an old man carrying branches met a European explorer who asked for the name of the nearest village; the man, not understanding and terrified by this unexpected encounter, fled shouting \"min-chan m’bidjan,\" which in the Ebrie language means: \"I return from cutting leaves\"; the explorer, thinking that his question had been answered, recorded the name of the locale as Abidjan; a different version has the first colonists asking native women the name of the place and getting a similar response"
+      "etymology": {
+        "text": "Yamoussoukro is named after Queen YAMOUSSOU, who ruled in the village of N'Gokro in 1929 at the time of French colonization; the village was renamed Yamoussoukro, the suffix \"-kro\" meaning \"town\" in the native Baoule language; Abidjan's name supposedly comes from a misunderstanding; tradition states that an old man carrying branches met a European explorer who asked for the name of the nearest village; the man, not understanding and terrified by this unexpected encounter, fled shouting \"min-chan m&rsquo;bidjan,\" which in the Ebrie language means: \"I return from cutting leaves\"; the explorer, thinking that his question had been answered, recorded the name of the locale as Abidjan; a different version has the first colonists asking native women the name of the place and getting a similar response"
+      }
     },
     "Administrative divisions": {
       "text": "12 districts and 2 autonomous districts*; Abidjan*, Bas-Sassandra, Comoe, Denguele, Goh-Djiboua, Lacs, Lagunes, Montagnes, Sassandra-Marahoue, Savanes, Vallee du Bandama, Woroba, Yamoussoukro*, Zanzan"
@@ -568,18 +570,6 @@
     "Suffrage": {
       "text": "18 years of age; universal"
     },
-    "Legislative branch": {
-      "description": {
-        "text": "bicameral Parliament consists of:<br>Senate or Senat (99 seats; 66 members indirectly elected by the National Assembly and members of municipal, autonomous districts, and regional councils, and 33 members appointed by the president; members serve 5-year terms)<br>National Assembly (255 seats; members directly elected in single- and multi-seat constituencies by simple majority vote to serve 5-year terms)"
-      },
-      "elections": {
-        "text": "<br>Senate - first ever held on 25 March 2018 (next to be held in 2023)<br>National Assembly - last held on 6 March 2021 (next to be held in 2026)"
-      },
-      "election results": {
-        "text": "<strong><br></strong>Senate - percent by party NA; seats by party - RHDP 50, independent 16; composition - men 80, women 19, percent of women 19.2%<br>National Assembly - percent of vote by party - RHDP 49.18%, PDCI-RRA-EDS 16.53%, DPIC 6.01%, TTB 2.017%  IPF 1.96%  seats by party - RHDP, 137, PDCI-RRA-EDS 50, DPIC 23, TTB 8, IPF 2; composition - men 217, women 32, percent of women 13%; note - total Parliament percent of women 32%"
-      },
-      "note": "<br><br>"
-    },
     "Executive branch": {
       "chief of state": {
         "text": "President Alassane Dramane OUATTARA (since 4 December 2010); Vice President (vacant); note - Vice President Daniel Kablan DUNCAN resigned 8 July 2020; note - the 2016 constitution calls for the establishment of the position of vice-president"
@@ -596,6 +586,18 @@
       "election results": {
         "text": "Alassane OUATTARA reelected president; percent of vote - Alassane OUATTARA (RDR) 94.3%, Kouadio Konan BERTIN (PDCI-RDA) 2.0%, other 3.7%"
       }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "bicameral Parliament consists of:<br>Senate or Senat (99 seats; 66 members indirectly elected by the National Assembly and members of municipal, autonomous districts, and regional councils, and 33 members appointed by the president; members serve 5-year terms)<br>National Assembly (255 seats; members directly elected in single- and multi-seat constituencies by simple majority vote to serve 5-year terms)"
+      },
+      "elections": {
+        "text": "<br>Senate - first ever held on 25 March 2018 (next to be held in 2023)<br>National Assembly - last held on 6 March 2021 (next to be held in 2026)"
+      },
+      "election results": {
+        "text": "<strong><br></strong>Senate - percent by party NA; seats by party - RHDP 50, independent 16; composition - men 80, women 19, percent of women 19.2%<br>National Assembly - percent of vote by party - RHDP 49.18%, PDCI-RRA-EDS 16.53%, DPIC 6.01%, TTB 2.017%  IPF 1.96%  seats by party - RHDP, 137, PDCI-RRA-EDS 50, DPIC 23, TTB 8, IPF 2; composition - men 217, women 32, percent of women 13%; note - total Parliament percent of women 32%"
+      },
+      "note": "<br><br>"
     },
     "Judicial branch": {
       "highest courts": {
@@ -1158,6 +1160,9 @@
       "text": "Armed Forces of Cote d'Ivoire (Forces Armees de Cote d'Ivoire, FACI; aka Republican Forces of Ivory Coast, FRCI): Army (Armee de Terre), Navy (Marine Nationale), Cote Air Force (Force Aerienne Cote), Special Forces (Forces Speciale); National Gendarmerie (under the Ministry of Defense); National Police (under the Ministry of Security and Civil Protection); Coordination Center for Operational Decisions (a mix of police, gendarmerie, and FACI personnel for assisting police in providing security in some large cities) (2020)"
     },
     "Military expenditures": {
+      "Military Expenditures 2020": {
+        "text": "1.1% of GDP (2020 est.)"
+      },
       "Military Expenditures 2019": {
         "text": "1.1% of GDP (2019 est.)"
       },
@@ -1169,9 +1174,6 @@
       },
       "Military Expenditures 2016": {
         "text": "1.7% of GDP (2016)"
-      },
-      "Military Expenditures 2015": {
-        "text": "1.7% of GDP (2015)"
       }
     },
     "Military and security service personnel strengths": {

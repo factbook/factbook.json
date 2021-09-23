@@ -503,7 +503,12 @@
       "time difference": {
         "text": "UTC+8 (13 hours ahead of Washington, DC, during Standard Time)"
       },
-      "note": "<strong>note:</strong> China is the largest country (in terms of area) with just one time zone; before 1949 it was divided into five<br><br><strong>etymology: </strong>the Chinese meaning is \"Northern Capital\"<strong><br></strong>"
+      "time zone note": {
+        "text": "China is the largest country (in terms of area) with just one time zone; before 1949 it was divided into five"
+      },
+      "etymology": {
+        "text": "the Chinese meaning is \"Northern Capital\""
+      }
     },
     "Administrative divisions": {
       "text": "<p>23 provinces (sheng, singular and plural), 5 autonomous regions (zizhiqu, singular and plural), and 4 municipalities (shi, singular and plural)</p> <p><strong>provinces:</strong> Anhui, Fujian, Gansu, Guangdong, Guizhou, Hainan, Hebei, Heilongjiang, Henan, Hubei, Hunan, Jiangsu, Jiangxi, Jilin, Liaoning, Qinghai, Shaanxi, Shandong, Shanxi, Sichuan, Yunnan, Zhejiang; (see note on Taiwan)</p> <p><strong>autonomous regions:</strong> Guangxi, Nei Mongol (Inner Mongolia), Ningxia, Xinjiang Uyghur, Xizang (Tibet)</p> <p><strong>municipalities:</strong> Beijing, Chongqing, Shanghai, Tianjin</p>",
@@ -546,17 +551,6 @@
     "Suffrage": {
       "text": "18 years of age; universal"
     },
-    "Legislative branch": {
-      "description": {
-        "text": "unicameral National People's Congress or Quanguo Renmin Daibiao Dahui (maximum of 3,000 seats; members indirectly elected by municipal, regional, and provincial people's congresses, and the People's Liberation Army; members serve 5-year terms); note - in practice, only members of the Chinese Communist Party (CCP), its 8 allied independent parties, and CCP-approved independent candidates are elected"
-      },
-      "elections": {
-        "text": "last held in December 2017-February 2018 (next to be held in late 2022 to early 2023)"
-      },
-      "election results": {
-        "text": "percent of vote - NA; seats by party - NA; composition - men 2,238, women 742, percent of women 24.9%"
-      }
-    },
     "Executive branch": {
       "chief of state": {
         "text": "President XI Jinping (since 14 March 2013); Vice President WANG Qishan (since 17 March 2018)"
@@ -572,6 +566,17 @@
       },
       "election results": {
         "text": "XI Jinping reelected president; National People's Congress vote - 2,970 (unanimously); WANG Qishan elected vice president with 2,969 votes"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral National People's Congress or Quanguo Renmin Daibiao Dahui (maximum of 3,000 seats; members indirectly elected by municipal, regional, and provincial people's congresses, and the People's Liberation Army; members serve 5-year terms); note - in practice, only members of the Chinese Communist Party (CCP), its 8 allied independent parties, and CCP-approved independent candidates are elected"
+      },
+      "elections": {
+        "text": "last held in December 2017-February 2018 (next to be held in late 2022 to early 2023)"
+      },
+      "election results": {
+        "text": "percent of vote - NA; seats by party - NA; composition - men 2,238, women 742, percent of women 24.9%"
       }
     },
     "Judicial branch": {
@@ -1180,7 +1185,7 @@
         "text": "1.7% of GDP (2020 est.)"
       },
       "Military Expenditures 2019": {
-        "text": "1.9% of GDP (2019)"
+        "text": "1.7% of GDP (2019)"
       },
       "Military Expenditures 2018": {
         "text": "1.9% of GDP (2018)"

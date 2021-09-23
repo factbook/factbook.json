@@ -512,7 +512,12 @@
       "daylight saving time": {
         "text": "does not observe daylight savings time"
       },
-      "note": "<strong>note:</strong> Russia has 11 time zones, the largest number of contiguous time zones of any country in the world; in 2014, two time zones were added and DST dropped<br><br><strong>etymology:</strong> named after the Moskva River; the origin of the river's name is obscure but may derive from the appellation \"Mustajoki\" given to the river by the Finno-Ugric people who originally inhabited the area and whose meaning may have been \"dark\" or \"turbid\""
+      "time zone note": {
+        "text": "Russia has 11 time zones, the largest number of contiguous time zones of any country in the world; in 2014, two time zones were added and DST dropped"
+      },
+      "etymology": {
+        "text": "named after the Moskva River; the origin of the river's name is obscure but may derive from the appellation \"Mustajoki\" given to the river by the Finno-Ugric people who originally inhabited the area and whose meaning may have been \"dark\" or \"turbid\""
+      }
     },
     "Administrative divisions": {
       "text": "<p>46 provinces (oblasti, singular - oblast), 21 republics (respubliki, singular - respublika), 4 autonomous okrugs (avtonomnyye okrugi, singular - avtonomnyy okrug), 9 krays (kraya, singular - kray), 2 federal cities (goroda, singular - gorod), and 1 autonomous oblast (avtonomnaya oblast')</p> <p><strong>oblasts:</strong> Amur (Blagoveshchensk), Arkhangel'sk, Astrakhan', Belgorod, Bryansk, Chelyabinsk, Irkutsk, Ivanovo, Kaliningrad, Kaluga, Kemerovo, Kirov, Kostroma, Kurgan, Kursk, Leningrad, Lipetsk, Magadan, Moscow, Murmansk, Nizhniy Novgorod, Novgorod, Novosibirsk, Omsk, Orenburg, Orel, Penza, Pskov, Rostov, Ryazan', Sakhalin (Yuzhno-Sakhalinsk), Samara, Saratov, Smolensk, Sverdlovsk (Yekaterinburg), Tambov, Tomsk, Tula, Tver', Tyumen', Ul'yanovsk, Vladimir, Volgograd, Vologda, Voronezh, Yaroslavl'</p> <p><strong>republics:</strong> Adygeya (Maykop), Altay (Gorno-Altaysk), Bashkortostan (Ufa), Buryatiya (Ulan-Ude), Chechnya (Groznyy), Chuvashiya (Cheboksary), Dagestan (Makhachkala), Ingushetiya (Magas), Kabardino-Balkariya (Nal'chik), Kalmykiya (Elista), Karachayevo-Cherkesiya (Cherkessk), Kareliya (Petrozavodsk), Khakasiya (Abakan), Komi (Syktyvkar), Mariy-El (Yoshkar-Ola), Mordoviya (Saransk), North Ossetia (Vladikavkaz), Sakha [Yakutiya] (Yakutsk), Tatarstan (Kazan'), Tyva (Kyzyl), Udmurtiya (Izhevsk)</p> <p><strong>autonomous okrugs:</strong> Chukotka (Anadyr'), Khanty-Mansi-Yugra (Khanty-Mansiysk), Nenets (Nar'yan-Mar), Yamalo-Nenets (Salekhard)</p> <p><strong>krays:</strong> Altay (Barnaul), Kamchatka (Petropavlovsk-Kamchatskiy), Khabarovsk, Krasnodar, Krasnoyarsk, Perm', Primorskiy [Maritime] (Vladivostok), Stavropol', Zabaykal'sk [Transbaikal] (Chita)</p> <p><strong>federal cities:</strong> Moscow [Moskva], Saint Petersburg [Sankt-Peterburg]</p> <strong>autonomous oblast:</strong> Yevreyskaya [Jewish] (Birobidzhan)",
@@ -555,18 +560,6 @@
     "Suffrage": {
       "text": "18 years of age; universal"
     },
-    "Legislative branch": {
-      "description": {
-        "text": "bicameral Federal Assembly or Federalnoye Sobraniye consists of:<br>Federation Council or Sovet Federatsii (170 seats; 2 members in each of the 83 federal administrative units (see note below) - oblasts, krays, republics, autonomous okrugs and oblasts, and federal cities of Moscow and Saint Petersburg - appointed by the top executive and legislative officials; members serve 4-year terms)<br> State Duma or Gosudarstvennaya Duma (450 seats (see note below); as of February 2014, the electoral system reverted to a mixed electoral system for the 2016 election, in which one-half of the members are directly elected by simple majority vote and one-half directly elected by proportional representation vote; members serve 5-year terms)"
-      },
-      "elections": {
-        "text": "<br>State Duma - last held on 18 September 2016 (next to be held in fall 2021)"
-      },
-      "election results": {
-        "text": "<br>Federation Council (members appointed); composition - men 145, women 25, percent of women 14.7%<br><br>State Duma - United Russia 54.2%, CPRF 13.3%, LDPR 13.1%, A Just Russia 6.2%, Rodina 1.5%, CP 0.2%, other minor parties 11.5%; seats by party - United Russia 343, CPRF 42, LDPR 39, A Just Russia 23, Rodina 1, CP 1, independent 1"
-      },
-      "note": "<strong>note 1:</strong> the State Duma now includes 3 representatives from the \"Republic of Crimea,\" while the Federation Council includes 2 each from the \"Republic of Crimea\" and the \"Federal City of Sevastopol,\" both regions that Russia occupied and attempted to annex from Ukraine and that the US does not recognize as part of Russia<br><br><strong>note 2:</strong> seats by party as of December 2018 - United Russia 341, CPRF 43, LDPR 39, A Just Russia 23, independent 2, vacant 2; composition as of October 2018 - men 393, women 57, percent of women 12.7%; note - total Federal Assembly percent of women 13.2%"
-    },
     "Executive branch": {
       "chief of state": {
         "text": "President Vladimir Vladimirovich PUTIN (since 7 May 2012)"
@@ -585,6 +578,18 @@
       },
       "note": "<strong>note:</strong> there is also a Presidential Administration that provides staff and policy support to the president, drafts presidential decrees, and coordinates policy among government agencies; a Security Council also reports directly to the president"
     },
+    "Legislative branch": {
+      "description": {
+        "text": "bicameral Federal Assembly or Federalnoye Sobraniye consists of:<br>Federation Council or Sovet Federatsii (170 seats; 2 members in each of the 83 federal administrative units (see note below) - oblasts, krays, republics, autonomous okrugs and oblasts, and federal cities of Moscow and Saint Petersburg - appointed by the top executive and legislative officials; members serve 4-year terms)<br>State Duma or Gosudarstvennaya Duma (450 seats (see note below); as of February 2014, the electoral system reverted to a mixed electoral system for the 2016 election, in which one-half of the members are directly elected by simple majority vote and one-half directly elected by proportional representation vote; members serve 5-year terms)"
+      },
+      "elections": {
+        "text": "<br>State Duma - last held 17 - 19 September 2021 (next to be held in fall 2026)"
+      },
+      "election results": {
+        "text": "<br>Federation Council (members appointed); composition - men 145, women 25, percent of women 14.7%<br> <p>State Duma - United Russia 50.9%, CPRF 19.3%, LDPR 7.7%, A Just Russia 7.6%, New People 5.3% other minor parties and Independents 9.2%; seats by party - United Russia 324, CPRF 57, LDPR 21, A Just Russia 27, New People 13; Rodina 1, CP 1, Party of Growth 1, independent 5</p>"
+      },
+      "note": "<strong>note 1:</strong> the State Duma now includes 3 representatives from the \"Republic of Crimea,\" while the Federation Council includes 2 each from the \"Republic of Crimea\" and the \"Federal City of Sevastopol,\" both regions that Russia occupied and attempted to annex from Ukraine and that the US does not recognize as part of Russia"
+    },
     "Judicial branch": {
       "highest courts": {
         "text": "Supreme Court of the Russian Federation (consists of 170 members organized into the Judicial Panel for Civil Affairs, the Judicial Panel for Criminal Affairs, and the Military Panel); Constitutional Court (consists of 11 members, including the chairperson and deputy); note - in February 2014, Russia&rsquo;s Higher Court of Arbitration was abolished and its former authorities transferred to the Supreme Court, which in addition is the country&rsquo;s highest judicial authority for appeals, civil, criminal, administrative, and military cases, and the disciplinary judicial board, which has jurisdiction over economic disputes"
@@ -597,8 +602,8 @@
       }
     },
     "Political parties and leaders": {
-      "text": "A Just Russia [Sergey MIRONOV]<br>Civic Platform or CP [Rifat SHAYKHUTDINOV]<br>Communist Party of the Russian Federation or CPRF [Gennadiy ZYUGANOV]<br>Liberal Democratic Party of Russia or LDPR [Vladimir ZHIRINOVSKIY]<br>Rodina [Aleksei ZHURAVLYOV]<br>United Russia [Dmitriy MEDVEDEV]",
-      "note": "<strong>note:</strong> 64 political parties are registered with Russia's Ministry of Justice (as of September 2018), but only four parties maintain representation in Russia's national legislature"
+      "text": "A Just Russia [Sergey MIRONOV]<br>Civic Platform or CP [Rifat SHAYKHUTDINOV]<br>Communist Party of the Russian Federation or CPRF [Gennadiy ZYUGANOV]<br>Liberal Democratic Party of Russia or LDPR [Vladimir ZHIRINOVSKIY]<br>New People  [Alexey NECHAYEV]<br>Party of Growth [Irina MIRONOVA]<br>Rodina [Aleksei ZHURAVLYOV]<br>United Russia [Dmitriy MEDVEDEV]",
+      "note": "<strong>note:</strong> 31 political parties are registered with Russia's Ministry of Justice (as of September 2021); 14 participated in the 2021 election, but only 8 parties maintain representation in Russia's national legislature"
     },
     "International organization participation": {
       "text": "APEC, Arctic Council, ARF, ASEAN (dialogue partner), BIS, BRICS, BSEC, CBSS, CD, CE, CERN (observer), CICA, CIS, CSTO, EAEC, EAEU, EAPC, EAS, EBRD, FAO, FATF, G-20, GCTU, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINURSO, MONUSCO, NEA, NSG, OAS (observer), OIC (observer), OPCW, OSCE, Paris Club, PCA, PFP, SCO, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UN Security Council (permanent), UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
@@ -643,7 +648,7 @@
         "text": "<br>MoscowACS@state.gov<br><br>https://ru.usembassy.gov/"
       },
       "consulate(s) general": {
-        "text": "Vladivostok, Yekaterinburg"
+        "text": "Vladivostok (suspended status), Yekaterinburg (suspended status)"
       }
     },
     "Flag description": {

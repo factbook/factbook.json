@@ -505,7 +505,12 @@
       "time difference": {
         "text": "UTC-5 (same time as Washington, DC, during Standard Time)"
       },
-      "note": "<strong>note: </strong>Ecuador has two time zones, including the Galapagos Islands (UTC-6)<strong><br><br>etymology:</strong> named after the Quitus, a Pre-Columbian indigenous people credited with founding the city"
+      "time zone note": {
+        "text": "Ecuador has two time zones, including the Galapagos Islands (UTC-6)"
+      },
+      "etymology": {
+        "text": "named after the Quitus, a Pre-Columbian indigenous people credited with founding the city"
+      }
     },
     "Administrative divisions": {
       "text": "24 provinces (provincias, singular - provincia); Azuay, Bolivar, Canar, Carchi, Chimborazo, Cotopaxi, El Oro, Esmeraldas, Galapagos, Guayas, Imbabura, Loja, Los Rios, Manabi, Morona-Santiago, Napo, Orellana, Pastaza, Pichincha, Santa Elena, Santo Domingo de los Tsachilas, Sucumbios, Tungurahua, Zamora-Chinchipe"
@@ -547,17 +552,6 @@
     "Suffrage": {
       "text": "18-65 years of age; universal and compulsory; 16-18, over 65, and other eligible voters, voluntary"
     },
-    "Legislative branch": {
-      "description": {
-        "text": "unicameral National Assembly or Asamblea Nacional (137 seats; 116 members directly elected in single-seat constituencies by simple majority vote, 15 members directly elected in a single nationwide constituency by proportional representation vote, and 6 directly elected in multi-seat constituencies for Ecuadorians living abroad by simple majority vote; members serve 4-year terms)"
-      },
-      "elections": {
-        "text": "last held on 7 February 2021 (next to be held in February 2025)"
-      },
-      "election results": {
-        "text": "percent of vote by party - UNES 32.21%, MUPP 16.81%, ID 11.98%, PSC 9.73%, CREO 9.65%, MC-PSE 3.76%, other 15.86%; seats by party - UNES 49, MUPP 27, ID 18, PSC 18, CREO 12, MC-PSE 2, independents 3, other 8; composition - men 85, women 52, percent of women 38%; note - defections by members of National Assembly are commonplace, resulting in frequent changes in the numbers of seats held by the various parties"
-      }
-    },
     "Executive branch": {
       "chief of state": {
         "text": "President Guillermo LASSO Mendoza (since 24 May 2021); Vice President Alfredo Enrique BORRERO Vega (since 24 May 2021); the president is both chief of state and head of government"
@@ -573,6 +567,17 @@
       },
       "election results": {
         "text": "<br><em>2021:</em> Guillermo LASSO Mendoza elected president; first round election results: percent of vote - Andres ARAUZ (UNES) 32.72%, Guillermo LASSO Mendoza (CREO) 19.74%, Yaku PEREZ Guartambel (MUPP) 19.38%, Xavier HERVAS Mora (Independent) 15.68%, other 12.48%; second round election results: percent of vote - Guillermo LASSO Mendoza (CREO) 52.5%, Andres ARAUZ (UNES) 47.5%<br><br><em>2017:</em> Lenin MORENO Garces elected president in second round; percent of vote - Lenin MORENO Garces (Alianza PAIS Movement) 51.1%, Guillermo LASSO (CREO) 48.9%"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral National Assembly or Asamblea Nacional (137 seats; 116 members directly elected in single-seat constituencies by simple majority vote, 15 members directly elected in a single nationwide constituency by proportional representation vote, and 6 directly elected in multi-seat constituencies for Ecuadorians living abroad by simple majority vote; members serve 4-year terms)"
+      },
+      "elections": {
+        "text": "last held on 7 February 2021 (next to be held in February 2025)"
+      },
+      "election results": {
+        "text": "percent of vote by party - UNES 32.21%, MUPP 16.81%, ID 11.98%, PSC 9.73%, CREO 9.65%, MC-PSE 3.76%, other 15.86%; seats by party - UNES 49, MUPP 27, ID 18, PSC 18, CREO 12, MC-PSE 2, independents 3, other 8; composition - men 85, women 52, percent of women 38%; note - defections by members of National Assembly are commonplace, resulting in frequent changes in the numbers of seats held by the various parties"
       }
     },
     "Judicial branch": {

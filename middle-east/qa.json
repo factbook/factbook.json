@@ -127,7 +127,7 @@
       }
     },
     "Religions": {
-      "text": "Muslim 65.2%, Christian 13.7%, Hindu 15.9%, Buddhist 3.8%, folk religion &lt;.1%, Jewish &lt;.1%, other &lt;1%, unaffiliated &lt;1% (2020 est.)"
+      "text": "Muslim 65.2%, Christian 13.7%, Hindu 15.9%, Buddhist 3.8%, folk religion &lt;0.1%, Jewish &lt;0.1%, other &lt;1%, unaffiliated &lt;1% (2020 est.)"
     },
     "Age structure": {
       "0-14 years": {
@@ -450,7 +450,9 @@
       "time difference": {
         "text": "UTC+3 (8 hours ahead of Washington, DC, during Standard Time)"
       },
-      "note": "<strong>etymology:</strong> derives from the Arabic term \"dohat,\" meaning \"roundness,\" and refers to the small rounded bays along the area's coastline"
+      "etymology": {
+        "text": "derives from the Arabic term \"dohat,\" meaning \"roundness,\" and refers to the small rounded bays along the area's coastline"
+      }
     },
     "Administrative divisions": {
       "text": "8 municipalities (baladiyat, singular - baladiyah); Ad Dawhah, Al Khawr wa adh Dhakhirah, Al Wakrah, Ar Rayyan, Ash Shamal, Ash Shihaniyah, Az Za'ayin, Umm Salal"
@@ -492,17 +494,6 @@
     "Suffrage": {
       "text": "18 years of age; universal"
     },
-    "Legislative branch": {
-      "description": {
-        "text": "unicameral Advisory Council or Majlis al-Shura (45 seats; 30 members directly elected by popular vote for 4-year re-electable terms; 15 members&nbsp;appointed by the monarch to serve until resignation or until relieved; note - legislative drafting authority rests with the Council of Ministers and is reviewed by the Advisory Council or Majlis al-Shura"
-      },
-      "elections": {
-        "text": "last on 17 June 2016 (next in 2019); note - in late 2019, the amir announced the formation of a committee to oversee preparations for the first elected council, although Doha has not selected a date for elections"
-      },
-      "election results": {
-        "text": "NA; composition - men 41, women 4, percent of women 8.9%"
-      }
-    },
     "Executive branch": {
       "chief of state": {
         "text": "Amir TAMIM bin Hamad Al Thani (since 25 June 2013)"
@@ -515,6 +506,17 @@
       },
       "elections/appointments": {
         "text": "the monarchy is hereditary; prime minister and deputy prime minister appointed by the amir"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral Advisory Council or Majlis al-Shura (45 seats; 30 members directly elected by popular vote for 4-year re-electable terms; 15 members&nbsp;appointed by the monarch to serve until resignation or until relieved; note - legislative drafting authority rests with the Council of Ministers and is reviewed by the Advisory Council or Majlis al-Shura"
+      },
+      "elections": {
+        "text": "last on 17 June 2016 (next in 2019); note - in late 2019, the amir announced the formation of a committee to oversee preparations for the first elected council, although Doha has not selected a date for elections"
+      },
+      "election results": {
+        "text": "NA; composition - men 41, women 4, percent of women 8.9%"
       }
     },
     "Judicial branch": {

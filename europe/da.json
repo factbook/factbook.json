@@ -471,7 +471,9 @@
       "daylight saving time": {
         "text": "+1hr, begins last Sunday in March; ends last Sunday in October; note - applies to continental Denmark only, not to its North Atlantic components"
       },
-      "note": "<strong>etymology: </strong>name derives from the city's Danish appellation Kobenhavn, meaning \"Merchant's Harbor\" <strong><br></strong>"
+      "etymology": {
+        "text": "name derives from the city's Danish appellation Kobenhavn, meaning \"Merchant's Harbor\""
+      }
     },
     "Administrative divisions": {
       "text": "metropolitan Denmark - 5 regions (regioner, singular - region); Hovedstaden (Capital), Midtjylland (Central Jutland), Nordjylland (North Jutland), Sjaelland (Zealand), Syddanmark (Southern Denmark)"
@@ -513,17 +515,6 @@
     "Suffrage": {
       "text": "18 years of age; universal"
     },
-    "Legislative branch": {
-      "description": {
-        "text": "unicameral People's Assembly or Folketing (179 seats, including 2 each representing Greenland and the Faroe Islands; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms unless the Folketing is dissolved earlier)"
-      },
-      "elections": {
-        "text": "last held on 5 June 2019 (next to be held on June 2023)"
-      },
-      "election results": {
-        "text": "percent of vote by party - SDP 25.9%, V 23.4%, DF 8.7%, SLP 8.6%, SF 7.7%, EL 6.9%, C 6.6%, A 3.0%, NB 2.4%, LA 2.3%; seats by party - SDP 48, V 43, DF 16, SLP 16, SF 14, EL 13, C 12, A 5, NB 4, LA 4; composition - men 109, women 70 (includes 2 from Greenland), percent of women 39.1%"
-      }
-    },
     "Executive branch": {
       "chief of state": {
         "text": "Queen MARGRETHE II (since 14 January 1972); Heir Apparent Crown Prince FREDERIK (elder son of the monarch, born on 26 May 1968)"
@@ -536,6 +527,17 @@
       },
       "elections/appointments": {
         "text": "the monarchy is hereditary; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral People's Assembly or Folketing (179 seats, including 2 each representing Greenland and the Faroe Islands; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms unless the Folketing is dissolved earlier)"
+      },
+      "elections": {
+        "text": "last held on 5 June 2019 (next to be held on June 2023)"
+      },
+      "election results": {
+        "text": "percent of vote by party - SDP 25.9%, V 23.4%, DF 8.7%, SLP 8.6%, SF 7.7%, EL 6.9%, C 6.6%, A 3.0%, NB 2.4%, LA 2.3%; seats by party - SDP 48, V 43, DF 16, SLP 16, SF 14, EL 13, C 12, A 5, NB 4, LA 4; composition - men 109, women 70 (includes 2 from Greenland), percent of women 39.1%"
       }
     },
     "Judicial branch": {
@@ -1114,8 +1116,8 @@
   },
   "Military and Security": {
     "Military and security forces": {
-      "text": "Royal Danish Army, Royal Danish Navy, Royal Danish Air Force, Danish Home Guard (Reserves) (2021)",
-      "note": "note: the Danish military also maintains a Joint Arctic Command"
+      "text": "Danish Armed Forces (Forsvaret): Royal Danish Army, Royal Danish Navy, Royal Danish Air Force, Danish Home Guard (Reserves) (2021)",
+      "note": "note: the Danish military maintains a Joint Arctic Command with the mission of protecting the sovereignty of the Kingdom of Denmark in the Arctic Region, including the Faroe Islands and Greenland; it also conducts maritime pollution prevention, environmental monitoring, fishery inspections, search and rescue, hydrographical surveys, and provides support to governmental science missions"
     },
     "Military expenditures": {
       "Military Expenditures 2020": {

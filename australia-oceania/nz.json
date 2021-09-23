@@ -459,7 +459,12 @@
       "daylight saving time": {
         "text": "+1hr, begins last Sunday in September; ends first Sunday in April"
       },
-      "note": "<strong>note:</strong> New Zealand has two time zones: New Zealand standard time (UTC+12) and Chatham Islands time (45 minutes in advance of New Zealand standard time; UTC+12:45)<br><br><strong>etymology:</strong> named in 1840 after Arthur Wellesley, the first Duke of Wellington and victorious general at the Battle of Waterloo"
+      "time zone note": {
+        "text": "New Zealand has two time zones: New Zealand standard time (UTC+12) and Chatham Islands time (45 minutes in advance of New Zealand standard time; UTC+12:45)"
+      },
+      "etymology": {
+        "text": "named in 1840 after Arthur Wellesley, the first Duke of Wellington and victorious general at the Battle of Waterloo"
+      }
     },
     "Administrative divisions": {
       "text": "16 regions and 1 territory*; Auckland, Bay of Plenty, Canterbury, Chatham Islands*, Gisborne, Hawke's Bay, Manawatu-Wanganui, Marlborough, Nelson, Northland, Otago, Southland, Taranaki, Tasman, Waikato, Wellington, West Coast"
@@ -504,17 +509,6 @@
     "Suffrage": {
       "text": "18 years of age; universal"
     },
-    "Legislative branch": {
-      "description": {
-        "text": "unicameral House of Representatives - commonly called Parliament (120 seats for 2020-23 term); 72 members directly elected in 65 single-seat constituencies and 7 Maori constituencies by simple majority vote and 48 directly elected by closed party-list proportional representation vote; members serve 3-year terms)"
-      },
-      "elections": {
-        "text": "last held on 17 October 2020 (next scheduled for 2023)"
-      },
-      "election results": {
-        "text": "percent of vote by party - Labor Party 49.1%, National Party 26.8%, ACT Party 8%, Green Party 6.3%, Maori Party 1%; seats by party - Labor Party 64, National Party 35, Green Party 10, ACT Party 10, Maori Party 1; composition - men 63, women 57, percent of women 47.5%"
-      }
-    },
     "Executive branch": {
       "chief of state": {
         "text": "Queen ELIZABETH II (since 6 February 1952); represented by Governor-General Dame Patricia Lee REDDY (since 28 September 2016)"
@@ -527,6 +521,17 @@
       },
       "elections/appointments": {
         "text": "the monarchy is hereditary; governor-general appointed by the monarch on the advice of the prime minister; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor-general; deputy prime minister appointed by the governor-general; note - Prime Minister ARDERN heads up a minority coalition government consisting of the Labor and New Zealand First parties with confidence and supply support from the Green Party"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral House of Representatives - commonly called Parliament (120 seats for 2020-23 term); 72 members directly elected in 65 single-seat constituencies and 7 Maori constituencies by simple majority vote and 48 directly elected by closed party-list proportional representation vote; members serve 3-year terms)"
+      },
+      "elections": {
+        "text": "last held on 17 October 2020 (next scheduled for 2023)"
+      },
+      "election results": {
+        "text": "percent of vote by party - Labor Party 49.1%, National Party 26.8%, ACT Party 8%, Green Party 6.3%, Maori Party 1%; seats by party - Labor Party 64, National Party 35, Green Party 10, ACT Party 10, Maori Party 1; composition - men 63, women 57, percent of women 47.5%"
       }
     },
     "Judicial branch": {
@@ -1127,6 +1132,12 @@
     },
     "Military service age and obligation": {
       "text": "17 years of age for voluntary military service; soldiers cannot be deployed until the age of 18; no conscription (2021)"
+    }
+  },
+  "Terrorism": {
+    "Terrorist group(s)": {
+      "text": "Islamic State of Iraq and ash-Sham (ISIS)",
+      "note": "<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T"
     }
   },
   "Transnational Issues": {

@@ -344,11 +344,11 @@
         "text": "the islands making up Bermuda are named after Juan de BERMUDEZ, an early 16th century Spanish sea captain and the first European explorer of the archipelago"
       }
     },
-    "Dependency status": {
-      "text": "overseas territory of the UK"
-    },
     "Government type": {
       "text": "Overseas Territory of the UK with limited self-government; parliamentary democracy"
+    },
+    "Dependency status": {
+      "text": "overseas territory of the UK"
     },
     "Capital": {
       "name": {
@@ -363,7 +363,9 @@
       "daylight saving time": {
         "text": "+1hr, begins second Sunday in March; ends first Sunday in November"
       },
-      "note": "<strong>etymology:</strong> named after Henry HAMILTON (ca. 1734-1796) who served as governor of Bermuda from 1788-1794"
+      "etymology": {
+        "text": "named after Henry HAMILTON (ca. 1734-1796) who served as governor of Bermuda from 1788-1794"
+      }
     },
     "Administrative divisions": {
       "text": "9 parishes and 2 municipalities*; Devonshire, Hamilton, Hamilton*, Paget, Pembroke, Saint George*, Saint George's, Sandys, Smith's, Southampton, Warwick"
@@ -405,17 +407,6 @@
     "Suffrage": {
       "text": "18 years of age; universal"
     },
-    "Legislative branch": {
-      "description": {
-        "text": "bicameral Parliament consists of:<br>Senate (11 seats; 3 members appointed by the governor, 5 by the premier, and 3 by the opposition party; members serve 5-year terms) and the House of Assembly (36 seats; members directly elected in single-seat constituencies by simple majority vote to serve up to 5-year terms)<br>House of Assembly (36 seats; members directly elected in single-seat constituencies by simple majority vote to serve up to 5-year terms)"
-      },
-      "elections": {
-        "text": "<br>Senate - last appointments in August 2017 (next appointments in 2022)<br>House of Assembly - last held on 1 October 2020 (next to be held not later than 2025)"
-      },
-      "election results": {
-        "text": "Senate - composition - men 7, women 4, percent of women 36.4%<br>House of Assembly - percent of vote by party - PLP 62.1%, OBA 32.3%, other 5.4%, independent 0.2%; seats by party - PLP 30, OBA 6; composition - NA"
-      }
-    },
     "Executive branch": {
       "chief of state": {
         "text": "Queen ELIZABETH II (since 6 February 1952); represented by Governor Rena LALGIE (since 14 December 2020)"
@@ -428,6 +419,17 @@
       },
       "elections/appointments": {
         "text": "the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed premier by the governor"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "bicameral Parliament consists of:<br>Senate (11 seats; 3 members appointed by the governor, 5 by the premier, and 3 by the opposition party; members serve 5-year terms) and the House of Assembly (36 seats; members directly elected in single-seat constituencies by simple majority vote to serve up to 5-year terms)<br>House of Assembly (36 seats; members directly elected in single-seat constituencies by simple majority vote to serve up to 5-year terms)"
+      },
+      "elections": {
+        "text": "<br>Senate - last appointments in August 2017 (next appointments in 2022)<br>House of Assembly - last held on 1 October 2020 (next to be held not later than 2025)"
+      },
+      "election results": {
+        "text": "Senate - composition - men 7, women 4, percent of women 36.4%<br>House of Assembly - percent of vote by party - PLP 62.1%, OBA 32.3%, other 5.4%, independent 0.2%; seats by party - PLP 30, OBA 6; composition - NA"
       }
     },
     "Judicial branch": {
@@ -886,11 +888,11 @@
     "Military equipment inventories and acquisitions": {
       "text": "the Regiment is equipped with small arms"
     },
-    "Military service age and obligation": {
-      "text": "females and males who are Commonwealth citizens and 18-45 years of age for voluntary enlistment in the Bermuda Regiment; service is for a minimum period of three years and two months from the date of enlistment; service can be extended only by volunteering or an executive order from the Governor; annual training commitment is about 30 days a year, which includes a two-week camp, weekends, and drill nights (2021)"
-    },
     "Military - note": {
       "text": "defense is the responsibility of the UK"
+    },
+    "Military service age and obligation": {
+      "text": "females and males who are Commonwealth citizens and 18-45 years of age for voluntary enlistment in the Bermuda Regiment; service is for a minimum period of three years and two months from the date of enlistment; service can be extended only by volunteering or an executive order from the Governor; annual training commitment is about 30 days a year, which includes a two-week camp, weekends, and drill nights (2021)"
     }
   },
   "Transnational Issues": {

@@ -477,7 +477,10 @@
       "daylight saving time": {
         "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
       },
-      "note": "<strong>note:</strong> pronounced KEE-shee-now (KIH-shi-nyov)\r\n<strong>etymology:</strong> origin unclear but may derive from the archaic Romanian word \"chisla\" (\"spring\" or \"water source\") and \"noua\" (\"new\") because the original settlement was built at the site of a small spring"
+      "etymology": {
+        "text": "origin unclear but may derive from the archaic Romanian word \"chisla\" (\"spring\" or \"water source\") and \"noua\" (\"new\") because the original settlement was built at the site of a small spring"
+      },
+      "note": "<strong>note:</strong> pronounced KEE-shee-now (KIH-shi-nyov)"
     },
     "Administrative divisions": {
       "text": "<p>32 raions (raioane, singular - raion), 3 municipalities (municipii, singular - municipiul), 1 autonomous territorial unit (unitatea teritoriala autonoma), and 1 territorial unit (unitatea teritoriala)</p> <p><strong>raions:</strong> Anenii Noi, Basarabeasca, Briceni, Cahul, Cantemir, Calarasi, Causeni, Cimislia, Criuleni, Donduseni, Drochia, Dubasari, Edinet, Falesti, Floresti, Glodeni, Hincesti, Ialoveni, Leova, Nisporeni, Ocnita, Orhei, Rezina, Riscani, Singerei, Soldanesti, Soroca, Stefan Voda, Straseni, Taraclia, Telenesti, Ungheni</p> <p><strong>municipalities:</strong> Balti, Bender, Chisinau</p> <p><strong>autonomous territorial unit:</strong> Gagauzia</p> <p><strong>territorial unit:</strong> Stinga Nistrului (Transnistria)</p>"
@@ -519,17 +522,6 @@
     "Suffrage": {
       "text": "18 years of age; universal"
     },
-    "Legislative branch": {
-      "description": {
-        "text": "unicameral Parliament (101 seats; 51 members directly elected in single-seat constituencies by simple majority vote and 50 members directly elected in a single, nationwide constituency by closed party-list proportional representation vote; all members serve 4-year terms"
-      },
-      "elections": {
-        "text": "<p>last held on 11 July 2021 (next scheduled for July 2025)</p>"
-      },
-      "election results": {
-        "text": "<p>percent of vote by party - PAS 52.8%, BECS (PSRM+PCRM) 27.1%, SOR 5.7%; seats by party - PAS 63, BECS 32, SOR 6</p>"
-      }
-    },
     "Executive branch": {
       "chief of state": {
         "text": "President Maia SANDU (since 24 December 2020)"
@@ -545,6 +537,17 @@
       },
       "election results": {
         "text": "Maia SANDU elected president; percent of vote (second round results) - Maia SANDU (PAS) 57.7%, Igor DODON (PSRM) 42.3%"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral Parliament (101 seats; 51 members directly elected in single-seat constituencies by simple majority vote and 50 members directly elected in a single, nationwide constituency by closed party-list proportional representation vote; all members serve 4-year terms"
+      },
+      "elections": {
+        "text": "<p>last held on 11 July 2021 (next scheduled for July 2025)</p>"
+      },
+      "election results": {
+        "text": "<p>percent of vote by party - PAS 52.8%, BECS (PSRM+PCRM) 27.1%, SOR 5.7%; seats by party - PAS 63, BECS 32, SOR 6</p>"
       }
     },
     "Judicial branch": {

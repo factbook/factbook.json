@@ -469,7 +469,9 @@
       "daylight saving time": {
         "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
       },
-      "note": "<strong>etymology:</strong> named in honor of Jean de Valette, the Grand Master of the Order of Saint John (crusader knights), who successfully led a defense of the island from an Ottoman invasion in 1565"
+      "etymology": {
+        "text": "named in honor of Jean de Valette, the Grand Master of the Order of Saint John (crusader knights), who successfully led a defense of the island from an Ottoman invasion in 1565"
+      }
     },
     "Administrative divisions": {
       "text": "68 localities (Il-lokalita); Attard, Balzan, Birgu, Birkirkara, Birzebbuga, Bormla, Dingli, Fgura, Floriana, Fontana, Ghajnsielem, Gharb, Gharghur, Ghasri, Ghaxaq, Gudja, Gzira, Hamrun, Iklin, Imdina, Imgarr, Imqabba, Imsida, Imtarfa, Isla, Kalkara, Kercem, Kirkop, Lija, Luqa, Marsa, Marsaskala, Marsaxlokk, Mellieha, Mosta, Munxar, Nadur, Naxxar, Paola, Pembroke, Pieta, Qala, Qormi, Qrendi, Rabat, Rabat (Ghawdex), Safi, San Giljan/Saint Julian, San Gwann/Saint John, San Lawrenz/Saint Lawrence, Sannat, San Pawl il-Bahar/Saint Paul's Bay, Santa Lucija/Saint Lucia, Santa Venera/Saint Venera, Siggiewi, Sliema, Swieqi, Tarxien, Ta' Xbiex, Valletta, Xaghra, Xewkija, Xghajra, Zabbar, Zebbug, Zebbug (Ghawdex), Zejtun, Zurrieq"
@@ -511,17 +513,6 @@
     "Suffrage": {
       "text": "18 years of age (16 in local council elections); universal"
     },
-    "Legislative branch": {
-      "description": {
-        "text": "unicameral House of Representatives or Il-Kamra Tad-Deputati, a component of the Parliament of Malta (normally 65 seats but can include at-large members; members directly elected in 5 multi-seat constituencies by proportional representation vote; members serve 5-year terms); note - the parliament elected in 2013 had 69 seats; an additional two seats were added in 2016 by the Constitutional Court to correct for mistakes made in the 2013 vote-counting process"
-      },
-      "elections": {
-        "text": "last held on 3 June 2017 (next to be held in 2022); note - Prime Minister MUSCAT called for early elections amid corruption allegations"
-      },
-      "election results": {
-        "text": "percent of vote by party - PL 55%, PN 43.7%, other 1.3%; seats by party - PL 37 PN 30; note - PN was awarded two additional seats for a total of 30 in accordance with the proportionality provisions specified in the constitution; PD candidates ran under the PN list; composition - men 57, women 10, percent of women 14.9%"
-      }
-    },
     "Executive branch": {
       "chief of state": {
         "text": "President George VELLA (since 4 April 2019)&nbsp;"
@@ -537,6 +528,17 @@
       },
       "election results": {
         "text": "George VELLA (PL) elected president; House of Representatives vote - unanimous; Joseph MUSCAT (PL) reappointed prime minister"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral House of Representatives or Il-Kamra Tad-Deputati, a component of the Parliament of Malta (normally 65 seats but can include at-large members; members directly elected in 5 multi-seat constituencies by proportional representation vote; members serve 5-year terms); note - the parliament elected in 2013 had 69 seats; an additional two seats were added in 2016 by the Constitutional Court to correct for mistakes made in the 2013 vote-counting process"
+      },
+      "elections": {
+        "text": "last held on 3 June 2017 (next to be held in 2022); note - Prime Minister MUSCAT called for early elections amid corruption allegations"
+      },
+      "election results": {
+        "text": "percent of vote by party - PL 55%, PN 43.7%, other 1.3%; seats by party - PL 37 PN 30; note - PN was awarded two additional seats for a total of 30 in accordance with the proportionality provisions specified in the constitution; PD candidates ran under the PN list; composition - men 57, women 10, percent of women 14.9%"
       }
     },
     "Judicial branch": {
@@ -1079,6 +1081,9 @@
       "text": "Armed Forces of Malta (AFM, includes land, maritime, and air elements, plus a Volunteer Reserve Force) (2021)"
     },
     "Military expenditures": {
+      "Military Expenditures 2020": {
+        "text": "0.6% of GDP (2020)"
+      },
       "Military Expenditures 2019": {
         "text": "0.5% of GDP (2019)"
       },
@@ -1090,9 +1095,6 @@
       },
       "Military Expenditures 2016": {
         "text": "0.5% of GDP (2016)"
-      },
-      "Military Expenditures 2015": {
-        "text": "0.5% of GDP (2015)"
       }
     },
     "Military and security service personnel strengths": {

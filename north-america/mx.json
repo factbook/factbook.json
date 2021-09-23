@@ -511,7 +511,12 @@
       "daylight saving time": {
         "text": "+1hr, begins first Sunday in April; ends last Sunday in October"
       },
-      "note": "<strong>note:</strong> Mexico has four time zones<br><br><strong>etymology:</strong> named after the Mexica, the largest and most powerful branch of the Aztecs; the meaning of the name is uncertain"
+      "time zone note": {
+        "text": "Mexico has four time zones"
+      },
+      "etymology": {
+        "text": "named after the Mexica, the largest and most powerful branch of the Aztecs; the meaning of the name is uncertain"
+      }
     },
     "Administrative divisions": {
       "text": "32 states (estados, singular - estado); Aguascalientes, Baja California, Baja California Sur, Campeche, Chiapas, Chihuahua, Coahuila, Colima, Cuidad de Mexico, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, Mexico, Michoacan, Morelos, Nayarit, Nuevo Leon, Oaxaca, Puebla, Queretaro, Quintana Roo, San Luis Potosi, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatan, Zacatecas"
@@ -553,18 +558,6 @@
     "Suffrage": {
       "text": "18 years of age; universal and compulsory"
     },
-    "Legislative branch": {
-      "description": {
-        "text": "bicameral National Congress or Congreso de la Union consists of:<br>Senate or Camara de Senadores (128 seats; 96 members directly elected in multi-seat constituencies by simple majority vote and 32 directly elected in a single, nationwide constituency by proportional representation vote; members serve 6-year terms)<br>Chamber of Deputies or Camara de Diputados (500 seats; 300 members directly elected in single-seat constituencies by simple majority vote and 200 directly elected in a single, nationwide constituency by proportional representation vote; members serve 3-year terms)"
-      },
-      "elections": {
-        "text": "<br>Senate - last held on 1 July 2018 (next to be held in July 2024)<br>Chamber of Deputies - last held on 6 June 2021 (next to be held in July 2024)"
-      },
-      "election results": {
-        "text": "<br>Senate - percent of vote by party - percent of vote by party - NA; seats by party - MORENA 58, PAN 22, PRI 14, PRD 9, MC 7, PT 7, PES 5, PVEM 5, PNA/PANAL 1; composition - men 65, women 63, percent of women 49.3%<br>Chamber of Deputies - percent of vote by party - NA; seats by party - MORENA 197, PAN 111, PRI 69, PVEM 44, PT 38, MC 25, PRD 16; composition - NA"
-      },
-      "note": "<strong>note: </strong>as of the 2018 election, senators will be eligible for a second term and deputies up to 4 consecutive terms"
-    },
     "Executive branch": {
       "chief of state": {
         "text": "President Andres Manuel LOPEZ OBRADOR (since 1 December 2018); note - the president is both chief of state and head of government"
@@ -581,6 +574,18 @@
       "election results": {
         "text": "<br><em>2018:</em> Andres Manuel LOPEZ OBRADOR elected president; percent of vote - Andres Manuel LOPEZ OBRADOR (MORENA) 53.2%, Ricardo ANAYA (PAN) 22.3%, Jose Antonio MEADE Kuribrena (PRI) 16.4%, Jaime RODRIGUEZ Calderon 5.2% (independent), other 2.9%<br><br><em>2012:</em> Enrique PENA NIETO elected president; percent of vote - Enrique PENA NIETO (PRI) 38.2%, Andres Manuel LOPEZ OBRADOR (PRD) 31.6%, Josefina Eugenia VAZQUEZ Mota (PAN) 25.4%, other 4.8%"
       }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "bicameral National Congress or Congreso de la Union consists of:<br>Senate or Camara de Senadores (128 seats; 96 members directly elected in multi-seat constituencies by simple majority vote and 32 directly elected in a single, nationwide constituency by proportional representation vote; members serve 6-year terms)<br>Chamber of Deputies or Camara de Diputados (500 seats; 300 members directly elected in single-seat constituencies by simple majority vote and 200 directly elected in a single, nationwide constituency by proportional representation vote; members serve 3-year terms)"
+      },
+      "elections": {
+        "text": "<br>Senate - last held on 1 July 2018 (next to be held in July 2024)<br>Chamber of Deputies - last held on 6 June 2021 (next to be held in July 2024)"
+      },
+      "election results": {
+        "text": "<br>Senate - percent of vote by party - percent of vote by party - NA; seats by party - MORENA 58, PAN 22, PRI 14, PRD 9, MC 7, PT 7, PES 5, PVEM 5, PNA/PANAL 1; composition - men 65, women 63, percent of women 49.3%<br>Chamber of Deputies - percent of vote by party - NA; seats by party - MORENA 197, PAN 111, PRI 69, PVEM 44, PT 38, MC 25, PRD 16; composition - NA"
+      },
+      "note": "<strong>note: </strong>as of the 2018 election, senators will be eligible for a second term and deputies up to 4 consecutive terms"
     },
     "Judicial branch": {
       "highest courts": {
@@ -1210,11 +1215,11 @@
     "Military equipment inventories and acquisitions": {
       "text": "the Mexican military inventory includes a mix of domestically-produced and imported equipment from a variety of mostly Western suppliers; since 2010, the US is the leading supplier of military hardware to Mexico; Mexico's defense industry produces naval vessels and light armored vehicles (2020)"
     },
-    "Military service age and obligation": {
-      "text": "18 years of age for compulsory military service for males (selection for service determined by lottery); conscript service obligation is 12 months; conscripts remain in reserve status until the age of 40; 16 years of age with consent for voluntary enlistment; cadets enrolled in military schools from the age of 15 are considered members of the armed forces; women are eligible for voluntary military service (2019)"
-    },
     "Military - note": {
       "text": "the Mexican military under President LOPEZ OBRADOR has expanded its role in public security duties and other tasks; as of 2021, Mexican military operations were focused primarily on internal security duties, particularly in countering drug cartels and organized crime groups, as well as border control and immigration enforcement; in addition, the military has been placed in charge of some infrastructure projects, such as building a new airport for Mexico City and sections of a train line in the country&rsquo;s southeast; in mid-2020, the armed forces were directed to administer the country&rsquo;s land and sea ports and customs services in order to fight crime and corruption; the military also runs some 2,700 branches of a state-owned bank"
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for compulsory military service for males (selection for service determined by lottery); conscript service obligation is 12 months; conscripts remain in reserve status until the age of 40; 16 years of age with consent for voluntary enlistment; cadets enrolled in military schools from the age of 15 are considered members of the armed forces; women are eligible for voluntary military service (2019)"
     }
   },
   "Transnational Issues": {

@@ -470,7 +470,9 @@
       "daylight saving time": {
         "text": "+1hr, begins midnight on the last Friday in March; ends at midnight on the last Friday in October"
       },
-      "note": "<strong>etymology:</strong> Damascus is a very old city; its earliest name, Temeseq, first appears in an Egyptian geographical list of the 15th century B.C., but the meaning is uncertain"
+      "etymology": {
+        "text": "Damascus is a very old city; its earliest name, Temeseq, first appears in an Egyptian geographical list of the 15th century B.C., but the meaning is uncertain"
+      }
     },
     "Administrative divisions": {
       "text": "14 provinces (muhafazat, singular - muhafazah); Al Hasakah, Al Ladhiqiyah (Latakia), Al Qunaytirah, Ar Raqqah, As Suwayda', Dar'a, Dayr az Zawr, Dimashq (Damascus), Halab (Aleppo), Hamah, Hims (Homs), Idlib, Rif Dimashq (Damascus Countryside), Tartus"
@@ -512,17 +514,6 @@
     "Suffrage": {
       "text": "18 years of age; universal"
     },
-    "Legislative branch": {
-      "description": {
-        "text": "unicameral People's Assembly or Majlis al-Shaab (250 seats; members directly elected in multi-seat constituencies by simple majority preferential vote to serve 4-year terms)"
-      },
-      "elections": {
-        "text": "last held on 19 July 2020 (next to be held in 2024)"
-      },
-      "election results": {
-        "text": "percent of vote by party - NPF 80%, other 20%; seats by party - NPF 200, other 50; composition - men 217, women 33, percent of women 13.2%"
-      }
-    },
     "Executive branch": {
       "chief of state": {
         "text": "President Bashar al-ASAD (since 17 July 2000); Vice President Najah al-ATTAR (since 23 March 2006)"
@@ -538,6 +529,17 @@
       },
       "election results": {
         "text": "Bashar al-ASAD elected president; percent of vote - Bashar al-ASAD (Ba'th Party)95.2%, Mahmoud Ahmad MAREI (Democratic Arab Socialist Union) 3.3%, Abdullah Sallum ABDULLAH (Socialist Unionist Party) 1.5%"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral People's Assembly or Majlis al-Shaab (250 seats; members directly elected in multi-seat constituencies by simple majority preferential vote to serve 4-year terms)"
+      },
+      "elections": {
+        "text": "last held on 19 July 2020 (next to be held in 2024)"
+      },
+      "election results": {
+        "text": "percent of vote by party - NPF 80%, other 20%; seats by party - NPF 200, other 50; composition - men 217, women 33, percent of women 13.2%"
       }
     },
     "Judicial branch": {
@@ -575,9 +577,6 @@
     "Diplomatic representation from the US": {
       "chief of mission": {
         "text": "Ambassador (vacant); note - on 6 February 2012, the US closed its embassy in Damascus; Czechia serves as a protecting power for US interests in Syria"
-      },
-      "embassy": {
-        "text": "Abou Roumaneh, 2 Al Mansour Street, Damascus"
       },
       "mailing address": {
         "text": "6110 Damascus Place, Washington DC&nbsp; 20521-6110"

@@ -468,7 +468,9 @@
       "daylight saving time": {
         "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
       },
-      "note": "<strong>etymology:</strong> the name may derive from an old Slavic root \"praga\" or \"prah\", meaning \"ford\", and refer to the city's origin at a crossing point of the Vltava (Moldau) River"
+      "etymology": {
+        "text": "the name may derive from an old Slavic root \"praga\" or \"prah\", meaning \"ford\", and refer to the city's origin at a crossing point of the Vltava (Moldau) River"
+      }
     },
     "Administrative divisions": {
       "text": "13 regions (kraje, singular - kraj) and 1 capital city* (hlavni mesto); Jihocesky (South Bohemia), Jihomoravsky (South Moravia), Karlovarsky (Karlovy Vary), Kralovehradecky (Hradec Kralove), Liberecky (Liberec), Moravskoslezsky (Moravia-Silesia), Olomoucky (Olomouc), Pardubicky (Pardubice), Plzensky (Pilsen), Praha (Prague)*, Stredocesky (Central Bohemia), Ustecky (Usti), Vysocina (Highlands), Zlinsky (Zlin)"
@@ -510,17 +512,6 @@
     "Suffrage": {
       "text": "18 years of age; universal"
     },
-    "Legislative branch": {
-      "description": {
-        "text": "bicameral Parliament or Parlament consists of:<br>Senate or Senat (81 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms with one-third of the membership renewed every 2 years)<br>Chamber of Deputies or Poslanecka Snemovna (200 seats; members directly elected in 14 multi-seat constituencies by proportional representation vote with a 5% threshold required to fill a seat; members serve 4-year terms)"
-      },
-      "elections": {
-        "text": "<br>Senate - last held in 2 rounds on 2-3 and 9-10 October 2020 (next to be held in October 2022)<br>Chamber of Deputies - last held on 20-21 October 2017 (next to be held by October 2021)"
-      },
-      "election results": {
-        "text": "<br>Senate - percent of vote by party - NA; seats by party - STAN 19, ODS 18, KDU-CSL 12, ANO 5, TOP 09 5, CSSD 3, SEN 21 3, Pirates 2, SZ 1, minor parties with one seat each 9, independents 4<br><br>Chamber of Deputies - percent of vote by party - ANO 29.6%, ODS 11.3%, Pirates 10.8%, SPD 10.6%, KSCM 7.8%, CSSD 7.3%, KDU-CSL 5.8%, TOP 09 5.3%, STAN 5.2%, other 6.3%; seats by party - ANO 78, ODS 25, Pirates 22, SPD 22, CSSD 15, KSCM 15, KDU-CSL 10, TOP 09 7, STAN 6; composition - men 155, women 45, percent of women 24%; note - total Parliament percent of women 20.6%"
-      }
-    },
     "Executive branch": {
       "chief of state": {
         "text": "President Milos ZEMAN (since 8 March 2013)"
@@ -536,6 +527,17 @@
       },
       "election results": {
         "text": "Milos ZEMAN reelected president in the second round; percent of vote - Milos ZEMAN (SPO) 51.4%, Jiri DRAHOS (independent) 48.6%"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "bicameral Parliament or Parlament consists of:<br>Senate or Senat (81 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms with one-third of the membership renewed every 2 years)<br>Chamber of Deputies or Poslanecka Snemovna (200 seats; members directly elected in 14 multi-seat constituencies by proportional representation vote with a 5% threshold required to fill a seat; members serve 4-year terms)"
+      },
+      "elections": {
+        "text": "<br>Senate - last held in 2 rounds on 2-3 and 9-10 October 2020 (next to be held in October 2022)<br>Chamber of Deputies - last held on 20-21 October 2017 (next to be held by October 2021)"
+      },
+      "election results": {
+        "text": "<br>Senate - percent of vote by party - NA; seats by party - STAN 19, ODS 18, KDU-CSL 12, ANO 5, TOP 09 5, CSSD 3, SEN 21 3, Pirates 2, SZ 1, minor parties with one seat each 9, independents 4<br><br>Chamber of Deputies - percent of vote by party - ANO 29.6%, ODS 11.3%, Pirates 10.8%, SPD 10.6%, KSCM 7.8%, CSSD 7.3%, KDU-CSL 5.8%, TOP 09 5.3%, STAN 5.2%, other 6.3%; seats by party - ANO 78, ODS 25, Pirates 22, SPD 22, CSSD 15, KSCM 15, KDU-CSL 10, TOP 09 7, STAN 6; composition - men 155, women 45, percent of women 24%; note - total Parliament percent of women 20.6%"
       }
     },
     "Judicial branch": {
@@ -1105,14 +1107,14 @@
   },
   "Military and Security": {
     "Military and security forces": {
-      "text": "Ministry of Defense and Armed Forces: Land Forces; Air Forces; Cyber Forces; Special Forces Directorate (2021)"
+      "text": "Czech Armed Forces: Land Forces; Air Forces; Cyber Forces; Special Forces Directorate (2021)"
     },
     "Military expenditures": {
       "Military Expenditures 2020": {
         "text": "1.34% of GDP (2020 est.)"
       },
       "Military Expenditures 2019": {
-        "text": "1.16% of GDP (2019)"
+        "text": "1.19% of GDP (2019)"
       },
       "Military Expenditures 2018": {
         "text": "1.13% of GDP (2018)"

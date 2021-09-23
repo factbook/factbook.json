@@ -484,7 +484,12 @@
       "daylight saving time": {
         "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
       },
-      "note": "<strong>note: </strong>applies to metropolitan France only; for its overseas regions the time difference is UTC-4 for Guadeloupe and Martinique, UTC-3 for French Guiana, UTC+3 for Mayotte, and UTC+4 for Reunion<strong><br><br>etymology: </strong>name derives from the Parisii, a Celtic tribe that inhabited the area from the 3rd century B.C., but who were conquered by the Romans in the 1st century B.C.; the Celtic settlement became the Roman town of Lutetia Parisiorum (Lutetia of the Parisii); over subsequent centuries it became Parisium and then just Paris<br><br><br>"
+      "time zone note": {
+        "text": "applies to metropolitan France only; for its overseas regions the time difference is UTC-4 for Guadeloupe and Martinique, UTC-3 for French Guiana, UTC+3 for Mayotte, and UTC+4 for Reunion"
+      },
+      "etymology": {
+        "text": "name derives from the Parisii, a Celtic tribe that inhabited the area from the 3rd century B.C., but who were conquered by the Romans in the 1st century B.C.; the Celtic settlement became the Roman town of Lutetia Parisiorum (Lutetia of the Parisii); over subsequent centuries it became Parisium and then just Paris"
+      }
     },
     "Administrative divisions": {
       "text": "18 regions (regions, singular - region); Auvergne-Rhone-Alpes, Bourgogne-Franche-Comte (Burgundy-Free County), Bretagne (Brittany), Centre-Val de Loire (Center-Loire Valley), Corse (Corsica), Grand Est (Grand East), Guadeloupe, Guyane (French Guiana), Hauts-de-France (Upper France), Ile-de-France, Martinique, Mayotte, Normandie (Normandy), Nouvelle-Aquitaine (New Aquitaine), Occitanie (Occitania), Pays de la Loire (Lands of the Loire), Provence-Alpes-Cote d'Azur, Reunion",
@@ -531,17 +536,6 @@
     "Suffrage": {
       "text": "18 years of age; universal"
     },
-    "Legislative branch": {
-      "description": {
-        "text": "bicameral Parliament or Parlement consists of:<br>Senate or Senat (348 seats - 328 for metropolitan France and overseas departments and regions of Guadeloupe, Martinique, French Guiana, Reunion, and Mayotte, 2 for New Caledonia, 2 for French Polynesia, 1 for Saint-Pierre and Miquelon, 1 for Saint-Barthelemy, 1 for Saint-Martin, 1 for Wallis and Futuna, and 12 for French nationals abroad; members indirectly elected by departmental electoral colleges using absolute majority vote in 2 rounds if needed for departments with 1-3 members and proportional representation vote in departments with 4 or more members; members serve 6-year terms with one-half of the membership renewed every 3 years)<br> National Assembly or Assemblee Nationale (577 seats - 556 for metropolitan France, 10 for overseas departments, and 11 for citizens abroad; members directly elected by absolute majority vote in 2 rounds if needed to serve 5-year terms)"
-      },
-      "elections": {
-        "text": "<br>Senate - last held on 24 September 2017 (next to be held on 24 September 2020)<br> National Assembly - last held on 11 and 18 June 2017 (next to be held in June 2022)"
-      },
-      "election results": {
-        "text": "<br>Senate - percent of vote by party - NA; seats by political caucus (party or group of parties)  - LR 144, PS 73, UC 51. LREM 23, RDSE 22, CRCE 16, RTLI 13, other 6; composition - men 246, women 102, percent of women 29.3%<br> National Assembly - percent of vote by party first round - LREM 28.2%, LR 15.8%. FN 13.2%, FI 11%, PS 7.4%, other 24.4%; percent of vote by party second round - LREM 43.1%, LR 22.2%, FN 8.8%, MoDEM 6.1%, PS 5.7%. FI 4.9%, other 9.2%; seats by political caucus (party or group of parties) - LREM 306, LR 104, MoDEM 46, UDI/Agir 29, PS 29, UDI 18, FI 17, Liberties and Territories 16, PCF 16, other 14; composition - men 349, women 228, percent of women 39.5%; note - total Parliament percent of women 35.7%"
-      }
-    },
     "Executive branch": {
       "chief of state": {
         "text": "President Emmanuel MACRON (since 14 May 2017)"
@@ -557,6 +551,17 @@
       },
       "election results": {
         "text": "<br><em>2017:</em> Emmanuel MACRON elected president in second round; percent of vote in first round - Emmanuel MACRON (EM) 24.%, Marine LE PEN (FN) 21.3%, Francois FILLON (LR) 20.%, Jean-Luc MELENCHON (FI) 19.6%, Benoit HAMON (PS) 6.4%, other 8.7%; percent of vote in second round - MACRON 66.1%, LE PEN 33.9%<br><br><em>2012:</em> Francois HOLLANDE elected president; percent of vote in first round - Francois HOLLANDE (PS) 28.6%, Nicolas SARKOZY (UMP) 27.2%, Marine LE PEN (FN) 17.9%, Jean-Luc MELENCHON (PG) 11.1%, Francois BAYROU (moDem) 9.1%, other 6.1%; percent of vote in second round - HOLLANDE 51.6%, SARKOZY 48.4%"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "bicameral Parliament or Parlement consists of:<br>Senate or Senat (348 seats - 328 for metropolitan France and overseas departments and regions of Guadeloupe, Martinique, French Guiana, Reunion, and Mayotte, 2 for New Caledonia, 2 for French Polynesia, 1 for Saint-Pierre and Miquelon, 1 for Saint-Barthelemy, 1 for Saint-Martin, 1 for Wallis and Futuna, and 12 for French nationals abroad; members indirectly elected by departmental electoral colleges using absolute majority vote in 2 rounds if needed for departments with 1-3 members and proportional representation vote in departments with 4 or more members; members serve 6-year terms with one-half of the membership renewed every 3 years)<br> National Assembly or Assemblee Nationale (577 seats - 556 for metropolitan France, 10 for overseas departments, and 11 for citizens abroad; members directly elected by absolute majority vote in 2 rounds if needed to serve 5-year terms)"
+      },
+      "elections": {
+        "text": "<br>Senate - last held on 24 September 2017 (next to be held on 24 September 2020)<br> National Assembly - last held on 11 and 18 June 2017 (next to be held in June 2022)"
+      },
+      "election results": {
+        "text": "<br>Senate - percent of vote by party - NA; seats by political caucus (party or group of parties)  - LR 144, PS 73, UC 51. LREM 23, RDSE 22, CRCE 16, RTLI 13, other 6; composition - men 246, women 102, percent of women 29.3%<br> National Assembly - percent of vote by party first round - LREM 28.2%, LR 15.8%. FN 13.2%, FI 11%, PS 7.4%, other 24.4%; percent of vote by party second round - LREM 43.1%, LR 22.2%, FN 8.8%, MoDEM 6.1%, PS 5.7%. FI 4.9%, other 9.2%; seats by political caucus (party or group of parties) - LREM 306, LR 104, MoDEM 46, UDI/Agir 29, PS 29, UDI 18, FI 17, Liberties and Territories 16, PCF 16, other 14; composition - men 349, women 228, percent of women 39.5%; note - total Parliament percent of women 35.7%"
       }
     },
     "Judicial branch": {
@@ -1164,7 +1169,7 @@
   },
   "Military and Security": {
     "Military and security forces": {
-      "text": "Army (Armee de Terre; includes Foreign Legion), Navy (Marine Nationale), Air and Space Force (Armee de l&rsquo;Air et de l&rsquo;Espace); includes Air Defense), National Guard (Reserves), National Gendarmerie (paramilitary police force that is a branch of the Armed Forces but under the jurisdiction of the Ministry of the Interior; also has additional duties to the Ministry of Defense and the Ministry of Justice) (2021)"
+      "text": "French Armed Forces (Forces Arm&eacute;es Fran&ccedil;aises): Army (Armee de Terre; includes Foreign Legion), Navy (Marine Nationale), Air and Space Force (Armee de l&rsquo;Air et de l&rsquo;Espace); includes Air Defense), National Guard (Reserves), National Gendarmerie (paramilitary police force that is a branch of the Armed Forces but under the jurisdiction of the Ministry of the Interior; also has additional duties to the Ministry of Defense and the Ministry of Justice) (2021)"
     },
     "Military expenditures": {
       "Military Expenditures 2020": {

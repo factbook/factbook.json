@@ -464,7 +464,9 @@
       "daylight saving time": {
         "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
       },
-      "note": "<strong>etymology:</strong> origin of the name is uncertain, but may derive from a 2nd century B.C. Celtic place name, possibly \"berna\" meaning \"cleft,\" that was subsequently adopted by a Roman settlement  "
+      "etymology": {
+        "text": "origin of the name is uncertain, but may derive from a 2nd century B.C. Celtic place name, possibly \"berna\" meaning \"cleft,\" that was subsequently adopted by a Roman settlement"
+      }
     },
     "Administrative divisions": {
       "text": "26 cantons (cantons, singular - canton in French; cantoni, singular - cantone in Italian; Kantone, singular - Kanton in German); Aargau, Appenzell Ausserrhoden, Appenzell Innerrhoden, Basel-Landschaft, Basel-Stadt, Berne/Bern, Fribourg/Freiburg, Geneve (Geneva), Glarus, Graubuenden/Grigioni/Grischun, Jura, Luzern, Neuchatel, Nidwalden, Obwalden, Sankt Gallen, Schaffhausen, Schwyz, Solothurn, Thurgau, Ticino, Uri, Valais/Wallis, Vaud, Zug, Zuerich",
@@ -507,17 +509,6 @@
     "Suffrage": {
       "text": "18 years of age; universal"
     },
-    "Legislative branch": {
-      "description": {
-        "text": "description: bicameral Federal Assembly or Bundesversammlung (in German), Assemblée Fédérale (in French), Assemblea Federale (in Italian) consists of:<br>Council of States or Ständerat (in German), Conseil des États (in French), Consiglio degli Stati (in Italian) (46 seats; members in multi-seat constituencies representing cantons and single-seat constituencies representing half cantons directly elected by simple majority vote except Jura and Neuchatel cantons which use proportional representation vote; member term governed by cantonal law)<br>National Council or Nationalrat (in German), Conseil National (in French), Consiglio Nazionale (in Italian) (200 seats; 195 members in cantons directly elected by proportional representation vote and 6 in half cantons directly elected by simple majority vote; members serve 4-year terms) (e.g. 2019)"
-      },
-      "elections": {
-        "text": "<br>Council of States - last held in most cantons on 20 October 2019 (each canton determines when the next election will be held)<br> National Council - last held on 20 October 2019 (next to be held in 2023) (e.g. 2019)"
-      },
-      "election results": {
-        "text": "<br>Council of States - percent of vote by party - NA; seats by party - CVP 13, FDP 12, SDP 9, Green Party 5, other 1; composition - NA <br> National Council - percent of vote by party - SVP 25.6%, SP 16.8%, FDP 15.1%, Green Party 13.2%, CVP 11.4%, GLP 7.8%, other 10.1%; seats by party - SVP 53, SP 39, FDP 29, Green Party 28, CVP 25, GLP 16, other 10; composition - men 116, women 84, percent of women 42% (e.g. 2019)"
-      }
-    },
     "Executive branch": {
       "chief of state": {
         "text": "<p>President of the Swiss Confederation Guy PARMELIN (since 1 January 2021); Vice President  Ignazio CASSIS (since 1 January 2021); note - the Federal Council, which is comprised of 7 federal councillors, constitutes the federal government of Switzerland; council members rotate the 1-year term of federal president</p>"
@@ -533,6 +524,17 @@
       },
       "election results": {
         "text": "Guy PARMELIN elected president; Federal Assembly vote - 192 of 205; Ignazio CASSIS elected vice president; Federal Assembly vote - 162 of 199"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "description: bicameral Federal Assembly or Bundesversammlung (in German), Assemblée Fédérale (in French), Assemblea Federale (in Italian) consists of:<br>Council of States or Ständerat (in German), Conseil des États (in French), Consiglio degli Stati (in Italian) (46 seats; members in multi-seat constituencies representing cantons and single-seat constituencies representing half cantons directly elected by simple majority vote except Jura and Neuchatel cantons which use proportional representation vote; member term governed by cantonal law)<br>National Council or Nationalrat (in German), Conseil National (in French), Consiglio Nazionale (in Italian) (200 seats; 195 members in cantons directly elected by proportional representation vote and 6 in half cantons directly elected by simple majority vote; members serve 4-year terms) (e.g. 2019)"
+      },
+      "elections": {
+        "text": "<br>Council of States - last held in most cantons on 20 October 2019 (each canton determines when the next election will be held)<br> National Council - last held on 20 October 2019 (next to be held in 2023) (e.g. 2019)"
+      },
+      "election results": {
+        "text": "<br>Council of States - percent of vote by party - NA; seats by party - CVP 13, FDP 12, SDP 9, Green Party 5, other 1; composition - NA <br> National Council - percent of vote by party - SVP 25.6%, SP 16.8%, FDP 15.1%, Green Party 13.2%, CVP 11.4%, GLP 7.8%, other 10.1%; seats by party - SVP 53, SP 39, FDP 29, Green Party 28, CVP 25, GLP 16, other 10; composition - men 116, women 84, percent of women 42% (e.g. 2019)"
       }
     },
     "Judicial branch": {
@@ -1110,6 +1112,9 @@
       "text": "Swiss Armed Forces: Land Forces, Swiss Air Force (Schweizer Luftwaffe) (2021)"
     },
     "Military expenditures": {
+      "Military Expenditures 2020": {
+        "text": "0.8% of GDP (2020 est.)"
+      },
       "Military Expenditures 2019": {
         "text": "0.7% of GDP (2019)"
       },
@@ -1121,9 +1126,6 @@
       },
       "Military Expenditures 2016": {
         "text": "0.7% of GDP (2016)"
-      },
-      "Military Expenditures 2015": {
-        "text": "0.7% of GDP (2015)"
       }
     },
     "Military and security service personnel strengths": {
