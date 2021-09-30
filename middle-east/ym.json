@@ -668,25 +668,6 @@
     "Economic overview": {
       "text": "<p>Yemen is a low-income country that faces difficult long-term challenges to stabilizing and growing its economy, and the current conflict has only exacerbated those issues. The ongoing war has halted Yemen’s exports, pressured the currency’s exchange rate, accelerated inflation, severely limited food and fuel imports, and caused widespread damage to infrastructure. The conflict has also created a severe humanitarian crisis - the world’s largest cholera outbreak currently at nearly 1 million cases, more than 7 million people at risk of famine, and more than 80% of the population in need of humanitarian assistance.</p><p></p><p>Prior to the start of the conflict in 2014, Yemen was highly dependent on declining oil and gas resources for revenue. Oil and gas earnings accounted for roughly 25% of GDP and 65% of government revenue. The Yemeni Government regularly faced annual budget shortfalls and tried to diversify the Yemeni economy through a reform program designed to bolster non-oil sectors of the economy and foreign investment. In July 2014, the government continued reform efforts by eliminating some fuel subsidies and in August 2014, the IMF approved a three-year, $570 million Extended Credit Facility for Yemen.</p><p></p><p>However, the conflict that began in 2014 stalled these reform efforts and ongoing fighting continues to accelerate the country’s economic decline. In September 2016, President HADI announced the move of the main branch of Central Bank of Yemen from Sanaa to Aden where his government could exert greater control over the central bank’s dwindling resources. Regardless of which group controls the main branch, the central bank system is struggling to function. Yemen’s Central Bank’s foreign reserves, which stood at roughly $5.2 billion prior to the conflict, have declined to negligible amounts. The Central Bank can no longer fully support imports of critical goods or the country’s exchange rate. The country also is facing a growing liquidity crisis and rising inflation. The private sector is hemorrhaging, with almost all businesses making substantial layoffs. Access to food and other critical commodities such as medical equipment is limited across the country due to security issues on the ground. The Social Welfare Fund, a cash transfer program for Yemen’s neediest, is no longer operational and has not made any disbursements since late 2014.</p><p></p><p>Yemen will require significant international assistance during and after the protracted conflict to stabilize its economy. Long-term challenges include a high population growth rate, high unemployment, declining water resources, and severe food scarcity.</p>"
     },
-    "Real GDP growth rate": {
-      "Real GDP growth rate 2017": {
-        "text": "-5.9% (2017 est.)"
-      },
-      "Real GDP growth rate 2016": {
-        "text": "-13.6% (2016 est.)"
-      },
-      "Real GDP growth rate 2015": {
-        "text": "-16.7% (2015 est.)"
-      }
-    },
-    "Inflation rate (consumer prices)": {
-      "Inflation rate (consumer prices) 2017": {
-        "text": "24.7% (2017 est.)"
-      },
-      "Inflation rate (consumer prices) 2016": {
-        "text": "-12.6% (2016 est.)"
-      }
-    },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2017": {
         "text": "$73.63 billion (2017 est.)"
@@ -699,8 +680,16 @@
       },
       "note": "<strong>note:</strong> data are in 2017 dollars"
     },
-    "GDP (official exchange rate)": {
-      "text": "$54.356 billion (2018 est.)"
+    "Real GDP growth rate": {
+      "Real GDP growth rate 2017": {
+        "text": "-5.9% (2017 est.)"
+      },
+      "Real GDP growth rate 2016": {
+        "text": "-13.6% (2016 est.)"
+      },
+      "Real GDP growth rate 2015": {
+        "text": "-16.7% (2015 est.)"
+      }
     },
     "Real GDP per capita": {
       "Real GDP per capita 2017": {
@@ -714,15 +703,15 @@
       },
       "note": "<strong>note:</strong> data are in 2017 dollars"
     },
-    "Gross national saving": {
-      "Gross national saving 2017": {
-        "text": "-1.9% of GDP (2017 est.)"
+    "GDP (official exchange rate)": {
+      "text": "$54.356 billion (2018 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "Inflation rate (consumer prices) 2017": {
+        "text": "24.7% (2017 est.)"
       },
-      "Gross national saving 2016": {
-        "text": "-3.7% of GDP (2016 est.)"
-      },
-      "Gross national saving 2015": {
-        "text": "-4.5% of GDP (2015 est.)"
+      "Inflation rate (consumer prices) 2016": {
+        "text": "-12.6% (2016 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
@@ -754,20 +743,6 @@
       },
       "imports of goods and services": {
         "text": "-43.9% (2017 est.)"
-      }
-    },
-    "Ease of Doing Business Index scores": {
-      "Overall score": {
-        "text": "31.8 (2020)"
-      },
-      "Starting a Business score": {
-        "text": "76.8 (2020)"
-      },
-      "Trading score": {
-        "text": "0 (2020)"
-      },
-      "Enforcement score": {
-        "text": "48.5 (2020)"
       }
     },
     "Agricultural products": {
@@ -820,9 +795,6 @@
         "text": "4.458 billion (2017 est.)"
       }
     },
-    "Taxes and other revenues": {
-      "text": "9% (of GDP) (2017 est.)"
-    },
     "Budget surplus (+) or deficit (-)": {
       "text": "-5.2% (of GDP) (2017 est.)"
     },
@@ -833,6 +805,9 @@
       "Public debt 2016": {
         "text": "68.1% of GDP (2016 est.)"
       }
+    },
+    "Taxes and other revenues": {
+      "text": "9% (of GDP) (2017 est.)"
     },
     "Fiscal year": {
       "text": "calendar year"
@@ -912,6 +887,9 @@
   },
   "Energy": {
     "Electricity access": {
+      "population without electricity": {
+        "text": "16 million (2019)"
+      },
       "electrification - total population": {
         "text": "47% (2019)"
       },
@@ -1177,7 +1155,7 @@
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
-        "text": "112,865 (Somalia), 16,447 (Ethiopia) (2021)"
+        "text": "113,549 (Somalia), 16,447 (Ethiopia) (2021)"
       },
       "IDPs": {
         "text": "4,002,012 (conflict in Sa'ada Governorate; clashes between al-Qa'ida in the Arabian Peninsula and government forces) (2020)"
