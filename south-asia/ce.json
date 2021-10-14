@@ -656,6 +656,18 @@
     "Economic overview": {
       "text": "<p>Sri Lanka is attempting to sustain economic growth while maintaining macroeconomic stability under the IMF program it began in 2016. The government's high debt payments and bloated civil service, which have contributed to historically high budget deficits, remain a concern. Government debt is about 79% of GDP and remains among the highest of the emerging markets. In the coming years, Sri Lanka will need to balance its elevated debt repayment schedule with its need to maintain adequate foreign exchange reserves.</p><p></p><p>In May 2016, Sri Lanka regained its preferential trade status under the European Union’s Generalized System of Preferences Plus, enabling many of its firms to export products, including its top export garments, tax free to the EU. In 2017, Parliament passed a new Inland Revenue Act in an effort to increase tax collection and broaden the tax base in response to recommendations made under its IMF program. In November 2017, the Financial Action Task Force on money laundering and terrorist financing listed Sri Lanka as non-compliant, but reported subsequently that Sri Lanka had made good progress in implementing an action plan to address deficiencies.</p><p></p><p>Tourism has experienced strong growth in the years since the resolution of the government's 26-year conflict with the Liberation Tigers of Tamil Eelam. In 2017, the government promulgated plans to transform the country into a knowledge-based, export-oriented Indian Ocean hub by 2025.</p>"
     },
+    "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2019": {
+        "text": "$285.141 billion (2019 est.)"
+      },
+      "Real GDP (purchasing power parity) 2018": {
+        "text": "$278.776 billion (2018 est.)"
+      },
+      "Real GDP (purchasing power parity) 2017": {
+        "text": "$269.853 billion (2017 est.)"
+      },
+      "note": "<strong>note:</strong> data are in 2010 dollars"
+    },
     "Real GDP growth rate": {
       "Real GDP growth rate 2019": {
         "text": "2.29% (2019 est.)"
@@ -666,6 +678,21 @@
       "Real GDP growth rate 2017": {
         "text": "3.58% (2017 est.)"
       }
+    },
+    "Real GDP per capita": {
+      "Real GDP per capita 2019": {
+        "text": "$13,078 (2019 est.)"
+      },
+      "Real GDP per capita 2018": {
+        "text": "$12,865 (2018 est.)"
+      },
+      "Real GDP per capita 2017": {
+        "text": "$12,584 (2017 est.)"
+      },
+      "note": "<strong>note:</strong> data are in 2010 dollars"
+    },
+    "GDP (official exchange rate)": {
+      "text": "$84.016 billion (2019 est.)"
     },
     "Inflation rate (consumer prices)": {
       "Inflation rate (consumer prices) 2019": {
@@ -687,44 +714,6 @@
       },
       "Standard & Poors rating": {
         "text": "CCC+ (2020)"
-      }
-    },
-    "Real GDP (purchasing power parity)": {
-      "Real GDP (purchasing power parity) 2019": {
-        "text": "$285.141 billion (2019 est.)"
-      },
-      "Real GDP (purchasing power parity) 2018": {
-        "text": "$278.776 billion (2018 est.)"
-      },
-      "Real GDP (purchasing power parity) 2017": {
-        "text": "$269.853 billion (2017 est.)"
-      },
-      "note": "<strong>note:</strong> data are in 2010 dollars"
-    },
-    "GDP (official exchange rate)": {
-      "text": "$84.016 billion (2019 est.)"
-    },
-    "Real GDP per capita": {
-      "Real GDP per capita 2019": {
-        "text": "$13,078 (2019 est.)"
-      },
-      "Real GDP per capita 2018": {
-        "text": "$12,865 (2018 est.)"
-      },
-      "Real GDP per capita 2017": {
-        "text": "$12,584 (2017 est.)"
-      },
-      "note": "<strong>note:</strong> data are in 2010 dollars"
-    },
-    "Gross national saving": {
-      "Gross national saving 2019": {
-        "text": "25.3% of GDP (2019 est.)"
-      },
-      "Gross national saving 2018": {
-        "text": "27.3% of GDP (2018 est.)"
-      },
-      "Gross national saving 2017": {
-        "text": "29% of GDP (2017 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
@@ -756,20 +745,6 @@
       },
       "imports of goods and services": {
         "text": "-29.1% (2017 est.)"
-      }
-    },
-    "Ease of Doing Business Index scores": {
-      "Overall score": {
-        "text": "61.8 (2020)"
-      },
-      "Starting a Business score": {
-        "text": "88.2 (2020)"
-      },
-      "Trading score": {
-        "text": "73.3 (2020)"
-      },
-      "Enforcement score": {
-        "text": "41.2 (2020)"
       }
     },
     "Agricultural products": {
@@ -830,9 +805,6 @@
         "text": "16.88 billion (2017 est.)"
       }
     },
-    "Taxes and other revenues": {
-      "text": "13.8% (of GDP) (2017 est.)"
-    },
     "Budget surplus (+) or deficit (-)": {
       "text": "-5.5% (of GDP) (2017 est.)"
     },
@@ -844,6 +816,9 @@
         "text": "79.6% of GDP (2016 est.)"
       },
       "note": "<strong>note:</strong> covers central government debt and excludes debt instruments directly owned by government entities other than the treasury (e.g. commercial bank borrowings of a government corporation); the data includes treasury debt held by foreign entities as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement; sub-national entities are usually not permitted to sell debt instruments"
+    },
+    "Taxes and other revenues": {
+      "text": "13.8% (of GDP) (2017 est.)"
     },
     "Fiscal year": {
       "text": "calendar year"
@@ -1077,7 +1052,7 @@
     },
     "Airports - with paved runways": {
       "total": {
-        "text": "11 (2020)"
+        "text": "11"
       },
       "over 3,047 m": {
         "text": "2"
@@ -1086,12 +1061,12 @@
         "text": "5"
       },
       "914 to 1,523 m": {
-        "text": "4"
+        "text": "4 (2020)"
       }
     },
     "Airports - with unpaved runways": {
       "total": {
-        "text": "7 (2020)"
+        "text": "7"
       },
       "1,524 to 2,437 m": {
         "text": "2"
@@ -1100,7 +1075,7 @@
         "text": "3"
       },
       "under 914 m": {
-        "text": "2"
+        "text": "2 (2020)"
       }
     },
     "Heliports": {
