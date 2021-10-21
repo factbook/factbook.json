@@ -392,20 +392,6 @@
         "text": "10.95 megatons (2020 est.)"
       }
     },
-    "Total water withdrawal": {
-      "municipal": {
-        "text": "805 million cubic meters (2017 est.)"
-      },
-      "industrial": {
-        "text": "831 million cubic meters (2017 est.)"
-      },
-      "agricultural": {
-        "text": "11.31 billion cubic meters (2017 est.)"
-      }
-    },
-    "Total renewable water resources": {
-      "text": "52.8 billion cubic meters (2017 est.)"
-    },
     "Climate": {
       "text": "tropical monsoon; northeast monsoon (December to March); southwest monsoon (June to October)"
     },
@@ -429,6 +415,14 @@
         "text": "27.1% (2018 est.)"
       }
     },
+    "Urbanization": {
+      "urban population": {
+        "text": "18.9% of total population (2021)"
+      },
+      "rate of urbanization": {
+        "text": "1.22% annual rate of change (2020-25 est.)"
+      }
+    },
     "Revenue from forest resources": {
       "forest revenues": {
         "text": "0.06% of GDP (2018 est.)"
@@ -437,14 +431,6 @@
     "Revenue from coal": {
       "coal revenues": {
         "text": "0% of GDP (2018 est.)"
-      }
-    },
-    "Urbanization": {
-      "urban population": {
-        "text": "18.9% of total population (2021)"
-      },
-      "rate of urbanization": {
-        "text": "1.22% annual rate of change (2020-25 est.)"
       }
     },
     "Major infectious diseases": {
@@ -471,6 +457,20 @@
       "percent of municipal solid waste recycled": {
         "text": "12.8% (2016 est.)"
       }
+    },
+    "Total water withdrawal": {
+      "municipal": {
+        "text": "805 million cubic meters (2017 est.)"
+      },
+      "industrial": {
+        "text": "831 million cubic meters (2017 est.)"
+      },
+      "agricultural": {
+        "text": "11.31 billion cubic meters (2017 est.)"
+      }
+    },
+    "Total renewable water resources": {
+      "text": "52.8 billion cubic meters (2017 est.)"
     }
   },
   "Government": {
@@ -657,14 +657,14 @@
       "text": "<p>Sri Lanka is attempting to sustain economic growth while maintaining macroeconomic stability under the IMF program it began in 2016. The government's high debt payments and bloated civil service, which have contributed to historically high budget deficits, remain a concern. Government debt is about 79% of GDP and remains among the highest of the emerging markets. In the coming years, Sri Lanka will need to balance its elevated debt repayment schedule with its need to maintain adequate foreign exchange reserves.</p><p></p><p>In May 2016, Sri Lanka regained its preferential trade status under the European Union’s Generalized System of Preferences Plus, enabling many of its firms to export products, including its top export garments, tax free to the EU. In 2017, Parliament passed a new Inland Revenue Act in an effort to increase tax collection and broaden the tax base in response to recommendations made under its IMF program. In November 2017, the Financial Action Task Force on money laundering and terrorist financing listed Sri Lanka as non-compliant, but reported subsequently that Sri Lanka had made good progress in implementing an action plan to address deficiencies.</p><p></p><p>Tourism has experienced strong growth in the years since the resolution of the government's 26-year conflict with the Liberation Tigers of Tamil Eelam. In 2017, the government promulgated plans to transform the country into a knowledge-based, export-oriented Indian Ocean hub by 2025.</p>"
     },
     "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2020": {
+        "text": "$274.8 billion note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP (purchasing power parity) 2019": {
-        "text": "$285.141 billion (2019 est.)"
+        "text": "$284.97 billion note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP (purchasing power parity) 2018": {
-        "text": "$278.776 billion (2018 est.)"
-      },
-      "Real GDP (purchasing power parity) 2017": {
-        "text": "$269.853 billion (2017 est.)"
+        "text": "$278.68 billion note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2010 dollars"
     },
@@ -680,14 +680,14 @@
       }
     },
     "Real GDP per capita": {
+      "Real GDP per capita 2020": {
+        "text": "$12,500 note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP per capita 2019": {
-        "text": "$13,078 (2019 est.)"
+        "text": "$13,100 note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP per capita 2018": {
-        "text": "$12,865 (2018 est.)"
-      },
-      "Real GDP per capita 2017": {
-        "text": "$12,584 (2017 est.)"
+        "text": "$12,900 note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2010 dollars"
     },
@@ -833,10 +833,10 @@
     },
     "Exports": {
       "Exports 2019": {
-        "text": "$16.322 billion (2019 est.)"
+        "text": "$19.41 billion note: data are in current year dollars (2019 est.)"
       },
       "Exports 2018": {
-        "text": "$15.238 billion (2018 est.)"
+        "text": "$20.26 billion note: data are in current year dollars (2018 est.)"
       },
       "Exports 2017": {
         "text": "$15.166 billion (2017 est.)"
@@ -850,10 +850,10 @@
     },
     "Imports": {
       "Imports 2019": {
-        "text": "$24.984 billion (2019 est.)"
+        "text": "$24.56 billion note: data are in current year dollars (2019 est.)"
       },
       "Imports 2018": {
-        "text": "$26.521 billion (2018 est.)"
+        "text": "$26.84 billion note: data are in current year dollars (2018 est.)"
       },
       "Imports 2017": {
         "text": "$26.063 billion (2017 est.)"

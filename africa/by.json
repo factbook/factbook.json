@@ -85,6 +85,9 @@
     "Irrigated land": {
       "text": "230 sq km (2012)"
     },
+    "Major watersheds (area sq km)": {
+      "text": "Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)"
+    },
     "Population distribution": {
       "text": "one of Africa's most densely populated countries; concentrations tend to be in the north and along the northern shore of Lake Tanganyika in the west; most people live on farms near areas of fertile volcanic soil as shown in this population distribution map"
     },
@@ -93,9 +96,6 @@
     },
     "Geography - note": {
       "text": "landlocked; straddles crest of the Nile-Congo watershed; the Kagera, which drains into Lake Victoria, is the most remote headstream of the White Nile"
-    },
-    "Major watersheds (area sq km)": {
-      "text": "Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)"
     }
   },
   "People and Society": {
@@ -399,20 +399,6 @@
         "text": "1.42 megatons (2020 est.)"
       }
     },
-    "Total water withdrawal": {
-      "municipal": {
-        "text": "43.1 million cubic meters (2017 est.)"
-      },
-      "industrial": {
-        "text": "15 million cubic meters (2017 est.)"
-      },
-      "agricultural": {
-        "text": "222 million cubic meters (2017 est.)"
-      }
-    },
-    "Total renewable water resources": {
-      "text": "12.536 billion cubic meters (2017 est.)"
-    },
     "Climate": {
       "text": "equatorial; high plateau with considerable altitude variation (772 m to 2,670 m above sea level); average annual temperature varies with altitude from 23 to 17 degrees Celsius but is generally moderate as the average altitude is about 1,700 m; average annual rainfall is about 150 cm; two wet seasons (February to May and September to November), and two dry seasons (June to August and December to January)"
     },
@@ -436,6 +422,14 @@
         "text": "20.1% (2018 est.)"
       }
     },
+    "Urbanization": {
+      "urban population": {
+        "text": "14.1% of total population (2021)"
+      },
+      "rate of urbanization": {
+        "text": "5.43% annual rate of change (2020-25 est.)"
+      }
+    },
     "Revenue from forest resources": {
       "forest revenues": {
         "text": "10.31% of GDP (2018 est.)"
@@ -444,14 +438,6 @@
     "Revenue from coal": {
       "coal revenues": {
         "text": "0% of GDP (2018 est.)"
-      }
-    },
-    "Urbanization": {
-      "urban population": {
-        "text": "14.1% of total population (2021)"
-      },
-      "rate of urbanization": {
-        "text": "5.43% annual rate of change (2020-25 est.)"
       }
     },
     "Major infectious diseases": {
@@ -483,6 +469,20 @@
     },
     "Major watersheds (area sq km)": {
       "text": "Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)"
+    },
+    "Total water withdrawal": {
+      "municipal": {
+        "text": "43.1 million cubic meters (2017 est.)"
+      },
+      "industrial": {
+        "text": "15 million cubic meters (2017 est.)"
+      },
+      "agricultural": {
+        "text": "222 million cubic meters (2017 est.)"
+      }
+    },
+    "Total renewable water resources": {
+      "text": "12.536 billion cubic meters (2017 est.)"
     }
   },
   "Government": {
@@ -666,14 +666,14 @@
       "text": "<p>Burundi is a landlocked, resource-poor country with an underdeveloped manufacturing sector. Agriculture accounts for over 40% of GDP and employs more than 90% of the population. Burundi's primary exports are coffee and tea, which account for more than half of foreign exchange earnings, but these earnings are subject to fluctuations in weather and international coffee and tea prices, Burundi is heavily dependent on aid from bilateral and multilateral donors, as well as foreign exchange earnings from participation in the African Union Mission to Somalia (AMISOM). Foreign aid represented 48% of Burundi's national income in 2015, one of the highest percentages in Sub-Saharan Africa, but this figure decreased to 33.5% in 2016 due to political turmoil surrounding President NKURUNZIZA’s bid for a third term. Burundi joined the East African Community (EAC) in 2009.</p><p></p><p>Burundi faces several underlying weaknesses – low governmental capacity, corruption, a high poverty rate, poor educational levels, a weak legal system, a poor transportation network, and overburdened utilities – that have prevented the implementation of planned economic reforms. The purchasing power of most Burundians has decreased as wage increases have not kept pace with inflation, which reached approximately 18% in 2017.</p><p></p><p>Real GDP growth dropped precipitously following political events in 2015 and has yet to recover to pre-conflict levels. Continued resistance by donors and the international community will restrict Burundi’s economic growth as the country deals with a large current account deficit.</p>"
     },
     "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2020": {
+        "text": "$8.69 billion note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP (purchasing power parity) 2019": {
-        "text": "$8.667 billion (2019 est.)"
+        "text": "$8.67 billion note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP (purchasing power parity) 2018": {
-        "text": "$8.51 billion (2018 est.)"
-      },
-      "Real GDP (purchasing power parity) 2017": {
-        "text": "$8.375 billion (2017 est.)"
+        "text": "$8.51 billion note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2010 dollars"
     },
@@ -689,14 +689,14 @@
       }
     },
     "Real GDP per capita": {
+      "Real GDP per capita 2020": {
+        "text": "$700 note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP per capita 2019": {
-        "text": "$752 (2019 est.)"
+        "text": "$800 note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP per capita 2018": {
-        "text": "$762 (2018 est.)"
-      },
-      "Real GDP per capita 2017": {
-        "text": "$774 (2017 est.)"
+        "text": "$800 note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2010 dollars"
     },
@@ -821,9 +821,6 @@
       }
     },
     "Exports": {
-      "Exports 2019": {
-        "text": "$279 million (2019 est.)"
-      },
       "Exports 2018": {
         "text": "$283 million (2018 est.)"
       },
@@ -838,9 +835,6 @@
       "text": "gold, coffee, tea, raw earth metal ores, wheat flours (2019)"
     },
     "Imports": {
-      "Imports 2019": {
-        "text": "$1.04 billion (2019 est.)"
-      },
       "Imports 2018": {
         "text": "$927 million (2018 est.)"
       },
@@ -1075,7 +1069,7 @@
   },
   "Military and Security": {
     "Military and security forces": {
-      "text": "National Defense Forces (Forces de Defense Nationale, FDN): Army (includes maritime wing, air wing), National Police (Police Nationale du Burundi) (2020)"
+      "text": "National Defense Forces (Forces de Defense Nationale, FDN): Army (includes maritime wing, air wing), National Police (Police Nationale du Burundi) (2021)"
     },
     "Military expenditures": {
       "Military Expenditures 2020": {
@@ -1107,7 +1101,7 @@
       "text": "18 years of age for voluntary military service; the armed forces law of 31 December 2004 did not specify a minimum age for enlistment, but the government claimed that no one younger than 18 was being recruited (2019)"
     },
     "Military - note": {
-      "text": "in addition to its foreign deployments, the FDN is focused on internal security missions, particularly against rebel groups opposed to the regime such as National Forces of Liberation (FNL), the Resistance for the Rule of Law-Tabara (aka RED Tabara), and Popular Forces of Burundi (FPB or FOREBU); the groups are based in the neighboring Democratic Republic of Congo and have carried out sporadic attacks in Burundi (2020)"
+      "text": "in addition to its foreign deployments, the FDN as of 2021 was focused on internal security missions, particularly against rebel groups opposed to the regime such as National Forces of Liberation (FNL), the Resistance for the Rule of Law-Tabara (aka RED Tabara), and Popular Forces of Burundi (FPB or FOREBU); these groups were based in the neighboring Democratic Republic of Congo and have carried out sporadic attacks in Burundi"
     }
   },
   "Transnational Issues": {

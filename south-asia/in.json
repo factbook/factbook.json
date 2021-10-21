@@ -96,6 +96,12 @@
     "Irrigated land": {
       "text": "667,000 sq km (2012)"
     },
+    "Major watersheds (area sq km)": {
+      "text": "Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Indus (1,081,718 sq km), Irrawaddy (413,710 sq km)"
+    },
+    "Major aquifers": {
+      "text": "Indus-Ganges-Brahmaputra Basin"
+    },
     "Population distribution": {
       "text": "with the notable exception of the deserts in the northwest, including the Thar Desert, and the mountain fringe in the north, a very high population density exists throughout most of the country; the core of the population is in the north along the banks of the Ganges, with other river valleys and southern coastal areas also having large population concentrations"
     },
@@ -104,12 +110,6 @@
     },
     "Geography - note": {
       "text": "dominates South Asian subcontinent; near important Indian Ocean trade routes; Kanchenjunga, third tallest mountain in the world, lies on the border with Nepal"
-    },
-    "Major watersheds (area sq km)": {
-      "text": "Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Indus (1,081,718 sq km), Irrawaddy (413,710 sq km)"
-    },
-    "Major aquifers": {
-      "text": "Indus-Ganges-Brahmaputra Basin"
     }
   },
   "People and Society": {
@@ -409,20 +409,6 @@
         "text": "559.11 megatons (2020 est.)"
       }
     },
-    "Total water withdrawal": {
-      "municipal": {
-        "text": "56 billion cubic meters (2017 est.)"
-      },
-      "industrial": {
-        "text": "17 billion cubic meters (2017 est.)"
-      },
-      "agricultural": {
-        "text": "688 billion cubic meters (2017 est.)"
-      }
-    },
-    "Total renewable water resources": {
-      "text": "1,910,900,000,000 cubic meters (2017 est.)"
-    },
     "Climate": {
       "text": "varies from tropical monsoon in south to temperate in north"
     },
@@ -446,6 +432,14 @@
         "text": "16.4% (2018 est.)"
       }
     },
+    "Urbanization": {
+      "urban population": {
+        "text": "35.4% of total population (2021)"
+      },
+      "rate of urbanization": {
+        "text": "2.33% annual rate of change (2020-25 est.)"
+      }
+    },
     "Revenue from forest resources": {
       "forest revenues": {
         "text": "0.14% of GDP (2018 est.)"
@@ -454,14 +448,6 @@
     "Revenue from coal": {
       "coal revenues": {
         "text": "1.15% of GDP (2018 est.)"
-      }
-    },
-    "Urbanization": {
-      "urban population": {
-        "text": "35.4% of total population (2021)"
-      },
-      "rate of urbanization": {
-        "text": "2.33% annual rate of change (2020-25 est.)"
       }
     },
     "Major infectious diseases": {
@@ -498,6 +484,20 @@
     },
     "Major aquifers": {
       "text": "Indus-Ganges-Brahmaputra Basin"
+    },
+    "Total water withdrawal": {
+      "municipal": {
+        "text": "56 billion cubic meters (2017 est.)"
+      },
+      "industrial": {
+        "text": "17 billion cubic meters (2017 est.)"
+      },
+      "agricultural": {
+        "text": "688 billion cubic meters (2017 est.)"
+      }
+    },
+    "Total renewable water resources": {
+      "text": "1,910,900,000,000 cubic meters (2017 est.)"
     }
   },
   "Government": {
@@ -688,14 +688,14 @@
       "text": "<p>India's diverse economy encompasses traditional village farming, modern agriculture, handicrafts, a wide range of modern industries, and a multitude of services. Slightly less than half of the workforce is in agriculture, but services are the major source of economic growth, accounting for nearly two-thirds of India's output but employing less than one-third of its labor force. India has capitalized on its large educated English-speaking population to become a major exporter of information technology services, business outsourcing services, and software workers. Nevertheless, per capita income remains below the world average. India is developing into an open-market economy, yet traces of its past autarkic policies remain. Economic liberalization measures, including industrial deregulation, privatization of state-owned enterprises, and reduced controls on foreign trade and investment, began in the early 1990s and served to accelerate the country's growth, which averaged nearly 7% per year from 1997 to 2017.</p><p></p><p>India's economic growth slowed in 2011 because of a decline in investment caused by high interest rates, rising inflation, and investor pessimism about the government's commitment to further economic reforms and about slow world growth. Investors’ perceptions of India improved in early 2014, due to a reduction of the current account deficit and expectations of post-election economic reform, resulting in a surge of inbound capital flows and stabilization of the rupee. Growth rebounded in 2014 through 2016. Despite a high growth rate compared to the rest of the world, India’s government-owned banks faced mounting bad debt, resulting in low credit growth. Rising macroeconomic imbalances in India and improving economic conditions in Western countries led investors to shift capital away from India, prompting a sharp depreciation of the rupee through 2016.</p><p></p><p>The economy slowed again in 2017, due to shocks of \"demonetizaton\" in 2016 and introduction of GST in 2017. Since the election, the government has passed an important goods and services tax bill and raised foreign direct investment caps in some sectors, but most economic reforms have focused on administrative and governance changes, largely because the ruling party remains a minority in India’s upper house of Parliament, which must approve most bills.</p><p></p><p>India has a young population and corresponding low dependency ratio, healthy savings and investment rates, and is increasing integration into the global economy. However, long-term challenges remain significant, including: India's discrimination against women and girls, an inefficient power generation and distribution system, ineffective enforcement of intellectual property rights, decades-long civil litigation dockets, inadequate transport and agricultural infrastructure, limited non-agricultural employment opportunities, high spending and poorly targeted subsidies, inadequate availability of quality basic and higher education, and accommodating rural-to-urban migration.</p>"
     },
     "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2020": {
+        "text": "$8,443,360,000,000 note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP (purchasing power parity) 2019": {
-        "text": "$9,155,083,000,000 (2019 est.)"
+        "text": "$9,174,040,000,000 note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP (purchasing power parity) 2018": {
-        "text": "$8,787,694,000,000 (2018 est.)"
-      },
-      "Real GDP (purchasing power parity) 2017": {
-        "text": "$8,280,935,000,000 (2017 est.)"
+        "text": "$8,817,670,000,000 note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2010 dollars"
     },
@@ -711,14 +711,14 @@
       }
     },
     "Real GDP per capita": {
+      "Real GDP per capita 2020": {
+        "text": "$6,100 note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP per capita 2019": {
-        "text": "$6,700 (2019 est.)"
+        "text": "$6,700 note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP per capita 2018": {
-        "text": "$6,497 (2018 est.)"
-      },
-      "Real GDP per capita 2017": {
-        "text": "$6,186 (2017 est.)"
+        "text": "$6,500 note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2010 dollars"
     },
@@ -863,14 +863,14 @@
       }
     },
     "Exports": {
+      "Exports 2020": {
+        "text": "$484.95 billion note: data are in current year dollars (2020 est.)"
+      },
       "Exports 2019": {
-        "text": "$572.073 billion (2019 est.)"
+        "text": "$546.03 billion note: data are in current year dollars (2019 est.)"
       },
       "Exports 2018": {
-        "text": "$564.165 billion (2018 est.)"
-      },
-      "Exports 2017": {
-        "text": "$509.661 billion (2017 est.)"
+        "text": "$537.04 billion note: data are in current year dollars (2018 est.)"
       }
     },
     "Exports - partners": {
@@ -880,14 +880,14 @@
       "text": "refined petroleum, diamonds, packaged medicines, jewelry, cars (2019)"
     },
     "Imports": {
+      "Imports 2020": {
+        "text": "$493.18 billion note: data are in current year dollars (2020 est.)"
+      },
       "Imports 2019": {
-        "text": "$624.314 billion (2019 est.)"
+        "text": "$619.48 billion note: data are in current year dollars (2019 est.)"
       },
       "Imports 2018": {
-        "text": "$656.529 billion (2018 est.)"
-      },
-      "Imports 2017": {
-        "text": "$575.121 billion (2017 est.)"
+        "text": "$642.96 billion note: data are in current year dollars (2018 est.)"
       }
     },
     "Imports - partners": {
@@ -1203,7 +1203,7 @@
       "text": "the inventory of the Indian Armed Forces consists mostly of Russian-origin equipment, along with a smaller mix of Western and domestically-produced arms; since 2010, Russia is the leading supplier of arms to India; other major suppliers include France, Israel, the UK, and the US; India's defense industry is capable of producing a range of air, land, missile, and naval weapons systems for both indigenous use and export (2020)"
     },
     "Military deployments": {
-      "text": "1,900 Democratic Republic of the Congo (MONUSCO); 200 Golan Heights (UNDOF); 780 Lebanon (UNIFIL); 2,350 South Sudan (UNMISS) (Jan 2021)"
+      "text": "1,850 Democratic Republic of the Congo (MONUSCO); 200 Golan Heights (UNDOF); 850 Lebanon (UNIFIL); 2,350 South Sudan (UNMISS) (Sep 2021)"
     },
     "Military service age and obligation": {
       "text": "16-18 years of age for voluntary military service (Army 17 1/2, Air Force 17, Navy 16 1/2); no conscription; women may join as officers, currently serve in combat roles as Air Force pilots, and under consideration for Army and Navy combat roles (currently can fly naval reconnaissance aircraft) (2020)"
@@ -1224,7 +1224,7 @@
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
-        "text": "108,008 (Tibet/China), 59,428 (Sri Lanka), 18,813 (Burma), 7,470 (Afghanistan) (2019)"
+        "text": "93,259 (Sri Lanka), 73,407 (Tibet/China), 19,398 (Burma), 8,275 (Afghanistan) (2020)"
       },
       "IDPs": {
         "text": "473,000 (armed conflict and intercommunal violence) (2020)"

@@ -85,6 +85,9 @@
     "Irrigated land": {
       "text": "30 sq km (2012)"
     },
+    "Major watersheds (area sq km)": {
+      "text": "Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)"
+    },
     "Population distribution": {
       "text": "the northern and central areas of the country are the most densely populated"
     },
@@ -93,9 +96,6 @@
     },
     "Geography - note": {
       "text": "within Bosnia and Herzegovina's recognized borders, the country is divided into a joint Bosniak/Croat Federation (about 51% of the territory) and the Bosnian Serb-led Republika Srpska or RS (about 49% of the territory); the region called Herzegovina is contiguous to Croatia and Montenegro, and traditionally has been settled by an ethnic Croat majority in the west and an ethnic Serb majority in the east"
-    },
-    "Major watersheds (area sq km)": {
-      "text": "Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)"
     }
   },
   "People and Society": {
@@ -377,17 +377,6 @@
         "text": "2.92 megatons (2020 est.)"
       }
     },
-    "Total water withdrawal": {
-      "municipal": {
-        "text": "360.8 million cubic meters (2017 est.)"
-      },
-      "industrial": {
-        "text": "71.8 million cubic meters (2017 est.)"
-      }
-    },
-    "Total renewable water resources": {
-      "text": "37.5 billion cubic meters (2017 est.)"
-    },
     "Climate": {
       "text": "hot summers and cold winters; areas of high elevation have short, cool summers and long, severe winters; mild, rainy winters along coast"
     },
@@ -411,6 +400,14 @@
         "text": "15% (2018 est.)"
       }
     },
+    "Urbanization": {
+      "urban population": {
+        "text": "49.4% of total population (2021)"
+      },
+      "rate of urbanization": {
+        "text": "0.61% annual rate of change (2020-25 est.)"
+      }
+    },
     "Revenue from forest resources": {
       "forest revenues": {
         "text": "0.49% of GDP (2018 est.)"
@@ -419,14 +416,6 @@
     "Revenue from coal": {
       "coal revenues": {
         "text": "0.34% of GDP (2018 est.)"
-      }
-    },
-    "Urbanization": {
-      "urban population": {
-        "text": "49.4% of total population (2021)"
-      },
-      "rate of urbanization": {
-        "text": "0.61% annual rate of change (2020-25 est.)"
       }
     },
     "Waste and recycling": {
@@ -442,6 +431,17 @@
     },
     "Major watersheds (area sq km)": {
       "text": "Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)"
+    },
+    "Total water withdrawal": {
+      "municipal": {
+        "text": "360.8 million cubic meters (2017 est.)"
+      },
+      "industrial": {
+        "text": "71.8 million cubic meters (2017 est.)"
+      }
+    },
+    "Total renewable water resources": {
+      "text": "37.5 billion cubic meters (2017 est.)"
     }
   },
   "Government": {
@@ -640,14 +640,14 @@
       "text": "<p>Bosnia and Herzegovina has a transitional economy with limited market reforms. The economy relies heavily on the export of metals, energy, textiles, and furniture as well as on remittances and foreign aid. A highly decentralized government hampers economic policy coordination and reform, while excessive bureaucracy and a segmented market discourage foreign investment. The economy is among the least competitive in the region. Foreign banks, primarily from Austria and Italy, control much of the banking sector, though the largest bank is a private domestic one. The konvertibilna marka (convertible mark) - the national currency introduced in 1998 - is pegged to the euro through a currency board arrangement, which has maintained confidence in the currency and has facilitated reliable trade links with European partners. Bosnia and Herzegovina became a full member of the Central European Free Trade Agreement in September 2007. In 2016, Bosnia began a three-year IMF loan program, but it has struggled to meet the economic reform benchmarks required to receive all funding installments.</p><p></p><p>Bosnia and Herzegovina's private sector is growing slowly, but foreign investment dropped sharply after 2007 and remains low. High unemployment remains the most serious macroeconomic problem. Successful implementation of a value-added tax in 2006 provided a steady source of revenue for the government and helped rein in gray-market activity, though public perceptions of government corruption and misuse of taxpayer money has encouraged a large informal economy to persist. National-level statistics have improved over time, but a large share of economic activity remains unofficial and unrecorded.</p><p></p><p>Bosnia and Herzegovina's top economic priorities are: acceleration of integration into the EU; strengthening the fiscal system; public administration reform; World Trade Organization membership; and securing economic growth by fostering a dynamic, competitive private sector.</p>"
     },
     "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2020": {
+        "text": "$47.05 billion note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP (purchasing power parity) 2019": {
-        "text": "$49.224 billion (2019 est.)"
+        "text": "$49.17 billion note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP (purchasing power parity) 2018": {
-        "text": "$47.94 billion (2018 est.)"
-      },
-      "Real GDP (purchasing power parity) 2017": {
-        "text": "$46.212 billion (2017 est.)"
+        "text": "$47.82 billion note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2010 dollars"
     },
@@ -663,14 +663,14 @@
       }
     },
     "Real GDP per capita": {
+      "Real GDP per capita 2020": {
+        "text": "$14,300 note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP per capita 2019": {
-        "text": "$14,912 (2019 est.)"
+        "text": "$14,900 note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP per capita 2018": {
-        "text": "$14,423 (2018 est.)"
-      },
-      "Real GDP per capita 2017": {
-        "text": "$13,788 (2017 est.)"
+        "text": "$14,400 note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2010 dollars"
     },
@@ -810,14 +810,14 @@
       }
     },
     "Exports": {
+      "Exports 2020": {
+        "text": "$6.81 billion note: data are in current year dollars (2020 est.)"
+      },
       "Exports 2019": {
-        "text": "$8.843 billion (2019 est.)"
+        "text": "$8.17 billion note: data are in current year dollars (2019 est.)"
       },
       "Exports 2018": {
-        "text": "$8.91 billion (2018 est.)"
-      },
-      "Exports 2017": {
-        "text": "$8.395 billion (2017 est.)"
+        "text": "$8.57 billion note: data are in current year dollars (2018 est.)"
       }
     },
     "Exports - partners": {
@@ -827,14 +827,14 @@
       "text": "electricity, seating, leather shoes, furniture, insulated wiring (2019)"
     },
     "Imports": {
+      "Imports 2020": {
+        "text": "$9.71 billion note: data are in current year dollars (2020 est.)"
+      },
       "Imports 2019": {
-        "text": "$12.561 billion (2019 est.)"
+        "text": "$11.15 billion note: data are in current year dollars (2019 est.)"
       },
       "Imports 2018": {
-        "text": "$12.441 billion (2018 est.)"
-      },
-      "Imports 2017": {
-        "text": "$11.999 billion (2017 est.)"
+        "text": "$11.55 billion note: data are in current year dollars (2018 est.)"
       }
     },
     "Imports - partners": {
@@ -972,7 +972,7 @@
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "<p>Bosnia-Herzegovina aims for national LTE coverage through integration with European Union (EU); roaming agreements with EU and Balkan neighbors; fixed-line broadband is underdeveloped, investments in mobile upgrades facilitate broadband connectivity to a greater extent than in Europe; DSL and cable are the main platforms for fixed-line connectivity while fiber broadband has a small market presence; operators support broadband in rural areas where fixed-line infrastructure is insufficient; LTE services under test licenses; 5G awaits market maturity; importer of broadcasting equipment from China (2021)</p> (2020)"
+        "text": "<p>Bosnia-Herzegovina aims for national LTE coverage through integration with European Union (EU); roaming agreements with EU and Balkan neighbors; fixed-line broadband is underdeveloped, investments in mobile upgrades facilitate broadband connectivity to a greater extent than in Europe; DSL and cable are the main platforms for fixed-line connectivity while fiber broadband has a small market presence; operators support broadband in rural areas where fixed-line infrastructure is insufficient; LTE services under test licenses; 5G awaits market maturity; importer of broadcasting equipment from China</p> (2021)"
       },
       "domestic": {
         "text": "fixed-line teledensity roughly 24 per 100 persons and mobile-cellular subscribership has been increasing rapidly and stands at roughly 112 telephones per 100 persons (2019)"
@@ -1136,7 +1136,7 @@
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
-        "text": "5,116 (Croatia) (2019)"
+        "text": "5,112 (Croatia) (2020)"
       },
       "IDPs": {
         "text": "99,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2020)"
@@ -1144,7 +1144,7 @@
       "stateless persons": {
         "text": "66 (2020)"
       },
-      "note": "<strong>note:</strong> 83,028 estimated refugee and migrant arrivals (January 2015-October 2021)"
+      "note": "<strong>note:</strong> 83,369 estimated refugee and migrant arrivals (January 2015-October 2021)"
     },
     "Trafficking in persons": {
       "current situation": {

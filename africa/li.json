@@ -392,20 +392,6 @@
         "text": "6.56 megatons (2020 est.)"
       }
     },
-    "Total water withdrawal": {
-      "municipal": {
-        "text": "80.2 million cubic meters (2017 est.)"
-      },
-      "industrial": {
-        "text": "53.4 million cubic meters (2017 est.)"
-      },
-      "agricultural": {
-        "text": "12.3 million cubic meters (2017 est.)"
-      }
-    },
-    "Total renewable water resources": {
-      "text": "232 billion cubic meters (2017 est.)"
-    },
     "Climate": {
       "text": "tropical; hot, humid; dry winters with hot days and cool to cold nights; wet, cloudy summers with frequent heavy showers"
     },
@@ -429,6 +415,14 @@
         "text": "27.3% (2018 est.)"
       }
     },
+    "Urbanization": {
+      "urban population": {
+        "text": "52.6% of total population (2021)"
+      },
+      "rate of urbanization": {
+        "text": "3.41% annual rate of change (2015-20 est.)"
+      }
+    },
     "Revenue from forest resources": {
       "forest revenues": {
         "text": "13.27% of GDP (2018 est.)"
@@ -437,14 +431,6 @@
     "Revenue from coal": {
       "coal revenues": {
         "text": "0% of GDP (2018 est.)"
-      }
-    },
-    "Urbanization": {
-      "urban population": {
-        "text": "52.6% of total population (2021)"
-      },
-      "rate of urbanization": {
-        "text": "3.41% annual rate of change (2015-20 est.)"
       }
     },
     "Major infectious diseases": {
@@ -471,6 +457,20 @@
       "municipal solid waste generated annually": {
         "text": "564,467 tons (2007 est.)"
       }
+    },
+    "Total water withdrawal": {
+      "municipal": {
+        "text": "80.2 million cubic meters (2017 est.)"
+      },
+      "industrial": {
+        "text": "53.4 million cubic meters (2017 est.)"
+      },
+      "agricultural": {
+        "text": "12.3 million cubic meters (2017 est.)"
+      }
+    },
+    "Total renewable water resources": {
+      "text": "232 billion cubic meters (2017 est.)"
     }
   },
   "Government": {
@@ -649,14 +649,14 @@
       "text": "<p>Liberia is a low-income country that relies heavily on foreign assistance and remittances from the diaspora. It is richly endowed with water, mineral resources, forests, and a climate favorable to agriculture. Its principal exports are iron ore, rubber, diamonds, and gold. Palm oil and cocoa are emerging as new export products. The government has attempted to revive raw timber extraction and is encouraging oil exploration.</p><p></p><p>In the 1990s and early 2000s, civil war and government mismanagement destroyed much of Liberia's economy, especially infrastructure in and around the capital. Much of the conflict was fueled by control over Liberia’s natural resources. With the conclusion of fighting and the installation of a democratically elected government in 2006, businesses that had fled the country began to return. The country achieved high growth during the period 2010-13 due to favorable world prices for its commodities. However, during the 2014-2015 Ebola crisis, the economy declined and many foreign-owned businesses departed with their capital and expertise. The epidemic forced the government to divert scarce resources to combat the spread of the virus, reducing funds available for needed public investment. The cost of addressing the Ebola epidemic coincided with decreased economic activity reducing government revenue, although higher donor support significantly offset this loss. During the same period, global commodities prices for key exports fell and have yet to recover to pre-Ebola levels.</p><p></p><p>In 2017, gold was a key driver of growth, as a new mining project began its first full year of production; iron ore exports are also increased as Arcelor Mittal opened new mines at Mount Gangra. The completion of the rehabilitation of the Mount Coffee Hydroelectric Dam increased electricity production to support ongoing and future economic activity, although electricity tariffs remain high relative to other countries in the region and transmission infrastructure is limited. Presidential and legislative elections in October 2017 generated election-related spending pressures.</p><p></p><p>Revitalizing the economy in the future will depend on economic diversification, increasing investment and trade, higher global commodity prices, sustained foreign aid and remittances, development of infrastructure and institutions, combating corruption, and maintaining political stability and security.</p>"
     },
     "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2020": {
+        "text": "$6.85 billion note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP (purchasing power parity) 2019": {
-        "text": "$7.049 billion (2019 est.)"
+        "text": "$7.05 billion note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP (purchasing power parity) 2018": {
-        "text": "$7.214 billion (2018 est.)"
-      },
-      "Real GDP (purchasing power parity) 2017": {
-        "text": "$7.126 billion (2017 est.)"
+        "text": "$7.21 billion note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2010 dollars"
     },
@@ -672,14 +672,14 @@
       }
     },
     "Real GDP per capita": {
+      "Real GDP per capita 2020": {
+        "text": "$1,400 note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP per capita 2019": {
-        "text": "$1,428 (2019 est.)"
+        "text": "$1,400 note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP per capita 2018": {
-        "text": "$1,497 (2018 est.)"
-      },
-      "Real GDP per capita 2017": {
-        "text": "$1,516 (2017 est.)"
+        "text": "$1,500 note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2010 dollars"
     },
@@ -807,10 +807,10 @@
     },
     "Exports": {
       "Exports 2019": {
-        "text": "$330 million (2019 est.)"
+        "text": "$550 million note: data are in current year dollars (2019 est.)"
       },
       "Exports 2018": {
-        "text": "$362 million (2018 est.)"
+        "text": "$530 million note: data are in current year dollars (2018 est.)"
       },
       "Exports 2017": {
         "text": "$359 million (2017 est.)"
@@ -824,10 +824,10 @@
     },
     "Imports": {
       "Imports 2019": {
-        "text": "$1.82 billion (2019 est.)"
+        "text": "$1.24 billion note: data are in current year dollars (2019 est.)"
       },
       "Imports 2018": {
-        "text": "$1.956 billion (2018 est.)"
+        "text": "$1.25 billion note: data are in current year dollars (2018 est.)"
       },
       "Imports 2017": {
         "text": "$2.118 billion (2017 est.)"
@@ -1111,7 +1111,7 @@
       "text": "the AFL has almost no significant combat hardware as nearly all aircraft, equipment, materiel, and facilities were damaged or destroyed during the country's civil war; it has received little new equipment outside of ammunition, small arms, and trucks from China in 2008, and boats and vehicles donated by the US in the 2010s (2020)"
     },
     "Military deployments": {
-      "text": "150 Mali (MINUSMA) (Jan 2021)"
+      "text": "150 Mali (MINUSMA) (Sep 2021)"
     },
     "Military service age and obligation": {
       "text": "18 years of age for voluntary military service; no conscription (2019)"

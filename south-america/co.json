@@ -94,6 +94,12 @@
     "Irrigated land": {
       "text": "10,900 sq km (2012)"
     },
+    "Major watersheds (area sq km)": {
+      "text": "Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)"
+    },
+    "Major aquifers": {
+      "text": "Amazon Basin"
+    },
     "Population distribution": {
       "text": "the majority of people live in the north and west where agricultural opportunities and natural resources are found; the vast grasslands of the llanos to the south and east, which make up approximately 60% of the country, are sparsely populated"
     },
@@ -102,12 +108,6 @@
     },
     "Geography - note": {
       "text": "only South American country with coastlines on both the North Pacific Ocean and Caribbean Sea"
-    },
-    "Major watersheds (area sq km)": {
-      "text": "Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)"
-    },
-    "Major aquifers": {
-      "text": "Amazon Basin"
     }
   },
   "People and Society": {
@@ -404,20 +404,6 @@
         "text": "81.52 megatons (2020 est.)"
       }
     },
-    "Total water withdrawal": {
-      "municipal": {
-        "text": "3.49 billion cubic meters (2017 est.)"
-      },
-      "industrial": {
-        "text": "3.73 billion cubic meters (2017 est.)"
-      },
-      "agricultural": {
-        "text": "6.391 billion cubic meters (2017 est.)"
-      }
-    },
-    "Total renewable water resources": {
-      "text": "2.36 trillion cubic meters (2017 est.)"
-    },
     "Climate": {
       "text": "tropical along coast and eastern plains; cooler in highlands"
     },
@@ -441,6 +427,14 @@
         "text": "8.1% (2018 est.)"
       }
     },
+    "Urbanization": {
+      "urban population": {
+        "text": "81.7% of total population (2021)"
+      },
+      "rate of urbanization": {
+        "text": "1.01% annual rate of change (2020-25 est.)"
+      }
+    },
     "Revenue from forest resources": {
       "forest revenues": {
         "text": "0.1% of GDP (2018 est.)"
@@ -449,14 +443,6 @@
     "Revenue from coal": {
       "coal revenues": {
         "text": "0.75% of GDP (2018 est.)"
-      }
-    },
-    "Urbanization": {
-      "urban population": {
-        "text": "81.7% of total population (2021)"
-      },
-      "rate of urbanization": {
-        "text": "1.01% annual rate of change (2020-25 est.)"
       }
     },
     "Major infectious diseases": {
@@ -487,6 +473,20 @@
     },
     "Major aquifers": {
       "text": "Amazon Basin"
+    },
+    "Total water withdrawal": {
+      "municipal": {
+        "text": "3.49 billion cubic meters (2017 est.)"
+      },
+      "industrial": {
+        "text": "3.73 billion cubic meters (2017 est.)"
+      },
+      "agricultural": {
+        "text": "6.391 billion cubic meters (2017 est.)"
+      }
+    },
+    "Total renewable water resources": {
+      "text": "2.36 trillion cubic meters (2017 est.)"
     }
   },
   "Government": {
@@ -675,14 +675,14 @@
       "text": "<p>Colombia heavily depends on energy and mining exports, making it vulnerable to fluctuations in commodity prices. Colombia is Latin America’s fourth largest oil producer and the world’s fourth largest coal producer, third largest coffee exporter, and second largest cut flowers exporter. Colombia’s economic development is hampered by inadequate infrastructure, poverty, narcotrafficking, and an uncertain security situation, in addition to dependence on primary commodities (goods that have little value-added from processing or labor inputs).</p><p></p><p>Colombia’s economy slowed in 2017 because of falling world market prices for oil and lower domestic oil production due to insurgent attacks on pipeline infrastructure. Although real GDP growth averaged 4.7% during the past decade, it fell to an estimated 1.8% in 2017. Declining oil prices also have contributed to reduced government revenues. In 2016, oil revenue dropped below 4% of the federal budget and likely remained below 4% in 2017. A Western credit rating agency in December 2017 downgraded Colombia’s sovereign credit rating to BBB-, because of weaker-than-expected growth and increasing external debt. Colombia has struggled to address local referendums against foreign investment, which have slowed its expansion, especially in the oil and mining sectors. Colombia’s FDI declined by 3% to $10.2 billion between January and September 2017.</p><p></p><p>Colombia has signed or is negotiating Free Trade Agreements (FTA) with more than a dozen countries; the US-Colombia FTA went into effect in May 2012. Colombia is a founding member of the Pacific Alliance—a regional trade block formed in 2012 by Chile, Colombia, Mexico, and Peru to promote regional trade and economic integration. The Colombian government took steps in 2017 to address several bilateral trade irritants with the US, including those on truck scrappage, distilled spirits, pharmaceuticals, ethanol imports, and labor rights. Colombia hopes to accede to the Organization for Economic Cooperation and Development.</p>"
     },
     "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2020": {
+        "text": "$683.94 billion note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP (purchasing power parity) 2019": {
-        "text": "$741.099 billion (2019 est.)"
+        "text": "$734.22 billion note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP (purchasing power parity) 2018": {
-        "text": "$717.7 billion (2018 est.)"
-      },
-      "Real GDP (purchasing power parity) 2017": {
-        "text": "$700.091 billion (2017 est.)"
+        "text": "$710.89 billion note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2010 dollars"
     },
@@ -698,14 +698,14 @@
       }
     },
     "Real GDP per capita": {
+      "Real GDP per capita 2020": {
+        "text": "$13,400 note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP per capita 2019": {
-        "text": "$14,722 (2019 est.)"
+        "text": "$14,600 note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP per capita 2018": {
-        "text": "$14,452 (2018 est.)"
-      },
-      "Real GDP per capita 2017": {
-        "text": "$14,314 (2017 est.)"
+        "text": "$14,300 note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2010 dollars"
     },
@@ -850,14 +850,14 @@
       }
     },
     "Exports": {
+      "Exports 2020": {
+        "text": "$39.14 billion note: data are in current year dollars (2020 est.)"
+      },
       "Exports 2019": {
-        "text": "$61.697 billion (2019 est.)"
+        "text": "$52.96 billion note: data are in current year dollars (2019 est.)"
       },
       "Exports 2018": {
-        "text": "$60.151 billion (2018 est.)"
-      },
-      "Exports 2017": {
-        "text": "$59.644 billion (2017 est.)"
+        "text": "$55.06 billion note: data are in current year dollars (2018 est.)"
       }
     },
     "Exports - partners": {
@@ -867,14 +867,14 @@
       "text": "crude petroleum, coal, refined petroleum, coffee, gold (2019)"
     },
     "Imports": {
+      "Imports 2020": {
+        "text": "$51.56 billion note: data are in current year dollars (2020 est.)"
+      },
       "Imports 2019": {
-        "text": "$87.072 billion (2019 est.)"
+        "text": "$65.83 billion note: data are in current year dollars (2019 est.)"
       },
       "Imports 2018": {
-        "text": "$80.546 billion (2018 est.)"
-      },
-      "Imports 2017": {
-        "text": "$76.136 billion (2017 est.)"
+        "text": "$64.56 billion note: data are in current year dollars (2018 est.)"
       }
     },
     "Imports - partners": {

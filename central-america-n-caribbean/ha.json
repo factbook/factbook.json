@@ -376,20 +376,6 @@
         "text": "6.12 megatons (2020 est.)"
       }
     },
-    "Total water withdrawal": {
-      "municipal": {
-        "text": "190 million cubic meters (2017 est.)"
-      },
-      "industrial": {
-        "text": "51 million cubic meters (2017 est.)"
-      },
-      "agricultural": {
-        "text": "1.209 billion cubic meters (2017 est.)"
-      }
-    },
-    "Total renewable water resources": {
-      "text": "14.022 billion cubic meters (2017 est.)"
-    },
     "Climate": {
       "text": "tropical; semiarid where mountains in east cut off trade winds"
     },
@@ -413,6 +399,14 @@
         "text": "30% (2018 est.)"
       }
     },
+    "Urbanization": {
+      "urban population": {
+        "text": "58% of total population (2021)"
+      },
+      "rate of urbanization": {
+        "text": "2.47% annual rate of change (2020-25 est.)"
+      }
+    },
     "Revenue from forest resources": {
       "forest revenues": {
         "text": "0.68% of GDP (2018 est.)"
@@ -421,14 +415,6 @@
     "Revenue from coal": {
       "coal revenues": {
         "text": "0% of GDP (2018 est.)"
-      }
-    },
-    "Urbanization": {
-      "urban population": {
-        "text": "58% of total population (2021)"
-      },
-      "rate of urbanization": {
-        "text": "2.47% annual rate of change (2020-25 est.)"
       }
     },
     "Major infectious diseases": {
@@ -451,6 +437,20 @@
       "municipal solid waste generated annually": {
         "text": "2,309,852 tons (2015 est.)"
       }
+    },
+    "Total water withdrawal": {
+      "municipal": {
+        "text": "190 million cubic meters (2017 est.)"
+      },
+      "industrial": {
+        "text": "51 million cubic meters (2017 est.)"
+      },
+      "agricultural": {
+        "text": "1.209 billion cubic meters (2017 est.)"
+      }
+    },
+    "Total renewable water resources": {
+      "text": "14.022 billion cubic meters (2017 est.)"
     }
   },
   "Government": {
@@ -638,14 +638,14 @@
       "text": "<p>Haiti is a free market economy with low labor costs and tariff-free access to the US for many of its exports. Two-fifths of all Haitians depend on the agricultural sector, mainly small-scale subsistence farming, which remains vulnerable to damage from frequent natural disasters. Poverty, corruption, vulnerability to natural disasters, and low levels of education for much of the population represent some of the most serious impediments to Haiti’s economic growth. Remittances are the primary source of foreign exchange, equivalent to more than a quarter of GDP, and nearly double the combined value of Haitian exports and foreign direct investment.</p><p></p><p>Currently the poorest country in the Western Hemisphere, with close to 60% of the population living under the national poverty line, Haiti’s GDP growth rose to 5.5% in 2011 as the Haitian economy began recovering from the devastating January 2010 earthquake that destroyed much of its capital city, Port-au-Prince, and neighboring areas. However, growth slowed to below 2% in 2015 and 2016 as political uncertainty, drought conditions, decreasing foreign aid, and the depreciation of the national currency took a toll on investment and economic growth. Hurricane Matthew, the fiercest Caribbean storm in nearly a decade, made landfall in Haiti on 4 October 2016, with 140 mile-per-hour winds, creating a new humanitarian emergency. An estimated 2.1 million people were affected by the category 4 storm, which caused extensive damage to crops, houses, livestock, and infrastructure across Haiti’s southern peninsula.</p><p></p><p>US economic engagement under the Caribbean Basin Trade Partnership Act (CBTPA) and the 2008 Haitian Hemispheric Opportunity through Partnership Encouragement Act (HOPE II) have contributed to an increase in apparel exports and investment by providing duty-free access to the US. The Haiti Economic Lift Program (HELP) Act of 2010 extended the CBTPA and HOPE II until 2020, while the Trade Preferences Extension Act of 2015 extended trade benefits provided to Haiti in the HOPE and HELP Acts through September 2025. Apparel sector exports in 2016 reached approximately $850 million and account for over 90% of Haitian exports and more than 10% of the GDP.</p><p></p><p>Investment in Haiti is hampered by the difficulty of doing business and weak infrastructure, including access to electricity. Haiti's outstanding external debt was cancelled by donor countries following the 2010 earthquake, but has since risen to $2.6 billion as of December 2017, the majority of which is owed to Venezuela under the PetroCaribe program. Although the government has increased its revenue collection, it continues to rely on formal international economic assistance for fiscal sustainability, with over 20% of its annual budget coming from foreign aid or direct budget support.</p>"
     },
     "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2020": {
+        "text": "$31.62 billion note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP (purchasing power parity) 2019": {
-        "text": "$32.724 billion (2019 est.)"
+        "text": "$32.72 billion note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP (purchasing power parity) 2018": {
-        "text": "$33.284 billion (2018 est.)"
-      },
-      "Real GDP (purchasing power parity) 2017": {
-        "text": "$32.738 billion (2017 est.)"
+        "text": "$33.28 billion note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2017 dollars"
     },
@@ -661,14 +661,14 @@
       }
     },
     "Real GDP per capita": {
+      "Real GDP per capita 2020": {
+        "text": "$2,800 note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP per capita 2019": {
-        "text": "$2,905 (2019 est.)"
+        "text": "$2,900 note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP per capita 2018": {
-        "text": "$2,992 (2018 est.)"
-      },
-      "Real GDP per capita 2017": {
-        "text": "$2,981 (2017 est.)"
+        "text": "$3,000 note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2017 dollars"
     },
@@ -798,11 +798,11 @@
       }
     },
     "Exports": {
-      "Exports 2017": {
-        "text": "$980.2 million (2017 est.)"
+      "Exports 2019": {
+        "text": "$1.73 billion note: data are in current year dollars (2019 est.)"
       },
-      "Exports 2016": {
-        "text": "$995 million (2016 est.)"
+      "Exports 2018": {
+        "text": "$1.78 billion note: data are in current year dollars (2018 est.)"
       }
     },
     "Exports - partners": {
@@ -812,11 +812,11 @@
       "text": "clothing and apparel, eels, essential oils, perfumes, mangoes, cocoa beans (2019)"
     },
     "Imports": {
-      "Imports 2017": {
-        "text": "$3.618 billion (2017 est.)"
+      "Imports 2019": {
+        "text": "$5.21 billion note: data are in current year dollars (2019 est.)"
       },
-      "Imports 2016": {
-        "text": "$3.183 billion (2016 est.)"
+      "Imports 2018": {
+        "text": "$5.67 billion note: data are in current year dollars (2018 est.)"
       }
     },
     "Imports - partners": {
@@ -1059,7 +1059,7 @@
   },
   "Military and Security": {
     "Military and security forces": {
-      "text": "the Haitian Armed Forces (FAdH), disbanded in 1995, began to be reconstituted in 2017 to assist with natural disaster relief, border security, and combating transnational crime; it established an Army command in 2018; the small Coast Guard is not part of the military, but rather the Haitian National Police (2020)"
+      "text": "the Haitian Armed Forces (FAdH), disbanded in 1995, began to be reconstituted in 2017 to assist with natural disaster relief, border security, and combating transnational crime; it established an Army command in 2018; the small Coast Guard is not part of the military, but rather the Haitian National Police (2021)"
     },
     "Military and security service personnel strengths": {
       "text": "the FAdH has approximately 500 troops (the force is planned to eventually have around 5,000 personnel); approximately 16,000 National Police (2021)"

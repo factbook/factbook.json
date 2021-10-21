@@ -396,20 +396,6 @@
         "text": "10.7 megatons (2020 est.)"
       }
     },
-    "Total water withdrawal": {
-      "municipal": {
-        "text": "835 million cubic meters (2017 est.)"
-      },
-      "industrial": {
-        "text": "603.1 million cubic meters (2017 est.)"
-      },
-      "agricultural": {
-        "text": "1.886 billion cubic meters (2017 est.)"
-      }
-    },
-    "Total renewable water resources": {
-      "text": "127.91 billion cubic meters (2017 est.)"
-    },
     "Climate": {
       "text": "tropical; hot, humid in lowlands; cooler in highlands"
     },
@@ -433,6 +419,14 @@
         "text": "25.2% (2018 est.)"
       }
     },
+    "Urbanization": {
+      "urban population": {
+        "text": "52.2% of total population (2021)"
+      },
+      "rate of urbanization": {
+        "text": "2.59% annual rate of change (2020-25 est.)"
+      }
+    },
     "Revenue from forest resources": {
       "forest revenues": {
         "text": "0.78% of GDP (2018 est.)"
@@ -441,14 +435,6 @@
     "Revenue from coal": {
       "coal revenues": {
         "text": "0% of GDP (2018 est.)"
-      }
-    },
-    "Urbanization": {
-      "urban population": {
-        "text": "52.2% of total population (2021)"
-      },
-      "rate of urbanization": {
-        "text": "2.59% annual rate of change (2020-25 est.)"
       }
     },
     "Major infectious diseases": {
@@ -466,6 +452,20 @@
       "municipal solid waste generated annually": {
         "text": "2,756,741 tons (2015 est.)"
       }
+    },
+    "Total water withdrawal": {
+      "municipal": {
+        "text": "835 million cubic meters (2017 est.)"
+      },
+      "industrial": {
+        "text": "603.1 million cubic meters (2017 est.)"
+      },
+      "agricultural": {
+        "text": "1.886 billion cubic meters (2017 est.)"
+      }
+    },
+    "Total renewable water resources": {
+      "text": "127.91 billion cubic meters (2017 est.)"
     }
   },
   "Government": {
@@ -654,14 +654,14 @@
       "text": "<p>Guatemala is the most populous country in Central America with a GDP per capita roughly half the average for Latin America and the Caribbean. The agricultural sector accounts for 13.5% of GDP and 31% of the labor force; key agricultural exports include sugar, coffee, bananas, and vegetables. Guatemala is the top remittance recipient in Central America as a result of Guatemala's large expatriate community in the US. These inflows are a primary source of foreign income, equivalent to two-thirds of the country's exports and about a tenth of its GDP.</p><p></p><p>The 1996 peace accords, which ended 36 years of civil war, removed a major obstacle to foreign investment, and Guatemala has since pursued important reforms and macroeconomic stabilization. The Dominican Republic-Central America Free Trade Agreement (CAFTA-DR) entered into force in July 2006, spurring increased investment and diversification of exports, with the largest increases in ethanol and non-traditional agricultural exports. While CAFTA-DR has helped improve the investment climate, concerns over security, the lack of skilled workers, and poor infrastructure continue to hamper foreign direct investment.</p><p></p><p>The distribution of income remains highly unequal with the richest 20% of the population accounting for more than 51% of Guatemala's overall consumption. More than half of the population is below the national poverty line, and 23% of the population lives in extreme poverty. Poverty among indigenous groups, which make up more than 40% of the population, averages 79%, with 40% of the indigenous population living in extreme poverty. Nearly one-half of Guatemala's children under age five are chronically malnourished, one of the highest malnutrition rates in the world.</p>"
     },
     "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2020": {
+        "text": "$141.5 billion note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP (purchasing power parity) 2019": {
-        "text": "$143.416 billion (2019 est.)"
+        "text": "$143.68 billion note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP (purchasing power parity) 2018": {
-        "text": "$138.106 billion (2018 est.)"
-      },
-      "Real GDP (purchasing power parity) 2017": {
-        "text": "$133.804 billion (2017 est.)"
+        "text": "$138.33 billion note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2017 dollars"
     },
@@ -677,14 +677,14 @@
       }
     },
     "Real GDP per capita": {
+      "Real GDP per capita 2020": {
+        "text": "$8,400 note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP per capita 2019": {
-        "text": "$8,637 (2019 est.)"
+        "text": "$8,700 note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP per capita 2018": {
-        "text": "$8,448 (2018 est.)"
-      },
-      "Real GDP per capita 2017": {
-        "text": "$8,317 (2017 est.)"
+        "text": "$8,500 note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2017 dollars"
     },
@@ -828,11 +828,14 @@
       }
     },
     "Exports": {
-      "Exports 2017": {
-        "text": "$11.12 billion (2017 est.)"
+      "Exports 2020": {
+        "text": "$13.12 billion note: data are in current year dollars (2020 est.)"
       },
-      "Exports 2016": {
-        "text": "$10.58 billion (2016 est.)"
+      "Exports 2019": {
+        "text": "$13.6 billion note: data are in current year dollars (2019 est.)"
+      },
+      "Exports 2018": {
+        "text": "$13.35 billion note: data are in current year dollars (2018 est.)"
       }
     },
     "Exports - partners": {
@@ -842,11 +845,14 @@
       "text": "bananas, raw sugar, coffee, cardamom, palm oil (2019)"
     },
     "Imports": {
-      "Imports 2017": {
-        "text": "$17.11 billion (2017 est.)"
+      "Imports 2020": {
+        "text": "$19.3 billion note: data are in current year dollars (2020 est.)"
       },
-      "Imports 2016": {
-        "text": "$15.77 billion (2016 est.)"
+      "Imports 2019": {
+        "text": "$21.52 billion note: data are in current year dollars (2019 est.)"
+      },
+      "Imports 2018": {
+        "text": "$21.17 billion note: data are in current year dollars (2018 est.)"
       }
     },
     "Imports - partners": {
@@ -1151,7 +1157,7 @@
       "text": "the Guatemalan military inventory is small and mostly comprised of older US equipment; since 2010, Guatemala has received small amounts of equipment from Canada, Colombia, Spain, Taiwan, and the US (2020)"
     },
     "Military deployments": {
-      "text": "150 Democratic Republic of the Congo (MONUSCO) (Jan 2021)"
+      "text": "150 Democratic Republic of the Congo (MONUSCO) (Sep 2021)"
     },
     "Military service age and obligation": {
       "text": "all male citizens between the ages of 18 and 50 are eligible for military service; in practice, most of the force is volunteer, however, a selective draft system is employed, resulting in a small portion of 17-21 year-olds conscripted; conscript service obligation varies from 1 to 2 years; women can serve as officers (2019)"

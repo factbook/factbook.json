@@ -423,22 +423,6 @@
       },
       "note": "<strong>note:</strong>  data does not include former Western Sahara"
     },
-    "Total water withdrawal": {
-      "municipal": {
-        "text": "1.063 billion cubic meters (2017 est.)"
-      },
-      "industrial": {
-        "text": "212 million cubic meters (2017 est.)"
-      },
-      "agricultural": {
-        "text": "9.156 billion cubic meters (2017 est.)"
-      },
-      "note": "<strong>note:</strong>  data does not include former Western Sahara"
-    },
-    "Total renewable water resources": {
-      "text": "29 billion cubic meters (2017 est.)",
-      "note": "<strong>note:</strong>  data does not include former Western Sahara"
-    },
     "Climate": {
       "text": "Mediterranean in the north, becoming more extreme in the interior; in the south, hot, dry desert; rain is rare; cold offshore air currents produce fog and heavy dew",
       "note": "<strong>note:</strong>  data does not include former Western Sahara"
@@ -464,6 +448,15 @@
       },
       "note": "<strong>note:</strong> does not include the area of the former Western Sahara, which is almost exclusively desert"
     },
+    "Urbanization": {
+      "urban population": {
+        "text": "64.1% of total population (2021)"
+      },
+      "rate of urbanization": {
+        "text": "1.88% annual rate of change (2020-25 est.)"
+      },
+      "note": "<strong>note:</strong>  data does not include former Western Sahara"
+    },
     "Revenue from forest resources": {
       "forest revenues": {
         "text": "0.13% of GDP (2018 est.)"
@@ -473,15 +466,6 @@
       "coal revenues": {
         "text": "0% of GDP (2018 est.)"
       }
-    },
-    "Urbanization": {
-      "urban population": {
-        "text": "64.1% of total population (2021)"
-      },
-      "rate of urbanization": {
-        "text": "1.88% annual rate of change (2020-25 est.)"
-      },
-      "note": "<strong>note:</strong>  data does not include former Western Sahara"
     },
     "Major infectious diseases": {
       "text": "<strong>note:</strong> clusters of cases of a respiratory illness caused by the novel coronavirus (COVID-19) are occurring in Morocco; as of 6 October 2021, Morocco has reported a total of 936,236 cases of COVID-19 or 2,536.5 cumulative cases of COVID-19 per 100,000 population with 38.94 cumulative deaths per 100,000 population; as of 2 October 2021, 60.91% of the population has received at least one dose of COVID-19 vaccine"
@@ -499,6 +483,22 @@
       "percent of municipal solid waste recycled": {
         "text": "8% (2014 est.)"
       },
+      "note": "<strong>note:</strong>  data does not include former Western Sahara"
+    },
+    "Total water withdrawal": {
+      "municipal": {
+        "text": "1.063 billion cubic meters (2017 est.)"
+      },
+      "industrial": {
+        "text": "212 million cubic meters (2017 est.)"
+      },
+      "agricultural": {
+        "text": "9.156 billion cubic meters (2017 est.)"
+      },
+      "note": "<strong>note:</strong>  data does not include former Western Sahara"
+    },
+    "Total renewable water resources": {
+      "text": "29 billion cubic meters (2017 est.)",
       "note": "<strong>note:</strong>  data does not include former Western Sahara"
     }
   },
@@ -690,14 +690,14 @@
       "text": "<p>Morocco has capitalized on its proximity to Europe and relatively low labor costs to work towards building a diverse, open, market-oriented economy. Key sectors of the economy include agriculture, tourism, aerospace, automotive, phosphates, textiles, apparel, and subcomponents. Morocco has increased investment in its port, transportation, and industrial infrastructure to position itself as a center and broker for business throughout Africa. Industrial development strategies and infrastructure improvements - most visibly illustrated by a new port and free trade zone near Tangier - are improving Morocco's competitiveness.</p><p></p><p>In the 1980s, Morocco was a heavily indebted country before pursuing austerity measures and pro-market reforms, overseen by the IMF. Since taking the throne in 1999, King MOHAMMED VI has presided over a stable economy marked by steady growth, low inflation, and gradually falling unemployment, although poor harvests and economic difficulties in Europe contributed to an economic slowdown. To boost exports, Morocco entered into a bilateral Free Trade Agreement with the US in 2006 and an Advanced Status agreement with the EU in 2008. In late 2014, Morocco eliminated subsidies for gasoline, diesel, and fuel oil, dramatically reducing outlays that weighed on the country’s budget and current account. Subsidies on butane gas and certain food products remain in place. Morocco also seeks to expand its renewable energy capacity with a goal of making renewable more than 50% of installed electricity generation capacity by 2030.</p><p></p><p>Despite Morocco's economic progress, the country suffers from high unemployment, poverty, and illiteracy, particularly in rural areas. Key economic challenges for Morocco include reforming the education system and the judiciary.</p>"
     },
     "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2020": {
+        "text": "$259.42 billion note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP (purchasing power parity) 2019": {
-        "text": "$279.295 billion (2019 est.)"
+        "text": "$279.3 billion note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP (purchasing power parity) 2018": {
-        "text": "$272.531 billion (2018 est.)"
-      },
-      "Real GDP (purchasing power parity) 2017": {
-        "text": "$264.212 billion (2017 est.)"
+        "text": "$272.53 billion note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2010 dollars"
     },
@@ -713,14 +713,14 @@
       }
     },
     "Real GDP per capita": {
+      "Real GDP per capita 2020": {
+        "text": "$6,900 note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP per capita 2019": {
-        "text": "$7,515 (2019 est.)"
+        "text": "$7,500 note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP per capita 2018": {
-        "text": "$7,438 (2018 est.)"
-      },
-      "Real GDP per capita 2017": {
-        "text": "$7,314 (2017 est.)"
+        "text": "$7,400 note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2010 dollars"
     },
@@ -864,14 +864,14 @@
       }
     },
     "Exports": {
+      "Exports 2020": {
+        "text": "$37.52 billion note: data are in current year dollars (2020 est.)"
+      },
       "Exports 2019": {
-        "text": "$48.565 billion (2019 est.)"
+        "text": "$44.05 billion note: data are in current year dollars (2019 est.)"
       },
       "Exports 2018": {
-        "text": "$46.608 billion (2018 est.)"
-      },
-      "Exports 2017": {
-        "text": "$44.033 billion (2017 est.)"
+        "text": "$43.25 billion note: data are in current year dollars (2018 est.)"
       }
     },
     "Exports - partners": {
@@ -881,14 +881,14 @@
       "text": "cars, insulated wiring, fertilizers, phosphoric acid, clothing and apparel (2019)"
     },
     "Imports": {
+      "Imports 2020": {
+        "text": "$46.26 billion note: data are in current year dollars (2020 est.)"
+      },
       "Imports 2019": {
-        "text": "$64.12 billion (2019 est.)"
+        "text": "$54.1 billion note: data are in current year dollars (2019 est.)"
       },
       "Imports 2018": {
-        "text": "$61.535 billion (2018 est.)"
-      },
-      "Imports 2017": {
-        "text": "$57.257 billion (2017 est.)"
+        "text": "$55.38 billion note: data are in current year dollars (2018 est.)"
       }
     },
     "Imports - partners": {

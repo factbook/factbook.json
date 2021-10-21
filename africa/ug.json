@@ -82,6 +82,9 @@
     "Irrigated land": {
       "text": "140 sq km (2012)"
     },
+    "Major watersheds (area sq km)": {
+      "text": "Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)"
+    },
     "Population distribution": {
       "text": "population density is relatively high in comparison to other African nations; most of the population is concentrated in the central and southern parts of the country, particularly along the shores of Lake Victoria and Lake Albert; the northeast is least populated as shown in this population distribution map"
     },
@@ -90,9 +93,6 @@
     },
     "Geography - note": {
       "text": "landlocked; fertile, well-watered country with many lakes and rivers; Lake Victoria, the world's largest tropical lake and the second largest fresh water lake, is shared among three countries: Kenya, Tanzania, and Uganda"
-    },
-    "Major watersheds (area sq km)": {
-      "text": "Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)"
     }
   },
   "People and Society": {
@@ -390,20 +390,6 @@
         "text": "30.24 megatons (2020 est.)"
       }
     },
-    "Total water withdrawal": {
-      "municipal": {
-        "text": "328 million cubic meters (2017 est.)"
-      },
-      "industrial": {
-        "text": "50 million cubic meters (2017 est.)"
-      },
-      "agricultural": {
-        "text": "259 million cubic meters (2017 est.)"
-      }
-    },
-    "Total renewable water resources": {
-      "text": "60.1 billion cubic meters (2017 est.)"
-    },
     "Climate": {
       "text": "tropical; generally rainy with two dry seasons (December to February, June to August); semiarid in northeast"
     },
@@ -427,6 +413,14 @@
         "text": "14.3% (2018 est.)"
       }
     },
+    "Urbanization": {
+      "urban population": {
+        "text": "25.6% of total population (2021)"
+      },
+      "rate of urbanization": {
+        "text": "5.41% annual rate of change (2020-25 est.)"
+      }
+    },
     "Revenue from forest resources": {
       "forest revenues": {
         "text": "7.32% of GDP (2018 est.)"
@@ -435,14 +429,6 @@
     "Revenue from coal": {
       "coal revenues": {
         "text": "0% of GDP (2018 est.)"
-      }
-    },
-    "Urbanization": {
-      "urban population": {
-        "text": "25.6% of total population (2021)"
-      },
-      "rate of urbanization": {
-        "text": "5.41% annual rate of change (2020-25 est.)"
       }
     },
     "Major infectious diseases": {
@@ -480,6 +466,20 @@
     },
     "Major watersheds (area sq km)": {
       "text": "Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)"
+    },
+    "Total water withdrawal": {
+      "municipal": {
+        "text": "328 million cubic meters (2017 est.)"
+      },
+      "industrial": {
+        "text": "50 million cubic meters (2017 est.)"
+      },
+      "agricultural": {
+        "text": "259 million cubic meters (2017 est.)"
+      }
+    },
+    "Total renewable water resources": {
+      "text": "60.1 billion cubic meters (2017 est.)"
     }
   },
   "Government": {
@@ -654,14 +654,14 @@
       "text": "<p>Uganda has substantial natural resources, including fertile soils, regular rainfall, substantial reserves of recoverable oil, and small deposits of copper, gold, and other minerals. Agriculture is one of the most important sectors of the economy, employing 72% of the work force. The country’s export market suffered a major slump following the outbreak of conflict in South Sudan, but has recovered lately, largely due to record coffee harvests, which account for 16% of exports, and increasing gold exports, which account for 10% of exports. Uganda has a small industrial sector that is dependent on imported inputs such as refined oil and heavy equipment. Overall, productivity is hampered by a number of supply-side constraints, including insufficient infrastructure, lack of modern technology in agriculture, and corruption.</p><p></p><p>Uganda’s economic growth has slowed since 2016 as government spending and public debt has grown. Uganda’s budget is dominated by energy and road infrastructure spending, while Uganda relies on donor support for long-term drivers of growth, including agriculture, health, and education. The largest infrastructure projects are externally financed through concessional loans, but at inflated costs. As a result, debt servicing for these loans is expected to rise.</p><p></p><p>Oil revenues and taxes are expected to become a larger source of government funding as oil production starts in the next three to 10 years. Over the next three to five years, foreign investors are planning to invest $9 billion in production facilities projects, $4 billion in an export pipeline, as well as in a $2-3 billion refinery to produce petroleum products for the domestic and East African Community markets. Furthermore, the government is looking to build several hundred million dollars’ worth of highway projects to the oil region.</p><p></p><p>Uganda faces many economic challenges. Instability in South Sudan has led to a sharp increase in Sudanese refugees and is disrupting Uganda's main export market. Additional economic risks include: poor economic management, endemic corruption, and the government’s failure to invest adequately in the health, education, and economic opportunities for a burgeoning young population. Uganda has one of the lowest electrification rates in Africa - only 22% of Ugandans have access to electricity, dropping to 10% in rural areas.</p>"
     },
     "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2020": {
+        "text": "$99.61 billion note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP (purchasing power parity) 2019": {
-        "text": "$96.838 billion (2019 est.)"
+        "text": "$96.84 billion note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP (purchasing power parity) 2018": {
-        "text": "$90.669 billion (2018 est.)"
-      },
-      "Real GDP (purchasing power parity) 2017": {
-        "text": "$85.406 billion (2017 est.)"
+        "text": "$90.67 billion note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2017 dollars"
     },
@@ -677,14 +677,14 @@
       }
     },
     "Real GDP per capita": {
+      "Real GDP per capita 2020": {
+        "text": "$2,200 note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP per capita 2019": {
-        "text": "$2,187 (2019 est.)"
+        "text": "$2,200 note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP per capita 2018": {
-        "text": "$2,122 (2018 est.)"
-      },
-      "Real GDP per capita 2017": {
-        "text": "$2,075 (2017 est.)"
+        "text": "$2,100 note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2017 dollars"
     },
@@ -826,10 +826,10 @@
     },
     "Exports": {
       "Exports 2019": {
-        "text": "$7.686 billion (2019 est.)"
+        "text": "$6.12 billion note: data are in current year dollars (2019 est.)"
       },
       "Exports 2018": {
-        "text": "$6.511 billion (2018 est.)"
+        "text": "$5.63 billion note: data are in current year dollars (2018 est.)"
       },
       "Exports 2017": {
         "text": "$5.958 billion (2017 est.)"
@@ -843,10 +843,10 @@
     },
     "Imports": {
       "Imports 2019": {
-        "text": "$9.991 billion (2019 est.)"
+        "text": "$9.54 billion note: data are in current year dollars (2019 est.)"
       },
       "Imports 2018": {
-        "text": "$8.006 billion (2018 est.)"
+        "text": "$8.65 billion note: data are in current year dollars (2018 est.)"
       },
       "Imports 2017": {
         "text": "$7.44 billion (2017 est.)"

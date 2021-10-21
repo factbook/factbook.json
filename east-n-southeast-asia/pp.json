@@ -370,20 +370,6 @@
         "text": "11.05 megatons (2020 est.)"
       }
     },
-    "Total water withdrawal": {
-      "municipal": {
-        "text": "223.5 million cubic meters (2017 est.)"
-      },
-      "industrial": {
-        "text": "167.6 million cubic meters (2017 est.)"
-      },
-      "agricultural": {
-        "text": "1 million cubic meters (2017 est.)"
-      }
-    },
-    "Total renewable water resources": {
-      "text": "801 billion cubic meters (2017 est.)"
-    },
     "Climate": {
       "text": "tropical; northwest monsoon (December to March), southeast monsoon (May to October); slight seasonal temperature variation"
     },
@@ -407,6 +393,14 @@
         "text": "34.3% (2018 est.)"
       }
     },
+    "Urbanization": {
+      "urban population": {
+        "text": "13.5% of total population (2021)"
+      },
+      "rate of urbanization": {
+        "text": "2.91% annual rate of change (2020-25 est.)"
+      }
+    },
     "Revenue from forest resources": {
       "forest revenues": {
         "text": "2.08% of GDP (2018 est.)"
@@ -415,14 +409,6 @@
     "Revenue from coal": {
       "coal revenues": {
         "text": "0% of GDP (2018 est.)"
-      }
-    },
-    "Urbanization": {
-      "urban population": {
-        "text": "13.5% of total population (2021)"
-      },
-      "rate of urbanization": {
-        "text": "2.91% annual rate of change (2020-25 est.)"
       }
     },
     "Major infectious diseases": {
@@ -446,6 +432,20 @@
       "percent of municipal solid waste recycled": {
         "text": "2% (2016 est.)"
       }
+    },
+    "Total water withdrawal": {
+      "municipal": {
+        "text": "223.5 million cubic meters (2017 est.)"
+      },
+      "industrial": {
+        "text": "167.6 million cubic meters (2017 est.)"
+      },
+      "agricultural": {
+        "text": "1 million cubic meters (2017 est.)"
+      }
+    },
+    "Total renewable water resources": {
+      "text": "801 billion cubic meters (2017 est.)"
     }
   },
   "Government": {
@@ -630,14 +630,14 @@
       "text": "<p>Papua New Guinea (PNG) is richly endowed with natural resources, but exploitation has been hampered by rugged terrain, land tenure issues, and the high cost of developing infrastructure. The economy has a small formal sector, focused mainly on the export of those natural resources, and an informal sector, employing the majority of the population. Agriculture provides a subsistence livelihood for 85% of the people. The global financial crisis had little impact because of continued foreign demand for PNG's commodities.</p><p></p><p>Mineral deposits, including copper, gold, and oil, account for nearly two-thirds of export earnings. Natural gas reserves amount to an estimated 155 billion cubic meters. Following construction of a $19 billion liquefied natural gas (LNG) project, PNG LNG, a consortium led by ExxonMobil, began exporting liquefied natural gas to Asian markets in May 2014. The project was delivered on time and only slightly above budget. The success of the project has encouraged other companies to look at similar LNG projects. French supermajor Total is hopes to begin construction on the Papua LNG project by 2020. Due to lower global commodity prices, resource revenues of all types have fallen dramatically. PNG’s government has recently been forced to adjust spending levels downward.</p><p></p><p>Numerous challenges still face the government of Peter O'NEILL, including providing physical security for foreign investors, regaining investor confidence, restoring integrity to state institutions, promoting economic efficiency by privatizing moribund state institutions, and maintaining good relations with Australia, its former colonial ruler. Other socio-cultural challenges could upend the economy including chronic law and order and land tenure issues. In August, 2017, PNG launched its first-ever national trade policy, PNG Trade Policy 2017-2032. The policy goal is to maximize trade and investment by increasing exports, to reduce imports, and to increase foreign direct investment (FDI).</p>"
     },
     "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2020": {
+        "text": "$36.69 billion note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP (purchasing power parity) 2019": {
-        "text": "$38.218 billion (2019 est.)"
+        "text": "$38.17 billion note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP (purchasing power parity) 2018": {
-        "text": "$36.089 billion (2018 est.)"
-      },
-      "Real GDP (purchasing power parity) 2017": {
-        "text": "$36.19 billion (2017 est.)"
+        "text": "$36.06 billion note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2017 dollars"
     },
@@ -653,14 +653,14 @@
       }
     },
     "Real GDP per capita": {
+      "Real GDP per capita 2020": {
+        "text": "$4,100 note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP per capita 2019": {
-        "text": "$4,355 (2019 est.)"
+        "text": "$4,300 note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP per capita 2018": {
-        "text": "$4,193 (2018 est.)"
-      },
-      "Real GDP per capita 2017": {
-        "text": "$4,289 (2017 est.)"
+        "text": "$4,200 note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2017 dollars"
     },
@@ -795,8 +795,8 @@
       }
     },
     "Exports": {
-      "Exports 2017": {
-        "text": "$8.522 billion (2017 est.)"
+      "Exports 2018": {
+        "text": "$10.6 billion note: data are in current year dollars (2018 est.)"
       },
       "Exports 2016": {
         "text": "$9.224 billion (2016 est.)"
@@ -809,8 +809,8 @@
       "text": "natural gas, gold, copper, lumber, crude petroleum, nickel, palm oil, fish, coffee (2019)"
     },
     "Imports": {
-      "Imports 2017": {
-        "text": "$1.876 billion (2017 est.)"
+      "Imports 2018": {
+        "text": "$4.84 billion note: data are in current year dollars (2018 est.)"
       },
       "Imports 2016": {
         "text": "$2.077 billion (2016 est.)"
@@ -1121,7 +1121,7 @@
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
-        "text": "9,368 (Indonesia) (2019)"
+        "text": "10,501 (Indonesia) (2020)"
       },
       "IDPs": {
         "text": "14,000 (natural disasters, tribal conflict, inter-communal violence, development projects) (2020)"

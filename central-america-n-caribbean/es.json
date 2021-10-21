@@ -396,20 +396,6 @@
         "text": "4.71 megatons (2020 est.)"
       }
     },
-    "Total water withdrawal": {
-      "municipal": {
-        "text": "474 million cubic meters (2017 est.)"
-      },
-      "industrial": {
-        "text": "213 million cubic meters (2017 est.)"
-      },
-      "agricultural": {
-        "text": "1.431 billion cubic meters (2017 est.)"
-      }
-    },
-    "Total renewable water resources": {
-      "text": "26.27 billion cubic meters (2017 est.)"
-    },
     "Climate": {
       "text": "tropical; rainy season (May to October); dry season (November to April); tropical on coast; temperate in uplands"
     },
@@ -433,6 +419,14 @@
         "text": "11.7% (2018 est.)"
       }
     },
+    "Urbanization": {
+      "urban population": {
+        "text": "74.1% of total population (2021)"
+      },
+      "rate of urbanization": {
+        "text": "1.33% annual rate of change (2020-25 est.)"
+      }
+    },
     "Revenue from forest resources": {
       "forest revenues": {
         "text": "0.6% of GDP (2018 est.)"
@@ -441,14 +435,6 @@
     "Revenue from coal": {
       "coal revenues": {
         "text": "0% of GDP (2018 est.)"
-      }
-    },
-    "Urbanization": {
-      "urban population": {
-        "text": "74.1% of total population (2021)"
-      },
-      "rate of urbanization": {
-        "text": "1.33% annual rate of change (2020-25 est.)"
       }
     },
     "Major infectious diseases": {
@@ -466,6 +452,20 @@
       "municipal solid waste generated annually": {
         "text": "1,648,996 tons (2010 est.)"
       }
+    },
+    "Total water withdrawal": {
+      "municipal": {
+        "text": "474 million cubic meters (2017 est.)"
+      },
+      "industrial": {
+        "text": "213 million cubic meters (2017 est.)"
+      },
+      "agricultural": {
+        "text": "1.431 billion cubic meters (2017 est.)"
+      }
+    },
+    "Total renewable water resources": {
+      "text": "26.27 billion cubic meters (2017 est.)"
     }
   },
   "Government": {
@@ -653,14 +653,14 @@
       "text": "<p>The smallest country in Central America geographically, El Salvador has the fourth largest economy in the region. With the global recession, real GDP contracted in 2009 and economic growth has since remained low, averaging less than 2% from 2010 to 2014, but recovered somewhat in 2015-17 with an average annual growth rate of 2.4%. Remittances accounted for approximately 18% of GDP in 2017 and were received by about a third of all households.</p><p></p><p>In 2006, El Salvador was the first country to ratify the Dominican Republic-Central American Free Trade Agreement, which has bolstered the export of processed foods, sugar, and ethanol, and supported investment in the apparel sector amid increased Asian competition. In September 2015, El Salvador kicked off a five-year $277 million second compact with the Millennium Challenge Corporation - a US Government agency aimed at stimulating economic growth and reducing poverty - to improve El Salvador's competitiveness and productivity in international markets.</p><p></p><p>The Salvadoran Government maintained fiscal discipline during reconstruction and rebuilding following earthquakes in 2001 and hurricanes in 1998 and 2005, but El Salvador's public debt, estimated at 59.3% of GDP in 2017, has been growing over the last several years.</p>"
     },
     "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2020": {
+        "text": "$52.26 billion note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP (purchasing power parity) 2019": {
-        "text": "$56.636 billion (2019 est.)"
+        "text": "$56.77 billion note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP (purchasing power parity) 2018": {
-        "text": "$55.318 billion (2018 est.)"
-      },
-      "Real GDP (purchasing power parity) 2017": {
-        "text": "$54.005 billion (2017 est.)"
+        "text": "$55.31 billion note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2017 dollars"
     },
@@ -676,14 +676,14 @@
       }
     },
     "Real GDP per capita": {
+      "Real GDP per capita 2020": {
+        "text": "$8,100 note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP per capita 2019": {
-        "text": "$8,776 (2019 est.)"
+        "text": "$8,800 note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP per capita 2018": {
-        "text": "$8,616 (2018 est.)"
-      },
-      "Real GDP per capita 2017": {
-        "text": "$8,454 (2017 est.)"
+        "text": "$8,600 note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2017 dollars"
     },
@@ -829,11 +829,14 @@
       }
     },
     "Exports": {
-      "Exports 2017": {
-        "text": "$4.662 billion (2017 est.)"
+      "Exports 2020": {
+        "text": "$6.29 billion note: data are in current year dollars (2020 est.)"
       },
-      "Exports 2016": {
-        "text": "$5.42 billion (2016 est.)"
+      "Exports 2019": {
+        "text": "$7.98 billion note: data are in current year dollars (2019 est.)"
+      },
+      "Exports 2018": {
+        "text": "$7.56 billion note: data are in current year dollars (2018 est.)"
       }
     },
     "Exports - partners": {
@@ -843,11 +846,14 @@
       "text": "textiles and apparel, electrical capacitors, plastic lids, raw sugar, toilet paper (2019)"
     },
     "Imports": {
-      "Imports 2017": {
-        "text": "$9.499 billion (2017 est.)"
+      "Imports 2020": {
+        "text": "$10.82 billion note: data are in current year dollars (2020 est.)"
       },
-      "Imports 2016": {
-        "text": "$8.954 billion (2016 est.)"
+      "Imports 2019": {
+        "text": "$12.45 billion note: data are in current year dollars (2019 est.)"
+      },
+      "Imports 2018": {
+        "text": "$12.32 billion note: data are in current year dollars (2018 est.)"
       }
     },
     "Imports - partners": {
@@ -1136,10 +1142,10 @@
       "text": "the FAES is dependent on a mix of mostly older imported platforms, largely from the US; since 2010, the FAES has received small amounts of equipment from Chile, Israel, Spain, and the US (2020)"
     },
     "Military deployments": {
-      "text": "170 Mali (MINUSMA) (Jan 2021)"
+      "text": "170 Mali (MINUSMA) (Sep 2021)"
     },
     "Military service age and obligation": {
-      "text": "18 years of age for selective compulsory military service; 16-22 years of age for voluntary male or female service; service obligation is 12 months, with 11 months for officers and NCOs (2012)"
+      "text": "18 years of age for selective compulsory military service; 16-22 years of age for voluntary male or female service; service obligation is 12 months, with 11 months for officers and NCOs (2019)"
     },
     "Military - note": {
       "text": "as of 2021 about half of the Army was reportedly deployed on internal security duties to support the National Police with combating gang violence, organized crime, and narcotics trafficking, as well as assisting with border security"

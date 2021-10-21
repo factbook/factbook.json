@@ -93,6 +93,9 @@
     "Irrigated land": {
       "text": "64,150 sq km (2012)"
     },
+    "Major watersheds (area sq km)": {
+      "text": "Indian Ocean drainage: Salween (271,914 sq km)<br>Pacific Ocean drainage: Mekong (805,604 sq km)"
+    },
     "Population distribution": {
       "text": "highest population density is found in and around Bangkok; significant population clusters found througout large parts of the country, particularly north and northeast of Bangkok and in the extreme southern region of the country"
     },
@@ -101,9 +104,6 @@
     },
     "Geography - note": {
       "text": "controls only land route from Asia to Malaysia and Singapore; ideas for the construction of a canal across the Kra Isthmus that would create a bypass to the Strait of Malacca and shorten shipping times around Asia continue to be discussed"
-    },
-    "Major watersheds (area sq km)": {
-      "text": "Indian Ocean drainage: Salween (271,914 sq km)<br>Pacific Ocean drainage: Mekong (805,604 sq km)"
     }
   },
   "People and Society": {
@@ -399,20 +399,6 @@
         "text": "86.98 megatons (2020 est.)"
       }
     },
-    "Total water withdrawal": {
-      "municipal": {
-        "text": "2.739 billion cubic meters (2017 est.)"
-      },
-      "industrial": {
-        "text": "2.777 billion cubic meters (2017 est.)"
-      },
-      "agricultural": {
-        "text": "51.79 billion cubic meters (2017 est.)"
-      }
-    },
-    "Total renewable water resources": {
-      "text": "438.61 billion cubic meters (2017 est.)"
-    },
     "Climate": {
       "text": "tropical; rainy, warm, cloudy southwest monsoon (mid-May to September); dry, cool northeast monsoon (November to mid-March); southern isthmus always hot and humid"
     },
@@ -436,6 +422,14 @@
         "text": "21.6% (2018 est.)"
       }
     },
+    "Urbanization": {
+      "urban population": {
+        "text": "52.2% of total population (2021)"
+      },
+      "rate of urbanization": {
+        "text": "1.43% annual rate of change (2020-25 est.)"
+      }
+    },
     "Revenue from forest resources": {
       "forest revenues": {
         "text": "0.34% of GDP (2018 est.)"
@@ -444,14 +438,6 @@
     "Revenue from coal": {
       "coal revenues": {
         "text": "0.03% of GDP (2018 est.)"
-      }
-    },
-    "Urbanization": {
-      "urban population": {
-        "text": "52.2% of total population (2021)"
-      },
-      "rate of urbanization": {
-        "text": "1.43% annual rate of change (2020-25 est.)"
       }
     },
     "Major infectious diseases": {
@@ -478,6 +464,20 @@
     },
     "Major watersheds (area sq km)": {
       "text": "Indian Ocean drainage: Salween (271,914 sq km)<br>Pacific Ocean drainage: Mekong (805,604 sq km)"
+    },
+    "Total water withdrawal": {
+      "municipal": {
+        "text": "2.739 billion cubic meters (2017 est.)"
+      },
+      "industrial": {
+        "text": "2.777 billion cubic meters (2017 est.)"
+      },
+      "agricultural": {
+        "text": "51.79 billion cubic meters (2017 est.)"
+      }
+    },
+    "Total renewable water resources": {
+      "text": "438.61 billion cubic meters (2017 est.)"
     }
   },
   "Government": {
@@ -667,14 +667,14 @@
       "text": "<p>With a relatively well-developed infrastructure, a free-enterprise economy, and generally pro-investment policies, Thailand is highly dependent on international trade, with exports accounting for about two thirds of GDP. Thailand’s exports include electronics, agricultural commodities, automobiles and parts, and processed foods. The industry and service sectors produce about 90% of GDP. The agricultural sector, comprised mostly of small-scale farms, contributes only 10% of GDP but employs about one third of the labor force. Thailand has attracted an estimated 3.0-4.5 million migrant workers, mostly from neighboring countries.</p> <p>Over the last few decades, Thailand has reduced poverty substantially. In 2013, the Thai Government implemented a nationwide 300 baht (roughly $10) per day minimum wage policy and deployed new tax reforms designed to lower rates on middle-income earners.</p> <p>Thailand’s economy is recovering from slow growth during the years since the 2014 coup. Thailand’s economic fundamentals are sound, with low inflation, low unemployment, and reasonable public and external debt levels. Tourism and government spending - mostly on infrastructure and short-term stimulus measures – have helped to boost the economy, and The Bank of Thailand has been supportive, with several interest rate reductions.</p> <p>Over the longer-term, household debt levels, political uncertainty, and an aging population pose risks to growth.</p>"
     },
     "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2020": {
+        "text": "$1,206,620,000,000 note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP (purchasing power parity) 2019": {
-        "text": "$1,285,287,000,000 (2019 est.)"
+        "text": "$1,284,830,000,000 note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP (purchasing power parity) 2018": {
-        "text": "$1,255,719,000,000 (2018 est.)"
-      },
-      "Real GDP (purchasing power parity) 2017": {
-        "text": "$1,205,674,000,000 (2017 est.)"
+        "text": "$1,256,360,000,000 note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2010 dollars"
     },
@@ -690,14 +690,14 @@
       }
     },
     "Real GDP per capita": {
+      "Real GDP per capita 2020": {
+        "text": "$17,300 note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP per capita 2019": {
-        "text": "$18,460 (2019 est.)"
+        "text": "$18,500 note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP per capita 2018": {
-        "text": "$18,087 (2018 est.)"
-      },
-      "Real GDP per capita 2017": {
-        "text": "$17,421 (2017 est.)"
+        "text": "$18,100 note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2010 dollars"
     },
@@ -842,14 +842,14 @@
       }
     },
     "Exports": {
+      "Exports 2020": {
+        "text": "$258.42 billion note: data are in current year dollars (2020 est.)"
+      },
       "Exports 2019": {
-        "text": "$291.169 billion (2019 est.)"
+        "text": "$323.88 billion note: data are in current year dollars (2019 est.)"
       },
       "Exports 2018": {
-        "text": "$298.968 billion (2018 est.)"
-      },
-      "Exports 2017": {
-        "text": "$289.239 billion (2017 est.)"
+        "text": "$328.58 billion note: data are in current year dollars (2018 est.)"
       }
     },
     "Exports - partners": {
@@ -859,14 +859,14 @@
       "text": "office machinery/parts, cars and vehicle parts, integrated circuits, delivery trucks, gold (2019)"
     },
     "Imports": {
+      "Imports 2020": {
+        "text": "$233.75 billion note: data are in current year dollars (2020 est.)"
+      },
       "Imports 2019": {
-        "text": "$257.873 billion (2019 est.)"
+        "text": "$272.83 billion note: data are in current year dollars (2019 est.)"
       },
       "Imports 2018": {
-        "text": "$269.455 billion (2018 est.)"
-      },
-      "Imports 2017": {
-        "text": "$248.698 billion (2017 est.)"
+        "text": "$283.66 billion note: data are in current year dollars (2018 est.)"
       }
     },
     "Imports - partners": {
@@ -1186,7 +1186,7 @@
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
-        "text": "91,806 (Burma) (2020)"
+        "text": "91,479 (Burma) (2021)"
       },
       "IDPs": {
         "text": "41,000"

@@ -94,6 +94,12 @@
     "Irrigated land": {
       "text": "18,900 sq km (2012)"
     },
+    "Major watersheds (area sq km)": {
+      "text": "Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)"
+    },
+    "Major aquifers": {
+      "text": "Nubian Aquifer System, Sudd Basin (Umm Ruwaba Aquifer)"
+    },
     "Population distribution": {
       "text": "with the exception of a ribbon of settlement that corresponds to the banks of the Nile, northern Sudan, which extends into the dry Sahara, is sparsely populated; more abundant vegetation and broader access to water increases population distribution in the south extending habitable range along nearly the entire border with South Sudan; sizeable areas of population are found around Khartoum, southeast between the Blue and White Nile Rivers, and througout South Darfur as shown on this population distribution map"
     },
@@ -102,12 +108,6 @@
     },
     "Geography - note": {
       "text": "the Nile is Sudan's primary water source; its major tributaries, the White Nile and the Blue Nile, meet at Khartoum to form the River Nile which flows northward through Egypt to the Mediterranean Sea"
-    },
-    "Major watersheds (area sq km)": {
-      "text": "Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Lake Chad drainage <em>(endorheic basin)</em>: Lake Chad (2,497,738 sq km)"
-    },
-    "Major aquifers": {
-      "text": "Nubian Aquifer System, Sudd Basin (Umm Ruwaba Aquifer)"
     }
   },
   "People and Society": {
@@ -405,20 +405,6 @@
         "text": "75.1 megatons (2020 est.)"
       }
     },
-    "Total water withdrawal": {
-      "municipal": {
-        "text": "950 million cubic meters (2017 est.)"
-      },
-      "industrial": {
-        "text": "75 million cubic meters (2017 est.)"
-      },
-      "agricultural": {
-        "text": "25.91 billion cubic meters (2017 est.)"
-      }
-    },
-    "Total renewable water resources": {
-      "text": "37.8 billion cubic meters (2017 est.)"
-    },
     "Climate": {
       "text": "hot and dry; arid desert; rainy season varies by region (April to November)"
     },
@@ -442,6 +428,14 @@
         "text": "0% (2018 est.)"
       }
     },
+    "Urbanization": {
+      "urban population": {
+        "text": "35.6% of total population (2021)"
+      },
+      "rate of urbanization": {
+        "text": "3.43% annual rate of change (2020-25 est.)"
+      }
+    },
     "Revenue from forest resources": {
       "forest revenues": {
         "text": "3.01% of GDP (2018 est.)"
@@ -450,14 +444,6 @@
     "Revenue from coal": {
       "coal revenues": {
         "text": "0% of GDP (2018 est.)"
-      }
-    },
-    "Urbanization": {
-      "urban population": {
-        "text": "35.6% of total population (2021)"
-      },
-      "rate of urbanization": {
-        "text": "3.43% annual rate of change (2020-25 est.)"
       }
     },
     "Major infectious diseases": {
@@ -491,10 +477,24 @@
       }
     },
     "Major watersheds (area sq km)": {
-      "text": "Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Lake Chad drainage <em>(endorheic basin)</em>: Lake Chad (2,497,738 sq km)"
+      "text": "Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)"
     },
     "Major aquifers": {
       "text": "Nubian Aquifer System, Sudd Basin (Umm Ruwaba Aquifer)"
+    },
+    "Total water withdrawal": {
+      "municipal": {
+        "text": "950 million cubic meters (2017 est.)"
+      },
+      "industrial": {
+        "text": "75 million cubic meters (2017 est.)"
+      },
+      "agricultural": {
+        "text": "25.91 billion cubic meters (2017 est.)"
+      }
+    },
+    "Total renewable water resources": {
+      "text": "37.8 billion cubic meters (2017 est.)"
     }
   },
   "Government": {
@@ -676,14 +676,14 @@
       "text": "<p>Sudan has experienced protracted social conflict and the loss of three quarters of its oil production due to the secession of South Sudan. The oil sector had driven much of Sudan's GDP growth since 1999. For nearly a decade, the economy boomed on the back of rising oil production, high oil prices, and significant inflows of foreign direct investment. Since the economic shock of South Sudan's secession, Sudan has struggled to stabilize its economy and make up for the loss of foreign exchange earnings. The interruption of oil production in South Sudan in 2012 for over a year and the consequent loss of oil transit fees further exacerbated the fragile state of Sudan’s economy. Ongoing conflicts in Southern Kordofan, Darfur, and the Blue Nile states, lack of basic infrastructure in large areas, and reliance by much of the population on subsistence agriculture, keep close to half of the population at or below the poverty line.</p> <p>Sudan was subject to comprehensive US sanctions, which were lifted in October 2017. Sudan is attempting to develop non-oil sources of revenues, such as gold mining and agriculture, while carrying out an austerity program to reduce expenditures. The world’s largest exporter of gum Arabic, Sudan produces 75-80% of the world’s total output. Agriculture continues to employ 80% of the work force.</p> <p>Sudan introduced a new currency, still called the Sudanese pound, following South Sudan's secession, but the value of the currency has fallen since its introduction. Khartoum formally devalued the currency in June 2012, when it passed austerity measures that included gradually repealing fuel subsidies. Sudan also faces high inflation, which reached 47% on an annual basis in November 2012 but fell to about 35% per year in 2017.</p> (2017)"
     },
     "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2020": {
+        "text": "$176.4 billion note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP (purchasing power parity) 2019": {
-        "text": "$168.28 billion (2019 est.)"
+        "text": "$179.2 billion note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP (purchasing power parity) 2018": {
-        "text": "$172.601 billion (2018 est.)"
-      },
-      "Real GDP (purchasing power parity) 2017": {
-        "text": "$176.646 billion (2017 est.)"
+        "text": "$181.61 billion note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2010 dollars"
     },
@@ -699,14 +699,14 @@
       }
     },
     "Real GDP per capita": {
+      "Real GDP per capita 2020": {
+        "text": "$4,000 note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP per capita 2019": {
-        "text": "$3,958 (2019 est.)"
+        "text": "$4,200 note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP per capita 2018": {
-        "text": "$4,161 (2018 est.)"
-      },
-      "Real GDP per capita 2017": {
-        "text": "$4,363 (2017 est.)"
+        "text": "$4,300 note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2010 dollars"
     },
@@ -836,11 +836,11 @@
       }
     },
     "Exports": {
-      "Exports 2017": {
-        "text": "$4.1 billion (2017 est.)"
+      "Exports 2019": {
+        "text": "$5.11 billion note: data are in current year dollars (2019 est.)"
       },
-      "Exports 2016": {
-        "text": "$3.094 billion (2016 est.)"
+      "Exports 2018": {
+        "text": "$5 billion note: data are in current year dollars (2018 est.)"
       }
     },
     "Exports - partners": {
@@ -850,11 +850,11 @@
       "text": "gold, crude petroleum, sesame seeds, sheep, goats, cotton, ground nuts (2019)"
     },
     "Imports": {
-      "Imports 2017": {
-        "text": "$8.22 billion (2017 est.)"
+      "Imports 2019": {
+        "text": "$9.79 billion note: data are in current year dollars (2019 est.)"
       },
-      "Imports 2016": {
-        "text": "$7.48 billion (2016 est.)"
+      "Imports 2018": {
+        "text": "$8.24 billion note: data are in current year dollars (2018 est.)"
       }
     },
     "Imports - partners": {

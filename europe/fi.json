@@ -371,20 +371,6 @@
         "text": "4.46 megatons (2020 est.)"
       }
     },
-    "Total water withdrawal": {
-      "municipal": {
-        "text": "400 million cubic meters (2017 est.)"
-      },
-      "industrial": {
-        "text": "1.417 billion cubic meters (2017 est.)"
-      },
-      "agricultural": {
-        "text": "50 million cubic meters (2017 est.)"
-      }
-    },
-    "Total renewable water resources": {
-      "text": "110 billion cubic meters (2017 est.)"
-    },
     "Climate": {
       "text": "cold temperate; potentially subarctic but comparatively mild because of moderating influence of the North Atlantic Current, Baltic Sea, and more than 60,000 lakes"
     },
@@ -408,6 +394,14 @@
         "text": "19.6% (2018 est.)"
       }
     },
+    "Urbanization": {
+      "urban population": {
+        "text": "85.6% of total population (2021)"
+      },
+      "rate of urbanization": {
+        "text": "0.42% annual rate of change (2020-25 est.)"
+      }
+    },
     "Revenue from forest resources": {
       "forest revenues": {
         "text": "0.36% of GDP (2018 est.)"
@@ -416,14 +410,6 @@
     "Revenue from coal": {
       "coal revenues": {
         "text": "0% of GDP (2018 est.)"
-      }
-    },
-    "Urbanization": {
-      "urban population": {
-        "text": "85.6% of total population (2021)"
-      },
-      "rate of urbanization": {
-        "text": "0.42% annual rate of change (2020-25 est.)"
       }
     },
     "Waste and recycling": {
@@ -436,6 +422,20 @@
       "percent of municipal solid waste recycled": {
         "text": "28.1% (2015 est.)"
       }
+    },
+    "Total water withdrawal": {
+      "municipal": {
+        "text": "400 million cubic meters (2017 est.)"
+      },
+      "industrial": {
+        "text": "1.417 billion cubic meters (2017 est.)"
+      },
+      "agricultural": {
+        "text": "50 million cubic meters (2017 est.)"
+      }
+    },
+    "Total renewable water resources": {
+      "text": "110 billion cubic meters (2017 est.)"
     }
   },
   "Government": {
@@ -535,13 +535,13 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "unicameral Parliament or Eduskunta (200 seats; 199 members directly elected in single- and multi-seat constituencies by proportional representation vote and 1 member in the province of Aland directly elected by simple majority vote; members serve 4-year terms) (e.g. 2019)"
+        "text": "unicameral Parliament or Eduskunta (200 seats; 199 members directly elected in single- and multi-seat constituencies by proportional representation vote and 1 member in the province of Aland directly elected by simple majority vote; members serve 4-year terms)"
       },
       "elections": {
-        "text": "last held on 14 April 2019 (next to be held on April 2023) (e.g. 2019)"
+        "text": "last held on 14 April 2019 (next to be held in April 2023)"
       },
       "election results": {
-        "text": "percent of vote by party/coalition - SDP 17.7%, Finn Party 17.5%, Kok 17.0%. Centre Party&nbsp; 13.8%, Green League 11.5%, Left Alliance 8.2%; seats by party/coalition -SDP 40, Finn Party 39, Kok 38, Centre Party 31, Green League 20, Left Alliance 16; composition men 107, women 93, percent of women 46.5% (e.g. 2019)"
+        "text": "percent of vote by party/coalition - SDP 17.7%, Finn Party 17.5%, Kok 17.0%. Centre Party&nbsp; 13.8%, Green League 11.5%, Left Alliance 8.2%; seats by party/coalition -SDP 40, Finn Party 39, Kok 38, Centre Party 31, Green League 20, Left Alliance 16; composition men 108, women 92, percent of women 46%"
       }
     },
     "Judicial branch": {
@@ -622,14 +622,14 @@
       "text": "<p>Finland has a highly industrialized, largely free-market economy with per capita GDP almost as high as that of Austria and the Netherlands and slightly above that of Germany and Belgium. Trade is important, with exports accounting for over one-third of GDP in recent years. The government is open to, and actively takes steps to attract, foreign direct investment.</p><p></p><p>Finland is historically competitive in manufacturing, particularly in the wood, metals, engineering, telecommunications, and electronics industries. Finland excels in export of technology as well as promotion of startups in the information and communications technology, gaming, cleantech, and biotechnology sectors. Except for timber and several minerals, Finland depends on imports of raw materials, energy, and some components for manufactured goods. Because of the cold climate, agricultural development is limited to maintaining self-sufficiency in basic products. Forestry, an important export industry, provides a secondary occupation for the rural population.</p><p></p><p>Finland had been one of the best performing economies within the EU before 2009 and its banks and financial markets avoided the worst of global financial crisis. However, the world slowdown hit exports and domestic demand hard in that year, causing Finland’s economy to contract from 2012 to 2014. The recession affected general government finances and the debt ratio. The economy returned to growth in 2016, posting a 1.9% GDP increase before growing an estimated 3.3% in 2017, supported by a strong increase in investment, private consumption, and net exports. Finnish economists expect GDP to grow a rate of 2-3% in the next few years.</p><p></p><p>Finland's main challenges will be reducing high labor costs and boosting demand for its exports. In June 2016, the government enacted a Competitiveness Pact aimed at reducing labor costs, increasing hours worked, and introducing more flexibility into the wage bargaining system. As a result, wage growth was nearly flat in 2017. The Government was also seeking to reform the health care system and social services. In the long term, Finland must address a rapidly aging population and decreasing productivity in traditional industries that threaten competitiveness, fiscal sustainability, and economic growth.</p>"
     },
     "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2020": {
+        "text": "$261.39 billion note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP (purchasing power parity) 2019": {
-        "text": "$268.662 billion (2019 est.)"
+        "text": "$268.84 billion note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP (purchasing power parity) 2018": {
-        "text": "$265.619 billion (2018 est.)"
-      },
-      "Real GDP (purchasing power parity) 2017": {
-        "text": "$261.649 billion (2017 est.)"
+        "text": "$265.46 billion note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2010 dollars"
     },
@@ -645,14 +645,14 @@
       }
     },
     "Real GDP per capita": {
+      "Real GDP per capita 2020": {
+        "text": "$47,300 note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP per capita 2019": {
-        "text": "$48,668 (2019 est.)"
+        "text": "$48,700 note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP per capita 2018": {
-        "text": "$48,159 (2018 est.)"
-      },
-      "Real GDP per capita 2017": {
-        "text": "$47,502 (2017 est.)"
+        "text": "$48,100 note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2010 dollars"
     },
@@ -799,10 +799,10 @@
     },
     "Exports": {
       "Exports 2019": {
-        "text": "$119.887 billion (2019 est.)"
+        "text": "$108.22 billion note: data are in current year dollars (2019 est.)"
       },
       "Exports 2018": {
-        "text": "$111.339 billion (2018 est.)"
+        "text": "$106.01 billion note: data are in current year dollars (2018 est.)"
       },
       "Exports 2017": {
         "text": "$109.513 billion (2017 est.)"
@@ -816,10 +816,10 @@
     },
     "Imports": {
       "Imports 2019": {
-        "text": "$120.437 billion (2019 est.)"
+        "text": "$107.39 billion note: data are in current year dollars (2019 est.)"
       },
       "Imports 2018": {
-        "text": "$116.628 billion (2018 est.)"
+        "text": "$109.45 billion note: data are in current year dollars (2018 est.)"
       },
       "Imports 2017": {
         "text": "$110.701 billion (2017 est.)"
@@ -1134,7 +1134,7 @@
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
-        "text": "8,862 (Iraq) (2019)"
+        "text": "8,398 (Iraq) (2020)"
       },
       "stateless persons": {
         "text": "3,428 (2020)"

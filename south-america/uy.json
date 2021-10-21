@@ -96,6 +96,9 @@
     "Irrigated land": {
       "text": "2,380 sq km (2012)"
     },
+    "Major aquifers": {
+      "text": "Guarani Aquifer System"
+    },
     "Population distribution": {
       "text": "most of the country's population resides in the southern half of the country; approximately 80% of the populace is urban, living in towns or cities; nearly half of the population lives in and around the capital of Montevideo"
     },
@@ -104,9 +107,6 @@
     },
     "Geography - note": {
       "text": "second-smallest South American country (after Suriname); most of the low-lying landscape (three-quarters of the country) is grassland, ideal for cattle and sheep raising"
-    },
-    "Major aquifers": {
-      "text": "Guarani Aquifer System"
     }
   },
   "People and Society": {
@@ -389,20 +389,6 @@
         "text": "25.59 megatons (2020 est.)"
       }
     },
-    "Total water withdrawal": {
-      "municipal": {
-        "text": "410 million cubic meters (2017 est.)"
-      },
-      "industrial": {
-        "text": "80 million cubic meters (2017 est.)"
-      },
-      "agricultural": {
-        "text": "3.17 billion cubic meters (2017 est.)"
-      }
-    },
-    "Total renewable water resources": {
-      "text": "172.2 billion cubic meters (2017 est.)"
-    },
     "Climate": {
       "text": "warm temperate; freezing temperatures almost unknown"
     },
@@ -426,6 +412,14 @@
         "text": "2.6% (2018 est.)"
       }
     },
+    "Urbanization": {
+      "urban population": {
+        "text": "95.6% of total population (2021)"
+      },
+      "rate of urbanization": {
+        "text": "0.4% annual rate of change (2020-25 est.)"
+      }
+    },
     "Revenue from forest resources": {
       "forest revenues": {
         "text": "1.56% of GDP (2018 est.)"
@@ -434,14 +428,6 @@
     "Revenue from coal": {
       "coal revenues": {
         "text": "0% of GDP (2018 est.)"
-      }
-    },
-    "Urbanization": {
-      "urban population": {
-        "text": "95.6% of total population (2021)"
-      },
-      "rate of urbanization": {
-        "text": "0.4% annual rate of change (2020-25 est.)"
       }
     },
     "Waste and recycling": {
@@ -457,6 +443,20 @@
     },
     "Major aquifers": {
       "text": "Guarani Aquifer System"
+    },
+    "Total water withdrawal": {
+      "municipal": {
+        "text": "410 million cubic meters (2017 est.)"
+      },
+      "industrial": {
+        "text": "80 million cubic meters (2017 est.)"
+      },
+      "agricultural": {
+        "text": "3.17 billion cubic meters (2017 est.)"
+      }
+    },
+    "Total renewable water resources": {
+      "text": "172.2 billion cubic meters (2017 est.)"
     }
   },
   "Government": {
@@ -644,14 +644,14 @@
       "text": "<p>Uruguay has a free market economy characterized by an export-oriented agricultural sector, a well-educated workforce, and high levels of social spending. Uruguay has sought to expand trade within the Common Market of the South (Mercosur) and with non-Mercosur members, and President VAZQUEZ has maintained his predecessor's mix of pro-market policies and a strong social safety net. <br><br></p> Following financial difficulties in the late 1990s and early 2000s, Uruguay's economic growth averaged 8% annually during the 2004-08 period. The 2008-09 global financial crisis put a brake on Uruguay's vigorous growth, which decelerated to 2.6% in 2009. Nevertheless, the country avoided a recession and kept growth rates positive, mainly through higher public expenditure and investment; GDP growth reached 8.9% in 2010 but slowed markedly in the 2012-16 period as a result of a renewed slowdown in the global economy and in Uruguay's main trade partners and Mercosur counterparts, Argentina and Brazil. Reforms in those countries should give Uruguay an economic boost. Growth picked up in 2017."
     },
     "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2020": {
+        "text": "$75.06 billion note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP (purchasing power parity) 2019": {
-        "text": "$74.638 billion (2019 est.)"
+        "text": "$79.73 billion note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP (purchasing power parity) 2018": {
-        "text": "$74.473 billion (2018 est.)"
-      },
-      "Real GDP (purchasing power parity) 2017": {
-        "text": "$73.285 billion (2017 est.)"
+        "text": "$79.45 billion note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2017 dollars"
     },
@@ -667,14 +667,14 @@
       }
     },
     "Real GDP per capita": {
+      "Real GDP per capita 2020": {
+        "text": "$21,600 note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP per capita 2019": {
-        "text": "$21,561 (2019 est.)"
+        "text": "$23,000 note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP per capita 2018": {
-        "text": "$21,591 (2018 est.)"
-      },
-      "Real GDP per capita 2017": {
-        "text": "$21,325 (2017 est.)"
+        "text": "$23,000 note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2017 dollars"
     },
@@ -819,11 +819,14 @@
       }
     },
     "Exports": {
-      "Exports 2017": {
-        "text": "$11.41 billion (2017 est.)"
+      "Exports 2020": {
+        "text": "$13.55 billion note: data are in current year dollars (2020 est.)"
       },
-      "Exports 2016": {
-        "text": "$8.387 billion (2016 est.)"
+      "Exports 2019": {
+        "text": "$16.99 billion note: data are in current year dollars (2019 est.)"
+      },
+      "Exports 2018": {
+        "text": "$17.04 billion note: data are in current year dollars (2018 est.)"
       }
     },
     "Exports - partners": {
@@ -833,11 +836,14 @@
       "text": "sulfate wood pulp, beef, soybeans, concentrated milk, rice (2019)"
     },
     "Imports": {
-      "Imports 2017": {
-        "text": "$8.607 billion (2017 est.)"
+      "Imports 2020": {
+        "text": "$11.29 billion note: data are in current year dollars (2020 est.)"
       },
-      "Imports 2016": {
-        "text": "$8.463 billion (2016 est.)"
+      "Imports 2019": {
+        "text": "$13.31 billion note: data are in current year dollars (2019 est.)"
+      },
+      "Imports 2018": {
+        "text": "$13.82 billion note: data are in current year dollars (2018 est.)"
       }
     },
     "Imports - partners": {

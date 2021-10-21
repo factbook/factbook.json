@@ -91,6 +91,9 @@
     "Irrigated land": {
       "text": "39,500 sq km (2012)"
     },
+    "Major watersheds (area sq km)": {
+      "text": "Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)"
+    },
     "Population distribution": {
       "text": "despite a distinctive pattern with an industrial north and an agrarian south, a fairly even population distribution exists throughout most of the country, with coastal areas, the Po River Valley, and urban centers (particularly Milan, Rome, and Naples), attracting larger and denser populations"
     },
@@ -99,9 +102,6 @@
     },
     "Geography - note": {
       "text": "strategic location dominating central Mediterranean as well as southern sea and air approaches to Western Europe"
-    },
-    "Major watersheds (area sq km)": {
-      "text": "Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)"
     }
   },
   "People and Society": {
@@ -387,20 +387,6 @@
         "text": "41.3 megatons (2020 est.)"
       }
     },
-    "Total water withdrawal": {
-      "municipal": {
-        "text": "9.488 billion cubic meters (2017 est.)"
-      },
-      "industrial": {
-        "text": "7.7 billion cubic meters (2017 est.)"
-      },
-      "agricultural": {
-        "text": "17 billion cubic meters (2017 est.)"
-      }
-    },
-    "Total renewable water resources": {
-      "text": "191.3 billion cubic meters (2017 est.)"
-    },
     "Climate": {
       "text": "predominantly Mediterranean; alpine in far north; hot, dry in south"
     },
@@ -424,6 +410,14 @@
         "text": "21.5% (2018 est.)"
       }
     },
+    "Urbanization": {
+      "urban population": {
+        "text": "71.3% of total population (2021)"
+      },
+      "rate of urbanization": {
+        "text": "0.27% annual rate of change (2020-25 est.)"
+      }
+    },
     "Revenue from forest resources": {
       "forest revenues": {
         "text": "0.01% of GDP (2018 est.)"
@@ -432,14 +426,6 @@
     "Revenue from coal": {
       "coal revenues": {
         "text": "0% of GDP (2018 est.)"
-      }
-    },
-    "Urbanization": {
-      "urban population": {
-        "text": "71.3% of total population (2021)"
-      },
-      "rate of urbanization": {
-        "text": "0.27% annual rate of change (2020-25 est.)"
       }
     },
     "Major infectious diseases": {
@@ -461,6 +447,20 @@
     },
     "Major watersheds (area sq km)": {
       "text": "Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)"
+    },
+    "Total water withdrawal": {
+      "municipal": {
+        "text": "9.488 billion cubic meters (2017 est.)"
+      },
+      "industrial": {
+        "text": "7.7 billion cubic meters (2017 est.)"
+      },
+      "agricultural": {
+        "text": "17 billion cubic meters (2017 est.)"
+      }
+    },
+    "Total renewable water resources": {
+      "text": "191.3 billion cubic meters (2017 est.)"
     }
   },
   "Government": {
@@ -658,14 +658,14 @@
       "text": "<p>Italy’s economy comprises a developed industrial north, dominated by private companies, and a less-developed, highly subsidized, agricultural south, with a legacy of unemployment and underdevelopment. The Italian economy is driven in large part by the manufacture of high-quality consumer goods produced by small and medium-sized enterprises, many of them family-owned. Italy also has a sizable underground economy, which by some estimates accounts for as much as 17% of GDP. These activities are most common within the agriculture, construction, and service sectors.</p><p></p><p>Italy is the third-largest economy in the euro zone, but its exceptionally high public debt and structural impediments to growth have rendered it vulnerable to scrutiny by financial markets. Public debt has increased steadily since 2007, reaching 131% of GDP in 2017. Investor concerns about Italy and the broader euro-zone crisis eased in 2013, bringing down Italy's borrowing costs on sovereign government debt from euro-era records. The government still faces pressure from investors and European partners to sustain its efforts to address Italy's longstanding structural economic problems, including labor market inefficiencies, a sluggish judicial system, and a weak banking sector. Italy’s economy returned to modest growth in late 2014 for the first time since 2011. In 2015-16, Italy’s economy grew at about 1% each year, and in 2017 growth accelerated to 1.5% of GDP. In 2017, overall unemployment was 11.4%, but youth unemployment remained high at 37.1%. GDP growth is projected to slow slightly in 2018.</p>"
     },
     "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2020": {
+        "text": "$2,322,140,000,000 note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP (purchasing power parity) 2019": {
-        "text": "$2,562,135,000,000 (2019 est.)"
+        "text": "$2,548,190,000,000 note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP (purchasing power parity) 2018": {
-        "text": "$2,553,384,000,000 (2018 est.)"
-      },
-      "Real GDP (purchasing power parity) 2017": {
-        "text": "$2,529,503,000,000 (2017 est.)"
+        "text": "$2,540,890,000,000 note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2010 dollars"
     },
@@ -681,14 +681,14 @@
       }
     },
     "Real GDP per capita": {
+      "Real GDP per capita 2020": {
+        "text": "$39,000 note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP per capita 2019": {
-        "text": "$42,492 (2019 est.)"
+        "text": "$42,700 note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP per capita 2018": {
-        "text": "$42,259 (2018 est.)"
-      },
-      "Real GDP per capita 2017": {
-        "text": "$41,785 (2017 est.)"
+        "text": "$42,100 note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2010 dollars"
     },
@@ -833,14 +833,14 @@
       }
     },
     "Exports": {
+      "Exports 2020": {
+        "text": "$558.26 billion note: data are in current year dollars (2020 est.)"
+      },
       "Exports 2019": {
-        "text": "$687.34 billion (2019 est.)"
+        "text": "$636.01 billion note: data are in current year dollars (2019 est.)"
       },
       "Exports 2018": {
-        "text": "$678.788 billion (2018 est.)"
-      },
-      "Exports 2017": {
-        "text": "$667.866 billion (2017 est.)"
+        "text": "$656.06 billion note: data are in current year dollars (2018 est.)"
       }
     },
     "Exports - partners": {
@@ -850,14 +850,14 @@
       "text": "packaged medicines, cars and vehicle parts, refined petroleum, valves, trunks/cases, wine (2019)"
     },
     "Imports": {
+      "Imports 2020": {
+        "text": "$486.35 billion note: data are in current year dollars (2020 est.)"
+      },
       "Imports 2019": {
-        "text": "$647.058 billion (2019 est.)"
+        "text": "$569.7 billion note: data are in current year dollars (2019 est.)"
       },
       "Imports 2018": {
-        "text": "$649.963 billion (2018 est.)"
-      },
-      "Imports 2017": {
-        "text": "$631.54 billion (2017 est.)"
+        "text": "$605.44 billion note: data are in current year dollars (2018 est.)"
       }
     },
     "Imports - partners": {
@@ -1186,12 +1186,12 @@
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
-        "text": "25,241 (Nigeria), 20,063 (Pakistan), 17,849 (Afghanistan), 15,842 (Mali), 14,029 (Somalia), 12,968 (Gambia), 8,974 (Bangladesh), 7,659 (Cote d'Ivoire), 7,644 (Senegal), 7,118 (Eritrea), 6,995 (Iraq), 6,353 (Ukraine), 5,953 (Ghana) (2019)"
+        "text": "18,473 (Nigeria), 14,484 (Pakistan), 12,096 (Afghanistan), 10,063 (Mali), 7,704 (Somalia), 5,740 (Gambia) (2020)"
       },
       "stateless persons": {
         "text": "3,000 (2020)"
       },
-      "note": "<strong>note:</strong> 571,601 estimated refugee and migrant arrivals (January 2015-October 2021)"
+      "note": "<strong>note:</strong> 573,436 estimated refugee and migrant arrivals (January 2015-October 2021)"
     },
     "Illicit drugs": {
       "text": "important gateway for and consumer of Latin American cocaine and Southwest Asian heroin entering the European market; money laundering by organized crime and from smuggling"

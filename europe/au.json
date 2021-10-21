@@ -85,6 +85,9 @@
     "Irrigated land": {
       "text": "1,170 sq km (2012)"
     },
+    "Major watersheds (area sq km)": {
+      "text": "Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)"
+    },
     "Population distribution": {
       "text": "the northern and eastern portions of the country are more densely populated; nearly two-thirds of the populace lives in urban areas"
     },
@@ -93,9 +96,6 @@
     },
     "Geography - note": {
       "text": "note 1: landlocked; strategic location at the crossroads of central Europe with many easily traversable Alpine passes and valleys; major river is the Danube; population is concentrated on eastern lowlands because of steep slopes, poor soils, and low temperatures elsewhere<br><br>note 2: the world's largest and longest ice cave system at 42 km (26 mi) is the Eisriesenwelt (Ice Giants World) inside the Hochkogel mountain near Werfen, about 40 km south of Salzburg; ice caves are bedrock caves that contain year-round ice formations; they differ from glacial caves, which are transient and are formed by melting ice and flowing water within and under glaciers"
-    },
-    "Major watersheds (area sq km)": {
-      "text": "Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)"
     }
   },
   "People and Society": {
@@ -365,20 +365,6 @@
         "text": "6.34 megatons (2020 est.)"
       }
     },
-    "Total water withdrawal": {
-      "municipal": {
-        "text": "720 million cubic meters (2017 est.)"
-      },
-      "industrial": {
-        "text": "2.695 billion cubic meters (2017 est.)"
-      },
-      "agricultural": {
-        "text": "77.1 million cubic meters (2017 est.)"
-      }
-    },
-    "Total renewable water resources": {
-      "text": "77.7 billion cubic meters (2017 est.)"
-    },
     "Climate": {
       "text": "temperate; continental, cloudy; cold winters with frequent rain and some snow in lowlands and snow in mountains; moderate summers with occasional showers"
     },
@@ -402,6 +388,14 @@
         "text": "14.4% (2018 est.)"
       }
     },
+    "Urbanization": {
+      "urban population": {
+        "text": "59% of total population (2021)"
+      },
+      "rate of urbanization": {
+        "text": "0.68% annual rate of change (2020-25 est.)"
+      }
+    },
     "Revenue from forest resources": {
       "forest revenues": {
         "text": "0.07% of GDP (2018 est.)"
@@ -410,14 +404,6 @@
     "Revenue from coal": {
       "coal revenues": {
         "text": "0% of GDP (2018 est.)"
-      }
-    },
-    "Urbanization": {
-      "urban population": {
-        "text": "59% of total population (2021)"
-      },
-      "rate of urbanization": {
-        "text": "0.68% annual rate of change (2020-25 est.)"
       }
     },
     "Waste and recycling": {
@@ -433,6 +419,20 @@
     },
     "Major watersheds (area sq km)": {
       "text": "Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)"
+    },
+    "Total water withdrawal": {
+      "municipal": {
+        "text": "720 million cubic meters (2017 est.)"
+      },
+      "industrial": {
+        "text": "2.695 billion cubic meters (2017 est.)"
+      },
+      "agricultural": {
+        "text": "77.1 million cubic meters (2017 est.)"
+      }
+    },
+    "Total renewable water resources": {
+      "text": "77.7 billion cubic meters (2017 est.)"
     }
   },
   "Government": {
@@ -532,13 +532,13 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral Federal Assembly or Bundesversammlung consists of:<br>Federal Council or Bundesrat (61 seats; members appointed by state parliaments with each state receiving 3 to 12 seats in proportion to its population; members serve 5- or 6-year terms)<br>National Council or Nationalrat (183 seats; members directly elected in single-seat constituencies by proportional representation vote; members serve 5-year terms) (e.g. 2019)"
+        "text": "bicameral Federal Assembly or Bundesversammlung consists of:<br>Federal Council or Bundesrat (61 seats; members appointed by state parliaments with each state receiving 3 to 12 seats in proportion to its population; members serve 5- or 6-year terms)<br>National Council or Nationalrat (183 seats; members directly elected in single-seat constituencies by proportional representation vote; members serve 5-year terms)"
       },
       "elections": {
-        "text": "<br>Federal Council - last appointed - NA<br>National Council - last held on 29 September 2019 (next to be held in 2024); note - election was originally scheduled for 2022, but President VAN DER BELLEN called for an early election (e.g. 2019)"
+        "text": "<br>Federal Council - last appointed - NA<br>National Council - last held on 29 September 2019 (next to be held in 2024); note - election was originally scheduled for 2022, but President VAN DER BELLEN called for an early election"
       },
       "election results": {
-        "text": "<br>Federal Council - percent of vote by party - NA; seats by party - NA; composition - men 44, women 17, percent of women 27.9% <br>National Council - percent of vote by party - OeVP 37.5%, SPOe 21.2%, FPOe 16.2%, The Greens 13.9%, NEOS 8.1%, other 3.1%; seats by party - OeVP 71, SPOe 40, FPOe 31, The Greens 26,  NEOS 15; composition - men 115, women 68, percent of women 37.2%; note - total Federal Assembly percent of women 34.8% (e.g. 2019)"
+        "text": "<br>Federal Council - percent of vote by party - NA; seats by party - NA; composition (as of September 2021) - men 39, women 22, percent of women 36.1% <br>National Council - percent of vote by party - OeVP 37.5%, SPOe 21.2%, FPOe 16.2%, The Greens 13.9%, NEOS 8.1%, other 3.1%; seats by party - OeVP 71, SPOe 40, FPOe 31, The Greens 26,  NEOS 15; composition (as of September 2021) - men 109, women 74, percent of women 40.4%; note - total Federal Assembly percent of women 39.3%"
       }
     },
     "Judicial branch": {
@@ -622,14 +622,14 @@
       "text": "<p>Austria is a well-developed market economy with skilled labor force and high standard of living. It is closely tied to other EU economies, especially Germany's, but also the US’, its third-largest trade partner. Its economy features a large service sector, a sound industrial sector, and a small, but highly developed agricultural sector.</p><p></p><p>Austrian economic growth strengthen in 2017, with a 2.9% increase in GDP. Austrian exports, accounting for around 60% of the GDP, were up 8.2% in 2017. Austria’s unemployment rate fell by 0.3% to 5.5%, which is low by European standards, but still at its second highest rate since the end of World War II, driven by an increased number of refugees and EU migrants entering the labor market.</p><p></p><p>Austria's fiscal position compares favorably with other euro-zone countries. The budget deficit stood at a low 0.7% of GDP in 2017 and public debt declined again to 78.4% of GDP in 2017, after reaching a post-war high 84.6% in 2015. The Austrian government has announced it plans to balance the fiscal budget in 2019. Several external risks, such as Austrian banks' exposure to Central and Eastern Europe, the refugee crisis, and continued unrest in Russia/Ukraine, eased in 2017, but are still a factor for the Austrian economy. Exposure to the Russian banking sector and a deep energy relationship with Russia present additional risks.</p><p></p><p>Austria elected a new pro-business government in October 2017 that campaigned on promises to reduce bureaucracy, improve public sector efficiency, reduce labor market protections, and provide positive investment incentives.</p>"
     },
     "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2020": {
+        "text": "$463.12 billion note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP (purchasing power parity) 2019": {
-        "text": "$498.78 billion (2019 est.)"
+        "text": "$495.8 billion note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP (purchasing power parity) 2018": {
-        "text": "$491.803 billion (2018 est.)"
-      },
-      "Real GDP (purchasing power parity) 2017": {
-        "text": "$479.433 billion (2017 est.)"
+        "text": "$488.86 billion note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2010 dollars"
     },
@@ -645,14 +645,14 @@
       }
     },
     "Real GDP per capita": {
+      "Real GDP per capita 2020": {
+        "text": "$51,900 note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP per capita 2019": {
-        "text": "$56,188 (2019 est.)"
+        "text": "$55,800 note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP per capita 2018": {
-        "text": "$55,631 (2018 est.)"
-      },
-      "Real GDP per capita 2017": {
-        "text": "$54,496 (2017 est.)"
+        "text": "$55,300 note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2010 dollars"
     },
@@ -797,14 +797,14 @@
       }
     },
     "Exports": {
+      "Exports 2020": {
+        "text": "$226.79 billion note: data are in current year dollars (2020 est.)"
+      },
       "Exports 2019": {
-        "text": "$270.888 billion (2019 est.)"
+        "text": "$247.17 billion note: data are in current year dollars (2019 est.)"
       },
       "Exports 2018": {
-        "text": "$263.145 billion (2018 est.)"
-      },
-      "Exports 2017": {
-        "text": "$249.312 billion (2017 est.)"
+        "text": "$253.3 billion note: data are in current year dollars (2018 est.)"
       }
     },
     "Exports - partners": {
@@ -814,14 +814,14 @@
       "text": "cars, packaged medical supplies, vehicle parts, medical vaccines/cultures, flavored water (2019)"
     },
     "Imports": {
+      "Imports 2020": {
+        "text": "$211.85 billion note: data are in current year dollars (2020 est.)"
+      },
       "Imports 2019": {
-        "text": "$253.276 billion (2019 est.)"
+        "text": "$232.8 billion note: data are in current year dollars (2019 est.)"
       },
       "Imports 2018": {
-        "text": "$247.225 billion (2018 est.)"
-      },
-      "Imports 2017": {
-        "text": "$235.385 billion (2017 est.)"
+        "text": "$238.79 billion note: data are in current year dollars (2018 est.)"
       }
     },
     "Imports - partners": {
@@ -959,7 +959,7 @@
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "<p>mature telecom market benefitting from effective competition; government and regulator are focused on improving telecom infrastructure; program to provide a national gigabit service by 2030 based on 5G networks; fixed-line broadband market is dominated by DSL sector, while cable broadband enjoys steady share of connections; fiber penetration remains low pending build out network infrastructure; EU-funded projects develop infrastructure to enable an 'Internet of Services; Vienna is a smart city; importer of broadcasting equipment from Vietnam and China (2021)</p> (2020)"
+        "text": "<p>mature telecom market benefitting from effective competition; government and regulator are focused on improving telecom infrastructure; program to provide a national gigabit service by 2030 based on 5G networks; fixed-line broadband market is dominated by DSL sector, while cable broadband enjoys steady share of connections; fiber penetration remains low pending build out network infrastructure; EU-funded projects develop infrastructure to enable an 'Internet of Services; Vienna is a smart city; importer of broadcasting equipment from Vietnam and China</p> (2021)"
       },
       "domestic": {
         "text": "developed and efficient; 41 per 100 fixed-line for households, 174 per 100 for companies; 120 per 100 mobile-cellular; broadband: 138 per 100 on smartphones; 62 per 100 fixed broadband, 54 per 100 mobile broadband (2019)"
@@ -1114,7 +1114,7 @@
       "text": "290 Bosnia-Herzegovina (EUFOR stabilization force); 340 Kosovo (NATO); 180 Lebanon (UNIFIL) (Sep 2021)"
     },
     "Military service age and obligation": {
-      "text": "registration requirement at age 17, the legal minimum age for voluntary military service; 18 is the legal minimum age for compulsory military service (6 months), or optionally, alternative civil/community service (9 months); males 18 to 50 years old in the militia or inactive reserve are subject to compulsory service; in a January 2012 referendum, a majority of Austrians voted in favor of retaining the system of compulsory military service (with the option of alternative/non-military service) instead of switching to a professional army system (2015)"
+      "text": "registration requirement at age 17, the legal minimum age for voluntary military service; 18 is the legal minimum age for compulsory military service (6 months), or optionally, alternative civil/community service (9 months); males 18 to 50 years old in the militia or inactive reserve are subject to compulsory service; in a January 2012 referendum, a majority of Austrians voted in favor of retaining the system of compulsory military service (with the option of alternative/non-military service) instead of switching to a professional army system (2019)"
     },
     "Military - note": {
       "text": "<p>Austria is constitutionally non-aligned, but is an EU member and actively participates in EU peacekeeping and crisis management operations under the Common Security and Defense Policy; Austria is not a member of NATO, but joined NATO’s Partnership for Peace framework in 1995 and participates in NATO-led crisis-management and peacekeeping operations; as of 2021, more than 100,000 Austrian military and civilian personnel have taken part in more than 50 international peace support and humanitarian missions since 1960</p>"
@@ -1132,7 +1132,7 @@
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
-        "text": "51,955 (Syria), 37,276 (Afghanistan), 8,664 (Russia), 8,568 (Iraq), 7,636 (Somalia), 6,393 (Iran) (2019)"
+        "text": "54,903 (Syria), 40,096 (Afghanistan), 9,152 (Iraq), 8,074 (Somalia), 7,513 (Russia), 6,878 (Iran) (2020)"
       },
       "stateless persons": {
         "text": "3,267 (2020)"

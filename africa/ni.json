@@ -93,6 +93,12 @@
     "Irrigated land": {
       "text": "2,930 sq km (2012)"
     },
+    "Major watersheds (area sq km)": {
+      "text": "Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)"
+    },
+    "Major aquifers": {
+      "text": "Lake Chad Basin, Lullemeden-Irhazer Aquifer System"
+    },
     "Population distribution": {
       "text": "largest population of any African nation; significant population clusters are scattered throughout the country, with the highest density areas being in the south and southwest as shown in this population distribution map"
     },
@@ -101,12 +107,6 @@
     },
     "Geography - note": {
       "text": "the Niger River enters the country in the northwest and flows southward through tropical rain forests and swamps to its delta in the Gulf of Guinea"
-    },
-    "Major watersheds (area sq km)": {
-      "text": "Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Lake Chad drainage <em>(endorheic basin)</em>: Lake Chad (2,497,738 sq km)"
-    },
-    "Major aquifers": {
-      "text": "Lake Chad Basin, Lullemeden-Irhazer Aquifer System"
     }
   },
   "People and Society": {
@@ -409,20 +409,6 @@
         "text": "143.99 megatons (2020 est.)"
       }
     },
-    "Total water withdrawal": {
-      "municipal": {
-        "text": "5 billion cubic meters (2017 est.)"
-      },
-      "industrial": {
-        "text": "1.965 billion cubic meters (2017 est.)"
-      },
-      "agricultural": {
-        "text": "5.51 billion cubic meters (2017 est.)"
-      }
-    },
-    "Total renewable water resources": {
-      "text": "286.2 billion cubic meters (2017 est.)"
-    },
     "Climate": {
       "text": "varies; equatorial in south, tropical in center, arid in north"
     },
@@ -446,6 +432,14 @@
         "text": "12.5% (2018 est.)"
       }
     },
+    "Urbanization": {
+      "urban population": {
+        "text": "52.7% of total population (2021)"
+      },
+      "rate of urbanization": {
+        "text": "3.92% annual rate of change (2020-25 est.)"
+      }
+    },
     "Revenue from forest resources": {
       "forest revenues": {
         "text": "1.02% of GDP (2018 est.)"
@@ -454,14 +448,6 @@
     "Revenue from coal": {
       "coal revenues": {
         "text": "0% of GDP (2018 est.)"
-      }
-    },
-    "Urbanization": {
-      "urban population": {
-        "text": "52.7% of total population (2021)"
-      },
-      "rate of urbanization": {
-        "text": "3.92% annual rate of change (2020-25 est.)"
       }
     },
     "Major infectious diseases": {
@@ -499,10 +485,24 @@
       }
     },
     "Major watersheds (area sq km)": {
-      "text": "Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Lake Chad drainage <em>(endorheic basin)</em>: Lake Chad (2,497,738 sq km)"
+      "text": "Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)"
     },
     "Major aquifers": {
       "text": "Lake Chad Basin, Lullemeden-Irhazer Aquifer System"
+    },
+    "Total water withdrawal": {
+      "municipal": {
+        "text": "5 billion cubic meters (2017 est.)"
+      },
+      "industrial": {
+        "text": "1.965 billion cubic meters (2017 est.)"
+      },
+      "agricultural": {
+        "text": "5.51 billion cubic meters (2017 est.)"
+      }
+    },
+    "Total renewable water resources": {
+      "text": "286.2 billion cubic meters (2017 est.)"
     }
   },
   "Government": {
@@ -683,14 +683,14 @@
       "text": "<p>Nigeria is Sub Saharan Africa’s largest economy and relies heavily on oil as its main source of foreign exchange earnings and government revenues. Following the 2008-09 global financial crises, the banking sector was effectively recapitalized and regulation enhanced. Since then, Nigeria’s economic growth has been driven by growth in agriculture, telecommunications, and services. Economic diversification and strong growth have not translated into a significant decline in poverty levels; over 62% of Nigeria's over 180 million people still live in extreme poverty.</p><p></p><p>Despite its strong fundamentals, oil-rich Nigeria has been hobbled by inadequate power supply, lack of infrastructure, delays in the passage of legislative reforms, an inefficient property registration system, restrictive trade policies, an inconsistent regulatory environment, a slow and ineffective judicial system, unreliable dispute resolution mechanisms, insecurity, and pervasive corruption. Regulatory constraints and security risks have limited new investment in oil and natural gas, and Nigeria's oil production had been contracting every year since 2012 until a slight rebound in 2017.</p><p></p><p>President BUHARI, elected in March 2015, has established a cabinet of economic ministers that includes several technocrats, and he has announced plans to increase transparency, diversify the economy away from oil, and improve fiscal management, but has taken a primarily protectionist approach that favors domestic producers at the expense of consumers. President BUHARI ran on an anti-corruption platform, and has made some headway in alleviating corruption, such as implementation of a Treasury Single Account that allows the government to better manage its resources and a more transparent government payroll and personnel system that eliminated duplicate and \"ghost workers.\" The government also is working to develop stronger public-private partnerships for roads, agriculture, and power.</p><p></p><p>Nigeria entered recession in 2016 as a result of lower oil prices and production, exacerbated by militant attacks on oil and gas infrastructure in the Niger Delta region, coupled with detrimental economic policies, including foreign exchange restrictions. GDP growth turned positive in 2017 as oil prices recovered and output stabilized.</p>"
     },
     "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2020": {
+        "text": "$1,013,530,000,000 note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP (purchasing power parity) 2019": {
-        "text": "$1,032,048,000,000 (2019 est.)"
+        "text": "$1,032,050,000,000 note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP (purchasing power parity) 2018": {
-        "text": "$1,009,748,000,000 (2018 est.)"
-      },
-      "Real GDP (purchasing power parity) 2017": {
-        "text": "$990.7 billion (2017 est.)"
+        "text": "$1,009,750,000,000 note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2017 dollars"
     },
@@ -706,14 +706,14 @@
       }
     },
     "Real GDP per capita": {
+      "Real GDP per capita 2020": {
+        "text": "$4,900 note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP per capita 2019": {
-        "text": "$5,136 (2019 est.)"
+        "text": "$5,100 note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP per capita 2018": {
-        "text": "$5,155 (2018 est.)"
-      },
-      "Real GDP per capita 2017": {
-        "text": "$5,190 (2017 est.)"
+        "text": "$5,200 note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2017 dollars"
     },
@@ -858,13 +858,13 @@
     },
     "Exports": {
       "Exports 2020": {
-        "text": "$34.545 billion (2020 est.)"
+        "text": "$39.94 billion note: data are in current year dollars (2020 est.)"
       },
       "Exports 2019": {
-        "text": "$62.531 billion (2019 est.)"
+        "text": "$69.93 billion note: data are in current year dollars (2019 est.)"
       },
       "Exports 2018": {
-        "text": "$60.547 billion (2018 est.)"
+        "text": "$66.04 billion note: data are in current year dollars (2018 est.)"
       }
     },
     "Exports - partners": {
@@ -874,11 +874,14 @@
       "text": "crude petroleum, natural gas, scrap vessels, flexible metal tubing, cocoa beans (2019)"
     },
     "Imports": {
-      "Imports 2017": {
-        "text": "$32.67 billion (2017 est.)"
+      "Imports 2020": {
+        "text": "$72.18 billion note: data are in current year dollars (2020 est.)"
       },
-      "Imports 2016": {
-        "text": "$35.24 billion (2016 est.)"
+      "Imports 2019": {
+        "text": "$100.82 billion note: data are in current year dollars (2019 est.)"
+      },
+      "Imports 2018": {
+        "text": "$71.64 billion note: data are in current year dollars (2018 est.)"
       }
     },
     "Imports - partners": {
@@ -1189,7 +1192,7 @@
       "text": "size estimates for the Nigerian Armed Forces vary; approximately 135,000 active personnel (100,000 Army; 20,000 Navy/Coast Guard; 15,000 Air Force); est. 80,000 Security and Civil Defense Corps (2020)"
     },
     "Military equipment inventories and acquisitions": {
-      "text": "the Nigerian Armed Forces' inventory consists of a wide variety of imported weapons systems of Chinese, European, Middle Eastern, Russian (including Soviet-era), and US origin; since 2010, Nigeria has undertaken a considerable military modernization program, and has received equipment from some 20 countries with China, Russia, and the US as the leading suppliers; Nigeria has been the largest arms importer in sub-Saharan Africa since 2014; Nigeria is also developing a defense-industry capacity, including small arms, armored personnel vehicles, and small-scale naval production (2020)"
+      "text": "the Nigerian Armed Forces' inventory consists of a wide variety of imported weapons systems of Chinese, European, Middle Eastern, Russian (including Soviet-era), and US origin; since 2010, Nigeria has undertaken a considerable military modernization program, and has received equipment from some 20 countries with China, Russia, and the US as the leading suppliers; Nigeria has been the largest arms importer in sub-Saharan Africa since 2014; Nigeria is also developing a defense-industry capacity, including small arms, armored personnel vehicles, and small-scale naval production (2021)"
     },
     "Military deployments": {
       "text": "200 Ghana (ECOMIG); MNJTF (1 brigade or approximately 3,000 troops committed; note - the national MNJTF troop contingents are deployed within their own country territories, although cross‐border operations are conducted periodically) (2021)"

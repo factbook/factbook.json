@@ -398,20 +398,6 @@
         "text": "10.14 megatons (2020 est.)"
       }
     },
-    "Total water withdrawal": {
-      "municipal": {
-        "text": "395 million cubic meters (2017 est.)"
-      },
-      "industrial": {
-        "text": "161.9 million cubic meters (2017 est.)"
-      },
-      "agricultural": {
-        "text": "13 billion cubic meters (2017 est.)"
-      }
-    },
-    "Total renewable water resources": {
-      "text": "337 billion cubic meters (2017 est.)"
-    },
     "Climate": {
       "text": "tropical along coast, temperate inland, arid in south"
     },
@@ -435,6 +421,14 @@
         "text": "7.4% (2018 est.)"
       }
     },
+    "Urbanization": {
+      "urban population": {
+        "text": "39.2% of total population (2021)"
+      },
+      "rate of urbanization": {
+        "text": "4.26% annual rate of change (2020-25 est.)"
+      }
+    },
     "Revenue from forest resources": {
       "forest revenues": {
         "text": "4.34% of GDP (2018 est.)"
@@ -443,14 +437,6 @@
     "Revenue from coal": {
       "coal revenues": {
         "text": "0% of GDP (2018 est.)"
-      }
-    },
-    "Urbanization": {
-      "urban population": {
-        "text": "39.2% of total population (2021)"
-      },
-      "rate of urbanization": {
-        "text": "4.26% annual rate of change (2020-25 est.)"
       }
     },
     "Major infectious diseases": {
@@ -479,6 +465,20 @@
       "municipal solid waste generated annually": {
         "text": "3,768,759 tons (2016 est.)"
       }
+    },
+    "Total water withdrawal": {
+      "municipal": {
+        "text": "395 million cubic meters (2017 est.)"
+      },
+      "industrial": {
+        "text": "161.9 million cubic meters (2017 est.)"
+      },
+      "agricultural": {
+        "text": "13 billion cubic meters (2017 est.)"
+      }
+    },
+    "Total renewable water resources": {
+      "text": "337 billion cubic meters (2017 est.)"
     }
   },
   "Government": {
@@ -665,14 +665,14 @@
       "text": "<p>Madagascar is a mostly unregulated economy with many untapped natural resources, but no capital markets, a weak judicial system, poorly enforced contracts, and rampant government corruption. The country faces challenges to improve education, healthcare, and the environment to boost long-term economic growth. Agriculture, including fishing and forestry, is a mainstay of the economy, accounting for more than one-fourth of GDP and employing roughly 80% of the population. Deforestation and erosion, aggravated by bushfires, slash-and-burn clearing techniques, and the use of firewood as the primary source of fuel, are serious concerns to the agriculture dependent economy.</p><p></p><p>After discarding socialist economic policies in the mid-1990s, Madagascar followed a World Bank- and IMF-led policy of privatization and liberalization until a 2009 coup d’état led many nations, including the United States, to suspend non-humanitarian aid until a democratically-elected president was inaugurated in 2014. The pre-coup strategy had placed the country on a slow and steady growth path from an extremely low starting point. Exports of apparel boomed after gaining duty-free access to the US market in 2000 under the African Growth and Opportunity Act (AGOA); however, Madagascar's failure to comply with the requirements of the AGOA led to the termination of the country's duty-free access in January 2010, a sharp fall in textile production, a loss of more than 100,000 jobs, and a GDP drop of nearly 11%.</p><p></p><p>Madagascar regained AGOA access in January 2015 and ensuing growth has been slow and fragile. Madagascar produces around 80% of the world’s vanilla and its reliance on this commodity for most of its foreign exchange is a significant source of vulnerability. Economic reforms have been modest and the country’s financial sector remains weak, limiting the use of monetary policy to control inflation. An ongoing IMF program aims to strengthen financial and investment management capacity.</p>"
     },
     "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2020": {
+        "text": "$41.82 billion note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP (purchasing power parity) 2019": {
-        "text": "$44.419 billion (2019 est.)"
+        "text": "$43.65 billion note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP (purchasing power parity) 2018": {
-        "text": "$42.363 billion (2018 est.)"
-      },
-      "Real GDP (purchasing power parity) 2017": {
-        "text": "$40.514 billion (2017 est.)"
+        "text": "$41.81 billion note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2010 dollars"
     },
@@ -688,14 +688,14 @@
       }
     },
     "Real GDP per capita": {
+      "Real GDP per capita 2020": {
+        "text": "$1,500 note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP per capita 2019": {
-        "text": "$1,647 (2019 est.)"
+        "text": "$1,600 note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP per capita 2018": {
-        "text": "$1,613 (2018 est.)"
-      },
-      "Real GDP per capita 2017": {
-        "text": "$1,584 (2017 est.)"
+        "text": "$1,600 note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2010 dollars"
     },
@@ -818,10 +818,10 @@
     },
     "Exports": {
       "Exports 2019": {
-        "text": "$5.272 billion (2019 est.)"
+        "text": "$4.09 billion note: data are in current year dollars (2019 est.)"
       },
       "Exports 2018": {
-        "text": "$5.06 billion (2018 est.)"
+        "text": "$4.41 billion note: data are in current year dollars (2018 est.)"
       },
       "Exports 2017": {
         "text": "$4.839 billion (2017 est.)"
@@ -835,10 +835,10 @@
     },
     "Imports": {
       "Imports 2019": {
-        "text": "$5.855 billion (2019 est.)"
+        "text": "$4.7 billion note: data are in current year dollars (2019 est.)"
       },
       "Imports 2018": {
-        "text": "$5.56 billion (2018 est.)"
+        "text": "$4.82 billion note: data are in current year dollars (2018 est.)"
       },
       "Imports 2017": {
         "text": "$5.796 billion (2017 est.)"

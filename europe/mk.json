@@ -85,6 +85,9 @@
     "Irrigated land": {
       "text": "1,280 sq km (2012)"
     },
+    "Major watersheds (area sq km)": {
+      "text": "Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)"
+    },
     "Population distribution": {
       "text": "a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations"
     },
@@ -93,9 +96,6 @@
     },
     "Geography - note": {
       "text": "landlocked; major transportation corridor from Western and Central Europe to Aegean Sea and Southern Europe to Western Europe"
-    },
-    "Major watersheds (area sq km)": {
-      "text": "Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)"
     }
   },
   "People and Society": {
@@ -377,20 +377,6 @@
         "text": "2.28 megatons (2020 est.)"
       }
     },
-    "Total water withdrawal": {
-      "municipal": {
-        "text": "277.5 million cubic meters (2017 est.)"
-      },
-      "industrial": {
-        "text": "225,809,581.6 cubic meters (2017 est.)"
-      },
-      "agricultural": {
-        "text": "329,217,707.7 cubic meters (2017 est.)"
-      }
-    },
-    "Total renewable water resources": {
-      "text": "6.4 billion cubic meters (2017 est.)"
-    },
     "Climate": {
       "text": "warm, dry summers and autumns; relatively cold winters with heavy snowfall"
     },
@@ -414,6 +400,14 @@
         "text": "15.9% (2018 est.)"
       }
     },
+    "Urbanization": {
+      "urban population": {
+        "text": "58.8% of total population (2021)"
+      },
+      "rate of urbanization": {
+        "text": "0.61% annual rate of change (2020-25 est.)"
+      }
+    },
     "Revenue from forest resources": {
       "forest revenues": {
         "text": "0.15% of GDP (2018 est.)"
@@ -422,14 +416,6 @@
     "Revenue from coal": {
       "coal revenues": {
         "text": "0% of GDP (2018 est.)"
-      }
-    },
-    "Urbanization": {
-      "urban population": {
-        "text": "58.8% of total population (2021)"
-      },
-      "rate of urbanization": {
-        "text": "0.61% annual rate of change (2020-25 est.)"
       }
     },
     "Waste and recycling": {
@@ -445,6 +431,20 @@
     },
     "Major watersheds (area sq km)": {
       "text": "Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)"
+    },
+    "Total water withdrawal": {
+      "municipal": {
+        "text": "277.5 million cubic meters (2017 est.)"
+      },
+      "industrial": {
+        "text": "225,809,581.6 cubic meters (2017 est.)"
+      },
+      "agricultural": {
+        "text": "329,217,707.7 cubic meters (2017 est.)"
+      }
+    },
+    "Total renewable water resources": {
+      "text": "6.4 billion cubic meters (2017 est.)"
     }
   },
   "Government": {
@@ -634,14 +634,14 @@
       "text": "<p>Since its independence in 1991, Macedonia has made progress in liberalizing its economy and improving its business environment. Its low tax rates and free economic zones have helped to attract foreign investment, which is still low relative to the rest of Europe. Corruption and weak rule of law remain significant problems. Some businesses complain of opaque regulations and unequal enforcement of the law.</p> <p> </p> <p>Macedonia’s economy is closely linked to Europe as a customer for exports and source of investment, and has suffered as a result of prolonged weakness in the euro zone. Unemployment has remained consistently high at about 23% but may be overstated based on the existence of an extensive gray market, estimated to be between 20% and 45% of GDP, which is not captured by official statistics.</p> <p> </p> <p>Macedonia is working to build a country-wide natural gas pipeline and distribution network. Currently, Macedonia receives its small natural gas supplies from Russia via Bulgaria. In 2016, Macedonia signed a memorandum of understanding with Greece to build an interconnector that could connect to the Trans Adriatic Pipeline that will traverse the region once complete, or to an LNG import terminal in Greece.</p> <p> </p> <p>Macedonia maintained macroeconomic stability through the global financial crisis by conducting prudent monetary policy, which keeps the domestic currency pegged to the euro, and inflation at a low level. However, in the last two years, the internal political crisis has hampered economic performance, with GDP growth slowing in 2016 and 2017, and both domestic private and public investments declining. Fiscal policies were lax, with unproductive public expenditures, including subsidies and pension increases, and rising guarantees for the debt of state owned enterprises, and fiscal targets were consistently missed. In 2017, public debt stabilized at about 47% of GDP, still relatively low compared to its Western Balkan neighbors and the rest of Europe.</p>"
     },
     "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2020": {
+        "text": "$33.02 billion note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP (purchasing power parity) 2019": {
-        "text": "$34.333 billion (2019 est.)"
+        "text": "$34.59 billion note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP (purchasing power parity) 2018": {
-        "text": "$33.268 billion (2018 est.)"
-      },
-      "Real GDP (purchasing power parity) 2017": {
-        "text": "$32.331 billion (2017 est.)"
+        "text": "$33.52 billion note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note: </strong>data are in 2017 dollars; Macedonia has a large informal sector that may not be reflected in these data"
     },
@@ -657,14 +657,14 @@
       }
     },
     "Real GDP per capita": {
+      "Real GDP per capita 2020": {
+        "text": "$15,800 note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP per capita 2019": {
-        "text": "$16,479 (2019 est.)"
+        "text": "$16,600 note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP per capita 2018": {
-        "text": "$15,972 (2018 est.)"
-      },
-      "Real GDP per capita 2017": {
-        "text": "$15,529 (2017 est.)"
+        "text": "$16,100 note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2017 dollars"
     },
@@ -806,11 +806,14 @@
       }
     },
     "Exports": {
-      "Exports 2017": {
-        "text": "$4.601 billion (2017 est.)"
+      "Exports 2020": {
+        "text": "$7.18 billion note: data are in current year dollars (2020 est.)"
       },
-      "Exports 2016": {
-        "text": "$3.75 billion (2016 est.)"
+      "Exports 2019": {
+        "text": "$7.78 billion note: data are in current year dollars (2019 est.)"
+      },
+      "Exports 2018": {
+        "text": "$7.61 billion note: data are in current year dollars (2018 est.)"
       }
     },
     "Exports - partners": {
@@ -820,11 +823,14 @@
       "text": "support catalysts, centrifuges, insulated wiring, vehicle parts, buses, seats (2019)"
     },
     "Imports": {
-      "Imports 2017": {
-        "text": "$6.63 billion (2017 est.)"
+      "Imports 2020": {
+        "text": "$8.76 billion note: data are in current year dollars (2020 est.)"
       },
-      "Imports 2016": {
-        "text": "$5.805 billion (2016 est.)"
+      "Imports 2019": {
+        "text": "$9.6 billion note: data are in current year dollars (2019 est.)"
+      },
+      "Imports 2018": {
+        "text": "$9.23 billion note: data are in current year dollars (2018 est.)"
       }
     },
     "Imports - partners": {

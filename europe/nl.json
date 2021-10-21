@@ -94,6 +94,9 @@
     "Irrigated land": {
       "text": "4,860 sq km (2012)"
     },
+    "Major watersheds (area sq km)": {
+      "text": "Atlantic Ocean drainage: Rhine-Maas (198,735 sq km)"
+    },
     "Population distribution": {
       "text": "an area known as the Randstad, anchored by the cities of Amsterdam, Rotterdam, the Hague, and Utrecht, is the most densely populated region; the north tends to be less dense, though sizeable communities can be found throughout the entire country"
     },
@@ -102,9 +105,6 @@
     },
     "Geography - note": {
       "text": "located at mouths of three major European rivers (Rhine, Maas or Meuse, and Schelde); about a quarter of the country lies below sea level and only about half of the land exceeds one meter above sea level"
-    },
-    "Major watersheds (area sq km)": {
-      "text": "Atlantic Ocean drainage: Rhine-Maas (198,735 sq km)"
     }
   },
   "People and Society": {
@@ -374,20 +374,6 @@
         "text": "17.79 megatons (2020 est.)"
       }
     },
-    "Total water withdrawal": {
-      "municipal": {
-        "text": "1.26 billion cubic meters (2017 est.)"
-      },
-      "industrial": {
-        "text": "14.74 billion cubic meters (2017 est.)"
-      },
-      "agricultural": {
-        "text": "76.5 million cubic meters (2017 est.)"
-      }
-    },
-    "Total renewable water resources": {
-      "text": "91 billion cubic meters (2017 est.)"
-    },
     "Climate": {
       "text": "temperate; marine; cool summers and mild winters"
     },
@@ -411,6 +397,14 @@
         "text": "34.1% (2018 est.)"
       }
     },
+    "Urbanization": {
+      "urban population": {
+        "text": "92.6% of total population (2021)"
+      },
+      "rate of urbanization": {
+        "text": "0.59% annual rate of change (2020-25 est.)"
+      }
+    },
     "Revenue from forest resources": {
       "forest revenues": {
         "text": "0.01% of GDP (2018 est.)"
@@ -419,14 +413,6 @@
     "Revenue from coal": {
       "coal revenues": {
         "text": "0% of GDP (2018 est.)"
-      }
-    },
-    "Urbanization": {
-      "urban population": {
-        "text": "92.6% of total population (2021)"
-      },
-      "rate of urbanization": {
-        "text": "0.59% annual rate of change (2020-25 est.)"
       }
     },
     "Waste and recycling": {
@@ -442,6 +428,20 @@
     },
     "Major watersheds (area sq km)": {
       "text": "Atlantic Ocean drainage: Rhine-Maas (198,735 sq km)"
+    },
+    "Total water withdrawal": {
+      "municipal": {
+        "text": "1.26 billion cubic meters (2017 est.)"
+      },
+      "industrial": {
+        "text": "14.74 billion cubic meters (2017 est.)"
+      },
+      "agricultural": {
+        "text": "76.5 million cubic meters (2017 est.)"
+      }
+    },
+    "Total renewable water resources": {
+      "text": "91 billion cubic meters (2017 est.)"
     }
   },
   "Government": {
@@ -638,14 +638,14 @@
       "text": "<p>The Netherlands, the sixth-largest economy in the European Union, plays an important role as a European transportation hub, with a consistently high trade surplus, stable industrial relations, and low unemployment. Industry focuses on food processing, chemicals, petroleum refining, and electrical machinery. A highly mechanized agricultural sector employs only 2% of the labor force but provides large surpluses for food-processing and underpins the country’s status as the world’s second largest agricultural exporter.</p><p></p><p>The Netherlands is part of the euro zone, and as such, its monetary policy is controlled by the European Central Bank. The Dutch financial sector is highly concentrated, with four commercial banks possessing over 80% of banking assets, and is four times the size of Dutch GDP.</p><p></p><p>In 2008, during the financial crisis, the government budget deficit hit 5.3% of GDP. Following a protracted recession from 2009 to 2013, during which unemployment doubled to 7.4% and household consumption contracted for four consecutive years, economic growth began inching forward in 2014. Since 2010, Prime Minister Mark RUTTE’s government has implemented significant austerity measures to improve public finances and has instituted broad structural reforms in key policy areas, including the labor market, the housing sector, the energy market, and the pension system. In 2017, the government budget returned to a surplus of 0.7% of GDP, with economic growth of 3.2%, and GDP per capita finally surpassed pre-crisis levels. The fiscal policy announced by the new government in the 2018-2021 coalition plans for increases in government consumption and public investment, fueling domestic demand and household consumption and investment. The new government’s policy also plans to increase demand for workers in the public and private sector, forecasting a further decline in the unemployment rate, which hit 4.8% in 2017.</p>"
     },
     "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2020": {
+        "text": "$945.48 billion note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP (purchasing power parity) 2019": {
-        "text": "$986.847 billion (2019 est.)"
+        "text": "$982.22 billion note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP (purchasing power parity) 2018": {
-        "text": "$970.567 billion (2018 est.)"
-      },
-      "Real GDP (purchasing power parity) 2017": {
-        "text": "$948.181 billion (2017 est.)"
+        "text": "$966.02 billion note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2010 dollars"
     },
@@ -661,14 +661,14 @@
       }
     },
     "Real GDP per capita": {
+      "Real GDP per capita 2020": {
+        "text": "$54,200 note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP per capita 2019": {
-        "text": "$56,935 (2019 est.)"
+        "text": "$56,600 note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP per capita 2018": {
-        "text": "$56,325 (2018 est.)"
-      },
-      "Real GDP per capita 2017": {
-        "text": "$55,348 (2017 est.)"
+        "text": "$56,100 note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2010 dollars"
     },
@@ -813,14 +813,14 @@
       }
     },
     "Exports": {
+      "Exports 2020": {
+        "text": "$719.78 billion note: data are in current year dollars (2020 est.)"
+      },
       "Exports 2019": {
-        "text": "$857.574 billion (2019 est.)"
+        "text": "$755.77 billion note: data are in current year dollars (2019 est.)"
       },
       "Exports 2018": {
-        "text": "$835.759 billion (2018 est.)"
-      },
-      "Exports 2017": {
-        "text": "$801.942 billion (2017 est.)"
+        "text": "$773.74 billion note: data are in current year dollars (2018 est.)"
       }
     },
     "Exports - partners": {
@@ -830,14 +830,14 @@
       "text": "refined petroleum, packaged medicines, broadcasting equipment, photography equipment, computers (2019)"
     },
     "Imports": {
+      "Imports 2020": {
+        "text": "$622.66 billion note: data are in current year dollars (2020 est.)"
+      },
       "Imports 2019": {
-        "text": "$755.65 billion (2019 est.)"
+        "text": "$661.18 billion note: data are in current year dollars (2019 est.)"
       },
       "Imports 2018": {
-        "text": "$732.865 billion (2018 est.)"
-      },
-      "Imports 2017": {
-        "text": "$700.657 billion (2017 est.)"
+        "text": "$677.38 billion note: data are in current year dollars (2018 est.)"
       }
     },
     "Imports - partners": {
@@ -1159,7 +1159,7 @@
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
-        "text": "31,694 (Syria), 14,809 (Eritrea), 13,007 (Somalia), 8,423 (Iraq), 5,815 (Afghanistan) (2019)"
+        "text": "22,547 (Syria), 11,961 (Eritrea), 11,642 (Somalia), 7,365 (Iraq), 5,212 (Afghanistan) (2020)"
       },
       "stateless persons": {
         "text": "2,006 (2020)"

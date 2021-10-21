@@ -96,6 +96,9 @@
     "Irrigated land": {
       "text": "3,540 sq km (2012)"
     },
+    "Major watersheds (area sq km)": {
+      "text": "Pacific Ocean drainage: Mekong (805,604 sq km)"
+    },
     "Population distribution": {
       "text": "population concentrated in the southeast, particularly in and around the capital of Phnom Penh; further distribution is linked closely to the Tonle Sap and Mekong Rivers"
     },
@@ -104,9 +107,6 @@
     },
     "Geography - note": {
       "text": "a land of paddies and forests dominated by the Mekong River and Tonle Sap (Southeast Asia's largest freshwater lake)"
-    },
-    "Major watersheds (area sq km)": {
-      "text": "Pacific Ocean drainage: Mekong (805,604 sq km)"
     }
   },
   "People and Society": {
@@ -402,20 +402,6 @@
         "text": "14.88 megatons (2020 est.)"
       }
     },
-    "Total water withdrawal": {
-      "municipal": {
-        "text": "98 million cubic meters (2017 est.)"
-      },
-      "industrial": {
-        "text": "33 million cubic meters (2017 est.)"
-      },
-      "agricultural": {
-        "text": "2.053 billion cubic meters (2017 est.)"
-      }
-    },
-    "Total renewable water resources": {
-      "text": "476.1 billion cubic meters (2017 est.)"
-    },
     "Climate": {
       "text": "tropical; rainy, monsoon season (May to November); dry season (December to April); little seasonal temperature variation"
     },
@@ -439,6 +425,14 @@
         "text": "11.4% (2018 est.)"
       }
     },
+    "Urbanization": {
+      "urban population": {
+        "text": "24.7% of total population (2021)"
+      },
+      "rate of urbanization": {
+        "text": "3.06% annual rate of change (2020-25 est.)"
+      }
+    },
     "Revenue from forest resources": {
       "forest revenues": {
         "text": "0.84% of GDP (2018 est.)"
@@ -447,14 +441,6 @@
     "Revenue from coal": {
       "coal revenues": {
         "text": "0% of GDP (2018 est.)"
-      }
-    },
-    "Urbanization": {
-      "urban population": {
-        "text": "24.7% of total population (2021)"
-      },
-      "rate of urbanization": {
-        "text": "3.06% annual rate of change (2020-25 est.)"
       }
     },
     "Major infectious diseases": {
@@ -475,6 +461,20 @@
     },
     "Major watersheds (area sq km)": {
       "text": "Pacific Ocean drainage: Mekong (805,604 sq km)"
+    },
+    "Total water withdrawal": {
+      "municipal": {
+        "text": "98 million cubic meters (2017 est.)"
+      },
+      "industrial": {
+        "text": "33 million cubic meters (2017 est.)"
+      },
+      "agricultural": {
+        "text": "2.053 billion cubic meters (2017 est.)"
+      }
+    },
+    "Total renewable water resources": {
+      "text": "476.1 billion cubic meters (2017 est.)"
     }
   },
   "Government": {
@@ -656,14 +656,14 @@
       "text": "<p>Cambodia has experienced strong economic growth over the last decade; GDP grew at an average annual rate of over 8% between 2000 and 2010 and about 7% since 2011. The tourism, garment, construction and real estate, and agriculture sectors accounted for the bulk of growth. Around 700,000 people, the majority of whom are women, are employed in the garment and footwear sector. An additional 500,000 Cambodians are employed in the tourism sector, and a further 200,000 people in construction. Tourism has continued to grow rapidly with foreign arrivals exceeding 2 million per year in 2007 and reaching 5.6 million visitors in 2017. Mining also is attracting some investor interest and the government has touted opportunities for mining bauxite, gold, iron and gems.</p> <p> </p> <p>Still, Cambodia remains one of the poorest countries in Asia, and long-term economic development remains a daunting challenge, inhibited by corruption, limited human resources, high income inequality, and poor job prospects. According to the Asian Development Bank (ADB), the percentage of the population living in poverty decreased to 13.5% in 2016. More than 50% of the population is less than 25 years old. The population lacks education and productive skills, particularly in the impoverished countryside, which also lacks basic infrastructure.</p> <p> </p> <p>The World Bank in 2016 formally reclassified Cambodia as a lower middle-income country as a result of continued rapid economic growth over the past several years. Cambodia’s graduation from a low-income country will reduce its eligibility for foreign assistance and will challenge the government to seek new sources of financing. The Cambodian Government has been working with bilateral and multilateral donors, including the Asian Development Bank, the World Bank and IMF, to address the country's many pressing needs; more than 20% of the government budget will come from donor assistance in 2018. A major economic challenge for Cambodia over the next decade will be fashioning an economic environment in which the private sector can create enough jobs to handle Cambodia's demographic imbalance.</p> <p> </p> <p>Textile exports, which accounted for 68% of total exports in 2017, have driven much of Cambodia’s growth over the past several years. The textile sector relies on exports to the United States and European Union, and Cambodia’s dependence on its comparative advantage in textile production is a key vulnerability for the economy, especially because Cambodia has continued to run a current account deficit above 9% of GDP since 2014.</p>"
     },
     "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2020": {
+        "text": "$70.08 billion note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP (purchasing power parity) 2019": {
-        "text": "$72.356 billion (2019 est.)"
+        "text": "$72.36 billion note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP (purchasing power parity) 2018": {
-        "text": "$67.588 billion (2018 est.)"
-      },
-      "Real GDP (purchasing power parity) 2017": {
-        "text": "$62.89 billion (2017 est.)"
+        "text": "$67.59 billion note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2017 dollars"
     },
@@ -679,14 +679,14 @@
       }
     },
     "Real GDP per capita": {
+      "Real GDP per capita 2020": {
+        "text": "$4,200 note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP per capita 2019": {
-        "text": "$4,389 (2019 est.)"
+        "text": "$4,400 note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP per capita 2018": {
-        "text": "$4,159 (2018 est.)"
-      },
-      "Real GDP per capita 2017": {
-        "text": "$3,928 (2017 est.)"
+        "text": "$4,200 note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2017 dollars"
     },
@@ -825,11 +825,14 @@
       }
     },
     "Exports": {
-      "Exports 2017": {
-        "text": "$11.42 billion (2017 est.)"
+      "Exports 2020": {
+        "text": "$19.4 billion note: data are in current year dollars (2020 est.)"
       },
-      "Exports 2016": {
-        "text": "$10.07 billion (2016 est.)"
+      "Exports 2019": {
+        "text": "$21.07 billion note: data are in current year dollars (2019 est.)"
+      },
+      "Exports 2018": {
+        "text": "$18.41 billion note: data are in current year dollars (2018 est.)"
       }
     },
     "Exports - partners": {
@@ -839,11 +842,14 @@
       "text": "clothing, precious metal scraps, trunks/cases, gold, leather footwear (2019)"
     },
     "Imports": {
-      "Imports 2017": {
-        "text": "$14.37 billion (2017 est.)"
+      "Imports 2020": {
+        "text": "$23.12 billion note: data are in current year dollars (2020 est.)"
       },
-      "Imports 2016": {
-        "text": "$12.65 billion (2016 est.)"
+      "Imports 2019": {
+        "text": "$25.52 billion note: data are in current year dollars (2019 est.)"
+      },
+      "Imports 2018": {
+        "text": "$21.86 billion note: data are in current year dollars (2018 est.)"
       }
     },
     "Imports - partners": {
@@ -1116,7 +1122,8 @@
   },
   "Military and Security": {
     "Military and security forces": {
-      "text": "Royal Cambodian Armed Forces: High Command Headquarters, Royal Cambodian Army, Royal Khmer Navy, Royal Cambodian Air Force, Royal Gendarmerie; the National Committee for Maritime Security (performs Coast Guard functions and has representation from military and civilian agencies) (2020)"
+      "text": "Royal Cambodian Armed Forces: High Command Headquarters, Royal Cambodian Army, Royal Khmer Navy, Royal Cambodian Air Force, Royal Gendarmerie; the National Committee for Maritime Security (performs Coast Guard functions and has representation from military and civilian agencies) (2021)",
+      "note": "note - the Cambodian National Police is under the Ministry of Interior"
     },
     "Military expenditures": {
       "Military Expenditures 2020": {

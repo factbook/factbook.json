@@ -384,20 +384,6 @@
         "text": "0.99 megatons (2020 est.)"
       }
     },
-    "Total water withdrawal": {
-      "municipal": {
-        "text": "59.4 million cubic meters (2017 est.)"
-      },
-      "industrial": {
-        "text": "1.721 billion cubic meters (2017 est.)"
-      },
-      "agricultural": {
-        "text": "4.5 million cubic meters (2017 est.)"
-      }
-    },
-    "Total renewable water resources": {
-      "text": "12.806 billion cubic meters (2017 est.)"
-    },
     "Climate": {
       "text": "maritime; wet, moderate winters, cool summers"
     },
@@ -421,6 +407,14 @@
         "text": "25.7% (2018 est.)"
       }
     },
+    "Urbanization": {
+      "urban population": {
+        "text": "69.4% of total population (2021)"
+      },
+      "rate of urbanization": {
+        "text": "-0.03% annual rate of change (2020-25 est.)"
+      }
+    },
     "Revenue from forest resources": {
       "forest revenues": {
         "text": "0.85% of GDP (2018 est.)"
@@ -429,14 +423,6 @@
     "Revenue from coal": {
       "coal revenues": {
         "text": "0% of GDP (2018 est.)"
-      }
-    },
-    "Urbanization": {
-      "urban population": {
-        "text": "69.4% of total population (2021)"
-      },
-      "rate of urbanization": {
-        "text": "-0.03% annual rate of change (2020-25 est.)"
       }
     },
     "Major infectious diseases": {
@@ -457,6 +443,20 @@
       "percent of municipal solid waste recycled": {
         "text": "24.7% (2015 est.)"
       }
+    },
+    "Total water withdrawal": {
+      "municipal": {
+        "text": "59.4 million cubic meters (2017 est.)"
+      },
+      "industrial": {
+        "text": "1.721 billion cubic meters (2017 est.)"
+      },
+      "agricultural": {
+        "text": "4.5 million cubic meters (2017 est.)"
+      }
+    },
+    "Total renewable water resources": {
+      "text": "12.806 billion cubic meters (2017 est.)"
     }
   },
   "Government": {
@@ -646,14 +646,14 @@
       "text": "<p>Estonia, a member of the EU since 2004 and the euro zone since 2011, has a modern market-based economy and one of the higher per capita income levels in Central Europe and the Baltic region, but its economy is highly dependent on trade, leaving it vulnerable to external shocks. Estonia's successive governments have pursued a free market, pro-business economic agenda, and sound fiscal policies that have resulted in balanced budgets and the lowest debt-to-GDP ratio in the EU.</p><p></p><p>The economy benefits from strong electronics and telecommunications sectors and strong trade ties with Finland, Sweden, Germany, and Russia. The economy’s 4.9% GDP growth in 2017 was the fastest in the past six years, leaving the Estonian economy in its best position since the financial crisis 10 years ago. For the first time in many years, labor productivity increased faster than labor costs in 2017. Inflation also rose in 2017 to 3.5% alongside increased global prices for food and energy, which make up a large share of Estonia’s consumption.</p><p></p><p>Estonia is challenged by a shortage of labor, both skilled and unskilled, although the government has amended its immigration law to allow easier hiring of highly qualified foreign workers, and wage growth that outpaces productivity gains. The government is also pursuing efforts to boost productivity growth with a focus on innovations that emphasize technology start-ups and e-commerce.</p>"
     },
     "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2020": {
+        "text": "$47.44 billion note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP (purchasing power parity) 2019": {
-        "text": "$48.987 billion (2019 est.)"
+        "text": "$48.87 billion note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP (purchasing power parity) 2018": {
-        "text": "$46.655 billion (2018 est.)"
-      },
-      "Real GDP (purchasing power parity) 2017": {
-        "text": "$44.708 billion (2017 est.)"
+        "text": "$46.54 billion note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2010 dollars"
     },
@@ -669,14 +669,14 @@
       }
     },
     "Real GDP per capita": {
+      "Real GDP per capita 2020": {
+        "text": "$35,600 note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP per capita 2019": {
-        "text": "$36,927 (2019 est.)"
+        "text": "$36,800 note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP per capita 2018": {
-        "text": "$35,293 (2018 est.)"
-      },
-      "Real GDP per capita 2017": {
-        "text": "$33,937 (2017 est.)"
+        "text": "$35,200 note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2010 dollars"
     },
@@ -821,14 +821,14 @@
       }
     },
     "Exports": {
+      "Exports 2020": {
+        "text": "$21.69 billion note: data are in current year dollars (2020 est.)"
+      },
       "Exports 2019": {
-        "text": "$23.95 billion (2019 est.)"
+        "text": "$22.94 billion note: data are in current year dollars (2019 est.)"
       },
       "Exports 2018": {
-        "text": "$22.546 billion (2018 est.)"
-      },
-      "Exports 2017": {
-        "text": "$21.677 billion (2017 est.)"
+        "text": "$22.69 billion note: data are in current year dollars (2018 est.)"
       }
     },
     "Exports - partners": {
@@ -838,14 +838,14 @@
       "text": "broadcasting equipment, refined petroleum, coal tar oil, cars, prefabricated buildings (2019)"
     },
     "Imports": {
+      "Imports 2020": {
+        "text": "$21.73 billion note: data are in current year dollars (2020 est.)"
+      },
       "Imports 2019": {
-        "text": "$23.323 billion (2019 est.)"
+        "text": "$21.68 billion note: data are in current year dollars (2019 est.)"
       },
       "Imports 2018": {
-        "text": "$22.485 billion (2018 est.)"
-      },
-      "Imports 2017": {
-        "text": "$21.273 billion (2017 est.)"
+        "text": "$21.89 billion note: data are in current year dollars (2018 est.)"
       }
     },
     "Imports - partners": {

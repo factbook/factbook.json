@@ -361,20 +361,6 @@
         "text": "13.67 megatons (2020 est.)"
       }
     },
-    "Total water withdrawal": {
-      "municipal": {
-        "text": "631 million cubic meters (2017 est.)"
-      },
-      "industrial": {
-        "text": "51 million cubic meters (2017 est.)"
-      },
-      "agricultural": {
-        "text": "179 million cubic meters (2017 est.)"
-      }
-    },
-    "Total renewable water resources": {
-      "text": "52 billion cubic meters (2017 est.)"
-    },
     "Climate": {
       "text": "temperate maritime; modified by North Atlantic Current; mild winters, cool summers; consistently humid; overcast about half the time"
     },
@@ -398,6 +384,14 @@
         "text": "23% (2018 est.)"
       }
     },
+    "Urbanization": {
+      "urban population": {
+        "text": "63.9% of total population (2021)"
+      },
+      "rate of urbanization": {
+        "text": "1.15% annual rate of change (2020-25 est.)"
+      }
+    },
     "Revenue from forest resources": {
       "forest revenues": {
         "text": "0.01% of GDP (2018 est.)"
@@ -406,14 +400,6 @@
     "Revenue from coal": {
       "coal revenues": {
         "text": "0% of GDP (2018 est.)"
-      }
-    },
-    "Urbanization": {
-      "urban population": {
-        "text": "63.9% of total population (2021)"
-      },
-      "rate of urbanization": {
-        "text": "1.15% annual rate of change (2020-25 est.)"
       }
     },
     "Waste and recycling": {
@@ -426,6 +412,20 @@
       "percent of municipal solid waste recycled": {
         "text": "33% (2012 est.)"
       }
+    },
+    "Total water withdrawal": {
+      "municipal": {
+        "text": "631 million cubic meters (2017 est.)"
+      },
+      "industrial": {
+        "text": "51 million cubic meters (2017 est.)"
+      },
+      "agricultural": {
+        "text": "179 million cubic meters (2017 est.)"
+      }
+    },
+    "Total renewable water resources": {
+      "text": "52 billion cubic meters (2017 est.)"
     }
   },
   "Government": {
@@ -613,14 +613,14 @@
       "text": "<p>Ireland is a small, modern, trade-dependent economy. It was among the initial group of 12 EU nations that began circulating the euro on 1 January 2002. GDP growth averaged 6% in 1995-2007, but economic activity dropped sharply during the world financial crisis and the subsequent collapse of its domestic property market and construction industry during 2008-11. Faced with sharply reduced revenues and a burgeoning budget deficit from efforts to stabilize its fragile banking sector, the Irish Government introduced the first in a series of draconian budgets in 2009. These measures were not sufficient to stabilize Ireland’s public finances. In 2010, the budget deficit reached 32.4% of GDP - the world's largest deficit, as a percentage of GDP. In late 2010, the former COWEN government agreed to a $92 billion loan package from the EU and IMF to help Dublin recapitalize Ireland’s banking sector and avoid defaulting on its sovereign debt. In March 2011, the KENNY government intensified austerity measures to meet the deficit targets under Ireland's EU-IMF bailout program.</p><p></p><p>In late 2013, Ireland formally exited its EU-IMF bailout program, benefiting from its strict adherence to deficit-reduction targets and success in refinancing a large amount of banking-related debt. In 2014, the economy rapidly picked up. In late 2014, the government introduced a fiscally neutral budget, marking the end of the austerity program. Continued growth of tax receipts has allowed the government to lower some taxes and increase public spending while keeping to its deficit-reduction targets. In 2015, GDP growth exceeded 26%. The magnitude of the increase reflected one-off statistical revisions, multinational corporate restructurings in intellectual property, and the aircraft leasing sector, rather than real gains in the domestic economy, which was still growing. Growth moderated to around 4.1% in 2017, but the recovering economy assisted lowering the deficit to 0.6% of GDP.</p><p></p><p>In the wake of the collapse of the construction sector and the downturn in consumer spending and business investment during the 2008-11 economic crisis, the export sector, dominated by foreign multinationals, has become an even more important component of Ireland's economy. Ireland’s low corporation tax of 12.5% and a talented pool of high-tech laborers have been some of the key factors in encouraging business investment. Loose tax residency requirements made Ireland a common destination for international firms seeking to pay less tax or, in the case of U.S. multinationals, defer taxation owed to the United States. In 2014, amid growing international pressure, the Irish government announced it would phase in more stringent tax laws, effectively closing a commonly used loophole. The Irish economy continued to grow in 2017 and is forecast to do so through 2019, supported by a strong export sector, robust job growth, and low inflation, to the point that the Government must now address concerns about overheating and potential loss of competitiveness. The greatest risks to the economy are the UK’s scheduled departure from the European Union (\"Brexit\") in March 2019, possible changes to international taxation policies that could affect Ireland’s revenues, and global trade pressures.</p>"
     },
     "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2020": {
+        "text": "$447.97 billion note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP (purchasing power parity) 2019": {
-        "text": "$428.825 billion (2019 est.)"
+        "text": "$433.17 billion note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP (purchasing power parity) 2018": {
-        "text": "$406.277 billion (2018 est.)"
-      },
-      "Real GDP (purchasing power parity) 2017": {
-        "text": "$375.592 billion (2017 est.)"
+        "text": "$410.33 billion note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2010 dollars"
     },
@@ -636,14 +636,14 @@
       }
     },
     "Real GDP per capita": {
+      "Real GDP per capita 2020": {
+        "text": "$89,700 note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP per capita 2019": {
-        "text": "$86,781 (2019 est.)"
+        "text": "$87,800 note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP per capita 2018": {
-        "text": "$83,471 (2018 est.)"
-      },
-      "Real GDP per capita 2017": {
-        "text": "$78,128 (2017 est.)"
+        "text": "$84,300 note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2010 dollars"
     },
@@ -789,10 +789,10 @@
     },
     "Exports": {
       "Exports 2019": {
-        "text": "$541.789 billion (2019 est.)"
+        "text": "$502.31 billion note: data are in current year dollars (2019 est.)"
       },
       "Exports 2018": {
-        "text": "$489.89 billion (2018 est.)"
+        "text": "$471.6 billion note: data are in current year dollars (2018 est.)"
       },
       "Exports 2017": {
         "text": "$440.693 billion (2017 est.)"
@@ -806,10 +806,10 @@
     },
     "Imports": {
       "Imports 2019": {
-        "text": "$489.957 billion (2019 est.)"
+        "text": "$452.98 billion note: data are in current year dollars (2019 est.)"
       },
       "Imports 2018": {
-        "text": "$371.221 billion (2018 est.)"
+        "text": "$361.12 billion note: data are in current year dollars (2018 est.)"
       },
       "Imports 2017": {
         "text": "$359.725 billion (2017 est.)"

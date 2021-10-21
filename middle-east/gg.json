@@ -381,20 +381,6 @@
         "text": "6.05 megatons (2020 est.)"
       }
     },
-    "Total water withdrawal": {
-      "municipal": {
-        "text": "359,974,627.7 cubic meters (2017 est.)"
-      },
-      "industrial": {
-        "text": "402,206,287.9 cubic meters (2017 est.)"
-      },
-      "agricultural": {
-        "text": "1,060,819,084.4 cubic meters (2017 est.)"
-      }
-    },
-    "Total renewable water resources": {
-      "text": "63.33 billion cubic meters (2017 est.)"
-    },
     "Climate": {
       "text": "warm and pleasant; Mediterranean-like on Black Sea coast"
     },
@@ -418,6 +404,15 @@
         "text": "25.1% (2018 est.)"
       }
     },
+    "Urbanization": {
+      "urban population": {
+        "text": "59.9% of total population (2021)"
+      },
+      "rate of urbanization": {
+        "text": "0.35% annual rate of change (2020-25 est.)"
+      },
+      "note": "<strong>note:</strong> data include Abkhazia and South Ossetia"
+    },
     "Revenue from forest resources": {
       "forest revenues": {
         "text": "0.07% of GDP (2018 est.)"
@@ -428,19 +423,24 @@
         "text": "0.01% of GDP (2018 est.)"
       }
     },
-    "Urbanization": {
-      "urban population": {
-        "text": "59.9% of total population (2021)"
-      },
-      "rate of urbanization": {
-        "text": "0.35% annual rate of change (2020-25 est.)"
-      },
-      "note": "<strong>note:</strong> data include Abkhazia and South Ossetia"
-    },
     "Waste and recycling": {
       "municipal solid waste generated annually": {
         "text": "800,000 tons (2015 est.)"
       }
+    },
+    "Total water withdrawal": {
+      "municipal": {
+        "text": "359,974,627.7 cubic meters (2017 est.)"
+      },
+      "industrial": {
+        "text": "402,206,287.9 cubic meters (2017 est.)"
+      },
+      "agricultural": {
+        "text": "1,060,819,084.4 cubic meters (2017 est.)"
+      }
+    },
+    "Total renewable water resources": {
+      "text": "63.33 billion cubic meters (2017 est.)"
     }
   },
   "Government": {
@@ -628,14 +628,14 @@
       "text": "<p>Georgia's main economic activities include cultivation of agricultural products such as grapes, citrus fruits, and hazelnuts; mining of manganese, copper, and gold; and producing alcoholic and nonalcoholic beverages, metals, machinery, and chemicals in small-scale industries. The country imports nearly all of its needed supplies of natural gas and oil products. It has sizeable hydropower capacity that now provides most of its electricity needs.</p><p></p><p>Georgia has overcome the chronic energy shortages and gas supply interruptions of the past by renovating hydropower plants and by increasingly relying on natural gas imports from Azerbaijan instead of from Russia. Construction of the Baku-Tbilisi-Ceyhan oil pipeline, the South Caucasus gas pipeline, and the Baku-Tbilisi-Kars railroad are part of a strategy to capitalize on Georgia's strategic location between Europe and Asia and develop its role as a transit hub for gas, oil, and other goods.</p><p></p><p>Georgia's economy sustained GDP growth of more than 10% in 2006-07, based on strong inflows of foreign investment, remittances, and robust government spending. However, GDP growth slowed following the August 2008 conflict with Russia, and sank to negative 4% in 2009 as foreign direct investment and workers' remittances declined in the wake of the global financial crisis. The economy rebounded in the period 2010-17, but FDI inflows, the engine of Georgian economic growth prior to the 2008 conflict, have not recovered fully. Unemployment remains persistently high.</p><p></p><p>The country is pinning its hopes for faster growth on a continued effort to build up infrastructure, enhance support for entrepreneurship, simplify regulations, and improve professional education, in order to attract foreign investment and boost employment, with a focus on transportation projects, tourism, hydropower, and agriculture. Georgia had historically suffered from a chronic failure to collect tax revenues; however, since 2004 the government has simplified the tax code, increased tax enforcement, and cracked down on petty corruption, leading to higher revenues. The government has received high marks from the World Bank for improvements in business transparency. Since 2012, the Georgian Dream-led government has continued the previous administration's low-regulation, low-tax, free market policies, while modestly increasing social spending and amending the labor code to comply with International Labor Standards. In mid-2014, Georgia concluded an association agreement with the EU, paving the way to free trade and visa-free travel. In 2017, Georgia signed Free Trade Agreement (FTA) with China as part of Tbilisi’s efforts to diversify its economic ties. Georgia is seeking to develop its Black Sea ports to further facilitate East-West trade.</p>"
     },
     "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2020": {
+        "text": "$52.33 billion note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP (purchasing power parity) 2019": {
-        "text": "$55.776 billion (2019 est.)"
+        "text": "$55.76 billion note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP (purchasing power parity) 2018": {
-        "text": "$53.129 billion (2018 est.)"
-      },
-      "Real GDP (purchasing power parity) 2017": {
-        "text": "$50.662 billion (2017 est.)"
+        "text": "$53.12 billion note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2017 dollars"
     },
@@ -651,14 +651,14 @@
       }
     },
     "Real GDP per capita": {
+      "Real GDP per capita 2020": {
+        "text": "$14,100 note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP per capita 2019": {
-        "text": "$14,992 (2019 est.)"
+        "text": "$15,000 note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP per capita 2018": {
-        "text": "$14,257 (2018 est.)"
-      },
-      "Real GDP per capita 2017": {
-        "text": "$13,590 (2017 est.)"
+        "text": "$14,300 note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2017 dollars"
     },
@@ -800,11 +800,14 @@
       }
     },
     "Exports": {
-      "Exports 2017": {
-        "text": "$3.566 billion (2017 est.)"
+      "Exports 2020": {
+        "text": "$5.94 billion note: data are in current year dollars (2020 est.)"
       },
-      "Exports 2016": {
-        "text": "$2.831 billion (2016 est.)"
+      "Exports 2019": {
+        "text": "$9.54 billion note: data are in current year dollars (2019 est.)"
+      },
+      "Exports 2018": {
+        "text": "$8.9 billion note: data are in current year dollars (2018 est.)"
       }
     },
     "Exports - partners": {
@@ -814,11 +817,14 @@
       "text": "copper, cars, iron alloys, wine, packaged medicines (2019)"
     },
     "Imports": {
-      "Imports 2017": {
-        "text": "$7.415 billion (2017 est.)"
+      "Imports 2020": {
+        "text": "$8.94 billion note: data are in current year dollars (2020 est.)"
       },
-      "Imports 2016": {
-        "text": "$6.747 billion (2016 est.)"
+      "Imports 2019": {
+        "text": "$11.11 billion note: data are in current year dollars (2019 est.)"
+      },
+      "Imports 2018": {
+        "text": "$10.77 billion note: data are in current year dollars (2018 est.)"
       }
     },
     "Imports - partners": {

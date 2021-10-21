@@ -96,6 +96,9 @@
     "Irrigated land": {
       "text": "230 sq km (2012)"
     },
+    "Major watersheds (area sq km)": {
+      "text": "Atlantic Ocean drainage: Seine 78,919 sq km), Rhine-Maas (198,735 sq km)"
+    },
     "Population distribution": {
       "text": "most of the population concentrated in the northern two-thirds of the country; the southeast is more thinly populated; considered to have one of the highest population densities in the world; approximately 97% live in urban areas"
     },
@@ -370,20 +373,6 @@
         "text": "7.78 megatons (2020 est.)"
       }
     },
-    "Total water withdrawal": {
-      "municipal": {
-        "text": "739 million cubic meters (2017 est.)"
-      },
-      "industrial": {
-        "text": "3.21 billion cubic meters (2017 est.)"
-      },
-      "agricultural": {
-        "text": "45 million cubic meters (2017 est.)"
-      }
-    },
-    "Total renewable water resources": {
-      "text": "18.3 billion cubic meters (2017 est.)"
-    },
     "Climate": {
       "text": "temperate; mild winters, cool summers; rainy, humid, cloudy"
     },
@@ -407,6 +396,14 @@
         "text": "33.5% (2018 est.)"
       }
     },
+    "Urbanization": {
+      "urban population": {
+        "text": "98.1% of total population (2021)"
+      },
+      "rate of urbanization": {
+        "text": "0.38% annual rate of change (2020-25 est.)"
+      }
+    },
     "Revenue from forest resources": {
       "forest revenues": {
         "text": "0.02% of GDP (2018 est.)"
@@ -415,14 +412,6 @@
     "Revenue from coal": {
       "coal revenues": {
         "text": "0% of GDP (2018 est.)"
-      }
-    },
-    "Urbanization": {
-      "urban population": {
-        "text": "98.1% of total population (2021)"
-      },
-      "rate of urbanization": {
-        "text": "0.38% annual rate of change (2020-25 est.)"
       }
     },
     "Waste and recycling": {
@@ -435,6 +424,23 @@
       "percent of municipal solid waste recycled": {
         "text": "34.3% (2015 est.)"
       }
+    },
+    "Major watersheds (area sq km)": {
+      "text": "Atlantic Ocean drainage: Seine 78,919 sq km), Rhine-Maas (198,735 sq km)"
+    },
+    "Total water withdrawal": {
+      "municipal": {
+        "text": "739 million cubic meters (2017 est.)"
+      },
+      "industrial": {
+        "text": "3.21 billion cubic meters (2017 est.)"
+      },
+      "agricultural": {
+        "text": "45 million cubic meters (2017 est.)"
+      }
+    },
+    "Total renewable water resources": {
+      "text": "18.3 billion cubic meters (2017 est.)"
     }
   },
   "Government": {
@@ -532,13 +538,13 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral Parliament consists of:<br>Senate or Senaat (in Dutch), Senat (in French) (60 seats; 50 members indirectly elected by the community and regional parliaments based on their election results, and 10 elected by the 50 other senators; members serve 5-year terms)<br> Chamber of Representatives or Kamer van Volksvertegenwoordigers (in Dutch), Chambre des Representants (in French) (150 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)"
+        "text": "bicameral Parliament consists of:<br>Senate or Senaat (in Dutch), Senat (in French) (60 seats; 50 members indirectly elected by the community and regional parliaments based on their election results, and 10 elected by the 50 other senators; members serve 5-year terms)<br>Chamber of Representatives or Kamer van Volksvertegenwoordigers (in Dutch), Chambre des Representants (in French) (150 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)"
       },
       "elections": {
         "text": "<p>Senate - last held 26 May 2019 (next to be held in 2024)</p> Chamber of Representatives - last held on 26 May 2019 (next to be held in 2024); note - elections coincided with the EU elections"
       },
       "election results": {
-        "text": "Senate - percent of vote by party - NA; seats by party - NA; composition men 32, women 28, percent of women 46.7%<br><br>Chamber of Representatives - percent of vote by party - N-VA 16.0%, VB 11.9%, PS 9.5%, CD&amp;V 8.9%, PVDA+/PTB 8.62%, Open VLD 8.5%, MR 7.6%, SP.A 6.7%, Ecolo 6.1%, Groen 6.1%, CDH 3.7%, Defi 2.2%, PP 1.1%, other 20.1%; seats by party - N-VA 25, VB 18, PS 20, CD&amp;V 12, PVDA+PTB 12, Open VLD 12, MR 14, SP.A 9, Ecolo 13, Groen 8, CDH 5, Defi 2; composition - men 86, women 64, percent of women 42.7%"
+        "text": "<br>Senate - percent of vote by party - NA; seats by party - NA; composition men 33, women 27, percent of women 45%<br>Chamber of Representatives - percent of vote by party - N-VA 16.0%, VB 11.9%, PS 9.5%, CD&amp;V 8.9%, PVDA+/PTB 8.62%, Open VLD 8.5%, MR 7.6%, SP.A 6.7%, Ecolo 6.1%, Groen 6.1%, CDH 3.7%, Defi 2.2%, PP 1.1%, other 20.1%; seats by party - N-VA 25, VB 18, PS 20, CD&amp;V 12, PVDA+PTB 12, Open VLD 12, MR 14, SP.A 9, Ecolo 13, Groen 8, CDH 5, Defi 2; composition - men 86, women 64, percent of women 42.7%; note - overall Parliament percent of women 43.8%"
       },
       "note": "<strong>note:</strong> the 1993 constitutional revision that further devolved Belgium into a federal state created three levels of government (federal, regional, and linguistic community) with a complex division of responsibilities; this reality leaves six governments, each with its own legislative assembly; changes above occurred since the sixth state reform"
     },
@@ -620,14 +626,14 @@
       "text": "<p>Belgium’s central geographic location and highly developed transport network have helped develop a well-diversified economy, with a broad mix of transport, services, manufacturing, and high tech. Service and high-tech industries are concentrated in the northern Flanders region while the southern region of Wallonia is home to industries like coal and steel manufacturing. Belgium is completely reliant on foreign sources of fossil fuels, and the planned closure of its seven nuclear plants by 2025 should increase its dependence on foreign energy. Its role as a regional logistical hub makes its economy vulnerable to shifts in foreign demand, particularly with EU trading partners. Roughly three-quarters of Belgium's trade is with other EU countries, and the port of Zeebrugge conducts almost half its trade with the United Kingdom alone, leaving Belgium’s economy vulnerable to the outcome of negotiations on the UK’s exit from the EU.</p><p></p><p>Belgium’s GDP grew by 1.7% in 2017 and the budget deficit was 1.5% of GDP. Unemployment stood at 7.3%, however the unemployment rate is lower in Flanders than Wallonia, 4.4% compared to 9.4%, because of industrial differences between the regions. The economy largely recovered from the March 2016 terrorist attacks that mainly impacted the Brussels region tourist and hospitality industry. Prime Minister Charles MICHEL's center-right government has pledged to further reduce the deficit in response to EU pressure to decrease Belgium's high public debt of about 104% of GDP, but such efforts would also dampen economic growth. In addition to restrained public spending, low wage growth and higher inflation promise to curtail a more robust recovery in private consumption.</p><p></p><p>The government has pledged to pursue a reform program to improve Belgium’s competitiveness, including changes to labor market rules and welfare benefits. These changes have generally made Belgian wages more competitive regionally, but have raised tensions with trade unions, which have called for extended strikes. In 2017, Belgium approved a tax reform plan to ease corporate rates from 33% to 29% by 2018 and down to 25% by 2020. The tax plan also included benefits for innovation and SMEs, intended to spur competitiveness and private investment.</p>"
     },
     "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2020": {
+        "text": "$557.11 billion note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP (purchasing power parity) 2019": {
-        "text": "$596.414 billion (2019 est.)"
+        "text": "$594.47 billion note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP (purchasing power parity) 2018": {
-        "text": "$586.192 billion (2018 est.)"
-      },
-      "Real GDP (purchasing power parity) 2017": {
-        "text": "$575.757 billion (2017 est.)"
+        "text": "$584.05 billion note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2010 dollars"
     },
@@ -643,14 +649,14 @@
       }
     },
     "Real GDP per capita": {
+      "Real GDP per capita 2020": {
+        "text": "$48,200 note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP per capita 2019": {
-        "text": "$51,934 (2019 est.)"
+        "text": "$51,700 note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP per capita 2018": {
-        "text": "$51,299 (2018 est.)"
-      },
-      "Real GDP per capita 2017": {
-        "text": "$50,615 (2017 est.)"
+        "text": "$51,100 note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2010 dollars"
     },
@@ -795,14 +801,14 @@
       }
     },
     "Exports": {
+      "Exports 2020": {
+        "text": "$414.79 billion note: data are in current year dollars (2020 est.)"
+      },
       "Exports 2019": {
-        "text": "$474.278 billion (2019 est.)"
+        "text": "$436.3 billion note: data are in current year dollars (2019 est.)"
       },
       "Exports 2018": {
-        "text": "$469.48 billion (2018 est.)"
-      },
-      "Exports 2017": {
-        "text": "$466.732 billion (2017 est.)"
+        "text": "$451.25 billion note: data are in current year dollars (2018 est.)"
       }
     },
     "Exports - partners": {
@@ -812,14 +818,14 @@
       "text": "cars and vehicle parts, refined petroleum, packaged medicines, medical cultures/vaccines, diamonds, natural gas (2019)"
     },
     "Imports": {
+      "Imports 2020": {
+        "text": "$412.85 billion note: data are in current year dollars (2020 est.)"
+      },
       "Imports 2019": {
-        "text": "$473.129 billion (2019 est.)"
+        "text": "$433.04 billion note: data are in current year dollars (2019 est.)"
       },
       "Imports 2018": {
-        "text": "$469.546 billion (2018 est.)"
-      },
-      "Imports 2017": {
-        "text": "$463.706 billion (2017 est.)"
+        "text": "$452.53 billion note: data are in current year dollars (2018 est.)"
       }
     },
     "Imports - partners": {
@@ -957,7 +963,7 @@
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "<p>Belgium has a highly developed, technologically advanced telecom system; LTE is nearly universal; ongoing investment in 5G with services to dozens of cities and towns; competition between the DSL and cable platforms with investment in fiber networks; 5G; operators accelerating fiber roll-out program; Brussels Airport collaborating with operator to deploy 5G and IoT solutions; international connections through satellite and submarine cables; importer of broadcast equipment from EU neighbors (2021)</p> (2020)"
+        "text": "Belgium has a highly developed, technologically advanced telecom system; LTE is nearly universal; ongoing investment in 5G with services to dozens of cities and towns; competition between the DSL and cable platforms with investment in fiber networks; 5G; operators accelerating fiber roll-out program; Brussels Airport collaborating with operator to deploy 5G and IoT solutions; international connections through satellite and submarine cables; importer of broadcast equipment from EU neighbors (2021)"
       },
       "domestic": {
         "text": "34 per 100 fixed-line, 100 per 100 mobile-cellular; nationwide mobile-cellular telephone system; extensive cable network; limited microwave radio relay network (2019)"
@@ -1139,7 +1145,7 @@
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
-        "text": "16,604 (Syria), 5,602 (Iraq), 5,070 (Afghanistan) (2019)"
+        "text": "16,693 (Syria), 5,515 (Iraq) (2020)"
       },
       "stateless persons": {
         "text": "1,264 (2020)"

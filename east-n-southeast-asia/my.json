@@ -395,20 +395,6 @@
         "text": "51.51 megatons (2020 est.)"
       }
     },
-    "Total water withdrawal": {
-      "municipal": {
-        "text": "1.342 billion cubic meters (2017 est.)"
-      },
-      "industrial": {
-        "text": "1.641 billion cubic meters (2017 est.)"
-      },
-      "agricultural": {
-        "text": "2.505 billion cubic meters (2017 est.)"
-      }
-    },
-    "Total renewable water resources": {
-      "text": "580 billion cubic meters (2017 est.)"
-    },
     "Climate": {
       "text": "tropical; annual southwest (April to October) and northeast (October to February) monsoons"
     },
@@ -432,6 +418,14 @@
         "text": "14.8% (2018 est.)"
       }
     },
+    "Urbanization": {
+      "urban population": {
+        "text": "77.7% of total population (2021)"
+      },
+      "rate of urbanization": {
+        "text": "1.87% annual rate of change (2020-25 est.)"
+      }
+    },
     "Revenue from forest resources": {
       "forest revenues": {
         "text": "1.57% of GDP (2018 est.)"
@@ -440,14 +434,6 @@
     "Revenue from coal": {
       "coal revenues": {
         "text": "0.02% of GDP (2018 est.)"
-      }
-    },
-    "Urbanization": {
-      "urban population": {
-        "text": "77.7% of total population (2021)"
-      },
-      "rate of urbanization": {
-        "text": "1.87% annual rate of change (2020-25 est.)"
       }
     },
     "Major infectious diseases": {
@@ -474,6 +460,20 @@
       "percent of municipal solid waste recycled": {
         "text": "17.5% (2016 est.)"
       }
+    },
+    "Total water withdrawal": {
+      "municipal": {
+        "text": "1.342 billion cubic meters (2017 est.)"
+      },
+      "industrial": {
+        "text": "1.641 billion cubic meters (2017 est.)"
+      },
+      "agricultural": {
+        "text": "2.505 billion cubic meters (2017 est.)"
+      }
+    },
+    "Total renewable water resources": {
+      "text": "580 billion cubic meters (2017 est.)"
     }
   },
   "Government": {
@@ -660,14 +660,14 @@
       "text": "<p>Malaysia, an upper middle-income country, has transformed itself since the 1970s from a producer of raw materials into a multi-sector economy. Under current Prime Minister NAJIB, Malaysia is attempting to achieve high-income status by 2020 and to move further up the value-added production chain by attracting investments in high technology, knowledge-based industries and services. NAJIB's Economic Transformation Program is a series of projects and policy measures intended to accelerate the country's economic growth. The government has also taken steps to liberalize some services sub-sectors. Malaysia is vulnerable to a fall in world commodity prices or a general slowdown in global economic activity.</p><p></p><p>The NAJIB administration is continuing efforts to boost domestic demand and reduce the economy's dependence on exports. Domestic demand continues to anchor economic growth, supported mainly by private consumption, which accounts for 53% of GDP. Nevertheless, exports - particularly of electronics, oil and gas, and palm oil - remain a significant driver of the economy. In 2015, gross exports of goods and services were equivalent to 73% of GDP. The oil and gas sector supplied about 22% of government revenue in 2015, down significantly from prior years amid a decline in commodity prices and diversification of government revenues. Malaysia has embarked on a fiscal reform program aimed at achieving a balanced budget by 2020, including rationalization of subsidies and the 2015 introduction of a 6% value added tax. Sustained low commodity prices throughout the period not only strained government finances, but also shrunk Malaysia’s current account surplus and weighed heavily on the Malaysian ringgit, which was among the region’s worst performing currencies during 2013-17. The ringgit hit new lows following the US presidential election amid a broader selloff of emerging market assets.</p><p></p><p>Bank Negara Malaysia (the central bank) maintains adequate foreign exchange reserves; a well-developed regulatory regime has limited Malaysia's exposure to riskier financial instruments, although it remains vulnerable to volatile global capital flows. In order to increase Malaysia’s competitiveness, Prime Minister NAJIB raised possible revisions to the special economic and social preferences accorded to ethnic Malays under the New Economic Policy of 1970, but retreated in 2013 after he encountered significant opposition from Malay nationalists and other vested interests. In September 2013 NAJIB launched the new Bumiputra Economic Empowerment Program, policies that favor and advance the economic condition of ethnic Malays.</p><p></p><p>Malaysia signed the 12-nation Trans-Pacific Partnership (TPP) free trade agreement in February 2016, although the future of the TPP remains unclear following the US withdrawal from the agreement. Along with nine other ASEAN members, Malaysia established the ASEAN Economic Community in 2015, which aims to advance regional economic integration.</p>"
     },
     "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2020": {
+        "text": "$855.6 billion note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP (purchasing power parity) 2019": {
-        "text": "$906.239 billion (2019 est.)"
+        "text": "$906.24 billion note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP (purchasing power parity) 2018": {
-        "text": "$868.853 billion (2018 est.)"
-      },
-      "Real GDP (purchasing power parity) 2017": {
-        "text": "$829.296 billion (2017 est.)"
+        "text": "$868.85 billion note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2010 dollars"
     },
@@ -683,14 +683,14 @@
       }
     },
     "Real GDP per capita": {
+      "Real GDP per capita 2020": {
+        "text": "$26,400 note: data are in 2017 dollars (2020 est.)"
+      },
       "Real GDP per capita 2019": {
-        "text": "$28,364 (2019 est.)"
+        "text": "$28,400 note: data are in 2017 dollars (2019 est.)"
       },
       "Real GDP per capita 2018": {
-        "text": "$27,558 (2018 est.)"
-      },
-      "Real GDP per capita 2017": {
-        "text": "$26,661 (2017 est.)"
+        "text": "$27,600 note: data are in 2017 dollars (2018 est.)"
       },
       "note": "<strong>note:</strong> data are in 2010 dollars"
     },
@@ -836,14 +836,14 @@
       }
     },
     "Exports": {
+      "Exports 2020": {
+        "text": "$207.37 billion note: data are in current year dollars (2020 est.)"
+      },
       "Exports 2019": {
-        "text": "$265.499 billion (2019 est.)"
+        "text": "$237.83 billion note: data are in current year dollars (2019 est.)"
       },
       "Exports 2018": {
-        "text": "$268.915 billion (2018 est.)"
-      },
-      "Exports 2017": {
-        "text": "$263.815 billion (2017 est.)"
+        "text": "$245.89 billion note: data are in current year dollars (2018 est.)"
       }
     },
     "Exports - partners": {
@@ -853,14 +853,14 @@
       "text": "integrated circuits, refined petroleum, natural gas, semiconductors, palm oil (2019)"
     },
     "Imports": {
+      "Imports 2020": {
+        "text": "$185.59 billion note: data are in current year dollars (2020 est.)"
+      },
       "Imports 2019": {
-        "text": "$233.719 billion (2019 est.)"
+        "text": "$210.68 billion note: data are in current year dollars (2019 est.)"
       },
       "Imports 2018": {
-        "text": "$239.643 billion (2018 est.)"
-      },
-      "Imports 2017": {
-        "text": "$236.129 billion (2017 est.)"
+        "text": "$221.83 billion note: data are in current year dollars (2018 est.)"
       }
     },
     "Imports - partners": {
@@ -1189,7 +1189,7 @@
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
-        "text": "119,230 (Burma) (2019)"
+        "text": "119,579 (Burma) (2020)"
       },
       "stateless persons": {
         "text": "111,298 (2020); note - Malaysia's stateless population consists of Rohingya refugees from Burma, ethnic Indians, and the children of Filipino and Indonesian illegal migrants; Burma stripped the Rohingya of their nationality in 1982; Filipino and Indonesian children who have not been registered for birth certificates by their parents or who received birth certificates stamped \"foreigner\" are not eligible to attend government schools; these children are vulnerable to statelessness should they not be able to apply to their parents' country of origin for passports"
