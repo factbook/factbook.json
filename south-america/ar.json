@@ -96,12 +96,6 @@
     "Irrigated land": {
       "text": "23,600 sq km (2012)"
     },
-    "Major watersheds (area sq km)": {
-      "text": "Atlantic Ocean drainage: Paran&aacute; (2,582,704 sq km)"
-    },
-    "Major aquifers": {
-      "text": "Guarani Aquifer System"
-    },
     "Major lakes (area sq km)": {
       "Fresh water lake(s)": {
         "text": "Lago Buenos Aires (shared with Chile) - 2,240 sq km; Lago Argentino - 1,410 sq km; Lago Viedma - 1,090 sq km; Lago San Martin (shared with Chile) - 1,010 sq km; Lago Colhue Huapi - 800 sq km; Lago Fagnano (shared with Chile) - 590 sq km; Lago Nahuel Huapi - 550 sq km"
@@ -111,7 +105,13 @@
       }
     },
     "Major rivers (by length in km)": {
-      "text": "Rio de la Plata/Parana (shared with Brazil, Paraguay, Uruguay, and Bolivia) - 4,880 km; Paraguay (shared with Paraguay and Brazil) - 2,549 km; Uruguay (shared with Brazil and Uruguay) - 1,610 km"
+      "text": "Rio de la Plata/Parana river mouth (shared with Brazil [s], Paraguay, and Uruguay) - 4,880 km; Paraguay (shared with Brazil [s], and Paraguay [m]) - 2,549 km; Uruguay (shared with Brazil [s] and Uruguay [m]) - 1,610 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth"
+    },
+    "Major watersheds (area sq km)": {
+      "text": "Atlantic Ocean drainage: Paran&aacute; (2,582,704 sq km)"
+    },
+    "Major aquifers": {
+      "text": "Guarani Aquifer System"
     },
     "Population distribution": {
       "text": "one-third of the population lives in Buenos Aires; pockets of agglomeration occur throughout the northern and central parts of the country; Patagonia to the south remains sparsely populated"
@@ -457,7 +457,7 @@
       }
     },
     "Major rivers (by length in km)": {
-      "text": "Rio de la Plata/Parana (shared with Brazil, Paraguay, Uruguay, and Bolivia) - 4,880 km; Paraguay (shared with Paraguay and Brazil) - 2,549 km; Uruguay (shared with Brazil and Uruguay) - 1,610 km"
+      "text": "Rio de la Plata/Parana river mouth (shared with Brazil [s], Paraguay, and Uruguay) - 4,880 km; Paraguay (shared with Brazil [s], and Paraguay [m]) - 2,549 km; Uruguay (shared with Brazil [s] and Uruguay [m]) - 1,610 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth"
     },
     "Major watersheds (area sq km)": {
       "text": "Atlantic Ocean drainage: Paran&aacute; (2,582,704 sq km)"
@@ -1203,7 +1203,7 @@
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
-        "text": "174,333 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)"
+        "text": "173,248 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)"
       }
     },
     "Illicit drugs": {
