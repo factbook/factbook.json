@@ -85,9 +85,6 @@
     "Irrigated land": {
       "text": "740 sq km (2012)"
     },
-    "Major watersheds (area sq km)": {
-      "text": "Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)"
-    },
     "Major lakes (area sq km)": {
       "Fresh water lake(s)": {
         "text": "Lake Malawi (shared with Mozambique and Tanzania) - 22,490"
@@ -97,7 +94,10 @@
       }
     },
     "Major rivers (by length in km)": {
-      "text": "Zambezi (shared with Angola, Zimbabwe, Mozambique, Zambia, Tanzania, and Namibia) - 2,740 km;&nbsp;"
+      "text": "Zambezi (shared with Zambia [s], Angola, Zimbabwe, Namibia, Tanzania, and Mozambique [m]) - 2,740 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth"
+    },
+    "Major watersheds (area sq km)": {
+      "text": "Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)"
     },
     "Population distribution": {
       "text": "population density is highest south of Lake Nyasa as shown in this population distribution map"
@@ -372,13 +372,13 @@
     },
     "Unemployment, youth ages 15-24": {
       "total": {
-        "text": "40.5%"
+        "text": "8.5%"
       },
       "male": {
-        "text": "33.1%"
+        "text": "6.7%"
       },
       "female": {
-        "text": "47.7% (2017 est.)"
+        "text": "10.6% (2017 est.)"
       }
     }
   },
@@ -482,7 +482,7 @@
       }
     },
     "Major rivers (by length in km)": {
-      "text": "Zambezi (shared with Angola, Zimbabwe, Mozambique, Zambia, Tanzania, and Namibia) - 2,740 km;&nbsp;"
+      "text": "Zambezi (shared with Zambia [s], Angola, Zimbabwe, Namibia, Tanzania, and Mozambique [m]) - 2,740 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth"
     },
     "Major watersheds (area sq km)": {
       "text": "Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)"
@@ -995,23 +995,23 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "13,101"
+        "text": "12,465 (2020)"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "less than 1 (2019 est.)"
+        "text": "less than 1 (2020 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
-        "text": "8,901,027"
+        "text": "10,004,680 (2020)"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "46.03 (2019 est.)"
+        "text": "52.3 (2020 est.)"
       }
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "<p>Malawi remains one of the world’s least developed countries, with few resources to build efficient fixed-line telecom infrastructure; mobile penetration low compared to region with ample opportunity for growth and competition; some mobile services to rural areas; LTE services are available; national fiber backbone near completion; progress in m-payment methods; prospect of international submarine cables from neighboring countries; importer of broadcast equipment from China (2021)</p> (2020)"
+        "text": "Malawi remains one of the world&rsquo;s least developed countries, with few resources to build efficient fixed-line telecom infrastructure; mobile penetration low compared to region with ample opportunity for growth and competition; some mobile services to rural areas; LTE services are available; national fiber backbone near completion; progress in m-payment methods; prospect of international submarine cables from neighboring countries; importer of broadcast equipment from China (2020)"
       },
       "domestic": {
         "text": "limited fixed-line subscribership less than 1 per 100 households; mobile-cellular services are expanding but network coverage is limited and is based around the main urban areas; mobile-cellular subscribership 48 per 100 households (2019)"
@@ -1037,10 +1037,10 @@
     },
     "Broadband - fixed subscriptions": {
       "total": {
-        "text": "11,358"
+        "text": "12,255 (2020)"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "less than 1 (2018 est.)"
+        "text": "less than 1 (2020 est.)"
       }
     }
   },
@@ -1155,6 +1155,9 @@
     },
     "Military service age and obligation": {
       "text": "18 years of age for voluntary military service; high school equivalent required for enlisted recruits and college equivalent for officer recruits; initial engagement is 7 years for enlisted personnel and 10 years for officers (2021)"
+    },
+    "Military - note": {
+      "text": "<p>as of 2021, the Malawi Defense Force’s primary responsibility was external security; it was also tasked as necessary with carrying out policing or other domestic activities, such as disaster relief; Malawi contributes regularly to African Union and UN peace support operations</p>"
     }
   },
   "Transnational Issues": {
@@ -1163,7 +1166,7 @@
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
-        "text": "31,818 (Democratic Republic of the Congo) (refugees and asylum seekers), 11,873 (Burundi) (refugees and asylum seekers), 7,314 (Rwanda) (refugees and asylum seekers) (2021)"
+        "text": "31,992 (Democratic Republic of the Congo) (refugees and asylum seekers), 12,068 (Burundi) (refugees and asylum seekers), 7,392 (Rwanda) (refugees and asylum seekers) (2021)"
       }
     }
   }
