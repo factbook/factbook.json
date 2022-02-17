@@ -265,6 +265,35 @@
     },
     "Drinking water source": {
       "improved: urban": {
+        "text": "urban: 99.9% of population"
+      },
+      "improved: rural": {
+        "text": "rural: 100% of population"
+      },
+      "improved: total": {
+        "text": "total: 100% of population"
+      },
+      "unimproved: urban": {
+        "text": "urban: 0.1% of population"
+      },
+      "unimproved: rural": {
+        "text": "rural: 0% of population"
+      },
+      "unimproved: total": {
+        "text": "total: 0% of population (2020 est.)"
+      }
+    },
+    "Current Health Expenditure": {
+      "text": "6.5% (2019)"
+    },
+    "Physicians density": {
+      "text": "2.38 physicians/1,000 population (2017)"
+    },
+    "Hospital bed density": {
+      "text": "6.5 beds/1,000 population (2018)"
+    },
+    "Sanitation facility access": {
+      "improved: urban": {
         "text": "urban: 100% of population"
       },
       "improved: rural": {
@@ -280,36 +309,7 @@
         "text": "rural: 0% of population"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2017 est.)"
-      }
-    },
-    "Current Health Expenditure": {
-      "text": "6.5% (2019)"
-    },
-    "Physicians density": {
-      "text": "2.38 physicians/1,000 population (2017)"
-    },
-    "Hospital bed density": {
-      "text": "6.5 beds/1,000 population (2018)"
-    },
-    "Sanitation facility access": {
-      "improved: urban": {
-        "text": "urban: 99.7% of population"
-      },
-      "improved: rural": {
-        "text": "rural: 100% of population"
-      },
-      "improved: total": {
-        "text": "total: 99.8% of population"
-      },
-      "unimproved: urban": {
-        "text": "urban: 0.3% of population"
-      },
-      "unimproved: rural": {
-        "text": "rural: 0% of population"
-      },
-      "unimproved: total": {
-        "text": "total: 0.2% of population (2017 est.)"
+        "text": "total: 0% of population (2020 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -1035,7 +1035,7 @@
         "text": "liberalized telecom market supported by market competition in broadband and mobile sectors ensuring access to cable and fiber infrastructure; rapid extension of LTE networks and development of mobile data service; mobile penetration is above European average; fixed broadband benefits from DSL infrastructure and investment in fiber through EU support; major importer of broadcasting equipment and accessories from Germany (2020)"
       },
       "domestic": {
-        "text": "several nation-wide networks provide mobile-cellular service; coverage is generally good; fixed-line 18 per 100 service lags in rural areas, mobile-cellular 138 per 100 persons (2019)"
+        "text": "several nation-wide networks provide mobile-cellular service; fixed-line roughly 15 per 100 (service lags in rural areas), mobile-cellular over 130 per 100 persons (2020)"
       },
       "international": {
         "text": "country code - 48; landing points for the Baltica and the Denmark-Poland2 submarine cables connecting Poland, Denmark and Sweden; international direct dialing with automated exchanges; satellite earth station - 1 with access to Intelsat, Eutelsat, Inmarsat, and Intersputnik (2019)"
@@ -1200,10 +1200,11 @@
     },
     "Military and security service personnel strengths": {
       "text": "approximately 120,000 total active duty personnel (approximately 60,000 Army; 7,000 Navy; 17,000 Air Force; 3,500 Special Forces; 25,000 Territorial Defense Forces; 7,500 joint service) (2021)",
-      "note": "note - in June 2019, the Polish Government approved a plan to increase the size of the military by 50,000 troops over the coming decade"
+      "note": "note - in June 2019, the Polish Government approved a plan to increase the size of the military over a period of 10 years to over 200,000 troops, including doubling the size of the Territorial Defense Forces"
     },
     "Military equipment inventories and acquisitions": {
-      "text": "the inventory of the Polish Armed Forces consists of a mix of Soviet-era and more modern Western weapons systems; since 2010, the leading suppliers of armaments to Poland are Finland, Germany, Italy, and the US (2021)"
+      "text": "the inventory of the Polish Armed Forces consists of a mix of Soviet-era and more modern Western weapons systems; since 2010, the leading suppliers of armaments to Poland are Finland, Germany, Italy, and the US (2021)",
+      "note": "note - in late 2018, Poland announced a 7-year (through 2026) approximately $50 billion defense modernization plan that would include such items as 5th generation combat aircraft, unmanned aerial vehicles, rocket artillery, helicopters, submarines, and improved cyber security"
     },
     "Military deployments": {
       "text": "240 Kosovo (NATO/KFOR); up to 175 Latvia (NATO); 250 Lebanon (UNIFIL) (2021)",
