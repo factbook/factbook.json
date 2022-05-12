@@ -99,6 +99,9 @@
     },
     "Geography - note": {
       "text": "<strong>note 1:</strong> landlocked; strategically located astride some of oldest and most significant land routes in Europe; Moravian Gate is a traditional military corridor between the North European Plain and the Danube in central Europe<br><br><strong>note 2:</strong> the Hranice Abyss in Czechia is the world's deepest surveyed underwater cave at 404 m (1,325 ft); its survey is not complete and it could end up being some 800-1,200 m deep"
+    },
+    "Map description": {
+      "text": "<p>Czechia map showing major cities as well as parts of surrounding countries.</p>"
     }
   },
   "People and Society": {
@@ -114,18 +117,20 @@
       }
     },
     "Ethnic groups": {
-      "text": "Czech 64.3%, Moravian 5%, Slovak 1.4%, other 1.8%, unspecified 27.5% (2011 est.)"
+      "text": "Czech 57.3%, Moravian 3.4%, other 7.7%, unspecified 31.6% (2021 est.)",
+      "note": "<strong>note:</strong> includes only persons with one ethnicity"
     },
     "Languages": {
       "Languages": {
-        "text": "Czech (official) 95.4%, Slovak 1.6%, other 3% (2011 est.)"
+        "text": "Czech (official) 88.4%, Slovak 1.5%, other 2.6%, unspecified 7.2% (2021 est.)"
       },
       "major-language sample(s)": {
         "text": "<br>World Fackbook, nepostradatelný zdroj základních informací. (Czech)<br><br>The World Factbook, the indispensable source for basic information."
-      }
+      },
+      "note": "<strong>note:</strong> includes only persons with one mother tongue"
     },
     "Religions": {
-      "text": "Roman Catholic 10.4%, Protestant (includes Czech Brethren and Hussite) 1.1%, other and unspecified 54%, none 34.5% (2011 est.)"
+      "text": "Roman Catholic 7.4%, Evangelical United Brethren Church 0.3%, Czechoslovak Hussite Church 0.2%, believers unaffiliated with a religious society 90.7%, none 50.5%, unspecified 31.8% (2021 est.)"
     },
     "Age structure": {
       "0-14 years": {
@@ -141,7 +146,7 @@
         "text": "12.12% (male 636,357/female 660,748)"
       },
       "65 years and over": {
-        "text": "20.23% (male 907,255/female 1,257,515) (2020 est.)"
+        "text": "20.23% (2020 est.) (male 907,255/female 1,257,515)"
       }
     },
     "Dependency ratios": {
@@ -302,13 +307,13 @@
       }
     },
     "HIV/AIDS - adult prevalence rate": {
-      "text": "<.1% (2018 est.)"
+      "text": "(2018 est.) <.1%"
     },
     "HIV/AIDS - people living with HIV/AIDS": {
       "text": "4,400 (2018 est.)"
     },
     "HIV/AIDS - deaths": {
-      "text": "<100 (2018 est.)"
+      "text": "(2018 est.) <100"
     },
     "Obesity - adult prevalence rate": {
       "text": "26% (2016)"
@@ -831,13 +836,13 @@
     },
     "Exports": {
       "Exports 2020": {
-        "text": "$174.92 billion note: data are in current year dollars (2020 est.)"
+        "text": "$174.92 billion (2020 est.) note: data are in current year dollars"
       },
       "Exports 2019": {
-        "text": "$186.54 billion note: data are in current year dollars (2019 est.)"
+        "text": "$186.54 billion (2019 est.) note: data are in current year dollars"
       },
       "Exports 2018": {
-        "text": "$191.69 billion note: data are in current year dollars (2018 est.)"
+        "text": "$191.69 billion (2018 est.) note: data are in current year dollars"
       }
     },
     "Exports - partners": {
@@ -848,13 +853,13 @@
     },
     "Imports": {
       "Imports 2020": {
-        "text": "$157.95 billion note: data are in current year dollars (2020 est.)"
+        "text": "$157.95 billion (2020 est.) note: data are in current year dollars"
       },
       "Imports 2019": {
-        "text": "$171.43 billion note: data are in current year dollars (2019 est.)"
+        "text": "$171.43 billion (2019 est.) note: data are in current year dollars"
       },
       "Imports 2018": {
-        "text": "$176.78 billion note: data are in current year dollars (2018 est.)"
+        "text": "$176.78 billion (2018 est.) note: data are in current year dollars"
       }
     },
     "Imports - partners": {
@@ -1008,12 +1013,20 @@
     "Internet country code": {
       "text": ".cz"
     },
+    "Internet users": {
+      "total": {
+        "text": "8,665,265 (2020 est.)"
+      },
+      "percent of population": {
+        "text": "81% (2020 est.)"
+      }
+    },
     "Broadband - fixed subscriptions": {
       "total": {
-        "text": "3,845,426 (2021 est.)"
+        "text": "3,845,426 (2022)"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "35.91 (2021)"
+        "text": "35.91 (2022)"
       }
     }
   },
@@ -1029,7 +1042,7 @@
         "text": "5,727,200 (2018)"
       },
       "annual freight traffic on registered air carriers": {
-        "text": "25.23 million mt-km (2018)"
+        "text": "25.23 million (2018) mt-km"
       }
     },
     "Civil aircraft registration country code prefix": {
@@ -1085,22 +1098,22 @@
         "text": "9,408 km (2017)"
       },
       "standard gauge": {
-        "text": "9,385 km 1.435-m gauge (3,218 km electrified) (2017)"
+        "text": "9,385 km (2017) 1.435-m gauge (3,218 km electrified)"
       },
       "narrow gauge": {
-        "text": "23 km 0.760-m gauge (2017)"
+        "text": "23 km (2017) 0.760-m gauge"
       }
     },
     "Roadways": {
       "total": {
-        "text": "55,744 km (includes urban and category I, II, III roads) (2019)"
+        "text": "55,744 km (2019) (includes urban and category I, II, III roads)"
       },
       "paved": {
-        "text": "55,744 km (includes 1,252 km of expressways) (2019)"
+        "text": "55,744 km (2019) (includes 1,252 km of expressways)"
       }
     },
     "Waterways": {
-      "text": "664 km (principally on Elbe, Vltava, Oder, and other navigable rivers, lakes, and canals) (2010)"
+      "text": "664 km (2010) (principally on Elbe, Vltava, Oder, and other navigable rivers, lakes, and canals)"
     },
     "Ports and terminals": {
       "river port(s)": {
@@ -1121,13 +1134,13 @@
         "text": "1.3% of GDP (2020)"
       },
       "Military Expenditures 2019": {
-        "text": "1.2% of GDP (approximately $4.05 billion) (2019)"
+        "text": "1.2% of GDP (2019) (approximately $4.05 billion)"
       },
       "Military Expenditures 2018": {
-        "text": "1.1% of GDP (approximately $3.8 billion) (2018)"
+        "text": "1.1% of GDP (2018) (approximately $3.8 billion)"
       },
       "Military Expenditures 2017": {
-        "text": "1% of GDP (approximately $3.4 billion) (2017)"
+        "text": "1% of GDP (2017) (approximately $3.4 billion)"
       }
     },
     "Military and security service personnel strengths": {
