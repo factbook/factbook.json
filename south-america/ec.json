@@ -599,10 +599,10 @@
     },
     "Judicial branch": {
       "highest courts": {
-        "text": "National Court of Justice or Corte Nacional de Justicia (consists of 21 judges, including the chief justice and organized into 5 specialized chambers); Constitutional Court or Corte Constitucional (consists of 9 judges)"
+        "text": "National Court of Justice or Corte Nacional de Justicia (consists of 21 judges, including the chief justice and organized into 5 specialized chambers); Constitutional Court or Corte Constitucional (consists of the court president and 8 judges)"
       },
       "judge selection and term of office": {
-        "text": "justices of National Court of Justice elected by the Judiciary Council, a 9-member independent body of law professionals; judges elected for 9-year, non-renewable terms, with one-third of the membership renewed every 3 years; Constitutional Court judges appointed by the executive, legislative, and Citizen Participation branches of government; judges appointed for 9-year non-renewable terms with one-third of the membership renewed every 3 years"
+        "text": "candidates for the National Court of Justice evaluated and appointed justices by the Judicial Council, a 9-member independent body of law professionals; justices elected for 9-year, non-renewable terms, with one-third of the membership renewed every 3 years; candidates for the Constitutional Court evaluated and appointed judges by a 6-member independent body of law professionals; judges appointed for 4-year renewable terms"
       },
       "subordinate courts": {
         "text": "provincial courts (one for each province except Galapagos); fiscal, criminal, and administrative tribunals; Election Dispute Settlement Courts; cantonal courts"
@@ -681,7 +681,7 @@
   },
   "Economy": {
     "Economic overview": {
-      "text": "<p>Ecuador is substantially dependent on its petroleum resources, which accounted for about a third of the country's export earnings in 2017. Remittances from overseas Ecuadorian are also important.</p><p></p><p>In 1999/2000, Ecuador's economy suffered from a banking crisis that lead to some reforms, including adoption of the US dollar as legal tender. Dollarization stabilized the economy, and positive growth returned in most of the years that followed. China has become Ecuador's largest foreign lender since 2008 and now accounts for 77.7% of the Ecuador’s bilateral debt. Various economic policies under the CORREA administration, such as an announcement in 2017 that Ecuador would terminate 13 bilateral investment treaties - including one with the US, generated economic uncertainty and discouraged private investment.</p><p></p><p>Faced with a 2013 trade deficit of $1.1 billion, Ecuador imposed tariff surcharges from 5% to 45% on an estimated 32% of imports. Ecuador’s economy fell into recession in 2015 and remained in recession in 2016. Declining oil prices and exports forced the CORREA administration to cut government oulays. Foreign investment in Ecuador is low as a result of the unstable regulatory environment and weak rule of law.</p><p></p><p>n April of 2017, Lenin MORENO was elected President of Ecuador by popular vote. His immediate challenge was to reengage the private sector to improve cash flow in the country. Ecuador’s economy returned to positive, but sluggish, growth. In early 2018, the MORENO administration held a public referendum on seven economic and political issues in a move counter to CORREA-administration policies, reduce corruption, strengthen democracy, and revive employment and the economy. The referendum resulted in repeal of taxes associated with recovery from the earthquake of 2016, reduced restrictions on metal mining in the Yasuni Intangible Zone - a protected area, and several political reforms.</p>"
+      "text": "<p>Ecuador is substantially dependent on its petroleum resources, which accounted for about a third of the country's export earnings in 2017. Remittances from overseas Ecuadorian are also important.</p> <p> </p> <p>In 1999/2000, Ecuador's economy suffered from a banking crisis that lead to some reforms, including adoption of the US dollar as legal tender. Dollarization stabilized the economy, and positive growth returned in most of the years that followed. China has become Ecuador's largest foreign lender since 2008 and now accounts for 77.7% of the Ecuador’s bilateral debt. Various economic policies under the CORREA administration, such as an announcement in 2017 that Ecuador would terminate 13 bilateral investment treaties - including one with the US, generated economic uncertainty and discouraged private investment.</p> <p> </p> <p>Faced with a 2013 trade deficit of $1.1 billion, Ecuador imposed tariff surcharges from 5% to 45% on an estimated 32% of imports. Ecuador’s economy fell into recession in 2015 and remained in recession in 2016. Declining oil prices and exports forced the CORREA administration to cut government oulays. Foreign investment in Ecuador is low as a result of the unstable regulatory environment and weak rule of law.</p> <p> </p> <p>n April of 2017, Lenin MORENO was elected President of Ecuador by popular vote. His immediate challenge was to reengage the private sector to improve cash flow in the country. Ecuador’s economy returned to positive, but sluggish, growth. In early 2018, the MORENO administration held a public referendum on seven economic and political issues in a move counter to CORREA-administration policies, reduce corruption, strengthen democracy, and revive employment and the economy. The referendum resulted in repeal of taxes associated with recovery from the earthquake of 2016, reduced restrictions on metal mining in the Yasuni Intangible Zone - a protected area, and several political reforms.</p>"
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2020": {
@@ -1016,10 +1016,10 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "2,063,044"
+        "text": "2,063,044 (2020)"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "11.69 (2019 est.)"
+        "text": "12 (2020 est.)"
       }
     },
     "Telephones - mobile cellular": {
@@ -1058,10 +1058,10 @@
     },
     "Broadband - fixed subscriptions": {
       "total": {
-        "text": "2,371,297 (2021)"
+        "text": "2,371,297 (2020 est.)"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "13.44 (2021)"
+        "text": "13 (2020 est.)"
       }
     }
   },
@@ -1174,6 +1174,9 @@
       "note": "note - the National Police of Ecuador (Polic&iacute;a Nacional del Ecuador) is under the Ministry of Government"
     },
     "Military expenditures": {
+      "Military Expenditures 2021": {
+        "text": "2% of GDP (2021 est.)"
+      },
       "Military Expenditures 2020": {
         "text": "2.3% of GDP (2020 est.)"
       },
@@ -1185,9 +1188,6 @@
       },
       "Military Expenditures 2017": {
         "text": "2.4% of GDP (2017) (approximately $3.1 billion)"
-      },
-      "Military Expenditures 2016": {
-        "text": "2.5% of GDP (2016) (approximately $3.17 billion)"
       }
     },
     "Military and security service personnel strengths": {
@@ -1213,7 +1213,7 @@
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
-        "text": "508,935 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay), 65,854 (Colombia) (refugees and asylum seekers) (2021)"
+        "text": "65,854 (Colombia) (refugees and asylum seekers) (2021); 513,900 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2022)"
       }
     },
     "Illicit drugs": {
