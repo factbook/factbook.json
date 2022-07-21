@@ -368,7 +368,7 @@
       "text": "NA"
     },
     "Education expenditures": {
-      "text": "4.7% of GDP (2018)"
+      "text": "4.7% of GDP (2018 est.)"
     },
     "Literacy": {
       "definition": {
@@ -413,7 +413,7 @@
     },
     "Environment - international agreements": {
       "party to": {
-        "text": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Sulphur 85, Antarctic-Environmental Protection, Antarctic- Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+        "text": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Sulphur 85, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
       },
       "signed, but not ratified": {
         "text": "Air Pollution-Sulfur 94"
@@ -994,50 +994,85 @@
         "text": "100% (2020)"
       }
     },
-    "Electricity - production": {
-      "text": "1.031 trillion kWh (2016 est.)"
+    "Electricity": {
+      "Installed generating capacity": {
+        "text": "276.463 million kW (2020 est.)"
+      },
+      "Consumption": {
+        "text": "942,895,420,000 kWh (2019 est.)"
+      },
+      "Exports": {
+        "text": "12.116 billion kWh (2020 est.)"
+      },
+      "Imports": {
+        "text": "1.377 billion kWh (2020 est.)"
+      },
+      "Transmission/distribution losses": {
+        "text": "99.077 billion kWh (2019 est.)"
+      }
     },
-    "Electricity - consumption": {
-      "text": "909.6 billion kWh (2016 est.)"
+    "Electricity generation sources": {
+      "Fossil fuels": {
+        "text": "59.4% of total installed capacity (2020 est.)"
+      },
+      "Nuclear": {
+        "text": "21% of total installed capacity (2020 est.)"
+      },
+      "Solar": {
+        "text": "0.2% of total installed capacity (2020 est.)"
+      },
+      "Wind": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Hydroelectricity": {
+        "text": "19.1% of total installed capacity (2020 est.)"
+      },
+      "Tide and wave": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Geothermal": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Biomass and waste": {
+        "text": "0.3% of total installed capacity (2020 est.)"
+      }
     },
-    "Electricity - exports": {
-      "text": "13.13 billion kWh (2016 est.)"
+    "Coal": {
+      "Production": {
+        "text": "447.332 million metric tons (2020 est.)"
+      },
+      "Consumption": {
+        "text": "266.038 million metric tons (2020 est.)"
+      },
+      "Exports": {
+        "text": "224.324 million metric tons (2020 est.)"
+      },
+      "Imports": {
+        "text": "24.027 million metric tons (2020 est.)"
+      },
+      "Proven reserves": {
+        "text": "162.166 billion metric tons (2019 est.)"
+      }
     },
-    "Electricity - imports": {
-      "text": "3.194 billion kWh (2016 est.)"
-    },
-    "Electricity - installed generating capacity": {
-      "text": "244.9 million kW (2016 est.)"
-    },
-    "Electricity - from fossil fuels": {
-      "text": "68% of total installed capacity (2016 est.)"
-    },
-    "Electricity - from nuclear fuels": {
-      "text": "11% of total installed capacity (2017 est.)"
-    },
-    "Electricity - from hydroelectric plants": {
-      "text": "21% of total installed capacity (2017 est.)"
-    },
-    "Electricity - from other renewable sources": {
-      "text": "1% of total installed capacity (2017 est.)"
-    },
-    "Crude oil - production": {
-      "text": "10.759 million bbl/day (2018 est.)"
-    },
-    "Crude oil - exports": {
-      "text": "4.921 million bbl/day (2015 est.)"
-    },
-    "Crude oil - imports": {
-      "text": "76,220 bbl/day (2015 est.)"
-    },
-    "Crude oil - proved reserves": {
-      "text": "80 billion bbl (1 January 2018 est.)"
+    "Petroleum": {
+      "Total petroleum production": {
+        "text": "10,749,500 bbl/day (2021 est.)"
+      },
+      "Refined petroleum consumption": {
+        "text": "3.699 million bbl/day (2019 est.)"
+      },
+      "Crude oil and lease condensate exports": {
+        "text": "5.196 million barrels/day (2018 est.)"
+      },
+      "Crude oil and lease condensate imports": {
+        "text": "14,200 barrels/day (2018 est.)"
+      },
+      "Crude oil estimated reserves": {
+        "text": "80 billion barrels (2021 est.)"
+      }
     },
     "Refined petroleum products - production": {
       "text": "6.076 million bbl/day (2015 est.)"
-    },
-    "Refined petroleum products - consumption": {
-      "text": "3.65 million bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
       "text": "2.671 million bbl/day (2015 est.)"
@@ -1045,20 +1080,41 @@
     "Refined petroleum products - imports": {
       "text": "41,920 bbl/day (2015 est.)"
     },
-    "Natural gas - production": {
-      "text": "665.6 billion cu m (2017 est.)"
+    "Natural gas": {
+      "Production": {
+        "text": "701,544,189,000 cubic meters (2021 est.)"
+      },
+      "Consumption": {
+        "text": "460,612,169,000 cubic meters (2020 est.)"
+      },
+      "Exports": {
+        "text": "250,854,510,000 cubic meters (2021 est.)"
+      },
+      "Imports": {
+        "text": "16,112,146,000 cubic meters (2019 est.)"
+      },
+      "Proven reserves": {
+        "text": "47,805,215,000,000 cubic meters (2021 est.)"
+      }
     },
-    "Natural gas - consumption": {
-      "text": "467.5 billion cu m (2017 est.)"
+    "Carbon dioxide emissions": {
+      "Total emissions": {
+        "text": "1,848,070,000 metric tonnes of CO2 (2019 est.)"
+      },
+      "From coal and metallurgical coke": {
+        "text": "456.033 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From petroleum and other liquids": {
+        "text": "470.289 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From consumed natural gas": {
+        "text": "921.748 million metric tonnes of CO2 (2019 est.)"
+      }
     },
-    "Natural gas - exports": {
-      "text": "210.2 billion cu m (2017 est.)"
-    },
-    "Natural gas - imports": {
-      "text": "15.77 billion cu m (2017 est.)"
-    },
-    "Natural gas - proved reserves": {
-      "text": "47.8 trillion cu m (1 January 2018 est.)"
+    "Energy consumption per capita": {
+      "Total energy consumption per capita 2019": {
+        "text": "227.898 million Btu/person (2019 est.)"
+      }
     }
   },
   "Communications": {
@@ -1267,8 +1323,8 @@
       "note": "note(s) - in May 2022, Russia's parliament approved a law removing the upper age limit for contractual service in the military; in the spring of 2022, Russia drafted 134,500 conscripts into the military; as of 2021, conscripts reportedly comprised about 30% of the Russian military's active duty personnel; in April of 2019, the Russian Government pledged its intent to end conscription as part of a decade-long effort to shift from a large, conscript-based military to a smaller, more professional force; an existing law allows for a 21-month alternative civil service in hospitals, nursing homes and other facilities for those who view military duty as incompatible with their beliefs, but military conscription offices reportedly often broadly ignore requests for such service; as of 2020, women made up about 5% of the active duty military"
     },
     "Military deployments": {
-      "text": "information varies; est. 3,000-4,000 Armenia; approximately 2,000 Azerbaijan (peacekeepers for Nagorno-Karabakh); est. 3,000-5,000 Belarus; est. 7,000-10,000 Georgia; est. 500 Kyrgyzstan; est. 1,500-2,000 Moldova (Transnistria); est. 3,000-5,000 Syria; est. 5,000-7,000 Tajikistan (February 2022)",
-      "note": "note(s) - in February 2022, Russia invaded Ukraine with an estimated 150,000 troops; prior to the invasion, it maintained an estimated 30,000 troops in areas of Ukraine occupied since 2014<br><br>--prior to the invasion of Ukraine, Russia was assessed to have about 3,000-5,000 private military contractors conducting military and security operations in Africa, including in the Central African Republic, Libya, Mali, and Sudan"
+      "text": "information varies; approximately 3,000-4,000 Armenia; approximately 2,000 Azerbaijan (peacekeepers for Nagorno-Karabakh); estimated 3,000-5,000 Belarus; approximately 7,000-10,000 Georgia; approximately 500 Kyrgyzstan; approximately 1,500-2,000 Moldova (Transnistria); estimated 3,000-5,000 Syria; approximately 5,000-7,000 Tajikistan (February 2022)",
+      "note": "<strong>note 1:</strong> in February 2022, Russia invaded Ukraine with an estimated 150,000 troops; prior to the invasion, it maintained an estimated 30,000 troops in areas of Ukraine occupied since 2014<br><br><strong>note 2: </strong>prior to the invasion of Ukraine, Russia was assessed to have about 3,000-5,000 private military contractors conducting military and security operations in Africa, including in the Central African Republic, Libya, Mali, and Sudan"
     },
     "Military - note": {
       "text": "as of 2022, Russian military forces continued to conduct active combat operations in Syria; Russia intervened in the Syrian civil war at the request of the ASAD government in September 2015; Russian assistance included air support, special operations forces, military advisors, private military contractors, training, arms, and equipment<br><br>Russia is the leading member of the Collective Security Treaty Organization (CSTO) and contributes approximately 8,000 troops to CSTO's rapid reaction force (2022)"
@@ -1286,7 +1342,7 @@
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
-        "text": "1,518,394 (Ukraine) (as of 5 July 2022)"
+        "text": "1,625,231 (Ukraine) (as of 12 July 2022)"
       },
       "stateless persons": {
         "text": "56,960 (mid-year 2021); note - Russia's stateless population consists of Roma, Meskhetian Turks, and ex-Soviet citizens from the former republics; between 2003 and 2010 more than 600,000 stateless people were naturalized; most Meskhetian Turks, followers of Islam with origins in Georgia, fled or were evacuated from Uzbekistan after a 1989 pogrom and have lived in Russia for more than the required five-year residency period; they continue to be denied registration for citizenship and basic rights by local Krasnodar Krai authorities on the grounds that they are temporary illegal migrants"

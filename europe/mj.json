@@ -613,7 +613,7 @@
         "text": "last held on 30 August 2020 (next to be held in 2024)"
       },
       "election results": {
-        "text": "percent of vote by party/coalition - DPS 35.1%, ZBCG 32.6%, MNIM 12.5%, URA 5.5%, SD 4.1%, BS 3.9%, SDP 3.1%, AL 1.6%, AK 1.1%, other 0.4%; seats by party/coalition - DPS 30, ZBCG 27, MNIM 10, URA 4, BS 3, SD 3, SDP 2, AL 1, AK 1.; composition - men 57, women 24, percent of women 29.6%"
+        "text": "percent of vote by party/coalition - DPS 35.1%, ZBCG 32.6%, MNIM 12.5%, URA 5.5%, SD 4.1%, BS 3.9%, SDP 3.1%, AL 1.6%, Albanian Coalition 1.1%, other 0.4%; seats by party/coalition - DPS 30, ZBCG 27, MNIM 10, URA 4, BS 3, SD 3, SDP 2, AL 1, Albanian Coalition 1.; composition - men 57, women 24, percent of women 29.6%"
       }
     },
     "Judicial branch": {
@@ -628,7 +628,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Albanian Alternative or AA [Nik DJELOSAJ]<br>Albanian Coalition (includes DP, DSCG, DUA)<br>Albanian Coalition Perspective or AKP<br>Albanian List (coalition includes AA, Forca, AKP, DSA)<br>Bosniak Party or BS [Rafet HUSOVIC]<br>Croatian Civic Initiative or HGI [Adrian VUKSANOVIC]<br>Croatian Reform Party [Marija VUCINOVIC]<br>Democratic Alliance or DEMOS [Miodrag LEKIC]<br>Democratic Front or DF [collective leadership] (coalition includes NOVA, PZP, DNP, RP)<br>Democratic League in Montenegro or DSCG [Mehmet BARDHI]<br>Democratic League of Albanians or DSA<br>Democratic Montenegro or DCG [Aleksa BECIC]<br>Democratic Party or DP [Fatmir GJEKA]<br>Democratic Party of Socialists or DPS [Milo DJUKANOVIC]<br>Democratic Party of Unity or DSJ [Nebojsa JUSKOVIC]<br>Democratic People's Party or DNP [Milan KNEZEVIC]<br>Democratic Serb Party or DSS [Dragica PEROVIC]<br>Democratic Union of Albanians or DUA [Mehmet ZENKA]<br>For the Future of Montenegro or ZBCG [Zdravko KRIVOKAPIC] (electoral coalition includes SNP and 2 alliances - DF, NP)<br>In Black and White [Dritan ABAZOVIC]<br>Liberal Party or LP [Andrija POPOVIC]<br>Movement for Change or PZP [Nebojsa MEDOJEVIC]<br>New Democratic Power or FORCA [Nazif CUNGU]<br>New Serb Democracy or NOVA [Andrija MANDIC]<br>Party of Pensioners, Disabled, and Restitution or PUPI [Momir JOKSIMOVIC]<br>Peace is Our Nation or MNIM [Alexa BECIC] (coalition includes Democrats, DEMOS, New Left, PUPI)<br>Popular Movement or NP [Miodrag DAVIDOVIC] (coalition includes DEMOS, RP, UCG, and several minor parties)<br>Social Democratic Party or SDP [Ranko KRIVOKAPIC]<br>Social Democrats or SD [Ivan BRAJOVIC]<br>Socialist People's Party or SNP [Vladimir JOKOVIC]<br>True Montenegro or PRAVA [Marko MILACIC]<br>United Montenegro or UCG [Goran DANILOVIC] (split from DEMOS)<br>United Reform Action or URA [Dritan ABAZOVIC]<br>Workers' Party or RP [Maksim VUCINIC]"
+      "text": "Albanian Alternative or AA [Nik DJELOSAJ]<br>Albanian Coalition (includes DP, DSCG, DUA)<br>Albanian Coalition Perspective or AKP<br>Albanian List or AL (coalition includes AA, Forca, AKP, DSA)<br>Bosniak Party or BS [Rafet HUSOVIC]<br>Croatian Civic Initiative or HGI [Adrian VUKSANOVIC]<br>Croatian Reform Party [Marija VUCINOVIC]<br>Democratic Alliance or DEMOS [Miodrag LEKIC]<br>Democratic Front or DF [collective leadership] (coalition includes NOVA, PZP, DNP, RP)<br>Democratic League in Montenegro or DSCG [Mehmet BARDHI]<br>Democratic League of Albanians or DSA<br>Democratic Montenegro or DCG [Aleksa BECIC]<br>Democratic Party or DP [Fatmir GJEKA]<br>Democratic Party of Socialists or DPS [Milo DJUKANOVIC]<br>Democratic Party of Unity or DSJ [Nebojsa JUSKOVIC]<br>Democratic People's Party or DNP [Milan KNEZEVIC]<br>Democratic Serb Party or DSS [Dragica PEROVIC]<br>Democratic Union of Albanians or DUA [Mehmet ZENKA]<br>For the Future of Montenegro or ZBCG [Zdravko KRIVOKAPIC] (electoral coalition includes SNP and 2 alliances - DF, NP)<br>In Black and White [Dritan ABAZOVIC]<br>Liberal Party or LP [Andrija POPOVIC]<br>Movement for Change or PZP [Nebojsa MEDOJEVIC]<br>New Democratic Power or FORCA [Nazif CUNGU]<br>New Serb Democracy or NOVA [Andrija MANDIC]<br>Party of Pensioners, Disabled, and Restitution or PUPI [Momir JOKSIMOVIC]<br>Peace is Our Nation or MNIM [Alexa BECIC] (coalition includes Democrats, DEMOS, New Left, PUPI)<br>Popular Movement or NP [Miodrag DAVIDOVIC] (coalition includes DEMOS, RP, UCG, and several minor parties)<br>Social Democratic Party or SDP [Ranko KRIVOKAPIC]<br>Social Democrats or SD [Ivan BRAJOVIC]<br>Socialist People's Party or SNP [Vladimir JOKOVIC]<br>True Montenegro or PRAVA [Marko MILACIC]<br>United Montenegro or UCG [Goran DANILOVIC] (split from DEMOS)<br>United Reform Action or URA [Dritan ABAZOVIC]<br>Workers' Party or RP [Maksim VUCINIC]"
     },
     "International organization participation": {
       "text": "CE, CEI, EAPC, EBRD, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NATO, OAS (observer), OIF (observer), OPCW, OSCE, PCA, PFP, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
@@ -961,50 +961,85 @@
         "text": "100% (2020)"
       }
     },
-    "Electricity - production": {
-      "text": "3.045 billion kWh (2016 est.)"
+    "Electricity": {
+      "Installed generating capacity": {
+        "text": "1.007 million kW (2020 est.)"
+      },
+      "Consumption": {
+        "text": "3,246,760,000 kWh (2019 est.)"
+      },
+      "Exports": {
+        "text": "943 million kWh (2019 est.)"
+      },
+      "Imports": {
+        "text": "1.196 billion kWh (2019 est.)"
+      },
+      "Transmission/distribution losses": {
+        "text": "493 million kWh (2019 est.)"
+      }
     },
-    "Electricity - consumption": {
-      "text": "2.808 billion kWh (2016 est.)"
+    "Electricity generation sources": {
+      "Fossil fuels": {
+        "text": "42.3% of total installed capacity (2020 est.)"
+      },
+      "Nuclear": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Solar": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Wind": {
+        "text": "10.5% of total installed capacity (2020 est.)"
+      },
+      "Hydroelectricity": {
+        "text": "47.2% of total installed capacity (2020 est.)"
+      },
+      "Tide and wave": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Geothermal": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Biomass and waste": {
+        "text": "0% of total installed capacity (2020 est.)"
+      }
     },
-    "Electricity - exports": {
-      "text": "914 million kWh (2016 est.)"
+    "Coal": {
+      "Production": {
+        "text": "1.456 million metric tons (2020 est.)"
+      },
+      "Consumption": {
+        "text": "1.351 million metric tons (2020 est.)"
+      },
+      "Exports": {
+        "text": "96,000 metric tons (2020 est.)"
+      },
+      "Imports": {
+        "text": "1,000 metric tons (2020 est.)"
+      },
+      "Proven reserves": {
+        "text": "142 million metric tons (2019 est.)"
+      }
     },
-    "Electricity - imports": {
-      "text": "1.21 billion kWh (2016 est.)"
-    },
-    "Electricity - installed generating capacity": {
-      "text": "890,000 kW (2016 est.)"
-    },
-    "Electricity - from fossil fuels": {
-      "text": "23% of total installed capacity (2016 est.)"
-    },
-    "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)"
-    },
-    "Electricity - from hydroelectric plants": {
-      "text": "69% of total installed capacity (2017 est.)"
-    },
-    "Electricity - from other renewable sources": {
-      "text": "8% of total installed capacity (2017 est.)"
-    },
-    "Crude oil - production": {
-      "text": "0 bbl/day (2018 est.)"
-    },
-    "Crude oil - exports": {
-      "text": "0 bbl/day (2015 est.)"
-    },
-    "Crude oil - imports": {
-      "text": "0 bbl/day (2015 est.)"
-    },
-    "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2018 est.)"
+    "Petroleum": {
+      "Total petroleum production": {
+        "text": "0 bbl/day (2021 est.)"
+      },
+      "Refined petroleum consumption": {
+        "text": "7,600 bbl/day (2019 est.)"
+      },
+      "Crude oil and lease condensate exports": {
+        "text": "0 barrels/day (2018 est.)"
+      },
+      "Crude oil and lease condensate imports": {
+        "text": "0 barrels/day (2018 est.)"
+      },
+      "Crude oil estimated reserves": {
+        "text": "0 barrels (2021 est.)"
+      }
     },
     "Refined petroleum products - production": {
       "text": "0 bbl/day (2015 est.)"
-    },
-    "Refined petroleum products - consumption": {
-      "text": "6,000 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
       "text": "357 bbl/day (2015 est.)"
@@ -1012,20 +1047,41 @@
     "Refined petroleum products - imports": {
       "text": "6,448 bbl/day (2015 est.)"
     },
-    "Natural gas - production": {
-      "text": "0 cu m (2017 est.)"
+    "Natural gas": {
+      "Production": {
+        "text": "0 cubic meters (2021 est.)"
+      },
+      "Consumption": {
+        "text": "0 cubic meters (2021 est.)"
+      },
+      "Exports": {
+        "text": "0 cubic meters (2021 est.)"
+      },
+      "Imports": {
+        "text": "0 cubic meters (2021 est.)"
+      },
+      "Proven reserves": {
+        "text": "0 cubic meters (2021 est.)"
+      }
     },
-    "Natural gas - consumption": {
-      "text": "0 cu m (2017 est.)"
+    "Carbon dioxide emissions": {
+      "Total emissions": {
+        "text": "2.447 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From coal and metallurgical coke": {
+        "text": "1.333 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From petroleum and other liquids": {
+        "text": "1.114 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From consumed natural gas": {
+        "text": "0 metric tonnes of CO2 (2019 est.)"
+      }
     },
-    "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)"
-    },
-    "Natural gas - imports": {
-      "text": "0 cu m (2017 est.)"
-    },
-    "Natural gas - proved reserves": {
-      "text": "0 cu m (2016 est.)"
+    "Energy consumption per capita": {
+      "Total energy consumption per capita 2019": {
+        "text": "77.286 million Btu/person (2019 est.)"
+      }
     }
   },
   "Communications": {
@@ -1204,7 +1260,7 @@
       "stateless persons": {
         "text": "458 (mid-year 2021)"
       },
-      "note": "<strong>note:</strong> 22,598 estimated refugee and migrant arrivals (January 2015-July 2022)"
+      "note": "<strong>note:</strong> 22,793 estimated refugee and migrant arrivals (January 2015-July 2022)"
     },
     "Illicit drugs": {
       "text": "<p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p>"

@@ -367,7 +367,7 @@
       }
     },
     "Education expenditures": {
-      "text": "3% of GDP (2019)"
+      "text": "3% of GDP (2019 est.)"
     },
     "Literacy": {
       "definition": {
@@ -634,7 +634,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Action Coalition of Thailand Party or ACT [ANEK Laothamatas]<br>Bhumjaithai Party or BJT [ANUTIN Charnvirakul]<br>Chat Phatthana Party (National Development Party) [THEWAN Liptaphanlop]<br>Chat Thai Phatthana Party (Thai Nation Development Party) or CTP [KANCHANA Sinlapa-acha]<br>New Economics Party or NEP [MINGKHWAN Sangsuwan]<br>Move Forward Party or MFP (formed in 2020 from the disbanded Future Forward Party, FPP) [PHITHA Limcharoenrat]<br>Palang Pracharat Party or PPP (a pro-military party formed in 2018 by members of the military junta’s cabinet) [PRAWIT Wongsuwan]<br>Phumchai Thai Party (Thai Pride Party) or PJT [ANUTHIN Chanwirakun]<br>Prachachat Party of PCC [WAN Muhamad NOOR Matha]<br>Prachathipat Party (Democrat Party) or DEM [JURIN Laksanawisit] <br>Puea Chat Party (For Nation Party) or PCP [SARUNWUT Sarunket]<br>Puea Thai Party (For Thais Party) or PTP [CHONLANON Sikaew]<br>Puea Tham Party (For Dharma Party) [NALINI Thawisin]<br>Seri Ruam Thai Party (Thai Liberal Party) or TLP [SERIPHISUT Temiyawet]<br>Thai Civilized Party or TCL [MONGKOLKIT Suksintharanon]<br>Thai Forest Conservation Party or TFCP [DAMRONG Phidet]<br>Thai Liberal Party or TLP [SERIPISUT TEMIYAVET]<br>Thai Local Power Party or TLP [CHATCHAWAI Kong-udom]<br>Thai People Power Party or TLPT [NIKHOM Bunwiset]<br>Thai Raksa Chat Party (Thai National Preservation Party) [PRICHAPHON Phongpanit]",
+      "text": "Action Coalition of Thailand Party or ACT [ANEK Laothamatas]<br>Bhumjaithai Party or BJT [ANUTIN Charnvirakul]<br>Chat Phatthana Party (National Development Party) [THEWAN Liptaphanlop]<br>Chat Thai Phatthana Party (Thai Nation Development Party) or CTP [KANCHANA Sinlapa-acha]<br>New Economics Party or NEP [MINGKHWAN Sangsuwan]<br>Move Forward Party or MFP (formed in 2020 from the disbanded Future Forward Party, FPP) [PHITHA Limcharoenrat]<br>Palang Pracharat Party or PPRP (a pro-military party formed in 2018 by members of the military junta’s cabinet) [PRAWIT Wongsuwan]<br>Phumchai Thai Party (Thai Pride Party) or PJT [ANUTHIN Chanwirakun]<br>Prachachat Party of PCC [WAN Muhamad NOOR Matha]<br>Prachathipat Party (Democrat Party) or DP [JURIN Laksanawisit] <br>Puea Chat Party (For Nation Party) or PCP [SARUNWUT Sarunket]<br>Puea Thai Party (For Thais Party) or PTP [CHONLANON Sikaew]<br>Puea Tham Party (For Dharma Party) [NALINI Thawisin]<br>Seri Ruam Thai Party (Thai Liberal Party) or TLP [SERIPHISUT Temiyawet]<br>Thai Civilized Party or TCL [MONGKOLKIT Suksintharanon]<br>Thai Forest Conservation Party or TFCP [DAMRONG Phidet]<br>Thai Liberal Party or TLP [SERIPISUT TEMIYAVET]<br>Thai Local Power Party or TLP [CHATCHAWAI Kong-udom]<br>Thai People Power Party or TLPT [NIKHOM Bunwiset]<br>Thai Raksa Chat Party (Thai National Preservation Party) [PRICHAPHON Phongpanit]",
       "note": "note - as of 5 April 2018, 98 new parties applied to be registered with the Election Commission in accordance with the provisions of the new organic law on political parties"
     },
     "International organization participation": {
@@ -975,50 +975,85 @@
         "text": "100% (2020)"
       }
     },
-    "Electricity - production": {
-      "text": "181.5 billion kWh (2016 est.)"
+    "Electricity": {
+      "Installed generating capacity": {
+        "text": "53.13 million kW (2020 est.)"
+      },
+      "Consumption": {
+        "text": "190,569,262,000 kWh (2019 est.)"
+      },
+      "Exports": {
+        "text": "2,617,583,000 kWh (2020 est.)"
+      },
+      "Imports": {
+        "text": "29,550,571,000 kWh (2020 est.)"
+      },
+      "Transmission/distribution losses": {
+        "text": "13.286 billion kWh (2019 est.)"
+      }
     },
-    "Electricity - consumption": {
-      "text": "187.7 billion kWh (2016 est.)"
+    "Electricity generation sources": {
+      "Fossil fuels": {
+        "text": "83.3% of total installed capacity (2020 est.)"
+      },
+      "Nuclear": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Solar": {
+        "text": "2.8% of total installed capacity (2020 est.)"
+      },
+      "Wind": {
+        "text": "1.7% of total installed capacity (2020 est.)"
+      },
+      "Hydroelectricity": {
+        "text": "2.6% of total installed capacity (2020 est.)"
+      },
+      "Tide and wave": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Geothermal": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Biomass and waste": {
+        "text": "9.6% of total installed capacity (2020 est.)"
+      }
     },
-    "Electricity - exports": {
-      "text": "2.267 billion kWh (2015 est.)"
+    "Coal": {
+      "Production": {
+        "text": "13.251 million metric tons (2020 est.)"
+      },
+      "Consumption": {
+        "text": "35.761 million metric tons (2020 est.)"
+      },
+      "Exports": {
+        "text": "63,000 metric tons (2020 est.)"
+      },
+      "Imports": {
+        "text": "23.899 million metric tons (2020 est.)"
+      },
+      "Proven reserves": {
+        "text": "1.063 billion metric tons (2019 est.)"
+      }
     },
-    "Electricity - imports": {
-      "text": "19.83 billion kWh (2016 est.)"
-    },
-    "Electricity - installed generating capacity": {
-      "text": "44.89 million kW (2016 est.)"
-    },
-    "Electricity - from fossil fuels": {
-      "text": "76% of total installed capacity (2016 est.)"
-    },
-    "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)"
-    },
-    "Electricity - from hydroelectric plants": {
-      "text": "8% of total installed capacity (2017 est.)"
-    },
-    "Electricity - from other renewable sources": {
-      "text": "16% of total installed capacity (2017 est.)"
-    },
-    "Crude oil - production": {
-      "text": "228,000 bbl/day (2018 est.)"
-    },
-    "Crude oil - exports": {
-      "text": "790 bbl/day (2015 est.)"
-    },
-    "Crude oil - imports": {
-      "text": "875,400 bbl/day (2015 est.)"
-    },
-    "Crude oil - proved reserves": {
-      "text": "349.4 million bbl (1 January 2018 est.)"
+    "Petroleum": {
+      "Total petroleum production": {
+        "text": "438,200 bbl/day (2021 est.)"
+      },
+      "Refined petroleum consumption": {
+        "text": "1,284,800 bbl/day (2019 est.)"
+      },
+      "Crude oil and lease condensate exports": {
+        "text": "28,600 barrels/day (2018 est.)"
+      },
+      "Crude oil and lease condensate imports": {
+        "text": "979,800 barrels/day (2018 est.)"
+      },
+      "Crude oil estimated reserves": {
+        "text": "252.8 million barrels (2021 est.)"
+      }
     },
     "Refined petroleum products - production": {
       "text": "1.328 million bbl/day (2015 est.)"
-    },
-    "Refined petroleum products - consumption": {
-      "text": "1.326 million bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
       "text": "278,300 bbl/day (2015 est.)"
@@ -1026,20 +1061,41 @@
     "Refined petroleum products - imports": {
       "text": "134,200 bbl/day (2015 est.)"
     },
-    "Natural gas - production": {
-      "text": "38.59 billion cu m (2017 est.)"
+    "Natural gas": {
+      "Production": {
+        "text": "38,420,517,000 cubic meters (2019 est.)"
+      },
+      "Consumption": {
+        "text": "54,802,466,000 cubic meters (2019 est.)"
+      },
+      "Exports": {
+        "text": "0 cubic meters (2021 est.)"
+      },
+      "Imports": {
+        "text": "14,944,842,000 cubic meters (2019 est.)"
+      },
+      "Proven reserves": {
+        "text": "138.243 billion cubic meters (2021 est.)"
+      }
     },
-    "Natural gas - consumption": {
-      "text": "52.64 billion cu m (2017 est.)"
+    "Carbon dioxide emissions": {
+      "Total emissions": {
+        "text": "305.273 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From coal and metallurgical coke": {
+        "text": "58.78 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From petroleum and other liquids": {
+        "text": "146.172 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From consumed natural gas": {
+        "text": "100.321 million metric tonnes of CO2 (2019 est.)"
+      }
     },
-    "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)"
-    },
-    "Natural gas - imports": {
-      "text": "14.41 billion cu m (2017 est.)"
-    },
-    "Natural gas - proved reserves": {
-      "text": "193.4 billion cu m (1 January 2018 est.)"
+    "Energy consumption per capita": {
+      "Total energy consumption per capita 2019": {
+        "text": "76.714 million Btu/person (2019 est.)"
+      }
     }
   },
   "Communications": {

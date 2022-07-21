@@ -334,7 +334,7 @@
       "text": "2.9% (2017)"
     },
     "Education expenditures": {
-      "text": "5.1% of GDP (2020)"
+      "text": "5.1% of GDP (2020 est.)"
     },
     "Literacy": {
       "definition": {
@@ -900,50 +900,85 @@
         "text": "100% (2020)"
       }
     },
-    "Electricity - production": {
-      "text": "55.55 billion kWh (2016 est.)"
+    "Electricity": {
+      "Installed generating capacity": {
+        "text": "16.042 million kW (2020 est.)"
+      },
+      "Consumption": {
+        "text": "57,605,687,000 kWh (2019 est.)"
+      },
+      "Exports": {
+        "text": "2.067 billion kWh (2019 est.)"
+      },
+      "Imports": {
+        "text": "3.379 billion kWh (2019 est.)"
+      },
+      "Transmission/distribution losses": {
+        "text": "3.858 billion kWh (2019 est.)"
+      }
     },
-    "Electricity - consumption": {
-      "text": "49.07 billion kWh (2016 est.)"
+    "Electricity generation sources": {
+      "Fossil fuels": {
+        "text": "88.1% of total installed capacity (2020 est.)"
+      },
+      "Nuclear": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Solar": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Wind": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Hydroelectricity": {
+        "text": "11.9% of total installed capacity (2020 est.)"
+      },
+      "Tide and wave": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Geothermal": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Biomass and waste": {
+        "text": "0% of total installed capacity (2020 est.)"
+      }
     },
-    "Electricity - exports": {
-      "text": "13 billion kWh (2014 est.)"
+    "Coal": {
+      "Production": {
+        "text": "3.98 million metric tons (2020 est.)"
+      },
+      "Consumption": {
+        "text": "5.668 million metric tons (2020 est.)"
+      },
+      "Exports": {
+        "text": "1,000 metric tons (2020 est.)"
+      },
+      "Imports": {
+        "text": "2.995 million metric tons (2020 est.)"
+      },
+      "Proven reserves": {
+        "text": "1.375 billion metric tons (2019 est.)"
+      }
     },
-    "Electricity - imports": {
-      "text": "10.84 billion kWh (2016 est.)"
-    },
-    "Electricity - installed generating capacity": {
-      "text": "12.96 million kW (2016 est.)"
-    },
-    "Electricity - from fossil fuels": {
-      "text": "86% of total installed capacity (2016 est.)"
-    },
-    "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)"
-    },
-    "Electricity - from hydroelectric plants": {
-      "text": "14% of total installed capacity (2017 est.)"
-    },
-    "Electricity - from other renewable sources": {
-      "text": "0% of total installed capacity (2017 est.)"
-    },
-    "Crude oil - production": {
-      "text": "41,000 bbl/day (2018 est.)"
-    },
-    "Crude oil - exports": {
-      "text": "27,000 bbl/day (2015 est.)"
-    },
-    "Crude oil - imports": {
-      "text": "420 bbl/day (2015 est.)"
-    },
-    "Crude oil - proved reserves": {
-      "text": "594 million bbl (1 January 2018 est.)"
+    "Petroleum": {
+      "Total petroleum production": {
+        "text": "5,200 bbl/day (2021 est.)"
+      },
+      "Refined petroleum consumption": {
+        "text": "98,200 bbl/day (2019 est.)"
+      },
+      "Crude oil and lease condensate exports": {
+        "text": "0 barrels/day (2018 est.)"
+      },
+      "Crude oil and lease condensate imports": {
+        "text": "24,000 barrels/day (2018 est.)"
+      },
+      "Crude oil estimated reserves": {
+        "text": "594 million barrels (2021 est.)"
+      }
     },
     "Refined petroleum products - production": {
       "text": "61,740 bbl/day (2015 est.)"
-    },
-    "Refined petroleum products - consumption": {
-      "text": "60,000 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
       "text": "3,977 bbl/day (2015 est.)"
@@ -951,20 +986,41 @@
     "Refined petroleum products - imports": {
       "text": "0 bbl/day (2015 est.)"
     },
-    "Natural gas - production": {
-      "text": "52.1 billion cu m (2017 est.)"
+    "Natural gas": {
+      "Production": {
+        "text": "46,968,227,000 cubic meters (2020 est.)"
+      },
+      "Consumption": {
+        "text": "43,882,007,000 cubic meters (2019 est.)"
+      },
+      "Exports": {
+        "text": "13,283,524,000 cubic meters (2019 est.)"
+      },
+      "Imports": {
+        "text": "0 cubic meters (2020 est.)"
+      },
+      "Proven reserves": {
+        "text": "1,840,592,000,000 cubic meters (2021 est.)"
+      }
     },
-    "Natural gas - consumption": {
-      "text": "43.07 billion cu m (2017 est.)"
+    "Carbon dioxide emissions": {
+      "Total emissions": {
+        "text": "102.965 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From coal and metallurgical coke": {
+        "text": "7.816 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From petroleum and other liquids": {
+        "text": "11.53 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From consumed natural gas": {
+        "text": "83.619 million metric tonnes of CO2 (2019 est.)"
+      }
     },
-    "Natural gas - exports": {
-      "text": "9.401 billion cu m (2017 est.)"
-    },
-    "Natural gas - imports": {
-      "text": "0 cu m (2017 est.)"
-    },
-    "Natural gas - proved reserves": {
-      "text": "1.841 trillion cu m (1 January 2018 est.)"
+    "Energy consumption per capita": {
+      "Total energy consumption per capita 2019": {
+        "text": "57.709 million Btu/person (2019 est.)"
+      }
     }
   },
   "Communications": {

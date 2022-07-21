@@ -584,7 +584,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Alliance for a Better Future of BiH or SBB BiH [Fahrudin RADONCIC]<br>Alliance of Independent Social Democrats or SNSD [Milorad DODIK]<br>Alternative Party for Democratic Activity or A-SDA [Nermin OGRESEVIC] (merged with Independent Bosnian Herzegovinian List to form NES)<br>Croat Peasants' Party or HSS [Mario KARAMATIC]<br>Croatian Christian Democratic Union of Bosnia and Herzegovina or HKDU [Ivan MUSA]<br>Croatian Democratic Union or HDU [Miro GRABOVAC-TITAN]<br>Croatian Democratic Union of Bosnia and Herzegovina or HDZ-BiH [Dragan COVIC]<br>Croatian Democratic Union 1990 or HDZ-1990 [Ilija CVITANOVIC]<br>Croatian Party of Rights dr. Ante Starcevic or HSP-AS Bih [Stanko PRIMORAC]<br>Democratic Alliance or DEMOS [Nedeljko CUBRILOVIC]<br>Democratic Front of DF [Zeljko KOMSIC]<br>Democratic Peoples' Alliance or DNS [Nenad NESIC]<br>Independent Bloc or NB [Senad SEPIC]<br>Movement for Democratic Action or PDA [Mirsad KUKIC]<br>People and Justice Party or NiP [elmedin KONAKOVIC]<br>People's European Union of Bosnia and Herzegovina or NES [Nermin OGRESEVIC]<br>Progressive Srpska or NS [Goran DORDIC]<br>Our Party or NS/HC [Edin FORTO]<br>Party for Democratic Action or SDA [Bakir IZETBEGOVIC]<br>Party of Democratic Progress or PDP [Branislav BORENOVIC]<br>People's Democratic Movement or NDP [Dragan CAVIC]<br>Serb Democratic Party or SDS [Mirko SAROVIC]<br>Serb Radical Party-Dr. Vojislav Seselj or SRS-VS [Vojislav SESELJ] (merged with PDP)<br>Social Democratic Party or SDP [Nermin NIKSIC]<br>Socialist Party or SP [Petar DOKIC]<br>United Srpska or US [Nenad STEVANDIC]"
+      "text": "Alliance for a Better Future of BiH or SBB BiH [Fahrudin RADONCIC]<br>Alliance of Independent Social Democrats or SNSD [Milorad DODIK]<br>Alternative Party for Democratic Activity or A-SDA [Nermin OGRESEVIC] (merged with Independent Bosnian Herzegovinian List to form NES)<br>Croat Peasants' Party or HSS [Mario KARAMATIC]<br>Croatian Christian Democratic Union of Bosnia and Herzegovina or HKDU [Ivan MUSA]<br>Croatian Democratic Union or HDU [Miro GRABOVAC-TITAN]<br>Croatian Democratic Union of Bosnia and Herzegovina or HDZ-BiH [Dragan COVIC]<br>Croatian Democratic Union 1990 or HDZ-1990 [Ilija CVITANOVIC]<br>Croatian Party of Rights dr. Ante Starcevic or HSP-AS Bih [Stanko PRIMORAC]<br>Democratic Alliance or DEMOS [Nedeljko CUBRILOVIC]<br>Democratic Front of DF [Zeljko KOMSIC]<br>Democratic Peoples' Alliance or DNS [Nenad NESIC]<br>Independent Bloc or NB [Senad SEPIC]<br>Movement for Democratic Action or PDA [Mirsad KUKIC]<br>Our Party or NS/HC [Edin FORTO]<br>People and Justice Party or NiP [Elmedin KONAKOVIC]<br>People's European Union of Bosnia and Herzegovina or NES [Nermin OGRESEVIC]<br>Progressive Srpska or NS [Goran DORDIC]<br>Party for Democratic Action or SDA [Bakir IZETBEGOVIC]<br>Party of Democratic Progress or PDP [Branislav BORENOVIC]<br>People's Democratic Movement or NDP [Dragan CAVIC]<br>Serb Democratic Party or SDS [Mirko SAROVIC]<br>Serb Radical Party-Dr. Vojislav Seselj or SRS-VS [Vojislav SESELJ] (merged with PDP)<br>Social Democratic Party or SDP [Nermin NIKSIC]<br>Socialist Party or SP [Petar DOKIC]<br>United Srpska or US [Nenad STEVANDIC]"
     },
     "International organization participation": {
       "text": "BIS, CD, CE, CEI, EAPC, EBRD, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NAM (observer), OAS (observer), OIC (observer), OIF (observer), OPCW, OSCE, PFP, SELEC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)"
@@ -919,50 +919,85 @@
         "text": "100% (2020)"
       }
     },
-    "Electricity - production": {
-      "text": "16.99 billion kWh (2016 est.)"
+    "Electricity": {
+      "Installed generating capacity": {
+        "text": "4.775 million kW (2020 est.)"
+      },
+      "Consumption": {
+        "text": "11,657,450,000 kWh (2019 est.)"
+      },
+      "Exports": {
+        "text": "7.316 billion kWh (2020 est.)"
+      },
+      "Imports": {
+        "text": "3.266 billion kWh (2020 est.)"
+      },
+      "Transmission/distribution losses": {
+        "text": "1.257 billion kWh (2019 est.)"
+      }
     },
-    "Electricity - consumption": {
-      "text": "11.87 billion kWh (2016 est.)"
+    "Electricity generation sources": {
+      "Fossil fuels": {
+        "text": "62.8% of total installed capacity (2020 est.)"
+      },
+      "Nuclear": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Solar": {
+        "text": "0.3% of total installed capacity (2020 est.)"
+      },
+      "Wind": {
+        "text": "1.5% of total installed capacity (2020 est.)"
+      },
+      "Hydroelectricity": {
+        "text": "35.4% of total installed capacity (2020 est.)"
+      },
+      "Tide and wave": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Geothermal": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Biomass and waste": {
+        "text": "0.1% of total installed capacity (2020 est.)"
+      }
     },
-    "Electricity - exports": {
-      "text": "6.007 billion kWh (2015 est.)"
+    "Coal": {
+      "Production": {
+        "text": "6.966 million metric tons (2020 est.)"
+      },
+      "Consumption": {
+        "text": "7.752 million metric tons (2020 est.)"
+      },
+      "Exports": {
+        "text": "525,000 metric tons (2020 est.)"
+      },
+      "Imports": {
+        "text": "1.366 million metric tons (2020 est.)"
+      },
+      "Proven reserves": {
+        "text": "2.264 billion metric tons (2019 est.)"
+      }
     },
-    "Electricity - imports": {
-      "text": "3.084 billion kWh (2016 est.)"
-    },
-    "Electricity - installed generating capacity": {
-      "text": "4.676 million kW (2016 est.)"
-    },
-    "Electricity - from fossil fuels": {
-      "text": "49% of total installed capacity (2016 est.)"
-    },
-    "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)"
-    },
-    "Electricity - from hydroelectric plants": {
-      "text": "51% of total installed capacity (2017 est.)"
-    },
-    "Electricity - from other renewable sources": {
-      "text": "1% of total installed capacity (2017 est.)"
-    },
-    "Crude oil - production": {
-      "text": "0 bbl/day (2018 est.)"
-    },
-    "Crude oil - exports": {
-      "text": "0 bbl/day (2015 est.)"
-    },
-    "Crude oil - imports": {
-      "text": "18,480 bbl/day (2015 est.)"
-    },
-    "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2018 est.)"
+    "Petroleum": {
+      "Total petroleum production": {
+        "text": "0 bbl/day (2021 est.)"
+      },
+      "Refined petroleum consumption": {
+        "text": "34,700 bbl/day (2019 est.)"
+      },
+      "Crude oil and lease condensate exports": {
+        "text": "0 barrels/day (2018 est.)"
+      },
+      "Crude oil and lease condensate imports": {
+        "text": "13,900 barrels/day (2018 est.)"
+      },
+      "Crude oil estimated reserves": {
+        "text": "0 barrels (2021 est.)"
+      }
     },
     "Refined petroleum products - production": {
       "text": "0 bbl/day (2015 est.)"
-    },
-    "Refined petroleum products - consumption": {
-      "text": "32,000 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
       "text": "4,603 bbl/day (2015 est.)"
@@ -970,20 +1005,41 @@
     "Refined petroleum products - imports": {
       "text": "18,280 bbl/day (2015 est.)"
     },
-    "Natural gas - production": {
-      "text": "0 cu m (2017 est.)"
+    "Natural gas": {
+      "Production": {
+        "text": "0 cubic meters (2021 est.)"
+      },
+      "Consumption": {
+        "text": "218.266 million cubic meters (2019 est.)"
+      },
+      "Exports": {
+        "text": "0 cubic meters (2021 est.)"
+      },
+      "Imports": {
+        "text": "218.266 million cubic meters (2019 est.)"
+      },
+      "Proven reserves": {
+        "text": "0 cubic meters (2021 est.)"
+      }
     },
-    "Natural gas - consumption": {
-      "text": "226.5 million cu m (2017 est.)"
+    "Carbon dioxide emissions": {
+      "Total emissions": {
+        "text": "16.209 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From coal and metallurgical coke": {
+        "text": "10.923 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From petroleum and other liquids": {
+        "text": "4.871 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From consumed natural gas": {
+        "text": "415,000 metric tonnes of CO2 (2019 est.)"
+      }
     },
-    "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)"
-    },
-    "Natural gas - imports": {
-      "text": "226.5 million cu m (2017 est.)"
-    },
-    "Natural gas - proved reserves": {
-      "text": "0 cu m (1 January 2014 est.)"
+    "Energy consumption per capita": {
+      "Total energy consumption per capita 2019": {
+        "text": "71.815 million Btu/person (2019 est.)"
+      }
     }
   },
   "Communications": {
@@ -1115,7 +1171,7 @@
       }
     },
     "Waterways": {
-      "text": "(2011) (Sava River on northern border; open to shipping but use limited)"
+      "text": "990 km (2022) (Sava River on northern border; open to shipping but use limited)"
     },
     "Ports and terminals": {
       "river port(s)": {
@@ -1178,7 +1234,7 @@
       "stateless persons": {
         "text": "149 (mid-year 2021)"
       },
-      "note": "<strong>note:</strong> 93,575 estimated refugee and migrant arrivals (January 2015-June 2022)"
+      "note": "<strong>note:</strong> 95,237 estimated refugee and migrant arrivals (January 2015-July 2022)"
     },
     "Trafficking in persons": {
       "current situation": {

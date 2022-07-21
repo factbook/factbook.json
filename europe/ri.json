@@ -355,7 +355,7 @@
       }
     },
     "Education expenditures": {
-      "text": "3.6% of GDP (2019)"
+      "text": "3.6% of GDP (2019 est.)"
     },
     "Literacy": {
       "definition": {
@@ -621,7 +621,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Albanian Democratic Alternative (coalition of ethnic Albanian parties) [Shaip KAMBERI]<br>Alliance of Vojvodina Hungarians or SVM [Istvan PASZTOR]<br>Better Serbia [Dragan JOVANOVIC]<br>Democratic Party or DS [Zoran LUTOVAC]<br>Democratic Party of Serbia or DSS [Milos JOVANOVIC]<br>Dveri [Bosko OBRADOVIC]<br>Greens of Serbia [Ivan KARIC]<br>Ivica Dacic - Prime Minister of Serbia [Ivica DACIC] (includes SPS, JS, ZS)<br>Justice and Reconciliation Party or SPP [Usame ZUKORLIC] (formerly Bosniak Democratic Union of Sandzak or BDZS)<br>Movement for the Restoration of the Kingdom of Serbia or POKS (leadership is disputed)<br>Movement of Free Citizens or PSG [Pavle GRBOVIC]<br>Movement of Socialists or PS [Aleksandar VULIN]<br>National Democratic Alternative or NADA [Milos JOVANOVIC, Vojislav MIHAILOVIC, Bozidar DELIC] (includes DSS and POKS)<br>Party of Democratic Action of the Sandzak or SDA [Sulejman UGLJANIN]<br>Party of Freedom and Justice or SSP [Dragan DILAS]<br>Party of United Pensioners of Serbia or PUPS [Milan KRKOBABIC]<br>People's Party or NS or Narodna [Vuk JEREMIC]<br>People's Peasant Party or NSS [Marijan RISTICEVIC]<br>Serbian Party Oathkeepers or SSZ [Stefan STAMENKOVSKI]<br>Serbian People's Party or SNP [Nenad POPOVIC]<br>Serbian Progressive Party or SNS [Aleksandar VUCIC]<br>Serbian Renewal Movement or SPO [Vuk DRASKOVIC]<br>Social Democratic Party of Serbia or SDPS [Rasim LJAJIC]<br>Socialist Party of Serbia or SPS [Ivica DACIC]<br>Strength of Serbia or PSS [Bogoljub KARIC]<br>Together for Serbia or ZZS [Nebojsa ZELENOVIC]<br>Together We Can Do Everything [Aleksandar VUCIC] (includes SNS, SDPS, PUPS, PSS, SNP, SPO, PS, NSS, USS, BS)<br>United for the Victory of Serbia or US (includes NS, SSP, DS, PSG)<br>United Peasant Party or USS [Milija MILETIC]<br>United Serbia or JS [Dragan MARKOVIC]<br>We Must or Moramo [Nebojsa ZELENOVIC, Dobrica VESELINOVIC, Aleksandar JOVANOVIC CUTA, Biljana STOJKOVIC]",
+      "text": "Albanian Democratic Alternative (coalition of ethnic Albanian parties) [Shaip KAMBERI]<br>Alliance of Vojvodina Hungarians or SVM [Istvan PASZTOR]<br>Better Serbia or BS [Dragan JOVANOVIC]<br>Democratic Party or DS [Zoran LUTOVAC]<br>Democratic Party of Serbia or DSS [Milos JOVANOVIC]<br>Dveri [Bosko OBRADOVIC]<br>Greens of Serbia or ZS [Ivan KARIC]<br>Ivica Dacic - Prime Minister of Serbia [Ivica DACIC] (includes SPS, JS, ZS)<br>Justice and Reconciliation Party or SPP [Usame ZUKORLIC] (formerly Bosniak Democratic Union of Sandzak or BDZS)<br>Movement for the Restoration of the Kingdom of Serbia or POKS (leadership is disputed)<br>Movement of Free Citizens or PSG [Pavle GRBOVIC]<br>Movement of Socialists or PS [Aleksandar VULIN]<br>National Democratic Alternative or NADA [Milos JOVANOVIC, Vojislav MIHAILOVIC, Bozidar DELIC] (includes DSS and POKS)<br>Party of Democratic Action of the Sandzak or SDA [Sulejman UGLJANIN]<br>Party of Freedom and Justice or SSP [Dragan DILAS]<br>Party of United Pensioners of Serbia or PUPS [Milan KRKOBABIC]<br>People's Party or NS or Narodna [Vuk JEREMIC]<br>People's Peasant Party or NSS [Marijan RISTICEVIC]<br>Serbian Party Oathkeepers or SSZ [Stefan STAMENKOVSKI]<br>Serbian People's Party or SNP [Nenad POPOVIC]<br>Serbian Progressive Party or SNS [Aleksandar VUCIC]<br>Serbian Renewal Movement or SPO [Vuk DRASKOVIC]<br>Social Democratic Party of Serbia or SDPS [Rasim LJAJIC]<br>Socialist Party of Serbia or SPS [Ivica DACIC]<br>Strength of Serbia or PSS [Bogoljub KARIC]<br>Together for Serbia or ZZS [Nebojsa ZELENOVIC]<br>Together We Can Do Everything [Aleksandar VUCIC] (includes SNS, SDPS, PUPS, PSS, SNP, SPO, PS, NSS, USS, BS)<br>United for the Victory of Serbia or US (includes NS, SSP, DS, PSG)<br>United Peasant Party or USS [Milija MILETIC]<br>United Serbia or JS [Dragan MARKOVIC]<br>We Must or Moramo [Nebojsa ZELENOVIC, Dobrica VESELINOVIC, Aleksandar JOVANOVIC CUTA, Biljana STOJKOVIC]",
       "note": "<strong>note:</strong> Serbia has more than 110 registered political parties and citizens' associations"
     },
     "International organization participation": {
@@ -956,50 +956,85 @@
         "text": "100% (2020)"
       }
     },
-    "Electricity - production": {
-      "text": "36.54 billion kWh (2016 est.)"
+    "Electricity": {
+      "Installed generating capacity": {
+        "text": "8.986 million kW (2020 est.)"
+      },
+      "Consumption": {
+        "text": "29,933,262,000 kWh (2019 est.)"
+      },
+      "Exports": {
+        "text": "5.943 billion kWh (2020 est.)"
+      },
+      "Imports": {
+        "text": "5.002 billion kWh (2020 est.)"
+      },
+      "Transmission/distribution losses": {
+        "text": "4.332 billion kWh (2019 est.)"
+      }
     },
-    "Electricity - consumption": {
-      "text": "29.81 billion kWh (2016 est.)"
+    "Electricity generation sources": {
+      "Fossil fuels": {
+        "text": "69.2% of total installed capacity (2020 est.)"
+      },
+      "Nuclear": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Solar": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Wind": {
+        "text": "2.9% of total installed capacity (2020 est.)"
+      },
+      "Hydroelectricity": {
+        "text": "27.3% of total installed capacity (2020 est.)"
+      },
+      "Tide and wave": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Geothermal": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Biomass and waste": {
+        "text": "0.5% of total installed capacity (2020 est.)"
+      }
     },
-    "Electricity - exports": {
-      "text": "6.428 billion kWh (2016 est.)"
+    "Coal": {
+      "Production": {
+        "text": "39.673 million metric tons (2020 est.)"
+      },
+      "Consumption": {
+        "text": "40.83 million metric tons (2020 est.)"
+      },
+      "Exports": {
+        "text": "72,000 metric tons (2020 est.)"
+      },
+      "Imports": {
+        "text": "987,000 metric tons (2020 est.)"
+      },
+      "Proven reserves": {
+        "text": "7.514 billion metric tons (2019 est.)"
+      }
     },
-    "Electricity - imports": {
-      "text": "5.068 billion kWh (2016 est.)"
-    },
-    "Electricity - installed generating capacity": {
-      "text": "7.342 million kW (2016 est.)"
-    },
-    "Electricity - from fossil fuels": {
-      "text": "65% of total installed capacity (2016 est.)"
-    },
-    "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)"
-    },
-    "Electricity - from hydroelectric plants": {
-      "text": "35% of total installed capacity (2017 est.)"
-    },
-    "Electricity - from other renewable sources": {
-      "text": "1% of total installed capacity (2017 est.)"
-    },
-    "Crude oil - production": {
-      "text": "17,000 bbl/day (2018 est.)"
-    },
-    "Crude oil - exports": {
-      "text": "123 bbl/day (2015 est.)"
-    },
-    "Crude oil - imports": {
-      "text": "40,980 bbl/day (2015 est.)"
-    },
-    "Crude oil - proved reserves": {
-      "text": "77.5 million bbl (1 January 2018 est.)"
+    "Petroleum": {
+      "Total petroleum production": {
+        "text": "15,200 bbl/day (2021 est.)"
+      },
+      "Refined petroleum consumption": {
+        "text": "79,200 bbl/day (2019 est.)"
+      },
+      "Crude oil and lease condensate exports": {
+        "text": "200 barrels/day (2018 est.)"
+      },
+      "Crude oil and lease condensate imports": {
+        "text": "53,800 barrels/day (2018 est.)"
+      },
+      "Crude oil estimated reserves": {
+        "text": "77.5 million barrels (2021 est.)"
+      }
     },
     "Refined petroleum products - production": {
       "text": "74,350 bbl/day (2015 est.)"
-    },
-    "Refined petroleum products - consumption": {
-      "text": "74,000 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
       "text": "15,750 bbl/day (2015 est.)"
@@ -1007,20 +1042,41 @@
     "Refined petroleum products - imports": {
       "text": "18,720 bbl/day (2015 est.)"
     },
-    "Natural gas - production": {
-      "text": "509.7 million cu m (2017 est.)"
+    "Natural gas": {
+      "Production": {
+        "text": "455.787 million cubic meters (2019 est.)"
+      },
+      "Consumption": {
+        "text": "2,619,191,000 cubic meters (2019 est.)"
+      },
+      "Exports": {
+        "text": "0 cubic meters (2021 est.)"
+      },
+      "Imports": {
+        "text": "1,980,647,000 cubic meters (2019 est.)"
+      },
+      "Proven reserves": {
+        "text": "48.139 billion cubic meters (2021 est.)"
+      }
     },
-    "Natural gas - consumption": {
-      "text": "2.718 billion cu m (2017 est.)"
+    "Carbon dioxide emissions": {
+      "Total emissions": {
+        "text": "47.735 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From coal and metallurgical coke": {
+        "text": "32.686 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From petroleum and other liquids": {
+        "text": "10.17 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From consumed natural gas": {
+        "text": "4.878 million metric tonnes of CO2 (2019 est.)"
+      }
     },
-    "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)"
-    },
-    "Natural gas - imports": {
-      "text": "2.01 billion cu m (2017 est.)"
-    },
-    "Natural gas - proved reserves": {
-      "text": "48.14 billion cu m (1 January 2018 est.)"
+    "Energy consumption per capita": {
+      "Total energy consumption per capita 2019": {
+        "text": "98.195 million Btu/person (2019 est.)"
+      }
     }
   },
   "Communications": {
@@ -1205,7 +1261,7 @@
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
-        "text": "17,336 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2021); 11,155 (Ukraine) (includes Kosovo; as of 5 July 2022)"
+        "text": "17,336 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2021); 11,897 (Ukraine) (includes Kosovo; as of 12 July 2022)"
       },
       "IDPs": {
         "text": "196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)"
@@ -1213,7 +1269,7 @@
       "stateless persons": {
         "text": "2,113 (includes stateless persons in Kosovo) (mid-year 2021)"
       },
-      "note": "<strong>note:</strong> 845,922 estimated refugee and migrant arrivals (January 2015-June 2022); Serbia is predominantly a transit country and hosts an estimated 5,918 migrants and asylum seekers as of May 2022"
+      "note": "<strong>note:</strong> 851,375 estimated refugee and migrant arrivals (January 2015-July 2022); Serbia is predominantly a transit country and hosts an estimated 5,918 migrants and asylum seekers as of May 2022"
     },
     "Illicit drugs": {
       "text": "<p>drug trafficking groups are major players in the procurement and transportation of of large quantities of cocaine  destined for  European markets</p>"

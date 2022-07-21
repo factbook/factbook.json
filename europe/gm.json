@@ -351,7 +351,18 @@
       "text": "0.5% (2014/17)"
     },
     "Education expenditures": {
-      "text": "5% of GDP (2018)"
+      "text": "5% of GDP (2018 est.)"
+    },
+    "Literacy": {
+      "total population": {
+        "text": "NA"
+      },
+      "male": {
+        "text": "NA"
+      },
+      "female": {
+        "text": "NA"
+      }
     },
     "School life expectancy (primary to tertiary education)": {
       "total": {
@@ -942,50 +953,85 @@
         "text": "100% (2020)"
       }
     },
-    "Electricity - production": {
-      "text": "612.8 billion kWh (2016 est.)"
+    "Electricity": {
+      "Installed generating capacity": {
+        "text": "248.265 million kW (2020 est.)"
+      },
+      "Consumption": {
+        "text": "500,350,034,000 kWh (2020 est.)"
+      },
+      "Exports": {
+        "text": "66.931 billion kWh (2020 est.)"
+      },
+      "Imports": {
+        "text": "48.047 billion kWh (2020 est.)"
+      },
+      "Transmission/distribution losses": {
+        "text": "25,970,966,000 kWh (2020 est.)"
+      }
     },
-    "Electricity - consumption": {
-      "text": "536.5 billion kWh (2016 est.)"
+    "Electricity generation sources": {
+      "Fossil fuels": {
+        "text": "40.5% of total installed capacity (2020 est.)"
+      },
+      "Nuclear": {
+        "text": "11.1% of total installed capacity (2020 est.)"
+      },
+      "Solar": {
+        "text": "9.2% of total installed capacity (2020 est.)"
+      },
+      "Wind": {
+        "text": "23.9% of total installed capacity (2020 est.)"
+      },
+      "Hydroelectricity": {
+        "text": "4.5% of total installed capacity (2020 est.)"
+      },
+      "Tide and wave": {
+        "text": "0.2% of total installed capacity (2020 est.)"
+      },
+      "Geothermal": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Biomass and waste": {
+        "text": "10.4% of total installed capacity (2020 est.)"
+      }
     },
-    "Electricity - exports": {
-      "text": "78.86 billion kWh (2016 est.)"
+    "Coal": {
+      "Production": {
+        "text": "114.86 million metric tons (2020 est.)"
+      },
+      "Consumption": {
+        "text": "145.379 million metric tons (2020 est.)"
+      },
+      "Exports": {
+        "text": "2.317 million metric tons (2020 est.)"
+      },
+      "Imports": {
+        "text": "31.503 million metric tons (2020 est.)"
+      },
+      "Proven reserves": {
+        "text": "35.9 billion metric tons (2019 est.)"
+      }
     },
-    "Electricity - imports": {
-      "text": "28.34 billion kWh (2016 est.)"
-    },
-    "Electricity - installed generating capacity": {
-      "text": "208.5 million kW (2016 est.)"
-    },
-    "Electricity - from fossil fuels": {
-      "text": "41% of total installed capacity (2016 est.)"
-    },
-    "Electricity - from nuclear fuels": {
-      "text": "5% of total installed capacity (2017 est.)"
-    },
-    "Electricity - from hydroelectric plants": {
-      "text": "2% of total installed capacity (2017 est.)"
-    },
-    "Electricity - from other renewable sources": {
-      "text": "52% of total installed capacity (2017 est.)"
-    },
-    "Crude oil - production": {
-      "text": "41,000 bbl/day (2018 est.)"
-    },
-    "Crude oil - exports": {
-      "text": "6,569 bbl/day (2017 est.)"
-    },
-    "Crude oil - imports": {
-      "text": "1.836 million bbl/day (2017 est.)"
-    },
-    "Crude oil - proved reserves": {
-      "text": "129.6 million bbl (1 January 2018 est.)"
+    "Petroleum": {
+      "Total petroleum production": {
+        "text": "135,000 bbl/day (2021 est.)"
+      },
+      "Refined petroleum consumption": {
+        "text": "2,346,500 bbl/day (2019 est.)"
+      },
+      "Crude oil and lease condensate exports": {
+        "text": "0 barrels/day (2018 est.)"
+      },
+      "Crude oil and lease condensate imports": {
+        "text": "1,720,600 barrels/day (2018 est.)"
+      },
+      "Crude oil estimated reserves": {
+        "text": "115.2 million barrels (2021 est.)"
+      }
     },
     "Refined petroleum products - production": {
       "text": "2.158 million bbl/day (2017 est.)"
-    },
-    "Refined petroleum products - consumption": {
-      "text": "2.46 million bbl/day (2017 est.)"
     },
     "Refined petroleum products - exports": {
       "text": "494,000 bbl/day (2017 est.)"
@@ -993,20 +1039,41 @@
     "Refined petroleum products - imports": {
       "text": "883,800 bbl/day (2017 est.)"
     },
-    "Natural gas - production": {
-      "text": "7.9 billion cu m (2017 est.)"
+    "Natural gas": {
+      "Production": {
+        "text": "5,128,909,000 cubic meters (2020 est.)"
+      },
+      "Consumption": {
+        "text": "87,546,767,000 cubic meters (2020 est.)"
+      },
+      "Exports": {
+        "text": "0 cubic meters (2020 est.)"
+      },
+      "Imports": {
+        "text": "83,121,531,000 cubic meters (2020 est.)"
+      },
+      "Proven reserves": {
+        "text": "23.39 billion cubic meters (2021 est.)"
+      }
     },
-    "Natural gas - consumption": {
-      "text": "93.36 billion cu m (2017 est.)"
+    "Carbon dioxide emissions": {
+      "Total emissions": {
+        "text": "726.881 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From coal and metallurgical coke": {
+        "text": "218.636 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From petroleum and other liquids": {
+        "text": "316.064 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From consumed natural gas": {
+        "text": "192.181 million metric tonnes of CO2 (2019 est.)"
+      }
     },
-    "Natural gas - exports": {
-      "text": "34.61 billion cu m (2017 est.)"
-    },
-    "Natural gas - imports": {
-      "text": "119.5 billion cu m (2017 est.)"
-    },
-    "Natural gas - proved reserves": {
-      "text": "39.5 billion cu m (1 January 2018 est.)"
+    "Energy consumption per capita": {
+      "Total energy consumption per capita 2019": {
+        "text": "161.174 million Btu/person (2019 est.)"
+      }
     }
   },
   "Communications": {
@@ -1134,7 +1201,7 @@
       "narrow gauge": {
         "text": "220 km 1.000-m gauge (79 km electrified)"
       },
-      "note": "15 km 0.900-m gauge, 24 km 0.750-m gauge (2015)"
+      "note": "15 km 0.900-mm gauge, 24 km 0.750-mm gauge (2015)"
     },
     "Roadways": {
       "total": {
@@ -1207,8 +1274,8 @@
       "note": "note - in 2021, women accounted for about 12% of the German military"
     },
     "Military deployments": {
-      "text": "up to 500 Iraq (NATO/Counter-ISIS campaign); 550 Lithuania (NATO); up to 1,400 Mali (MINUSMA/EUTM) (2022)<br><br>note(s) - Germany is a contributing member of the EuroCorps; NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Germany, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe",
-      "note": "note(s) - Germany is a contributing member of the EuroCorps; NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia&rsquo;s 2022 invasion of Ukraine, some NATO countries, including Germany, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe"
+      "text": "up to 500 Iraq (NATO); 550 Lithuania (NATO); up to 1,400 Mali (MINUSMA/EUTM) (2022)",
+      "note": "<strong>note 1: </strong> Germany is a contributing member of the EuroCorps<br><br><strong>note 2: </strong> NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Germany, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe"
     },
     "Military - note": {
       "text": "the Federal Republic of Germany joined NATO in May 1955; with the reunification of Germany in October 1990, the states of the former German Democratic Republic joined the Federal Republic of Germany in its membership of NATO<br><br>the German Army has incorporated a joint Franco-German mechanized infantry brigade since 1989, a Dutch airmobile infantry brigade since 2014, and a Dutch mechanized infantry brigade since 2016; in addition, the German Navy’s Sea Battalion (includes marine infantry, naval divers, reconnaissance, and security forces) has worked closely with the Dutch Marine Corps since 2016, including as a binational amphibious landing group (2022)"
@@ -1226,7 +1293,7 @@
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
-        "text": "616,325 (Syria), 152,677 (Afghanistan), 147,400 (Iraq), 62,152 (Eritrea), 45,704 (Iran), 34,465 (Turkey), 29,137 (Somalia), 9,329 (Russia), 9,323 (Nigeria), 8,600 (Pakistan), 7,503 (Serbia and Kosovo), 6,057 (Ethiopia) (mid-year 2021); 867,000 (Ukraine) (as of 21 June 2022)"
+        "text": "616,325 (Syria), 152,677 (Afghanistan), 147,400 (Iraq), 62,152 (Eritrea), 45,704 (Iran), 34,465 (Turkey), 29,137 (Somalia), 9,329 (Russia), 9,323 (Nigeria), 8,600 (Pakistan), 7,503 (Serbia and Kosovo), 6,057 (Ethiopia) (mid-year 2021); 893,000 (Ukraine) (as of 12 July 2022)"
       },
       "stateless persons": {
         "text": "26,980 (mid-year 2021)"

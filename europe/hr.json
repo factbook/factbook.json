@@ -347,7 +347,7 @@
       "text": "NA"
     },
     "Education expenditures": {
-      "text": "3.9% of GDP (2017)"
+      "text": "3.9% of GDP (2017 est.)"
     },
     "Literacy": {
       "definition": {
@@ -598,7 +598,7 @@
       "election results": {
         "text": "percent of vote by coalition/party - HDZ-led coalition 37.3%, Restart coalition 24.9%, DPMS-led coalition 10.9%, MOST 7.4%, Green-Left coalition 7%, P-F-SSIP 4%, HNS-LD 1.3%, NS-R 1%, other 6.2%; number of seats by coalition/party - HDZ-led coalition 66, Restart coalition 41, DPMS-led coalition 16, MOST 8, Green-Left coalition 7, P-F-SSIP 3, HNS-LD 1, NS-R 1, national minorities 8; composition as of January 2021 - men 103, women 48, percent of women 31.8%"
       },
-      "note": "<strong>note:</strong> seats by party as of March 2021 - HDZ 62, SDP 33, DP 9, Most 6, Croatian Sovereignists 4, We Can! 4, IDS 3, SDSS 3, HSS 2, HSLS 2, BZH 1, Center 1, FOKUS 1, GLAS 1, HDS 1, HSU 1, NL 1, Reformists 1, SSIP 1, WF 1, independent 12"
+      "note": "<strong>note:</strong> seats by party as of March 2021 - HDZ 62, SDP 33, DP 9, Most 6, Croatian Sovereignists 4, We Can! 4, IDS 3, SDSS 3, HSS 2, HSLS 2, BZH 1, Center 1, FOKUS 1, GLAS 1, HDS 1, HSU 1, NL 1, Reformists 1, SSIP 1, RF 1, independent 12"
     },
     "Judicial branch": {
       "highest courts": {
@@ -612,7 +612,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Bloc for Croatia or BLOK [Zlatko HASANBEGOVIC]<br>The Bridge or Most [Bozo PETROV] (formerly the Bridge of Independent Lists)<br>Center or Centar [Ivica PULJAK] (formerly Pametno and Party with a First and Last Name or SSIP) <br>Civic Liberal Alliance or GLAS [Ankar Mrak TARITAS]<br>Croatian Demochristian Party or HDS [Goran DODIG<br>Croatian Democratic Alliance of Slavonia and Baranja or HDSSB [Branimir GLAVAS]<br>Croatian Democratic Union or HDZ [Andrej PLENKOVIC]<br>Croatian Democratic Union-led coalition (includes HSLS, HDS, HDSSB)<br>Croatian Party of Pensioners or HSU [Veselko GABRICEVIC]<br>Croatian Peasant Party or HSS [Kreso BELJAK]<br>Croatian People's Party - Liberal Democrats or HNS-LD [Stjepan CURAJ]<br>Croatian Social Liberal Party or HSLS [Dario HREBAK]<br>Croatian Sovereignists or HS [Marijan PAVLICEK]<br>Focus on the Important or Focus [Davor NADI]<br>Green-Left coalition (includes MOZEMO!, RF, NL)<br>Homeland Movement or DP [Ivan PENAVA]<br>Independent Democratic Serb Party or SDSS [Milorad PUPOVAC]<br>Istrian Democratic Assembly or IDS [Dalibor PAUS]<br>New Left or NL [Ivana KEKIN]<br>People's Party - Reformists or NS-R [Radimir CACIC]<br>Restart Coalition (includes SDP, HSS, HSU, GLAS, IDS, NS-R)<br>Social Democratic Party of Croatia or SDP [Peda GRBIN]<br>We Can! or Mozemo! [collective leadership]<br>Workers' Front or RF [collective leadership]<strong><br></strong>"
+      "text": "Bloc for Croatia or BLOK or BZH [Zlatko HASANBEGOVIC]<br>The Bridge or Most [Bozo PETROV] (formerly the Bridge of Independent Lists)<br>Center or Centar [Ivica PULJAK] (formerly Pametno and Party with a First and Last Name or SSIP) <br>Civic Liberal Alliance or GLAS [Ankar Mrak TARITAS]<br>Croatian Demochristian Party or HDS [Goran DODIG<br>Croatian Democratic Alliance of Slavonia and Baranja or HDSSB [Branimir GLAVAS]<br>Croatian Democratic Union or HDZ [Andrej PLENKOVIC]<br>Croatian Democratic Union-led coalition (includes HSLS, HDS, HDSSB)<br>Croatian Party of Pensioners or HSU [Veselko GABRICEVIC]<br>Croatian Peasant Party or HSS [Kreso BELJAK]<br>Croatian People's Party - Liberal Democrats or HNS-LD [Stjepan CURAJ]<br>Croatian Social Liberal Party or HSLS [Dario HREBAK]<br>Croatian Sovereignists or HS [Marijan PAVLICEK]<br>Focus on the Important or Focus [Davor NADI]<br>Green-Left coalition (includes MOZEMO!, RF, NL)<br>Homeland Movement or DP [Ivan PENAVA] (also known as Miroslav Škoro Homeland Movement or DPMS)<br>Independent Democratic Serb Party or SDSS [Milorad PUPOVAC]<br>Istrian Democratic Assembly or IDS [Dalibor PAUS]<br>New Left or NL [Ivana KEKIN]<br>People's Party - Reformists or NS-R [Radimir CACIC]<br>Restart Coalition (includes SDP, HSS, HSU, GLAS, IDS, NS-R)<br>Social Democratic Party of Croatia or SDP [Peda GRBIN]<br>We Can! or Mozemo! [collective leadership]<br>Workers' Front or RF [collective leadership]<strong><br></strong>"
     },
     "International organization participation": {
       "text": "Australia Group, BIS, BSEC (observer), CD, CE, CEI, EAPC, EBRD, ECB, EMU, EU, FAO, G-11, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NAM (observer), NATO, NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNMIL, UNMOGIP, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC"
@@ -951,50 +951,85 @@
         "text": "100% (2020)"
       }
     },
-    "Electricity - production": {
-      "text": "12.2 billion kWh (2016 est.)"
+    "Electricity": {
+      "Installed generating capacity": {
+        "text": "4.94 million kW (2020 est.)"
+      },
+      "Consumption": {
+        "text": "16,790,680,000 kWh (2019 est.)"
+      },
+      "Exports": {
+        "text": "5.852 billion kWh (2020 est.)"
+      },
+      "Imports": {
+        "text": "10.491 billion kWh (2020 est.)"
+      },
+      "Transmission/distribution losses": {
+        "text": "1.659 billion kWh (2019 est.)"
+      }
     },
-    "Electricity - consumption": {
-      "text": "15.93 billion kWh (2016 est.)"
+    "Electricity generation sources": {
+      "Fossil fuels": {
+        "text": "41% of total installed capacity (2020 est.)"
+      },
+      "Nuclear": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Solar": {
+        "text": "0.9% of total installed capacity (2020 est.)"
+      },
+      "Wind": {
+        "text": "16.1% of total installed capacity (2020 est.)"
+      },
+      "Hydroelectricity": {
+        "text": "31.8% of total installed capacity (2020 est.)"
+      },
+      "Tide and wave": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Geothermal": {
+        "text": "0.9% of total installed capacity (2020 est.)"
+      },
+      "Biomass and waste": {
+        "text": "9.3% of total installed capacity (2020 est.)"
+      }
     },
-    "Electricity - exports": {
-      "text": "3.2 billion kWh (2016 est.)"
+    "Coal": {
+      "Production": {
+        "text": "0 metric tons (2020 est.)"
+      },
+      "Consumption": {
+        "text": "643,000 metric tons (2020 est.)"
+      },
+      "Exports": {
+        "text": "2,000 metric tons (2020 est.)"
+      },
+      "Imports": {
+        "text": "644,000 metric tons (2020 est.)"
+      },
+      "Proven reserves": {
+        "text": "0 metric tons (2019 est.)"
+      }
     },
-    "Electricity - imports": {
-      "text": "8.702 billion kWh (2016 est.)"
-    },
-    "Electricity - installed generating capacity": {
-      "text": "4.921 million kW (2016 est.)"
-    },
-    "Electricity - from fossil fuels": {
-      "text": "45% of total installed capacity (2016 est.)"
-    },
-    "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)"
-    },
-    "Electricity - from hydroelectric plants": {
-      "text": "40% of total installed capacity (2017 est.)"
-    },
-    "Electricity - from other renewable sources": {
-      "text": "16% of total installed capacity (2017 est.)"
-    },
-    "Crude oil - production": {
-      "text": "14,000 bbl/day (2018 est.)"
-    },
-    "Crude oil - exports": {
-      "text": "0 bbl/day (2015 est.)"
-    },
-    "Crude oil - imports": {
-      "text": "55,400 bbl/day (2015 est.)"
-    },
-    "Crude oil - proved reserves": {
-      "text": "71 million bbl (1 January 2018 est.)"
+    "Petroleum": {
+      "Total petroleum production": {
+        "text": "12,200 bbl/day (2021 est.)"
+      },
+      "Refined petroleum consumption": {
+        "text": "71,500 bbl/day (2019 est.)"
+      },
+      "Crude oil and lease condensate exports": {
+        "text": "0 barrels/day (2018 est.)"
+      },
+      "Crude oil and lease condensate imports": {
+        "text": "65,200 barrels/day (2018 est.)"
+      },
+      "Crude oil estimated reserves": {
+        "text": "71 million barrels (2021 est.)"
+      }
     },
     "Refined petroleum products - production": {
       "text": "74,620 bbl/day (2015 est.)"
-    },
-    "Refined petroleum products - consumption": {
-      "text": "73,000 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
       "text": "40,530 bbl/day (2015 est.)"
@@ -1002,20 +1037,41 @@
     "Refined petroleum products - imports": {
       "text": "35,530 bbl/day (2015 est.)"
     },
-    "Natural gas - production": {
-      "text": "1.048 billion cu m (2017 est.)"
+    "Natural gas": {
+      "Production": {
+        "text": "851.005 million cubic meters (2020 est.)"
+      },
+      "Consumption": {
+        "text": "3,009,113,000 cubic meters (2020 est.)"
+      },
+      "Exports": {
+        "text": "34.462 million cubic meters (2020 est.)"
+      },
+      "Imports": {
+        "text": "2,131,802,000 cubic meters (2020 est.)"
+      },
+      "Proven reserves": {
+        "text": "24.919 billion cubic meters (2021 est.)"
+      }
     },
-    "Natural gas - consumption": {
-      "text": "2.577 billion cu m (2017 est.)"
+    "Carbon dioxide emissions": {
+      "Total emissions": {
+        "text": "16.752 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From coal and metallurgical coke": {
+        "text": "1.674 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From petroleum and other liquids": {
+        "text": "9.4 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From consumed natural gas": {
+        "text": "5.678 million metric tonnes of CO2 (2019 est.)"
+      }
     },
-    "Natural gas - exports": {
-      "text": "172.7 million cu m (2017 est.)"
-    },
-    "Natural gas - imports": {
-      "text": "1.841 billion cu m (2017 est.)"
-    },
-    "Natural gas - proved reserves": {
-      "text": "24.92 billion cu m (1 January 2018 est.)"
+    "Energy consumption per capita": {
+      "Total energy consumption per capita 2019": {
+        "text": "89.733 million Btu/person (2019 est.)"
+      }
     }
   },
   "Communications": {
@@ -1147,7 +1203,7 @@
       }
     },
     "Waterways": {
-      "text": "785 km (2009)"
+      "text": "4,714 km (2022) Danube 2,859 km, Sava 562 km, Drava 505 km, Neretva 20 km, Bosut 151 km, Kupa 296 km, Mura 53 km, Korana 134 km, Lonja 134 km"
     },
     "Merchant marine": {
       "total": {

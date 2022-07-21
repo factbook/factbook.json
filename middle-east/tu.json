@@ -356,7 +356,7 @@
       }
     },
     "Education expenditures": {
-      "text": "4.3% of GDP (2018)"
+      "text": "4.3% of GDP (2018 est.)"
     },
     "Literacy": {
       "definition": {
@@ -612,7 +612,7 @@
       }
     },
     "Political parties and leaders": {
-      "text": "Democracy and Progress Party [Ali BABACAN]<br>Democrat Party or DP [Gultekin UYSAL]<br>Democratic Regions Party or DBP [Saliha AYDENIZ, Keskin BAYINDIR]<br>Felicity Party (Saadet Party) or SP [Temel KARAMOLLAOGLU]<br>Free Cause Party or HUDAPAR [Zekeriya YAPICIOGLU]<br>Future Party [Ahmet DAVUTOGLU]<br>IYI Party [Meral AKSENER]<br>Grand Unity Party or BBP [Mustafa DESTICI]<br>Justice and Development Party or AKP [Recep Tayyip ERDOGAN]<br>Nation Alliance (CHP, IYI, SP, DP) (electoral alliance)<br>Nationalist Movement Party or MHP [Devlet BAHCELI]<br>People's Alliance (AKP, MHP, BBP) (electoral alliance)<br>Patriotic Party or VP [Dogu PERINCEK]<br>Peoples' Democratic Party or HDP [Pervin BULDAN, Mithat SANCAR]<br>Republican People's Party or CHP [Kemal KILICDAROGLU]",
+      "text": "Democracy and Progress Party [Ali BABACAN]<br>Democrat Party or DP [Gultekin UYSAL]<br>Democratic Regions Party or DBP [Saliha AYDENIZ, Keskin BAYINDIR]<br>Felicity Party (Saadet Party) or SP [Temel KARAMOLLAOGLU]<br>Free Cause Party or HUDAPAR [Zekeriya YAPICIOGLU]<br>Future Party [Ahmet DAVUTOGLU]<br>IYI Party [Meral AKSENER]<br>Grand Unity Party or BBP [Mustafa DESTICI]<br>Justice and Development Party or AKP [Recep Tayyip ERDOGAN]<br>Nation Alliance (electoral alliance includes CHP, IYI, SP, DP)<br>Nationalist Movement Party or MHP [Devlet BAHCELI]<br>Patriotic Party or VP [Dogu PERINCEK]<br>People's Alliance (electoral alliance AKP, MHP, BBP)<br>Peoples' Democratic Party or HDP [Pervin BULDAN, Mithat SANCAR]<br>Republican People's Party or CHP [Kemal KILICDAROGLU]",
       "note": "<strong>note: </strong> as of September 2021, 116 political parties were legally registered"
     },
     "International organization participation": {
@@ -955,50 +955,85 @@
         "text": "100% (2020)"
       }
     },
-    "Electricity - production": {
-      "text": "261.9 billion kWh (2016 est.)"
+    "Electricity": {
+      "Installed generating capacity": {
+        "text": "96.846 million kW (2020 est.)"
+      },
+      "Consumption": {
+        "text": "263.952 billion kWh (2020 est.)"
+      },
+      "Exports": {
+        "text": "2.484 billion kWh (2020 est.)"
+      },
+      "Imports": {
+        "text": "1.888 billion kWh (2020 est.)"
+      },
+      "Transmission/distribution losses": {
+        "text": "29.275 billion kWh (2020 est.)"
+      }
     },
-    "Electricity - consumption": {
-      "text": "231.1 billion kWh (2016 est.)"
+    "Electricity generation sources": {
+      "Fossil fuels": {
+        "text": "56.2% of total installed capacity (2020 est.)"
+      },
+      "Nuclear": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Solar": {
+        "text": "3.8% of total installed capacity (2020 est.)"
+      },
+      "Wind": {
+        "text": "8.4% of total installed capacity (2020 est.)"
+      },
+      "Hydroelectricity": {
+        "text": "26.3% of total installed capacity (2020 est.)"
+      },
+      "Tide and wave": {
+        "text": "0.4% of total installed capacity (2020 est.)"
+      },
+      "Geothermal": {
+        "text": "3.4% of total installed capacity (2020 est.)"
+      },
+      "Biomass and waste": {
+        "text": "1.5% of total installed capacity (2020 est.)"
+      }
     },
-    "Electricity - exports": {
-      "text": "1.442 billion kWh (2016 est.)"
+    "Coal": {
+      "Production": {
+        "text": "78.871 million metric tons (2020 est.)"
+      },
+      "Consumption": {
+        "text": "108.271 million metric tons (2020 est.)"
+      },
+      "Exports": {
+        "text": "54,000 metric tons (2020 est.)"
+      },
+      "Imports": {
+        "text": "40.919 million metric tons (2020 est.)"
+      },
+      "Proven reserves": {
+        "text": "11.525 billion metric tons (2019 est.)"
+      }
     },
-    "Electricity - imports": {
-      "text": "6.33 billion kWh (2016 est.)"
-    },
-    "Electricity - installed generating capacity": {
-      "text": "78.5 million kW (2016 est.)"
-    },
-    "Electricity - from fossil fuels": {
-      "text": "53% of total installed capacity (2016 est.)"
-    },
-    "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)"
-    },
-    "Electricity - from hydroelectric plants": {
-      "text": "33% of total installed capacity (2017 est.)"
-    },
-    "Electricity - from other renewable sources": {
-      "text": "14% of total installed capacity (2017 est.)"
-    },
-    "Crude oil - production": {
-      "text": "55,000 bbl/day (2018 est.)"
-    },
-    "Crude oil - exports": {
-      "text": "0 bbl/day (2017 est.)"
-    },
-    "Crude oil - imports": {
-      "text": "521,500 bbl/day (2017 est.)"
-    },
-    "Crude oil - proved reserves": {
-      "text": "341.6 million bbl (1 January 2018 est.)"
+    "Petroleum": {
+      "Total petroleum production": {
+        "text": "70,300 bbl/day (2021 est.)"
+      },
+      "Refined petroleum consumption": {
+        "text": "987,300 bbl/day (2019 est.)"
+      },
+      "Crude oil and lease condensate exports": {
+        "text": "0 barrels/day (2018 est.)"
+      },
+      "Crude oil and lease condensate imports": {
+        "text": "423,500 barrels/day (2018 est.)"
+      },
+      "Crude oil estimated reserves": {
+        "text": "366 million barrels (2021 est.)"
+      }
     },
     "Refined petroleum products - production": {
       "text": "657,900 bbl/day (2017 est.)"
-    },
-    "Refined petroleum products - consumption": {
-      "text": "989,900 bbl/day (2017 est.)"
     },
     "Refined petroleum products - exports": {
       "text": "141,600 bbl/day (2017 est.)"
@@ -1006,20 +1041,41 @@
     "Refined petroleum products - imports": {
       "text": "560,000 bbl/day (2017 est.)"
     },
-    "Natural gas - production": {
-      "text": "368.1 million cu m (2017 est.)"
+    "Natural gas": {
+      "Production": {
+        "text": "469.464 million cubic meters (2019 est.)"
+      },
+      "Consumption": {
+        "text": "44,605,473,000 cubic meters (2019 est.)"
+      },
+      "Exports": {
+        "text": "759.372 million cubic meters (2019 est.)"
+      },
+      "Imports": {
+        "text": "45,091,248,000 cubic meters (2019 est.)"
+      },
+      "Proven reserves": {
+        "text": "3.794 billion cubic meters (2021 est.)"
+      }
     },
-    "Natural gas - consumption": {
-      "text": "53.6 billion cu m (2017 est.)"
+    "Carbon dioxide emissions": {
+      "Total emissions": {
+        "text": "391.792 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From coal and metallurgical coke": {
+        "text": "172.298 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From petroleum and other liquids": {
+        "text": "133.587 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From consumed natural gas": {
+        "text": "85.907 million metric tonnes of CO2 (2019 est.)"
+      }
     },
-    "Natural gas - exports": {
-      "text": "622.9 million cu m (2017 est.)"
-    },
-    "Natural gas - imports": {
-      "text": "55.13 billion cu m (2017 est.)"
-    },
-    "Natural gas - proved reserves": {
-      "text": "5.097 billion cu m (1 January 2018 est.)"
+    "Energy consumption per capita": {
+      "Total energy consumption per capita 2019": {
+        "text": "79.126 million Btu/person (2019 est.)"
+      }
     }
   },
   "Communications": {
@@ -1139,7 +1195,7 @@
     },
     "Railways": {
       "total": {
-        "text": "12,710 km (2018)"
+        "text": "11,497 km (2018)"
       },
       "standard gauge": {
         "text": "11,497 km (2018) 1.435-m gauge (1.435 km high speed train)"
@@ -1212,8 +1268,8 @@
       "note": "note - as of 2019, women made up about .3% of the military's full-time personnel"
     },
     "Military deployments": {
-      "text": "est. 150 (Azerbaijan; monitoring cease-fire, clearing mines); 250 Bosnia-Herzegovina (EUFOR); est. 30,000 Cyprus; 300 Kosovo (NATO/KFOR); 100 Lebanon (UNIFIL); est. 500 Libya; est. 3,000 Qatar; approximately 200 Somalia (training mission); est. 5,000-10,000 Syria (2022)",
-      "note": "note(s) - between 2016 and 2020, Turkey conducted four major military campaigns in northern Syria; Turkey also has deployed troops into northern Iraq on numerous occasions to combat the Kurdistan Worker's Party (PKK), including large operations involving thousands of troops in 2007, 2011, and 2018, and smaller-scale incursions in 2021 and 2022; in 2020, Turkey deployed hundreds of Turkish troops and as many as 5,000 Syrian fighters to Libya to support the Libyan Government of National Accord<br><br>in October of 2021, Turkey’s parliament extended the military’s mandate to launch cross-border operations in Iraq and Syria by two more years"
+      "text": "approximately 150 (Azerbaijan; monitoring cease-fire, clearing mines); 250 Bosnia-Herzegovina (EUFOR); approximately 30,000 Cyprus; 300 Kosovo (NATO/KFOR); 100 Lebanon (UNIFIL); estimated 500 Libya; approximately 3,000 Qatar; approximately 200 Somalia (training mission); estimated 5,000-10,000 Syria (2022)",
+      "note": "<strong>note 1:</strong> between 2016 and 2020, Turkey conducted four major military campaigns in northern Syria; Turkey also has deployed troops into northern Iraq on numerous occasions to combat the Kurdistan Worker's Party (PKK), including large operations involving thousands of troops in 2007, 2011, and 2018, and smaller-scale incursions in 2021 and 2022; in October of 2021, Turkey’s parliament extended the military’s mandate to launch cross-border operations in Iraq and Syria by two more years<br><br><strong>note 2:</strong> in 2020, Turkey deployed hundreds of Turkish troops and as many as 5,000 Syrian fighters to Libya to support the Libyan Government of National Accord<br>"
     },
     "Military - note": {
       "text": "Turkey has been a member of NATO since 1952 and hosts NATO's Land Forces Command in Izmir, as well as the AN/TPY-2 radar as part of NATO's missile defenses<br><br>under a long-range (2033) strategic plan, the Turkish Armed Forces continued efforts to modernize its equipment and force structure; Land Forces sought to produce a 20-30% smaller, more highly trained force characterized by greater mobility and firepower and capable of joint and combined operations<br><br>the Turkish Navy is a regional naval power that wants to develop the capability to project power beyond Turkey's coastal waters; it is planning to launch new frigates, submarines, and a light aircraft carrier/amphibious assault ship in the next few years, adding to its current force of about 16 frigates and 12 submarines; the Navy is heavily involved in NATO, multinational, and UN operations; its roles include control of territorial waters and security for sea lines of communications <br><br>the Turkish Air Force adopted an \"Aerospace and Missile Defense Concept\" in 2002 and is developing an integrated missile defense system; in a controversial move that complicated its relationship with NATO, it purchased the Russian S-400 air defense system for an estimated $2.5 billion in 2019; Air Force priorities include attaining a modern deployable, survivable, and sustainable force structure, and establishing a sustainable command and control system <br><br>in recent years, Turkey has taken on a greater level of international peacekeeping responsibilities, including keeping a substantial force under NATO in Afghanistan until withdrawing in 2021; Turkey also has built expeditionary military bases in Qatar, Somalia, northern Cyprus, and Sudan<br><br>the military has a substantial stake in Turkey's economy through a holding company that is involved in the automotive, energy, finance, and logistics sectors, as well as iron and steel production (2022)"
@@ -1231,7 +1287,7 @@
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
-        "text": "3,648,983 (Syria) (2022); 145,000 (Ukraine) (as of 19 May 2022)"
+        "text": "3,650,601 (Syria) (2022); 145,000 (Ukraine) (as of 19 May 2022)"
       },
       "IDPs": {
         "text": "1.099 million (displaced from 1984-2005 because of fighting between the Kurdish PKK and Turkish military; most IDPs are Kurds from eastern and southeastern provinces; no information available on persons displaced by development projects) (2021)"

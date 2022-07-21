@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "Several eastern Baltic tribes merged in medieval times to form the ethnic core of the Latvian people (ca. 8th-12th centuries A.D.). The region subsequently came under the control of Germans, Poles, Swedes, and finally, Russians. A Latvian republic emerged following World War I, but it was annexed by the USSR in 1940 - an action never recognized by the US and many other countries. Latvia reestablished its independence in 1991 following the breakup of the Soviet Union. Although the last Russian troops left in 1994, the status of the Russian minority (some 26% of the population) remains of concern to Moscow. Latvia acceded to both NATO and the EU in the spring of 2004; it joined the euro zone in 2014 and the OECD in 2016. A dual citizenship law was adopted in 2013, easing naturalization for non-citizen children."
+      "text": "Several eastern Baltic tribes merged in medieval times to form the ethnic core of the Latvian people (ca. 8th-12th centuries A.D.). The region subsequently came under the control of Germans, Poles, Swedes, and finally, Russians. A Latvian republic emerged following World War I, but it was annexed by the USSR in 1940 - an action never recognized by the US and many other countries. Latvia reestablished its independence in 1991 following the breakup of the Soviet Union. Although the last Russian troops left in 1994, the status of the Russian minority (some 25% of the population) remains of concern to Moscow. Latvia acceded to both NATO and the EU in the spring of 2004; it joined the euro zone in 2014 and the OECD in 2016. A dual citizenship law was adopted in 2013, easing naturalization for non-citizen children."
     }
   },
   "Geography": {
@@ -342,7 +342,7 @@
       "text": "NA"
     },
     "Education expenditures": {
-      "text": "4.2% of GDP (2018)"
+      "text": "4.2% of GDP (2018 est.)"
     },
     "Literacy": {
       "definition": {
@@ -933,50 +933,85 @@
         "text": "100% (2020)"
       }
     },
-    "Electricity - production": {
-      "text": "6.241 billion kWh (2016 est.)"
+    "Electricity": {
+      "Installed generating capacity": {
+        "text": "3.089 million kW (2020 est.)"
+      },
+      "Consumption": {
+        "text": "6.706 billion kWh (2020 est.)"
+      },
+      "Exports": {
+        "text": "2.548 billion kWh (2020 est.)"
+      },
+      "Imports": {
+        "text": "4.173 billion kWh (2020 est.)"
+      },
+      "Transmission/distribution losses": {
+        "text": "377 million kWh (2020 est.)"
+      }
     },
-    "Electricity - consumption": {
-      "text": "6.798 billion kWh (2016 est.)"
+    "Electricity generation sources": {
+      "Fossil fuels": {
+        "text": "33.4% of total installed capacity (2020 est.)"
+      },
+      "Nuclear": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Solar": {
+        "text": "0.1% of total installed capacity (2020 est.)"
+      },
+      "Wind": {
+        "text": "3.2% of total installed capacity (2020 est.)"
+      },
+      "Hydroelectricity": {
+        "text": "47.5% of total installed capacity (2020 est.)"
+      },
+      "Tide and wave": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Geothermal": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Biomass and waste": {
+        "text": "15.9% of total installed capacity (2020 est.)"
+      }
     },
-    "Electricity - exports": {
-      "text": "3.795 billion kWh (2016 est.)"
+    "Coal": {
+      "Production": {
+        "text": "0 metric tons (2020 est.)"
+      },
+      "Consumption": {
+        "text": "39,000 metric tons (2020 est.)"
+      },
+      "Exports": {
+        "text": "3,000 metric tons (2020 est.)"
+      },
+      "Imports": {
+        "text": "40,000 metric tons (2020 est.)"
+      },
+      "Proven reserves": {
+        "text": "0 metric tons (2019 est.)"
+      }
     },
-    "Electricity - imports": {
-      "text": "4.828 billion kWh (2016 est.)"
-    },
-    "Electricity - installed generating capacity": {
-      "text": "2.932 million kW (2016 est.)"
-    },
-    "Electricity - from fossil fuels": {
-      "text": "39% of total installed capacity (2016 est.)"
-    },
-    "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)"
-    },
-    "Electricity - from hydroelectric plants": {
-      "text": "53% of total installed capacity (2017 est.)"
-    },
-    "Electricity - from other renewable sources": {
-      "text": "8% of total installed capacity (2017 est.)"
-    },
-    "Crude oil - production": {
-      "text": "0 bbl/day (2018 est.)"
-    },
-    "Crude oil - exports": {
-      "text": "0 bbl/day (2017 est.)"
-    },
-    "Crude oil - imports": {
-      "text": "0 bbl/day (2017 est.)"
-    },
-    "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2018 est.)"
+    "Petroleum": {
+      "Total petroleum production": {
+        "text": "1,600 bbl/day (2021 est.)"
+      },
+      "Refined petroleum consumption": {
+        "text": "39,900 bbl/day (2019 est.)"
+      },
+      "Crude oil and lease condensate exports": {
+        "text": "0 barrels/day (2018 est.)"
+      },
+      "Crude oil and lease condensate imports": {
+        "text": "0 barrels/day (2018 est.)"
+      },
+      "Crude oil estimated reserves": {
+        "text": "0 barrels (2021 est.)"
+      }
     },
     "Refined petroleum products - production": {
       "text": "0 bbl/day (2017 est.)"
-    },
-    "Refined petroleum products - consumption": {
-      "text": "44,600 bbl/day (2017 est.)"
     },
     "Refined petroleum products - exports": {
       "text": "16,180 bbl/day (2017 est.)"
@@ -984,20 +1019,41 @@
     "Refined petroleum products - imports": {
       "text": "54,370 bbl/day (2017 est.)"
     },
-    "Natural gas - production": {
-      "text": "0 cu m (2017 est.)"
+    "Natural gas": {
+      "Production": {
+        "text": "0 cubic meters (2021 est.)"
+      },
+      "Consumption": {
+        "text": "1,067,798,000 cubic meters (2020 est.)"
+      },
+      "Exports": {
+        "text": "0 cubic meters (2021 est.)"
+      },
+      "Imports": {
+        "text": "1,067,798,000 cubic meters (2020 est.)"
+      },
+      "Proven reserves": {
+        "text": "0 cubic meters (2021 est.)"
+      }
     },
-    "Natural gas - consumption": {
-      "text": "1.218 billion cu m (2017 est.)"
+    "Carbon dioxide emissions": {
+      "Total emissions": {
+        "text": "8.45 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From coal and metallurgical coke": {
+        "text": "149,000 metric tonnes of CO2 (2019 est.)"
+      },
+      "From petroleum and other liquids": {
+        "text": "5.693 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From consumed natural gas": {
+        "text": "2.608 million metric tonnes of CO2 (2019 est.)"
+      }
     },
-    "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)"
-    },
-    "Natural gas - imports": {
-      "text": "1.246 billion cu m (2017 est.)"
-    },
-    "Natural gas - proved reserves": {
-      "text": "0 cu m (2014 est.)"
+    "Energy consumption per capita": {
+      "Total energy consumption per capita 2019": {
+        "text": "86.645 million Btu/person (2019 est.)"
+      }
     }
   },
   "Communications": {
@@ -1192,7 +1248,7 @@
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
-        "text": "34,201 (Ukraine) (as of 5 July 2022)"
+        "text": "34,738 (Ukraine) (as of 12 July 2022)"
       },
       "stateless persons": {
         "text": "209,168 (mid-year 2021); note - individuals who were Latvian citizens prior to the 1940 Soviet occupation and their descendants were recognized as Latvian citizens when the country's independence was restored in 1991; citizens of the former Soviet Union residing in Latvia who have neither Latvian nor other citizenship are considered non-citizens (officially there is no statelessness in Latvia) and are entitled to non-citizen passports; children born after Latvian independence to stateless parents are entitled to Latvian citizenship upon their parents' request; non-citizens cannot vote or hold certain government jobs and are exempt from military service but can travel visa-free in the EU under the Schengen accord like Latvian citizens; non-citizens can obtain naturalization if they have been permanent residents of Latvia for at least five years, pass tests in Latvian language and history, and know the words of the Latvian national anthem"

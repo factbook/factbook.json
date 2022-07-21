@@ -263,6 +263,9 @@
     "Current Health Expenditure": {
       "text": "NA"
     },
+    "Physicians density": {
+      "text": "NA"
+    },
     "Sanitation facility access": {
       "improved: urban": {
         "text": "urban: 99.9% of population"
@@ -296,7 +299,18 @@
       "text": "NA"
     },
     "Education expenditures": {
-      "text": "1.3% of GDP (2017)"
+      "text": "1.3% of GDP (2017 est.)"
+    },
+    "Literacy": {
+      "total population": {
+        "text": "NA"
+      },
+      "male": {
+        "text": "NA"
+      },
+      "female": {
+        "text": "NA"
+      }
     },
     "School life expectancy (primary to tertiary education)": {
       "total": {
@@ -780,51 +794,85 @@
         "text": "100% (2020)"
       }
     },
-    "Electricity - production": {
-      "text": "650 million kWh (2016 est.)"
+    "Electricity": {
+      "Installed generating capacity": {
+        "text": "172,000 kW (2020 est.)"
+      },
+      "Consumption": {
+        "text": "533.434 million kWh (2019 est.)"
+      },
+      "Exports": {
+        "text": "0 kWh (2020 est.)"
+      },
+      "Imports": {
+        "text": "0 kWh (2020 est.)"
+      },
+      "Transmission/distribution losses": {
+        "text": "41 million kWh (2019 est.)"
+      }
     },
-    "Electricity - consumption": {
-      "text": "604.5 million kWh (2016 est.)"
+    "Electricity generation sources": {
+      "Fossil fuels": {
+        "text": "100% of total installed capacity (2020 est.)"
+      },
+      "Nuclear": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Solar": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Wind": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Hydroelectricity": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Tide and wave": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Geothermal": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Biomass and waste": {
+        "text": "0% of total installed capacity (2020 est.)"
+      }
     },
-    "Electricity - exports": {
-      "text": "0 kWh (2016 est.)"
+    "Coal": {
+      "Production": {
+        "text": "0 metric tons (2020 est.)"
+      },
+      "Consumption": {
+        "text": "0 metric tons (2020 est.)"
+      },
+      "Exports": {
+        "text": "0 metric tons (2020 est.)"
+      },
+      "Imports": {
+        "text": "0 metric tons (2020 est.)"
+      },
+      "Proven reserves": {
+        "text": "0 metric tons (2019 est.)"
+      }
     },
-    "Electricity - imports": {
-      "text": "0 kWh (2016 est.)"
-    },
-    "Electricity - installed generating capacity": {
-      "text": "171,000 kW (2016 est.)"
-    },
-    "Electricity - from fossil fuels": {
-      "text": "100% of total installed capacity (2016 est.)"
-    },
-    "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)"
-    },
-    "Electricity - from hydroelectric plants": {
-      "text": "0% of total installed capacity (2017 est.)"
-    },
-    "Electricity - from other renewable sources": {
-      "text": "0% of total installed capacity (2017 est.)",
-      "note": "<strong>note:</strong> the Tynes Bay Waste Treatment Facility turns waste to electric energy"
-    },
-    "Crude oil - production": {
-      "text": "0 bbl/day (2018 est.)"
-    },
-    "Crude oil - exports": {
-      "text": "0 bbl/day (2015 est.)"
-    },
-    "Crude oil - imports": {
-      "text": "0 bbl/day (2015 est.)"
-    },
-    "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2018 est.)"
+    "Petroleum": {
+      "Total petroleum production": {
+        "text": "0 bbl/day (2021 est.)"
+      },
+      "Refined petroleum consumption": {
+        "text": "5,200 bbl/day (2019 est.)"
+      },
+      "Crude oil and lease condensate exports": {
+        "text": "0 barrels/day (2018 est.)"
+      },
+      "Crude oil and lease condensate imports": {
+        "text": "0 barrels/day (2018 est.)"
+      },
+      "Crude oil estimated reserves": {
+        "text": "0 barrels (2021 est.)"
+      }
     },
     "Refined petroleum products - production": {
       "text": "0 bbl/day (2017 est.)"
-    },
-    "Refined petroleum products - consumption": {
-      "text": "5,000 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
       "text": "0 bbl/day (2015 est.)"
@@ -832,20 +880,41 @@
     "Refined petroleum products - imports": {
       "text": "3,939 bbl/day (2015 est.)"
     },
-    "Natural gas - production": {
-      "text": "0 cu m (2017 est.)"
+    "Natural gas": {
+      "Production": {
+        "text": "0 cubic meters (2021 est.)"
+      },
+      "Consumption": {
+        "text": "0 cubic meters (2021 est.)"
+      },
+      "Exports": {
+        "text": "0 cubic meters (2021 est.)"
+      },
+      "Imports": {
+        "text": "0 cubic meters (2021 est.)"
+      },
+      "Proven reserves": {
+        "text": "0 cubic meters (2021 est.)"
+      }
     },
-    "Natural gas - consumption": {
-      "text": "0 cu m (2017 est.)"
+    "Carbon dioxide emissions": {
+      "Total emissions": {
+        "text": "796,000 metric tonnes of CO2 (2019 est.)"
+      },
+      "From coal and metallurgical coke": {
+        "text": "0 metric tonnes of CO2 (2019 est.)"
+      },
+      "From petroleum and other liquids": {
+        "text": "796,000 metric tonnes of CO2 (2019 est.)"
+      },
+      "From consumed natural gas": {
+        "text": "0 metric tonnes of CO2 (2019 est.)"
+      }
     },
-    "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)"
-    },
-    "Natural gas - imports": {
-      "text": "0 cu m (2017 est.)"
-    },
-    "Natural gas - proved reserves": {
-      "text": "0 cu m (1 January 2014 est.)"
+    "Energy consumption per capita": {
+      "Total energy consumption per capita 2019": {
+        "text": "176.312 million Btu/person (2019 est.)"
+      }
     }
   },
   "Communications": {

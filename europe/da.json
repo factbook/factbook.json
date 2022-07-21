@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "<p>Once the seat of Viking raiders and later a major north European power, Denmark has evolved into a modern, prosperous nation that is participating in the general political and economic integration of Europe. It joined NATO in 1949 and the EEC (now the EU) in 1973. However, the country has opted out of certain elements of the EU's Maastricht Treaty, including the European Economic and Monetary Union, European defense cooperation, and issues concerning certain justice and home affairs.</p>"
+      "text": "<p>Once the seat of Viking raiders and later a major north European power, Denmark has evolved into a modern, prosperous nation that is participating in the general political and economic integration of Europe. It joined NATO in 1949 and the EEC (now the EU) in 1973. However, the country has opted out of certain elements of the EU's Maastricht Treaty, including the European Economic and Monetary Union, European defense cooperation, and justice and home affairs issues.</p>"
     }
   },
   "Geography": {
@@ -341,7 +341,18 @@
       "text": "NA"
     },
     "Education expenditures": {
-      "text": "7.8% of GDP (2017)"
+      "text": "7.8% of GDP (2017 est.)"
+    },
+    "Literacy": {
+      "total population": {
+        "text": "NA"
+      },
+      "male": {
+        "text": "NA"
+      },
+      "female": {
+        "text": "NA"
+      }
     },
     "School life expectancy (primary to tertiary education)": {
       "total": {
@@ -909,50 +920,85 @@
         "text": "100% (2020)"
       }
     },
-    "Electricity - production": {
-      "text": "29.84 billion kWh (2016 est.)"
+    "Electricity": {
+      "Installed generating capacity": {
+        "text": "17.655 million kW (2020 est.)"
+      },
+      "Consumption": {
+        "text": "33.081 billion kWh (2020 est.)"
+      },
+      "Exports": {
+        "text": "12.694 billion kWh (2020 est.)"
+      },
+      "Imports": {
+        "text": "18.891 billion kWh (2020 est.)"
+      },
+      "Transmission/distribution losses": {
+        "text": "1.573 billion kWh (2020 est.)"
+      }
     },
-    "Electricity - consumption": {
-      "text": "33.02 billion kWh (2016 est.)"
+    "Electricity generation sources": {
+      "Fossil fuels": {
+        "text": "14.8% of total installed capacity (2020 est.)"
+      },
+      "Nuclear": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Solar": {
+        "text": "4.2% of total installed capacity (2020 est.)"
+      },
+      "Wind": {
+        "text": "57.5% of total installed capacity (2020 est.)"
+      },
+      "Hydroelectricity": {
+        "text": "0.1% of total installed capacity (2020 est.)"
+      },
+      "Tide and wave": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Geothermal": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Biomass and waste": {
+        "text": "23.5% of total installed capacity (2020 est.)"
+      }
     },
-    "Electricity - exports": {
-      "text": "9.919 billion kWh (2016 est.)"
+    "Coal": {
+      "Production": {
+        "text": "0 metric tons (2020 est.)"
+      },
+      "Consumption": {
+        "text": "1.249 million metric tons (2020 est.)"
+      },
+      "Exports": {
+        "text": "194,000 metric tons (2020 est.)"
+      },
+      "Imports": {
+        "text": "1.122 million metric tons (2020 est.)"
+      },
+      "Proven reserves": {
+        "text": "0 metric tons (2019 est.)"
+      }
     },
-    "Electricity - imports": {
-      "text": "14.98 billion kWh (2016 est.)"
-    },
-    "Electricity - installed generating capacity": {
-      "text": "14.34 million kW (2016 est.)"
-    },
-    "Electricity - from fossil fuels": {
-      "text": "46% of total installed capacity (2016 est.)"
-    },
-    "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)"
-    },
-    "Electricity - from hydroelectric plants": {
-      "text": "0% of total installed capacity (2017 est.)"
-    },
-    "Electricity - from other renewable sources": {
-      "text": "54% of total installed capacity (2017 est.)"
-    },
-    "Crude oil - production": {
-      "text": "115,000 bbl/day (2018 est.)"
-    },
-    "Crude oil - exports": {
-      "text": "82,980 bbl/day (2017 est.)"
-    },
-    "Crude oil - imports": {
-      "text": "98,240 bbl/day (2017 est.)"
-    },
-    "Crude oil - proved reserves": {
-      "text": "439 million bbl (1 January 2018 est.)"
+    "Petroleum": {
+      "Total petroleum production": {
+        "text": "69,000 bbl/day (2021 est.)"
+      },
+      "Refined petroleum consumption": {
+        "text": "165,400 bbl/day (2019 est.)"
+      },
+      "Crude oil and lease condensate exports": {
+        "text": "56,700 barrels/day (2018 est.)"
+      },
+      "Crude oil and lease condensate imports": {
+        "text": "95,200 barrels/day (2018 est.)"
+      },
+      "Crude oil estimated reserves": {
+        "text": "441 million barrels (2021 est.)"
+      }
     },
     "Refined petroleum products - production": {
       "text": "183,900 bbl/day (2017 est.)"
-    },
-    "Refined petroleum products - consumption": {
-      "text": "158,500 bbl/day (2017 est.)"
     },
     "Refined petroleum products - exports": {
       "text": "133,700 bbl/day (2017 est.)"
@@ -960,20 +1006,41 @@
     "Refined petroleum products - imports": {
       "text": "109,700 bbl/day (2017 est.)"
     },
-    "Natural gas - production": {
-      "text": "4.842 billion cu m (2017 est.)"
+    "Natural gas": {
+      "Production": {
+        "text": "1,314,636,000 cubic meters (2020 est.)"
+      },
+      "Consumption": {
+        "text": "2,188,096,000 cubic meters (2020 est.)"
+      },
+      "Exports": {
+        "text": "1,700,594,000 cubic meters (2020 est.)"
+      },
+      "Imports": {
+        "text": "2,645,893,000 cubic meters (2020 est.)"
+      },
+      "Proven reserves": {
+        "text": "29.534 billion cubic meters (2021 est.)"
+      }
     },
-    "Natural gas - consumption": {
-      "text": "3.115 billion cu m (2017 est.)"
+    "Carbon dioxide emissions": {
+      "Total emissions": {
+        "text": "33.85 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From coal and metallurgical coke": {
+        "text": "3.455 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From petroleum and other liquids": {
+        "text": "24.621 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From consumed natural gas": {
+        "text": "5.775 million metric tonnes of CO2 (2019 est.)"
+      }
     },
-    "Natural gas - exports": {
-      "text": "2.237 billion cu m (2017 est.)"
-    },
-    "Natural gas - imports": {
-      "text": "509.7 million cu m (2017 est.)"
-    },
-    "Natural gas - proved reserves": {
-      "text": "12.86 billion cu m (1 January 2018 est.)"
+    "Energy consumption per capita": {
+      "Total energy consumption per capita 2019": {
+        "text": "124.163 million Btu/person (2019 est.)"
+      }
     }
   },
   "Communications": {
@@ -1161,8 +1228,8 @@
       "note": "note(s) - women have been able serve in all military occupations, including combat arms, since 1988; as of 2019, they made up about 8% of the military's full-time personnel; conscientious objectors can choose to instead serve 6 months in a non-military position, for example in Beredskabsstyrelsen (dealing with non-military disasters like fires, flood, pollution, etc.) or overseas foreign aid work"
     },
     "Military deployments": {
-      "text": "approximately 200 Baltics (NATO); approximately 100 Middle East/Iraq (NATO) (2022)<br><br>note - in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Denmark, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe",
-      "note": "note - in response to Russia&rsquo;s 2022 invasion of Ukraine, some NATO countries, including Denmark, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe"
+      "text": "approximately 200 Baltics (NATO); approximately 100 Middle East/Iraq (NATO) (2022)",
+      "note": "<strong>note: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Denmark, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe"
     },
     "Military - note": {
       "text": "Denmark is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br><br>Denmark is a member of the EU, but opted out of the EU’s Common Defense and Security Policy, and therefore does not participate in EU military operations or in the cooperation on development and acquisition of military capabilities within the EU framework<br> <p>the Danish Armed Forces cooperate closely with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009<br><br>in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020</p> (2022)"
@@ -1180,7 +1247,7 @@
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
-        "text": "19,833 (Syria), 5,634 (Eritrea) (mid-year 2021); 29,244 (Ukraine) (as of 3 2022)"
+        "text": "19,833 (Syria), 5,634 (Eritrea) (mid-year 2021); 31,561 (Ukraine) (as of 13 July 2022)"
       },
       "stateless persons": {
         "text": "11,608 (mid-year 2021)"

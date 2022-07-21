@@ -352,7 +352,7 @@
       }
     },
     "Education expenditures": {
-      "text": "1.8% of GDP (2019)"
+      "text": "1.8% of GDP (2019 est.)"
     },
     "Literacy": {
       "definition": {
@@ -955,50 +955,85 @@
         "text": "6% (2019)"
       }
     },
-    "Electricity - production": {
-      "text": "10.2 billion kWh (2016 est.)"
+    "Electricity": {
+      "Installed generating capacity": {
+        "text": "7.344 million kW (2020 est.)"
+      },
+      "Consumption": {
+        "text": "11.815 billion kWh (2019 est.)"
+      },
+      "Exports": {
+        "text": "0 kWh (2019 est.)"
+      },
+      "Imports": {
+        "text": "0 kWh (2019 est.)"
+      },
+      "Transmission/distribution losses": {
+        "text": "1.741 billion kWh (2019 est.)"
+      }
     },
-    "Electricity - consumption": {
-      "text": "9.036 billion kWh (2016 est.)"
+    "Electricity generation sources": {
+      "Fossil fuels": {
+        "text": "28.4% of total installed capacity (2020 est.)"
+      },
+      "Nuclear": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Solar": {
+        "text": "0.1% of total installed capacity (2020 est.)"
+      },
+      "Wind": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Hydroelectricity": {
+        "text": "70.1% of total installed capacity (2020 est.)"
+      },
+      "Tide and wave": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Geothermal": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Biomass and waste": {
+        "text": "1.4% of total installed capacity (2020 est.)"
+      }
     },
-    "Electricity - exports": {
-      "text": "0 kWh (2016 est.)"
+    "Coal": {
+      "Production": {
+        "text": "0 metric tons (2020 est.)"
+      },
+      "Consumption": {
+        "text": "0 metric tons (2020 est.)"
+      },
+      "Exports": {
+        "text": "0 metric tons (2020 est.)"
+      },
+      "Imports": {
+        "text": "0 metric tons (2020 est.)"
+      },
+      "Proven reserves": {
+        "text": "0 metric tons (2019 est.)"
+      }
     },
-    "Electricity - imports": {
-      "text": "0 kWh (2016 est.)"
-    },
-    "Electricity - installed generating capacity": {
-      "text": "2.613 million kW (2016 est.)"
-    },
-    "Electricity - from fossil fuels": {
-      "text": "34% of total installed capacity (2016 est.)"
-    },
-    "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)"
-    },
-    "Electricity - from hydroelectric plants": {
-      "text": "64% of total installed capacity (2017 est.)"
-    },
-    "Electricity - from other renewable sources": {
-      "text": "2% of total installed capacity (2017 est.)"
-    },
-    "Crude oil - production": {
-      "text": "1.593 million bbl/day (2018 est.)"
-    },
-    "Crude oil - exports": {
-      "text": "1.782 million bbl/day (2015 est.)"
-    },
-    "Crude oil - imports": {
-      "text": "0 bbl/day (2015 est.)"
-    },
-    "Crude oil - proved reserves": {
-      "text": "9.523 billion bbl (1 January 2018 est.)"
+    "Petroleum": {
+      "Total petroleum production": {
+        "text": "1,197,600 bbl/day (2021 est.)"
+      },
+      "Refined petroleum consumption": {
+        "text": "133,400 bbl/day (2019 est.)"
+      },
+      "Crude oil and lease condensate exports": {
+        "text": "1,367,400 barrels/day (2018 est.)"
+      },
+      "Crude oil and lease condensate imports": {
+        "text": "0 barrels/day (2018 est.)"
+      },
+      "Crude oil estimated reserves": {
+        "text": "7.783 billion barrels (2021 est.)"
+      }
     },
     "Refined petroleum products - production": {
       "text": "53,480 bbl/day (2015 est.)"
-    },
-    "Refined petroleum products - consumption": {
-      "text": "130,000 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
       "text": "30,340 bbl/day (2015 est.)"
@@ -1006,20 +1041,41 @@
     "Refined petroleum products - imports": {
       "text": "111,600 bbl/day (2015 est.)"
     },
-    "Natural gas - production": {
-      "text": "3.115 billion cu m (2017 est.)"
+    "Natural gas": {
+      "Production": {
+        "text": "6,767,715,000 cubic meters (2019 est.)"
+      },
+      "Consumption": {
+        "text": "860.887 million cubic meters (2019 est.)"
+      },
+      "Exports": {
+        "text": "5,877,945,000 cubic meters (2019 est.)"
+      },
+      "Imports": {
+        "text": "0 cubic meters (2021 est.)"
+      },
+      "Proven reserves": {
+        "text": "343.001 billion cubic meters (2021 est.)"
+      }
     },
-    "Natural gas - consumption": {
-      "text": "821.2 million cu m (2017 est.)"
+    "Carbon dioxide emissions": {
+      "Total emissions": {
+        "text": "19.362 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From coal and metallurgical coke": {
+        "text": "0 metric tonnes of CO2 (2019 est.)"
+      },
+      "From petroleum and other liquids": {
+        "text": "17.673 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From consumed natural gas": {
+        "text": "1.689 million metric tonnes of CO2 (2019 est.)"
+      }
     },
-    "Natural gas - exports": {
-      "text": "3.993 billion cu m (2017 est.)"
-    },
-    "Natural gas - imports": {
-      "text": "0 cu m (2017 est.)"
-    },
-    "Natural gas - proved reserves": {
-      "text": "308.1 billion cu m (1 January 2018 est.)"
+    "Energy consumption per capita": {
+      "Total energy consumption per capita 2019": {
+        "text": "11.693 million Btu/person (2019 est.)"
+      }
     }
   },
   "Communications": {
@@ -1070,7 +1126,7 @@
         "text": "230,610 (2020 est.)"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "0.7 (2020 est.) less than 1"
+        "text": "0.7 (2020 est.)"
       }
     }
   },
@@ -1147,7 +1203,7 @@
       "narrow gauge": {
         "text": "2,729 km (2014) 1.067-m gauge"
       },
-      "note": "123 km 0.600-m gauge"
+      "note": "123 km 0.600-mm gauge"
     },
     "Roadways": {
       "total": {

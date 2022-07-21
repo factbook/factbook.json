@@ -342,7 +342,18 @@
       "text": "NA"
     },
     "Education expenditures": {
-      "text": "7.6% of GDP (2018)"
+      "text": "7.6% of GDP (2018 est.)"
+    },
+    "Literacy": {
+      "total population": {
+        "text": "NA"
+      },
+      "male": {
+        "text": "NA"
+      },
+      "female": {
+        "text": "NA"
+      }
     },
     "School life expectancy (primary to tertiary education)": {
       "total": {
@@ -913,50 +924,85 @@
         "text": "100% (2020)"
       }
     },
-    "Electricity - production": {
-      "text": "152.9 billion kWh (2016 est.)"
+    "Electricity": {
+      "Installed generating capacity": {
+        "text": "43.499 million kW (2020 est.)"
+      },
+      "Consumption": {
+        "text": "124.609 billion kWh (2020 est.)"
+      },
+      "Exports": {
+        "text": "36.824 billion kWh (2020 est.)"
+      },
+      "Imports": {
+        "text": "11.827 billion kWh (2020 est.)"
+      },
+      "Transmission/distribution losses": {
+        "text": "10.434 billion kWh (2020 est.)"
+      }
     },
-    "Electricity - consumption": {
-      "text": "133.5 billion kWh (2016 est.)"
+    "Electricity generation sources": {
+      "Fossil fuels": {
+        "text": "1% of total installed capacity (2020 est.)"
+      },
+      "Nuclear": {
+        "text": "29.5% of total installed capacity (2020 est.)"
+      },
+      "Solar": {
+        "text": "0.7% of total installed capacity (2020 est.)"
+      },
+      "Wind": {
+        "text": "17.2% of total installed capacity (2020 est.)"
+      },
+      "Hydroelectricity": {
+        "text": "44.7% of total installed capacity (2020 est.)"
+      },
+      "Tide and wave": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Geothermal": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Biomass and waste": {
+        "text": "6.9% of total installed capacity (2020 est.)"
+      }
     },
-    "Electricity - exports": {
-      "text": "26.02 billion kWh (2016 est.)"
+    "Coal": {
+      "Production": {
+        "text": "1.07 million metric tons (2020 est.)"
+      },
+      "Consumption": {
+        "text": "3.328 million metric tons (2020 est.)"
+      },
+      "Exports": {
+        "text": "24,000 metric tons (2020 est.)"
+      },
+      "Imports": {
+        "text": "2.144 million metric tons (2020 est.)"
+      },
+      "Proven reserves": {
+        "text": "1 million metric tons (2019 est.)"
+      }
     },
-    "Electricity - imports": {
-      "text": "14.29 billion kWh (2016 est.)"
-    },
-    "Electricity - installed generating capacity": {
-      "text": "40.29 million kW (2016 est.)"
-    },
-    "Electricity - from fossil fuels": {
-      "text": "5% of total installed capacity (2016 est.)"
-    },
-    "Electricity - from nuclear fuels": {
-      "text": "22% of total installed capacity (2017 est.)"
-    },
-    "Electricity - from hydroelectric plants": {
-      "text": "42% of total installed capacity (2017 est.)"
-    },
-    "Electricity - from other renewable sources": {
-      "text": "32% of total installed capacity (2017 est.)"
-    },
-    "Crude oil - production": {
-      "text": "0 bbl/day (2018 est.)"
-    },
-    "Crude oil - exports": {
-      "text": "14,570 bbl/day (2017 est.)"
-    },
-    "Crude oil - imports": {
-      "text": "400,200 bbl/day (2017 est.)"
-    },
-    "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2018 est.)"
+    "Petroleum": {
+      "Total petroleum production": {
+        "text": "10,600 bbl/day (2021 est.)"
+      },
+      "Refined petroleum consumption": {
+        "text": "295,800 bbl/day (2019 est.)"
+      },
+      "Crude oil and lease condensate exports": {
+        "text": "0 barrels/day (2018 est.)"
+      },
+      "Crude oil and lease condensate imports": {
+        "text": "403,200 barrels/day (2018 est.)"
+      },
+      "Crude oil estimated reserves": {
+        "text": "0 barrels (2021 est.)"
+      }
     },
     "Refined petroleum products - production": {
       "text": "413,200 bbl/day (2017 est.)"
-    },
-    "Refined petroleum products - consumption": {
-      "text": "323,100 bbl/day (2017 est.)"
     },
     "Refined petroleum products - exports": {
       "text": "371,100 bbl/day (2017 est.)"
@@ -964,20 +1010,41 @@
     "Refined petroleum products - imports": {
       "text": "229,600 bbl/day (2017 est.)"
     },
-    "Natural gas - production": {
-      "text": "0 cu m (2017 est.)"
+    "Natural gas": {
+      "Production": {
+        "text": "0 cubic meters (2021 est.)"
+      },
+      "Consumption": {
+        "text": "1,275,785,000 cubic meters (2020 est.)"
+      },
+      "Exports": {
+        "text": "34.886 million cubic meters (2020 est.)"
+      },
+      "Imports": {
+        "text": "1,310,671,000 cubic meters (2020 est.)"
+      },
+      "Proven reserves": {
+        "text": "0 cubic meters (2021 est.)"
+      }
     },
-    "Natural gas - consumption": {
-      "text": "764.5 million cu m (2017 est.)"
+    "Carbon dioxide emissions": {
+      "Total emissions": {
+        "text": "48.144 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From coal and metallurgical coke": {
+        "text": "7.38 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From petroleum and other liquids": {
+        "text": "38.406 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From consumed natural gas": {
+        "text": "2.359 million metric tonnes of CO2 (2019 est.)"
+      }
     },
-    "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)"
-    },
-    "Natural gas - imports": {
-      "text": "764.5 million cu m (2017 est.)"
-    },
-    "Natural gas - proved reserves": {
-      "text": "0 cu m (1 January 2014 est.)"
+    "Energy consumption per capita": {
+      "Total energy consumption per capita 2019": {
+        "text": "210.882 million Btu/person (2019 est.)"
+      }
     }
   },
   "Communications": {
@@ -1180,7 +1247,7 @@
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
-        "text": "114,995 (Syria), 28,744 (Afghanistan), 26,911 (Eritrea), 11,574 (Somalia), 11,153 (Iraq), 7,516 (Iran) (2020); 41,285 (Ukraine) (as of 4 July 2022)"
+        "text": "114,995 (Syria), 28,744 (Afghanistan), 26,911 (Eritrea), 11,574 (Somalia), 11,153 (Iraq), 7,516 (Iran) (2020); 41,776 (Ukraine) (as of 12 July 2022)"
       },
       "stateless persons": {
         "text": "50,098 (mid-year 2021); note - the majority of stateless people are from the Middle East and Somalia"

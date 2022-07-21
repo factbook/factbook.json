@@ -350,7 +350,7 @@
       "text": "0.7% (2010/12)"
     },
     "Education expenditures": {
-      "text": "4.6% of GDP (2018)"
+      "text": "4.6% of GDP (2018 est.)"
     },
     "Literacy": {
       "definition": {
@@ -960,50 +960,85 @@
         "text": "100% (2020)"
       }
     },
-    "Electricity - production": {
-      "text": "156.9 billion kWh (2016 est.)"
+    "Electricity": {
+      "Installed generating capacity": {
+        "text": "47.269 million kW (2020 est.)"
+      },
+      "Consumption": {
+        "text": "149.203 billion kWh (2020 est.)"
+      },
+      "Exports": {
+        "text": "7.357 billion kWh (2020 est.)"
+      },
+      "Imports": {
+        "text": "20.624 billion kWh (2020 est.)"
+      },
+      "Transmission/distribution losses": {
+        "text": "9.995 billion kWh (2020 est.)"
+      }
     },
-    "Electricity - consumption": {
-      "text": "149.4 billion kWh (2016 est.)"
+    "Electricity generation sources": {
+      "Fossil fuels": {
+        "text": "79.8% of total installed capacity (2020 est.)"
+      },
+      "Nuclear": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Solar": {
+        "text": "1.4% of total installed capacity (2020 est.)"
+      },
+      "Wind": {
+        "text": "10.8% of total installed capacity (2020 est.)"
+      },
+      "Hydroelectricity": {
+        "text": "2% of total installed capacity (2020 est.)"
+      },
+      "Tide and wave": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Geothermal": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Biomass and waste": {
+        "text": "6% of total installed capacity (2020 est.)"
+      }
     },
-    "Electricity - exports": {
-      "text": "12.02 billion kWh (2016)"
+    "Coal": {
+      "Production": {
+        "text": "108.152 million metric tons (2020 est.)"
+      },
+      "Consumption": {
+        "text": "110.674 million metric tons (2020 est.)"
+      },
+      "Exports": {
+        "text": "11.063 million metric tons (2020 est.)"
+      },
+      "Imports": {
+        "text": "13.281 million metric tons (2020 est.)"
+      },
+      "Proven reserves": {
+        "text": "26.932 billion metric tons (2019 est.)"
+      }
     },
-    "Electricity - imports": {
-      "text": "14.02 billion kWh (2016 est.)"
-    },
-    "Electricity - installed generating capacity": {
-      "text": "38.11 million kW (2016 est.)"
-    },
-    "Electricity - from fossil fuels": {
-      "text": "79% of total installed capacity (2016 est.)"
-    },
-    "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)"
-    },
-    "Electricity - from hydroelectric plants": {
-      "text": "2% of total installed capacity (2017 est.)"
-    },
-    "Electricity - from other renewable sources": {
-      "text": "19% of total installed capacity (2017 est.)"
-    },
-    "Crude oil - production": {
-      "text": "21,000 bbl/day (2018 est.)"
-    },
-    "Crude oil - exports": {
-      "text": "4,451 bbl/day (2017 est.)"
-    },
-    "Crude oil - imports": {
-      "text": "493,100 bbl/day (2017 est.)"
-    },
-    "Crude oil - proved reserves": {
-      "text": "126 million bbl (1 January 2018)"
+    "Petroleum": {
+      "Total petroleum production": {
+        "text": "28,400 bbl/day (2021 est.)"
+      },
+      "Refined petroleum consumption": {
+        "text": "697,700 bbl/day (2019 est.)"
+      },
+      "Crude oil and lease condensate exports": {
+        "text": "6,000 barrels/day (2018 est.)"
+      },
+      "Crude oil and lease condensate imports": {
+        "text": "542,100 barrels/day (2018 est.)"
+      },
+      "Crude oil estimated reserves": {
+        "text": "113 million barrels (2021 est.)"
+      }
     },
     "Refined petroleum products - production": {
       "text": "554,200 bbl/day (2017 est.)"
-    },
-    "Refined petroleum products - consumption": {
-      "text": "649,600 bbl/day (2017 est.)"
     },
     "Refined petroleum products - exports": {
       "text": "104,800 bbl/day (2017 est.)"
@@ -1011,20 +1046,41 @@
     "Refined petroleum products - imports": {
       "text": "222,300 bbl/day (2017 est.)"
     },
-    "Natural gas - production": {
-      "text": "5.748 billion cu m (2017 est.)"
+    "Natural gas": {
+      "Production": {
+        "text": "5,666,815,000 cubic meters (2020 est.)"
+      },
+      "Consumption": {
+        "text": "21,463,908,000 cubic meters (2020 est.)"
+      },
+      "Exports": {
+        "text": "704.975 million cubic meters (2019 est.)"
+      },
+      "Imports": {
+        "text": "16,633,345,000 cubic meters (2020 est.)"
+      },
+      "Proven reserves": {
+        "text": "91.492 billion cubic meters (2021 est.)"
+      }
     },
-    "Natural gas - consumption": {
-      "text": "20.1 billion cu m (2017 est.)"
+    "Carbon dioxide emissions": {
+      "Total emissions": {
+        "text": "304.04 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From coal and metallurgical coke": {
+        "text": "176.938 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From petroleum and other liquids": {
+        "text": "89.944 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From consumed natural gas": {
+        "text": "37.158 million metric tonnes of CO2 (2019 est.)"
+      }
     },
-    "Natural gas - exports": {
-      "text": "1.246 billion cu m (2017 est.)"
-    },
-    "Natural gas - imports": {
-      "text": "15.72 billion cu m (2017 est.)"
-    },
-    "Natural gas - proved reserves": {
-      "text": "79.79 billion cu m (1 January 2018 est.)"
+    "Energy consumption per capita": {
+      "Total energy consumption per capita 2019": {
+        "text": "112.831 million Btu/person (2019 est.)"
+      }
     }
   },
   "Communications": {
@@ -1226,7 +1282,7 @@
     },
     "Military deployments": {
       "text": "240 Kosovo (NATO/KFOR); up to 180 Latvia (NATO); 190 Lebanon (UNIFIL) (2022)",
-      "note": "note - Poland contributes about 2,500 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units"
+      "note": "<strong>note: </strong>Poland contributes about 2,500 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units"
     },
     "Military - note": {
       "text": "Poland joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997, and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance<br> <p>since 2017, Poland has hosted a US-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; since 2014, Poland has also hosted NATO fighter detachments at Malbork Air Base under NATO's enhanced air policing arrangements<br><br>Poland hosts a NATO-led divisional headquarters (Multinational Division Northeast; operational in 2018), which coordinates training and preparation activities of its respective subordinate battlegroups in Poland and Lithuania; Poland also hosts a corps-level headquarters (Multinational Corps Northeast) (2022)</p>"
@@ -1244,7 +1300,7 @@
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
-        "text": "9,870 (Russia) (2019); 1,207,650 (Ukraine) (as of 5 July 2022)"
+        "text": "9,870 (Russia) (2019); 1,221,596 (Ukraine) (as of 12 July 2022)"
       },
       "stateless persons": {
         "text": "1,389 (mid-year 2021)"

@@ -343,7 +343,18 @@
       "text": "NA"
     },
     "Education expenditures": {
-      "text": "5.4% of GDP (2018)"
+      "text": "5.4% of GDP (2018 est.)"
+    },
+    "Literacy": {
+      "total population": {
+        "text": "NA"
+      },
+      "male": {
+        "text": "NA"
+      },
+      "female": {
+        "text": "NA"
+      }
     },
     "School life expectancy (primary to tertiary education)": {
       "total": {
@@ -511,9 +522,6 @@
     "Administrative divisions": {
       "text": "12 provinces (provincies, singular - provincie), 3 public entities* (openbare lichamen, singular - openbaar lichaam (Dutch); entidatnan publiko, singular - entidat publiko (Papiamento)); Bonaire*, Drenthe, Flevoland, Fryslan (Friesland), Gelderland, Groningen, Limburg, Noord-Brabant (North Brabant), Noord-Holland (North Holland), Overijssel, Saba*, Sint Eustatius*, Utrecht, Zeeland (Zealand), Zuid-Holland (South Holland)",
       "note": "<strong>note 1:</strong> the Netherlands is one of four constituent countries of the Kingdom of the Netherlands; the other three, Aruba, Curacao, and Sint Maarten, are all islands in the Caribbean; while all four parts are considered equal partners, in practice, most of the Kingdom's affairs are administered by the Netherlands, which makes up about 98% of the Kingdom's total land area and population <br><br><strong>note 2:</strong> although Bonaire, Saba, and Sint Eustatius are officially incorporated into the country of the Netherlands under the broad designation of \"public entities,\" Dutch Government sources regularly apply to them the more descriptive term of \"special municipalities\"; Bonaire, Saba, and Sint Eustatius are collectively referred to as the Caribbean Netherlands"
-    },
-    "Dependent areas": {
-      "text": "Aruba, Curacao, Sint Maarten"
     },
     "Independence": {
       "text": "23 January 1579 (the northern provinces of the Low Countries conclude the Union of Utrecht breaking with Spain; on 26 July 1581, they formally declared their independence with an Act of Abjuration; however, it was not until 30 January 1648 and the Peace of Westphalia that Spain recognized this independence)"
@@ -928,50 +936,85 @@
         "text": "100% (2020)"
       }
     },
-    "Electricity - production": {
-      "text": "109.3 billion kWh (2016 est.)"
+    "Electricity": {
+      "Installed generating capacity": {
+        "text": "43.409 million kW (2020 est.)"
+      },
+      "Consumption": {
+        "text": "109.796 billion kWh (2020 est.)"
+      },
+      "Exports": {
+        "text": "22.433 billion kWh (2020 est.)"
+      },
+      "Imports": {
+        "text": "19.773 billion kWh (2020 est.)"
+      },
+      "Transmission/distribution losses": {
+        "text": "5.059 billion kWh (2020 est.)"
+      }
     },
-    "Electricity - consumption": {
-      "text": "108.8 billion kWh (2016 est.)"
+    "Electricity generation sources": {
+      "Fossil fuels": {
+        "text": "68.3% of total installed capacity (2020 est.)"
+      },
+      "Nuclear": {
+        "text": "3.3% of total installed capacity (2020 est.)"
+      },
+      "Solar": {
+        "text": "6.8% of total installed capacity (2020 est.)"
+      },
+      "Wind": {
+        "text": "13.1% of total installed capacity (2020 est.)"
+      },
+      "Hydroelectricity": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Tide and wave": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Geothermal": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Biomass and waste": {
+        "text": "8.5% of total installed capacity (2020 est.)"
+      }
     },
-    "Electricity - exports": {
-      "text": "19.34 billion kWh (2016 est.)"
+    "Coal": {
+      "Production": {
+        "text": "1.879 million metric tons (2020 est.)"
+      },
+      "Consumption": {
+        "text": "8.241 million metric tons (2020 est.)"
+      },
+      "Exports": {
+        "text": "20.164 million metric tons (2020 est.)"
+      },
+      "Imports": {
+        "text": "21.552 million metric tons (2020 est.)"
+      },
+      "Proven reserves": {
+        "text": "497 million metric tons (2019 est.)"
+      }
     },
-    "Electricity - imports": {
-      "text": "24.26 billion kWh (2016 est.)"
-    },
-    "Electricity - installed generating capacity": {
-      "text": "34.17 million kW (2016 est.)"
-    },
-    "Electricity - from fossil fuels": {
-      "text": "75% of total installed capacity (2016 est.)"
-    },
-    "Electricity - from nuclear fuels": {
-      "text": "1% of total installed capacity (2017 est.)"
-    },
-    "Electricity - from hydroelectric plants": {
-      "text": "0% of total installed capacity (2017 est.)"
-    },
-    "Electricity - from other renewable sources": {
-      "text": "23% of total installed capacity (2017 est.)"
-    },
-    "Crude oil - production": {
-      "text": "18,000 bbl/day (2018 est.)"
-    },
-    "Crude oil - exports": {
-      "text": "7,984 bbl/day (2017 est.)"
-    },
-    "Crude oil - imports": {
-      "text": "1.094 million bbl/day (2017 est.)"
-    },
-    "Crude oil - proved reserves": {
-      "text": "81.13 million bbl (1 January 2018 est.)"
+    "Petroleum": {
+      "Total petroleum production": {
+        "text": "76,100 bbl/day (2021 est.)"
+      },
+      "Refined petroleum consumption": {
+        "text": "915,200 bbl/day (2019 est.)"
+      },
+      "Crude oil and lease condensate exports": {
+        "text": "8,800 barrels/day (2018 est.)"
+      },
+      "Crude oil and lease condensate imports": {
+        "text": "1,096,500 barrels/day (2018 est.)"
+      },
+      "Crude oil estimated reserves": {
+        "text": "137.7 million barrels (2021 est.)"
+      }
     },
     "Refined petroleum products - production": {
       "text": "1.282 million bbl/day (2017 est.)"
-    },
-    "Refined petroleum products - consumption": {
-      "text": "954,500 bbl/day (2017 est.)"
     },
     "Refined petroleum products - exports": {
       "text": "2.406 million bbl/day (2017 est.)"
@@ -979,21 +1022,41 @@
     "Refined petroleum products - imports": {
       "text": "2.148 million bbl/day (2017 est.)"
     },
-    "Natural gas - production": {
-      "text": "45.33 billion cu m (2017 est.)",
-      "note": "<strong>note:</strong> the Netherlands has curbed gas production due to seismic activity in the province of Groningen, largest source of gas reserves"
+    "Natural gas": {
+      "Production": {
+        "text": "32,857,597,000 cubic meters (2019 est.)"
+      },
+      "Consumption": {
+        "text": "44,752,918,000 cubic meters (2019 est.)"
+      },
+      "Exports": {
+        "text": "42,827,461,000 cubic meters (2019 est.)"
+      },
+      "Imports": {
+        "text": "55,767,276,000 cubic meters (2019 est.)"
+      },
+      "Proven reserves": {
+        "text": "132.608 billion cubic meters (2021 est.)"
+      }
     },
-    "Natural gas - consumption": {
-      "text": "43.38 billion cu m (2017 est.)"
+    "Carbon dioxide emissions": {
+      "Total emissions": {
+        "text": "214.416 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From coal and metallurgical coke": {
+        "text": "23.15 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From petroleum and other liquids": {
+        "text": "116.24 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From consumed natural gas": {
+        "text": "75.027 million metric tonnes of CO2 (2019 est.)"
+      }
     },
-    "Natural gas - exports": {
-      "text": "51.25 billion cu m (2017 est.)"
-    },
-    "Natural gas - imports": {
-      "text": "51 billion cu m (2017 est.)"
-    },
-    "Natural gas - proved reserves": {
-      "text": "801.4 billion cu m (1 January 2018 est.)"
+    "Energy consumption per capita": {
+      "Total energy consumption per capita 2019": {
+        "text": "219.606 million Btu/person (2019 est.)"
+      }
     }
   },
   "Communications": {
@@ -1181,8 +1244,8 @@
       "note": "note - in 2019, women made up about 11% of the military's full-time personnel"
     },
     "Military deployments": {
-      "text": "270 Lithuania (NATO) (2022)<br><br>note - NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s 2022 invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe",
-      "note": "note - NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia&rsquo;s 2022 invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe"
+      "text": "270 Lithuania (NATO) (2022)",
+      "note": "<strong>note: </strong>NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s 2022 invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe"
     },
     "Military - note": {
       "text": "the Netherlands is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>since 1973, the Dutch Marine Corps has worked closely with the British Royal Marines, including jointly in the UK-Netherlands amphibious landing force</p> <p>a Dutch Army airmobile infantry brigade and a mechanized infantry brigade have been integrated into the German Army since 2014 and 2016 respectively</p> in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020<br> <p>in 2015, Belgium, the Netherlands, and Luxembourg signed an agreement to conduct joint air policing of their territories; under the agreement, which went into effect in January of 2017, the Belgian and Dutch Air Forces trade responsibility for patrolling the skies over the three countries</p>"

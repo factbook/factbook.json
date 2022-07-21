@@ -1,7 +1,7 @@
 {
   "Introduction": {
     "Background": {
-      "text": "French Polynesia consists of five archipelagos - the Austral Islands, the Gambier Islands, the Marquesas Islands, the Society Islands, and the Tuamotu Archipelago. The Marquesas were first settled around 200 B.C. and the Society Islands around A.D. 300. Raiatea in the Society Islands became a center for religion and culture. Exploration of the other islands emanated from Raiatea and by 1000, there were small permanent settlements in all the island groups. Ferdinand MAGELLAN was the first European to see the islands of French Polynesia in 1520, and successive European voyagers traveled through them over the next two centuries. In 1767, British explorer Samuel WALLIS was the first European to visit Tahiti, followed by French navigator Louis Antoine de BOUGAINVILLE in 1768, and British explorer James COOK in 1769. King POMARE I united Tahiti and surrounding islands into the Kingdom of Tahiti in 1788. Protestant missionaries arrived in 1797 and Pomare I’s successor converted in the 1810s, along with most Tahitians. In the 1830s, Queen POMARE IV refused to allow French Catholic missionaries to operate, leading France to declare a protectorate over Tahiti and fight the French-Tahitian War of the 1840s in an attempt to annex the islands. POMARE IV requested British assistance to fight France, and while the UK did not provide material support, it did diplomatically pressure France to simply maintain its protectorate status.<br><br>In 1880, King POMARE V ceded Tahiti and its possessions to France, changing its status into a colony. France then claimed the Gambier Islands and Tuamotu Archipelago and by 1901 had incorporated all five island groups into its establishments in Oceania. A Tahitian nationalist movement formed in 1940, leading France to grant French citizenship to the islanders in 1946 and change it to an overseas territory. In 1957, the islands’ name was changed to French Polynesia and the following year, 64% of voters chose to stay part of France when they approved a new constitution. Uninhabited Mururoa Atoll was established as a French nuclear test site in 1962 and tests were conducted between 1966 and 1992 (underground beginning in 1975). France also conducted tests at Fangataufa Atoll, including its last nuclear test in 1996.<br><br>France granted French Polynesia partial internal autonomy in 1977 and expanded autonomy in 1984. French Polynesia was converted into an overseas collectivity in 2003 and renamed an overseas country inside the Republic in 2004. Proindependence politicians won a surprise majority in local elections that same year but in subsequent elections have been relegated to a vocal minority. In 2013, French Polynesia was relisted on the UN List of Non-Self Governing Territories."
+      "text": "French Polynesia consists of five archipelagos - the Austral Islands, the Gambier Islands, the Marquesas Islands, the Society Islands, and the Tuamotu Archipelago. The Marquesas were first settled around 200 B.C. and the Society Islands around A.D. 300. Raiatea in the Society Islands became a center for religion and culture. Exploration of the other islands emanated from Raiatea and by 1000, there were small permanent settlements in all the island groups. Ferdinand MAGELLAN was the first European to see the islands of French Polynesia in 1520, and successive European voyagers traveled through them over the next two centuries. In 1767, British explorer Samuel WALLIS was the first European to visit Tahiti, followed by French navigator Louis Antoine de BOUGAINVILLE in 1768, and British explorer James COOK in 1769. King POMARE I united Tahiti and surrounding islands into the Kingdom of Tahiti in 1788. Protestant missionaries arrived in 1797 and POMARE I’s successor converted in the 1810s, along with most Tahitians. In the 1830s, Queen POMARE IV refused to allow French Catholic missionaries to operate, leading France to declare a protectorate over Tahiti and fight the French-Tahitian War of the 1840s in an attempt to annex the islands. POMARE IV requested British assistance to fight France, and while the UK did not provide material support, it did diplomatically pressure France to simply maintain its protectorate status.<br><br>In 1880, King POMARE V ceded Tahiti and its possessions to France, changing its status into a colony. France then claimed the Gambier Islands and Tuamotu Archipelago and by 1901 had incorporated all five island groups into its establishments in Oceania. A Tahitian nationalist movement formed in 1940, leading France to grant French citizenship to the islanders in 1946 and change it to an overseas territory. In 1957, the islands’ name was changed to French Polynesia and the following year, 64% of voters chose to stay part of France when they approved a new constitution. Uninhabited Mururoa Atoll was established as a French nuclear test site in 1962 and tests were conducted between 1966 and 1992 (underground beginning in 1975). France also conducted tests at Fangataufa Atoll, including its last nuclear test in 1996.<br><br>France granted French Polynesia partial internal autonomy in 1977 and expanded autonomy in 1984. French Polynesia was converted into an overseas collectivity in 2003 and renamed an overseas country inside the Republic in 2004. Proindependence politicians won a surprise majority in local elections that same year but in subsequent elections have been relegated to a vocal minority. In 2013, French Polynesia was relisted on the UN List of Non-Self Governing Territories."
     }
   },
   "Geography": {
@@ -265,6 +265,9 @@
     "Current Health Expenditure": {
       "text": "NA"
     },
+    "Physicians density": {
+      "text": "NA"
+    },
     "Sanitation facility access": {
       "improved: urban": {
         "text": "urban: NA"
@@ -310,6 +313,17 @@
     },
     "Education expenditures": {
       "text": "NA"
+    },
+    "Literacy": {
+      "total population": {
+        "text": "NA"
+      },
+      "male": {
+        "text": "NA"
+      },
+      "female": {
+        "text": "NA"
+      }
     },
     "Unemployment, youth ages 15-24": {
       "total": {
@@ -746,50 +760,85 @@
         "text": "100% (2020)"
       }
     },
-    "Electricity - production": {
-      "text": "677.3 million kWh (2016 est.)"
+    "Electricity": {
+      "Installed generating capacity": {
+        "text": "272,000 kW (2020 est.)"
+      },
+      "Consumption": {
+        "text": "639.7 million kWh (2019 est.)"
+      },
+      "Exports": {
+        "text": "0 kWh (2019 est.)"
+      },
+      "Imports": {
+        "text": "0 kWh (2019 est.)"
+      },
+      "Transmission/distribution losses": {
+        "text": "41 million kWh (2019 est.)"
+      }
     },
-    "Electricity - consumption": {
-      "text": "629.9 million kWh (2016 est.)"
+    "Electricity generation sources": {
+      "Fossil fuels": {
+        "text": "66.5% of total installed capacity (2020 est.)"
+      },
+      "Nuclear": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Solar": {
+        "text": "6.1% of total installed capacity (2020 est.)"
+      },
+      "Wind": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Hydroelectricity": {
+        "text": "27.4% of total installed capacity (2020 est.)"
+      },
+      "Tide and wave": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Geothermal": {
+        "text": "0% of total installed capacity (2020 est.)"
+      },
+      "Biomass and waste": {
+        "text": "0% of total installed capacity (2020 est.)"
+      }
     },
-    "Electricity - exports": {
-      "text": "0 kWh (2016 est.)"
+    "Coal": {
+      "Production": {
+        "text": "0 metric tons (2020 est.)"
+      },
+      "Consumption": {
+        "text": "0 metric tons (2020 est.)"
+      },
+      "Exports": {
+        "text": "0 metric tons (2020 est.)"
+      },
+      "Imports": {
+        "text": "0 metric tons (2020 est.)"
+      },
+      "Proven reserves": {
+        "text": "0 metric tons (2019 est.)"
+      }
     },
-    "Electricity - imports": {
-      "text": "0 kWh (2016 est.)"
-    },
-    "Electricity - installed generating capacity": {
-      "text": "253,000 kW (2016 est.)"
-    },
-    "Electricity - from fossil fuels": {
-      "text": "70% of total installed capacity (2016 est.)"
-    },
-    "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2017 est.)"
-    },
-    "Electricity - from hydroelectric plants": {
-      "text": "19% of total installed capacity (2017 est.)"
-    },
-    "Electricity - from other renewable sources": {
-      "text": "11% of total installed capacity (2017 est.)"
-    },
-    "Crude oil - production": {
-      "text": "0 bbl/day (2018 est.)"
-    },
-    "Crude oil - exports": {
-      "text": "0 bbl/day (2015 est.)"
-    },
-    "Crude oil - imports": {
-      "text": "0 bbl/day (2015 est.)"
-    },
-    "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2018 est.)"
+    "Petroleum": {
+      "Total petroleum production": {
+        "text": "0 bbl/day (2021 est.)"
+      },
+      "Refined petroleum consumption": {
+        "text": "6,700 bbl/day (2019 est.)"
+      },
+      "Crude oil and lease condensate exports": {
+        "text": "0 barrels/day (2018 est.)"
+      },
+      "Crude oil and lease condensate imports": {
+        "text": "0 barrels/day (2018 est.)"
+      },
+      "Crude oil estimated reserves": {
+        "text": "0 barrels (2021 est.)"
+      }
     },
     "Refined petroleum products - production": {
       "text": "0 bbl/day (2015 est.)"
-    },
-    "Refined petroleum products - consumption": {
-      "text": "6,600 bbl/day (2016 est.)"
     },
     "Refined petroleum products - exports": {
       "text": "0 bbl/day (2015 est.)"
@@ -797,20 +846,41 @@
     "Refined petroleum products - imports": {
       "text": "6,785 bbl/day (2015 est.)"
     },
-    "Natural gas - production": {
-      "text": "0 cu m (2017 est.)"
+    "Natural gas": {
+      "Production": {
+        "text": "0 cubic meters (2021 est.)"
+      },
+      "Consumption": {
+        "text": "0 cubic meters (2021 est.)"
+      },
+      "Exports": {
+        "text": "0 cubic meters (2021 est.)"
+      },
+      "Imports": {
+        "text": "0 cubic meters (2021 est.)"
+      },
+      "Proven reserves": {
+        "text": "0 cubic meters (2021 est.)"
+      }
     },
-    "Natural gas - consumption": {
-      "text": "0 cu m (2017 est.)"
+    "Carbon dioxide emissions": {
+      "Total emissions": {
+        "text": "1.03 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From coal and metallurgical coke": {
+        "text": "0 metric tonnes of CO2 (2019 est.)"
+      },
+      "From petroleum and other liquids": {
+        "text": "1.03 million metric tonnes of CO2 (2019 est.)"
+      },
+      "From consumed natural gas": {
+        "text": "0 metric tonnes of CO2 (2019 est.)"
+      }
     },
-    "Natural gas - exports": {
-      "text": "0 cu m (2017 est.)"
-    },
-    "Natural gas - imports": {
-      "text": "0 cu m (2017 est.)"
-    },
-    "Natural gas - proved reserves": {
-      "text": "0 cu m (1 January 2014 est.)"
+    "Energy consumption per capita": {
+      "Total energy consumption per capita 2019": {
+        "text": "0 Btu/person (2019 est.)"
+      }
     }
   },
   "Communications": {
