@@ -24,6 +24,14 @@ from another talk. Happy exploring the world with JavaScript Object Notation (JS
 
 ## Frequently Asked Questions (F.A.Qs) & Answers
 
+### Q: Thanks for this fantastic work!  Do you know any open source REST HTTP API for the World Factbook?
+
+A:  Not sure I understand your question ;-).  factbook.json is a REST HTTP API for the World Factbook.   
+
+For example, to request the country profile (data) for Germany (gm) using the REST HTTP API try <https://github.com/factbook/factbook.json/raw/master/europe/gm.json> and so on.
+
+
+
 ### Q: Why not just use the ISO country codes? Not a bug, a feature request.
 
 A: The factbook has many more entities / countries than ISO and sometimes with a different definition - 
