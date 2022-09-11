@@ -28,7 +28,7 @@ from another talk. Happy exploring the world with JavaScript Object Notation (JS
 
 A:  Not sure I understand your question ;-).  factbook.json is a REST HTTP API for the World Factbook.   
 
-For example, to request the country profile (data) for Germany (gm) using the REST HTTP API try <https://github.com/factbook/factbook.json/raw/master/europe/gm.json> and so on.
+For example, to request the country profile (data) for Germany (gm) using the REST HTTP API ( - no API key required ;-) - )  try <https://github.com/factbook/factbook.json/raw/master/europe/gm.json> and so on.
 
 
 
