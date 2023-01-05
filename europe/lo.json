@@ -250,6 +250,9 @@
     "Total fertility rate": {
       "text": "1.46 children born/woman (2022 est.)"
     },
+    "Gross reproduction rate": {
+      "text": "0.7 (2022 est.)"
+    },
     "Contraceptive prevalence rate": {
       "text": "NA"
     },
@@ -335,6 +338,9 @@
       "female": {
         "text": "25.6% (2020 est.)"
       }
+    },
+    "Currently married women (ages 15-49)": {
+      "text": "49.8% (2022 est.)"
     },
     "Children under the age of 5 years underweight": {
       "text": "NA"
@@ -575,7 +581,7 @@
         "text": "last held on 29 February 2020 (next to be held in February 2024)"
       },
       "election results": {
-        "text": "percent of vote by party - OLaNO-NOVA 25%, Smer-SD 18.3%, Sme-Rodina 8.2%, LSNS 8%, SaS 6.2%, Za Ludi 5.8%, other 28.5%; seats by party - OLaNO-NOVA 53, Smer-SD 38, Sme-Rodina 17, LSNS 17, SaS 13, Za Ludi 12; composition (as of mid-2022) - men 118, women 32, percent of women 21.3%"
+        "text": "percent of vote by party - OLaNO-NOVA 25%, Smer-SD 18.3%, Sme-Rodina or SR 8.2%, LSNS 8%, SaS 6.2%, Za Ludi or ZL 5.8%, other 28.5%; seats by party - OLaNO-NOVA 53, Smer-SD 38, Sme-Rodina 17, LSNS 17, SaS 13, Za Ludi 12; composition (as of mid-2022) - men 118, women 77, percent of women 21.3%"
       }
     },
     "Judicial branch": {
@@ -757,7 +763,7 @@
       }
     },
     "Agricultural products": {
-      "text": "wheat, maize, sugar beet, milk, barley, rapeseed, potatoes, sunflower seed, soybeans, pork"
+      "text": "wheat, maize, sugar beets, milk, barley, rapeseeds, potatoes, sunflower seeds, soybeans, pork"
     },
     "Industries": {
       "text": "automobiles; metal and metal products; electricity, gas, coke, oil, nuclear fuel; chemicals, synthetic fibers, wood and paper products; machinery; earthenware and ceramics; textiles; electrical and optical apparatus; rubber products; food and beverages; pharmaceutical"
@@ -1019,13 +1025,13 @@
         "text": "62.495 million cubic meters (2020 est.)"
       },
       "consumption": {
-        "text": "4,928,199,000 cubic meters (2020 est.)"
+        "text": "4.928 billion cubic meters (2020 est.)"
       },
       "exports": {
         "text": "0 cubic meters (2020 est.)"
       },
       "imports": {
-        "text": "4,361,410,000 cubic meters (2020 est.)"
+        "text": "4.361 billion cubic meters (2020 est.)"
       },
       "proven reserves": {
         "text": "14.158 billion cubic meters (2021 est.)"
@@ -1054,26 +1060,26 @@
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "648,462 (2020 est.)"
+        "text": "577,390 (2021 est.)"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "12 (2020 est.)"
+        "text": "11 (2021 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total subscriptions": {
-        "text": "7,399,530 (2019)"
+        "text": "7,362,325 (2021)"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "135.6 (2019)"
+        "text": "135 (2021)"
       }
     },
     "Telecommunication systems": {
       "general assessment": {
-        "text": "the broadband market has shown steady growth in recent years; DSL remains the principal technology though in early 2020 it was eclipsed by the fast-developing fiber sector, which has been supported by sympathetic regulatory measures and considerable investment among operators; the cable sector is a distant third in terms of subscribers, though cable is particularly strong in urban areas; Slovakia&rsquo;s mobile market is served by four MNOs; mobile broadband access and content services are developing rapidly in line with operators having upgraded their networks; the regulator prepared the groundwork for 5G services in line with European Union requirements, with concessions in the 3.5GHz range followed by those in the 700MHz, 900MHz and 1800MHz bands; commercial services by the first quarter of 2021 were limited, licensees have invested in 5G infrastructure and also have considerable coverage obligations (2021)"
+        "text": "the broadband market has shown steady growth in recent years; fiber has become the principal platform for fixed broadband services, followed by DSL; the cable sector is a distant third in terms of subscribers, though cable is particularly strong in urban areas; mobile broadband access and content services are developing rapidly in line with operators having upgraded their networks; the regulator prepared the groundwork for 5G services in line with European Union requirements, with concessions in the 3.5GHz range followed by those in the 700MHz, 900MHz and 1800MHz bands; 5G was launched in late 2021 and is expected to cover about a fifth of the population by the end of 2022 (2021)"
       },
       "domestic": {
-        "text": "four companies have a license to operate cellular networks and provide nationwide cellular services; a few other companies provide services but do not have their own networks; fixed-line roughly 11 per 100 and mobile-cellular over 133 per 100 teledensity (2020)"
+        "text": "four companies have a license to operate cellular networks and provide nationwide cellular services; a few other companies provide services but do not have their own networks; fixed-line roughly 11 per 100 and mobile-cellular over 135 per 100 teledensity (2021)"
       },
       "international": {
         "text": "country code - 421; 3 international exchanges (1 in Bratislava and 2 in Banska Bystrica) are available; Slovakia is participating in several international telecommunications projects that will increase the availability of external services; connects to DREAM cable (2017)"
@@ -1159,16 +1165,7 @@
     },
     "Railways": {
       "total": {
-        "text": "3,580 km (2016)"
-      },
-      "standard gauge": {
-        "text": "3,435 km (2016) 1.435-m gauge (1,587 km electrified)"
-      },
-      "narrow gauge": {
-        "text": "46 km (2016) 1.000-m or 0.750-m gauge"
-      },
-      "broad gauge": {
-        "text": "99 km (2016) 1.520-m gauge"
+        "text": "3,627 km (2020) 1,585 km electrified"
       }
     },
     "Roadways": {
@@ -1230,7 +1227,7 @@
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
-        "text": "104,140 (Ukraine) (as of 20 December 2022)"
+        "text": "105,205 (Ukraine) (as of 3 January 2023)"
       },
       "stateless persons": {
         "text": "1,532 (mid-year 2021)"

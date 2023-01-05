@@ -273,6 +273,9 @@
     "Total fertility rate": {
       "text": "1.6 children born/woman (2022 est.)"
     },
+    "Gross reproduction rate": {
+      "text": "0.78 (2022 est.)"
+    },
     "Contraceptive prevalence rate": {
       "text": "68% (2011)",
       "note": "<strong>note:</strong> percent of women aged 15-44"
@@ -371,6 +374,9 @@
       "female": {
         "text": "12.8% (2020 est.)"
       }
+    },
+    "Currently married women (ages 15-49)": {
+      "text": "53.6% (2022 est.)"
     },
     "Children under the age of 5 years underweight": {
       "text": "NA"
@@ -630,7 +636,7 @@
         "text": "the \"Government\" is composed of the premier, his deputies, and ministers, all appointed by the president; the premier is also confirmed by the Duma"
       },
       "elections/appointments": {
-        "text": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (2020 constitutional amendments allow a second consecutive term); election last held on 18 March 2018 (next to be held in March 2024); note - for the 2024 presidential election, previous presidential terms are discounted; there is no vice president; premier appointed by the president with the approval of the Duma"
+        "text": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (2020 constitutional amendments allow a second consecutive term); election last held on 18 March 2018 (next to be held in March 2024); note - for the 2024 presidential election, previous presidential terms are discounted; there is no vice president"
       },
       "election results": {
         "text": "<em><br>2018:</em> Vladimir PUTIN reelected president; percent of vote - Vladimir PUTIN (independent) 77.5%, Pavel GRUDININ (CPRF) 11.9%, Vladimir ZHIRINOVSKIY (LDPR) 5.7%, other 4.9%; Mikhail MISHUSTIN (independent) approved as premier by Duma; vote - 383 to 0<br><br><em>2012:</em> Vladimir PUTIN elected president; percent of vote - Vladimir PUTIN (United Russia) 63.6%, Gennadiy ZYUGANOV (CPRF) 17.2%, Mikhail PROKHOROV (CP) 8%, Vladimir ZHIRINOVSKIY (LDPR) 6.2%, Sergey MIRONOV (A Just Russia) 3.9%, other 1.1%; Dmitriy MEDVEDEV (United Russia) approved as premier by Duma; vote - 299 to 144"
@@ -645,7 +651,7 @@
         "text": "<br>State Duma - last held 17 - 19 September 2021 (next to be held in September 2026)"
       },
       "election results": {
-        "text": "<br>Federation Council (members appointed); composition (as of October 2021) - men 132, women 37, percent of women 21.8%<br> <p>State Duma - United Russia 50.9%, CPRF 19.3%, LDPR 7.7%, A Just Russia 7.6%, New People 5.3% other minor parties and Independents 9.2%; seats by party - United Russia 324, CPRF 57, LDPR 21, A Just Russia 27, New People 13; Rodina 1, CP 1, Party of Growth 1, independent 5; composition - men 377, women 73, percent of women 16.2%; note - total Federal Assembly percent of women 17.7%</p>"
+        "text": "<br>Federation Council (members appointed); composition (as of October 2021) - men 132, women 37, percent of women 21.8%<br> <p>State Duma - United Russia 50.9%, CPRF 19.3%, LDPR 7.7%, A Just Russia 7.6%, New People 5.3% other minor parties and independents 9.2%; seats by party - United Russia 324, CPRF 57, LDPR 21, A Just Russia 27, New People 13; Rodina 1, CP 1, Party of Growth 1, independent 5; composition - men 377, women 73, percent of women 16.2%; note - total Federal Assembly percent of women 17.7%</p>"
       },
       "note": "<strong>note 1:</strong> the State Duma now includes 3 representatives from the \"Republic of Crimea,\" while the Federation Council includes 2 each from the \"Republic of Crimea\" and the \"Federal City of Sevastopol,\" both regions that Russia occupied and attempted to annex from Ukraine and that the US does not recognize as part of Russia"
     },
@@ -832,7 +838,7 @@
       }
     },
     "Agricultural products": {
-      "text": "wheat, sugar beet, milk, potatoes, barley, sunflower seed, maize, poultry, oats, soybeans"
+      "text": "wheat, sugar beets, milk, potatoes, barley, sunflower seed, maize, poultry, oats, soybeans"
     },
     "Industries": {
       "text": "complete range of mining and extractive industries producing coal, oil, gas, chemicals, and metals; all forms of machine building from rolling mills to high-performance aircraft and space vehicles; defense industries (including radar, missile production, advanced electronic components), shipbuilding; road and rail transportation equipment; communications equipment; agricultural machinery, tractors, and construction equipment; electric power generating and transmitting equipment; medical and scientific instruments; consumer durables, textiles, foodstuffs, handicrafts"
@@ -1008,7 +1014,7 @@
         "text": "276.463 million kW (2020 est.)"
       },
       "consumption": {
-        "text": "942,895,420,000 kWh (2019 est.)"
+        "text": "942.895 billion kWh (2019 est.)"
       },
       "exports": {
         "text": "12.116 billion kWh (2020 est.)"
@@ -1091,19 +1097,19 @@
     },
     "Natural gas": {
       "production": {
-        "text": "701,544,189,000 cubic meters (2021 est.)"
+        "text": "701.544 billion cubic meters (2021 est.)"
       },
       "consumption": {
-        "text": "460,612,169,000 cubic meters (2020 est.)"
+        "text": "460.612 billion cubic meters (2020 est.)"
       },
       "exports": {
-        "text": "250,854,510,000 cubic meters (2021 est.)"
+        "text": "250.855 billion cubic meters (2021 est.)"
       },
       "imports": {
-        "text": "16,112,146,000 cubic meters (2019 est.)"
+        "text": "16.112 billion cubic meters (2019 est.)"
       },
       "proven reserves": {
-        "text": "47,805,215,000,000 cubic meters (2021 est.)"
+        "text": "47.805 trillion cubic meters (2021 est.)"
       }
     },
     "Carbon dioxide emissions": {
@@ -1249,15 +1255,11 @@
     },
     "Railways": {
       "total": {
-        "text": "87,157 km (2014)"
+        "text": "85,494 km (2019)"
       },
       "narrow gauge": {
-        "text": "957 km (2014) 1.067-m gauge (on Sakhalin Island)"
-      },
-      "broad gauge": {
-        "text": "86,200 km (2014) 1.520-m gauge (40,300 km electrified)"
-      },
-      "note": "<strong>note:</strong> an additional 30,000 km of non-common carrier lines serve industries"
+        "text": "957 km"
+      }
     },
     "Roadways": {
       "total": {
