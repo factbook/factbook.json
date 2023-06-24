@@ -506,7 +506,7 @@
       }
     },
     "Administrative divisions": {
-      "text": "58 provinces (wilayas, singular - wilaya); Adrar, Ain Defla, Ain Temouchent, Alger, Annaba, Batna, Bechar, Bejaia, Beni Abbes, Biskra, Blida, Bordj Badji Mokhtar, Bordj Bou Arreridj, Bouira, Boumerdes, Chlef, Constantine, Djanet, Djelfa, El Bayadh, El Meghaier, El Meniaa, El Oued, El Tarf, Ghardaia, Guelma, Illizi, In Guezzam, In Salah, Jijel, Khenchela, Laghouat, Mascara, Medea, Mila, Mostaganem, M'Sila, Naama, Oran, Ouargla, Ouled Djellal, Oum el Bouaghi, Relizane, Saida, Setif, Sidi Bel Abbes, Skikda, Souk Ahras, Tamanrasset, Tebessa, Tiaret, Timimoun, Tindouf, Tipaza, Tissemsilt, Tizi Ouzou, Tlemcen, Touggourt"
+      "text": "58 provinces (wilayas, singular - wilaya); Adrar, Ain Defla, Ain Temouchent, Alger (Algiers), Annaba, Batna, Bechar, Bejaia, Beni Abbes, Biskra, Blida, Bordj Badji Mokhtar, Bordj Bou Arreridj, Bouira, Boumerdes, Chlef, Constantine, Djanet, Djelfa, El Bayadh, El Meghaier, El Meniaa, El Oued, El Tarf, Ghardaia, Guelma, Illizi, In Guezzam, In Salah, Jijel, Khenchela, Laghouat, Mascara, Medea, Mila, Mostaganem, M'Sila, Naama, Oran, Ouargla, Ouled Djellal, Oum el Bouaghi, Relizane, Saida, Setif, Sidi Bel Abbes, Skikda, Souk Ahras, Tamanrasset, Tebessa, Tiaret, Timimoun, Tindouf, Tipaza, Tissemsilt, Tizi Ouzou, Tlemcen, Touggourt"
     },
     "Independence": {
       "text": "5 July 1962 (from France)"
@@ -1131,7 +1131,21 @@
       "text": "149 (2021)"
     },
     "Airports - with paved runways": {
-      "text": "67",
+      "total": {
+        "text": "67 (2023)"
+      },
+      "civil airports": {
+        "text": "19"
+      },
+      "military airports": {
+        "text": "11"
+      },
+      "joint use (civil-military) airports": {
+        "text": "14"
+      },
+      "other airports": {
+        "text": "32"
+      },
       "note": "<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)"
     },
     "Airports - with unpaved runways": {
