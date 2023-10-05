@@ -1158,7 +1158,21 @@
       "text": "126 (2021)"
     },
     "Airports - with paved runways": {
-      "text": "87",
+      "total": {
+        "text": "87"
+      },
+      "civil airports": {
+        "text": "13"
+      },
+      "military airports": {
+        "text": "13"
+      },
+      "joint use (civil-military) airports": {
+        "text": "0"
+      },
+      "other airports": {
+        "text": "61"
+      },
       "note": "<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)"
     },
     "Airports - with unpaved runways": {
@@ -1276,7 +1290,7 @@
     },
     "Refugees and internally displaced persons": {
       "refugees (country of origin)": {
-        "text": "959,875 (Ukraine) (as of 3 September 2023)"
+        "text": "959,875 (Ukraine) (as of 25 September 2023)"
       },
       "stateless persons": {
         "text": "1,435 (2022)"
