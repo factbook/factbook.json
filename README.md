@@ -501,9 +501,20 @@ command line tool and scripts for details.
 
 ## Real-World Usage
 
-Q: Anybody using these datasets?  I don't know really.  
+Q: Anybody using these datasets?  I don't know really. Add your project here - yes, you can!
 
-Add your project here - yes, you can!
+
+[Thomas Derflinger](https://github.com/tderflinger) writes:
+
+> I used your JSON data files to import them into a Mongo database.
+> Then I used Apollo to set up a GraphQL API in front of it.
+> Using the project chi-country-facts (https://github.com/tderflinger/chi-country-facts)
+> you can query World Factbook data comfortably using GraphQL (there also exists a web GraphQL playground).
+> This enables easy data querying and extraction.
+>
+> Another project of mine is Visual World Facts (https://visual-world-facts.pages.dev),
+> where I try to visualize the World Factbook data in new ways.
+> For example, I visualized the GDP by PPP of world countries with a treemap, which can lead to new insights.
 
 
 
