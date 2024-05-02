@@ -100,7 +100,9 @@
   },
   "People and Society": {
     "Population": {
-      "text": "3,662 (2021 est.)",
+      "total": {
+        "text": "3,662 (2021 est.)"
+      },
       "note": "<strong>note:</strong> data include all persons usually resident in the islands at the time of the 2021 census"
     },
     "Nationality": {
@@ -120,17 +122,6 @@
     },
     "Religions": {
       "text": "Christian 57.1%, other 1.6%, none 35.4%, unspecified 6% (2016 est.)"
-    },
-    "Age structure": {
-      "0-14 years": {
-        "text": "NA"
-      },
-      "15-64 years": {
-        "text": "NA"
-      },
-      "65 years and over": {
-        "text": "NA"
-      }
     },
     "Dependency ratios": {
       "total dependency ratio": {
@@ -155,9 +146,6 @@
     "Death rate": {
       "text": "4.9 deaths/1,000 population (2012 est.)"
     },
-    "Net migration rate": {
-      "text": "NA"
-    },
     "Population distribution": {
       "text": "a very small population, with most residents living in and around Stanley"
     },
@@ -175,18 +163,6 @@
     "Sex ratio": {
       "total population": {
         "text": "1.12 male(s)/female (2016 est.)"
-      },
-      "note": "<strong>note:</strong> sex ratio is somewhat skewed by the high proportion of males at the Royal Air Force station, Mount Pleasant Airport (MPA); excluding MPA, the sex ratio of the total population would be 1.04"
-    },
-    "Infant mortality rate": {
-      "total": {
-        "text": "NA"
-      },
-      "male": {
-        "text": "NA"
-      },
-      "female": {
-        "text": "NA"
       }
     },
     "Life expectancy at birth": {
@@ -199,12 +175,6 @@
       "female": {
         "text": "79.6"
       }
-    },
-    "Total fertility rate": {
-      "text": "NA"
-    },
-    "Contraceptive prevalence rate": {
-      "text": "NA"
     },
     "Drinking water source": {
       "improved: urban": {
@@ -226,12 +196,6 @@
         "text": "total: 4.7% of population (2020)"
       }
     },
-    "Current health expenditure": {
-      "text": "NA"
-    },
-    "Physicians density": {
-      "text": "NA"
-    },
     "Sanitation facility access": {
       "improved: urban": {
         "text": "urban: 100% of population"
@@ -252,25 +216,8 @@
         "text": "total: 0% of population (2020)"
       }
     },
-    "Children under the age of 5 years underweight": {
-      "text": "NA"
-    },
     "Currently married women (ages 15-49)": {
       "text": "44.8% (2023 est.)"
-    },
-    "Education expenditures": {
-      "text": "NA"
-    },
-    "Literacy": {
-      "total population": {
-        "text": "NA"
-      },
-      "male": {
-        "text": "NA"
-      },
-      "female": {
-        "text": "NA"
-      }
     }
   },
   "Environment": {
