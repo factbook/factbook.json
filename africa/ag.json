@@ -564,7 +564,7 @@
         "text": "Council of the Nation - last held on 5 February 2022 (next expected in 2025)<br>National People's Assembly - snap election held on 12 June 2021 (next to be held on 12 June 2026)"
       },
       "election results": {
-        "text": "Council of the Nation - percent of vote by party - NA; seats by party - FLN 54, RND 22, Future Front 7, National Construction Movement 5, FFS 4, other 6, independent 18, appointed 58; composition as of February 2024 - men 163, women 7, percentage women 4.1%<br><br>National People's Assembly - percent of vote by party - NA; seats by party - FLN 98, MSP 65, RND 58, (Future Front) 48, Movement of National Construction 39, other 15, independent 84; composition as of February 2024 - men 375, women 32, percentage women 7.9%; note - total Parliament percentage women 6.8%"
+        "text": "Council of the Nation - percent of vote by party - NA; seats by party - FLN 54, RND 22, Future Front 7, National Construction Movement 5, FFS 4, other 6, independent 18, appointed 58; composition - men 163, women 7, percentage women 4.1%<br><br>National People's Assembly - percent of vote by party - NA; seats by party - FLN 98, MSP 65, RND 58, (Future Front) 48, Movement of National Construction 39, other 15, independent 84; composition - men 375, women 32, percentage women 7.9%; note - total Parliament percentage women 6.8%"
       }
     },
     "Judicial branch": {
@@ -663,7 +663,7 @@
       "Real GDP (purchasing power parity) 2020": {
         "text": "$471.223 billion (2020 est.)"
       },
-      "note": "note: data in 2017 dollars"
+      "note": "<b>note:</b> data in 2017 dollars"
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2022": {
@@ -675,7 +675,7 @@
       "Real GDP growth rate 2020": {
         "text": "-5.1% (2020 est.)"
       },
-      "note": "note: annual GDP % growth based on constant local currency"
+      "note": "<b>note:</b> annual GDP % growth based on constant local currency"
     },
     "Real GDP per capita": {
       "Real GDP per capita 2022": {
@@ -687,11 +687,11 @@
       "Real GDP per capita 2020": {
         "text": "$10,800 (2020 est.)"
       },
-      "note": "note: data in 2017 dollars"
+      "note": "<b>note:</b> data in 2017 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$194.998 billion (2022 est.)",
-      "note": "note: data in current dollars at official exchange rate"
+      "note": "<b>note:</b> data in current dollars at official exchange rate"
     },
     "Inflation rate (consumer prices)": {
       "Inflation rate (consumer prices) 2022": {
@@ -703,7 +703,7 @@
       "Inflation rate (consumer prices) 2020": {
         "text": "2.42% (2020 est.)"
       },
-      "note": "note: annual % change based on consumer prices"
+      "note": "<b>note:</b> annual % change based on consumer prices"
     },
     "Credit ratings": {
       "text": "<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained."
@@ -740,18 +740,19 @@
       }
     },
     "Agricultural products": {
-      "text": "potatoes, wheat, milk, watermelons, barley, onions, tomatoes, oranges, dates, vegetables"
+      "text": "potatoes, wheat, milk, watermelons, onions, tomatoes, barley, vegetables, dates, oranges (2022)",
+      "note": "<b>note:</b> top ten agricultural products based on tonnage"
     },
     "Industries": {
       "text": "petroleum, natural gas, light industries, mining, electrical, petrochemical, food processing"
     },
     "Industrial production growth rate": {
       "text": "1.32% (2022 est.)",
-      "note": "note: annual % change in industrial value added based on constant local currency"
+      "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
       "text": "13.023 million (2022 est.)",
-      "note": "note: number of people ages 15 or older who are employed or seeking work"
+      "note": "<b>note:</b> number of people ages 15 or older who are employed or seeking work"
     },
     "Unemployment rate": {
       "Unemployment rate 2022": {
@@ -763,7 +764,7 @@
       "Unemployment rate 2020": {
         "text": "14.04% (2020 est.)"
       },
-      "note": "note: % of labor force seeking employment"
+      "note": "<b>note:</b> % of labor force seeking employment"
     },
     "Youth unemployment rate (ages 15-24)": {
       "total": {
@@ -810,7 +811,7 @@
       "Remittances 2020": {
         "text": "1.17% of GDP (2020 est.)"
       },
-      "note": "note: personal transfers and compensation between resident and non-resident individuals/households/entities"
+      "note": "<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities"
     },
     "Budget": {
       "revenues": {
@@ -848,7 +849,7 @@
       "Current account balance 2020": {
         "text": "-$18.187 billion (2020 est.)"
       },
-      "note": "note: balance of payments - net trade and primary/secondary income in current dollars"
+      "note": "<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars"
     },
     "Exports": {
       "Exports 2022": {
@@ -860,13 +861,15 @@
       "Exports 2020": {
         "text": "$24.902 billion (2020 est.)"
       },
-      "note": "note: balance of payments - exports of goods and services in current dollars"
+      "note": "<b>note:</b> balance of payments - exports of goods and services in current dollars"
     },
     "Exports - partners": {
-      "text": "Italy 13%, France 13%, Spain 12%, United States 7%, United Kingdom 7%, India 5%, South Korea 5% (2019)"
+      "text": "Italy 29%, Spain 12%, France 12%, US 5%, South Korea 5% (2022)",
+      "note": "<b>note:</b> top five export partners based on percentage share of exports"
     },
     "Exports - commodities": {
-      "text": "natural gas, crude petroleum, refined petroleum, fertilizers, ammonia (2021)"
+      "text": "natural gas, crude petroleum, refined petroleum, fertilizers, ammonia (2022)",
+      "note": "<b>note:</b> top five export commodities based on value in dollars"
     },
     "Imports": {
       "Imports 2022": {
@@ -878,13 +881,15 @@
       "Imports 2020": {
         "text": "$42.347 billion (2020 est.)"
       },
-      "note": "note: balance of payments - imports of goods and services in current dollars"
+      "note": "<b>note:</b> balance of payments - imports of goods and services in current dollars"
     },
     "Imports - partners": {
-      "text": "China 18%, France 14%, Italy 8%, Spain 8%, Germany 5%, Turkey 5% (2019)"
+      "text": "China 18%, France 14%, Italy 7%, Turkey 6%, Brazil 6% (2022)",
+      "note": "<b>note:</b> top five import partners based on percentage share of imports"
     },
     "Imports - commodities": {
-      "text": "refined petroleum, wheat, packaged medical supplies, milk, vehicle parts (2019)"
+      "text": "wheat, milk, plastics, corn, iron ore (2022)",
+      "note": "<b>note:</b> top five import commodities based on value in dollars"
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 2022": {
@@ -896,7 +901,7 @@
       "Reserves of foreign exchange and gold 2020": {
         "text": "$59.434 billion (2020 est.)"
       },
-      "note": "note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars"
+      "note": "<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars"
     },
     "Debt - external": {
       "Debt - external 2019": {

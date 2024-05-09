@@ -471,7 +471,7 @@
         "text": "last held on 6 December 2022 (next to be held in 2027); note - tradition dictates that the election is held within 5 years of the last election, but technically it is 5 years from the first seating of parliament plus a 90-day grace period"
       },
       "election results": {
-        "text": "percent of vote by party - DLP 82.3%, independent 16.9%; (elected) seats by party - DLP 19, independent 2; composition as of March 2024 - men 20, women 12, percent of women 37.5%"
+        "text": "percent of vote by party - DLP 82.3%, independent 16.9%; (elected) seats by party - DLP 19, independent 2; composition - men 20, women 12, percent of women 37.5%"
       }
     },
     "Judicial branch": {
@@ -554,7 +554,7 @@
       "Real GDP (purchasing power parity) 2020": {
         "text": "$738.371 million (2020 est.)"
       },
-      "note": "note: data in 2017 dollars"
+      "note": "<b>note:</b> data in 2017 dollars"
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2022": {
@@ -566,7 +566,7 @@
       "Real GDP growth rate 2020": {
         "text": "-16.6% (2020 est.)"
       },
-      "note": "note: annual GDP % growth based on constant local currency"
+      "note": "<b>note:</b> annual GDP % growth based on constant local currency"
     },
     "Real GDP per capita": {
       "Real GDP per capita 2022": {
@@ -578,11 +578,11 @@
       "Real GDP per capita 2020": {
         "text": "$10,300 (2020 est.)"
       },
-      "note": "note: data in 2017 dollars"
+      "note": "<b>note:</b> data in 2017 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$607.441 million (2022 est.)",
-      "note": "note: data in current dollars at official exchange rate"
+      "note": "<b>note:</b> data in current dollars at official exchange rate"
     },
     "Inflation rate (consumer prices)": {
       "Inflation rate (consumer prices) 2020": {
@@ -594,7 +594,7 @@
       "Inflation rate (consumer prices) 2018": {
         "text": "0.99% (2018 est.)"
       },
-      "note": "note: annual % change based on consumer prices"
+      "note": "<b>note:</b> annual % change based on consumer prices"
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -628,26 +628,18 @@
       }
     },
     "Agricultural products": {
-      "text": "bananas, yams, grapefruit, taro, milk, coconuts, oranges, yautia, plantains, sugar cane",
-      "note": "<strong>note:</strong> forest and fishery potential not exploited"
+      "text": "taro, grapefruits, yams, bananas, plantains, coconuts, milk, yautia, oranges, sugarcane (2022)",
+      "note": "<b>note:</b> top ten agricultural products based on tonnage"
     },
     "Industries": {
       "text": "soap, coconut oil, tourism, copra, furniture, cement blocks, shoes"
     },
     "Industrial production growth rate": {
       "text": "1.07% (2022 est.)",
-      "note": "note: annual % change in industrial value added based on constant local currency"
+      "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Population below poverty line": {
       "text": "29% (2009 est.)"
-    },
-    "Household income or consumption by percentage share": {
-      "lowest 10%": {
-        "text": "NA"
-      },
-      "highest 10%": {
-        "text": "NA"
-      }
     },
     "Remittances": {
       "Remittances 2022": {
@@ -659,7 +651,7 @@
       "Remittances 2020": {
         "text": "11.61% of GDP (2020 est.)"
       },
-      "note": "note: personal transfers and compensation between resident and non-resident individuals/households/entities"
+      "note": "<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities"
     },
     "Budget": {
       "revenues": {
@@ -696,7 +688,7 @@
       "Current account balance 2020": {
         "text": "-$178.7 million (2020 est.)"
       },
-      "note": "note: balance of payments - net trade and primary/secondary income in current dollars"
+      "note": "<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars"
     },
     "Exports": {
       "Exports 2022": {
@@ -708,13 +700,15 @@
       "Exports 2020": {
         "text": "$95.366 million (2020 est.)"
       },
-      "note": "note: balance of payments - exports of goods and services in current dollars"
+      "note": "<b>note:</b> balance of payments - exports of goods and services in current dollars"
     },
     "Exports - partners": {
-      "text": "Saudi Arabia 28%, France 6%, United States 5%, Grenada 5%, China 4% (2021)"
+      "text": "Bahamas, The 12%, Guyana 8%, Antigua and Barbuda 7%, Dominican Republic 7%, Barbados 6% (2022)",
+      "note": "<b>note:</b> top five export partners based on percentage share of exports"
     },
     "Exports - commodities": {
-      "text": "medical instruments, low-voltage protection equipment, sutures, soap, bandages (2021)"
+      "text": "power equipment, soap, raw iron bars, natural gas, tropical fruits (2022)",
+      "note": "<b>note:</b> top five export commodities based on value in dollars"
     },
     "Imports": {
       "Imports 2022": {
@@ -726,13 +720,15 @@
       "Imports 2020": {
         "text": "$303.326 million (2020 est.)"
       },
-      "note": "note: balance of payments - imports of goods and services in current dollars"
+      "note": "<b>note:</b> balance of payments - imports of goods and services in current dollars"
     },
     "Imports - partners": {
-      "text": "United States 75%, China 5%, Trinidad and Tobago 4%, United Kingdom 2%, Italy 2% (2021)"
+      "text": "US 51%, China 9%, Indonesia 4%, Trinidad and Tobago 4%, Italy 3% (2022)",
+      "note": "<b>note:</b> top five import partners based on percentage share of imports"
     },
     "Imports - commodities": {
-      "text": "refined petroleum, natural gas, crude petroleum, recreational boats, cars (2021)"
+      "text": "refined petroleum, natural gas, crude petroleum, plastic products, cars (2022)",
+      "note": "<b>note:</b> top five import commodities based on value in dollars"
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 2022": {
@@ -744,7 +740,7 @@
       "Reserves of foreign exchange and gold 2020": {
         "text": "$165.824 million (2020 est.)"
       },
-      "note": "note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars"
+      "note": "<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars"
     },
     "Debt - external": {
       "Debt - external 31 December 2017": {

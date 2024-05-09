@@ -642,7 +642,7 @@
       "Real GDP growth rate 2019": {
         "text": "1.22% (2019 est.)"
       },
-      "note": "note: annual GDP % growth based on constant local currency"
+      "note": "<b>note:</b> annual GDP % growth based on constant local currency"
     },
     "Real GDP per capita": {
       "Real GDP per capita 2015": {
@@ -658,7 +658,7 @@
     },
     "GDP (official exchange rate)": {
       "text": "$8.97 billion (2021 est.)",
-      "note": "note: data in current dollars at official exchange rate"
+      "note": "<b>note:</b> data in current dollars at official exchange rate"
     },
     "Inflation rate (consumer prices)": {
       "Inflation rate (consumer prices) 2017": {
@@ -700,18 +700,19 @@
       }
     },
     "Agricultural products": {
-      "text": "wheat, barley, milk, olives, tomatoes, oranges, potatoes, sheep milk, lemons, limes"
+      "text": "wheat, milk, olives, sheep milk, tomatoes, potatoes, maize, watermelons, apples, oranges (2022)",
+      "note": "<b>note:</b> top ten agricultural products based on tonnage"
     },
     "Industries": {
       "text": "petroleum, textiles, food processing, beverages, tobacco, phosphate rock mining, cement, oil seeds crushing, automobile assembly"
     },
     "Industrial production growth rate": {
       "text": "-14.03% (2021 est.)",
-      "note": "note: annual % change in industrial value added based on constant local currency"
+      "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
       "text": "5.816 million (2022 est.)",
-      "note": "note: number of people ages 15 or older who are employed or seeking work"
+      "note": "<b>note:</b> number of people ages 15 or older who are employed or seeking work"
     },
     "Unemployment rate": {
       "Unemployment rate 2022": {
@@ -723,7 +724,7 @@
       "Unemployment rate 2020": {
         "text": "15.28% (2020 est.)"
       },
-      "note": "note: % of labor force seeking employment"
+      "note": "<b>note:</b> % of labor force seeking employment"
     },
     "Youth unemployment rate (ages 15-24)": {
       "total": {
@@ -739,14 +740,6 @@
     "Population below poverty line": {
       "text": "82.5% (2014 est.)"
     },
-    "Household income or consumption by percentage share": {
-      "lowest 10%": {
-        "text": "NA"
-      },
-      "highest 10%": {
-        "text": "NA"
-      }
-    },
     "Remittances": {
       "Remittances 2021": {
         "text": "0% of GDP (2021 est.)"
@@ -757,7 +750,7 @@
       "Remittances 2019": {
         "text": "0% of GDP (2019 est.)"
       },
-      "note": "note: personal transfers and compensation between resident and non-resident individuals/households/entities"
+      "note": "<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities"
     },
     "Budget": {
       "revenues": {
@@ -794,32 +787,44 @@
       }
     },
     "Exports": {
-      "Exports 2017": {
-        "text": "$1.85 billion (2017 est.)"
+      "Exports 2021": {
+        "text": "$2.224 billion (2021 est.)"
       },
-      "Exports 2016": {
-        "text": "$1.705 billion (2016 est.)"
-      }
+      "Exports 2020": {
+        "text": "$1.649 billion (2020 est.)"
+      },
+      "Exports 2019": {
+        "text": "$2.94 billion (2019 est.)"
+      },
+      "note": "<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars"
     },
     "Exports - partners": {
-      "text": "Saudi Arabia 23%, Turkey 18%, Egypt 14%, United Arab Emirates 8%, Jordan 7%, Kuwait 5% (2019)"
+      "text": "Turkey 29%, Kuwait 15%, Lebanon 14%, Jordan 8%, Egypt 7% (2022)",
+      "note": "<b>note:</b> top five export partners based on percentage share of exports"
     },
     "Exports - commodities": {
-      "text": "olive oil, cumin seeds, pistachios, tomatoes, apples, pears, spices, pitted fruits (2019)"
+      "text": "pure olive oil, nuts, phosphates, cotton, garments (2022)",
+      "note": "<b>note:</b> top five export commodities based on value in dollars"
     },
     "Imports": {
-      "Imports 2017": {
-        "text": "$6.279 billion (2017 est.)"
+      "Imports 2021": {
+        "text": "$6.553 billion (2021 est.)"
       },
-      "Imports 2016": {
-        "text": "$5.496 billion (2016 est.)"
-      }
+      "Imports 2020": {
+        "text": "$3.751 billion (2020 est.)"
+      },
+      "Imports 2019": {
+        "text": "$6.552 billion (2019 est.)"
+      },
+      "note": "<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars"
     },
     "Imports - partners": {
-      "text": "Turkey 27%, China 22%, United Arab Emirates 14%, Egypt 5% (2019)"
+      "text": "Turkey 45%, UAE 10%, China 9%, Lebanon 8%, Egypt 7% (2022)",
+      "note": "<b>note:</b> top five import partners based on percentage share of imports"
     },
     "Imports - commodities": {
-      "text": "cigarettes, broadcasting equipment, wheat flours, sunflower oil, refined petroleum (2019)"
+      "text": "tobacco, plastics, wheat, seed oils, plastic products (2022)",
+      "note": "<b>note:</b> top five import commodities based on value in dollars"
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 31 December 2017": {

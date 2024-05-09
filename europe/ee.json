@@ -328,7 +328,7 @@
         "text": "last held on 23-26 May 2019 (next to be held on 6-9 June 2024)"
       },
       "election results": {
-        "text": "European Parliament percent of vote - NA; seats by party - EPP 182, S&amp;D 153, RE 108, Greens/EFA 75, ECR 62, ENF 73, EFDD 43, GUE-NGL 41, non-attached 7, other 7; composition as of February 2024 - men 424, women 281, percentage women 39.8%"
+        "text": "European Parliament percent of vote - NA; seats by party - EPP 182, S&amp;D 153, RE 108, Greens/EFA 75, ECR 62, ENF 73, EFDD 43, GUE-NGL 41, non-attached 7, other 7; composition - men 424, women 281, percentage women 39.8%"
       },
       "note": "<strong>note: </strong>European Parliament seats by party as of April 2024 - EPP 177, S&amp;D 139, RE 102, Greens/EFA 72, ECR, 68, ID 59, GUE-NGL 37, non-attached 51"
     },
@@ -408,7 +408,7 @@
       "Real GDP (purchasing power parity) 2020": {
         "text": "$18.724 trillion (2020 est.)"
       },
-      "note": "note: data in 2017 dollars"
+      "note": "<b>note:</b> data in 2017 dollars"
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2022": {
@@ -420,7 +420,7 @@
       "Real GDP growth rate 2020": {
         "text": "-5.65% (2020 est.)"
       },
-      "note": "note: annual GDP % growth based on constant local currency"
+      "note": "<b>note:</b> annual GDP % growth based on constant local currency"
     },
     "Real GDP per capita": {
       "Real GDP per capita 2022": {
@@ -432,11 +432,11 @@
       "Real GDP per capita 2020": {
         "text": "$41,800 (2020 est.)"
       },
-      "note": "note: data in 2017 dollars"
+      "note": "<b>note:</b> data in 2017 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$16.746 trillion (2022 est.)",
-      "note": "note: data in current dollars at official exchange rate"
+      "note": "<b>note:</b> data in current dollars at official exchange rate"
     },
     "Inflation rate (consumer prices)": {
       "Inflation rate (consumer prices) 2022": {
@@ -448,7 +448,7 @@
       "Inflation rate (consumer prices) 2020": {
         "text": "0.48% (2020 est.)"
       },
-      "note": "note: annual % change based on consumer prices"
+      "note": "<b>note:</b> annual % change based on consumer prices"
     },
     "Credit ratings": {
       "Fitch rating": {
@@ -494,18 +494,19 @@
       }
     },
     "Agricultural products": {
-      "text": "wheat, barley, oilseeds, sugar beets, wine, grapes, dairy products, cattle, sheep, pigs, poultry, fish"
+      "text": "milk, wheat, sugar beets, maize, barley, potatoes, grapes, pork, rapeseed, tomatoes (2022)",
+      "note": "note: top ten agricultural products based on tonnage for all EU member states"
     },
     "Industries": {
       "text": "among the world's largest and most technologically advanced regions, the EU industrial base includes: ferrous and non-ferrous metal production and processing, metal products, petroleum, coal, cement, chemicals, pharmaceuticals, aerospace, rail transportation equipment, passenger and commercial vehicles, construction equipment, industrial equipment, shipbuilding, electrical power equipment, machine tools and automated manufacturing systems, electronics and telecommunications equipment, fishing, food and beverages, furniture, paper, textiles"
     },
     "Industrial production growth rate": {
       "text": "1.97% (2022 est.)",
-      "note": "note: annual % change in industrial value added based on constant local currency"
+      "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
       "text": "219.322 million (2022 est.)",
-      "note": "note: number of people ages 15 or older who are employed or seeking work"
+      "note": "<b>note:</b> number of people ages 15 or older who are employed or seeking work"
     },
     "Unemployment rate": {
       "Unemployment rate 2022": {
@@ -517,7 +518,7 @@
       "Unemployment rate 2020": {
         "text": "7.04% (2020 est.)"
       },
-      "note": "note: % of labor force seeking employment"
+      "note": "<b>note:</b> % of labor force seeking employment"
     },
     "Youth unemployment rate (ages 15-24)": {
       "total": {
@@ -557,7 +558,7 @@
       "Remittances 2020": {
         "text": "0.8% of GDP (2020 est.)"
       },
-      "note": "note: personal transfers and compensation between resident and non-resident individuals/households/entities"
+      "note": "<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities"
     },
     "Budget surplus (+) or deficit (-)": {
       "text": "-3% (of GDP) (2014)"
@@ -572,7 +573,7 @@
     },
     "Taxes and other revenues": {
       "text": "19.8% (of GDP) (2021 est.)",
-      "note": "note: central government tax revenue as a % of GDP"
+      "note": "<b>note:</b> central government tax revenue as a % of GDP"
     },
     "Fiscal year": {
       "text": "NA"
@@ -595,13 +596,15 @@
       "Exports 2020": {
         "text": "$7.182 trillion (2020 est.)"
       },
-      "note": "note: balance of payments - exports of goods and services in current dollars"
+      "note": "<b>note:</b> balance of payments - exports of goods and services in current dollars"
     },
     "Exports - partners": {
-      "text": "United States 18%, United Kingdom 13%, China 10%, Switzerland 7%, Russia 4% (2021)"
+      "text": "US 20%, UK 12%, China 9%, Switzerland 7%, Turkey 4% (2022)",
+      "note": "note: top five non-EU export partners based on percentage share of external exports; does not include internal trade among EU member states"
     },
     "Exports - commodities": {
-      "text": "cars and vehicle parts, packaged medicines, vaccines and cultures, refined petroleum, aircraft, integrated circuits, medical instruments, gas turbines (2021)"
+      "text": "cars, packaged medicine, refined petroleum, vaccines, vehicle parts/accessories (2022)",
+      "note": "note: top five export commodities based on value in dollars; includes both exports to external partners and internal trade among EU member states"
     },
     "Imports": {
       "Imports 2022": {
@@ -613,13 +616,15 @@
       "Imports 2020": {
         "text": "$6.599 trillion (2020 est.)"
       },
-      "note": "note: balance of payments - imports of goods and services in current dollars"
+      "note": "<b>note:</b> balance of payments - imports of goods and services in current dollars"
     },
     "Imports - partners": {
-      "text": "China 22%, United States 11%, United Kingdom 8%, Russia 7%, Switzerland 6% (2021)"
+      "text": "China 20%, US 11%, UK 8%, Norway 6%, Russia 6% (2022)",
+      "note": "note: top five non-EU import partners based on percentage share of external imports; does not include internal trade among EU member states"
     },
     "Imports - commodities": {
-      "text": "crude petroleum, natural gas, refined petroleum, cars, broadcasting equipment, vaccines and cultures, computers (2021)"
+      "text": "natural gas, crude petroleum, cars, refined petroleum, garments (2022)",
+      "note": "note: top five import commodities based on value in dollars; includes both imports from external partners and internal trade among EU member states"
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 31 December 2014": {

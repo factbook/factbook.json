@@ -532,7 +532,7 @@
         "text": "legislative elections originally scheduled to be held in two rounds on 7 and 15 April 2020 but rescheduled for 14 and 21 April 2020 (next to be held in 2024)"
       },
       "election results": {
-        "text": "percent of vote by party - NA; seats by party - TKB 22, BKM 22, appointed 1; composition as of February 2024 - 42 men, 3 women; percentage women 6.7%"
+        "text": "percent of vote by party - NA; seats by party - TKB 22, BKM 22, appointed 1; composition - 42 men, 3 women; percentage women 6.7%"
       }
     },
     "Judicial branch": {
@@ -613,7 +613,7 @@
       "Real GDP (purchasing power parity) 2020": {
         "text": "$239.908 million (2020 est.)"
       },
-      "note": "note: data in 2017 dollars"
+      "note": "<b>note:</b> data in 2017 dollars"
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2022": {
@@ -625,7 +625,7 @@
       "Real GDP growth rate 2020": {
         "text": "-1.66% (2020 est.)"
       },
-      "note": "note: annual GDP % growth based on constant local currency"
+      "note": "<b>note:</b> annual GDP % growth based on constant local currency"
     },
     "Real GDP per capita": {
       "Real GDP per capita 2022": {
@@ -637,11 +637,11 @@
       "Real GDP per capita 2020": {
         "text": "$1,900 (2020 est.)"
       },
-      "note": "note: data in 2017 dollars"
+      "note": "<b>note:</b> data in 2017 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$223.353 million (2022 est.)",
-      "note": "note: data in current dollars at official exchange rate"
+      "note": "<b>note:</b> data in current dollars at official exchange rate"
     },
     "Inflation rate (consumer prices)": {
       "Inflation rate (consumer prices) 2021": {
@@ -653,7 +653,7 @@
       "Inflation rate (consumer prices) 2019": {
         "text": "-1.81% (2019 est.)"
       },
-      "note": "note: annual % change based on consumer prices"
+      "note": "<b>note:</b> annual % change based on consumer prices"
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -667,14 +667,15 @@
       }
     },
     "Agricultural products": {
-      "text": "coconuts, roots/tubers, bananas, vegetables, taro, tropical fruit, poultry, pork, nuts, eggs"
+      "text": "coconuts, bananas, vegetables, taro, tropical fruits, pork, chicken, nuts, eggs, pork offal (2022)",
+      "note": "<b>note:</b> top ten agricultural products based on tonnage"
     },
     "Industries": {
       "text": "fishing, handicrafts"
     },
     "Industrial production growth rate": {
       "text": "21.11% (2021 est.)",
-      "note": "note: annual % change in industrial value added based on constant local currency"
+      "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
       "text": "39,000 (2010 est.)",
@@ -700,14 +701,14 @@
       }
     },
     "Population below poverty line": {
-      "text": "21.9% (2019 est.) NA",
-      "note": "note: % of population with income below national poverty line"
+      "text": "21.9% (2019 est.)",
+      "note": "<strong>note:</strong> % of population with income below national poverty line"
     },
     "Gini Index coefficient - distribution of family income": {
       "Gini Index coefficient - distribution of family income 2019": {
         "text": "27.8 (2019 est.)"
       },
-      "note": "note: index (0-100) of income distribution; higher values represent greater inequality"
+      "note": "<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality"
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
@@ -716,7 +717,7 @@
       "highest 10%": {
         "text": "22.9% (2019 est.)"
       },
-      "note": "note: % share of income accruing to lowest and highest 10% of population"
+      "note": "<b>note:</b> % share of income accruing to lowest and highest 10% of population"
     },
     "Remittances": {
       "Remittances 2022": {
@@ -728,7 +729,7 @@
       "Remittances 2020": {
         "text": "8.4% of GDP (2020 est.)"
       },
-      "note": "note: personal transfers and compensation between resident and non-resident individuals/households/entities"
+      "note": "<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities"
     },
     "Budget": {
       "revenues": {
@@ -751,7 +752,7 @@
     },
     "Taxes and other revenues": {
       "text": "27.38% (of GDP) (2021 est.)",
-      "note": "note: central government tax revenue as a % of GDP"
+      "note": "<b>note:</b> central government tax revenue as a % of GDP"
     },
     "Fiscal year": {
       "text": "NA"
@@ -766,7 +767,7 @@
       "Current account balance 2020": {
         "text": "$71.279 million (2020 est.)"
       },
-      "note": "note: balance of payments - net trade and primary/secondary income in current dollars"
+      "note": "<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars"
     },
     "Exports": {
       "Exports 2022": {
@@ -778,13 +779,15 @@
       "Exports 2020": {
         "text": "$21.228 million (2020 est.)"
       },
-      "note": "note: balance of payments - exports of goods and services in current dollars"
+      "note": "<b>note:</b> balance of payments - exports of goods and services in current dollars"
     },
     "Exports - partners": {
-      "text": "Thailand 60%, Indonesia 11%, Philippines 10%, Japan 6%, South Korea 3% (2021)"
+      "text": "Thailand 55%, Philippines 15%, Japan 10%, Indonesia 8%, South Korea 4% (2022)",
+      "note": "<b>note:</b> top five export partners based on percentage share of exports"
     },
     "Exports - commodities": {
-      "text": "skipjacks, tuna, fish fillets, ships, coconut oil, copra (2021)"
+      "text": "fish, ships, coconut oil, copra, raw sugar (2022)",
+      "note": "<b>note:</b> top five export commodities based on value in dollars"
     },
     "Imports": {
       "Imports 2022": {
@@ -796,13 +799,15 @@
       "Imports 2020": {
         "text": "$148.77 million (2020 est.)"
       },
-      "note": "note: balance of payments - imports of goods and services in current dollars"
+      "note": "<b>note:</b> balance of payments - imports of goods and services in current dollars"
     },
     "Imports - partners": {
-      "text": "China 23%, Taiwan 16%, Fiji 16%, Australia 12%, New Zealand 6% (2021)"
+      "text": "Taiwan 25%, China 22%, Fiji 13%, Australia 9%, South Korea 7% (2022)",
+      "note": "<b>note:</b> top five import partners based on percentage share of imports"
     },
     "Imports - commodities": {
-      "text": "fishing ships, beef, netting, poultry meat, rice, refined petroleum, sugar, refrigerators (2021)"
+      "text": "ships, refined petroleum, rice, twine and rope, prepared meat (2022)",
+      "note": "<b>note:</b> top five import commodities based on value in dollars"
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 31 December 2010": {

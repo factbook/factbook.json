@@ -459,7 +459,7 @@
       "Real GDP (purchasing power parity) 2020": {
         "text": "$37.139 billion (2020 est.)"
       },
-      "note": "note: data in 2017 dollars"
+      "note": "<b>note:</b> data in 2017 dollars"
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2022": {
@@ -471,7 +471,7 @@
       "Real GDP growth rate 2020": {
         "text": "-54.34% (2020 est.)"
       },
-      "note": "note: annual GDP % growth based on constant local currency"
+      "note": "<b>note:</b> annual GDP % growth based on constant local currency"
     },
     "Real GDP per capita": {
       "Real GDP per capita 2022": {
@@ -483,11 +483,11 @@
       "Real GDP per capita 2020": {
         "text": "$54,900 (2020 est.)"
       },
-      "note": "note: data in 2017 dollars"
+      "note": "<b>note:</b> data in 2017 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$24.042 billion (2022 est.)",
-      "note": "note: data in current dollars at official exchange rate"
+      "note": "<b>note:</b> data in current dollars at official exchange rate"
     },
     "Inflation rate (consumer prices)": {
       "Inflation rate (consumer prices) 2022": {
@@ -499,7 +499,7 @@
       "Inflation rate (consumer prices) 2020": {
         "text": "0.81% (2020 est.)"
       },
-      "note": "note: annual % change based on consumer prices"
+      "note": "<b>note:</b> annual % change based on consumer prices"
     },
     "Credit ratings": {
       "Fitch rating": {
@@ -542,18 +542,19 @@
       }
     },
     "Agricultural products": {
-      "text": "pork, poultry, beef, pig fat, pig offals, eggs, pepper, cattle offals, cattle hides, goose/guinea fowl meat"
+      "text": "pork, chicken, beef, eggs, pork offal, pork fat, pepper, beef offal, cattle hides, goose meat (2022)",
+      "note": "<b>note:</b> top ten agricultural products based on tonnage"
     },
     "Industries": {
       "text": "tourism, gambling, clothing, textiles, electronics, footwear, toys"
     },
     "Industrial production growth rate": {
       "text": "-5.63% (2022 est.)",
-      "note": "note: annual % change in industrial value added based on constant local currency"
+      "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
       "text": "401,000 (2022 est.)",
-      "note": "note: number of people ages 15 or older who are employed or seeking work"
+      "note": "<b>note:</b> number of people ages 15 or older who are employed or seeking work"
     },
     "Unemployment rate": {
       "Unemployment rate 2022": {
@@ -565,7 +566,7 @@
       "Unemployment rate 2020": {
         "text": "2.57% (2020 est.)"
       },
-      "note": "note: % of labor force seeking employment"
+      "note": "<b>note:</b> % of labor force seeking employment"
     },
     "Youth unemployment rate (ages 15-24)": {
       "total": {
@@ -578,20 +579,9 @@
         "text": "6.6%"
       }
     },
-    "Population below poverty line": {
-      "text": "NA"
-    },
     "Gini Index coefficient - distribution of family income": {
       "Gini Index coefficient - distribution of family income 2013": {
         "text": "35 (2013 est.)"
-      }
-    },
-    "Household income or consumption by percentage share": {
-      "lowest 10%": {
-        "text": "NA"
-      },
-      "highest 10%": {
-        "text": "NA"
       }
     },
     "Remittances": {
@@ -604,7 +594,7 @@
       "Remittances 2020": {
         "text": "0.26% of GDP (2020 est.)"
       },
-      "note": "note: personal transfers and compensation between resident and non-resident individuals/households/entities"
+      "note": "<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities"
     },
     "Budget": {
       "revenues": {
@@ -627,7 +617,7 @@
     },
     "Taxes and other revenues": {
       "text": "19.31% (of GDP) (2021 est.)",
-      "note": "note: central government tax revenue as a % of GDP"
+      "note": "<b>note:</b> central government tax revenue as a % of GDP"
     },
     "Fiscal year": {
       "text": "calendar year"
@@ -642,7 +632,7 @@
       "Current account balance 2020": {
         "text": "$3.785 billion (2020 est.)"
       },
-      "note": "note: balance of payments - net trade and primary/secondary income in current dollars"
+      "note": "<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars"
     },
     "Exports": {
       "Exports 2022": {
@@ -654,13 +644,15 @@
       "Exports 2020": {
         "text": "$15.665 billion (2020 est.)"
       },
-      "note": "note: balance of payments - exports of goods and services in current dollars"
+      "note": "<b>note:</b> balance of payments - exports of goods and services in current dollars"
     },
     "Exports - partners": {
-      "text": "Hong Kong 66%, China 9% (2019)"
+      "text": "Hong Kong 65%, China 8%, US 7%, Switzerland 3%, Israel 2% (2022)",
+      "note": "<b>note:</b> top five export partners based on percentage share of exports"
     },
     "Exports - commodities": {
-      "text": "jewelry, broadcasting equipment, watches, telephones, clothing and apparel (2021)"
+      "text": "jewelry, garments, broadcasting equipment, precious metal watches, trunks and cases (2022)",
+      "note": "<b>note:</b> top five export commodities based on value in dollars"
     },
     "Imports": {
       "Imports 2022": {
@@ -672,13 +664,15 @@
       "Imports 2020": {
         "text": "$15.151 billion (2020 est.)"
       },
-      "note": "note: balance of payments - imports of goods and services in current dollars"
+      "note": "<b>note:</b> balance of payments - imports of goods and services in current dollars"
     },
     "Imports - partners": {
-      "text": "China 33%, Hong Kong 31%, France 5% (2019)"
+      "text": "China 39%, Hong Kong 25%, France 5%, Italy 4%, US 3% (2022)",
+      "note": "<b>note:</b> top five import partners based on percentage share of imports"
     },
     "Imports - commodities": {
-      "text": "jewelry, watches, electricity, aircraft, cars (2019)"
+      "text": "jewelry, garments, electricity, broadcasting equipment, trunks and cases (2022)",
+      "note": "<b>note:</b> top five import commodities based on value in dollars"
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 2022": {
@@ -690,7 +684,7 @@
       "Reserves of foreign exchange and gold 2020": {
         "text": "$25.145 billion (2020 est.)"
       },
-      "note": "note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars"
+      "note": "<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars"
     },
     "Debt - external": {
       "Debt - external 31 December 2013": {

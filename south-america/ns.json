@@ -554,7 +554,7 @@
         "text": "last held on 25 May 2020 (next to be held in May 2025)"
       },
       "election results": {
-        "text": "percent of vote by party - VHP 41.1%, NDP 29.4%, ABOP 17.6%, NPS 7.8%, other 3.9%; seats by party - VHP 20, NDP 16, ABOP 9, NPS 3, BEP 2, PL 2; composition as of February 2024 - men 35, women 16, percentage women 31.4%"
+        "text": "percent of vote by party - VHP 41.1%, NDP 29.4%, ABOP 17.6%, NPS 7.8%, other 3.9%; seats by party - VHP 20, NDP 16, ABOP 9, NPS 3, BEP 2, PL 2; composition - men 35, women 16, percentage women 31.4%"
       }
     },
     "Judicial branch": {
@@ -652,7 +652,7 @@
       "Real GDP (purchasing power parity) 2020": {
         "text": "$9.306 billion (2020 est.)"
       },
-      "note": "note: data in 2017 dollars"
+      "note": "<b>note:</b> data in 2017 dollars"
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2022": {
@@ -664,7 +664,7 @@
       "Real GDP growth rate 2020": {
         "text": "-15.98% (2020 est.)"
       },
-      "note": "note: annual GDP % growth based on constant local currency"
+      "note": "<b>note:</b> annual GDP % growth based on constant local currency"
     },
     "Real GDP per capita": {
       "Real GDP per capita 2022": {
@@ -676,11 +676,11 @@
       "Real GDP per capita 2020": {
         "text": "$15,300 (2020 est.)"
       },
-      "note": "note: data in 2017 dollars"
+      "note": "<b>note:</b> data in 2017 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$3.621 billion (2022 est.)",
-      "note": "note: data in current dollars at official exchange rate"
+      "note": "<b>note:</b> data in current dollars at official exchange rate"
     },
     "Inflation rate (consumer prices)": {
       "Inflation rate (consumer prices) 2022": {
@@ -692,7 +692,7 @@
       "Inflation rate (consumer prices) 2020": {
         "text": "34.89% (2020 est.)"
       },
-      "note": "note: annual % change based on consumer prices"
+      "note": "<b>note:</b> annual % change based on consumer prices"
     },
     "Credit ratings": {
       "Fitch rating": {
@@ -738,18 +738,19 @@
       }
     },
     "Agricultural products": {
-      "text": "rice, sugar cane, bananas, oranges, vegetables, plantains, coconuts, poultry, cassava, eggs"
+      "text": "rice, sugarcane, oranges, chicken, plantains, vegetables, bananas, coconuts, cassava, eggs (2022)",
+      "note": "<b>note:</b> top ten agricultural products based on tonnage"
     },
     "Industries": {
       "text": "gold mining, oil, lumber, food processing, fishing"
     },
     "Industrial production growth rate": {
       "text": "3.05% (2022 est.)",
-      "note": "note: annual % change in industrial value added based on constant local currency"
+      "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
       "text": "246,000 (2022 est.)",
-      "note": "note: number of people ages 15 or older who are employed or seeking work"
+      "note": "<b>note:</b> number of people ages 15 or older who are employed or seeking work"
     },
     "Unemployment rate": {
       "Unemployment rate 2022": {
@@ -761,7 +762,7 @@
       "Unemployment rate 2020": {
         "text": "8.74% (2020 est.)"
       },
-      "note": "note: % of labor force seeking employment"
+      "note": "<b>note:</b> % of labor force seeking employment"
     },
     "Youth unemployment rate (ages 15-24)": {
       "total": {
@@ -777,14 +778,6 @@
     "Population below poverty line": {
       "text": "70% (2002 est.)"
     },
-    "Household income or consumption by percentage share": {
-      "lowest 10%": {
-        "text": "NA"
-      },
-      "highest 10%": {
-        "text": "NA"
-      }
-    },
     "Remittances": {
       "Remittances 2022": {
         "text": "4.09% of GDP (2022 est.)"
@@ -795,7 +788,7 @@
       "Remittances 2020": {
         "text": "4.26% of GDP (2020 est.)"
       },
-      "note": "note: personal transfers and compensation between resident and non-resident individuals/households/entities"
+      "note": "<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities"
     },
     "Budget": {
       "revenues": {
@@ -832,7 +825,7 @@
       "Current account balance 2020": {
         "text": "$259.846 million (2020 est.)"
       },
-      "note": "note: balance of payments - net trade and primary/secondary income in current dollars"
+      "note": "<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars"
     },
     "Exports": {
       "Exports 2022": {
@@ -844,13 +837,15 @@
       "Exports 2020": {
         "text": "$2.446 billion (2020 est.)"
       },
-      "note": "note: balance of payments - exports of goods and services in current dollars"
+      "note": "<b>note:</b> balance of payments - exports of goods and services in current dollars"
     },
     "Exports - partners": {
-      "text": "Switzerland 51%, United Arab Emirates 22%, Belgium 6%, Trinidad and Tobago 2%, Guyana 2% (2021)"
+      "text": "Switzerland 39%, UAE 21%, Belgium 10%, Guyana 5%, Trinidad and Tobago 4% (2022)",
+      "note": "<b>note:</b> top five export partners based on percentage share of exports"
     },
     "Exports - commodities": {
-      "text": "gold, lumber, refined petroleum, excavation machinery, rice (2021)"
+      "text": "gold, refined petroleum, excavation machinery, wood, fish (2022)",
+      "note": "<b>note:</b> top five export commodities based on value in dollars"
     },
     "Imports": {
       "Imports 2022": {
@@ -862,13 +857,15 @@
       "Imports 2020": {
         "text": "$1.845 billion (2020 est.)"
       },
-      "note": "note: balance of payments - imports of goods and services in current dollars"
+      "note": "<b>note:</b> balance of payments - imports of goods and services in current dollars"
     },
     "Imports - partners": {
-      "text": "United States 19%, China 16%, Netherlands 15%, Trinidad and Tobago 8%, Japan 3% (2021)"
+      "text": "US 25%, China 15%, Netherlands 13%, Trinidad and Tobago 6%, Japan 3% (2022)",
+      "note": "<b>note:</b> top five import partners based on percentage share of imports"
     },
     "Imports - commodities": {
-      "text": "refined petroleum, excavation machinery, delivery trucks, cars, cigarettes (2021)"
+      "text": "refined petroleum, excavation machinery, cars, plastic products, tobacco (2022)",
+      "note": "<b>note:</b> top five import commodities based on value in dollars"
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 2022": {
@@ -880,7 +877,7 @@
       "Reserves of foreign exchange and gold 2020": {
         "text": "$584.929 million (2020 est.)"
       },
-      "note": "note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars"
+      "note": "<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars"
     },
     "Debt - external": {
       "Debt - external 31 December 2017": {

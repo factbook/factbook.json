@@ -481,7 +481,7 @@
         "text": "last held on 24 September 2022 (next to be held in September 2025)"
       },
       "election results": {
-        "text": "percent of vote - NA; seats - independent 19; composition as of February 2024 - men 17, women 2, percentage women 10.5%"
+        "text": "percent of vote - NA; seats - independent 19; composition - men 17, women 2, percentage women 10.5%"
       }
     },
     "Judicial branch": {
@@ -553,7 +553,7 @@
       "Real GDP (purchasing power parity) 2020": {
         "text": "$133.161 million (2020 est.)"
       },
-      "note": "note: data in 2017 dollars"
+      "note": "<b>note:</b> data in 2017 dollars"
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2022": {
@@ -565,7 +565,7 @@
       "Real GDP growth rate 2020": {
         "text": "4.24% (2020 est.)"
       },
-      "note": "note: annual GDP % growth based on constant local currency"
+      "note": "<b>note:</b> annual GDP % growth based on constant local currency"
     },
     "Real GDP per capita": {
       "Real GDP per capita 2022": {
@@ -577,11 +577,11 @@
       "Real GDP per capita 2020": {
         "text": "$10,800 (2020 est.)"
       },
-      "note": "note: data in 2017 dollars"
+      "note": "<b>note:</b> data in 2017 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$151.648 million (2022 est.)",
-      "note": "note: data in current dollars at official exchange rate"
+      "note": "<b>note:</b> data in current dollars at official exchange rate"
     },
     "Inflation rate (consumer prices)": {
       "Inflation rate (consumer prices) 2017": {
@@ -620,17 +620,15 @@
       }
     },
     "Agricultural products": {
-      "text": "coconuts, tropical fruit, vegetables, pork, eggs, pig offals, pig fat, poultry, papayas, cabbages"
+      "text": "coconuts, tropical fruits, pork, eggs, pork offal, pork fat, chicken, papayas, vegetables, cabbages (2022)",
+      "note": "<b>note:</b> top ten agricultural products based on tonnage"
     },
     "Industries": {
       "text": "phosphate mining, offshore banking, coconut products"
     },
     "Industrial production growth rate": {
       "text": "4.3% (2014 est.)",
-      "note": "note: annual % change in industrial value added based on constant local currency"
-    },
-    "Labor force": {
-      "text": "NA"
+      "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Unemployment rate": {
       "Unemployment rate 2011": {
@@ -651,20 +649,9 @@
         "text": "37.5%"
       }
     },
-    "Population below poverty line": {
-      "text": "NA"
-    },
     "Gini Index coefficient - distribution of family income": {
       "Gini Index coefficient - distribution of family income 2012": {
         "text": "34.8 (2012 est.)"
-      }
-    },
-    "Household income or consumption by percentage share": {
-      "lowest 10%": {
-        "text": "NA"
-      },
-      "highest 10%": {
-        "text": "NA"
       }
     },
     "Remittances": {
@@ -677,7 +664,7 @@
       "Remittances 2016": {
         "text": "12.04% of GDP (2016 est.)"
       },
-      "note": "note: personal transfers and compensation between resident and non-resident individuals/households/entities"
+      "note": "<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities"
     },
     "Budget": {
       "revenues": {
@@ -700,7 +687,7 @@
     },
     "Taxes and other revenues": {
       "text": "44.35% (of GDP) (2020 est.)",
-      "note": "note: central government tax revenue as a % of GDP"
+      "note": "<b>note:</b> central government tax revenue as a % of GDP"
     },
     "Fiscal year": {
       "text": "1 July - 30 June"
@@ -715,7 +702,7 @@
       "Current account balance 2016": {
         "text": "$2.079 million (2016 est.)"
       },
-      "note": "note: balance of payments - net trade and primary/secondary income in current dollars"
+      "note": "<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars"
     },
     "Exports": {
       "Exports 2021": {
@@ -726,13 +713,16 @@
       },
       "Exports 2019": {
         "text": "$32.7 million (2019 est.)"
-      }
+      },
+      "note": "<b>note:</b> balance of payments - exports of goods and services in current dollars"
     },
     "Exports - partners": {
-      "text": "Thailand 49%, Saudi Arabia 14%, Philippines 11%, South Korea 8%, India 7% (2021)"
+      "text": "Thailand 59%, Philippines 19%, South Korea 11%, India 3%, Japan 2% (2022)",
+      "note": "<b>note:</b> top five export partners based on percentage share of exports"
     },
     "Exports - commodities": {
-      "text": "skipjack, calcium phosphates, tuna, cars, delivery trucks, low-voltage protection equipment (2021)"
+      "text": "fish, phosphates, gas turbines, power equipment, plastic products (2022)",
+      "note": "<b>note:</b> top five export commodities based on value in dollars"
     },
     "Imports": {
       "Imports 2021": {
@@ -743,13 +733,16 @@
       },
       "Imports 2019": {
         "text": "$88.2 million (2019 est.)"
-      }
+      },
+      "note": "<b>note:</b> balance of payments - imports of goods and services in current dollars"
     },
     "Imports - partners": {
-      "text": "Australia 36%, Taiwan 16%, China 12%, Japan 12%, Nigeria 7% (2021)"
+      "text": "Australia 47%, China 17%, Japan 12%, Fiji 11%, NZ 2% (2022)",
+      "note": "<b>note:</b> top five import partners based on percentage share of imports"
     },
     "Imports - commodities": {
-      "text": "refined petroleum, tugboats, cigarettes, cars, construction vehicles (2021)"
+      "text": "ships, plastic products, other foods, cars, refined petroleum (2022)",
+      "note": "<b>note:</b> top five import commodities based on value in dollars"
     },
     "Debt - external": {
       "Debt - external 2004": {

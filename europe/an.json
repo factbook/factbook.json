@@ -509,7 +509,7 @@
         "text": "last held on 2 April 2023 (next to be held in April 2027)"
       },
       "election results": {
-        "text": "percent of vote by party/coalition - DA, CC, L'A &amp; ACCIO alliance 43.6%, C 21.4%, AE 16%, PS &amp; SDP alliance 21.1%; seats by party/coalition - DA, CC, L'A &amp; ACCIO alliance 17, C 5, AE 3, PS &amp; SDP alliance 3; composition as of February 2024 - men 14, women 14, percentage women 50%"
+        "text": "percent of vote by party/coalition - DA, CC, L'A &amp; ACCIO alliance 43.6%, C 21.4%, AE 16%, PS &amp; SDP alliance 21.1%; seats by party/coalition - DA, CC, L'A &amp; ACCIO alliance 17, C 5, AE 3, PS &amp; SDP alliance 3; composition - men 14, women 14, percentage women 50%"
       }
     },
     "Judicial branch": {
@@ -603,7 +603,7 @@
       "Real GDP growth rate 2020": {
         "text": "-11.18% (2020 est.)"
       },
-      "note": "note: annual GDP % growth based on constant local currency"
+      "note": "<b>note:</b> annual GDP % growth based on constant local currency"
     },
     "Real GDP per capita": {
       "Real GDP per capita 2015": {
@@ -618,7 +618,7 @@
     },
     "GDP (official exchange rate)": {
       "text": "$3.352 billion (2022 est.)",
-      "note": "note: data in current dollars at official exchange rate"
+      "note": "<b>note:</b> data in current dollars at official exchange rate"
     },
     "Inflation rate (consumer prices)": {
       "Inflation rate (consumer prices) 2015": {
@@ -658,8 +658,8 @@
       "text": "tourism (particularly skiing), banking, timber, furniture"
     },
     "Industrial production growth rate": {
-      "text": "4.94% (2022 est.) NA",
-      "note": "note: annual % change in industrial value added based on constant local currency"
+      "text": "4.94% (2022 est.)",
+      "note": "<strong>note:</strong> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
       "text": "39,750 (2016)"
@@ -672,14 +672,6 @@
         "text": "4.1% (2015 est.)"
       }
     },
-    "Household income or consumption by percentage share": {
-      "lowest 10%": {
-        "text": "NA"
-      },
-      "highest 10%": {
-        "text": "NA"
-      }
-    },
     "Remittances": {
       "Remittances 2021": {
         "text": "1.59% of GDP (2021 est.)"
@@ -690,7 +682,7 @@
       "Remittances 2019": {
         "text": "0.67% of GDP (2019 est.)"
       },
-      "note": "note: personal transfers and compensation between resident and non-resident individuals/households/entities"
+      "note": "<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities"
     },
     "Budget": {
       "revenues": {
@@ -727,7 +719,7 @@
       "Current account balance 2019": {
         "text": "$568.257 million (2019 est.)"
       },
-      "note": "note: balance of payments - net trade and primary/secondary income in current dollars"
+      "note": "<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars"
     },
     "Exports": {
       "Exports 2021": {
@@ -739,13 +731,15 @@
       "Exports 2019": {
         "text": "$2.335 billion (2019 est.)"
       },
-      "note": "note: balance of payments - exports of goods and services in current dollars"
+      "note": "<b>note:</b> balance of payments - exports of goods and services in current dollars"
     },
     "Exports - partners": {
-      "text": "Spain 40%, France 19%, United States 11%, Mauritania 5% (2019)"
+      "text": "Spain 73%, France 6%, UK 3%, US 2%, Germany 2% (2022)",
+      "note": "<b>note:</b> top five export partners based on percentage share of exports"
     },
     "Exports - commodities": {
-      "text": "integrated circuits, dental fitting supplies, cars, gold, essential oils (2021)"
+      "text": "paintings, integrated circuits, cars, orthopedic appliances, garments (2022)",
+      "note": "<b>note:</b> top five export commodities based on value in dollars"
     },
     "Imports": {
       "Imports 2021": {
@@ -757,13 +751,15 @@
       "Imports 2019": {
         "text": "$2.032 billion (2019 est.)"
       },
-      "note": "note: balance of payments - imports of goods and services in current dollars"
+      "note": "<b>note:</b> balance of payments - imports of goods and services in current dollars"
     },
     "Imports - partners": {
-      "text": "Spain 71%, France 17% (2019)"
+      "text": "Spain 66%, France 12%, Germany 4%, China 3%, Italy 3% (2022)",
+      "note": "<b>note:</b> top five import partners based on percentage share of imports"
     },
     "Imports - commodities": {
-      "text": "cars, refined petroleum, perfumes, shaving products, liquors (2019)"
+      "text": "cars, refined petroleum, garments, electricity, beauty products (2022)",
+      "note": "<b>note:</b> top five import commodities based on value in dollars"
     },
     "Debt - external": {
       "Debt - external 2016": {

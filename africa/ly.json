@@ -621,7 +621,7 @@
       "Real GDP (purchasing power parity) 2020": {
         "text": "$103.941 billion (2020 est.)"
       },
-      "note": "note: data in 2017 dollars"
+      "note": "<b>note:</b> data in 2017 dollars"
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2022": {
@@ -633,7 +633,7 @@
       "Real GDP growth rate 2020": {
         "text": "-29.79% (2020 est.)"
       },
-      "note": "note: annual GDP % growth based on constant local currency"
+      "note": "<b>note:</b> annual GDP % growth based on constant local currency"
     },
     "Real GDP per capita": {
       "Real GDP per capita 2022": {
@@ -645,11 +645,11 @@
       "Real GDP per capita 2020": {
         "text": "$15,600 (2020 est.)"
       },
-      "note": "note: data in 2017 dollars"
+      "note": "<b>note:</b> data in 2017 dollars"
     },
     "GDP (official exchange rate)": {
       "text": "$45.752 billion (2022 est.)",
-      "note": "note: data in current dollars at official exchange rate"
+      "note": "<b>note:</b> data in current dollars at official exchange rate"
     },
     "Inflation rate (consumer prices)": {
       "Inflation rate (consumer prices) 2022": {
@@ -661,7 +661,7 @@
       "Inflation rate (consumer prices) 2020": {
         "text": "1.45% (2020 est.)"
       },
-      "note": "note: annual % change based on consumer prices"
+      "note": "<b>note:</b> annual % change based on consumer prices"
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -695,18 +695,19 @@
       }
     },
     "Agricultural products": {
-      "text": "potatoes, watermelons, tomatoes, onions, dates, milk, olives, wheat, poultry, vegetables"
+      "text": "potatoes, watermelons, tomatoes, onions, dates, milk, olives, chicken, wheat, vegetables (2022)",
+      "note": "<b>note:</b> top ten agricultural products based on tonnage"
     },
     "Industries": {
       "text": "petroleum, petrochemicals, aluminum, iron and steel, food processing, textiles, handicrafts, cement"
     },
     "Industrial production growth rate": {
       "text": "-9.9% (2022 est.)",
-      "note": "note: annual % change in industrial value added based on constant local currency"
+      "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
       "text": "2.327 million (2022 est.)",
-      "note": "note: number of people ages 15 or older who are employed or seeking work"
+      "note": "<b>note:</b> number of people ages 15 or older who are employed or seeking work"
     },
     "Unemployment rate": {
       "Unemployment rate 2022": {
@@ -718,7 +719,7 @@
       "Unemployment rate 2020": {
         "text": "19.71% (2020 est.)"
       },
-      "note": "note: % of labor force seeking employment"
+      "note": "<b>note:</b> % of labor force seeking employment"
     },
     "Youth unemployment rate (ages 15-24)": {
       "total": {
@@ -734,14 +735,6 @@
     "Population below poverty line": {
       "text": "<p><strong>note:</strong> about one third of Libyans live at or below the national poverty line</p>"
     },
-    "Household income or consumption by percentage share": {
-      "lowest 10%": {
-        "text": "NA"
-      },
-      "highest 10%": {
-        "text": "NA"
-      }
-    },
     "Remittances": {
       "Remittances 2022": {
         "text": "0% of GDP (2022 est.)"
@@ -752,7 +745,7 @@
       "Remittances 2020": {
         "text": "0% of GDP (2020 est.)"
       },
-      "note": "note: personal transfers and compensation between resident and non-resident individuals/households/entities"
+      "note": "<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities"
     },
     "Budget": {
       "revenues": {
@@ -789,7 +782,7 @@
       "Current account balance 2019": {
         "text": "$4.817 billion (2019 est.)"
       },
-      "note": "note: balance of payments - net trade and primary/secondary income in current dollars"
+      "note": "<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars"
     },
     "Exports": {
       "Exports 2021": {
@@ -801,13 +794,15 @@
       "Exports 2019": {
         "text": "$29.326 billion (2019 est.)"
       },
-      "note": "note: balance of payments - exports of goods and services in current dollars"
+      "note": "<b>note:</b> balance of payments - exports of goods and services in current dollars"
     },
     "Exports - partners": {
-      "text": "Italy 18%, China 16%, Germany 15%, Spain 15%, United Arab Emirates 6%, France 6%, United States 5% (2019)"
+      "text": "Italy 26%, Spain 10%, Germany 9%, China 7%, France 6% (2022)",
+      "note": "<b>note:</b> top five export partners based on percentage share of exports"
     },
     "Exports - commodities": {
-      "text": "crude petroleum, natural gas, refined petroleum, scrap iron, gold (2021)"
+      "text": "crude petroleum, natural gas, gold, refined petroleum, scrap iron (2022)",
+      "note": "<b>note:</b> top five export commodities based on value in dollars"
     },
     "Imports": {
       "Imports 2021": {
@@ -819,13 +814,15 @@
       "Imports 2019": {
         "text": "$25.368 billion (2019 est.)"
       },
-      "note": "note: balance of payments - imports of goods and services in current dollars"
+      "note": "<b>note:</b> balance of payments - imports of goods and services in current dollars"
     },
     "Imports - partners": {
-      "text": "China 16%, Turkey 14%, Italy 9%, United Arab Emirates 9%, Egypt 5% (2019)"
+      "text": "Turkey 15%, China 12%, Italy 12%, Greece 10%, UAE 7% (2022)",
+      "note": "<b>note:</b> top five import partners based on percentage share of imports"
     },
     "Imports - commodities": {
-      "text": "refined petroleum, cars, broadcasting equipment, cigarettes, jewelry (2019)"
+      "text": "refined petroleum, cars, garments, broadcasting equipment, tobacco (2022)",
+      "note": "<b>note:</b> top five import commodities based on value in dollars"
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 2022": {
@@ -837,7 +834,7 @@
       "Reserves of foreign exchange and gold 2020": {
         "text": "$79.656 billion (2020 est.)"
       },
-      "note": "note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars"
+      "note": "<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars"
     },
     "Debt - external": {
       "Debt - external 31 December 2017": {
