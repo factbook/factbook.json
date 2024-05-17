@@ -586,13 +586,13 @@
     },
     "Legislative branch": {
       "description": {
-        "text": "unicameral National Assembly or Assemblee Nationale (91 seats; members directly elected in multi-seat constituencies by closed, party-list proportional representation vote to serve 5-year terms); party lists are required to contain equal numbers of men and women"
+        "text": "unicameral National Assembly or Assemblee Nationale (113 seats; members directly elected in multi-seat constituencies by closed, party-list proportional representation vote to serve 5-year terms); party lists are required to contain equal numbers of men and women"
       },
       "elections": {
-        "text": "last held on 20 December 2018 (next election was to be held on 20 April 2024 but has been indefinitely postponed)"
+        "text": "last held on 29 April 2024 (next election April 2029)"
       },
       "election results": {
-        "text": "percent of vote by party - NA; seats by party - UNIR 59, UFC 7, NET 3, MPDD 2, MRC 1, PDP 1, independent 18; composition - men 73, women 17, percent of women 18.9%"
+        "text": "percent of vote by party - NA; seats by party - UNIR 108, ADDI 2, ANC 1, DMP 1, FDR 1 composition - NA"
       }
     },
     "Judicial branch": {
@@ -1200,12 +1200,27 @@
         "text": "bulk carrier 1, container ship 10, general cargo 250, oil tanker 56, other 80"
       }
     },
-    "Ports and terminals": {
-      "major seaport(s)": {
-        "text": "Kpeme, Lome"
+    "Ports": {
+      "total ports": {
+        "text": "2 (2024)"
       },
-      "container port(s) (TEUs)": {
-        "text": "Lome (1,962,304) (2021)"
+      "large": {
+        "text": "0"
+      },
+      "medium": {
+        "text": "1"
+      },
+      "small": {
+        "text": "0"
+      },
+      "very small": {
+        "text": "1"
+      },
+      "ports with oil terminals": {
+        "text": "2"
+      },
+      "key ports": {
+        "text": "Kpeme, Lome"
       }
     }
   },
