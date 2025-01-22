@@ -555,16 +555,71 @@
       "note": "<strong>note:</strong> former Prime Minister Ariel HENRY, who had assumed executive responsibilities following the assassination of President MOÏSE on 7 July 2021, resigned on 24 April 2024; a nine-member Presidential Transitional Council, equipped with presidential powers, was sworn in on 25 April 2024 and will remain in place until 7 February 2026"
     },
     "Legislative branch": {
-      "description": {
-        "text": "bicameral National Assembly or the Assemblée nationale consists of:<br>Senate or le Sénat de la République (30 seats; 0 filled as of January 2023); members directly elected in multi-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms (2-term limit) with one-third of the membership renewed every 2 years)<br>Chamber of Deputies or Chambre des députés (119 seats; 0 filled as of January 2023; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year terms; no term limits)"
+      "legislature name": {
+        "text": "National Assembly (Assemblée nationale)"
       },
-      "elections": {
-        "text": "Senate - last held on 20 November 2016 with a runoff on 29 January 2017 (next originally scheduled for 27 October 2019 but postponed until political and civil society actors agree to a consensual process) <br>Chamber of Deputies - last held on 9 August 2015 with runoff on 25 October 2015 and 20 November 2016 (next originally scheduled for 27 October 2019 but postponed until political and civil society actors agree to a consensual process)"
-      },
-      "election results": {
-        "text": "Senate - percent of vote by party - NA; seats by party - NA; composition - NA<br>Chamber of Deputies - percent of vote by party - NA; seats by party - NA; composition - NA"
+      "legislative structure": {
+        "text": "bicameral"
       },
       "note": "<strong>note 1:</strong> when the two chambers meet collectively, it is known as the National Assembly (or L'Assemblée nationale) and is convened for specific purposes spelled out in the constitution<br><strong><br>note 2:</strong> as of October 2024, the Senate and Chamber of Deputies were not functional"
+    },
+    "Legislative branch - lower chamber": {
+      "chamber name": {
+        "text": "Chamber of Deputies (Chambre des Députés)"
+      },
+      "number of seats": {
+        "text": "119 (all directly elected)"
+      },
+      "electoral system": {
+        "text": "plurality/majority"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "4 years"
+      },
+      "most recent election date": {
+        "text": "8/9/2015 to 10/25/2015"
+      },
+      "parties elected and seats per party": {
+        "text": "Haitian Tet Kale Party (PHTK) (9); Konvansyon Inite Demokratik (KID) (7); Ayiti an aksyon (AAA) (6); Fanmi Lavalas (6); Patriotic Unity Party (Inite Patriyotik) (4); People's Struggle Party (OPL) (7); Other (24)"
+      },
+      "percentage of women in chamber": {
+        "text": "0%"
+      },
+      "expected date of next election": {
+        "text": "December 2025"
+      }
+    },
+    "Legislative branch - upper chamber": {
+      "chamber name": {
+        "text": "Senate (Sénat)"
+      },
+      "number of seats": {
+        "text": "30 (all directly elected)"
+      },
+      "electoral system": {
+        "text": "plurality/majority"
+      },
+      "scope of elections": {
+        "text": "partial renewal"
+      },
+      "term in office": {
+        "text": "6 years"
+      },
+      "most recent election date": {
+        "text": "11/20/2016 to 1/29/2017"
+      },
+      "parties elected and seats per party": {
+        "text": "Haitian Tet Kale Party (PHTK) (9); Truth (Vérité) (3); Konvansyon Inite Demokratik (KID) (2); Bouclier (2); Ayiti an aksyon (AAA) (2); Other (10)"
+      },
+      "percentage of women in chamber": {
+        "text": "0%"
+      },
+      "expected date of next election": {
+        "text": "December 2025"
+      }
     },
     "Judicial branch": {
       "highest court(s)": {
@@ -606,7 +661,7 @@
     },
     "Diplomatic representation from the US": {
       "chief of mission": {
-        "text": "Ambassador-designate Dennis HANKINS (since 14 March 2024); note - as of March 2024, Haiti has no government official to whom the Ambassador-designate can present his credentials <br>"
+        "text": "Ambassador Dennis HANKINS (since 3 May 2024) <br>"
       },
       "embassy": {
         "text": "Tabarre 41, Route de Tabarre, Port-au-Prince"
@@ -678,7 +733,7 @@
     },
     "Real GDP per capita": {
       "Real GDP per capita 2023": {
-        "text": "$2,900 (2023 est.)"
+        "text": "$3,000 (2023 est.)"
       },
       "Real GDP per capita 2022": {
         "text": "$3,000 (2022 est.)"
@@ -726,6 +781,9 @@
       "investment in fixed capital": {
         "text": "13.9% (2023 est.)"
       },
+      "investment in inventories": {
+        "text": "0% (2023 est.)"
+      },
       "exports of goods and services": {
         "text": "5.3% (2023 est.)"
       },
@@ -746,7 +804,7 @@
       "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
-      "text": "5.238 million (2023 est.)",
+      "text": "5.216 million (2023 est.)",
       "note": "<b>note:</b> number of people ages 15 or older who are employed or seeking work"
     },
     "Unemployment rate": {
@@ -775,7 +833,7 @@
     },
     "Remittances": {
       "Remittances 2023": {
-        "text": "21.4% of GDP (2023 est.)"
+        "text": "18.91% of GDP (2023 est.)"
       },
       "Remittances 2022": {
         "text": "18.75% of GDP (2022 est.)"
@@ -802,26 +860,26 @@
       "text": "18.2% (of GDP) (2017 est.)"
     },
     "Current account balance": {
+      "Current account balance 2023": {
+        "text": "-$682.57 million (2023 est.)"
+      },
       "Current account balance 2022": {
         "text": "-$491.954 million (2022 est.)"
       },
       "Current account balance 2021": {
         "text": "$87.656 million (2021 est.)"
       },
-      "Current account balance 2020": {
-        "text": "$51.548 million (2020 est.)"
-      },
       "note": "<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars"
     },
     "Exports": {
+      "Exports 2023": {
+        "text": "$1.095 billion (2023 est.)"
+      },
       "Exports 2022": {
         "text": "$1.355 billion (2022 est.)"
       },
       "Exports 2021": {
         "text": "$1.272 billion (2021 est.)"
-      },
-      "Exports 2020": {
-        "text": "$1.018 billion (2020 est.)"
       },
       "note": "<b>note:</b> balance of payments - exports of goods and services in current dollars"
     },
@@ -834,14 +892,14 @@
       "note": "<b>note:</b> top five export commodities based on value in dollars"
     },
     "Imports": {
+      "Imports 2023": {
+        "text": "$5.303 billion (2023 est.)"
+      },
       "Imports 2022": {
         "text": "$5.451 billion (2022 est.)"
       },
       "Imports 2021": {
         "text": "$5.048 billion (2021 est.)"
-      },
-      "Imports 2020": {
-        "text": "$4.177 billion (2020 est.)"
       },
       "note": "<b>note:</b> balance of payments - imports of goods and services in current dollars"
     },
@@ -854,20 +912,20 @@
       "note": "<b>note:</b> top five import commodities based on value in dollars"
     },
     "Reserves of foreign exchange and gold": {
+      "Reserves of foreign exchange and gold 2023": {
+        "text": "$2.586 billion (2023 est.)"
+      },
       "Reserves of foreign exchange and gold 2022": {
-        "text": "$2.368 billion (2022 est.)"
+        "text": "$2.173 billion (2022 est.)"
       },
       "Reserves of foreign exchange and gold 2021": {
-        "text": "$2.734 billion (2021 est.)"
-      },
-      "Reserves of foreign exchange and gold 2020": {
-        "text": "$2.59 billion (2020 est.)"
+        "text": "$2.457 billion (2021 est.)"
       },
       "note": "<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars"
     },
     "Debt - external": {
-      "Debt - external 2022": {
-        "text": "$1.645 billion (2022 est.)"
+      "Debt - external 2023": {
+        "text": "$2.13 billion (2023 est.)"
       },
       "note": "<b>note:</b> present value of external debt in current US dollars"
     },

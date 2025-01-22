@@ -546,7 +546,7 @@
         "text": "Prime Minister Robinah NABBANJA (since 14 June 2021)"
       },
       "cabinet": {
-        "text": "Cabinet appointed by the president from among elected members of the National Assembly or persons who qualify to be elected as members of the National Assembly"
+        "text": "Cabinet appointed by the president from among elected members of Parliament or persons who qualify to be elected as members of Parliament"
       },
       "elections/appointments": {
         "text": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); election last held on 14 January 2021 (next to be held in 2026)"
@@ -556,14 +556,35 @@
       }
     },
     "Legislative branch": {
-      "description": {
-        "text": "unicameral National Assembly or Parliament (556 seats; 353 members directly elected in single-seat constituencies by simple majority vote, 146 for women directly elected in single-seat districts by simple majority vote, and 30 \"representatives\" reserved for special interest groups - army 10, disabled 5, youth 5, labor 5, older persons 5; 27 ex officio members appointed by the president; members serve 5-year terms)"
+      "legislature name": {
+        "text": "Parliament"
       },
-      "elections": {
-        "text": "last held on 14 January 2021 (next to be held in February 2026)"
+      "legislative structure": {
+        "text": "unicameral"
       },
-      "election results": {
-        "text": "percent of vote by party - NA; seats by party - NRM 336, NUP 57, FDC 32, DP 9, UPDF 10, UPC 9, independent 76 (excludes 27 ex-officio members); composition- men 368, women 189, percentage women 33.9%"
+      "number of seats": {
+        "text": "529 (499 directly elected; 30 indirectly elected)"
+      },
+      "electoral system": {
+        "text": "plurality/majority"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "5 years"
+      },
+      "most recent election date": {
+        "text": "1/14/2021 to 1/18/2021"
+      },
+      "parties elected and seats per party": {
+        "text": "National Resistance Movement (NRM) (336); National Unity Platform (NUP) (57); Forum for Democratic Change (FDC) (32); Independents (74); Other (30)"
+      },
+      "percentage of women in chamber": {
+        "text": "33.9%"
+      },
+      "expected date of next election": {
+        "text": "January 2026"
       }
     },
     "Judicial branch": {
@@ -650,7 +671,7 @@
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2023": {
-        "text": "$135.668 billion (2023 est.)"
+        "text": "$135.803 billion (2023 est.)"
       },
       "Real GDP (purchasing power parity) 2022": {
         "text": "$128.923 billion (2022 est.)"
@@ -662,7 +683,7 @@
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2023": {
-        "text": "5.23% (2023 est.)"
+        "text": "5.34% (2023 est.)"
       },
       "Real GDP growth rate 2022": {
         "text": "4.59% (2022 est.)"
@@ -685,7 +706,7 @@
       "note": "<b>note:</b> data in 2021 dollars"
     },
     "GDP (official exchange rate)": {
-      "text": "$49.273 billion (2023 est.)",
+      "text": "$48.769 billion (2023 est.)",
       "note": "<b>note:</b> data in current dollars at official exchange rate"
     },
     "Inflation rate (consumer prices)": {
@@ -714,34 +735,34 @@
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "23.8% (2023 est.)"
+        "text": "24.1% (2023 est.)"
       },
       "industry": {
-        "text": "26% (2023 est.)"
+        "text": "25.8% (2023 est.)"
       },
       "services": {
-        "text": "42.4% (2023 est.)"
+        "text": "42.5% (2023 est.)"
       },
       "note": "<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "71.3% (2023 est.)"
+        "text": "71.6% (2023 est.)"
       },
       "government consumption": {
-        "text": "9.5% (2023 est.)"
+        "text": "9.6% (2023 est.)"
       },
       "investment in fixed capital": {
-        "text": "22.5% (2023 est.)"
+        "text": "22.1% (2023 est.)"
       },
       "investment in inventories": {
         "text": "0.7% (2023 est.)"
       },
       "exports of goods and services": {
-        "text": "13.4% (2023 est.)"
+        "text": "11.6% (2023 est.)"
       },
       "imports of goods and services": {
-        "text": "-23.8% (2023 est.)"
+        "text": "-21.7% (2023 est.)"
       },
       "note": "<b>note:</b> figures may not total 100% due to rounding or gaps in data collection"
     },
@@ -753,11 +774,11 @@
       "text": "sugar processing, brewing, tobacco, cotton textiles; cement, steel production"
     },
     "Industrial production growth rate": {
-      "text": "3.5% (2023 est.)",
+      "text": "4.03% (2023 est.)",
       "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
-      "text": "18.881 million (2023 est.)",
+      "text": "19.077 million (2023 est.)",
       "note": "<b>note:</b> number of people ages 15 or older who are employed or seeking work"
     },
     "Unemployment rate": {
@@ -813,7 +834,7 @@
     },
     "Remittances": {
       "Remittances 2023": {
-        "text": "2.63% of GDP (2023 est.)"
+        "text": "2.93% of GDP (2023 est.)"
       },
       "Remittances 2022": {
         "text": "2.74% of GDP (2022 est.)"
@@ -843,26 +864,26 @@
       "note": "<b>note:</b> central government tax revenue as a % of GDP"
     },
     "Current account balance": {
+      "Current account balance 2023": {
+        "text": "-$3.766 billion (2023 est.)"
+      },
       "Current account balance 2022": {
-        "text": "-$4.172 billion (2022 est.)"
+        "text": "-$4.065 billion (2022 est.)"
       },
       "Current account balance 2021": {
-        "text": "-$3.972 billion (2021 est.)"
-      },
-      "Current account balance 2020": {
-        "text": "-$3.598 billion (2020 est.)"
+        "text": "-$3.605 billion (2021 est.)"
       },
       "note": "<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars"
     },
     "Exports": {
+      "Exports 2023": {
+        "text": "$9.085 billion (2023 est.)"
+      },
       "Exports 2022": {
         "text": "$6.115 billion (2022 est.)"
       },
       "Exports 2021": {
         "text": "$6.231 billion (2021 est.)"
-      },
-      "Exports 2020": {
-        "text": "$5.622 billion (2020 est.)"
       },
       "note": "<b>note:</b> balance of payments - exports of goods and services in current dollars"
     },
@@ -875,14 +896,14 @@
       "note": "<b>note:</b> top five export commodities based on value in dollars"
     },
     "Imports": {
+      "Imports 2023": {
+        "text": "$13.853 billion (2023 est.)"
+      },
       "Imports 2022": {
-        "text": "$11.145 billion (2022 est.)"
+        "text": "$11.079 billion (2022 est.)"
       },
       "Imports 2021": {
-        "text": "$10.686 billion (2021 est.)"
-      },
-      "Imports 2020": {
-        "text": "$10.209 billion (2020 est.)"
+        "text": "$10.62 billion (2021 est.)"
       },
       "note": "<b>note:</b> balance of payments - imports of goods and services in current dollars"
     },
@@ -907,8 +928,8 @@
       "note": "<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars"
     },
     "Debt - external": {
-      "Debt - external 2022": {
-        "text": "$9.636 billion (2022 est.)"
+      "Debt - external 2023": {
+        "text": "$11.436 billion (2023 est.)"
       },
       "note": "<b>note:</b> present value of external debt in current US dollars"
     },

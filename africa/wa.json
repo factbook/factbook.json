@@ -566,15 +566,59 @@
       }
     },
     "Legislative branch": {
-      "description": {
-        "text": "bicameral Parliament consists of:<br>National Council (42 seats); members indirectly elected 3 each by the 14 regional councils to serve 5-year terms)<br>National Assembly (104 seats; 96 members directly elected in multi-seat constituencies by closed list, proportional representation vote to serve 5-year terms and 8 nonvoting members appointed by the president)"
+      "legislature name": {
+        "text": "Parliament"
       },
-      "elections": {
-        "text": "National Council - elections for regional councils to determine members of the National Council held on 25 November 2020 (next to be held on 25 November 2025)<br>National Assembly - last held on 27 November 2019 (next to be held in November 2024)"
-      },
-      "election results": {
-        "text": "Nstional Council - percent of vote by party - NA; seats by party - SWAPO 28, LPM 6, IPC 2, PDM 2, UDF 2, NUDO 1, independent 1; composition - men 36, women 6, percentage women 14.3% <br><br>National Assembly - percent of vote by party - SWAPO 65.5%, PDM 16.6%, LPM 4.7%, NUDO 1.9%, APP 1.8%, UDF 1.8%, RP 1.8%, NEFF 1.7%, RDP 1.1%, CDV .7%, SWANU .6%, other 1.8%; seats by party - SWAPO 63, PDM 16, LPM 4, NUDO 2, APP 2, UDF 2, RP 2, NEFF 2, RDP 1, CDV 1, SWANU 1; composition - men 58, women 46, percentage women 44.2%; total Parliament percentage women 35.6%"
+      "legislative structure": {
+        "text": "bicameral"
       }
+    },
+    "Legislative branch - lower chamber": {
+      "chamber name": {
+        "text": "National Assembly"
+      },
+      "number of seats": {
+        "text": "104 (96 directly elected; 8 appointed)"
+      },
+      "electoral system": {
+        "text": "proportional representation"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "5 years"
+      },
+      "most recent election date": {
+        "text": "11/27/2024 to 11/30/2024"
+      },
+      "expected date of next election": {
+        "text": "November 2029"
+      }
+    },
+    "Legislative branch - upper chamber": {
+      "chamber name": {
+        "text": "National Council"
+      },
+      "number of seats": {
+        "text": "42 (all indirectly elected)"
+      },
+      "electoral system": {
+        "text": "proportional representation"
+      },
+      "term in office": {
+        "text": "5 years"
+      },
+      "most recent election date": {
+        "text": "12/15/2020"
+      },
+      "percentage of women in chamber": {
+        "text": "14.3%"
+      },
+      "expected date of next election": {
+        "text": "December 2025"
+      },
+      "note": "<strong>note:</strong> the Council primarily reviews legislation passed and referred by the National Assembly"
     },
     "Judicial branch": {
       "highest court(s)": {
@@ -684,13 +728,13 @@
     },
     "Real GDP per capita": {
       "Real GDP per capita 2023": {
-        "text": "$11,500 (2023 est.)"
+        "text": "$10,100 (2023 est.)"
       },
       "Real GDP per capita 2022": {
-        "text": "$11,200 (2022 est.)"
+        "text": "$9,900 (2022 est.)"
       },
       "Real GDP per capita 2021": {
-        "text": "$10,800 (2021 est.)"
+        "text": "$9,700 (2021 est.)"
       },
       "note": "<b>note:</b> data in 2021 dollars"
     },
@@ -764,7 +808,7 @@
       "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
-      "text": "989,000 (2023 est.)",
+      "text": "1.106 million (2023 est.)",
       "note": "<b>note:</b> number of people ages 15 or older who are employed or seeking work"
     },
     "Unemployment rate": {
@@ -806,19 +850,19 @@
         "text": "1% (2015 est.)"
       },
       "highest 10%": {
-        "text": "47.3% (2015 est.)"
+        "text": "47.2% (2015 est.)"
       },
       "note": "<b>note:</b> % share of income accruing to lowest and highest 10% of population"
     },
     "Remittances": {
       "Remittances 2023": {
-        "text": "0.5% of GDP (2023 est.)"
+        "text": "0.71% of GDP (2023 est.)"
       },
       "Remittances 2022": {
-        "text": "0.43% of GDP (2022 est.)"
+        "text": "0.66% of GDP (2022 est.)"
       },
       "Remittances 2021": {
-        "text": "0.37% of GDP (2021 est.)"
+        "text": "0.58% of GDP (2021 est.)"
       },
       "note": "<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities"
     },
@@ -843,25 +887,25 @@
     },
     "Current account balance": {
       "Current account balance 2023": {
-        "text": "-$1.848 billion (2023 est.)"
+        "text": "-$1.831 billion (2023 est.)"
       },
       "Current account balance 2022": {
-        "text": "-$1.628 billion (2022 est.)"
+        "text": "-$1.634 billion (2022 est.)"
       },
       "Current account balance 2021": {
-        "text": "-$1.391 billion (2021 est.)"
+        "text": "-$1.407 billion (2021 est.)"
       },
       "note": "<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars"
     },
     "Exports": {
       "Exports 2023": {
-        "text": "$5.641 billion (2023 est.)"
+        "text": "$5.691 billion (2023 est.)"
       },
       "Exports 2022": {
-        "text": "$5.314 billion (2022 est.)"
+        "text": "$5.361 billion (2022 est.)"
       },
       "Exports 2021": {
-        "text": "$4.341 billion (2021 est.)"
+        "text": "$4.353 billion (2021 est.)"
       },
       "note": "<b>note:</b> balance of payments - exports of goods and services in current dollars"
     },
@@ -875,13 +919,13 @@
     },
     "Imports": {
       "Imports 2023": {
-        "text": "$8.281 billion (2023 est.)"
+        "text": "$8.283 billion (2023 est.)"
       },
       "Imports 2022": {
-        "text": "$7.423 billion (2022 est.)"
+        "text": "$7.424 billion (2022 est.)"
       },
       "Imports 2021": {
-        "text": "$6.467 billion (2021 est.)"
+        "text": "$6.466 billion (2021 est.)"
       },
       "note": "<b>note:</b> balance of payments - imports of goods and services in current dollars"
     },

@@ -548,14 +548,32 @@
       }
     },
     "Legislative branch": {
-      "description": {
-        "text": "unicameral Advisory Council or Majlis al-Shura (45 seats; members appointed by the monarch to serve until resignation or until relieved; note 1 - legislative drafting authority rests with the Council of Ministers and is reviewed by the Advisory Council; note 2 - a constitutional amendment passed in late 2023, replaced direct elections for 30 of the 45 members of the Shura Council with appointments"
+      "legislature name": {
+        "text": "Shura Council (Majlis Al-Shura)"
       },
-      "elections": {
-        "text": "last held for 30 elected members on 2 October 2021 (next to be held in 2025); last members appointed - 14 October 2021 (next appointments - NA)"
+      "legislative structure": {
+        "text": "unicameral"
       },
-      "election results": {
-        "text": "<br>30 nonpartisan members elected; composition - men 30, women 0, percentage women 0%<br>15 appointed members; composition men 13, women 2, percentage women 13.3%"
+      "number of seats": {
+        "text": "45 (30 directly elected; 15 appointed)"
+      },
+      "electoral system": {
+        "text": "plurality/majority"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "4 years"
+      },
+      "most recent election date": {
+        "text": "10/2/2021"
+      },
+      "percentage of women in chamber": {
+        "text": "4.4%"
+      },
+      "expected date of next election": {
+        "text": "September 2025"
       }
     },
     "Judicial branch": {
@@ -645,43 +663,43 @@
       "text": "high-income, oil-and-gas-based Middle Eastern economy; National Vision 2030 government strategy for economic development, diversification, favorable business conditions to grow investment and employment; infrastructure investments; Islamic finance leader; citizenship-based labor force growth"
     },
     "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2023": {
+        "text": "$308.522 billion (2023 est.)"
+      },
       "Real GDP (purchasing power parity) 2022": {
-        "text": "$304.973 billion (2022 est.)"
+        "text": "$304.903 billion (2022 est.)"
       },
       "Real GDP (purchasing power parity) 2021": {
         "text": "$292.655 billion (2021 est.)"
       },
-      "Real GDP (purchasing power parity) 2020": {
-        "text": "$287.97 billion (2020 est.)"
-      },
       "note": "<b>note:</b> data in 2021 dollars"
     },
     "Real GDP growth rate": {
+      "Real GDP growth rate 2023": {
+        "text": "1.19% (2023 est.)"
+      },
       "Real GDP growth rate 2022": {
-        "text": "4.21% (2022 est.)"
+        "text": "4.19% (2022 est.)"
       },
       "Real GDP growth rate 2021": {
         "text": "1.63% (2021 est.)"
       },
-      "Real GDP growth rate 2020": {
-        "text": "-3.56% (2020 est.)"
-      },
       "note": "<b>note:</b> annual GDP % growth based on constant local currency"
     },
     "Real GDP per capita": {
+      "Real GDP per capita 2023": {
+        "text": "$116,200 (2023 est.)"
+      },
       "Real GDP per capita 2022": {
-        "text": "$113,200 (2022 est.)"
+        "text": "$114,700 (2022 est.)"
       },
       "Real GDP per capita 2021": {
-        "text": "$108,900 (2021 est.)"
-      },
-      "Real GDP per capita 2020": {
-        "text": "$104,300 (2020 est.)"
+        "text": "$116,800 (2021 est.)"
       },
       "note": "<b>note:</b> data in 2021 dollars"
     },
     "GDP (official exchange rate)": {
-      "text": "$235.77 billion (2022 est.)",
+      "text": "$213.003 billion (2023 est.)",
       "note": "<b>note:</b> data in current dollars at official exchange rate"
     },
     "Inflation rate (consumer prices)": {
@@ -710,13 +728,13 @@
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "0.3% (2022 est.)"
+        "text": "0.3% (2023 est.)"
       },
       "industry": {
-        "text": "65.4% (2022 est.)"
+        "text": "60.4% (2023 est.)"
       },
       "services": {
-        "text": "38.5% (2022 est.)"
+        "text": "45.3% (2023 est.)"
       },
       "note": "<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data"
     },
@@ -728,7 +746,10 @@
         "text": "12.9% (2022 est.)"
       },
       "investment in fixed capital": {
-        "text": "30.7% (2022 est.)"
+        "text": "30.6% (2022 est.)"
+      },
+      "investment in inventories": {
+        "text": "0% (2022 est.)"
       },
       "exports of goods and services": {
         "text": "68.6% (2022 est.)"
@@ -746,11 +767,11 @@
       "text": "liquefied natural gas, crude oil production and refining, ammonia, fertilizer, petrochemicals, steel reinforcing bars, cement, commercial ship repair"
     },
     "Industrial production growth rate": {
-      "text": "1.69% (2022 est.)",
+      "text": "0.31% (2023 est.)",
       "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
-      "text": "2.035 million (2023 est.)",
+      "text": "2.003 million (2023 est.)",
       "note": "<b>note:</b> number of people ages 15 or older who are employed or seeking work"
     },
     "Unemployment rate": {
@@ -777,6 +798,11 @@
       },
       "note": "<b>note:</b> % of labor force ages 15-24 seeking employment"
     },
+    "Gini Index coefficient - distribution of family income": {
+      "Gini Index coefficient - distribution of family income 2017": {
+        "text": "35.1 (2017 est.)"
+      }
+    },
     "Average household expenditures": {
       "on food": {
         "text": "12.3% of household expenditures (2022 est.)"
@@ -785,15 +811,23 @@
         "text": "0.3% of household expenditures (2022 est.)"
       }
     },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.6% (2017 est.)"
+      },
+      "highest 10%": {
+        "text": "25.8% (2017 est.)"
+      }
+    },
     "Remittances": {
+      "Remittances 2023": {
+        "text": "0.67% of GDP (2023 est.)"
+      },
       "Remittances 2022": {
         "text": "0.44% of GDP (2022 est.)"
       },
       "Remittances 2021": {
         "text": "0.48% of GDP (2021 est.)"
-      },
-      "Remittances 2020": {
-        "text": "0.45% of GDP (2020 est.)"
       },
       "note": "<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities"
     },
@@ -815,7 +849,7 @@
     },
     "Current account balance": {
       "Current account balance 2023": {
-        "text": "$36.47 billion (2023 est.)"
+        "text": "$36.453 billion (2023 est.)"
       },
       "Current account balance 2022": {
         "text": "$63.118 billion (2022 est.)"
@@ -827,7 +861,7 @@
     },
     "Exports": {
       "Exports 2023": {
-        "text": "$128.726 billion (2023 est.)"
+        "text": "$128.709 billion (2023 est.)"
       },
       "Exports 2022": {
         "text": "$161.693 billion (2022 est.)"

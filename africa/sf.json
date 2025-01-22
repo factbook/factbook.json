@@ -114,7 +114,7 @@
       "text": "<p>prolonged droughts</p><p><strong>volcanism:</strong> the volcano forming Marion Island in the Prince Edward Islands, which last erupted in 2004, is South Africa's only active volcano</p>"
     },
     "Geography - note": {
-      "text": "South Africa completely surrounds Lesotho and almost completely surrounds Eswatini"
+      "text": "<strong>note 1:</strong> South Africa completely surrounds Lesotho and almost completely surrounds Eswatini<br><br><strong>note 2:</strong> though sometimes mistaken for the southernmost point of Africa, the Cape of Good Hope is more accurately described as the southwestern-most point of the African continent; Cape Agulhas, the meeting point of the Atlantic and Indian Oceans, is the southernmost point of the African continent"
     }
   },
   "People and Society": {
@@ -577,15 +577,62 @@
       }
     },
     "Legislative branch": {
-      "description": {
-        "text": "bicameral Parliament consists of:<br><br>National Council of Provinces (90 seats; nine 10-member delegations, each with 6 permanent delegates and 4 special delegates, appointed by each of the 9 provincial legislatures to serve 5-year terms)<br><br>National Assembly (400 seats; half the members directly elected in multi-seat constituencies and half in a single nationwide constituency, both by proportional representation popular vote; members serve 5-year terms)"
+      "legislature name": {
+        "text": "Parliament"
       },
-      "elections": {
-        "text": "National Council of Provinces and National Assembly - last held on 15 June 2024 (next to be held on 30 June 2029)"
-      },
-      "election results": {
-        "text": "<p>National Council of Provinces - percent of vote by party - NA; seats by party - ANC 29, DA 13, EFF 9, FF+ 2, IFP 1; composition - men 30, women 24, percentage women 44.4%; note - 36 appointed seats not filled<br><br>National Assembly - percent of vote by party - ANC 40.1% DA 21.8%, MK 14.5%, EFF 9.5%, IFP 3.8%, PA, 2.06%, FF+ 1.3%, Action SA 1.2%, ACDP 0.60%, UCM 0.49%, RISE 0.42%, BOSA 0.041%, ATM 0.40%, Al Jam-ah 0.24%, NCC 0.23%, PAC 0.23%, UAT 0.22%, GOOD 0.18% other 4.38%; seats by party - ANC 159, DA 87, MK 58, EFF 39, IFP 17, PA 9, FF+ 6, Action SA 6, ACDP 3, UDM 3, RISE  2, BOSA 2, ATM 2, AL Jam-ah 2, NCC 2, PAC 1, UAT 1, GOOD 1; composition - men 210, women 181, percentage women 46.3%; total Parliament percentage women 46.1%</p>"
+      "legislative structure": {
+        "text": "bicameral"
       }
+    },
+    "Legislative branch - lower chamber": {
+      "chamber name": {
+        "text": "National Assembly"
+      },
+      "number of seats": {
+        "text": "400 (all directly elected)"
+      },
+      "electoral system": {
+        "text": "proportional representation"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "5 years"
+      },
+      "most recent election date": {
+        "text": "5/29/2024"
+      },
+      "percentage of women in chamber": {
+        "text": "44.6%"
+      },
+      "expected date of next election": {
+        "text": "May 2029"
+      }
+    },
+    "Legislative branch - upper chamber": {
+      "chamber name": {
+        "text": "National Council of Provinces"
+      },
+      "number of seats": {
+        "text": "90 (all appointed)"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "5 years"
+      },
+      "most recent election date": {
+        "text": "6/15/2024"
+      },
+      "percentage of women in chamber": {
+        "text": "44.4%"
+      },
+      "expected date of next election": {
+        "text": "June 2029"
+      },
+      "note": "<strong>note:</strong> the Council has special powers to protect regional interests, including safeguarding cultural and linguistic traditions among ethnic minorities"
     },
     "Judicial branch": {
       "highest court(s)": {
@@ -678,19 +725,19 @@
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2023": {
-        "text": "$862.981 billion (2023 est.)"
+        "text": "$865.402 billion (2023 est.)"
       },
       "Real GDP (purchasing power parity) 2022": {
-        "text": "$857.82 billion (2022 est.)"
+        "text": "$859.399 billion (2022 est.)"
       },
       "Real GDP (purchasing power parity) 2021": {
-        "text": "$841.739 billion (2021 est.)"
+        "text": "$843.28 billion (2021 est.)"
       },
       "note": "<b>note:</b> data in 2021 dollars"
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2023": {
-        "text": "0.6% (2023 est.)"
+        "text": "0.7% (2023 est.)"
       },
       "Real GDP growth rate 2022": {
         "text": "1.91% (2022 est.)"
@@ -702,18 +749,18 @@
     },
     "Real GDP per capita": {
       "Real GDP per capita 2023": {
-        "text": "$14,300 (2023 est.)"
+        "text": "$13,700 (2023 est.)"
       },
       "Real GDP per capita 2022": {
-        "text": "$14,300 (2022 est.)"
+        "text": "$13,800 (2022 est.)"
       },
       "Real GDP per capita 2021": {
-        "text": "$14,200 (2021 est.)"
+        "text": "$13,700 (2021 est.)"
       },
       "note": "<b>note:</b> data in 2021 dollars"
     },
     "GDP (official exchange rate)": {
-      "text": "$377.782 billion (2023 est.)",
+      "text": "$380.699 billion (2023 est.)",
       "note": "<b>note:</b> data in current dollars at official exchange rate"
     },
     "Inflation rate (consumer prices)": {
@@ -742,34 +789,34 @@
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "2.5% (2023 est.)"
+        "text": "2.6% (2023 est.)"
       },
       "industry": {
         "text": "24.6% (2023 est.)"
       },
       "services": {
-        "text": "63% (2023 est.)"
+        "text": "62.6% (2023 est.)"
       },
       "note": "<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "64.7% (2023 est.)"
+        "text": "64.4% (2023 est.)"
       },
       "government consumption": {
-        "text": "19.7% (2023 est.)"
+        "text": "19.3% (2023 est.)"
       },
       "investment in fixed capital": {
-        "text": "15.2% (2023 est.)"
+        "text": "14.9% (2023 est.)"
       },
       "investment in inventories": {
-        "text": "0.5% (2023 est.)"
+        "text": "0.6% (2023 est.)"
       },
       "exports of goods and services": {
-        "text": "33% (2023 est.)"
+        "text": "32.8% (2023 est.)"
       },
       "imports of goods and services": {
-        "text": "-32.7% (2023 est.)"
+        "text": "-32.4% (2023 est.)"
       },
       "note": "<b>note:</b> figures may not total 100% due to rounding or gaps in data collection"
     },
@@ -781,11 +828,11 @@
       "text": "mining (world's largest producer of platinum, gold, chromium), automobile assembly, metalworking, machinery, textiles, iron and steel, chemicals, fertilizer, foodstuffs, commercial ship repair"
     },
     "Industrial production growth rate": {
-      "text": "-0.15% (2023 est.)",
+      "text": "-0.4% (2023 est.)",
       "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
-      "text": "25.158 million (2023 est.)",
+      "text": "27.137 million (2023 est.)",
       "note": "<b>note:</b> number of people ages 15 or older who are employed or seeking work"
     },
     "Unemployment rate": {
@@ -841,10 +888,10 @@
     },
     "Remittances": {
       "Remittances 2023": {
-        "text": "0.22% of GDP (2023 est.)"
+        "text": "0.21% of GDP (2023 est.)"
       },
       "Remittances 2022": {
-        "text": "0.22% of GDP (2022 est.)"
+        "text": "0.21% of GDP (2022 est.)"
       },
       "Remittances 2021": {
         "text": "0.22% of GDP (2021 est.)"
@@ -862,35 +909,35 @@
     },
     "Public debt": {
       "Public debt 2022": {
-        "text": "76.55% of GDP (2022 est.)"
+        "text": "76.24% of GDP (2022 est.)"
       },
       "note": "<b>note:</b> central government debt as a % of GDP"
     },
     "Taxes and other revenues": {
-      "text": "26.11% (of GDP) (2022 est.)",
+      "text": "26.01% (of GDP) (2022 est.)",
       "note": "<b>note:</b> central government tax revenue as a % of GDP"
     },
     "Current account balance": {
       "Current account balance 2023": {
-        "text": "-$6.16 billion (2023 est.)"
+        "text": "-$6.143 billion (2023 est.)"
       },
       "Current account balance 2022": {
-        "text": "-$1.698 billion (2022 est.)"
+        "text": "-$1.878 billion (2022 est.)"
       },
       "Current account balance 2021": {
-        "text": "$15.5 billion (2021 est.)"
+        "text": "$15.701 billion (2021 est.)"
       },
       "note": "<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars"
     },
     "Exports": {
       "Exports 2023": {
-        "text": "$124.731 billion (2023 est.)"
+        "text": "$124.671 billion (2023 est.)"
       },
       "Exports 2022": {
-        "text": "$136.112 billion (2022 est.)"
+        "text": "$136.01 billion (2022 est.)"
       },
       "Exports 2021": {
-        "text": "$130.882 billion (2021 est.)"
+        "text": "$131.09 billion (2021 est.)"
       },
       "note": "<b>note:</b> balance of payments - exports of goods and services in current dollars"
     },
@@ -904,13 +951,13 @@
     },
     "Imports": {
       "Imports 2023": {
-        "text": "$123.541 billion (2023 est.)"
+        "text": "$123.454 billion (2023 est.)"
       },
       "Imports 2022": {
-        "text": "$127.596 billion (2022 est.)"
+        "text": "$127.669 billion (2022 est.)"
       },
       "Imports 2021": {
-        "text": "$104.867 billion (2021 est.)"
+        "text": "$104.881 billion (2021 est.)"
       },
       "note": "<b>note:</b> balance of payments - imports of goods and services in current dollars"
     },
@@ -935,8 +982,8 @@
       "note": "<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars"
     },
     "Debt - external": {
-      "Debt - external 2022": {
-        "text": "$53.43 billion (2022 est.)"
+      "Debt - external 2023": {
+        "text": "$95.555 billion (2023 est.)"
       },
       "note": "<b>note:</b> present value of external debt in current US dollars"
     },

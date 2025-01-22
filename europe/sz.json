@@ -551,10 +551,10 @@
     },
     "Executive branch": {
       "chief of state": {
-        "text": "President of the Swiss Confederation Viola AMHERD (since 1 January 2024)"
+        "text": "President of the Swiss Confederation Karin KELLER-SUTTER (since 1 January 2025)"
       },
       "head of government": {
-        "text": "President of the Swiss Confederation Viola AMHERD (since 1 January 2024)"
+        "text": "President of the Swiss Confederation Karin KELLER-SUTTER (since 1 January 2025)"
       },
       "cabinet": {
         "text": "Federal Council or Bundesrat (in German), Conseil Federal (in French), Consiglio Federale (in Italian) indirectly elected by the Federal Assembly for a 4-year term"
@@ -568,14 +568,69 @@
       "note": "<strong>note:</strong> the Federal Council, comprised of 7 federal councillors, constitutes the federal government of Switzerland; council members rotate the 1-year term of federal president"
     },
     "Legislative branch": {
-      "description": {
-        "text": "bicameral Federal Assembly or Bundesversammlung (in German), Assemblée Fédérale (in French), Assemblea Federale (in Italian) consists of:<br>Council of States or Ständerat (in German), Conseil des États (in French), Consiglio degli Stati (in Italian) (46 seats; members in two-seat constituencies representing cantons and single-seat constituencies representing half cantons directly elected by simple majority vote except Jura and Neuchatel cantons, which use list proportional representation vote; member term governed by cantonal law)<br>National Council or Nationalrat (in German), Conseil National (in French), Consiglio Nazionale (in Italian) (200 seats; 194 members in cantons directly elected by proportional representation vote and 6 in half cantons directly elected by simple majority vote; members serve 4-year terms)"
+      "legislature name": {
+        "text": "Federal Assembly (Bundesversammlung - Assemblée fédérale - Assemblea federale)"
       },
-      "elections": {
-        "text": "Council of States - last held in most cantons on 22 October 2023 (each canton determines when the next election will be held)<br>National Council - last held on 22 October 2023 (next to be held on 31 October 2027)"
+      "legislative structure": {
+        "text": "bicameral"
+      }
+    },
+    "Legislative branch - lower chamber": {
+      "chamber name": {
+        "text": "National Council (Nationalrat - Conseil national - Consiglio nazionale)"
       },
-      "election results": {
-        "text": "Council of States - percent of vote by party - NA; seats by party - The Center 13, FDP.The Liberals 12, SP 9, SVP 6, Green Party 5, other 1; composition - men 30, women 16, percentage women 34.8%<br><br>National Council - percent of vote by party - SVP 28.6%, SP 18%, The Center 14.6%, FDP.The Liberals 14.4%, Green Party 9.4%, GLP 7.2%, EDU 1.2, EDV/PEV 1.9%, MCR/MCG .5%, other 4%; seats by party - SVP 62, SP 41, The Center 29, FDP.The Liberals 28, Green Party 23, GLP 10, EDU 2, EDV/PEV 2, MCR/MCG 2, other 1; composition - men 123, women 77, percentage women 38.5%; note - total Federal Assembly percentage women 37.8%"
+      "number of seats": {
+        "text": "200 (all directly elected)"
+      },
+      "electoral system": {
+        "text": "proportional representation"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "4 years"
+      },
+      "most recent election date": {
+        "text": "10/22/2023"
+      },
+      "parties elected and seats per party": {
+        "text": "Swiss People's Party (SVP/UDC) (62); Socialist Party (SP/PS) (41); Centre Party (29); FDP/The Liberals (FDP/PLR) (28); Green Party (GPS/PES) (23); Liberal Green Party (GLP/PVL) (10); Other (7)"
+      },
+      "percentage of women in chamber": {
+        "text": "38.5%"
+      },
+      "expected date of next election": {
+        "text": "October 2027"
+      }
+    },
+    "Legislative branch - upper chamber": {
+      "chamber name": {
+        "text": "Council of States (Ständerat - Conseil des Etats - Consiglio degli Stati)"
+      },
+      "number of seats": {
+        "text": "46 (all directly elected)"
+      },
+      "electoral system": {
+        "text": "other systems"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "4 years"
+      },
+      "most recent election date": {
+        "text": "10/22/2023"
+      },
+      "parties elected and seats per party": {
+        "text": "Centre Party (15); FDP/The Liberals (FDP/PLR) (11); Socialist Party (SP/PS) (9); Swiss People's Party (SVP/UDC) (6); Green Party (GPS/PES) (3); Other (2)"
+      },
+      "percentage of women in chamber": {
+        "text": "34.8%"
+      },
+      "expected date of next election": {
+        "text": "October 2027"
       }
     },
     "Judicial branch": {
@@ -693,7 +748,7 @@
     },
     "Real GDP per capita": {
       "Real GDP per capita 2023": {
-        "text": "$82,900 (2023 est.)"
+        "text": "$82,600 (2023 est.)"
       },
       "Real GDP per capita 2022": {
         "text": "$83,000 (2022 est.)"
@@ -776,7 +831,7 @@
       "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
-      "text": "4.991 million (2023 est.)",
+      "text": "5.012 million (2023 est.)",
       "note": "<b>note:</b> number of people ages 15 or older who are employed or seeking work"
     },
     "Unemployment rate": {
@@ -804,7 +859,7 @@
       "note": "<b>note:</b> % of labor force ages 15-24 seeking employment"
     },
     "Population below poverty line": {
-      "text": "14.7% (2020 est.)",
+      "text": "15.8% (2021 est.)",
       "note": "<b>note:</b> % of population with income below national poverty line"
     },
     "Gini Index coefficient - distribution of family income": {
@@ -823,7 +878,7 @@
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
-        "text": "2.9% (2020 est.)"
+        "text": "3% (2020 est.)"
       },
       "highest 10%": {
         "text": "26.4% (2020 est.)"
@@ -832,10 +887,10 @@
     },
     "Remittances": {
       "Remittances 2023": {
-        "text": "0.28% of GDP (2023 est.)"
+        "text": "0.39% of GDP (2023 est.)"
       },
       "Remittances 2022": {
-        "text": "0.38% of GDP (2022 est.)"
+        "text": "0.4% of GDP (2022 est.)"
       },
       "Remittances 2021": {
         "text": "0.39% of GDP (2021 est.)"
@@ -863,25 +918,25 @@
     },
     "Current account balance": {
       "Current account balance 2023": {
-        "text": "$67.821 billion (2023 est.)"
+        "text": "$58.395 billion (2023 est.)"
       },
       "Current account balance 2022": {
-        "text": "$77.245 billion (2022 est.)"
+        "text": "$77.801 billion (2022 est.)"
       },
       "Current account balance 2021": {
-        "text": "$56.091 billion (2021 est.)"
+        "text": "$55.137 billion (2021 est.)"
       },
       "note": "<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars"
     },
     "Exports": {
       "Exports 2023": {
-        "text": "$661.628 billion (2023 est.)"
+        "text": "$654.175 billion (2023 est.)"
       },
       "Exports 2022": {
-        "text": "$627.788 billion (2022 est.)"
+        "text": "$628.737 billion (2022 est.)"
       },
       "Exports 2021": {
-        "text": "$579.011 billion (2021 est.)"
+        "text": "$578.938 billion (2021 est.)"
       },
       "note": "<b>note:</b> balance of payments - exports of goods and services in current dollars"
     },
@@ -895,13 +950,13 @@
     },
     "Imports": {
       "Imports 2023": {
-        "text": "$554.358 billion (2023 est.)"
+        "text": "$556.351 billion (2023 est.)"
       },
       "Imports 2022": {
-        "text": "$516.517 billion (2022 est.)"
+        "text": "$518.002 billion (2022 est.)"
       },
       "Imports 2021": {
-        "text": "$481.27 billion (2021 est.)"
+        "text": "$481.607 billion (2021 est.)"
       },
       "note": "<b>note:</b> balance of payments - imports of goods and services in current dollars"
     },

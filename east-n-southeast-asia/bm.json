@@ -589,14 +589,11 @@
       "note": "<strong>note 1: </strong>the military took over the government on 1 February 2021 and declared a state of emergency<strong><br><br>note 2:</strong> prior to the military takeover, the a state counsellor served the equivalent term of the president and was similar to a prime minister in that the holder acted as a link between the parliament and the executive branch<br><br><br>"
     },
     "Legislative branch": {
-      "description": {
-        "text": "prior to its dissolution after a coup, the bicameral Assembly of the Union or Pyidaungsu consisted of:<br>House of Nationalities or Amyotha Hluttaw, (224 seats; 168 members directly elected in single-seat constituencies by absolute majority vote with a second round if needed and 56 appointed by the military; members served 5-year terms)<br><br>prior to its dissolution after a coup, the House of Representatives or Pyithu Hluttaw, (440 seats, currently 433; 330 members directly elected in single-seat constituencies by simple majority vote and 110 appointed by the military; members served 5-year terms)"
+      "legislature name": {
+        "text": "Assembly of the Union (Pyidaungsu Hluttaw)"
       },
-      "elections": {
-        "text": "House of Nationalities - last held on 8 November 2020 <br>House of Representatives - last held on 8 November 2020"
-      },
-      "election results": {
-        "text": "House of Nationalities - percent of vote by party - NLD 61.6%, USDP 3.1%, ANP 1.8%, MUP 1.3%, KySPD 1.3%, other 5.9%, military appointees 25%; seats by party - NLD 138, USDP 7, ANP 4, MUP 3, KySPD 3, SNLD 2, TNP 2, other 2, vacant 7 (canceled due to insurgency), military appointees 56 <br><br>House of Representatives - percent of vote by party - NLD 58.6%, USDP 5.9%, SNLD 3.0%, other 7.5%, military 25%; seats by party - NLD 258, USDP 26, SNLD 13, ANP 4, PNO 3, TNP 3, MUP 2, KySPD 2, other 4, vacant 15 (canceled due to insurgency), military appointees 110"
+      "legislative structure": {
+        "text": "bicameral"
       },
       "note": "<strong>note 1:</strong> the Assembly of the Union was dissolved on 1 February 2021 after a military coup led by Sr. General MIN AUNG HLAING; it was replaced by the State Administration Council<br><br><strong>note 2:</strong> the military junta overturned the results of the 8 November legislative elections"
     },
@@ -688,7 +685,7 @@
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2023": {
-        "text": "$290.507 billion (2023 est.)"
+        "text": "$290.381 billion (2023 est.)"
       },
       "Real GDP (purchasing power parity) 2022": {
         "text": "$287.624 billion (2022 est.)"
@@ -700,7 +697,7 @@
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2023": {
-        "text": "1% (2023 est.)"
+        "text": "0.96% (2023 est.)"
       },
       "Real GDP growth rate 2022": {
         "text": "4.04% (2022 est.)"
@@ -712,18 +709,18 @@
     },
     "Real GDP per capita": {
       "Real GDP per capita 2023": {
-        "text": "$5,300 (2023 est.)"
+        "text": "$5,400 (2023 est.)"
       },
       "Real GDP per capita 2022": {
-        "text": "$5,300 (2022 est.)"
+        "text": "$5,400 (2022 est.)"
       },
       "Real GDP per capita 2021": {
-        "text": "$5,100 (2021 est.)"
+        "text": "$5,200 (2021 est.)"
       },
       "note": "<b>note:</b> data in 2021 dollars"
     },
     "GDP (official exchange rate)": {
-      "text": "$64.815 billion (2023 est.)",
+      "text": "$66.758 billion (2023 est.)",
       "note": "<b>note:</b> data in current dollars at official exchange rate"
     },
     "Inflation rate (consumer prices)": {
@@ -740,13 +737,13 @@
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "20.4% (2023 est.)"
+        "text": "22.7% (2023 est.)"
       },
       "industry": {
-        "text": "38.1% (2023 est.)"
+        "text": "37.6% (2023 est.)"
       },
       "services": {
-        "text": "41.5% (2023 est.)"
+        "text": "39.7% (2023 est.)"
       },
       "note": "<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data"
     },
@@ -778,11 +775,11 @@
       "text": "agricultural processing; wood and wood products; copper, tin, tungsten, iron; cement, construction materials; pharmaceuticals; fertilizer; oil and natural gas; garments; jade and gems"
     },
     "Industrial production growth rate": {
-      "text": "1.53% (2023 est.)",
+      "text": "0.02% (2023 est.)",
       "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
-      "text": "22.884 million (2023 est.)",
+      "text": "22.662 million (2023 est.)",
       "note": "<b>note:</b> number of people ages 15 or older who are employed or seeking work"
     },
     "Unemployment rate": {
@@ -838,7 +835,7 @@
     },
     "Remittances": {
       "Remittances 2023": {
-        "text": "2.31% of GDP (2023 est.)"
+        "text": "1.65% of GDP (2023 est.)"
       },
       "Remittances 2022": {
         "text": "2.03% of GDP (2022 est.)"
@@ -930,24 +927,29 @@
       },
       "note": "<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars"
     },
+    "Debt - external": {
+      "Debt - external 2023": {
+        "text": "$9.292 billion (2023 est.)"
+      }
+    },
     "Exchange rates": {
       "Currency": {
         "text": "kyats (MMK) per US dollar -"
+      },
+      "Exchange rates 2023": {
+        "text": "2,100 (2023 est.)"
+      },
+      "Exchange rates 2022": {
+        "text": "1,932.543 (2022 est.)"
+      },
+      "Exchange rates 2021": {
+        "text": "1,615.367 (2021 est.)"
       },
       "Exchange rates 2020": {
         "text": "1,381.619 (2020 est.)"
       },
       "Exchange rates 2019": {
         "text": "1,518.255 (2019 est.)"
-      },
-      "Exchange rates 2018": {
-        "text": "1,429.808 (2018 est.)"
-      },
-      "Exchange rates 2017": {
-        "text": "1,360.359 (2017 est.)"
-      },
-      "Exchange rates 2016": {
-        "text": "1,234.87 (2016 est.)"
       }
     }
   },

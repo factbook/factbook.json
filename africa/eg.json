@@ -586,14 +586,66 @@
       }
     },
     "Legislative branch": {
-      "description": {
-        "text": "bicameral Parliament consists of:<br>Senate or Majlis Al-Shiyoukh (300 seats; 100 members directly elected in single seat constituencies, 100 directly elected by closed party-list vote, and 100 appointed by the president<br>House of Representatives or Majlis Al-Nowaab (596 seats; 448 members directly elected by individual candidacy system, 120 members - with quotas for women, youth, Christians and workers - elected in party-list constituencies by simple majority popular vote, and 28 members appointed by the president; members of both houses serve 5-year terms"
+      "legislative structure": {
+        "text": "bicameral"
+      }
+    },
+    "Legislative branch - lower chamber": {
+      "chamber name": {
+        "text": "House of Representatives (Majlis Al-Nuwab)"
       },
-      "elections": {
-        "text": "Senate - first round held on 11-12 August 2020 (9-10 August for diaspora); second round held on 8-9 September (6-7 September for diaspora) (next to be held in 2025)<br>House of Representatives - last held 24-25 October and 7-8 November 2020) (next to be held in 2025)"
+      "number of seats": {
+        "text": "596 (568 directly elected; 28 appointed)"
       },
-      "election results": {
-        "text": "Senate - percent of vote by party - NA; seats by party - Nation's Future Party 100, independent 100; composition - men 258, women 41, percent of women 13.7%  <br><br>House of Representatives - percent of vote by party - NA; seats by party - Nation's Future Party 316, Republican People's Party 50, New Wafd Party 26, Homeland Defenders Party 23, Modern Egypt Party 11, Reform and Development Party 9, Al-Nour Party 7, Egyptian Conference Party 7, Egyptian Freedom Party 7, Egyptian Social Democratic Party 7, Tagammu 6, Justice Party 2, Etradet Geel Party 1, independent 124; composition - men 428, women 164, percent of women 27.5%; total Parliament percent of women 23%"
+      "electoral system": {
+        "text": "mixed system"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "5 years"
+      },
+      "most recent election date": {
+        "text": "10/24/2020 to 12/8/2020"
+      },
+      "parties elected and seats per party": {
+        "text": "Future of the Nation (Mostakbal Watan) (317); Republican People's party (El Shaab el Gomhory) (49); Independents (117); Other (109)"
+      },
+      "percentage of women in chamber": {
+        "text": "27.7%"
+      },
+      "expected date of next election": {
+        "text": "October 2025"
+      }
+    },
+    "Legislative branch - upper chamber": {
+      "chamber name": {
+        "text": "Senate (Majlis Al-Shiyoukh)"
+      },
+      "number of seats": {
+        "text": "300 (200 directly elected; 100 appointed)"
+      },
+      "electoral system": {
+        "text": "mixed system"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "5 years"
+      },
+      "most recent election date": {
+        "text": "8/11/2020 to 9/9/2020"
+      },
+      "parties elected and seats per party": {
+        "text": "Future of the Nation (Mostakbal Watan) (148); Republican People's party (17); Independents (88); Other (47)"
+      },
+      "percentage of women in chamber": {
+        "text": "13.7%"
+      },
+      "expected date of next election": {
+        "text": "August 2025"
       }
     },
     "Judicial branch": {
@@ -711,18 +763,18 @@
     },
     "Real GDP per capita": {
       "Real GDP per capita 2023": {
-        "text": "$17,000 (2023 est.)"
+        "text": "$16,700 (2023 est.)"
       },
       "Real GDP per capita 2022": {
-        "text": "$16,600 (2022 est.)"
+        "text": "$16,400 (2022 est.)"
       },
       "Real GDP per capita 2021": {
-        "text": "$15,800 (2021 est.)"
+        "text": "$15,600 (2021 est.)"
       },
       "note": "<b>note:</b> data in 2021 dollars"
     },
     "GDP (official exchange rate)": {
-      "text": "$395.926 billion (2023 est.)",
+      "text": "$396.002 billion (2023 est.)",
       "note": "<b>note:</b> data in current dollars at official exchange rate"
     },
     "Inflation rate (consumer prices)": {
@@ -751,13 +803,13 @@
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "10.6% (2023 est.)"
+        "text": "11.6% (2023 est.)"
       },
       "industry": {
-        "text": "32.7% (2023 est.)"
+        "text": "32.1% (2023 est.)"
       },
       "services": {
-        "text": "51.6% (2023 est.)"
+        "text": "51.3% (2023 est.)"
       },
       "note": "<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data"
     },
@@ -769,10 +821,10 @@
         "text": "6.8% (2023 est.)"
       },
       "investment in fixed capital": {
-        "text": "15.2% (2022 est.)"
+        "text": "11.5% (2023 est.)"
       },
       "investment in inventories": {
-        "text": "-2.3% (2023 est.)"
+        "text": "1.4% (2023 est.)"
       },
       "exports of goods and services": {
         "text": "19.1% (2023 est.)"
@@ -794,7 +846,7 @@
       "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
-      "text": "33.431 million (2023 est.)",
+      "text": "34.065 million (2023 est.)",
       "note": "<b>note:</b> number of people ages 15 or older who are employed or seeking work"
     },
     "Unemployment rate": {
@@ -850,7 +902,7 @@
     },
     "Remittances": {
       "Remittances 2023": {
-        "text": "6.11% of GDP (2023 est.)"
+        "text": "4.93% of GDP (2023 est.)"
       },
       "Remittances 2022": {
         "text": "5.94% of GDP (2022 est.)"
@@ -880,26 +932,26 @@
       "note": "<b>note:</b> central government tax revenue as a % of GDP"
     },
     "Current account balance": {
+      "Current account balance 2023": {
+        "text": "-$12.564 billion (2023 est.)"
+      },
       "Current account balance 2022": {
         "text": "-$10.537 billion (2022 est.)"
       },
       "Current account balance 2021": {
         "text": "-$18.611 billion (2021 est.)"
       },
-      "Current account balance 2020": {
-        "text": "-$14.236 billion (2020 est.)"
-      },
       "note": "<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars"
     },
     "Exports": {
+      "Exports 2023": {
+        "text": "$68.218 billion (2023 est.)"
+      },
       "Exports 2022": {
         "text": "$76.295 billion (2022 est.)"
       },
       "Exports 2021": {
         "text": "$58.339 billion (2021 est.)"
-      },
-      "Exports 2020": {
-        "text": "$40.102 billion (2020 est.)"
       },
       "note": "<b>note:</b> balance of payments - exports of goods and services in current dollars"
     },
@@ -912,14 +964,14 @@
       "note": "<b>note:</b> top five export commodities based on value in dollars"
     },
     "Imports": {
+      "Imports 2023": {
+        "text": "$82.265 billion (2023 est.)"
+      },
       "Imports 2022": {
         "text": "$97.144 billion (2022 est.)"
       },
       "Imports 2021": {
         "text": "$94.039 billion (2021 est.)"
-      },
-      "Imports 2020": {
-        "text": "$72.482 billion (2020 est.)"
       },
       "note": "<b>note:</b> balance of payments - imports of goods and services in current dollars"
     },
@@ -944,8 +996,8 @@
       "note": "<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars"
     },
     "Debt - external": {
-      "Debt - external 2022": {
-        "text": "$97.5 billion (2022 est.)"
+      "Debt - external 2023": {
+        "text": "$121.328 billion (2023 est.)"
       },
       "note": "<b>note:</b> present value of external debt in current US dollars"
     },

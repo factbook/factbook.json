@@ -550,14 +550,35 @@
       }
     },
     "Legislative branch": {
-      "description": {
-        "text": "unicameral Assembly - Sobranie in Macedonian, Kuvend in Albanian (between 120 and 140 seats, current 123; members directly elected in multi-seat constituencies by closed-list proportional representation vote; possibility of 3 directly elected in diaspora constituencies by simple majority vote provided there is sufficient voter turnout; members serve 4-year terms)"
+      "legislature name": {
+        "text": "Assembly of the Republic (Sobranie)"
       },
-      "elections": {
-        "text": "last held on 8 May 2024 (next to be held on 31 May 2028)"
+      "legislative structure": {
+        "text": "unicameral"
       },
-      "election results": {
-        "text": "percent of vote by party/coalition - Your Macedonia 44.6%, For a European Future 15.8%, European Front 14%, VLEN 10.9%, The Left 7%, For Our Macedonia 5.7%, other 1.9%; seats by party/coalition - Your Macedonia 58, For a European Future 18, European Front 18, VLEN 14, The Left 6, For Our Macedonia 6; composition - TBD"
+      "number of seats": {
+        "text": "123 (all directly elected)"
+      },
+      "electoral system": {
+        "text": "mixed system"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "4 years"
+      },
+      "most recent election date": {
+        "text": "5/8/2024"
+      },
+      "parties elected and seats per party": {
+        "text": "Coalition \"Your Macedonia\" (led by VMRO-DPMNE) (58); Coalition \"European Front\" (led by the Democratic Union for Integration – DUI) (18); Coalition \"For a European Future\" (led by the Social Democratic Union of Macedonia – SDSM) (18); Coalition VLEN (14); ZNAM (Movement \"I know\": For our Macedonia) (6); The Left (Levica) (6)"
+      },
+      "percentage of women in chamber": {
+        "text": "39.2%"
+      },
+      "expected date of next election": {
+        "text": "May 2028"
       }
     },
     "Judicial branch": {
@@ -648,10 +669,10 @@
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2023": {
-        "text": "$42.444 billion (2023 est.)"
+        "text": "$43.108 billion (2023 est.)"
       },
       "Real GDP (purchasing power parity) 2022": {
-        "text": "$42.012 billion (2022 est.)"
+        "text": "$42.233 billion (2022 est.)"
       },
       "Real GDP (purchasing power parity) 2021": {
         "text": "$41.099 billion (2021 est.)"
@@ -660,10 +681,10 @@
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2023": {
-        "text": "1.03% (2023 est.)"
+        "text": "2.07% (2023 est.)"
       },
       "Real GDP growth rate 2022": {
-        "text": "2.22% (2022 est.)"
+        "text": "2.76% (2022 est.)"
       },
       "Real GDP growth rate 2021": {
         "text": "4.51% (2021 est.)"
@@ -672,10 +693,10 @@
     },
     "Real GDP per capita": {
       "Real GDP per capita 2023": {
-        "text": "$23,400 (2023 est.)"
+        "text": "$23,600 (2023 est.)"
       },
       "Real GDP per capita 2022": {
-        "text": "$22,900 (2022 est.)"
+        "text": "$23,100 (2022 est.)"
       },
       "Real GDP per capita 2021": {
         "text": "$22,400 (2021 est.)"
@@ -683,7 +704,7 @@
       "note": "<b>note:</b> data in 2021 dollars"
     },
     "GDP (official exchange rate)": {
-      "text": "$14.761 billion (2023 est.)",
+      "text": "$15.764 billion (2023 est.)",
       "note": "<b>note:</b> data in current dollars at official exchange rate"
     },
     "Inflation rate (consumer prices)": {
@@ -709,34 +730,34 @@
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "7% (2023 est.)"
+        "text": "6.6% (2023 est.)"
       },
       "industry": {
-        "text": "21.4% (2023 est.)"
+        "text": "23.3% (2023 est.)"
       },
       "services": {
-        "text": "58.2% (2023 est.)"
+        "text": "57.2% (2023 est.)"
       },
       "note": "<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "72.9% (2023 est.)"
+        "text": "68.5% (2023 est.)"
       },
       "government consumption": {
-        "text": "16.8% (2023 est.)"
+        "text": "14.9% (2023 est.)"
       },
       "investment in fixed capital": {
-        "text": "23.5% (2021 est.)"
+        "text": "24.7% (2023 est.)"
       },
       "investment in inventories": {
-        "text": "0.4% (2023 est.)"
+        "text": "4.9% (2023 est.)"
       },
       "exports of goods and services": {
-        "text": "72.8% (2023 est.)"
+        "text": "67.8% (2023 est.)"
       },
       "imports of goods and services": {
-        "text": "-86.3% (2023 est.)"
+        "text": "-80.9% (2023 est.)"
       },
       "note": "<b>note:</b> figures may not total 100% due to rounding or gaps in data collection"
     },
@@ -748,11 +769,11 @@
       "text": "food processing, beverages, textiles, chemicals, iron, steel, cement, energy, pharmaceuticals, automotive parts"
     },
     "Industrial production growth rate": {
-      "text": "-1.07% (2023 est.)",
+      "text": "-1.63% (2022 est.)",
       "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
-      "text": "801,000 (2023 est.)",
+      "text": "797,000 (2023 est.)",
       "note": "<b>note:</b> number of people ages 15 or older who are employed or seeking work"
     },
     "Unemployment rate": {
@@ -808,10 +829,10 @@
     },
     "Remittances": {
       "Remittances 2023": {
-        "text": "3.13% of GDP (2023 est.)"
+        "text": "2.93% of GDP (2023 est.)"
       },
       "Remittances 2022": {
-        "text": "3.33% of GDP (2022 est.)"
+        "text": "3.28% of GDP (2022 est.)"
       },
       "Remittances 2021": {
         "text": "3.5% of GDP (2021 est.)"
@@ -839,10 +860,10 @@
     },
     "Current account balance": {
       "Current account balance 2023": {
-        "text": "$99.23 million (2023 est.)"
+        "text": "$56.573 million (2023 est.)"
       },
       "Current account balance 2022": {
-        "text": "-$864.777 million (2022 est.)"
+        "text": "-$868.965 million (2022 est.)"
       },
       "Current account balance 2021": {
         "text": "-$374.85 million (2021 est.)"
@@ -851,10 +872,10 @@
     },
     "Exports": {
       "Exports 2023": {
-        "text": "$10.748 billion (2023 est.)"
+        "text": "$10.691 billion (2023 est.)"
       },
       "Exports 2022": {
-        "text": "$10.126 billion (2022 est.)"
+        "text": "$10.123 billion (2022 est.)"
       },
       "Exports 2021": {
         "text": "$9.208 billion (2021 est.)"
@@ -871,10 +892,10 @@
     },
     "Imports": {
       "Imports 2023": {
-        "text": "$12.745 billion (2023 est.)"
+        "text": "$12.748 billion (2023 est.)"
       },
       "Imports 2022": {
-        "text": "$13.008 billion (2022 est.)"
+        "text": "$13.009 billion (2022 est.)"
       },
       "Imports 2021": {
         "text": "$11.362 billion (2021 est.)"
@@ -900,6 +921,11 @@
         "text": "$4.129 billion (2021 est.)"
       },
       "note": "<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars"
+    },
+    "Debt - external": {
+      "Debt - external 2023": {
+        "text": "$5.845 billion (2023 est.)"
+      }
     },
     "Exchange rates": {
       "Currency": {

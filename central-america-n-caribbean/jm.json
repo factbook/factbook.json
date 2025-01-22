@@ -531,14 +531,63 @@
       "note": "<strong>note:</strong> the Jamaican Government, in May 2023, announced plans to hold a referendum in 2024 to determine whether or not to remain in the Commonwealth or become a republic"
     },
     "Legislative branch": {
-      "description": {
-        "text": "bicameral Parliament consists of:<br>Senate (21 seats; 13 members appointed by the governor general on the advice of the prime minister and 8 members appointed by the governor general on the advice of the opposition party leader; members serve 5-year terms (no term limits) or until Parliament is dissolved)<br>House of Representatives (63 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms (no term limits) or until Parliament is dissolved)"
+      "legislature name": {
+        "text": "Parliament"
       },
-      "elections": {
-        "text": "Senate - last full slate of appointments early on 3 September 2020 (next full slate in 2025)<br>House of Representatives - last held on 3 September 2020 (next to be held in 2025)"
+      "legislative structure": {
+        "text": "bicameral"
+      }
+    },
+    "Legislative branch - lower chamber": {
+      "chamber name": {
+        "text": "House of Representatives"
       },
-      "election results": {
-        "text": "Senate - percent by party - NA; seats by party - NA; composition - men 13, women 8, percentage women 38.1%<br><br>House of Representatives - percent of vote by party - JLP 57%, PNP 42.8%, independent 0.2%; seats by party - JLP 48, PNP 15; composition - men 45, women 14; percentage women 23.7%; note - total Parliament percentage women 27.5%"
+      "number of seats": {
+        "text": "63 (all directly elected)"
+      },
+      "electoral system": {
+        "text": "plurality/majority"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "5 years"
+      },
+      "most recent election date": {
+        "text": "9/3/2020"
+      },
+      "parties elected and seats per party": {
+        "text": "Jamaica Labour Party (JLP) (49); People's National Party (PNP) (14)"
+      },
+      "percentage of women in chamber": {
+        "text": "27.4%"
+      },
+      "expected date of next election": {
+        "text": "September 2025"
+      }
+    },
+    "Legislative branch - upper chamber": {
+      "chamber name": {
+        "text": "Senate"
+      },
+      "number of seats": {
+        "text": "21 (all appointed)"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "5 years"
+      },
+      "most recent election date": {
+        "text": "9/15/2020"
+      },
+      "percentage of women in chamber": {
+        "text": "38.1%"
+      },
+      "expected date of next election": {
+        "text": "September 2025"
       }
     },
     "Judicial branch": {
@@ -735,7 +784,7 @@
       "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
-      "text": "1.559 million (2023 est.)",
+      "text": "1.573 million (2023 est.)",
       "note": "<b>note:</b> number of people ages 15 or older who are employed or seeking work"
     },
     "Unemployment rate": {
@@ -763,7 +812,7 @@
       "note": "<b>note:</b> % of labor force ages 15-24 seeking employment"
     },
     "Population below poverty line": {
-      "text": "17.1% (2016 est.)"
+      "text": "16.7% (2021 est.)"
     },
     "Gini Index coefficient - distribution of family income": {
       "Gini Index coefficient - distribution of family income 2021": {
@@ -780,7 +829,7 @@
     },
     "Remittances": {
       "Remittances 2023": {
-        "text": "19.1% of GDP (2023 est.)"
+        "text": "18.54% of GDP (2023 est.)"
       },
       "Remittances 2022": {
         "text": "21.57% of GDP (2022 est.)"
@@ -810,26 +859,26 @@
       "note": "<b>note:</b> central government tax revenue as a % of GDP"
     },
     "Current account balance": {
+      "Current account balance 2023": {
+        "text": "$583.407 million (2023 est.)"
+      },
       "Current account balance 2022": {
         "text": "-$129.756 million (2022 est.)"
       },
       "Current account balance 2021": {
         "text": "$149.262 million (2021 est.)"
       },
-      "Current account balance 2020": {
-        "text": "-$156.91 million (2020 est.)"
-      },
       "note": "<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars"
     },
     "Exports": {
+      "Exports 2023": {
+        "text": "$7.275 billion (2023 est.)"
+      },
       "Exports 2022": {
         "text": "$6.424 billion (2022 est.)"
       },
       "Exports 2021": {
         "text": "$4.401 billion (2021 est.)"
-      },
-      "Exports 2020": {
-        "text": "$3.249 billion (2020 est.)"
       },
       "note": "<b>note:</b> balance of payments - exports of goods and services in current dollars"
     },
@@ -842,14 +891,14 @@
       "note": "<b>note:</b> top five export commodities based on value in dollars"
     },
     "Imports": {
+      "Imports 2023": {
+        "text": "$9.866 billion (2023 est.)"
+      },
       "Imports 2022": {
         "text": "$9.726 billion (2022 est.)"
       },
       "Imports 2021": {
         "text": "$7.405 billion (2021 est.)"
-      },
-      "Imports 2020": {
-        "text": "$5.913 billion (2020 est.)"
       },
       "note": "<b>note:</b> balance of payments - imports of goods and services in current dollars"
     },
@@ -874,8 +923,8 @@
       "note": "<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars"
     },
     "Debt - external": {
-      "Debt - external 2022": {
-        "text": "$9.148 billion (2022 est.)"
+      "Debt - external 2023": {
+        "text": "$9.776 billion (2023 est.)"
       },
       "note": "<b>note:</b> present value of external debt in current US dollars"
     },

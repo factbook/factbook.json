@@ -554,14 +554,69 @@
       "note": "<strong>note</strong>: the president is both chief of state and head of government"
     },
     "Legislative branch": {
-      "description": {
-        "text": "bicameral National Congress or Congreso Nacional consists of:<br>Chamber of Senators or Camara de Senadores (45 seats; members directly elected in a single nationwide constituency by closed-list proportional representation vote to serve 5-year terms)<br>Chamber of Deputies or Camara de Diputados (80 seats; members directly elected in 18 multi-seat constituencies - corresponding to the country's 17 departments and capital city - by closed-list proportional representation vote to serve 5-year terms)"
+      "legislature name": {
+        "text": "Congress (Congreso)"
       },
-      "elections": {
-        "text": "Chamber of Senators - last held on 30 April 2023 (next to be held in April 2028)<br>Chamber of Deputies - last held on 30 April 2023 (next to be held in April 2028)"
+      "legislative structure": {
+        "text": "bicameral"
+      }
+    },
+    "Legislative branch - lower chamber": {
+      "chamber name": {
+        "text": "Chamber of Deputies (Cámara de Diputados)"
       },
-      "election results": {
-        "text": "Chamber of Senators - percent of vote by party/coalition - ANR 45.7%, PLRA 24.4%, PCN 11.5%, PEN 5.2%, PPQ 2.5%, other 10.7%; seats by party/coalition - ANR 23, PLRA 12, PCN 5, PEN 2, PPQ 1, other 2; composition - men 34, women 11, percentage women 24.4%<br><br>Chamber of Deputies - percent of vote by party/coalition - ANR 44%, PLRA 30.9%, PCN 8.3%, PPQ 3.6%, PEN 2.9%; other 10.3%; seats by party/coalition - ANR 49, PLRA 21, PCN 4, PEN 2, PPQ 1, other 3; compositio - men 61, women 19, percentage women 23.8%; note - total National Congress percentage women NA%"
+      "number of seats": {
+        "text": "80 (all directly elected)"
+      },
+      "electoral system": {
+        "text": "proportional representation"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "5 years"
+      },
+      "most recent election date": {
+        "text": "4/30/2023"
+      },
+      "parties elected and seats per party": {
+        "text": "National Republican Association/Colorado Party (ANR) (48); Authentic Radical Liberal Party (PLRA) - Alliances (23); National Crusade Party (CN) (4); Other (5)"
+      },
+      "percentage of women in chamber": {
+        "text": "23.8%"
+      },
+      "expected date of next election": {
+        "text": "April 2028"
+      }
+    },
+    "Legislative branch - upper chamber": {
+      "chamber name": {
+        "text": "Senate (Cámara de Senadores)"
+      },
+      "number of seats": {
+        "text": "45 (all directly elected)"
+      },
+      "electoral system": {
+        "text": "proportional representation"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "5 years"
+      },
+      "most recent election date": {
+        "text": "4/30/2023"
+      },
+      "parties elected and seats per party": {
+        "text": "National Republican Association/Colorado Party (ANR) (23); Authentic Radical Liberal Party (PLRA) - Alliances (12); National Crusade Party (CN) (5); Other (5)"
+      },
+      "percentage of women in chamber": {
+        "text": "24.4%"
+      },
+      "expected date of next election": {
+        "text": "April 2028"
       }
     },
     "Judicial branch": {
@@ -676,10 +731,10 @@
     },
     "Real GDP per capita": {
       "Real GDP per capita 2023": {
-        "text": "$15,700 (2023 est.)"
+        "text": "$15,800 (2023 est.)"
       },
       "Real GDP per capita 2022": {
-        "text": "$15,200 (2022 est.)"
+        "text": "$15,300 (2022 est.)"
       },
       "Real GDP per capita 2021": {
         "text": "$15,400 (2021 est.)"
@@ -759,7 +814,7 @@
       "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
-      "text": "3.469 million (2023 est.)",
+      "text": "3.456 million (2023 est.)",
       "note": "<b>note:</b> number of people ages 15 or older who are employed or seeking work"
     },
     "Unemployment rate": {
@@ -815,7 +870,7 @@
     },
     "Remittances": {
       "Remittances 2023": {
-        "text": "1.4% of GDP (2023 est.)"
+        "text": "1.74% of GDP (2023 est.)"
       },
       "Remittances 2022": {
         "text": "1.41% of GDP (2022 est.)"
@@ -845,10 +900,10 @@
     },
     "Current account balance": {
       "Current account balance 2023": {
-        "text": "$109.625 million (2023 est.)"
+        "text": "$104.764 million (2023 est.)"
       },
       "Current account balance 2022": {
-        "text": "-$2.993 billion (2022 est.)"
+        "text": "-$2.995 billion (2022 est.)"
       },
       "Current account balance 2021": {
         "text": "-$347.383 million (2021 est.)"
@@ -857,7 +912,7 @@
     },
     "Exports": {
       "Exports 2023": {
-        "text": "$18.711 billion (2023 est.)"
+        "text": "$18.712 billion (2023 est.)"
       },
       "Exports 2022": {
         "text": "$14.971 billion (2022 est.)"
@@ -877,7 +932,7 @@
     },
     "Imports": {
       "Imports 2023": {
-        "text": "$17.906 billion (2023 est.)"
+        "text": "$17.904 billion (2023 est.)"
       },
       "Imports 2022": {
         "text": "$17.142 billion (2022 est.)"
@@ -908,8 +963,8 @@
       "note": "<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars"
     },
     "Debt - external": {
-      "Debt - external 2022": {
-        "text": "$12.118 billion (2022 est.)"
+      "Debt - external 2023": {
+        "text": "$14.154 billion (2023 est.)"
       },
       "note": "<b>note:</b> present value of external debt in current US dollars"
     },

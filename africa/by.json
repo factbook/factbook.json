@@ -574,15 +574,69 @@
       }
     },
     "Legislative branch": {
-      "description": {
-        "text": "bicameral Parliament or Parlement consists of:<br>Senate or Inama Nkenguzamateka (39 seats in the July 2020 election); 36 members indirectly elected by an electoral college of provincial councils using a three-round voting system, which requires a two-thirds majority vote in the first two rounds and simple majority vote for the two leading candidates in the final round; members serve 5-year terms)<br>National Assembly or Inama Nshingamateka (123 seats in the May 2020 election; 100 members directly elected in multi-seat constituencies by proportional representation vote and 23 co-opted members; members serve 5-year terms)"
+      "legislature name": {
+        "text": "Parliament (Parlement)"
       },
-      "elections": {
-        "text": "Senate - last held on 20 July 2020 (next to be held in 2025)<br>National Assembly - last held on 20 May 2020 (next to be held in 2025)"
-      },
-      "election results": {
-        "text": "Senate - percent of vote by party - CNDD-FDD 87.2%, Twa 7.7%, CNL 2.6%, UPRONA 2.6%; seats by party - CNDD-FDD 34, Twa 3, CNL 1, UPRONA 1; composition - men 23, women 16, percentage women 37.2% <p>National Assembly - percent of vote by party - CNDD-FDD 70.9%, CNL 23.4%, UPRONA 2.5%, other (co-opted Twa) 3.2%; seats by party - CNDD-FDD 86, CNL 32, Twa 3, UPRONA 2; composition - men 76, women 47, percentage women 38.2%; note - total Parliament percentage women 38%</p>"
+      "legislative structure": {
+        "text": "bicameral"
       }
+    },
+    "Legislative branch - lower chamber": {
+      "chamber name": {
+        "text": "National Assembly (Inama Nshingamateka)"
+      },
+      "number of seats": {
+        "text": "123 (all directly elected)"
+      },
+      "electoral system": {
+        "text": "proportional representation"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "5 years"
+      },
+      "most recent election date": {
+        "text": "5/20/2020"
+      },
+      "parties elected and seats per party": {
+        "text": "National Council for the Defense of Democracy - Front for the Defense of Democracy (CNDD-FDD) (86); National Congress for Liberty (CNL) (32); Other (5)"
+      },
+      "percentage of women in chamber": {
+        "text": "38.2%"
+      },
+      "expected date of next election": {
+        "text": "May 2025"
+      },
+      "note": "<strong>note:</strong> 60% of seats in the National Assembly are allocated to Hutus and 40% to Tutsis; 3 seats are reserved for Twas; 30% of total seats are reserved for women"
+    },
+    "Legislative branch - upper chamber": {
+      "chamber name": {
+        "text": "Senate (Inama Nkenguzamateka)"
+      },
+      "number of seats": {
+        "text": "39 (all indirectly elected)"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "5 years"
+      },
+      "most recent election date": {
+        "text": "7/20/2020"
+      },
+      "parties elected and seats per party": {
+        "text": "National Council for the Defense of Democracy - Front for the Defense of Democracy (CNDD-FDD) (34); Other (2)"
+      },
+      "percentage of women in chamber": {
+        "text": "41%"
+      },
+      "expected date of next election": {
+        "text": "July 2025"
+      },
+      "note": "<strong>note:</strong> 3 seats in the Senate are reserved for Twas, and 30% of all votes are reserved for women"
     },
     "Judicial branch": {
       "highest court(s)": {
@@ -684,13 +738,13 @@
     },
     "Real GDP per capita": {
       "Real GDP per capita 2023": {
-        "text": "$900 (2023 est.)"
+        "text": "$800 (2023 est.)"
       },
       "Real GDP per capita 2022": {
-        "text": "$900 (2022 est.)"
+        "text": "$800 (2022 est.)"
       },
       "Real GDP per capita 2021": {
-        "text": "$900 (2021 est.)"
+        "text": "$800 (2021 est.)"
       },
       "note": "<b>note:</b> data in 2021 dollars"
     },
@@ -732,6 +786,9 @@
       "investment in fixed capital": {
         "text": "13% (2023 est.)"
       },
+      "investment in inventories": {
+        "text": "0% (2023 est.)"
+      },
       "exports of goods and services": {
         "text": "5.3% (2023 est.)"
       },
@@ -752,7 +809,7 @@
       "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
-      "text": "5.722 million (2023 est.)",
+      "text": "5.894 million (2023 est.)",
       "note": "<b>note:</b> number of people ages 15 or older who are employed or seeking work"
     },
     "Unemployment rate": {
@@ -796,13 +853,13 @@
     },
     "Remittances": {
       "Remittances 2023": {
-        "text": "1.83% of GDP (2023 est.)"
+        "text": "7.49% of GDP (2023 est.)"
       },
       "Remittances 2022": {
-        "text": "1.45% of GDP (2022 est.)"
+        "text": "4.89% of GDP (2022 est.)"
       },
       "Remittances 2021": {
-        "text": "1.74% of GDP (2021 est.)"
+        "text": "6.05% of GDP (2021 est.)"
       },
       "note": "<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities"
     },
@@ -824,23 +881,26 @@
       "text": "15.64% (of GDP) (2021 est.)"
     },
     "Current account balance": {
-      "Current account balance 2018": {
-        "text": "-$362.645 million (2018 est.)"
+      "Current account balance 2023": {
+        "text": "-$625.597 million (2023 est.)"
       },
-      "Current account balance 2017": {
-        "text": "-$373.389 million (2017 est.)"
+      "Current account balance 2022": {
+        "text": "-$621.969 million (2022 est.)"
       },
-      "Current account balance 2016": {
-        "text": "-$339.695 million (2016 est.)"
+      "Current account balance 2021": {
+        "text": "-$393.88 million (2021 est.)"
       },
       "note": "<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars"
     },
     "Exports": {
-      "Exports 2018": {
-        "text": "$285.105 million (2018 est.)"
+      "Exports 2023": {
+        "text": "$378.229 million (2023 est.)"
       },
-      "Exports 2017": {
-        "text": "$270.686 million (2017 est.)"
+      "Exports 2022": {
+        "text": "$333.637 million (2022 est.)"
+      },
+      "Exports 2021": {
+        "text": "$302.752 million (2021 est.)"
       },
       "note": "<b>note:</b> balance of payments - exports of goods and services in current dollars"
     },
@@ -853,11 +913,14 @@
       "note": "<b>note:</b> top five export commodities based on value in dollars"
     },
     "Imports": {
-      "Imports 2018": {
-        "text": "$905.294 million (2018 est.)"
+      "Imports 2023": {
+        "text": "$1.433 billion (2023 est.)"
       },
-      "Imports 2017": {
-        "text": "$1.295 billion (2017 est.)"
+      "Imports 2022": {
+        "text": "$1.42 billion (2022 est.)"
+      },
+      "Imports 2021": {
+        "text": "$1.166 billion (2021 est.)"
       },
       "note": "<b>note:</b> balance of payments - imports of goods and services in current dollars"
     },
@@ -882,8 +945,8 @@
       "note": "<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars"
     },
     "Debt - external": {
-      "Debt - external 2022": {
-        "text": "$444.292 million (2022 est.)"
+      "Debt - external 2023": {
+        "text": "$858.402 million (2023 est.)"
       },
       "note": "<b>note:</b> present value of external debt in current US dollars"
     },

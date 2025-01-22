@@ -566,14 +566,63 @@
       }
     },
     "Legislative branch": {
-      "description": {
-        "text": "bicameral National Assembly or Natsyyalny Skhod consists of:<br>Council of the Republic or Savet Respubliki (65 seats statutory, currently 58; 56 members indirectly elected by regional and Minsk city councils and 8 members appointed by the president; members serve 4-year terms)<br>House of Representatives or Palata Pradstawnikow (110 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year terms)"
+      "legislature name": {
+        "text": "National Assembly (Natsionalnoye Sobranie)"
       },
-      "elections": {
-        "text": "Council of the Republic - indirect election last held on 4 April 2024 (next to be held in 2029)<br>House of Representatives - last held on 25 February 2024 (next to be held in 2028)"
+      "legislative structure": {
+        "text": "bicameral"
+      }
+    },
+    "Legislative branch - lower chamber": {
+      "chamber name": {
+        "text": "House of Representatives (Palata Predstaviteley)"
       },
-      "election results": {
-        "text": "Council of the Republic - percent of vote by party - NA; seats by party - independent 58, other 2; composition - men 42, women 16, percentage women 27.6%<br><br>House of Representatives - percent of vote by party - NA; seats by party - Belaya Rus 51, RPTS 8, CPB 7, LDPB 4, independent 40; composition - men 73, women 37, percentage women 33.6%; note - total National Assembly percentage women 31.5%"
+      "number of seats": {
+        "text": "110 (all directly elected)"
+      },
+      "electoral system": {
+        "text": "plurality/majority"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "5 years"
+      },
+      "most recent election date": {
+        "text": "2/25/2024"
+      },
+      "parties elected and seats per party": {
+        "text": "Belaya Rus party (51); Republican Party of Labour and Justice (8); Communist Party of Belarus (7); Non-partisans (40); Other (4)"
+      },
+      "percentage of women in chamber": {
+        "text": "33.6%"
+      },
+      "expected date of next election": {
+        "text": "February 2029"
+      }
+    },
+    "Legislative branch - upper chamber": {
+      "chamber name": {
+        "text": "Council of the Republic (Soviet Respubliki)"
+      },
+      "number of seats": {
+        "text": "65 (56 indirectly elected; 8 appointed)"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "5 years"
+      },
+      "most recent election date": {
+        "text": "4/4/2024"
+      },
+      "percentage of women in chamber": {
+        "text": "30.5%"
+      },
+      "expected date of next election": {
+        "text": "March 2029"
       }
     },
     "Judicial branch": {
@@ -763,11 +812,11 @@
       "text": "metal-cutting machine tools, tractors, trucks, earthmovers, motorcycles, synthetic fibers, fertilizer, textiles, refrigerators, washing machines and other household appliances"
     },
     "Industrial production growth rate": {
-      "text": "8.12% (2023 est.)",
+      "text": "8.42% (2023 est.)",
       "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
-      "text": "4.956 million (2023 est.)",
+      "text": "4.954 million (2023 est.)",
       "note": "<b>note:</b> number of people ages 15 or older who are employed or seeking work"
     },
     "Unemployment rate": {
@@ -795,7 +844,7 @@
       "note": "<b>note:</b> % of labor force ages 15-24 seeking employment"
     },
     "Population below poverty line": {
-      "text": "4.8% (2020 est.)",
+      "text": "3.9% (2022 est.)",
       "note": "<b>note:</b> % of population with income below national poverty line"
     },
     "Gini Index coefficient - distribution of family income": {
@@ -814,7 +863,7 @@
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
-        "text": "4.4% (2020 est.)"
+        "text": "4.5% (2020 est.)"
       },
       "highest 10%": {
         "text": "20.7% (2020 est.)"
@@ -823,10 +872,10 @@
     },
     "Remittances": {
       "Remittances 2023": {
-        "text": "1.85% of GDP (2023 est.)"
+        "text": "1.75% of GDP (2023 est.)"
       },
       "Remittances 2022": {
-        "text": "1.99% of GDP (2022 est.)"
+        "text": "2.02% of GDP (2022 est.)"
       },
       "Remittances 2021": {
         "text": "1.65% of GDP (2021 est.)"
@@ -849,27 +898,27 @@
       "note": "<b>note:</b> central government debt as a % of GDP"
     },
     "Taxes and other revenues": {
-      "text": "11.23% (of GDP) (2022 est.)",
+      "text": "12.81% (of GDP) (2023 est.)",
       "note": "<b>note:</b> central government tax revenue as a % of GDP"
     },
     "Current account balance": {
       "Current account balance 2023": {
-        "text": "-$1.02 billion (2023 est.)"
+        "text": "-$1.109 billion (2023 est.)"
       },
       "Current account balance 2022": {
-        "text": "$2.539 billion (2022 est.)"
+        "text": "$2.628 billion (2022 est.)"
       },
       "Current account balance 2021": {
-        "text": "$2.157 billion (2021 est.)"
+        "text": "$2.137 billion (2021 est.)"
       },
       "note": "<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars"
     },
     "Exports": {
       "Exports 2023": {
-        "text": "$47.87 billion (2023 est.)"
+        "text": "$47.714 billion (2023 est.)"
       },
       "Exports 2022": {
-        "text": "$46.878 billion (2022 est.)"
+        "text": "$47.124 billion (2022 est.)"
       },
       "Exports 2021": {
         "text": "$49.435 billion (2021 est.)"
@@ -886,13 +935,13 @@
     },
     "Imports": {
       "Imports 2023": {
-        "text": "$47.398 billion (2023 est.)"
+        "text": "$47.464 billion (2023 est.)"
       },
       "Imports 2022": {
-        "text": "$42.289 billion (2022 est.)"
+        "text": "$42.438 billion (2022 est.)"
       },
       "Imports 2021": {
-        "text": "$45.465 billion (2021 est.)"
+        "text": "$45.485 billion (2021 est.)"
       },
       "note": "<b>note:</b> balance of payments - imports of goods and services in current dollars"
     },
@@ -915,6 +964,11 @@
         "text": "$8.425 billion (2021 est.)"
       },
       "note": "<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars"
+    },
+    "Debt - external": {
+      "Debt - external 2023": {
+        "text": "$18.096 billion (2023 est.)"
+      }
     },
     "Exchange rates": {
       "Currency": {

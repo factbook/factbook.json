@@ -564,14 +564,69 @@
       }
     },
     "Legislative branch": {
-      "description": {
-        "text": "bicameral National Diet or Kokkai consists of:<br>House of Councilors or Sangi-in (248 seats; 148 members directly elected in multi-seat districts by simple majority vote and 100 directly elected in a single national constituency by proportional representation vote; members serve 6-year terms with half the membership renewed every 3 years)<br><br>House of Representatives or Shuugi-in (465 seats; 289 members directly elected in single-seat districts by simple majority vote and 176 directly elected in multi-seat districts by party-list proportional representation vote; members serve up to 4-year terms)"
+      "legislature name": {
+        "text": "National Diet (Kokkai)"
       },
-      "elections": {
-        "text": "House of Councillors - last held on 10 July 2022 (next to be held in July 2025)<br>House of Representatives - last held on 27 October 2024 (next to be held by October 2025)"
+      "legislative structure": {
+        "text": "bicameral"
+      }
+    },
+    "Legislative branch - lower chamber": {
+      "chamber name": {
+        "text": "House of Representatives (Shugiin)"
       },
-      "election results": {
-        "text": "House of Councillors - percent of vote by party - NA; seats by party/grouping as of January 2024 - LDP 116, CDP-SDP 40, Komeito 27, JCP 11, Ishin 21, DPP 11, Reiwa 5, OW 2, NHK 2, independent 12; composition - men 182, women 66; percentage women 26.6%<br><br>House of Representatives - percent of vote by party - LDP 26.7%, CDP 21.2%, Ishin 9.4%, DPP 11.3%, Komeito 10.9%, Reiwa 7%, JCP 6.2%, Sanseito Party 3.4%, CPJ 2.1%; seats by party as of October 2024 - LDP 191, CDP 148, Ishin 38, DPP 28, Komeito 24, Reiwa 9, JCP 8, Sanseito Party 3, CPJ 3, SDP 1, Independents 12 ; composition - men 392 men, women 73; percentage women 15.7%"
+      "number of seats": {
+        "text": "465 (all directly elected)"
+      },
+      "electoral system": {
+        "text": "mixed system"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "4 years"
+      },
+      "most recent election date": {
+        "text": "10/27/2024"
+      },
+      "parties elected and seats per party": {
+        "text": "Liberal Democratic Party (LDP) (191); Constitutional Democratic Party of Japan (148); Nippon Ishin (Japan Innovation Party) (38); Democratic Party for the People (28); Komeito (24); Other (36)"
+      },
+      "percentage of women in chamber": {
+        "text": "15.7%"
+      },
+      "expected date of next election": {
+        "text": "October 2028"
+      }
+    },
+    "Legislative branch - upper chamber": {
+      "chamber name": {
+        "text": "House of Councillors (Sangiin)"
+      },
+      "number of seats": {
+        "text": "248 (all directly elected)"
+      },
+      "electoral system": {
+        "text": "mixed system"
+      },
+      "scope of elections": {
+        "text": "partial renewal"
+      },
+      "term in office": {
+        "text": "6 years"
+      },
+      "most recent election date": {
+        "text": "7/10/2022"
+      },
+      "parties elected and seats per party": {
+        "text": "Liberal Democratic Party (LDP) (63); Constitutional Democratic Party of Japan (17); Komeito (13); Nippon Ishin (Japan Innovation Party) (12); Other (20)"
+      },
+      "percentage of women in chamber": {
+        "text": "26.6%"
+      },
+      "expected date of next election": {
+        "text": "July 2025"
       }
     },
     "Judicial branch": {
@@ -670,7 +725,7 @@
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2023": {
-        "text": "$5.761 trillion (2023 est.)"
+        "text": "$5.747 trillion (2023 est.)"
       },
       "Real GDP (purchasing power parity) 2022": {
         "text": "$5.652 trillion (2022 est.)"
@@ -682,7 +737,7 @@
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2023": {
-        "text": "1.92% (2023 est.)"
+        "text": "1.68% (2023 est.)"
       },
       "Real GDP growth rate 2022": {
         "text": "0.95% (2022 est.)"
@@ -694,7 +749,7 @@
     },
     "Real GDP per capita": {
       "Real GDP per capita 2023": {
-        "text": "$46,300 (2023 est.)"
+        "text": "$46,200 (2023 est.)"
       },
       "Real GDP per capita 2022": {
         "text": "$45,200 (2022 est.)"
@@ -705,7 +760,7 @@
       "note": "<b>note:</b> data in 2021 dollars"
     },
     "GDP (official exchange rate)": {
-      "text": "$4.213 trillion (2023 est.)",
+      "text": "$4.204 trillion (2023 est.)",
       "note": "<b>note:</b> data in current dollars at official exchange rate"
     },
     "Inflation rate (consumer prices)": {
@@ -752,16 +807,16 @@
         "text": "21.6% (2022 est.)"
       },
       "investment in fixed capital": {
-        "text": "26% (2022 est.)"
+        "text": "25.8% (2023 est.)"
       },
       "investment in inventories": {
-        "text": "0.6% (2022 est.)"
+        "text": "0.4% (2023 est.)"
       },
       "exports of goods and services": {
-        "text": "21.5% (2022 est.)"
+        "text": "21.8% (2023 est.)"
       },
       "imports of goods and services": {
-        "text": "-25.3% (2022 est.)"
+        "text": "-23.4% (2023 est.)"
       },
       "note": "<b>note:</b> figures may not total 100% due to rounding or gaps in data collection"
     },
@@ -777,7 +832,7 @@
       "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
-      "text": "69.349 million (2023 est.)",
+      "text": "69.208 million (2023 est.)",
       "note": "<b>note:</b> number of people ages 15 or older who are employed or seeking work"
     },
     "Unemployment rate": {
@@ -814,7 +869,7 @@
     },
     "Remittances": {
       "Remittances 2023": {
-        "text": "0.13% of GDP (2023 est.)"
+        "text": "0.11% of GDP (2023 est.)"
       },
       "Remittances 2022": {
         "text": "0.13% of GDP (2022 est.)"

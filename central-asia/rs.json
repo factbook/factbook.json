@@ -616,16 +616,53 @@
       "note": "<strong>note:</strong> there is also a Presidential Administration that provides staff and policy support to the president, drafts presidential decrees, and coordinates policy among government agencies; a Security Council also reports directly to the president"
     },
     "Legislative branch": {
-      "description": {
-        "text": "bicameral Federal Assembly or Federalnoye Sobraniye consists of:<br>Federation Council or Sovet Federatsii (170 seats statutory, 169 as of April 2023; 2 members in each of the 83 federal administrative units (see note below) - oblasts, krays, republics, autonomous okrugs and oblasts, and federal cities of Moscow and Saint Petersburg - appointed by the top executive and legislative officials; members serve 4-year terms)<br>State Duma or Gosudarstvennaya Duma (450 seats (see note below); as of February 2014, the electoral system reverted to a mixed electoral system for the 2016 election, in which one-half of the members are directly elected by simple majority vote and one-half directly elected by proportional representation vote; members serve 5-year terms)"
+      "legislature name": {
+        "text": "Federal Assembly (Federalnoye Sobraniye)"
       },
-      "elections": {
-        "text": "State Duma - last held 17 - 19 September 2021 (next to be held in September 2026)"
-      },
-      "election results": {
-        "text": "Federation Council - composition - men 137, women 32, percentage women 18.9%<br> <p>State Duma - percent vote by party - United Russia 50.9%, CPRF 19.3%, LDPR 7.7%, A Just Russia 7.6%, New People 5.3% other minor parties and independents 9.2%; seats by party - United Russia 324, CPRF 57, LDPR 21, A Just Russia 27, New People 13; Rodina 1, CP 1, Party of Growth 1, independent 5; composition - men 376, women 74, percentage women 16.4%; total Federal Assembly percentage women 17.1%</p>"
+      "legislative structure": {
+        "text": "bicameral"
       },
       "note": "<strong>note 1:</strong> the State Duma now includes 3 representatives from the \"Republic of Crimea,\" while the Federation Council includes 2 each from the \"Republic of Crimea\" and the \"Federal City of Sevastopol,\" both regions that Russia occupied and attempted to annex from Ukraine and that the US does not recognize as part of Russia"
+    },
+    "Legislative branch - lower chamber": {
+      "chamber name": {
+        "text": "State Duma (Gossoudarstvennaya Duma)"
+      },
+      "number of seats": {
+        "text": "450 (all directly elected)"
+      },
+      "electoral system": {
+        "text": "mixed system"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "5 years"
+      },
+      "most recent election date": {
+        "text": "9/19/2021"
+      },
+      "parties elected and seats per party": {
+        "text": "United Russia (326); Communist Party (KPRF) (57); A Just Russia (28); Liberal Democratic Party of Russia (LDPR) (23); Other (16)"
+      },
+      "percentage of women in chamber": {
+        "text": "16.4%"
+      },
+      "expected date of next election": {
+        "text": "September 2026"
+      }
+    },
+    "Legislative branch - upper chamber": {
+      "chamber name": {
+        "text": "Council of the Federation (Soviet Federatsii)"
+      },
+      "number of seats": {
+        "text": "170 (all appointed)"
+      },
+      "percentage of women in chamber": {
+        "text": "18.9%"
+      }
     },
     "Judicial branch": {
       "highest court(s)": {
@@ -825,7 +862,7 @@
       "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
-      "text": "72.408 million (2023 est.)",
+      "text": "72.459 million (2023 est.)",
       "note": "<b>note:</b> number of people ages 15 or older who are employed or seeking work"
     },
     "Unemployment rate": {
@@ -857,8 +894,8 @@
       "note": "<b>note:</b> % of population with income below national poverty line"
     },
     "Gini Index coefficient - distribution of family income": {
-      "Gini Index coefficient - distribution of family income 2020": {
-        "text": "36 (2020 est.)"
+      "Gini Index coefficient - distribution of family income 2021": {
+        "text": "35.1 (2021 est.)"
       },
       "note": "<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality"
     },
@@ -872,19 +909,19 @@
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
-        "text": "3.1% (2020 est.)"
+        "text": "2.7% (2021 est.)"
       },
       "highest 10%": {
-        "text": "29% (2020 est.)"
+        "text": "26.6% (2021 est.)"
       },
       "note": "<b>note:</b> % share of income accruing to lowest and highest 10% of population"
     },
     "Remittances": {
       "Remittances 2023": {
-        "text": "0.34% of GDP (2023 est.)"
+        "text": "0.13% of GDP (2023 est.)"
       },
       "Remittances 2022": {
-        "text": "0.15% of GDP (2022 est.)"
+        "text": "0.14% of GDP (2022 est.)"
       },
       "Remittances 2021": {
         "text": "0.52% of GDP (2021 est.)"
@@ -912,10 +949,10 @@
     },
     "Current account balance": {
       "Current account balance 2023": {
-        "text": "$50.224 billion (2023 est.)"
+        "text": "$50.133 billion (2023 est.)"
       },
       "Current account balance 2022": {
-        "text": "$237.678 billion (2022 est.)"
+        "text": "$237.735 billion (2022 est.)"
       },
       "Current account balance 2021": {
         "text": "$124.953 billion (2021 est.)"
@@ -924,10 +961,10 @@
     },
     "Exports": {
       "Exports 2023": {
-        "text": "$465.432 billion (2023 est.)"
+        "text": "$465.66 billion (2023 est.)"
       },
       "Exports 2022": {
-        "text": "$640.709 billion (2022 est.)"
+        "text": "$640.878 billion (2022 est.)"
       },
       "Exports 2021": {
         "text": "$549.717 billion (2021 est.)"
@@ -944,7 +981,7 @@
     },
     "Imports": {
       "Imports 2023": {
-        "text": "$378.615 billion (2023 est.)"
+        "text": "$379.315 billion (2023 est.)"
       },
       "Imports 2022": {
         "text": "$347.384 billion (2022 est.)"

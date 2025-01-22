@@ -555,14 +555,38 @@
       }
     },
     "Legislative branch": {
-      "description": {
-        "text": "unicameral Parliament consists of the National Assembly (65 seats; 58 members directly elected in single-seat constituencies by simple majority vote, 5 nominated by the president and indirectly elected by simple majority vote by the rest of the National Assembly, and 2 ex-officio members - the president and vice president of Botswana; elected members serve 5-year terms)"
+      "legislature name": {
+        "text": "Parliament"
       },
-      "elections": {
-        "text": "last held on 23 October 2019 (next to be held by October 2024)"
+      "legislative structure": {
+        "text": "unicameral"
       },
-      "election results": {
-        "text": "percent of vote by party - BDP 52.7%, UDC 35.9%, BPF 4.4%, AP 5.1%, other 1.7%; seats by party - BDP 38, UDC 15, BPF 3, AP 1; composition- men 56, women 7, percentage women 11.1%"
+      "chamber name": {
+        "text": "National Assembly"
+      },
+      "number of seats": {
+        "text": "69 (61 directly elected; 6 indirectly elected)"
+      },
+      "electoral system": {
+        "text": "plurality/majority"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "5 years"
+      },
+      "most recent election date": {
+        "text": "10/30/2024"
+      },
+      "parties elected and seats per party": {
+        "text": "Umbrella for Democratic Change (UDC) (36); Botswana Congress Party (BCP) (15); Botswana Patriotic Front (BPF) (5); Botswana Democratic Party (BDP) (4); Other (1)"
+      },
+      "percentage of women in chamber": {
+        "text": "8.7%"
+      },
+      "expected date of next election": {
+        "text": "October 2029"
       },
       "note": "<strong>note:</strong> the House of Chiefs (Ntlo ya Dikgosi), an advisory body to the National Assembly, consists of 35 members -- 8 hereditary chiefs from Botswana's principal tribes, 22 indirectly elected by the chiefs, and 5 appointed by the president; the House of Chiefs consults on issues including powers of chiefs, customary courts, customary law, tribal property, and constitutional amendments"
     },
@@ -650,7 +674,7 @@
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2023": {
-        "text": "$46.742 billion (2023 est.)"
+        "text": "$46.743 billion (2023 est.)"
       },
       "Real GDP (purchasing power parity) 2022": {
         "text": "$45.499 billion (2022 est.)"
@@ -674,13 +698,13 @@
     },
     "Real GDP per capita": {
       "Real GDP per capita 2023": {
-        "text": "$17,500 (2023 est.)"
+        "text": "$18,800 (2023 est.)"
       },
       "Real GDP per capita 2022": {
-        "text": "$17,300 (2022 est.)"
+        "text": "$18,600 (2022 est.)"
       },
       "Real GDP per capita 2021": {
-        "text": "$16,700 (2021 est.)"
+        "text": "$18,000 (2021 est.)"
       },
       "note": "<b>note:</b> data in 2021 dollars"
     },
@@ -735,10 +759,10 @@
         "text": "4.7% (2023 est.)"
       },
       "exports of goods and services": {
-        "text": "31.7% (2023 est.)"
+        "text": "32.3% (2023 est.)"
       },
       "imports of goods and services": {
-        "text": "-35.7% (2023 est.)"
+        "text": "-36.6% (2023 est.)"
       },
       "note": "<b>note:</b> figures may not total 100% due to rounding or gaps in data collection"
     },
@@ -750,11 +774,11 @@
       "text": "diamonds, copper, nickel, salt, soda ash, potash, coal, iron ore, silver; beef processing; textiles"
     },
     "Industrial production growth rate": {
-      "text": "2.25% (2023 est.)",
+      "text": "2.26% (2023 est.)",
       "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
-      "text": "1.17 million (2023 est.)",
+      "text": "1.084 million (2023 est.)",
       "note": "<b>note:</b> number of people ages 15 or older who are employed or seeking work"
     },
     "Unemployment rate": {
@@ -802,10 +826,10 @@
     },
     "Remittances": {
       "Remittances 2023": {
-        "text": "0.31% of GDP (2023 est.)"
+        "text": "0.36% of GDP (2023 est.)"
       },
       "Remittances 2022": {
-        "text": "0.34% of GDP (2022 est.)"
+        "text": "0.31% of GDP (2022 est.)"
       },
       "Remittances 2021": {
         "text": "0.32% of GDP (2021 est.)"
@@ -832,26 +856,26 @@
       "note": "<b>note:</b> central government tax revenue as a % of GDP"
     },
     "Current account balance": {
+      "Current account balance 2023": {
+        "text": "-$116.727 million (2023 est.)"
+      },
       "Current account balance 2022": {
-        "text": "$606.394 million (2022 est.)"
+        "text": "-$232.122 million (2022 est.)"
       },
       "Current account balance 2021": {
-        "text": "-$250.118 million (2021 est.)"
-      },
-      "Current account balance 2020": {
-        "text": "-$1.531 billion (2020 est.)"
+        "text": "-$314.583 million (2021 est.)"
       },
       "note": "<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars"
     },
     "Exports": {
+      "Exports 2023": {
+        "text": "$6.398 billion (2023 est.)"
+      },
       "Exports 2022": {
-        "text": "$8.9 billion (2022 est.)"
+        "text": "$8.914 billion (2022 est.)"
       },
       "Exports 2021": {
-        "text": "$7.928 billion (2021 est.)"
-      },
-      "Exports 2020": {
-        "text": "$4.703 billion (2020 est.)"
+        "text": "$7.861 billion (2021 est.)"
       },
       "note": "<b>note:</b> balance of payments - exports of goods and services in current dollars"
     },
@@ -864,14 +888,14 @@
       "note": "<b>note:</b> top five export commodities based on value in dollars"
     },
     "Imports": {
+      "Imports 2023": {
+        "text": "$7.228 billion (2023 est.)"
+      },
       "Imports 2022": {
-        "text": "$8.7 billion (2022 est.)"
+        "text": "$8.826 billion (2022 est.)"
       },
       "Imports 2021": {
-        "text": "$9.252 billion (2021 est.)"
-      },
-      "Imports 2020": {
-        "text": "$7.554 billion (2020 est.)"
+        "text": "$9.25 billion (2021 est.)"
       },
       "note": "<b>note:</b> balance of payments - imports of goods and services in current dollars"
     },
@@ -896,8 +920,8 @@
       "note": "<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars"
     },
     "Debt - external": {
-      "Debt - external 2022": {
-        "text": "$1.507 billion (2022 est.)"
+      "Debt - external 2023": {
+        "text": "$1.772 billion (2023 est.)"
       },
       "note": "<b>note:</b> present value of external debt in current US dollars"
     },

@@ -424,14 +424,32 @@
       }
     },
     "Legislative branch": {
-      "description": {
-        "text": "unicameral Parliament (21 seats; 19 members directly elected by majority vote and 2 ex-officio members - the deputy governor and attorney general - appointed by the governor; members serve 4-year terms)"
+      "legislature name": {
+        "text": "Parliament"
       },
-      "elections": {
-        "text": "last held on 14 April 2021 (next to be held in 2025)"
+      "legislative structure": {
+        "text": "unicameral"
       },
-      "election results": {
-        "text": "percent of vote by party - independent 79.1%, PPM 19.6%; elected seats by party - independent 12, PPM 7; ex-officio members 2; composition - men 16, women 5, percentage women 23.8%"
+      "number of seats": {
+        "text": "21 (directly elected and appointed)"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "4 years"
+      },
+      "most recent election date": {
+        "text": "4/14/2021"
+      },
+      "parties elected and seats per party": {
+        "text": "independent (12); PPM (7)"
+      },
+      "percentage of women in chamber": {
+        "text": "23.8%"
+      },
+      "expected date of next election": {
+        "text": "2025"
       }
     },
     "Judicial branch": {
@@ -480,43 +498,43 @@
       "text": "dominant offshore banking territory; services sector accounts for over 85% of economic activity; recently adopted a fiscal responsibility framework to combat tax evasion and money laundering; large tourism sector; does not have any welfare system; high standard of living"
     },
     "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2023": {
+        "text": "$5.705 billion (2023 est.)"
+      },
       "Real GDP (purchasing power parity) 2022": {
         "text": "$5.467 billion (2022 est.)"
       },
       "Real GDP (purchasing power parity) 2021": {
         "text": "$5.199 billion (2021 est.)"
       },
-      "Real GDP (purchasing power parity) 2020": {
-        "text": "$4.956 billion (2020 est.)"
-      },
       "note": "<b>note:</b> data in 2021 dollars"
     },
     "Real GDP growth rate": {
+      "Real GDP growth rate 2023": {
+        "text": "4.36% (2023 est.)"
+      },
       "Real GDP growth rate 2022": {
         "text": "5.16% (2022 est.)"
       },
       "Real GDP growth rate 2021": {
         "text": "4.9% (2021 est.)"
       },
-      "Real GDP growth rate 2020": {
-        "text": "-4.95% (2020 est.)"
-      },
       "note": "<b>note:</b> annual GDP % growth based on constant local currency"
     },
     "Real GDP per capita": {
+      "Real GDP per capita 2023": {
+        "text": "$78,100 (2023 est.)"
+      },
       "Real GDP per capita 2022": {
-        "text": "$79,600 (2022 est.)"
+        "text": "$76,400 (2022 est.)"
       },
       "Real GDP per capita 2021": {
-        "text": "$76,300 (2021 est.)"
-      },
-      "Real GDP per capita 2020": {
-        "text": "$73,600 (2020 est.)"
+        "text": "$74,200 (2021 est.)"
       },
       "note": "<b>note:</b> data in 2021 dollars"
     },
     "GDP (official exchange rate)": {
-      "text": "$6.601 billion (2022 est.)",
+      "text": "$7.139 billion (2023 est.)",
       "note": "<b>note:</b> data in current dollars at official exchange rate"
     },
     "Inflation rate (consumer prices)": {
@@ -592,14 +610,14 @@
       }
     },
     "Remittances": {
+      "Remittances 2023": {
+        "text": "0.14% of GDP (2023 est.)"
+      },
       "Remittances 2022": {
-        "text": "0.15% of GDP (2022 est.)"
+        "text": "0.19% of GDP (2022 est.)"
       },
       "Remittances 2021": {
         "text": "0.17% of GDP (2021 est.)"
-      },
-      "Remittances 2020": {
-        "text": "0.16% of GDP (2020 est.)"
       },
       "note": "<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities"
     },
@@ -615,26 +633,26 @@
       "text": "38.9% (of GDP) (2017 est.)"
     },
     "Current account balance": {
+      "Current account balance 2022": {
+        "text": "-$647.271 million (2022 est.)"
+      },
       "Current account balance 2021": {
-        "text": "-$821.404 million (2021 est.)"
+        "text": "-$794.205 million (2021 est.)"
       },
       "Current account balance 2020": {
         "text": "-$827.492 million (2020 est.)"
       },
-      "Current account balance 2019": {
-        "text": "-$646.843 million (2019 est.)"
-      },
       "note": "<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars"
     },
     "Exports": {
+      "Exports 2022": {
+        "text": "$5.019 billion (2022 est.)"
+      },
       "Exports 2021": {
-        "text": "$4.054 billion (2021 est.)"
+        "text": "$4.138 billion (2021 est.)"
       },
       "Exports 2020": {
         "text": "$3.951 billion (2020 est.)"
-      },
-      "Exports 2019": {
-        "text": "$4.205 billion (2019 est.)"
       },
       "note": "<b>note:</b> balance of payments - exports of goods and services in current dollars"
     },
@@ -647,14 +665,14 @@
       "note": "<b>note:</b> top five export commodities based on value in dollars"
     },
     "Imports": {
+      "Imports 2022": {
+        "text": "$3.3 billion (2022 est.)"
+      },
       "Imports 2021": {
-        "text": "$2.743 billion (2021 est.)"
+        "text": "$2.808 billion (2021 est.)"
       },
       "Imports 2020": {
         "text": "$2.51 billion (2020 est.)"
-      },
-      "Imports 2019": {
-        "text": "$2.743 billion (2019 est.)"
       },
       "note": "<b>note:</b> balance of payments - imports of goods and services in current dollars"
     },
@@ -667,20 +685,26 @@
       "note": "<b>note:</b> top five import commodities based on value in dollars"
     },
     "Reserves of foreign exchange and gold": {
-      "Reserves of foreign exchange and gold 2020": {
-        "text": "$216.8 million (2020 est.)"
+      "Reserves of foreign exchange and gold 2023": {
+        "text": "$234 million (2023 est.)"
       },
-      "Reserves of foreign exchange and gold 2019": {
-        "text": "$183.5 million (2019 est.)"
+      "Reserves of foreign exchange and gold 2022": {
+        "text": "$225.4 million (2022 est.)"
       },
-      "Reserves of foreign exchange and gold 2018": {
-        "text": "$162.074 million (2018 est.)"
+      "Reserves of foreign exchange and gold 2021": {
+        "text": "$228.3 million (2021 est.)"
       },
       "note": "<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars"
     },
     "Exchange rates": {
       "Currency": {
         "text": "Caymanian dollars (KYD) per US dollar -"
+      },
+      "Exchange rates 2023": {
+        "text": "0.833 (2023 est.)"
+      },
+      "Exchange rates 2022": {
+        "text": "0.833 (2022 est.)"
       },
       "Exchange rates 2021": {
         "text": "0.833 (2021 est.)"
@@ -690,12 +714,6 @@
       },
       "Exchange rates 2019": {
         "text": "0.833 (2019 est.)"
-      },
-      "Exchange rates 2018": {
-        "text": "0.833 (2018 est.)"
-      },
-      "Exchange rates 2017": {
-        "text": "0.833 (2017 est.)"
       }
     }
   },

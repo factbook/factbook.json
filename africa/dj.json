@@ -548,14 +548,35 @@
       }
     },
     "Legislative branch": {
-      "description": {
-        "text": "unicameral National Assembly or Assembl&eacute;e Nationale, formerly the Chamber of Deputies (65 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote using the D'Hondt method; members serve 5-year terms)"
+      "legislature name": {
+        "text": "National Assembly (Assemblée nationale)"
       },
-      "elections": {
-        "text": "last held on 24 February 2023 (next to be held in February 2028)"
+      "legislative structure": {
+        "text": "unicameral"
       },
-      "election results": {
-        "text": "percent of vote by party - UMP 93.6%, UDJ 6.3%; seats by party - UMP 58, UDJ 7; composition - men 48, women 17, percentage women 26.2%"
+      "number of seats": {
+        "text": "65 (all directly elected)"
+      },
+      "electoral system": {
+        "text": "mixed system"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "5 years"
+      },
+      "most recent election date": {
+        "text": "2/24/2023"
+      },
+      "parties elected and seats per party": {
+        "text": "Union for the Presidential Majority (UMP) (58); Union for Democracy and Justice (UDJ) (7)"
+      },
+      "percentage of women in chamber": {
+        "text": "26.2%"
+      },
+      "expected date of next election": {
+        "text": "February 2028"
       },
       "note": "<strong>note:</strong> most opposition parties boycotted the 2023 polls, stating the elections were \"not free, not transparent, and not democratic\""
     },
@@ -595,7 +616,7 @@
     },
     "Diplomatic representation from the US": {
       "chief of mission": {
-        "text": "Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Christopher SNIPES (since October 2023)"
+        "text": "Ambassador Cynthia KIERSCHT (since 17 October 2024)"
       },
       "embassy": {
         "text": "Lot 350-B Haramouss, B.P. 185"
@@ -659,13 +680,13 @@
     },
     "Real GDP per capita": {
       "Real GDP per capita 2023": {
-        "text": "$6,500 (2023 est.)"
+        "text": "$6,400 (2023 est.)"
       },
       "Real GDP per capita 2022": {
-        "text": "$6,200 (2022 est.)"
+        "text": "$6,100 (2022 est.)"
       },
       "Real GDP per capita 2021": {
-        "text": "$6,000 (2021 est.)"
+        "text": "$5,900 (2021 est.)"
       },
       "note": "<b>note:</b> data in 2021 dollars"
     },
@@ -707,6 +728,9 @@
       "investment in fixed capital": {
         "text": "29.4% (2023 est.)"
       },
+      "investment in inventories": {
+        "text": "0% (2023 est.)"
+      },
       "exports of goods and services": {
         "text": "169.1% (2023 est.)"
       },
@@ -727,7 +751,7 @@
       "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
-      "text": "256,000 (2023 est.)",
+      "text": "261,000 (2023 est.)",
       "note": "<b>note:</b> number of people ages 15 or older who are employed or seeking work"
     },
     "Unemployment rate": {
@@ -775,7 +799,7 @@
     },
     "Remittances": {
       "Remittances 2023": {
-        "text": "1.41% of GDP (2023 est.)"
+        "text": "1.43% of GDP (2023 est.)"
       },
       "Remittances 2022": {
         "text": "1.54% of GDP (2022 est.)"
@@ -802,26 +826,26 @@
       "text": "35.3% (of GDP) (2017 est.)"
     },
     "Current account balance": {
+      "Current account balance 2023": {
+        "text": "$718.559 million (2023 est.)"
+      },
       "Current account balance 2022": {
         "text": "$656.207 million (2022 est.)"
       },
       "Current account balance 2021": {
         "text": "-$225.106 million (2021 est.)"
       },
-      "Current account balance 2020": {
-        "text": "$366.358 million (2020 est.)"
-      },
       "note": "<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars"
     },
     "Exports": {
+      "Exports 2023": {
+        "text": "$5.877 billion (2023 est.)"
+      },
       "Exports 2022": {
         "text": "$5.674 billion (2022 est.)"
       },
       "Exports 2021": {
         "text": "$5.16 billion (2021 est.)"
-      },
-      "Exports 2020": {
-        "text": "$3.695 billion (2020 est.)"
       },
       "note": "<b>note:</b> balance of payments - exports of goods and services in current dollars"
     },
@@ -834,14 +858,14 @@
       "note": "<b>note:</b> top five export commodities based on value in dollars"
     },
     "Imports": {
+      "Imports 2023": {
+        "text": "$5.269 billion (2023 est.)"
+      },
       "Imports 2022": {
         "text": "$5.096 billion (2022 est.)"
       },
       "Imports 2021": {
         "text": "$5.483 billion (2021 est.)"
-      },
-      "Imports 2020": {
-        "text": "$3.425 billion (2020 est.)"
       },
       "note": "<b>note:</b> balance of payments - imports of goods and services in current dollars"
     },
@@ -866,8 +890,8 @@
       "note": "<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars"
     },
     "Debt - external": {
-      "Debt - external 2022": {
-        "text": "$2.331 billion (2022 est.)"
+      "Debt - external 2023": {
+        "text": "$2.672 billion (2023 est.)"
       },
       "note": "<b>note:</b> present value of external debt in current US dollars"
     },

@@ -597,14 +597,69 @@
       "note": "<strong>note </strong>- the president is both chief of state and head of government"
     },
     "Legislative branch": {
-      "description": {
-        "text": "bicameral National Congress or Congresso Nacional consists of:<br>Federal Senate or Senado Federal (81 seats; 3 members each from 26 states and 3 from the federal district directly elected in multi-seat constituencies by simple majority vote to serve 8-year terms, with one-third and two-thirds of the membership elected alternately every 4 years)<br><br>Chamber of Deputies or Camara dos Deputados (513 seats; members directly elected in multi-seat constituencies by open party-list proportional representation vote to serve 4-year terms)"
+      "legislature name": {
+        "text": "National Congress (Congresso nacional)"
       },
-      "elections": {
-        "text": "Federal Senate - last held on 2 October 2022 for one-third of the Senate (next to be held on 4 October 2026 for two-thirds of the seats)<br>Chamber of Deputies - last held on 2 October 2022 (next to be held on 4 October 2026)"
+      "legislative structure": {
+        "text": "bicameral"
+      }
+    },
+    "Legislative branch - lower chamber": {
+      "chamber name": {
+        "text": "Chamber of Deputies (Cámara dos Deputados)"
       },
-      "election results": {
-        "text": "Federal Senate - percent of vote by party - PL 25.4%, PSB 13.7%, PT 12.1%, PSD 11.4%, Progressistas 7.6%, Brazil Union 5.5%, PSC 4.3%, Republicans 4.3%, MDB 3.9%, other 11.8%; seats by party - PL 8, Brazil Union 5, PT 4, PP 3, Republicans 2, PSD 2, MDB 1, PSB 1, PSC 1<br>note - composition of the Federal Senate as of March 2024 - seats by party - PL 13, Brazil Union 12, MDB 10, PSD 10, PT 9, Progressistas 7, Podemos 6, PSDB 4, Republicans 3, PDT 2, Cidadania 1, PSB 1, PSC 1, PROS 1, REDE 1; composition - men 67, women 14, percentage women 17.3%  <br><br>Chamber of Deputies - percent of vote by party - PL 16.6%, PT 12.1%, Brazil Union 9.3%, PP 8%, PSD 7.6%, MDB 7.2%, Republicans 7%, PSB 3.8%, PDT 3.5%, PSOL 3.5%, Podemos 3.3%, PSDB 3%, Avante 2%, PSC 1.8%, SD 1.6%, Cidadania 1.5%, Patriota 1.4%, PTB 1.3%, NOVO 1.2%, PCdoB 1.1%, PV 0.9%, PROS 0.7%, REDE 0.7%, other 0.9%; seats by party - PL 99, PT 69, Brazil Union 59, PP 47, MDB 42, PSD 42, Republicans 40, PDT 17, PSB 14, PSDB 13, Podemos 12, PSOL 12, Avante 7, PCdoB 6, PSC 6, PV 6, Cidadania 5, Patriota 4, SD 4, NOVO 3, PROS 3, REDE 2, PTB 1; composition - men 423, women 90, percentage women 17.5%; total National Congress percentage women 17.5%"
+      "number of seats": {
+        "text": "513 (all directly elected)"
+      },
+      "electoral system": {
+        "text": "proportional representation"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "4 years"
+      },
+      "most recent election date": {
+        "text": "10/2/2022"
+      },
+      "parties elected and seats per party": {
+        "text": "Liberal Party (PL) (99); Workers' Party (PT) (69); Brazil Union (União) (59); Progressive Party (PP) (47); Brazilian Democratic Movement (MDB) (42); Social Democratic Party (PSD) (42); Republicans (Republicanos) (40); Other (115)"
+      },
+      "percentage of women in chamber": {
+        "text": "17.5%"
+      },
+      "expected date of next election": {
+        "text": "October 2026"
+      }
+    },
+    "Legislative branch - upper chamber": {
+      "chamber name": {
+        "text": "Federal Senate (Senado Federal)"
+      },
+      "number of seats": {
+        "text": "81 (all directly elected)"
+      },
+      "electoral system": {
+        "text": "plurality/majority"
+      },
+      "scope of elections": {
+        "text": "partial renewal"
+      },
+      "term in office": {
+        "text": "8 years"
+      },
+      "most recent election date": {
+        "text": "10/2/2022"
+      },
+      "parties elected and seats per party": {
+        "text": "Liberal Party (PL) (8); Brazil Union (União) (5); Workers' Party (PT) (4); Progressive Party (PP) (3); Social Democratic Party (PSD) (2); Republicans (Republicanos) (2); Other (3)"
+      },
+      "percentage of women in chamber": {
+        "text": "17.3%"
+      },
+      "expected date of next election": {
+        "text": "October 2026"
       }
     },
     "Judicial branch": {
@@ -725,13 +780,13 @@
     },
     "Real GDP per capita": {
       "Real GDP per capita 2023": {
-        "text": "$18,600 (2023 est.)"
+        "text": "$19,000 (2023 est.)"
       },
       "Real GDP per capita 2022": {
-        "text": "$18,100 (2022 est.)"
+        "text": "$18,600 (2022 est.)"
       },
       "Real GDP per capita 2021": {
-        "text": "$17,700 (2021 est.)"
+        "text": "$18,100 (2021 est.)"
       },
       "note": "<b>note:</b> data in 2021 dollars"
     },
@@ -808,7 +863,7 @@
       "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
-      "text": "108.695 million (2023 est.)",
+      "text": "106.132 million (2023 est.)",
       "note": "<b>note:</b> number of people ages 15 or older who are employed or seeking work"
     },
     "Unemployment rate": {
@@ -884,36 +939,36 @@
       "note": "<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated"
     },
     "Public debt": {
-      "Public debt 2022": {
-        "text": "79.1% of GDP (2022 est.)"
+      "Public debt 2023": {
+        "text": "83.7% of GDP (2023 est.)"
       },
       "note": "<b>note:</b> central government debt as a % of GDP"
     },
     "Taxes and other revenues": {
-      "text": "14.73% (of GDP) (2022 est.)",
+      "text": "14.15% (of GDP) (2023 est.)",
       "note": "<b>note:</b> central government tax revenue as a % of GDP"
     },
     "Current account balance": {
       "Current account balance 2023": {
-        "text": "-$30.828 billion (2023 est.)"
+        "text": "-$21.745 billion (2023 est.)"
       },
       "Current account balance 2022": {
-        "text": "-$48.253 billion (2022 est.)"
+        "text": "-$40.884 billion (2022 est.)"
       },
       "Current account balance 2021": {
-        "text": "-$46.358 billion (2021 est.)"
+        "text": "-$40.409 billion (2021 est.)"
       },
       "note": "<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars"
     },
     "Exports": {
       "Exports 2023": {
-        "text": "$389.626 billion (2023 est.)"
+        "text": "$389.215 billion (2023 est.)"
       },
       "Exports 2022": {
-        "text": "$380.619 billion (2022 est.)"
+        "text": "$380.492 billion (2022 est.)"
       },
       "Exports 2021": {
-        "text": "$315.494 billion (2021 est.)"
+        "text": "$315.446 billion (2021 est.)"
       },
       "note": "<b>note:</b> balance of payments - exports of goods and services in current dollars"
     },
@@ -927,13 +982,13 @@
     },
     "Imports": {
       "Imports 2023": {
-        "text": "$346.639 billion (2023 est.)"
+        "text": "$337.04 billion (2023 est.)"
       },
       "Imports 2022": {
-        "text": "$376.084 billion (2022 est.)"
+        "text": "$368.588 billion (2022 est.)"
       },
       "Imports 2021": {
-        "text": "$306.087 billion (2021 est.)"
+        "text": "$300.091 billion (2021 est.)"
       },
       "note": "<b>note:</b> balance of payments - imports of goods and services in current dollars"
     },
@@ -958,8 +1013,8 @@
       "note": "<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars"
     },
     "Debt - external": {
-      "Debt - external 2022": {
-        "text": "$164.448 billion (2022 est.)"
+      "Debt - external 2023": {
+        "text": "$204.737 billion (2023 est.)"
       },
       "note": "<b>note:</b> present value of external debt in current US dollars"
     },

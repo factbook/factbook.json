@@ -459,14 +459,60 @@
       }
     },
     "Legislative branch": {
-      "description": {
-        "text": "bicameral Parliament consists of:<br>Senate (11 seats; 3 members appointed by the governor, 5 by the premier, and 3 by the opposition party; members serve 5-year terms) <br>House of Assembly (36 seats; members directly elected in single-seat constituencies by simple majority vote to serve up to 5-year terms)"
+      "legislature name": {
+        "text": "Parliament"
       },
-      "elections": {
-        "text": "Senate - last appointments in 2022 (next appointments in 2027)<br>House of Assembly - last held on 1 October 2020 (next to be held by 2025)"
+      "legislative structure": {
+        "text": "bicameral"
+      }
+    },
+    "Legislative branch - lower chamber": {
+      "chamber name": {
+        "text": "House of Assembly"
       },
-      "election results": {
-        "text": "Senate - composition- men 5, women 6, percentage women 63.6%<br><br>House of Assembly - percent of vote by party - PLP 62.1%, OBA 32.3%, other 5.4%, independent 0.2%; seats by party - PLP 30, OBA 6; composition - men 28, women 7, percentage women 20%; total Parliament percentage women 28.3%"
+      "number of seats": {
+        "text": "36 (directly elected)"
+      },
+      "electoral system": {
+        "text": "plurality/majority"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "5 years"
+      },
+      "most recent election date": {
+        "text": "10/1/2020"
+      },
+      "parties elected and seats per party": {
+        "text": "PLP (30); OBA (6)"
+      },
+      "percentage of women in chamber": {
+        "text": "20%"
+      },
+      "expected date of next election": {
+        "text": "2025"
+      }
+    },
+    "Legislative branch - upper chamber": {
+      "chamber name": {
+        "text": "Senate"
+      },
+      "number of seats": {
+        "text": "11 (appointed)"
+      },
+      "term in office": {
+        "text": "5 years"
+      },
+      "most recent election date": {
+        "text": "2022"
+      },
+      "percentage of women in chamber": {
+        "text": "63.6%"
+      },
+      "expected date of next election": {
+        "text": "2027"
       }
     },
     "Judicial branch": {
@@ -491,7 +537,7 @@
     },
     "Diplomatic representation from the US": {
       "chief of mission": {
-        "text": "Acting Consul General James SALLAY (since 20 August 2022)"
+        "text": "Acting Consul General Vanja VUKOTA (since December 2024)"
       },
       "embassy": {
         "text": "US Consulate Bermuda, 16 Middle Road, Devonshire, DV 03, Bermuda"
@@ -542,43 +588,43 @@
       "text": "small, tourism- and construction-based, territorial-island economy; American import and tourist destination; known offshore banking hub; increasing inflation; major re-exportation and re-importation area"
     },
     "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2023": {
+        "text": "$6.343 billion (2023 est.)"
+      },
       "Real GDP (purchasing power parity) 2022": {
         "text": "$6.349 billion (2022 est.)"
       },
       "Real GDP (purchasing power parity) 2021": {
         "text": "$5.965 billion (2021 est.)"
       },
-      "Real GDP (purchasing power parity) 2020": {
-        "text": "$5.659 billion (2020 est.)"
-      },
       "note": "<b>note:</b> data in 2021 dollars"
     },
     "Real GDP growth rate": {
+      "Real GDP growth rate 2023": {
+        "text": "-0.09% (2023 est.)"
+      },
       "Real GDP growth rate 2022": {
         "text": "6.43% (2022 est.)"
       },
       "Real GDP growth rate 2021": {
         "text": "5.42% (2021 est.)"
       },
-      "Real GDP growth rate 2020": {
-        "text": "-6.84% (2020 est.)"
-      },
       "note": "<b>note:</b> annual GDP % growth based on constant local currency"
     },
     "Real GDP per capita": {
+      "Real GDP per capita 2023": {
+        "text": "$98,000 (2023 est.)"
+      },
       "Real GDP per capita 2022": {
-        "text": "$99,800 (2022 est.)"
+        "text": "$98,100 (2022 est.)"
       },
       "Real GDP per capita 2021": {
-        "text": "$93,600 (2021 est.)"
-      },
-      "Real GDP per capita 2020": {
-        "text": "$88,600 (2020 est.)"
+        "text": "$92,300 (2021 est.)"
       },
       "note": "<b>note:</b> data in 2021 dollars"
     },
     "GDP (official exchange rate)": {
-      "text": "$7.828 billion (2022 est.)",
+      "text": "$8.142 billion (2023 est.)",
       "note": "<b>note:</b> data in current dollars at official exchange rate"
     },
     "Inflation rate (consumer prices)": {
@@ -615,19 +661,22 @@
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "47.2% (2022 est.)"
+        "text": "47.9% (2023 est.)"
       },
       "government consumption": {
-        "text": "11.9% (2022 est.)"
+        "text": "12% (2023 est.)"
       },
       "investment in fixed capital": {
-        "text": "12.1% (2022 est.)"
+        "text": "11.8% (2023 est.)"
+      },
+      "investment in inventories": {
+        "text": "0% (2023 est.)"
       },
       "exports of goods and services": {
-        "text": "50.5% (2022 est.)"
+        "text": "52.9% (2023 est.)"
       },
       "imports of goods and services": {
-        "text": "-25% (2022 est.)"
+        "text": "-24.6% (2023 est.)"
       },
       "note": "<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection"
     },
@@ -664,14 +713,14 @@
       }
     },
     "Remittances": {
+      "Remittances 2023": {
+        "text": "21.49% of GDP (2023 est.)"
+      },
       "Remittances 2022": {
-        "text": "22.99% of GDP (2022 est.)"
+        "text": "22.36% of GDP (2022 est.)"
       },
       "Remittances 2021": {
         "text": "22.72% of GDP (2021 est.)"
-      },
-      "Remittances 2020": {
-        "text": "22.86% of GDP (2020 est.)"
       },
       "note": "<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities"
     },

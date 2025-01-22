@@ -434,14 +434,35 @@
       }
     },
     "Legislative branch": {
-      "description": {
-        "text": "unicameral Assembly or Kuvendi i Kosoves/Skupstina Kosova (120 seats; 100 members directly elected by open-list proportional representation vote with 20 seats reserved for ethnic minorities; members serve 4-year terms)"
+      "legislature name": {
+        "text": "Assembly (Kuvendi i Kosoves/Skupstina Kosova)"
       },
-      "elections": {
-        "text": "last held on 14 February 2021 (next to be held in 2025)"
+      "legislative structure": {
+        "text": "unicameral"
       },
-      "election results": {
-        "text": "percent of vote by party - LVV 50%, PDK 16.9%, LDK 12.7%, AAK 7.1%, Serb List 5.1%, other 8.2%; seats by party - LVV 58, PDK 19, LDK 15, Serb List 10, AAK 8, other 10; composition - men 79, women 41, percentage women 34.2%"
+      "number of seats": {
+        "text": "120 (all directly elected)"
+      },
+      "electoral system": {
+        "text": "proportional representation"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "4 years"
+      },
+      "most recent election date": {
+        "text": "2/14/2021"
+      },
+      "parties elected and seats per party": {
+        "text": "Self-Determination Movement (LVV) (58), Democratic Party of Kosovo (PDK) (19), Democratic League of Kosovo (LDK) (15), Serb List (10), Alliance for the Future of Kosovo (AAK) (8), other (10)"
+      },
+      "percentage of women in chamber": {
+        "text": "34%"
+      },
+      "expected date of next election": {
+        "text": "2025"
       },
       "note": "<strong>note:</strong> 20 seats reserved for ethnic minorities -- 10 for Serbs and 10 for other minorities"
     },
@@ -537,7 +558,7 @@
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2023": {
-        "text": "$23.794 billion (2023 est.)"
+        "text": "$23.962 billion (2023 est.)"
       },
       "Real GDP (purchasing power parity) 2022": {
         "text": "$23.025 billion (2022 est.)"
@@ -549,7 +570,7 @@
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2023": {
-        "text": "3.34% (2023 est.)"
+        "text": "4.07% (2023 est.)"
       },
       "Real GDP growth rate 2022": {
         "text": "4.28% (2022 est.)"
@@ -561,7 +582,7 @@
     },
     "Real GDP per capita": {
       "Real GDP per capita 2023": {
-        "text": "$13,500 (2023 est.)"
+        "text": "$13,600 (2023 est.)"
       },
       "Real GDP per capita 2022": {
         "text": "$13,000 (2022 est.)"
@@ -572,7 +593,7 @@
       "note": "<b>note:</b> data in 2021 dollars"
     },
     "GDP (official exchange rate)": {
-      "text": "$10.438 billion (2023 est.)",
+      "text": "$10.468 billion (2023 est.)",
       "note": "<b>note:</b> data in current dollars at official exchange rate"
     },
     "Inflation rate (consumer prices)": {
@@ -589,34 +610,34 @@
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "7.8% (2023 est.)"
+        "text": "7.2% (2023 est.)"
       },
       "industry": {
         "text": "26.3% (2023 est.)"
       },
       "services": {
-        "text": "46% (2023 est.)"
+        "text": "46.6% (2023 est.)"
       },
       "note": "<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "83.9% (2023 est.)"
+        "text": "84.1% (2023 est.)"
       },
       "government consumption": {
-        "text": "12.5% (2023 est.)"
+        "text": "12.6% (2023 est.)"
       },
       "investment in fixed capital": {
-        "text": "31.6% (2023 est.)"
+        "text": "31.5% (2023 est.)"
       },
       "investment in inventories": {
-        "text": "2.7% (2023 est.)"
+        "text": "2.5% (2023 est.)"
       },
       "exports of goods and services": {
-        "text": "39.7% (2023 est.)"
+        "text": "39.6% (2023 est.)"
       },
       "imports of goods and services": {
-        "text": "-70.5% (2023 est.)"
+        "text": "-70.3% (2023 est.)"
       },
       "note": "<b>note:</b> figures may not total 100% due to rounding or gaps in data collection"
     },
@@ -627,7 +648,7 @@
       "text": "mineral mining, construction materials, base metals, leather, machinery, appliances, foodstuffs and beverages, textiles"
     },
     "Industrial production growth rate": {
-      "text": "1.56% (2023 est.)",
+      "text": "3.35% (2023 est.)",
       "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
@@ -675,7 +696,7 @@
     },
     "Remittances": {
       "Remittances 2023": {
-        "text": "18.2% of GDP (2023 est.)"
+        "text": "17.51% of GDP (2023 est.)"
       },
       "Remittances 2022": {
         "text": "17.24% of GDP (2022 est.)"
@@ -703,7 +724,7 @@
     },
     "Current account balance": {
       "Current account balance 2023": {
-        "text": "-$794.765 million (2023 est.)"
+        "text": "-$785.09 million (2023 est.)"
       },
       "Current account balance 2022": {
         "text": "-$983.283 million (2022 est.)"
@@ -715,7 +736,7 @@
     },
     "Exports": {
       "Exports 2023": {
-        "text": "$4.155 billion (2023 est.)"
+        "text": "$4.156 billion (2023 est.)"
       },
       "Exports 2022": {
         "text": "$3.579 billion (2022 est.)"
@@ -760,6 +781,11 @@
         "text": "$1.244 billion (2021 est.)"
       },
       "note": "<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars"
+    },
+    "Debt - external": {
+      "Debt - external 2023": {
+        "text": "$829.127 million (2023 est.)"
+      }
     },
     "Exchange rates": {
       "Currency": {

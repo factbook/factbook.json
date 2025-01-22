@@ -369,14 +369,35 @@
       }
     },
     "Legislative branch": {
-      "description": {
-        "text": "unicameral Parliament&nbsp;of Sint Maarten&nbsp;(15 seats; members directly elected by proportional representation vote to serve 4-year terms)"
+      "legislature name": {
+        "text": "Parliament&nbsp;of Sint Maarten"
       },
-      "elections": {
-        "text": "last held 11 January 2024 (next to be held in 2028)"
+      "legislative structure": {
+        "text": "unicameral"
       },
-      "election results": {
-        "text": "percent of vote by party - NA 23.9%, UPP 19.6%, URSM 13.9%, DP 13.6%, PFP 11.9%, NOW 10.3%, other 6.8%; seats by party - NA 4, UPP 3, URSM 2, DP 2, PFP2, NOW 2; composition - men 8, women 7, percentage women 46.7% (additional member is suspended)"
+      "number of seats": {
+        "text": "15 (directly elected)"
+      },
+      "electoral system": {
+        "text": "proportional representation"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "4 years"
+      },
+      "most recent election date": {
+        "text": "1/11/2024"
+      },
+      "parties elected and seats per party": {
+        "text": "NA (4); UPP (3); URSM (2); DP (2); PFP (2); NOW (2)"
+      },
+      "percentage of women in chamber": {
+        "text": "46.7%"
+      },
+      "expected date of next election": {
+        "text": "2028"
       }
     },
     "Judicial branch": {
@@ -427,7 +448,7 @@
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2023": {
-        "text": "$1.912 billion (2023 est.)"
+        "text": "$1.919 billion (2023 est.)"
       },
       "Real GDP (purchasing power parity) 2022": {
         "text": "$1.849 billion (2022 est.)"
@@ -439,7 +460,7 @@
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2023": {
-        "text": "3.4% (2023 est.)"
+        "text": "3.8% (2023 est.)"
       },
       "Real GDP growth rate 2022": {
         "text": "9.8% (2022 est.)"
@@ -451,18 +472,18 @@
     },
     "Real GDP per capita": {
       "Real GDP per capita 2023": {
-        "text": "$46,400 (2023 est.)"
+        "text": "$44,900 (2023 est.)"
       },
       "Real GDP per capita 2022": {
-        "text": "$45,200 (2022 est.)"
+        "text": "$43,900 (2022 est.)"
       },
       "Real GDP per capita 2021": {
-        "text": "$41,400 (2021 est.)"
+        "text": "$40,500 (2021 est.)"
       },
       "note": "<b>note:</b> data in 2021 dollars"
     },
     "GDP (official exchange rate)": {
-      "text": "$1.623 billion (2023 est.)",
+      "text": "$1.628 billion (2023 est.)",
       "note": "<b>note:</b> data in current dollars at official exchange rate"
     },
     "Inflation rate (consumer prices)": {
@@ -498,10 +519,10 @@
     },
     "Remittances": {
       "Remittances 2023": {
-        "text": "2.9% of GDP (2023 est.)"
+        "text": "2.95% of GDP (2023 est.)"
       },
       "Remittances 2022": {
-        "text": "3.15% of GDP (2022 est.)"
+        "text": "3.16% of GDP (2022 est.)"
       },
       "Remittances 2021": {
         "text": "3.44% of GDP (2021 est.)"
@@ -509,26 +530,26 @@
       "note": "<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities"
     },
     "Current account balance": {
+      "Current account balance 2023": {
+        "text": "-$116.693 million (2023 est.)"
+      },
       "Current account balance 2022": {
-        "text": "-$41.64 million (2022 est.)"
+        "text": "-$56.984 million (2022 est.)"
       },
       "Current account balance 2021": {
-        "text": "-$300.6 million (2021 est.)"
-      },
-      "Current account balance 2020": {
-        "text": "-$290.458 million (2020 est.)"
+        "text": "-$311.463 million (2021 est.)"
       },
       "note": "<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars"
     },
     "Exports": {
+      "Exports 2023": {
+        "text": "$1.504 billion (2023 est.)"
+      },
       "Exports 2022": {
-        "text": "$1.372 billion (2022 est.)"
+        "text": "$1.375 billion (2022 est.)"
       },
       "Exports 2021": {
         "text": "$790.938 million (2021 est.)"
-      },
-      "Exports 2020": {
-        "text": "$527.044 million (2020 est.)"
       },
       "note": "<b>note:</b> balance of payments - exports of goods and services in current dollars"
     },
@@ -541,14 +562,14 @@
       "note": "<b>note:</b> top five export commodities based on value in dollars"
     },
     "Imports": {
+      "Imports 2023": {
+        "text": "$1.489 billion (2023 est.)"
+      },
       "Imports 2022": {
-        "text": "$1.318 billion (2022 est.)"
+        "text": "$1.32 billion (2022 est.)"
       },
       "Imports 2021": {
         "text": "$1.003 billion (2021 est.)"
-      },
-      "Imports 2020": {
-        "text": "$760.824 million (2020 est.)"
       },
       "note": "<b>note:</b> balance of payments - imports of goods and services in current dollars"
     },

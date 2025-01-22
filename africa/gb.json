@@ -530,14 +530,51 @@
       }
     },
     "Legislative branch": {
-      "description": {
-        "text": "Transitional Parliament (formerly the bicameral Parliament) consists of:<br>Senate (70 seats; members appointed by Transitional president; member term NA)<br>National Assembly (98 seats; members appointed by the Transitional president; member term NA)"
+      "legislature name": {
+        "text": "Transitional Parlement (Parliament de la transition)"
       },
-      "elections": {
-        "text": "on 11 September 2023, Transitional President Gen. Brice OLIGUI Nguema appointed 168 members to the Transitional Parliament; elections for a permanent legislature reportedly to follow 2-year transition; note - the military government announced on 13 November 2023 that presidential and legislative elections will be held in August 2025"
+      "legislative structure": {
+        "text": "bicameral"
+      }
+    },
+    "Legislative branch - lower chamber": {
+      "chamber name": {
+        "text": "Transitional National Assembly (Assemblée nationale de la transition)"
       },
-      "election results": {
-        "text": "all members of the Transitional Parliament appointed by the Transitional president"
+      "number of seats": {
+        "text": "98 (all appointed)"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "most recent election date": {
+        "text": "10/6/2023"
+      },
+      "percentage of women in chamber": {
+        "text": "25.5%"
+      },
+      "expected date of next election": {
+        "text": "August 2025"
+      }
+    },
+    "Legislative branch - upper chamber": {
+      "chamber name": {
+        "text": "Transitional Senate (Sénat de la transition)"
+      },
+      "number of seats": {
+        "text": "70 (all appointed)"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "most recent election date": {
+        "text": "10/6/2023"
+      },
+      "percentage of women in chamber": {
+        "text": "24.3%"
+      },
+      "expected date of next election": {
+        "text": "August 2025"
       }
     },
     "Judicial branch": {
@@ -628,22 +665,22 @@
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2023": {
-        "text": "$48.201 billion (2023 est.)"
+        "text": "$46.472 billion (2023 est.)"
       },
       "Real GDP (purchasing power parity) 2022": {
-        "text": "$47.134 billion (2022 est.)"
+        "text": "$45.363 billion (2022 est.)"
       },
       "Real GDP (purchasing power parity) 2021": {
-        "text": "$45.776 billion (2021 est.)"
+        "text": "$44.025 billion (2021 est.)"
       },
       "note": "<b>note:</b> data in 2021 dollars"
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2023": {
-        "text": "2.26% (2023 est.)"
+        "text": "2.45% (2023 est.)"
       },
       "Real GDP growth rate 2022": {
-        "text": "2.97% (2022 est.)"
+        "text": "3.04% (2022 est.)"
       },
       "Real GDP growth rate 2021": {
         "text": "1.47% (2021 est.)"
@@ -652,18 +689,18 @@
     },
     "Real GDP per capita": {
       "Real GDP per capita 2023": {
-        "text": "$19,800 (2023 est.)"
+        "text": "$18,700 (2023 est.)"
       },
       "Real GDP per capita 2022": {
-        "text": "$19,700 (2022 est.)"
+        "text": "$18,700 (2022 est.)"
       },
       "Real GDP per capita 2021": {
-        "text": "$19,600 (2021 est.)"
+        "text": "$18,500 (2021 est.)"
       },
       "note": "<b>note:</b> data in 2021 dollars"
     },
     "GDP (official exchange rate)": {
-      "text": "$20.516 billion (2023 est.)",
+      "text": "$19.388 billion (2023 est.)",
       "note": "<b>note:</b> data in current dollars at official exchange rate"
     },
     "Inflation rate (consumer prices)": {
@@ -692,31 +729,34 @@
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "5.8% (2023 est.)"
+        "text": "6.5% (2023 est.)"
       },
       "industry": {
-        "text": "52.9% (2023 est.)"
+        "text": "53.5% (2023 est.)"
       },
       "services": {
-        "text": "36.4% (2023 est.)"
+        "text": "38.2% (2023 est.)"
       },
       "note": "<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "32.3% (2023 est.)"
+        "text": "34.5% (2023 est.)"
       },
       "government consumption": {
-        "text": "11.6% (2023 est.)"
+        "text": "11.5% (2023 est.)"
       },
       "investment in fixed capital": {
-        "text": "17.1% (2023 est.)"
+        "text": "18.1% (2023 est.)"
+      },
+      "investment in inventories": {
+        "text": "0% (2023 est.)"
       },
       "exports of goods and services": {
-        "text": "56.7% (2023 est.)"
+        "text": "63.7% (2023 est.)"
       },
       "imports of goods and services": {
-        "text": "-17.4% (2023 est.)"
+        "text": "-27.8% (2023 est.)"
       },
       "note": "<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection"
     },
@@ -728,11 +768,11 @@
       "text": "petroleum extraction and refining; manganese, gold; chemicals, ship repair, food and beverages, textiles, lumbering and plywood, cement"
     },
     "Industrial production growth rate": {
-      "text": "3.5% (2023 est.)",
+      "text": "3.94% (2023 est.)",
       "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
-      "text": "763,000 (2023 est.)",
+      "text": "771,000 (2023 est.)",
       "note": "<b>note:</b> number of people ages 15 or older who are employed or seeking work"
     },
     "Unemployment rate": {
@@ -780,7 +820,7 @@
     },
     "Remittances": {
       "Remittances 2023": {
-        "text": "0.09% of GDP (2023 est.)"
+        "text": "0.1% of GDP (2023 est.)"
       },
       "Remittances 2022": {
         "text": "0.09% of GDP (2022 est.)"
@@ -805,7 +845,7 @@
       }
     },
     "Taxes and other revenues": {
-      "text": "9.13% (of GDP) (2021 est.)",
+      "text": "9.49% (of GDP) (2021 est.)",
       "note": "<b>note:</b> central government tax revenue as a % of GDP"
     },
     "Current account balance": {
@@ -873,8 +913,8 @@
       "note": "<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars"
     },
     "Debt - external": {
-      "Debt - external 2022": {
-        "text": "$6.06 billion (2022 est.)"
+      "Debt - external 2023": {
+        "text": "$6.672 billion (2023 est.)"
       },
       "note": "<b>note:</b> present value of external debt in current US dollars"
     },

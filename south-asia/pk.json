@@ -590,16 +590,66 @@
       }
     },
     "Legislative branch": {
-      "description": {
-        "text": "bicameral Parliament or Majlis-e-Shoora consists of:<br>Senate (96 seats current; members indirectly elected by the 4 provincial assemblies and the federal capital territory indirectly elected by the National Assembly using proportional representation vote; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>National Assembly (336 seats; 266 members directly elected in single-seat constituencies by simple majority vote and 70 members - 60 women and 10 non-Muslims - directly elected by proportional representation vote; all members serve 5-year terms)"
+      "legislature name": {
+        "text": "Parliament (Majlis-E-Shoora)"
       },
-      "elections": {
-        "text": "Senate - last held on 2 and 9 April 2024 (next to be held in 2027)<br>National Assembly - last held on 8 February 2024 (next to be held in 2029)"
-      },
-      "election results": {
-        "text": "Senate - percent of vote by party - NA; seats by party - NA; composition - men 79, women 17, percent of women 17.7%<br><br>National Assembly - percent of vote by party - NA; seats by party - PML-N 75, PPP 54, MQM-P 17, JUI-F 4, Pakistan Muslim League 3, Istehkam-e-Pakistan Party 2, BNP-A 2, BAP 1, PMAP 1, PML-Z 1, NP 1, independent (PTI-backed) 101, other 8, vacant 2 (excludes 60 seats reserved for women and 10 non-Muslims); composition - men 276, women 60, percent of women 17.9%; note - total Parliament percent of women 17.8%<br><br> <p> </p> <p> </p>"
+      "legislative structure": {
+        "text": "bicameral"
       },
       "note": "<strong>note</strong>: in May 2018, the Parliament of Pakistan and the Khyber Pakhtunkhwa Assembly passed a constitutional amendment to merge the Federally Administrated Tribal Areas and Provincially Administered Tribal Areas with the province of Khyber Pakhtunkhwa; the amendment reduces the Senate from 104 to 96 members - 4 in the 2024 election and 4 in the 2027 election<br><br>"
+    },
+    "Legislative branch - lower chamber": {
+      "chamber name": {
+        "text": "National Assembly"
+      },
+      "number of seats": {
+        "text": "336 (all directly elected)"
+      },
+      "electoral system": {
+        "text": "plurality/majority"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "5 years"
+      },
+      "most recent election date": {
+        "text": "2/8/2024"
+      },
+      "parties elected and seats per party": {
+        "text": "Pakistan Muslim League-Nawaz (PML-N) (75); Pakistan People's Party Parliamentarians (PPPP) (54); Muttahida Quami Movement Pakistan (MQMP) (17); Independents (101); Other (16)"
+      },
+      "percentage of women in chamber": {
+        "text": "17%"
+      },
+      "expected date of next election": {
+        "text": "February 2029"
+      }
+    },
+    "Legislative branch - upper chamber": {
+      "chamber name": {
+        "text": "Senate"
+      },
+      "number of seats": {
+        "text": "96 (all indirectly elected)"
+      },
+      "scope of elections": {
+        "text": "partial renewal"
+      },
+      "term in office": {
+        "text": "6 years"
+      },
+      "most recent election date": {
+        "text": "4/2/2024"
+      },
+      "percentage of women in chamber": {
+        "text": "18.8%"
+      },
+      "expected date of next election": {
+        "text": "March 2027"
+      },
+      "note": "<strong>note: </strong>in 2018, the Parliament of Pakistan and the Khyber Pakhtunkhwa Assembly passed a constitutional amendment to merge the Federally Administrated Tribal Areas and Provincially Administered Tribal Areas with the province of Khyber Pakhtunkhwa; the amendment reduces the Senate from 104 to 96 members -- by 4 in the 2024 election and another 4 in the 2027 election"
     },
     "Judicial branch": {
       "highest court(s)": {
@@ -691,7 +741,7 @@
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2023": {
-        "text": "$1.347 trillion (2023 est.)"
+        "text": "$1.346 trillion (2023 est.)"
       },
       "Real GDP (purchasing power parity) 2022": {
         "text": "$1.347 trillion (2022 est.)"
@@ -703,10 +753,10 @@
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2023": {
-        "text": "0% (2023 est.)"
+        "text": "-0.04% (2023 est.)"
       },
       "Real GDP growth rate 2022": {
-        "text": "4.77% (2022 est.)"
+        "text": "4.78% (2022 est.)"
       },
       "Real GDP growth rate 2021": {
         "text": "6.51% (2021 est.)"
@@ -715,18 +765,18 @@
     },
     "Real GDP per capita": {
       "Real GDP per capita 2023": {
-        "text": "$5,600 (2023 est.)"
+        "text": "$5,400 (2023 est.)"
       },
       "Real GDP per capita 2022": {
-        "text": "$5,700 (2022 est.)"
+        "text": "$5,500 (2022 est.)"
       },
       "Real GDP per capita 2021": {
-        "text": "$5,600 (2021 est.)"
+        "text": "$5,400 (2021 est.)"
       },
       "note": "<b>note:</b> data in 2021 dollars"
     },
     "GDP (official exchange rate)": {
-      "text": "$338.368 billion (2023 est.)",
+      "text": "$337.912 billion (2023 est.)",
       "note": "<b>note:</b> data in current dollars at official exchange rate"
     },
     "Inflation rate (consumer prices)": {
@@ -755,34 +805,34 @@
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "23.4% (2023 est.)"
+        "text": "23.3% (2023 est.)"
       },
       "industry": {
-        "text": "20.8% (2023 est.)"
+        "text": "20.7% (2023 est.)"
       },
       "services": {
-        "text": "50.6% (2023 est.)"
+        "text": "50.8% (2023 est.)"
       },
       "note": "<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "83.4% (2023 est.)"
+        "text": "83.2% (2023 est.)"
       },
       "government consumption": {
-        "text": "10.2% (2023 est.)"
+        "text": "10.3% (2023 est.)"
       },
       "investment in fixed capital": {
-        "text": "12% (2023 est.)"
+        "text": "12.4% (2023 est.)"
       },
       "investment in inventories": {
         "text": "1.7% (2023 est.)"
       },
       "exports of goods and services": {
-        "text": "10.4% (2023 est.)"
+        "text": "10.5% (2023 est.)"
       },
       "imports of goods and services": {
-        "text": "-17.7% (2023 est.)"
+        "text": "-18.1% (2023 est.)"
       },
       "note": "<b>note:</b> figures may not total 100% due to rounding or gaps in data collection"
     },
@@ -794,11 +844,11 @@
       "text": "textiles and apparel, food processing, pharmaceuticals, surgical instruments, construction materials, paper products, fertilizer, shrimp"
     },
     "Industrial production growth rate": {
-      "text": "-3.76% (2023 est.)",
+      "text": "-3.7% (2023 est.)",
       "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
-      "text": "80.99 million (2023 est.)",
+      "text": "82.187 million (2023 est.)",
       "note": "<b>note:</b> number of people ages 15 or older who are employed or seeking work"
     },
     "Unemployment rate": {
@@ -854,7 +904,7 @@
     },
     "Remittances": {
       "Remittances 2023": {
-        "text": "7.85% of GDP (2023 est.)"
+        "text": "7.86% of GDP (2023 est.)"
       },
       "Remittances 2022": {
         "text": "8.05% of GDP (2022 est.)"
@@ -883,7 +933,7 @@
     },
     "Current account balance": {
       "Current account balance 2023": {
-        "text": "-$350.044 million (2023 est.)"
+        "text": "-$825.232 million (2023 est.)"
       },
       "Current account balance 2022": {
         "text": "-$12.216 billion (2022 est.)"
@@ -895,7 +945,7 @@
     },
     "Exports": {
       "Exports 2023": {
-        "text": "$36.442 billion (2023 est.)"
+        "text": "$36.317 billion (2023 est.)"
       },
       "Exports 2022": {
         "text": "$38.967 billion (2022 est.)"
@@ -915,7 +965,7 @@
     },
     "Imports": {
       "Imports 2023": {
-        "text": "$57.806 billion (2023 est.)"
+        "text": "$57.963 billion (2023 est.)"
       },
       "Imports 2022": {
         "text": "$76.594 billion (2022 est.)"
@@ -946,8 +996,8 @@
       "note": "<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars"
     },
     "Debt - external": {
-      "Debt - external 2022": {
-        "text": "$74.852 billion (2022 est.)"
+      "Debt - external 2023": {
+        "text": "$94.271 billion (2023 est.)"
       },
       "note": "<b>note:</b> present value of external debt in current US dollars"
     },

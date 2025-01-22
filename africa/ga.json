@@ -550,14 +550,35 @@
       }
     },
     "Legislative branch": {
-      "description": {
-        "text": "unicameral National Assembly (58 seats; 53 members directly elected in single-seat constituencies by simple majority vote and 5 appointed by the president; members serve 5-year terms)"
+      "legislature name": {
+        "text": "National Assembly"
       },
-      "elections": {
-        "text": "last held on 9 April 2022 (next to be held in 2027)"
+      "legislative structure": {
+        "text": "unicameral"
       },
-      "election results": {
-        "text": "percent of vote by party - NPP 33.9%, UDP 28.3%, independent 22.6%, NRP 7.5%, PDOIS 3.7%, APRL 3.7%; seats by party - NPP 18, UDP 15, independent 12, NRP 4, APRL 2, PDOIS 2; composition - men 53, women 5, percentage women 8.6%"
+      "number of seats": {
+        "text": "58 (53 directly elected; 5 appointed)"
+      },
+      "electoral system": {
+        "text": "plurality/majority"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "5 years"
+      },
+      "most recent election date": {
+        "text": "4/9/2022"
+      },
+      "parties elected and seats per party": {
+        "text": "National People's Party (NPP) (18); United Democratic Party (UDP) (15); National Reconciliation Party (NRP) (4); Independents (12); Other (4)"
+      },
+      "percentage of women in chamber": {
+        "text": "8.6%"
+      },
+      "expected date of next election": {
+        "text": "April 2027"
       }
     },
     "Judicial branch": {
@@ -644,10 +665,10 @@
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2023": {
-        "text": "$7.905 billion (2023 est.)"
+        "text": "$7.911 billion (2023 est.)"
       },
       "Real GDP (purchasing power parity) 2022": {
-        "text": "$7.508 billion (2022 est.)"
+        "text": "$7.549 billion (2022 est.)"
       },
       "Real GDP (purchasing power parity) 2021": {
         "text": "$7.156 billion (2021 est.)"
@@ -656,10 +677,10 @@
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2023": {
-        "text": "5.3% (2023 est.)"
+        "text": "4.8% (2023 est.)"
       },
       "Real GDP growth rate 2022": {
-        "text": "4.92% (2022 est.)"
+        "text": "5.49% (2022 est.)"
       },
       "Real GDP growth rate 2021": {
         "text": "5.26% (2021 est.)"
@@ -671,15 +692,15 @@
         "text": "$2,900 (2023 est.)"
       },
       "Real GDP per capita 2022": {
-        "text": "$2,800 (2022 est.)"
+        "text": "$2,900 (2022 est.)"
       },
       "Real GDP per capita 2021": {
-        "text": "$2,700 (2021 est.)"
+        "text": "$2,800 (2021 est.)"
       },
       "note": "<b>note:</b> data in 2021 dollars"
     },
     "GDP (official exchange rate)": {
-      "text": "$2.34 billion (2023 est.)",
+      "text": "$2.396 billion (2023 est.)",
       "note": "<b>note:</b> data in current dollars at official exchange rate"
     },
     "Inflation rate (consumer prices)": {
@@ -696,31 +717,34 @@
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "24.6% (2023 est.)"
+        "text": "23.2% (2023 est.)"
       },
       "industry": {
-        "text": "15.2% (2023 est.)"
+        "text": "16.7% (2023 est.)"
       },
       "services": {
-        "text": "51.5% (2023 est.)"
+        "text": "53.6% (2023 est.)"
       },
       "note": "<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "81.6% (2023 est.)"
+        "text": "85.9% (2023 est.)"
       },
       "government consumption": {
-        "text": "8.8% (2023 est.)"
+        "text": "7.4% (2023 est.)"
       },
       "investment in fixed capital": {
-        "text": "39.3% (2023 est.)"
+        "text": "27.3% (2023 est.)"
+      },
+      "investment in inventories": {
+        "text": "0% (2023 est.)"
       },
       "exports of goods and services": {
-        "text": "5.4% (2023 est.)"
+        "text": "9.6% (2023 est.)"
       },
       "imports of goods and services": {
-        "text": "-35.1% (2023 est.)"
+        "text": "-32.8% (2023 est.)"
       },
       "note": "<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection"
     },
@@ -732,11 +756,11 @@
       "text": "peanuts, fish, hides, tourism, beverages, agricultural machinery assembly, woodworking, metalworking, clothing"
     },
     "Industrial production growth rate": {
-      "text": "6.5% (2023 est.)",
+      "text": "10.15% (2023 est.)",
       "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
-      "text": "969,000 (2023 est.)",
+      "text": "973,000 (2023 est.)",
       "note": "<b>note:</b> number of people ages 15 or older who are employed or seeking work"
     },
     "Unemployment rate": {
@@ -778,16 +802,16 @@
         "text": "2.6% (2020 est.)"
       },
       "highest 10%": {
-        "text": "30.6% (2020 est.)"
+        "text": "30.5% (2020 est.)"
       },
       "note": "<b>note:</b> % share of income accruing to lowest and highest 10% of population"
     },
     "Remittances": {
       "Remittances 2023": {
-        "text": "26.82% of GDP (2023 est.)"
+        "text": "21.9% of GDP (2023 est.)"
       },
       "Remittances 2022": {
-        "text": "23.07% of GDP (2022 est.)"
+        "text": "22.76% of GDP (2022 est.)"
       },
       "Remittances 2021": {
         "text": "27.16% of GDP (2021 est.)"
@@ -812,26 +836,26 @@
       "text": "20.3% (of GDP) (2017 est.)"
     },
     "Current account balance": {
+      "Current account balance 2023": {
+        "text": "-$204.132 million (2023 est.)"
+      },
       "Current account balance 2022": {
         "text": "-$90.251 million (2022 est.)"
       },
       "Current account balance 2021": {
         "text": "-$86.877 million (2021 est.)"
       },
-      "Current account balance 2020": {
-        "text": "-$86.553 million (2020 est.)"
-      },
       "note": "<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars"
     },
     "Exports": {
+      "Exports 2023": {
+        "text": "$643.689 million (2023 est.)"
+      },
       "Exports 2022": {
         "text": "$267.377 million (2022 est.)"
       },
       "Exports 2021": {
         "text": "$142.652 million (2021 est.)"
-      },
-      "Exports 2020": {
-        "text": "$175.682 million (2020 est.)"
       },
       "note": "<b>note:</b> balance of payments - exports of goods and services in current dollars"
     },
@@ -844,14 +868,14 @@
       "note": "<b>note:</b> top five export commodities based on value in dollars"
     },
     "Imports": {
+      "Imports 2023": {
+        "text": "$1.38 billion (2023 est.)"
+      },
       "Imports 2022": {
         "text": "$829.516 million (2022 est.)"
       },
       "Imports 2021": {
         "text": "$726.23 million (2021 est.)"
-      },
-      "Imports 2020": {
-        "text": "$690.979 million (2020 est.)"
       },
       "note": "<b>note:</b> balance of payments - imports of goods and services in current dollars"
     },
@@ -876,8 +900,8 @@
       "note": "<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars"
     },
     "Debt - external": {
-      "Debt - external 2022": {
-        "text": "$696.707 million (2022 est.)"
+      "Debt - external 2023": {
+        "text": "$971.426 million (2023 est.)"
       },
       "note": "<b>note:</b> present value of external debt in current US dollars"
     },

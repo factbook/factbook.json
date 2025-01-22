@@ -481,14 +481,51 @@
       "note": "<strong>note: </strong>the president is both chief of state and head of government"
     },
     "Legislative branch": {
-      "description": {
-        "text": "bicameral National Legislature consists of:<br>Council of States, pending establishment as stipulated by the 2018 peace deal<br>Transitional National Legislative Assembly (TNLA), established on 4 August 2016, in accordance with the August 2015 Agreement on the Resolution of the Conflict in the Republic of South Sudan; note - originally 400 seats; the TNLA was expanded to 550 members from 400 and reestablished in May 2020 under the 2018 peace agreement"
+      "legislature name": {
+        "text": "Législature nationale (National Legislature)"
       },
-      "elections": {
-        "text": "Council of States - pending establishment as stipulated by the 2018 peace deal<br>Transitional National Legislative Assembly - percent of vote by party - NA; seats by party - 332 SPLM, 128 SPLM-IO, 90 other political parties; composition - NA"
+      "legislative structure": {
+        "text": "bicameral"
+      }
+    },
+    "Legislative branch - lower chamber": {
+      "chamber name": {
+        "text": "Transitional National Legislative Assembly (Al-Majlis Al-Tachirii)"
       },
-      "election results": {
-        "text": "Council of States - percent of vote by party - NA; seats by party - SPLM 20, unknown 30; composition - men 57, women 27, percentage women 32.1%<br><br>National Legislative Assembly - percent of vote by party - NA; seats by party - SPLM 251, DCP 10, independent 6, unknown 133; composition - men 372, women 178, percentage women 32.4%; total National Legislature percentage women 32.3%"
+      "number of seats": {
+        "text": "550 (all appointed)"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "most recent election date": {
+        "text": "5/10/2021"
+      },
+      "percentage of women in chamber": {
+        "text": "32.4%"
+      },
+      "expected date of next election": {
+        "text": "December 2026"
+      }
+    },
+    "Legislative branch - upper chamber": {
+      "chamber name": {
+        "text": "Council of States (Al-Watani)"
+      },
+      "number of seats": {
+        "text": "100 (all appointed)"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "most recent election date": {
+        "text": "8/2/2021"
+      },
+      "percentage of women in chamber": {
+        "text": "32.1%"
+      },
+      "expected date of next election": {
+        "text": "December 2026"
       }
     },
     "Judicial branch": {
@@ -632,6 +669,9 @@
       "investment in fixed capital": {
         "text": "5.8% (2015 est.)"
       },
+      "investment in inventories": {
+        "text": "0% (2015 est.)"
+      },
       "exports of goods and services": {
         "text": "36.7% (2015 est.)"
       },
@@ -649,7 +689,7 @@
       "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
-      "text": "4.471 million (2023 est.)",
+      "text": "4.883 million (2023 est.)",
       "note": "<b>note:</b> number of people ages 15 or older who are employed or seeking work"
     },
     "Unemployment rate": {
@@ -688,10 +728,10 @@
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
-        "text": "1.7% (2016 est.)"
+        "text": "1.8% (2016 est.)"
       },
       "highest 10%": {
-        "text": "33.1% (2016 est.)"
+        "text": "33% (2016 est.)"
       }
     },
     "Remittances": {
@@ -720,26 +760,26 @@
       "text": "8.5% (of GDP) (FY2017/18 est.)"
     },
     "Current account balance": {
+      "Current account balance 2023": {
+        "text": "$577.9 million (2023 est.)"
+      },
       "Current account balance 2022": {
         "text": "-$596.748 million (2022 est.)"
       },
       "Current account balance 2021": {
         "text": "-$6.55 million (2021 est.)"
       },
-      "Current account balance 2020": {
-        "text": "-$1.718 billion (2020 est.)"
-      },
       "note": "<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars"
     },
     "Exports": {
+      "Exports 2023": {
+        "text": "$4.499 billion (2023 est.)"
+      },
       "Exports 2022": {
         "text": "$5.811 billion (2022 est.)"
       },
       "Exports 2021": {
         "text": "$4.652 billion (2021 est.)"
-      },
-      "Exports 2020": {
-        "text": "$2.344 billion (2020 est.)"
       },
       "note": "<b>note:</b> balance of payments - exports of goods and services in current dollars"
     },
@@ -752,14 +792,14 @@
       "note": "<b>note:</b> top five export commodities based on value in dollars"
     },
     "Imports": {
+      "Imports 2023": {
+        "text": "$4.443 billion (2023 est.)"
+      },
       "Imports 2022": {
         "text": "$6.402 billion (2022 est.)"
       },
       "Imports 2021": {
         "text": "$4.037 billion (2021 est.)"
-      },
-      "Imports 2020": {
-        "text": "$4.245 billion (2020 est.)"
       },
       "note": "<b>note:</b> balance of payments - imports of goods and services in current dollars"
     },
@@ -787,6 +827,9 @@
       "Currency": {
         "text": "South Sudanese pounds (SSP) per US dollar -"
       },
+      "Exchange rates 2023": {
+        "text": "930.331 (2023 est.)"
+      },
       "Exchange rates 2022": {
         "text": "534.511 (2022 est.)"
       },
@@ -798,9 +841,6 @@
       },
       "Exchange rates 2019": {
         "text": "157.999 (2019 est.)"
-      },
-      "Exchange rates 2018": {
-        "text": "141.386 (2018 est.)"
       }
     }
   },

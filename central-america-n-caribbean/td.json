@@ -500,20 +500,69 @@
         "text": "president indirectly elected by an electoral college of selected Senate and House of Representatives members for a 5-year term (eligible for a second term); election last held on 20 January 2023 (next to be held by February 2028); the president usually appoints the leader of the majority party in the House of Representatives as prime minister"
       },
       "election results": {
-        "text": "<br><em>2023: </em>Christine KANGALOO elected president by the electoral college on 20 January 2023; electoral college vote  Christine KANGALOO (PNM) 48, Israel KHAN (UNC) 22<br><br><em>2018: </em>Paula-Mae WEEKES (independent) elected president; ran unopposed and was elected without a vote; she was Trinidad and Tabago's first female head of state"
+        "text": "<em>2023: </em>Christine KANGALOO elected president by the electoral college on 20 January 2023; electoral college vote  Christine KANGALOO (PNM) 48, Israel KHAN (UNC) 22<br><br><em>2018: </em>Paula-Mae WEEKES (independent) elected president; ran unopposed and was elected without a vote; she was Trinidad and Tabago's first female head of state"
       }
     },
     "Legislative branch": {
-      "description": {
-        "text": "bicameral Parliament consists of:<br>Senate (31 seats; 16 members appointed by the ruling party, 9 by the president, and 6 by the opposition party; members serve 5-year terms;)<br>House of Representatives (42 seats; 41 members directly elected in single-seat constituencies by simple majority vote and the house speaker - usually designated from outside Parliament; members serve 5-year terms)"
+      "legislature name": {
+        "text": "Parliament"
       },
-      "elections": {
-        "text": "Senate - last appointments on 28 August 2020 (next appointments in August 2025)<br>House of Representatives - last held on 10 August 2020 (next to be held in 2025)"
-      },
-      "election results": {
-        "text": "Senate - percent by party - NA; seats by party - PNM 16, UNC 6, independent 9; composition - men 19, women 13, percentage women 40.6%<br><br>House of Representatives - percent by party - NA; seats by party - PNM 23, UNC 19; composition - men 30, women 12, percentage women 28.6%; total Parliament percentage women 33.8%"
+      "legislative structure": {
+        "text": "bicameral"
       },
       "note": "<strong>note:</strong> Tobago has a unicameral House of Assembly (19 seats; 15 assemblymen directly elected by simple majority vote and 4 appointed councilors - 3 on the advice of the chief secretary and 1 on the advice of the minority leader; members serve 4-year terms)"
+    },
+    "Legislative branch - lower chamber": {
+      "chamber name": {
+        "text": "House of Representatives"
+      },
+      "number of seats": {
+        "text": "42 (all directly elected)"
+      },
+      "electoral system": {
+        "text": "plurality/majority"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "5 years"
+      },
+      "most recent election date": {
+        "text": "8/10/2020"
+      },
+      "parties elected and seats per party": {
+        "text": "People's National Movement (PNM) (22); United National Congress (UNC) (19)"
+      },
+      "percentage of women in chamber": {
+        "text": "28.6%"
+      },
+      "expected date of next election": {
+        "text": "August 2025"
+      }
+    },
+    "Legislative branch - upper chamber": {
+      "chamber name": {
+        "text": "Senate"
+      },
+      "number of seats": {
+        "text": "32 (all appointed)"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "5 years"
+      },
+      "most recent election date": {
+        "text": "8/28/2020"
+      },
+      "percentage of women in chamber": {
+        "text": "40.6%"
+      },
+      "expected date of next election": {
+        "text": "August 2025"
+      }
     },
     "Judicial branch": {
       "highest court(s)": {
@@ -594,7 +643,7 @@
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2023": {
-        "text": "$43.681 billion (2023 est.)"
+        "text": "$43.358 billion (2023 est.)"
       },
       "Real GDP (purchasing power parity) 2022": {
         "text": "$42.781 billion (2022 est.)"
@@ -606,7 +655,7 @@
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2023": {
-        "text": "2.1% (2023 est.)"
+        "text": "1.35% (2023 est.)"
       },
       "Real GDP growth rate 2022": {
         "text": "1.48% (2022 est.)"
@@ -618,18 +667,18 @@
     },
     "Real GDP per capita": {
       "Real GDP per capita 2023": {
-        "text": "$28,500 (2023 est.)"
+        "text": "$31,700 (2023 est.)"
       },
       "Real GDP per capita 2022": {
-        "text": "$27,900 (2022 est.)"
+        "text": "$31,300 (2022 est.)"
       },
       "Real GDP per capita 2021": {
-        "text": "$27,600 (2021 est.)"
+        "text": "$30,800 (2021 est.)"
       },
       "note": "<b>note:</b> data in 2021 dollars"
     },
     "GDP (official exchange rate)": {
-      "text": "$28.14 billion (2023 est.)",
+      "text": "$27.372 billion (2023 est.)",
       "note": "<b>note:</b> data in current dollars at official exchange rate"
     },
     "Inflation rate (consumer prices)": {
@@ -675,6 +724,9 @@
       "investment in fixed capital": {
         "text": "19.8% (2021 est.)"
       },
+      "investment in inventories": {
+        "text": "0% (2021 est.)"
+      },
       "exports of goods and services": {
         "text": "45.4% (2017 est.)"
       },
@@ -694,7 +746,7 @@
       "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
-      "text": "681,000 (2023 est.)",
+      "text": "612,000 (2023 est.)",
       "note": "<b>note:</b> number of people ages 15 or older who are employed or seeking work"
     },
     "Unemployment rate": {
@@ -726,7 +778,7 @@
     },
     "Remittances": {
       "Remittances 2023": {
-        "text": "0.63% of GDP (2023 est.)"
+        "text": "0.74% of GDP (2023 est.)"
       },
       "Remittances 2022": {
         "text": "0.68% of GDP (2022 est.)"
@@ -755,26 +807,26 @@
       "note": "<b>note:</b> central government tax revenue as a % of GDP"
     },
     "Current account balance": {
+      "Current account balance 2023": {
+        "text": "$3.397 billion (2023 est.)"
+      },
       "Current account balance 2022": {
-        "text": "$5.382 billion (2022 est.)"
+        "text": "$5.244 billion (2022 est.)"
       },
       "Current account balance 2021": {
-        "text": "$2.695 billion (2021 est.)"
-      },
-      "Current account balance 2020": {
-        "text": "-$1.356 billion (2020 est.)"
+        "text": "$2.629 billion (2021 est.)"
       },
       "note": "<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars"
     },
     "Exports": {
+      "Exports 2023": {
+        "text": "$11.544 billion (2023 est.)"
+      },
       "Exports 2022": {
         "text": "$17.584 billion (2022 est.)"
       },
       "Exports 2021": {
         "text": "$11.542 billion (2021 est.)"
-      },
-      "Exports 2020": {
-        "text": "$6.44 billion (2020 est.)"
       },
       "note": "<b>note:</b> balance of payments - exports of goods and services in current dollars"
     },
@@ -787,14 +839,14 @@
       "note": "<b>note:</b> top five export commodities based on value in dollars"
     },
     "Imports": {
+      "Imports 2023": {
+        "text": "$8.773 billion (2023 est.)"
+      },
       "Imports 2022": {
         "text": "$10.694 billion (2022 est.)"
       },
       "Imports 2021": {
         "text": "$8.636 billion (2021 est.)"
-      },
-      "Imports 2020": {
-        "text": "$6.785 billion (2020 est.)"
       },
       "note": "<b>note:</b> balance of payments - imports of goods and services in current dollars"
     },

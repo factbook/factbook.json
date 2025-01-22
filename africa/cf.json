@@ -585,14 +585,63 @@
       }
     },
     "Legislative branch": {
-      "description": {
-        "text": "bicameral Parliament consists of:<br>Senate (72 seats; members indirectly elected by local, district, and regional councils by simple majority vote to serve 6-year terms) note- the Senate is renewed in its entirety following a constitutional reform implemented in 2015 ending the renewal by half<br>National Assembly (151 seats; members directly elected in single-seat constituencies by absolute majority popular vote in 2 rounds if needed; members serve 5-year terms)"
+      "legislature name": {
+        "text": "Parliament (Parlement)"
       },
-      "elections": {
-        "text": "Senate - last held on 20 August 2023 (next to be held 31 August 2029)<br>National Assembly - last held on 10 and 31 July 2022 (next to be held in July 2027)"
+      "legislative structure": {
+        "text": "bicameral"
+      }
+    },
+    "Legislative branch - lower chamber": {
+      "chamber name": {
+        "text": "National Assembly (Assemblée nationale)"
       },
-      "election results": {
-        "text": "Senate - percent of vote by party - NA; seats by party - PCT 52, Independents 7, RDPS 3, MAR 2, Club 2002 PUR 2, PRL 1, UDLC 1, MCDDI 1, LCEM 1, UPADS 1, RC 1; composition - men 49, women 23, percentage women 34.7%<br><br>National Assembly - percent of vote by party - NA; seats by party - PCT 112, UPADS 7, UDH-YUKI 7, MAR 4, RLP 2, CLUB 2002 2, DRR 2, RDPS 2, PAC 1, MSD 1, MDP 1, CPR 1, PPRD 1, CR 1, MCDDI 1, independent 6; composition - men 129, women 22, percentage women 14.6%; total Parliament percentage women 20.2%"
+      "number of seats": {
+        "text": "151 (all directly elected)"
+      },
+      "electoral system": {
+        "text": "plurality/majority"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "5 years"
+      },
+      "most recent election date": {
+        "text": "7/10/2022 to 7/31/2022"
+      },
+      "parties elected and seats per party": {
+        "text": "Congolese Workers Party (PCT) (112); Other (39)"
+      },
+      "percentage of women in chamber": {
+        "text": "14.6%"
+      },
+      "expected date of next election": {
+        "text": "July 2026"
+      }
+    },
+    "Legislative branch - upper chamber": {
+      "chamber name": {
+        "text": "Senate (Sénat)"
+      },
+      "number of seats": {
+        "text": "72 (all indirectly elected)"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "6 years"
+      },
+      "most recent election date": {
+        "text": "8/20/2023"
+      },
+      "percentage of women in chamber": {
+        "text": "31.9%"
+      },
+      "expected date of next election": {
+        "text": "August 2029"
       }
     },
     "Judicial branch": {
@@ -704,7 +753,7 @@
         "text": "$6,200 (2023 est.)"
       },
       "Real GDP per capita 2022": {
-        "text": "$6,300 (2022 est.)"
+        "text": "$6,200 (2022 est.)"
       },
       "Real GDP per capita 2021": {
         "text": "$6,300 (2021 est.)"
@@ -784,7 +833,7 @@
       "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
-      "text": "2.461 million (2023 est.)",
+      "text": "2.48 million (2023 est.)",
       "note": "<b>note:</b> number of people ages 15 or older who are employed or seeking work"
     },
     "Unemployment rate": {
@@ -813,10 +862,10 @@
     },
     "Remittances": {
       "Remittances 2023": {
-        "text": "0.02% of GDP (2023 est.)"
+        "text": "0.29% of GDP (2023 est.)"
       },
       "Remittances 2022": {
-        "text": "0.02% of GDP (2022 est.)"
+        "text": "0.28% of GDP (2022 est.)"
       },
       "Remittances 2021": {
         "text": "0.3% of GDP (2021 est.)"
@@ -906,8 +955,8 @@
       "note": "<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars"
     },
     "Debt - external": {
-      "Debt - external 2022": {
-        "text": "$6.482 billion (2022 est.)"
+      "Debt - external 2023": {
+        "text": "$6.75 billion (2023 est.)"
       },
       "note": "<b>note:</b> present value of external debt in current US dollars"
     },

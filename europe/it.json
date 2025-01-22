@@ -563,14 +563,69 @@
       }
     },
     "Legislative branch": {
-      "description": {
-        "text": "bicameral Parliament or Parlamento consists of:<br>Senate or Senato della Repubblica (205 seats; 122 members in multi-seat constituencies directly elected by proportional representation vote, 74 members in single-seat constituencies directly elected by plurality vote, 4 members in multi-seat constituencies abroad directly elected by proportional representation vote, and 5 members appointed by the president of Italy; all members serve 5-year terms)<br>Chamber of Deputies or Camera dei Deputati (400 seats; 245 members directly elected in multi-seat constituencies by proportional representation vote; 147 members directly elected in single-seat constituencies by plurality vote and 8 members in multi-seat constituencies abroad directly elected by proportional representation vote; members serve 5-year terms)"
+      "legislature name": {
+        "text": "Parliament (Il Parlamento)"
       },
-      "elections": {
-        "text": "Senate - last held on 25 September 2022 (next to be held no later than December 2027)<br>Chamber of Deputies - last held on 25 September 2022; note - snap elections were called when Prime Minister DRAGHI resigned and the parliament was dissolved on 21 July 2022 (next to be held on 30 September 2027)"
+      "legislative structure": {
+        "text": "bicameral"
+      }
+    },
+    "Legislative branch - lower chamber": {
+      "chamber name": {
+        "text": "Chamber of Deputies (Camera dei Deputati)"
       },
-      "election results": {
-        "text": "Senate - percent of vote by party/coalition - NA; seats by party/coalition - center-right coalition 113 (FdI 65, Lega 30, FI 18), center-left coalition 43 (PD 40, AVS 3), M5S 28, Action-Italia Viva 9, SVP 2, MAIE 1, ScN 1; composition - men 131, women 74, percentage women 36.1%<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - center-right coalition 230 (FdI 119, Lega 66, FI 45), center-left coalition 83 (PD 69, AVS 12, +EU 2), M5S 52, Action-Italia Viva 21, SVP 3, MAIE 1, ScN 1; composition - men 271, women 129, percentage women 32.3%; total Parliament percentage women 33.6%"
+      "number of seats": {
+        "text": "400 (all directly elected)"
+      },
+      "electoral system": {
+        "text": "mixed system"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "5 years"
+      },
+      "most recent election date": {
+        "text": "9/25/2022"
+      },
+      "parties elected and seats per party": {
+        "text": "Coalition Brothers of Italy (FdI) - Lega - Forza Italia - Us Moderates (Noi moderati, NM) (237); Democratic Party - Democratic and Progressive Italy (PD-IDP) - Greens and Left Alliance (AVS) - +EUROPA\" - Civic Commitment (IC) (84); Five Star Movement (M5s) (52); Action - Italia Viva (21); Other (6)"
+      },
+      "percentage of women in chamber": {
+        "text": "32.3%"
+      },
+      "expected date of next election": {
+        "text": "September 2027"
+      }
+    },
+    "Legislative branch - upper chamber": {
+      "chamber name": {
+        "text": "Senate (Senato della Repubblica)"
+      },
+      "number of seats": {
+        "text": "205 (200 directly elected; 5 appointed)"
+      },
+      "electoral system": {
+        "text": "mixed system"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "5 years"
+      },
+      "most recent election date": {
+        "text": "9/25/2022"
+      },
+      "parties elected and seats per party": {
+        "text": "Coalition Brothers of Italy (FdI) - Lega - Forza Italia - Us Moderates (Noi moderati, NM) (115); Democratic Party - Democratic and Progressive Italy (PD-IDP) - Greens and Left Alliance (AVS) - +EUROPA\" - Civic Commitment (IC) (44); Five Star Movement (M5s) (28); Other (13)"
+      },
+      "percentage of women in chamber": {
+        "text": "36.1%"
+      },
+      "expected date of next election": {
+        "text": "September 2027"
       }
     },
     "Judicial branch": {
@@ -667,22 +722,22 @@
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2023": {
-        "text": "$3.097 trillion (2023 est.)"
+        "text": "$3.145 trillion (2023 est.)"
       },
       "Real GDP (purchasing power parity) 2022": {
-        "text": "$3.068 trillion (2022 est.)"
+        "text": "$3.123 trillion (2022 est.)"
       },
       "Real GDP (purchasing power parity) 2021": {
-        "text": "$2.951 trillion (2021 est.)"
+        "text": "$2.984 trillion (2021 est.)"
       },
       "note": "<b>note:</b> data in 2021 dollars"
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2023": {
-        "text": "0.92% (2023 est.)"
+        "text": "0.7% (2023 est.)"
       },
       "Real GDP growth rate 2022": {
-        "text": "3.99% (2022 est.)"
+        "text": "4.66% (2022 est.)"
       },
       "Real GDP growth rate 2021": {
         "text": "8.31% (2021 est.)"
@@ -691,18 +746,18 @@
     },
     "Real GDP per capita": {
       "Real GDP per capita 2023": {
-        "text": "$52,700 (2023 est.)"
+        "text": "$53,300 (2023 est.)"
       },
       "Real GDP per capita 2022": {
-        "text": "$52,100 (2022 est.)"
+        "text": "$52,900 (2022 est.)"
       },
       "Real GDP per capita 2021": {
-        "text": "$49,900 (2021 est.)"
+        "text": "$50,500 (2021 est.)"
       },
       "note": "<b>note:</b> data in 2021 dollars"
     },
     "GDP (official exchange rate)": {
-      "text": "$2.255 trillion (2023 est.)",
+      "text": "$2.301 trillion (2023 est.)",
       "note": "<b>note:</b> data in current dollars at official exchange rate"
     },
     "Inflation rate (consumer prices)": {
@@ -734,31 +789,31 @@
         "text": "1.9% (2023 est.)"
       },
       "industry": {
-        "text": "23.1% (2023 est.)"
+        "text": "22.9% (2023 est.)"
       },
       "services": {
-        "text": "64.9% (2023 est.)"
+        "text": "65% (2023 est.)"
       },
       "note": "<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "59.6% (2023 est.)"
+        "text": "58.4% (2023 est.)"
       },
       "government consumption": {
-        "text": "18.1% (2023 est.)"
+        "text": "17.8% (2023 est.)"
       },
       "investment in fixed capital": {
-        "text": "21.2% (2023 est.)"
+        "text": "22.5% (2023 est.)"
       },
       "investment in inventories": {
-        "text": "-0.3% (2023 est.)"
+        "text": "0.2% (2023 est.)"
       },
       "exports of goods and services": {
-        "text": "35.1% (2023 est.)"
+        "text": "33.7% (2023 est.)"
       },
       "imports of goods and services": {
-        "text": "-33.7% (2023 est.)"
+        "text": "-32.5% (2023 est.)"
       },
       "note": "<b>note:</b> figures may not total 100% due to rounding or gaps in data collection"
     },
@@ -770,11 +825,11 @@
       "text": "tourism, machinery, iron and steel, chemicals, food processing, textiles, motor vehicles, clothing, footwear, ceramics"
     },
     "Industrial production growth rate": {
-      "text": "-0.02% (2023 est.)",
+      "text": "0.28% (2023 est.)",
       "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
-      "text": "25.669 million (2023 est.)",
+      "text": "25.786 million (2023 est.)",
       "note": "<b>note:</b> number of people ages 15 or older who are employed or seeking work"
     },
     "Unemployment rate": {
@@ -830,13 +885,13 @@
     },
     "Remittances": {
       "Remittances 2023": {
-        "text": "0.47% of GDP (2023 est.)"
+        "text": "0.53% of GDP (2023 est.)"
       },
       "Remittances 2022": {
-        "text": "0.51% of GDP (2022 est.)"
+        "text": "0.5% of GDP (2022 est.)"
       },
       "Remittances 2021": {
-        "text": "0.49% of GDP (2021 est.)"
+        "text": "0.48% of GDP (2021 est.)"
       },
       "note": "<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities"
     },
@@ -856,12 +911,12 @@
       "note": "<strong>note:</strong> Italy reports its data on public debt according to guidelines set out in the Maastricht Treaty; general government gross debt is defined in the Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year, in the following categories of government liabilities (as defined in ESA95): currency and deposits (AF.2), securities other than shares excluding financial derivatives (AF.3, excluding AF.34), and loans (AF.4); the general government sector comprises central, state, and local government and social security funds"
     },
     "Taxes and other revenues": {
-      "text": "24.92% (of GDP) (2022 est.)",
+      "text": "24.5% (of GDP) (2022 est.)",
       "note": "<b>note:</b> central government tax revenue as a % of GDP"
     },
     "Current account balance": {
       "Current account balance 2023": {
-        "text": "$11.552 billion (2023 est.)"
+        "text": "-$247.462 million (2023 est.)"
       },
       "Current account balance 2022": {
         "text": "-$32.783 billion (2022 est.)"
@@ -873,7 +928,7 @@
     },
     "Exports": {
       "Exports 2023": {
-        "text": "$793.589 billion (2023 est.)"
+        "text": "$777.594 billion (2023 est.)"
       },
       "Exports 2022": {
         "text": "$752.864 billion (2022 est.)"
@@ -893,7 +948,7 @@
     },
     "Imports": {
       "Imports 2023": {
-        "text": "$756.154 billion (2023 est.)"
+        "text": "$747.798 billion (2023 est.)"
       },
       "Imports 2022": {
         "text": "$785.549 billion (2022 est.)"

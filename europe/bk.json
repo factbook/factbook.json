@@ -551,14 +551,63 @@
       "note": "<strong>note:</strong> President of the Federation of Bosnia and Herzegovina Lidiia BRADARA (since 28 February 2023); Vice Presidents Refik LENDO (since 28 February 2023) and Igor STOJANOVIC (since 28 February 2023); President of the Republika Srpska Milorad DODIK (since 15 November 2022); Vice Presidents Camil DURAKOVIC (since 15 November 2022) and Davor PRANJIC (since 15 November 2022)"
     },
     "Legislative branch": {
-      "description": {
-        "text": "bicameral Parliamentary Assembly or Skupstina consists of:<br>House of Peoples or Dom Naroda (15 seats - 5 Bosniak, 5 Croat, 5 Serb; members designated by the Federation of Bosnia and Herzegovina's House of Peoples and the Republika Srpska's National Assembly to serve 4-year terms)<br>House of Representatives or Predstavnicki Dom (42 seats to include 28 seats allocated to the Federation of Bosnia and Herzegovina and 14 to the Republika Srpska; members directly elected by proportional representation vote to serve 4-year terms)"
+      "legislature name": {
+        "text": "Parliamentary Assembly (Skupstina)"
       },
-      "elections": {
-        "text": "House of Peoples - last held on 2 October 2022 (next to be held in 2026)<br>House of Representatives - last held on 2 October 2022 (next to be held in 2026)"
+      "legislative structure": {
+        "text": "bicameral"
+      }
+    },
+    "Legislative branch - lower chamber": {
+      "chamber name": {
+        "text": "House of Representatives (Predstavnicki dom)"
       },
-      "election results": {
-        "text": "House of Peoples - percent of vote by party/coalition - NA; seats by party/coalition - NA; composition - men 13, women 2, percentage women 13.3%<br><br>House of Representatives - percent of vote by party/coalition - SDA 17.2%, SNSD 16.3%, HDZ BiH 8.8%, SDP 8.2%, SDS 7.1%, DF-GS 6.4%, NiP 5%, PDP 4.6%, NS/HC 3.1%, NES 3%, For Justice and Order 2.1%, DEMOS 1.9%, US 1.6%, BHI KF 1.3%, other 13.4%; seats by party/coalition - SDA 9, SNSD 6, SDP 5, HDZ BiH 4, DF-GS 3, NiP 3, SDS 2, PDP 2, NS/HC 2, NES 2, For Justice and Order 1, DEMOS 1, US 1, BHI KF 1; composition - men 34, women 8, percentage women 19.1%; total Parliamentary Assembly percentage women 17.5%"
+      "number of seats": {
+        "text": "42 (all directly elected)"
+      },
+      "electoral system": {
+        "text": "proportional representation"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "4 years"
+      },
+      "most recent election date": {
+        "text": "10/2/2022"
+      },
+      "parties elected and seats per party": {
+        "text": "Party of Democratic Action (SDA) (9); Alliance of Independent Social Democrats (SNSD) (6); Social Democratic Party of Bosnia and Herzegovina (SDP) (5); HDZ BiH, HSS, HSP BiH, HKDU, HSPAS, HDU, HSPHB, HRAST (4); Democratic Front (DF) - Civic Alliance (GS) (3); People and Justice (NAROD I PRAVDA) (3); Other (12)"
+      },
+      "percentage of women in chamber": {
+        "text": "19%"
+      },
+      "expected date of next election": {
+        "text": "October 2026"
+      }
+    },
+    "Legislative branch - upper chamber": {
+      "chamber name": {
+        "text": "House of Peoples (Dom Naroda)"
+      },
+      "number of seats": {
+        "text": "15 (all appointed)"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "4 years"
+      },
+      "most recent election date": {
+        "text": "2/16/2023"
+      },
+      "percentage of women in chamber": {
+        "text": "13.3%"
+      },
+      "expected date of next election": {
+        "text": "February 2027"
       }
     },
     "Judicial branch": {
@@ -653,7 +702,7 @@
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2023": {
-        "text": "$63.769 billion (2023 est.)"
+        "text": "$64.104 billion (2023 est.)"
       },
       "Real GDP (purchasing power parity) 2022": {
         "text": "$62.717 billion (2022 est.)"
@@ -665,7 +714,7 @@
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2023": {
-        "text": "1.68% (2023 est.)"
+        "text": "2.21% (2023 est.)"
       },
       "Real GDP growth rate 2022": {
         "text": "4.23% (2022 est.)"
@@ -677,29 +726,29 @@
     },
     "Real GDP per capita": {
       "Real GDP per capita 2023": {
-        "text": "$19,900 (2023 est.)"
+        "text": "$20,100 (2023 est.)"
       },
       "Real GDP per capita 2022": {
-        "text": "$19,400 (2022 est.)"
+        "text": "$19,600 (2022 est.)"
       },
       "Real GDP per capita 2021": {
-        "text": "$18,400 (2021 est.)"
+        "text": "$18,500 (2021 est.)"
       },
       "note": "<b>note:</b> data in 2021 dollars"
     },
     "GDP (official exchange rate)": {
-      "text": "$27.055 billion (2023 est.)",
+      "text": "$27.515 billion (2023 est.)",
       "note": "<b>note:</b> data in current dollars at official exchange rate"
     },
     "Inflation rate (consumer prices)": {
+      "Inflation rate (consumer prices) 2023": {
+        "text": "6.11% (2023 est.)"
+      },
+      "Inflation rate (consumer prices) 2022": {
+        "text": "14.02% (2022 est.)"
+      },
       "Inflation rate (consumer prices) 2021": {
         "text": "1.98% (2021 est.)"
-      },
-      "Inflation rate (consumer prices) 2020": {
-        "text": "-1.05% (2020 est.)"
-      },
-      "Inflation rate (consumer prices) 2019": {
-        "text": "0.56% (2019 est.)"
       }
     },
     "Credit ratings": {
@@ -713,34 +762,34 @@
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "4.3% (2023 est.)"
+        "text": "4.7% (2023 est.)"
       },
       "industry": {
-        "text": "23.3% (2023 est.)"
+        "text": "23.8% (2023 est.)"
       },
       "services": {
-        "text": "56.4% (2023 est.)"
+        "text": "55.8% (2023 est.)"
       },
       "note": "<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "71.9% (2023 est.)"
+        "text": "68.5% (2023 est.)"
       },
       "government consumption": {
-        "text": "19.9% (2023 est.)"
+        "text": "19.2% (2023 est.)"
       },
       "investment in fixed capital": {
-        "text": "22.1% (2022 est.)"
+        "text": "23.1% (2023 est.)"
       },
       "investment in inventories": {
-        "text": "4.7% (2023 est.)"
+        "text": "3.3% (2023 est.)"
       },
       "exports of goods and services": {
         "text": "44.1% (2023 est.)"
       },
       "imports of goods and services": {
-        "text": "-56.9% (2023 est.)"
+        "text": "-55.8% (2023 est.)"
       },
       "note": "<b>note:</b> figures may not total 100% due to rounding or gaps in data collection"
     },
@@ -752,11 +801,11 @@
       "text": "steel, coal, iron ore, lead, zinc, manganese, bauxite, aluminum, motor vehicle assembly, textiles, tobacco products, wooden furniture, ammunition, domestic appliances, oil refining"
     },
     "Industrial production growth rate": {
-      "text": "-2.8% (2023 est.)",
+      "text": "-0.47% (2023 est.)",
       "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
-      "text": "1.369 million (2023 est.)",
+      "text": "1.382 million (2023 est.)",
       "note": "<b>note:</b> number of people ages 15 or older who are employed or seeking work"
     },
     "Unemployment rate": {
@@ -797,7 +846,7 @@
     },
     "Remittances": {
       "Remittances 2023": {
-        "text": "10.53% of GDP (2023 est.)"
+        "text": "10.26% of GDP (2023 est.)"
       },
       "Remittances 2022": {
         "text": "10.52% of GDP (2022 est.)"
@@ -817,36 +866,36 @@
       "note": "<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated"
     },
     "Public debt": {
-      "Public debt 2022": {
-        "text": "41.74% of GDP (2022 est.)"
+      "Public debt 2023": {
+        "text": "40.42% of GDP (2023 est.)"
       },
       "note": "<b>note:</b> central government debt as a % of GDP"
     },
     "Taxes and other revenues": {
-      "text": "19.09% (of GDP) (2022 est.)",
+      "text": "19.11% (of GDP) (2023 est.)",
       "note": "<b>note:</b> central government tax revenue as a % of GDP"
     },
     "Current account balance": {
       "Current account balance 2023": {
-        "text": "-$760.467 million (2023 est.)"
+        "text": "-$638.769 million (2023 est.)"
       },
       "Current account balance 2022": {
-        "text": "-$1.065 billion (2022 est.)"
+        "text": "-$1.078 billion (2022 est.)"
       },
       "Current account balance 2021": {
-        "text": "-$418.984 million (2021 est.)"
+        "text": "-$349.24 million (2021 est.)"
       },
       "note": "<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars"
     },
     "Exports": {
       "Exports 2023": {
-        "text": "$11.942 billion (2023 est.)"
+        "text": "$12.126 billion (2023 est.)"
       },
       "Exports 2022": {
-        "text": "$11.794 billion (2022 est.)"
+        "text": "$11.838 billion (2022 est.)"
       },
       "Exports 2021": {
-        "text": "$10.058 billion (2021 est.)"
+        "text": "$10.116 billion (2021 est.)"
       },
       "note": "<b>note:</b> balance of payments - exports of goods and services in current dollars"
     },
@@ -860,13 +909,13 @@
     },
     "Imports": {
       "Imports 2023": {
-        "text": "$15.398 billion (2023 est.)"
+        "text": "$15.37 billion (2023 est.)"
       },
       "Imports 2022": {
-        "text": "$15.162 billion (2022 est.)"
+        "text": "$15.166 billion (2022 est.)"
       },
       "Imports 2021": {
-        "text": "$12.738 billion (2021 est.)"
+        "text": "$12.739 billion (2021 est.)"
       },
       "note": "<b>note:</b> balance of payments - imports of goods and services in current dollars"
     },
@@ -891,8 +940,8 @@
       "note": "<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars"
     },
     "Debt - external": {
-      "Debt - external 2022": {
-        "text": "$4.521 billion (2022 est.)"
+      "Debt - external 2023": {
+        "text": "$5.602 billion (2023 est.)"
       },
       "note": "<b>note:</b> present value of external debt in current US dollars"
     },

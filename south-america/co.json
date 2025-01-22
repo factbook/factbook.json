@@ -571,14 +571,69 @@
       "note": "<strong>note: </strong>the president is both chief of state and head of government"
     },
     "Legislative branch": {
-      "description": {
-        "text": "bicameral Congress or Congreso consists of:<br>Senate or Senado (108 seats; 100 members elected in a single nationwide constituency by party-list proportional representation vote, 2 members elected in a special nationwide constituency for indigenous communities, 5 members of the Commons political party, formerly the People's Alternative Revolutionary Force (FARC), for 2 legislative terms only: 2018-2022 and 2022-2026 as per the 2016 peace accord, and 1 seat reserved for the runner-up presidential candidate in the recent election; all members serve 4-year terms)<br> <p>Chamber of Representatives or Camara de Representantes (188 seats; 162 members elected in multi-seat constituencies by party-list proportional representation vote, 2 members elected in a special nationwide constituency for Afro-Colombians, 1 member elected by Colombians residing abroad, 1 member elected in a special nationwide constituency for the indigenous communities, 5 members of the Commons political party for two legislative terms only: 2018-2022 and 2022-2026 as per the 2016 peace accord, 16 seats for rural conflict victims for two legislative terms only: 2022-2026 and 2026-2030, and 1 seat reserved for the runner-up vice presidential candidate in the recent election; all members serve 4-year terms)</p>"
+      "legislature name": {
+        "text": "Congress (Congreso)"
       },
-      "elections": {
-        "text": "Senate - last held on 13 March 2022 (next to be held in March 2026)<br>Chamber of Representatives - last held on 13 March 2022 (next to be held in March 2026)"
+      "legislative structure": {
+        "text": "bicameral"
+      }
+    },
+    "Legislative branch - lower chamber": {
+      "chamber name": {
+        "text": "House of Representatives (Cámara de Representantes)"
       },
-      "election results": {
-        "text": "Senate - percent of vote by party/coalition - PHxC 16.9%, PC 13.1%, PL 12.4%, Green Alliance and Center Hope Coalition 11.5%, CD 11.4%, CR 9.4%, U Party 8.8%, MIRA–Colombia Free and Just Coalition 3.4%, other 13.1%; seats by party/coalition - PHxC- 20, PC 15, PL 14, Green Alliance and Center Hope Coalition 13, CD 13, CR 11, U Party 10, MIRA–Colombia Free and Just Coalition 4; composition - men 73, women 33, percentage women 31.1%<br><br>Chamber of Representatives - percent of vote by party/coalition- PHxC 17.6%, PL 14%, PC 12.4%, CD 10.2% U Party 8.6%, CR 7.9%, Green Alliance 6.5%, others 22.4%; seats by party/coalition - PL 32,  PHxC 27, CP 25, CD 16, CR 16, U Party 15, Green Alliance and Center Hope Coalition 11, others 24; composition - men 133, women 54, percentage women 28.9%; total Congress percentage women 29.7%"
+      "number of seats": {
+        "text": "187 (all directly elected)"
+      },
+      "electoral system": {
+        "text": "proportional representation"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "4 years"
+      },
+      "most recent election date": {
+        "text": "3/13/2022"
+      },
+      "parties elected and seats per party": {
+        "text": "Liberal Party (PL) (32); Historic Pact (27); Conservative Party (CP) (25); Democratic Centre (CD) (16); Radical Change (CR) (16); Union Party for the People “Partido de la U” (15); Green Alliance - Hope Centre coalition (11); Seats reserved for victims of the armed conflict (Citrep) (16); Other (28)"
+      },
+      "percentage of women in chamber": {
+        "text": "29.4%"
+      },
+      "expected date of next election": {
+        "text": "March 2026"
+      }
+    },
+    "Legislative branch - upper chamber": {
+      "chamber name": {
+        "text": "Senate (Senado de la República)"
+      },
+      "number of seats": {
+        "text": "108 (all directly elected)"
+      },
+      "electoral system": {
+        "text": "proportional representation"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "4 years"
+      },
+      "most recent election date": {
+        "text": "3/13/2022"
+      },
+      "parties elected and seats per party": {
+        "text": "Historic Pact (20); Conservative Party (CP) (15); Liberal Party (PL) (14); Green Alliance - Hope Centre coalition (13); Democratic Centre (CD) (13); Radical Change (CR) (11); Union Party for the People “Partido de la U” (10); Other (4)"
+      },
+      "percentage of women in chamber": {
+        "text": "31.4%"
+      },
+      "expected date of next election": {
+        "text": "March 2026"
       }
     },
     "Judicial branch": {
@@ -670,7 +725,7 @@
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2023": {
-        "text": "$978.024 billion (2023 est.)"
+        "text": "$978.007 billion (2023 est.)"
       },
       "Real GDP (purchasing power parity) 2022": {
         "text": "$972.073 billion (2022 est.)"
@@ -694,18 +749,18 @@
     },
     "Real GDP per capita": {
       "Real GDP per capita 2023": {
-        "text": "$18,800 (2023 est.)"
+        "text": "$18,700 (2023 est.)"
       },
       "Real GDP per capita 2022": {
-        "text": "$18,700 (2022 est.)"
+        "text": "$18,800 (2022 est.)"
       },
       "Real GDP per capita 2021": {
-        "text": "$17,600 (2021 est.)"
+        "text": "$17,700 (2021 est.)"
       },
       "note": "<b>note:</b> data in 2021 dollars"
     },
     "GDP (official exchange rate)": {
-      "text": "$363.54 billion (2023 est.)",
+      "text": "$363.494 billion (2023 est.)",
       "note": "<b>note:</b> data in current dollars at official exchange rate"
     },
     "Inflation rate (consumer prices)": {
@@ -737,7 +792,7 @@
         "text": "8.7% (2023 est.)"
       },
       "industry": {
-        "text": "24.5% (2023 est.)"
+        "text": "24.6% (2023 est.)"
       },
       "services": {
         "text": "56.9% (2023 est.)"
@@ -746,16 +801,16 @@
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "77.5% (2023 est.)"
+        "text": "76.5% (2023 est.)"
       },
       "government consumption": {
-        "text": "14.6% (2023 est.)"
+        "text": "14.8% (2023 est.)"
       },
       "investment in fixed capital": {
-        "text": "17.6% (2023 est.)"
+        "text": "17.4% (2023 est.)"
       },
       "investment in inventories": {
-        "text": "-4.8% (2023 est.)"
+        "text": "-3.8% (2023 est.)"
       },
       "exports of goods and services": {
         "text": "17.8% (2023 est.)"
@@ -777,7 +832,7 @@
       "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
-      "text": "26.003 million (2023 est.)",
+      "text": "26.294 million (2023 est.)",
       "note": "<b>note:</b> number of people ages 15 or older who are employed or seeking work"
     },
     "Unemployment rate": {
@@ -864,25 +919,25 @@
     },
     "Current account balance": {
       "Current account balance 2023": {
-        "text": "-$9.715 billion (2023 est.)"
+        "text": "-$9.13 billion (2023 est.)"
       },
       "Current account balance 2022": {
-        "text": "-$21.367 billion (2022 est.)"
+        "text": "-$21.185 billion (2022 est.)"
       },
       "Current account balance 2021": {
-        "text": "-$17.956 billion (2021 est.)"
+        "text": "-$17.949 billion (2021 est.)"
       },
       "note": "<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars"
     },
     "Exports": {
       "Exports 2023": {
-        "text": "$67.762 billion (2023 est.)"
+        "text": "$68.273 billion (2023 est.)"
       },
       "Exports 2022": {
-        "text": "$73.06 billion (2022 est.)"
+        "text": "$73.205 billion (2022 est.)"
       },
       "Exports 2021": {
-        "text": "$50.907 billion (2021 est.)"
+        "text": "$50.913 billion (2021 est.)"
       },
       "note": "<b>note:</b> balance of payments - exports of goods and services in current dollars"
     },
@@ -896,10 +951,10 @@
     },
     "Imports": {
       "Imports 2023": {
-        "text": "$75.983 billion (2023 est.)"
+        "text": "$76.23 billion (2023 est.)"
       },
       "Imports 2022": {
-        "text": "$89.649 billion (2022 est.)"
+        "text": "$89.606 billion (2022 est.)"
       },
       "Imports 2021": {
         "text": "$70.914 billion (2021 est.)"
@@ -927,8 +982,8 @@
       "note": "<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars"
     },
     "Debt - external": {
-      "Debt - external 2022": {
-        "text": "$97.915 billion (2022 est.)"
+      "Debt - external 2023": {
+        "text": "$110.471 billion (2023 est.)"
       },
       "note": "<b>note:</b> present value of external debt in current US dollars"
     },
@@ -1210,7 +1265,7 @@
       }
     },
     "Military and security service personnel strengths": {
-      "text": "information varies; approximately 265,000 active troops (200,000 Army; 50,000 Navy, including about 20,000 marines; 15,000 Air Force); approximately 175,000 National Police (2023)"
+      "text": "information varies; approximately 260,000 active troops (200,000 Army; 45,000 Navy, including about 20,000 marines; 15,000 Air Force); approximately 175,000 National Police (2023)"
     },
     "Military equipment inventories and acquisitions": {
       "text": "the military's inventory includes a wide mix of equipment from a variety of suppliers, including Canada, Germany, Israel, South Korea, and especially the US; Colombia's defense industry is active in producing air, land, and naval platforms (2024)"

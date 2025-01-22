@@ -566,14 +566,35 @@
       }
     },
     "Legislative branch": {
-      "description": {
-        "text": "unicameral National Assembly or Assemblee Nationale (109 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms except for the current members whose terms will end in 2026 to facilitate general elections)"
+      "legislature name": {
+        "text": "National Assembly (Assemblée nationale)"
       },
-      "elections": {
-        "text": "last held on 8 January 2023 (next to be held on 11 January 2027)"
+      "legislative structure": {
+        "text": "unicameral"
       },
-      "election results": {
-        "text": "percent of vote by party - Progressive Union for Renewal 37.6%, Bloc Republicain 29.2%, The Democrats 24%; seats by party - Progressive Union for Renewal 53, Bloc Republicain 28, The Democrats 28; composition- men 80, women 29, percentage women 26.6%"
+      "number of seats": {
+        "text": "109 (all directly elected)"
+      },
+      "electoral system": {
+        "text": "proportional representation"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "4 years"
+      },
+      "most recent election date": {
+        "text": "1/8/2023"
+      },
+      "parties elected and seats per party": {
+        "text": "Progressive Union for Renewal (53); Republican Block (BR) (28); Democrats (28)"
+      },
+      "percentage of women in chamber": {
+        "text": "26.6%"
+      },
+      "expected date of next election": {
+        "text": "January 2026"
       },
       "note": "<strong>note:</strong> seat total includes 24 seats reserved for women"
     },
@@ -687,18 +708,18 @@
     },
     "Real GDP per capita": {
       "Real GDP per capita 2023": {
-        "text": "$3,800 (2023 est.)"
+        "text": "$3,700 (2023 est.)"
       },
       "Real GDP per capita 2022": {
-        "text": "$3,700 (2022 est.)"
+        "text": "$3,600 (2022 est.)"
       },
       "Real GDP per capita 2021": {
-        "text": "$3,600 (2021 est.)"
+        "text": "$3,500 (2021 est.)"
       },
       "note": "<b>note:</b> data in 2021 dollars"
     },
     "GDP (official exchange rate)": {
-      "text": "$19.673 billion (2023 est.)",
+      "text": "$19.676 billion (2023 est.)",
       "note": "<b>note:</b> data in current dollars at official exchange rate"
     },
     "Inflation rate (consumer prices)": {
@@ -770,7 +791,7 @@
       "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
-      "text": "4.964 million (2023 est.)",
+      "text": "5.147 million (2023 est.)",
       "note": "<b>note:</b> number of people ages 15 or older who are employed or seeking work"
     },
     "Unemployment rate": {
@@ -798,7 +819,7 @@
       "note": "<b>note:</b> % of labor force ages 15-24 seeking employment"
     },
     "Population below poverty line": {
-      "text": "38.5% (2019 est.)",
+      "text": "38.5% (2018 est.)",
       "note": "<b>note:</b> % of population with income below national poverty line"
     },
     "Gini Index coefficient - distribution of family income": {
@@ -821,7 +842,7 @@
         "text": "1.19% of GDP (2023 est.)"
       },
       "Remittances 2022": {
-        "text": "1.32% of GDP (2022 est.)"
+        "text": "1.44% of GDP (2022 est.)"
       },
       "Remittances 2021": {
         "text": "1.31% of GDP (2021 est.)"
@@ -845,26 +866,26 @@
       "text": "17.1% (of GDP) (2017 est.)"
     },
     "Current account balance": {
+      "Current account balance 2022": {
+        "text": "-$1.046 billion (2022 est.)"
+      },
       "Current account balance 2021": {
         "text": "-$734.659 million (2021 est.)"
       },
       "Current account balance 2020": {
         "text": "-$273.967 million (2020 est.)"
       },
-      "Current account balance 2019": {
-        "text": "-$575.593 million (2019 est.)"
-      },
       "note": "<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars"
     },
     "Exports": {
+      "Exports 2022": {
+        "text": "$4.271 billion (2022 est.)"
+      },
       "Exports 2021": {
         "text": "$4.154 billion (2021 est.)"
       },
       "Exports 2020": {
         "text": "$3.506 billion (2020 est.)"
-      },
-      "Exports 2019": {
-        "text": "$3.585 billion (2019 est.)"
       },
       "note": "<b>note:</b> balance of payments - exports of goods and services in current dollars"
     },
@@ -877,14 +898,14 @@
       "note": "<b>note:</b> top five export commodities based on value in dollars"
     },
     "Imports": {
+      "Imports 2022": {
+        "text": "$5.296 billion (2022 est.)"
+      },
       "Imports 2021": {
         "text": "$4.925 billion (2021 est.)"
       },
       "Imports 2020": {
         "text": "$3.942 billion (2020 est.)"
-      },
-      "Imports 2019": {
-        "text": "$4.307 billion (2019 est.)"
       },
       "note": "<b>note:</b> balance of payments - imports of goods and services in current dollars"
     },
@@ -905,8 +926,8 @@
       }
     },
     "Debt - external": {
-      "Debt - external 2022": {
-        "text": "$5.328 billion (2022 est.)"
+      "Debt - external 2023": {
+        "text": "$6.792 billion (2023 est.)"
       },
       "note": "<b>note:</b> present value of external debt in current US dollars"
     },

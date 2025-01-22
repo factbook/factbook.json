@@ -580,16 +580,65 @@
       }
     },
     "Legislative branch": {
-      "description": {
-        "text": "bicameral Parliament consists of:<br>Senate or Senat (99 seats; 66 members indirectly elected by the National Assembly and members of municipal, autonomous districts, and regional councils, and 33 members appointed by the president; members serve 5-year terms)<br>National Assembly (255 seats - 254 for 2021-2026 term; members directly elected in single- and multi-seat constituencies by simple majority vote to serve 5-year terms)"
+      "legislature name": {
+        "text": "Parliament (Parlement)"
       },
-      "elections": {
-        "text": "Senate - last held on 16 September 2023 (next to be held in September 2028)<br>National Assembly - last held on 6 March 2021 (next to be held on 31 March 2026)"
-      },
-      "election results": {
-        "text": "Senate - percent by party/coalition NA; seats by party/coalition - RHDP 56, PDCI-RDA 6, independent 2, vacant 2; composition - men 73, women 24, percentage women 15.6% (2 seats vacant); note - 33 members appointed - RHDP 25, independent 8 <br><br>National Assembly - percent of vote by party/coalition - RHDP 49.2%, PDCI-RRA-EDS 16.5%, DPIC 6%, TTB 2.1%, IPF 2%, other 24.2%; seats by party/coalition - RHDP, 137, PDCI-RRA-EDS 50, DPIC 23, EDS 8, TTB 8, IPF 2, independent 26, vacant 1; composition - men 220, women 34, percentage women 13.4%; note - total Parliament percentage women 16.5%"
+      "legislative structure": {
+        "text": "bicameral"
       },
       "note": "<br><br>"
+    },
+    "Legislative branch - lower chamber": {
+      "chamber name": {
+        "text": "National Assembly (Assemblée nationale)"
+      },
+      "number of seats": {
+        "text": "255 (all directly elected)"
+      },
+      "electoral system": {
+        "text": "plurality/majority"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "5 years"
+      },
+      "most recent election date": {
+        "text": "3/6/2021 to 6/12/2021"
+      },
+      "parties elected and seats per party": {
+        "text": "Rally of Houphouetists for Democracy and Peace (RHDP) (139); Democratic Party of Côte d'Ivoire-African Democratic Rally (PDCI-RDA)-Together for Democracy and Sovereignty (EDS) (49); Democratic Party of Côte d'Ivoire-African Democratic Rally (PDCI-RDA) (23); Independents (26); Other (18)"
+      },
+      "percentage of women in chamber": {
+        "text": "13.4%"
+      },
+      "expected date of next election": {
+        "text": "March 2026"
+      }
+    },
+    "Legislative branch - upper chamber": {
+      "chamber name": {
+        "text": "Senate (Sénat)"
+      },
+      "number of seats": {
+        "text": "99 (66 indirectly elected; 33 appointed)"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "5 years"
+      },
+      "most recent election date": {
+        "text": "9/16/2023"
+      },
+      "percentage of women in chamber": {
+        "text": "24.7%"
+      },
+      "expected date of next election": {
+        "text": "September 2028"
+      }
     },
     "Judicial branch": {
       "highest court(s)": {
@@ -676,7 +725,7 @@
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2023": {
-        "text": "$202.758 billion (2023 est.)"
+        "text": "$202.119 billion (2023 est.)"
       },
       "Real GDP (purchasing power parity) 2022": {
         "text": "$190.319 billion (2022 est.)"
@@ -688,7 +737,7 @@
     },
     "Real GDP growth rate": {
       "Real GDP growth rate 2023": {
-        "text": "6.54% (2023 est.)"
+        "text": "6.2% (2023 est.)"
       },
       "Real GDP growth rate 2022": {
         "text": "6.22% (2022 est.)"
@@ -700,18 +749,18 @@
     },
     "Real GDP per capita": {
       "Real GDP per capita 2023": {
-        "text": "$7,000 (2023 est.)"
+        "text": "$6,500 (2023 est.)"
       },
       "Real GDP per capita 2022": {
-        "text": "$6,800 (2022 est.)"
+        "text": "$6,300 (2022 est.)"
       },
       "Real GDP per capita 2021": {
-        "text": "$6,500 (2021 est.)"
+        "text": "$6,000 (2021 est.)"
       },
       "note": "<b>note:</b> data in 2021 dollars"
     },
     "GDP (official exchange rate)": {
-      "text": "$78.789 billion (2023 est.)",
+      "text": "$78.875 billion (2023 est.)",
       "note": "<b>note:</b> data in current dollars at official exchange rate"
     },
     "Inflation rate (consumer prices)": {
@@ -740,31 +789,31 @@
         "text": "14.4% (2023 est.)"
       },
       "industry": {
-        "text": "24.5% (2023 est.)"
+        "text": "23.9% (2023 est.)"
       },
       "services": {
-        "text": "54.3% (2023 est.)"
+        "text": "54.6% (2023 est.)"
       },
       "note": "<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "67.7% (2023 est.)"
+        "text": "64.9% (2023 est.)"
       },
       "government consumption": {
-        "text": "10.3% (2023 est.)"
+        "text": "10.5% (2023 est.)"
       },
       "investment in fixed capital": {
-        "text": "25.5% (2023 est.)"
+        "text": "27.8% (2023 est.)"
       },
       "investment in inventories": {
         "text": "0.3% (2023 est.)"
       },
       "exports of goods and services": {
-        "text": "22.9% (2023 est.)"
+        "text": "24.5% (2023 est.)"
       },
       "imports of goods and services": {
-        "text": "-26.6% (2023 est.)"
+        "text": "-28.1% (2023 est.)"
       },
       "note": "<b>note:</b> figures may not total 100% due to rounding or gaps in data collection"
     },
@@ -776,11 +825,11 @@
       "text": "foodstuffs, beverages; wood products, oil refining, gold mining, truck and bus assembly, textiles, fertilizer, building materials, electricity"
     },
     "Industrial production growth rate": {
-      "text": "9.06% (2023 est.)",
+      "text": "6.1% (2023 est.)",
       "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
-      "text": "10.954 million (2023 est.)",
+      "text": "11.793 million (2023 est.)",
       "note": "<b>note:</b> number of people ages 15 or older who are employed or seeking work"
     },
     "Unemployment rate": {
@@ -836,7 +885,7 @@
     },
     "Remittances": {
       "Remittances 2023": {
-        "text": "0.57% of GDP (2023 est.)"
+        "text": "1.32% of GDP (2023 est.)"
       },
       "Remittances 2022": {
         "text": "1.48% of GDP (2022 est.)"
@@ -925,8 +974,8 @@
       }
     },
     "Debt - external": {
-      "Debt - external 2022": {
-        "text": "$23.623 billion (2022 est.)"
+      "Debt - external 2023": {
+        "text": "$27.931 billion (2023 est.)"
       },
       "note": "<b>note:</b> present value of external debt in current US dollars"
     },
