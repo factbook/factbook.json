@@ -66,13 +66,13 @@
       "agricultural land": {
         "text": "39.6% (2018 est.)"
       },
-      "agricultural land: arable land": {
+      "arable land": {
         "text": "arable land: 3.9% (2018 est.)"
       },
-      "agricultural land: permanent crops": {
+      "permanent crops": {
         "text": "permanent crops: 0% (2018 est.)"
       },
-      "agricultural land: permanent pasture": {
+      "permanent pasture": {
         "text": "permanent pasture: 35.7% (2018 est.)"
       },
       "forest": {
@@ -281,7 +281,7 @@
       }
     },
     "Current health expenditure": {
-      "text": "5.4% of GDP (2020)"
+      "text": "5.2% of GDP (2021)"
     },
     "Physician density": {
       "text": "0.06 physicians/1,000 population (2020)"
@@ -402,13 +402,13 @@
       "agricultural land": {
         "text": "39.6% (2018 est.)"
       },
-      "agricultural land: arable land": {
+      "arable land": {
         "text": "arable land: 3.9% (2018 est.)"
       },
-      "agricultural land: permanent crops": {
+      "permanent crops": {
         "text": "permanent crops: 0% (2018 est.)"
       },
-      "agricultural land: permanent pasture": {
+      "permanent pasture": {
         "text": "permanent pasture: 35.7% (2018 est.)"
       },
       "forest": {
@@ -575,11 +575,13 @@
     },
     "Legislative branch": {
       "legislature name": {
-        "text": "Parliament (Parlement)"
+        "text": "Parliament"
       },
       "legislative structure": {
-        "text": "unicameral"
-      },
+        "text": "bicameral"
+      }
+    },
+    "Legislative branch - lower chamber": {
       "chamber name": {
         "text": "National Assembly (Conseil national de transition)"
       },
@@ -598,11 +600,34 @@
       "most recent election date": {
         "text": "12/29/2024"
       },
+      "parties elected and seats per party": {
+        "text": "Patriotic Salvation Movement (MPS) (124); Rally of Chadian Nationalists/Awakening (RNDT/ Le Réveil) (12); Others (27); Other (25)"
+      },
       "percentage of women in chamber": {
         "text": "34%"
       },
       "expected date of next election": {
         "text": "December 2029"
+      }
+    },
+    "Legislative branch - upper chamber": {
+      "chamber name": {
+        "text": "Senate (Senate)"
+      },
+      "number of seats": {
+        "text": "69 (46 indirectly elected; 23 appointed)"
+      },
+      "scope of elections": {
+        "text": "full renewal"
+      },
+      "term in office": {
+        "text": "6 years"
+      },
+      "most recent election date": {
+        "text": "2/25/2025"
+      },
+      "expected date of next election": {
+        "text": "February 2031"
       }
     },
     "Judicial branch": {
@@ -775,7 +800,7 @@
       "note": "<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection"
     },
     "Agricultural products": {
-      "text": "sorghum, groundnuts, millet, cereals, beef, sugarcane, yams, maize, cassava, milk (2022)",
+      "text": "sorghum, groundnuts, millet, beef, cereals, yams, sugarcane, maize, cassava, milk (2023)",
       "note": "<b>note:</b> top ten agricultural products based on tonnage"
     },
     "Industries": {
@@ -880,11 +905,11 @@
       "note": "<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars"
     },
     "Exports - partners": {
-      "text": "Germany 25%, China 21%, UAE 20%, Taiwan 12%, France 10% (2022)",
+      "text": "UAE 26%, China 19%, Germany 17%, Netherlands 13%, France 10% (2023)",
       "note": "<b>note:</b> top five export partners based on percentage share of exports"
     },
     "Exports - commodities": {
-      "text": "crude petroleum, gold, oil seeds, gum resins, cotton (2022)",
+      "text": "crude petroleum, gold, oil seeds, gum resins, cotton (2023)",
       "note": "<b>note:</b> top five export commodities based on value in dollars"
     },
     "Imports": {
@@ -900,11 +925,11 @@
       "note": "<strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars"
     },
     "Imports - partners": {
-      "text": "China 25%, UAE 20%, France 7%, US 7%, Belgium 7% (2022)",
+      "text": "China 28%, UAE 23%, Turkey 10%, France 9%, India 5% (2023)",
       "note": "<b>note:</b> top five import partners based on percentage share of imports"
     },
     "Imports - commodities": {
-      "text": "vaccines, jewelry, electric generators, broadcasting equipment, packaged medicine (2022)",
+      "text": "jewelry, broadcasting equipment, packaged medicine, cars, refined petroleum (2023)",
       "note": "<strong>note:</strong> top five import commodities based on value in dollars"
     },
     "Reserves of foreign exchange and gold": {
