@@ -111,17 +111,25 @@
   "Economy": {
   },
   "Energy": {
+    "Coal": {
+      "imports": {
+        "text": "2,000 metric tons (2023 est.)"
+      }
+    },
     "Petroleum": {
       "refined petroleum consumption": {
-        "text": "79.9 bbl/day (2022 est.)"
+        "text": "79 bbl/day (2023 est.)"
       }
     },
     "Carbon dioxide emissions": {
       "total emissions": {
-        "text": "12,000 metric tonnes of CO2 (2022 est.)"
+        "text": "15,000 metric tonnes of CO2 (2023 est.)"
+      },
+      "from coal and metallurgical coke": {
+        "text": "2,000 metric tonnes of CO2 (2023 est.)"
       },
       "from petroleum and other liquids": {
-        "text": "12,000 metric tonnes of CO2 (2022 est.)"
+        "text": "13,000 metric tonnes of CO2 (2023 est.)"
       }
     }
   },
