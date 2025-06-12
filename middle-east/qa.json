@@ -273,8 +273,13 @@
         "text": "total: 0.4% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "2.9% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "2.9% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "7.4% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "3.02 physicians/1,000 population (2023)"
@@ -336,13 +341,15 @@
     "Currently married women (ages 15-49)": {
       "text": "65.8% (2023 est.)"
     },
-    "Education expenditures": {
-      "text": "3.2% of GDP (2020 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "3.2% of GDP (2020 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "9.3% national budget (2020 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
         "text": "93.5%"
       },
@@ -487,12 +494,6 @@
     "Administrative divisions": {
       "text": "8 municipalities (baladiyat, singular - baladiyah); Ad Dawhah, Al Khawr wa adh Dhakhirah, Al Wakrah, Ar Rayyan, Ash Shamal, Ash Shihaniyah, Az Za'ayin, Umm Salal"
     },
-    "Independence": {
-      "text": "3 September 1971 (from the UK)"
-    },
-    "National holiday": {
-      "text": "National Day, 18 December (1878), anniversary of Al Thani family accession to the throne; Independence Day, 3 September (1971)"
-    },
     "Legal system": {
       "text": "mixed system of civil law and Islamic (sharia) law (in family and personal matters)"
     },
@@ -581,9 +582,6 @@
     "Political parties": {
       "text": "political parties are banned"
     },
-    "International organization participation": {
-      "text": "ABEDA, AFESD, AMF, CAEU, CD, CICA (observer), EITI (implementing country), FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OAS (observer), OIC, OIF, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNIFIL, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Meshal bin Hamad AL THANI (since 24 April 2017)"
@@ -624,12 +622,24 @@
         "text": "<br>PasDoha@state.gov<br><br>https://qa.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ABEDA, AFESD, AMF, CAEU, CD, CICA (observer), EITI (implementing country), FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OAS (observer), OIC, OIF, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNIFIL, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "3 September 1971 (from the UK)"
+    },
+    "National holiday": {
+      "text": "National Day, 18 December (1878), anniversary of Al Thani family accession to the throne; Independence Day, 3 September (1971)"
+    },
     "Flag description": {
       "text": "maroon with a broad white serrated band on the hoist side; maroon stands for the blood shed in Qatari wars, and white for peace; the nine-pointed serrated edge is a reference to Qatar's status as the ninth member of the \"reconciled emirates\" after the Qatari-British treaty of 1916",
       "note": "<strong>note:</strong> the other eight emirates are Bahrain and the seven that are part of the UAE"
     },
     "National symbol(s)": {
-      "text": "a maroon field surmounted by a white serrated band with nine white points; national colors: maroon, white"
+      "text": "a white serrated band with nine white points on top of a maroon field"
+    },
+    "National colors": {
+      "text": "maroon, white"
     },
     "National anthem": {
       "name": {

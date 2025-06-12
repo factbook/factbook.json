@@ -281,8 +281,13 @@
         "text": "total: 6.5% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "8.2% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "8.2% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "16.4% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "1.28 physicians/1,000 population (2021)"
@@ -358,21 +363,23 @@
         "text": "5.2% (2016)"
       }
     },
-    "Education expenditures": {
-      "text": "9.8% of GDP (2020 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "8.3% of GDP (2023 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "23.1% national budget (2021 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
-        "text": "92.5%"
+        "text": "94% (2020 est.)"
       },
       "male": {
-        "text": "96.5%"
+        "text": "97% (2020 est.)"
       },
       "female": {
-        "text": "88.6% (2015)"
+        "text": "91% (2020 est.)"
       }
     }
   },
@@ -512,12 +519,6 @@
     "Administrative divisions": {
       "text": "9 departments (departamentos, singular - departamento); Beni, Chuquisaca, Cochabamba, La Paz, Oruro, Pando, Potosi, Santa Cruz, Tarija"
     },
-    "Independence": {
-      "text": "6 August 1825 (from Spain)"
-    },
-    "National holiday": {
-      "text": "Independence Day, 6 August (1825)"
-    },
     "Legal system": {
       "text": "civil law system with influences from Roman, Spanish, canon (religious), French, and ethnic groups' pre-colonial law"
     },
@@ -648,9 +649,6 @@
       "text": "Community Citizen Alliance or ACC<br>Front for Victory or FPV<br>Movement Toward Socialism or MAS<br>National Unity or UN<br>Revolutionary Left Front or FRI<br>Revolutionary Nationalist Movement or MNR<br>Social Democrat Movement or MDS<br>Third System Movement or MTS<br>We Believe or Creemos",
       "note": "<strong>note:</strong> We Believe or Creemos [Luis Fernando CAMACHO Vaca] is a coalition comprised of several opposition parties that participated in the 2020 election, which includes the Christian Democratic Party (PDC) and Solidarity Civic Unity (UCS)"
     },
-    "International organization participation": {
-      "text": "CAN, CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, MONUSCO, NAM, OAS, OPANAL, OPCW, PCA, UN, UN Security Council (temporary), UNAMID, UNASUR, UNCTAD, UNESCO, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador (vacant); Charg&eacute; d'Affaires Henry BALDELOMAR CH&Aacute;VEZ (since 11 October 2023)"
@@ -692,12 +690,24 @@
       },
       "note": "<strong>note:</strong> in September 2008, the Bolivian Government expelled the US Ambassador to Bolivia, Philip GOLDBERG, and both countries have yet to reinstate their ambassadors"
     },
+    "International organization participation": {
+      "text": "CAN, CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, MONUSCO, NAM, OAS, OPANAL, OPCW, PCA, UN, UN Security Council (temporary), UNAMID, UNASUR, UNCTAD, UNESCO, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "6 August 1825 (from Spain)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 6 August (1825)"
+    },
     "Flag description": {
       "text": "three equal horizontal bands of red (top), yellow, and green, with the coat of arms centered on the yellow band; red stands for bravery and the blood of national heroes, yellow for the nation's mineral resources, and green for the land's fertility",
       "note": "<strong>note:</strong> similar to the flag of Ghana, which has a large black five-pointed star centered in the yellow band; in 2009, a presidential decree made it mandatory for a <em>wiphala -</em>- a square, multi-colored flag representing the country's ethnic groups -- to be used alongside the traditional flag"
     },
     "National symbol(s)": {
-      "text": "llama, Andean condor, two national flowers: the cantuta and the patuju; national colors: red, yellow, green"
+      "text": "llama, Andean condor; two national flowers, the cantuta and the patuju"
+    },
+    "National colors": {
+      "text": "red, yellow, green"
     },
     "National anthem": {
       "name": {

@@ -270,8 +270,13 @@
         "text": "total: 25.4% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "5.6% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "5.6% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "2.6% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "0.08 physicians/1,000 population (2022)"
@@ -347,21 +352,23 @@
         "text": "2.6% (2017)"
       }
     },
-    "Education expenditures": {
-      "text": "4% of GDP (2020 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "4.1% of GDP (2023 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "11.6% national budget (2024 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
-        "text": "66.5%"
+        "text": "72.6% (2022 est.)"
       },
       "male": {
-        "text": "80%"
+        "text": "82.8% (2022 est.)"
       },
       "female": {
-        "text": "55.1% (2019)"
+        "text": "63.7% (2022 est.)"
       }
     },
     "School life expectancy (primary to tertiary education)": {
@@ -500,12 +507,6 @@
     "Administrative divisions": {
       "text": "5 regions (regions, singular - region); Centrale, Kara, Maritime, Plateaux, Savanes"
     },
-    "Independence": {
-      "text": "27 April 1960 (from French-administered UN trusteeship)"
-    },
-    "National holiday": {
-      "text": "Independence Day, 27 April (1960)"
-    },
     "Legal system": {
       "text": "customary law system"
     },
@@ -633,9 +634,6 @@
     "Political parties": {
       "text": "Action Committee for Renewal or CAR <br>Alliance of Democrats for Integral Development or ADDI <br>Democratic Convention of African Peoples or CDPA <br>Democratic Forces for the Republic or FDR <br>National Alliance for Change or ANC <br>New Togolese Commitment <br>Pan-African National Party or PNP <br>Pan-African Patriotic Convergence or CPP <br>Patriotic Movement for Democracy and Development or MPDD <br>Socialist Pact for Renewal or PSR <br>The Togolese Party <br>Union of Forces for Change or UFC <br>Union for the Republic or UNIR "
     },
-    "International organization participation": {
-      "text": "ACP, AfDB, AIIB, AU, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NAM, OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNOCI, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Fr&eacute;d&eacute;ric Edem HEGBE (since 24 April 2017)"
@@ -673,12 +671,24 @@
         "text": "<br>consularLome@state.gov<br><br>https://tg.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ACP, AfDB, AIIB, AU, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NAM, OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNOCI, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "27 April 1960 (from French-administered UN trusteeship)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 27 April (1960)"
+    },
     "Flag description": {
       "text": "five equal horizontal bands of green (top and bottom) alternating with yellow; a white five-pointed star on a red square is in the upper hoist-side corner; the five horizontal stripes stand for the country's regions; red stands for the people's loyalty and patriotism, green for hope, fertility, and agriculture, and yellow for mineral wealth and faith that hard work and strength will bring prosperity; the star symbolizes life, purity, peace, dignity, and national independence",
       "note": "<strong>note:</strong> uses the popular pan-African colors of Ethiopia"
     },
     "National symbol(s)": {
-      "text": "lion; national colors: green, yellow, red, white"
+      "text": "lion"
+    },
+    "National colors": {
+      "text": "green, yellow, red, white"
     },
     "National anthem": {
       "name": {
@@ -1145,6 +1155,9 @@
       "note": "<strong>note:</strong> the Police and GNT are responsible for law enforcement and maintenance of order within the country; the GNT is also responsible for migration and border enforcement; the GNT falls under the Ministry of the Armed Forces but also reports to the Ministry of Security and Civil Protection on many matters involving law enforcement and internal security; in 2022, the Ministry of the Armed Forces was made part of the Office of the Presidency"
     },
     "Military expenditures": {
+      "Military Expenditures 2024": {
+        "text": "2.2% of GDP (2024 est.)"
+      },
       "Military Expenditures 2023": {
         "text": "3% of GDP (2023 est.)"
       },
@@ -1156,9 +1169,6 @@
       },
       "Military Expenditures 2020": {
         "text": "2.8% of GDP (2020 est.)"
-      },
-      "Military Expenditures 2019": {
-        "text": "2.6% of GDP (2019 est.)"
       }
     },
     "Military and security service personnel strengths": {

@@ -272,8 +272,13 @@
         "text": "total: 0% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "9.2% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "9.2% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "8.7% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "6.58 physicians/1,000 population (2022)"
@@ -335,13 +340,15 @@
     "Currently married women (ages 15-49)": {
       "text": "54.1% (2023 est.)"
     },
-    "Education expenditures": {
-      "text": "4.4% of GDP (2020 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "3.8% of GDP (2022 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "7.2% national budget (2022 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
         "text": "97.9%"
       },
@@ -496,12 +503,6 @@
     "Administrative divisions": {
       "text": "13 regions (perifereies, singular - perifereia) and 1 autonomous monastic state* (aftonomi monastiki politeia); Agion Oros* (Mount Athos), Anatoliki Makedonia kai Thraki (East Macedonia and Thrace), Attiki (Attica), Dytiki Ellada (West Greece), Dytiki Makedonia (West Macedonia), Ionia Nisia (Ionian Islands), Ipeiros (Epirus), Kentriki Makedonia (Central Macedonia), Kriti (Crete), Notio Aigaio (South Aegean), Peloponnisos (Peloponnese), Sterea Ellada (Central Greece), Thessalia (Thessaly), Voreio Aigaio (North Aegean)"
     },
-    "Independence": {
-      "text": "3 February 1830 (from the Ottoman Empire); note - 25 March 1821, outbreak of the national revolt against the Ottomans; 3 February 1830, signing of the London Protocol recognizing Greek independence by Great Britain, France, and Russia"
-    },
-    "National holiday": {
-      "text": "Independence Day, 25 March (1821)"
-    },
     "Legal system": {
       "text": "civil legal system based on Roman law"
     },
@@ -597,9 +598,6 @@
     "Political parties": {
       "text": "Coalition of the Radical Left-Progressive Alliance or SYRIZA-PS <br>Communist Party of Greece or KKE <br>Course of Freedom<br>Democratic Patriotic Movement-Victory or NIKI<br>Greek Solution<br>New Democracy or ND<br>PASOK - Movement for Change or PASOK-KINAL<br>Spartans"
     },
-    "International organization participation": {
-      "text": "Australia Group, BIS, BSEC, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Ekaterini NASSIKA (since 27 February 2024)"
@@ -646,12 +644,25 @@
         "text": "Thessaloniki"
       }
     },
+    "International organization participation": {
+      "text": "Australia Group, BIS, BSEC, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Independence": {
+      "text": "3 February 1830 (from the Ottoman Empire)",
+      "note": "<strong>note:</strong> the national revolt against the Ottomans began on 25 March 1821; the London Protocol recognizing Greek independence was signed on 3 February 1830 by Great Britain, France, and Russia"
+    },
+    "National holiday": {
+      "text": "Independence Day, 25 March (1821)"
+    },
     "Flag description": {
       "text": "nine equal horizontal stripes of blue alternating with white; a blue square with a white cross is in the upper hoist-side corner; the cross symbolizes Greek Orthodoxy, the established religion of the country; there is no set meaning for the stripes and colors",
       "note": "<strong>note:</strong> Greek legislation states that the flag colors are cyan and white, but cyan can mean \"blue\" in Greek, so the exact shade of blue has never been set and has varied from a light to a dark blue over time; the blue is now usually an azure"
     },
     "National symbol(s)": {
-      "text": "Greek cross (white cross on blue field, arms equal length); national colors: blue, white"
+      "text": "Greek cross (white cross on a blue field)"
+    },
+    "National colors": {
+      "text": "blue, white"
     },
     "National anthem": {
       "name": {

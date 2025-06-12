@@ -259,8 +259,13 @@
         "text": "total: 0% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "8.3% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "8.3% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "15.9% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "5.07 physicians/1,000 population (2023)"
@@ -316,13 +321,15 @@
         "text": "34.4% (2025 est.)"
       }
     },
-    "Education expenditures": {
-      "text": "2.9% of GDP (2021 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "1.9% of GDP (2023 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "12% national budget (2024 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
         "text": "100%"
       },
@@ -438,12 +445,6 @@
     "Administrative divisions": {
       "text": "7 parishes (parroquies, singular - parroquia); Andorra la Vella, Canillo, Encamp, Escaldes-Engordany, La Massana, Ordino, Sant Julia de Loria"
     },
-    "Independence": {
-      "text": "1278 (formed under the joint sovereignty of the French Count of Foix and the Spanish Bishop of Urgell)"
-    },
-    "National holiday": {
-      "text": "Our Lady of Meritxell Day, 8 September (1278)"
-    },
     "Legal system": {
       "text": "mixed legal system of civil and customary law with the influence of canon (religious) law"
     },
@@ -539,9 +540,6 @@
     "Political parties": {
       "text": "Action for Andorra or ACCIO <br>Committed Citizens or CC <br>Concord or C<br>Democrats for Andorra or DA <br>Forward Andorra or AE <br>Liberals of Andorra or L'A <br>Social Democratic Party or PS <br>Social Democracy and Progress or SDP"
     },
-    "International organization participation": {
-      "text": "CE, FAO, ICAO, ICC (NGOs), ICCt, ICRM, IFRCS, Interpol, IOC, IPU, ITU, OIF, OPCW, OSCE, UN, UNCTAD, UNESCO, Union Latina, UNWTO, WCO, WHO, WIPO, WTO (observer)"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Joan FORNER ROVIRA (since 13 January 2025); note - also Permanent Representative to the UN"
@@ -564,12 +562,24 @@
         "text": "the US does not have an embassy in Andorra; the US ambassador to Spain is accredited to Andorra; US interests in Andorra are represented by the US Consulate General's office in Barcelona (Spain); mailing address: Paseo Reina Elisenda de Montcada, 23, 08034 Barcelona, Espana; telephone: [34] (93) 280-22-27; FAX: [34] (93) 280-61-75; email address: Barcelonaacs@state.gov"
       }
     },
+    "International organization participation": {
+      "text": "CE, FAO, ICAO, ICC (NGOs), ICCt, ICRM, IFRCS, Interpol, IOC, IPU, ITU, OIF, OPCW, OSCE, UN, UNCTAD, UNESCO, Union Latina, UNWTO, WCO, WHO, WIPO, WTO (observer)"
+    },
+    "Independence": {
+      "text": "1278 (formed under the joint sovereignty of the French Count of Foix and the Spanish Bishop of Urgell)"
+    },
+    "National holiday": {
+      "text": "Our Lady of Meritxell Day, 8 September (1278)"
+    },
     "Flag description": {
       "text": "three vertical bands of blue (hoist side), yellow, and red, with the national coat of arms centered in the yellow band, which is slightly wider than the other two; the coat of arms features a quartered shield with the emblems of (starting in the upper left and proceeding clockwise): Urgell, Foix, Bearn, and Catalonia; the motto reads VIRTUS UNITA FORTIOR (Strength United is Stronger); the flag combines the blue and red French colors with the red and yellow of Spain to show Franco-Spanish protection",
       "note": "<strong>note:</strong> similar to the flags of Chad and Romania, which do not have a national coat of arms in the center, and the flag of Moldova, which does bear a national emblem"
     },
     "National symbol(s)": {
-      "text": "red cow (breed unspecified); national colors: blue, yellow, red"
+      "text": "red cow (breed unspecified)"
+    },
+    "National colors": {
+      "text": "blue, yellow, red"
     },
     "National anthem": {
       "name": {

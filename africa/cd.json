@@ -277,8 +277,13 @@
         "text": "total: 39.1% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "5.2% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "5.2% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "7.3% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "0.09 physicians/1,000 population (2023)"
@@ -354,21 +359,23 @@
         "text": "8.1% (2019)"
       }
     },
-    "Education expenditures": {
-      "text": "2.9% of GDP (2021 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "3.2% of GDP (2023 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "16.5% national budget (2023 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write French or Arabic"
-      },
       "total population": {
-        "text": "26.8%"
+        "text": "30.6% (2019 est.)"
       },
       "male": {
-        "text": "35.4%"
+        "text": "44.5% (2019 est.)"
       },
       "female": {
-        "text": "18.2% (2021)"
+        "text": "18.6% (2019 est.)"
       }
     },
     "School life expectancy (primary to tertiary education)": {
@@ -424,11 +431,6 @@
       },
       "rate of urbanization": {
         "text": "4.1% annual rate of change (2020-25 est.)"
-      }
-    },
-    "Food insecurity": {
-      "widespread lack of access": {
-        "text": "<em>due to civil insecurity and high food prices - </em>according to the latest analysis, about 1.86 million people are projected to experience acute food insecurity during the June to August 2023 lean season period; this would be an improvement compared to the previous year, mostly due to the higher year-on-year cereal output in 2022 after the below average 2021 production; acute food insecurity is underpinned by persisting insecurity in the Lac and Tibesti regions, which had displaced over 380 000 people by April 2023; furthermore, elevated food prices due to high fuel costs and localized crop losses during the 2022 floods are aggravating food insecurity (2023)"
       }
     },
     "Air pollutants": {
@@ -511,12 +513,6 @@
     },
     "Administrative divisions": {
       "text": "23 provinces (provinces, singular - province); Barh-El-Gazel, Batha, Borkou, Chari-Baguirmi, Ennedi-Est, Ennedi-Ouest, Guera, Hadjer-Lamis, Kanem, Lac, Logone Occidental, Logone Oriental, Mandoul, Mayo-Kebbi-Est, Mayo-Kebbi-Ouest, Moyen-Chari, N'Djamena, Ouaddai, Salamat, Sila, Tandjile, Tibesti, Wadi-Fira"
-    },
-    "Independence": {
-      "text": "11 August 1960 (from France)"
-    },
-    "National holiday": {
-      "text": "Independence Day, 11 August (1960)"
     },
     "Legal system": {
       "text": "mixed system of civil and customary law"
@@ -641,9 +637,6 @@
       "text": "Chadian Convention for Peace and Development or CTPD<br>Federation Action for the Republic or FAR<br>National Rally for Development and Progress or Viva-RNDP<br>National Union for Democracy and Renewal or UNDR<br>Party for Unity and Reconstruction or PUR<br>Patriotic Salvation Movement or MPS <br>Rally for Democracy and Progress or RDP<br>Rally of Chadian Nationalists/Awakening or RNDT/Le Reveil<br>Social Democratic Party for a Change-over of Power or PDSA<br>Union for Democracy and the Republic or UDR<br>Union for Renewal and Democracy or URD<br>Transformers<strong><br></strong>",
       "note": "<strong>note 1: </strong> 19 additional parties each contributed one member<br><strong><br>note 2: </strong> on 5 October 2021, Interim President Mahamat Idriss DEBY appointed 93 members to the interim National Transitional Council (NTC); 30% of the NTC members were retained from parties previously represented in the National Assembly"
     },
-    "International organization participation": {
-      "text": "ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MNJTF, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNOCI, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador KITOKO GATA Ngoulou (since 30 June 2023)"
@@ -681,12 +674,24 @@
         "text": "<br>NdjamenaACS@state.gov<br><br>https://td.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MNJTF, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNOCI, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "11 August 1960 (from France)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 11 August (1960)"
+    },
     "Flag description": {
       "text": "three equal vertical bands of blue (hoist side), gold, and red; the flag combines the blue and red French (former colonial) colors with the red and yellow of the Pan-African colors; blue symbolizes the sky, hope, and the south of the country; gold represents the sun and the desert in the north; red stands for progress, unity, and sacrifice",
       "note": "<strong>note:</strong> almost identical to the flag of Romania but with a darker shade of blue; also similar to the flags of Andorra and Moldova, both of which have a national coat of arms centered in the yellow band; design based on France's flag"
     },
     "National symbol(s)": {
-      "text": "goat (north), lion (south); national colors: blue, yellow, red"
+      "text": "goat (north), lion (south)"
+    },
+    "National colors": {
+      "text": "blue, yellow, red"
     },
     "National anthem": {
       "name": {

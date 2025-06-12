@@ -260,8 +260,13 @@
         "text": "total: 0.3% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "16.4% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "16.4% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "9.5% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "1.81 physicians/1,000 population (2023)"
@@ -303,21 +308,23 @@
     "Currently married women (ages 15-49)": {
       "text": "45.6% (2023 est.)"
     },
-    "Education expenditures": {
-      "text": "6.8% of GDP (2019)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "3.5% of GDP (2023 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "9.8% national budget (2023 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
-        "text": "96.6%"
+        "text": "97% (2015 est.)"
       },
       "male": {
-        "text": "96.8%"
+        "text": "97% (2015 est.)"
       },
       "female": {
-        "text": "96.3% (2015)"
+        "text": "96% (2015 est.)"
       }
     },
     "School life expectancy (primary to tertiary education)": {
@@ -435,12 +442,6 @@
     },
     "Administrative divisions": {
       "text": "16 states; Aimeliik, Airai, Angaur, Hatohobei, Kayangel, Koror, Melekeok, Ngaraard, Ngarchelong, Ngardmau, Ngatpang, Ngchesar, Ngeremlengui, Ngiwal, Peleliu, Sonsorol"
-    },
-    "Independence": {
-      "text": "1 October 1994 (from the US-administered UN trusteeship)"
-    },
-    "National holiday": {
-      "text": "Constitution Day, 9 July (1981), day of a national referendum to pass the new constitution; Independence Day, 1 October (1994)"
     },
     "Legal system": {
       "text": "mixed system of civil, common, and customary law"
@@ -565,9 +566,6 @@
     "Political parties": {
       "text": "none"
     },
-    "International organization participation": {
-      "text": "ACP, ADB, AOSIS, FAO, IAEA, IBRD, ICAO, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, IMSO, IOC, IPU, MIGA, OPCW, PIF, Sparteca, SPC, UN, UNAMID, UNCTAD, UNESCO, WHO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Hersey KYOTA (since 12 November 1997)"
@@ -608,11 +606,23 @@
         "text": "<br>ConsularKoror@state.gov<br><br>https://pw.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ACP, ADB, AOSIS, FAO, IAEA, IBRD, ICAO, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, IMSO, IOC, IPU, MIGA, OPCW, PIF, Sparteca, SPC, UN, UNAMID, UNCTAD, UNESCO, WHO"
+    },
+    "Independence": {
+      "text": "1 October 1994 (from the US-administered UN trusteeship)"
+    },
+    "National holiday": {
+      "text": "Constitution Day, 9 July (1981), day of a national referendum to pass the new constitution; Independence Day, 1 October (1994)"
+    },
     "Flag description": {
       "text": "light blue with a large yellow disk shifted slightly to the hoist side; blue stands for the ocean, and the disk for the moon, which is considered a symbol of peace, love, and tranquility"
     },
     "National symbol(s)": {
-      "text": "bai (native meeting house); national colors: blue, yellow"
+      "text": "bai (native meeting house)"
+    },
+    "National colors": {
+      "text": "blue, yellow"
     },
     "National anthem": {
       "name": {

@@ -271,8 +271,13 @@
         "text": "total: 23.1% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "2.8% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "2.8% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "5.2% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "0.14 physicians/1,000 population (2023)"
@@ -345,21 +350,23 @@
         "text": "1.9% (2019)"
       }
     },
-    "Education expenditures": {
-      "text": "3.9% of GDP (2018 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "0.4% of GDP (2023 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "17.9% national budget (2025 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "any person age 15 and above who completed at least grade 3 of primary education"
-      },
       "total population": {
-        "text": "89.7%"
+        "text": "93.2% (2019 est.)"
       },
       "male": {
-        "text": "88.3%"
+        "text": "93.1% (2019 est.)"
       },
       "female": {
-        "text": "90.9% (2021)"
+        "text": "93.4% (2019 est.)"
       }
     },
     "School life expectancy (primary to tertiary education)": {
@@ -415,11 +422,6 @@
       },
       "rate of urbanization": {
         "text": "2.41% annual rate of change (2020-25 est.)"
-      }
-    },
-    "Food insecurity": {
-      "widespread lack of access": {
-        "text": "<em><em>due to high food prices</em></em><em> </em><em>-</em> based on a government assessment, an estimated 3.8 million people are expected to be in need of humanitarian assistance between January and March 2023; this number is higher than the level estimated in the first quarter of 2022; the downturn in food security conditions is largely on account of poor food access resulting from prevailing high food prices and reduced incomes owing to the effects of an economic downturn; a decline in cereal production in 2022 has also aggravated conditions (2023)"
       }
     },
     "Air pollutants": {
@@ -502,12 +504,6 @@
     },
     "Administrative divisions": {
       "text": "8 provinces and 2 cities* with provincial status; Bulawayo*, Harare*, Manicaland, Mashonaland Central, Mashonaland East, Mashonaland West, Masvingo, Matabeleland North, Matabeleland South, Midlands"
-    },
-    "Independence": {
-      "text": "18 April 1980 (from the UK)"
-    },
-    "National holiday": {
-      "text": "Independence Day, 18 April (1980)"
     },
     "Legal system": {
       "text": "mixed system of English common law, Roman-Dutch civil law, and customary law"
@@ -639,9 +635,6 @@
     "Political parties": {
       "text": "Citizens Coalition for Change <br>Movement for Democratic Change or MDC-T <br>National People's Congress or NPC <br>Zimbabwe African National Union-Patriotic Front or ZANU-PF <br>Zimbabwe African Peoples Union or ZAPU"
     },
-    "International organization participation": {
-      "text": "ACP, AfDB, ATMIS, AU, COMESA, FAO, G-15, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, PCA, SADC, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador (vacant); Charg&eacute; d'Affaires Sarah BHOROMA (since 12 November 2024)"
@@ -679,11 +672,23 @@
         "text": "<br>consularharare@state.gov<br><br>https://zw.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ACP, AfDB, ATMIS, AU, COMESA, FAO, G-15, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, PCA, SADC, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "18 April 1980 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 18 April (1980)"
+    },
     "Flag description": {
       "text": "seven equal horizontal bands of green (top), yellow, red, black, red, yellow, and green, with a white isosceles triangle edged in black with its base on the hoist side; a yellow bird representing the long history of the country is on top of a five-pointed red star in the center of the triangle, which symbolizes peace; green stands for agriculture, yellow for mineral wealth, red for the blood shed to achieve independence, and black for the people"
     },
     "National symbol(s)": {
-      "text": "Zimbabwe bird symbol, African fish eagle, flame lily; national colors: green, yellow, red, black, white"
+      "text": "Zimbabwe bird symbol, African fish eagle, flame lily"
+    },
+    "National colors": {
+      "text": "green, yellow, red, black, white"
     },
     "National anthem": {
       "name": {
@@ -1117,20 +1122,20 @@
       "text": "Zimbabwe Defense Forces (ZDF): Zimbabwe National Army (ZNA), Air Force of Zimbabwe (AFZ)<br><br>Ministry of Home Affairs: Zimbabwe Republic Police (2025)"
     },
     "Military expenditures": {
+      "Military Expenditures 2024": {
+        "text": "0.4% of GDP (2024 est.)"
+      },
       "Military Expenditures 2023": {
         "text": "0.3% of GDP (2023 est.)"
       },
       "Military Expenditures 2022": {
-        "text": "0.5% of GDP (2022 est.)"
+        "text": "0.9% of GDP (2022 est.)"
       },
       "Military Expenditures 2021": {
-        "text": "0.8% of GDP (2021 est.)"
+        "text": "1.4% of GDP (2021 est.)"
       },
       "Military Expenditures 2020": {
-        "text": "0.5% of GDP (2020 est.)"
-      },
-      "Military Expenditures 2019": {
-        "text": "2.6% of GDP (2019 est.)"
+        "text": "1% of GDP (2020 est.)"
       }
     },
     "Military and security service personnel strengths": {

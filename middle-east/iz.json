@@ -283,8 +283,13 @@
         "text": "total: 0.7% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "5.2% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "5.2% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "5.8% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "1.02 physicians/1,000 population (2022)"
@@ -357,21 +362,18 @@
         "text": "27.9% (2018)"
       }
     },
-    "Education expenditures": {
+    "Education expenditure": {
       "text": "4.7% of GDP (2016)"
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
-        "text": "85.6%"
+        "text": "86% (2017 est.)"
       },
       "male": {
-        "text": "91.2%"
+        "text": "91% (2017 est.)"
       },
       "female": {
-        "text": "79.9% (2017)"
+        "text": "76.3% (2018 est.)"
       }
     }
   },
@@ -416,11 +418,6 @@
       },
       "rate of urbanization": {
         "text": "2.91% annual rate of change (2020-25 est.)"
-      }
-    },
-    "Food insecurity": {
-      "severe localized food insecurity": {
-        "text": "<em>due to civil conflict and economic slowdown -</em> the 2022 Humanitarian Needs Overview identified 2.5 million people in need of humanitarian assistance, of which 960,000 have acute humanitarian needs; while the number of people in need remained similar to the previous year, the severity of those needs increased, largely due to the impact of the COVID‑19 pandemic on top of an existing humanitarian crisis, leading to a 35% increase in the number of people in acute need; more than half of these are concentrated in the governorates of Nineveh and Anbar; the number of severely food insecure people is estimated at about 435,000, while 731,000 are vulnerable to food insecurity (2022)"
       }
     },
     "Air pollutants": {
@@ -509,12 +506,6 @@
     "Administrative divisions": {
       "text": "18 governorates (muhafazat, singular - muhafazah (Arabic); parezgakan, singular - parezga (Kurdish)); 'Al Anbar; Al Basrah; Al Muthanna; Al Qadisiyah (Ad Diwaniyah); An Najaf; Arbil (Erbil) (Arabic), Hewler (Kurdish); As Sulaymaniyah (Arabic), Slemani (Kurdish); Babil; Baghdad; Dahuk (Arabic), Dihok (Kurdish); Dhi Qar; Diyala; Karbala'; Kirkuk; Maysan; Ninawa; Salah ad Din; Wasit",
       "note": "<strong>note: </strong>Iraq's Kurdistan Regional Government administers Arbil, Dahuk, and As Sulaymaniyah (as Hewler, Dihok, and Slemani respectively)"
-    },
-    "Independence": {
-      "text": "3 October 1932 (from League of Nations mandate under British administration); note - on 28 June 2004 the Coalition Provisional Authority transferred sovereignty to the Iraqi Interim Government"
-    },
-    "National holiday": {
-      "text": "Independence Day, 3 October (1932); Republic Day, 14 July (1958)"
     },
     "Legal system": {
       "text": "mixed system of civil and Islamic law"
@@ -612,9 +603,6 @@
     "Political parties": {
       "text": "Al Fatah Alliance<br>Azm Alliance<br>Babiliyun Movement<br>Imtidad<br>Ishraqat Konun<br>Kurdistan Democratic Party<br>National Contract Party<br>New Generation Movement<br>Patriotic Union of Kurdistan<br>Sadrist Bloc<br>State Forces Alliance<br>State of Law Coalition<br>Taqadum<br>Tasmim Alliance"
     },
-    "International organization participation": {
-      "text": "ABEDA, AFESD, AIIB, AMF, CAEU, CICA, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Nazar Issa Abdulhadi AL-KHIRULLAH (since 30 June 2023)"
@@ -652,12 +640,25 @@
         "text": "<br>BaghdadACS@state.gov<br><br>https://iq.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ABEDA, AFESD, AIIB, AMF, CAEU, CICA, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)"
+    },
+    "Independence": {
+      "text": "3 October 1932 (from League of Nations mandate under British administration)",
+      "note": "<strong>note:</strong> on 28 June 2004, the Coalition Provisional Authority transferred sovereignty to the Iraqi Interim Government"
+    },
+    "National holiday": {
+      "text": "Independence Day, 3 October (1932); Republic Day, 14 July (1958)"
+    },
     "Flag description": {
       "text": "three equal horizontal bands of red (top), white, and black; the Takbir (Arabic phrase meaning \"God is great\") in green Arabic script is centered in the white band; the colors come from the Arab Liberation flag and stand for oppression (black) overcome through bloody struggle (red), to be replaced by a bright future (white); the Council of Representatives approved this flag in 2008 as a compromise replacement for the Ba'thist SADDAM-era flag",
       "note": "<strong>note:</strong> similar to the flags of Syria (two stars but no script), Yemen (plain white band), and Egypt (a golden Eagle of Saladin centered in the white band)"
     },
     "National symbol(s)": {
-      "text": "golden eagle; national colors: red, white, black"
+      "text": "golden eagle"
+    },
+    "National colors": {
+      "text": "red, white, black"
     },
     "National anthem": {
       "name": {

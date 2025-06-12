@@ -264,8 +264,13 @@
         "text": "total: 21.6% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "5.9% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "5.9% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "2.1% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "0.04 physicians/1,000 population (2022)"
@@ -296,13 +301,15 @@
     "Currently married women (ages 15-49)": {
       "text": "72% (2023 est.)"
     },
-    "Education expenditures": {
-      "text": "1.5% of GDP (2016 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "1.6% of GDP (2016 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "8.1% national budget (2023 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
         "text": "34.5%"
       },
@@ -355,11 +362,6 @@
       },
       "rate of urbanization": {
         "text": "4.12% annual rate of change (2020-25 est.)"
-      }
-    },
-    "Food insecurity": {
-      "widespread lack of access": {
-        "text": "<em>due to economic downturn, the lingering effects of floods, and prolonged internal conflict -</em> despite sustained humanitarian assistance, food insecurity still affects large segments of the population, owing to rampant inflation and insufficient food supplies due to stagnant agricultural production, the effects of consecutive years with widespread floods, and the escalation of organized violence at the sub-national level since 2020; about 7.76 million people, almost two thirds of the total population, are expected to face severe acute food insecurity in the lean season between April and July 2023; the high levels of cereal prices are mainly due to insufficient supplies, low foreign currency reserves, a weak national currency and high fuel prices; further upward pressure was exerted by reduced imports from neighboring Uganda, where exportable surpluses shrunk in 2022 following a reduced cereal production (2023)"
       }
     },
     "Air pollutants": {
@@ -430,12 +432,6 @@
     },
     "Administrative divisions": {
       "text": "10 states; Central Equatoria, Eastern Equatoria, Jonglei, Lakes, Northern Bahr el Ghazal, Unity, Upper Nile, Warrap, Western Bahr el Ghazal, Western Equatoria; note - in 2015, the creation of 28 new states was announced and in 2017 four additional states; following the February 2020 peace agreement, the country was again reorganized into the 10 original states, plus 2 administrative areas, Pibor and Ruweng, and 1 special administrative status area, Abyei (which is disputed between South Sudan and Sudan); this latest administrative revision has not yet been vetted by the US Board on Geographic Names"
-    },
-    "Independence": {
-      "text": "9 July 2011 (from Sudan)"
-    },
-    "National holiday": {
-      "text": "Independence Day, 9 July (2011)"
     },
     "Constitution": {
       "history": {
@@ -543,9 +539,6 @@
     "Political parties": {
       "text": "<p>Democratic Change or DC<br>Democratic Forum or DF<br>Labour Party or LPSS<br>South Sudan Opposition Alliance or SSOA<br>Sudan African National Union or SANU<br>Sudan People's Liberation Movement or SPLM<br>Sudan People’s Liberation Movement-In Opposition or SPLM-IO<br>United Democratic Salvation Front or UDSF    <br>United South Sudan African Party or USSAP<br>United South Sudan Party or USSP</p>"
     },
-    "International organization participation": {
-      "text": "AU, EAC, FAO, G-77, IBRD, ICAO, IDA, IFAD, IFC, IFRCS, IGAD, ILO, IMF, Interpol, IOM, IPU, ITU, MIGA, UN, UNCTAD, UNESCO, UPU, WCO, WHO, WMO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Santino Fardol Watod DICKEN (since 18 September 2024)"
@@ -580,12 +573,24 @@
         "text": "<br>ACSJuba@state.gov<br><br>https://ss.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "AU, EAC, FAO, G-77, IBRD, ICAO, IDA, IFAD, IFC, IFRCS, IGAD, ILO, IMF, Interpol, IOM, IPU, ITU, MIGA, UN, UNCTAD, UNESCO, UPU, WCO, WHO, WMO"
+    },
+    "Independence": {
+      "text": "9 July 2011 (from Sudan)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 9 July (2011)"
+    },
     "Flag description": {
       "text": "three equal horizontal bands of black (top), red, and green; the red band is edged in white; a blue isosceles triangle based on the hoist side has a gold, five-pointed star; black stands for the people, red for the blood shed in the struggle for freedom, green for the land, and blue for the Nile; the gold star represents the unity of the country's states",
       "note": "<strong>note:</strong> resembles the flag of Kenya; South Sudan has one of two national flags that display six colors as part of the primary design -- the other is South Africa's"
     },
     "National symbol(s)": {
-      "text": "African fish eagle; national colors: red, green, blue, yellow, black, white"
+      "text": "African fish eagle"
+    },
+    "National colors": {
+      "text": "red, green, blue, yellow, black, white"
     },
     "National anthem": {
       "name": {
@@ -965,6 +970,9 @@
       "note": "<strong>note 1: </strong>the NUF are being formed by retraining rebel and pro-government militia fighters into military, police, and other government security forces; the first operational NUF deployed in November 2023<strong><br><br>note 2:</strong> numerous irregular forces operate in the country with official knowledge, including militias operated by the National Security Service (an internal security force under the Ministry of National Security) and proxy forces"
     },
     "Military expenditures": {
+      "Military Expenditures 2024": {
+        "text": "2% of GDP (2024 est.)"
+      },
       "Military Expenditures 2023": {
         "text": "2% of GDP (2023 est.)"
       },
@@ -976,9 +984,6 @@
       },
       "Military Expenditures 2020": {
         "text": "2% of GDP (2020 est.)"
-      },
-      "Military Expenditures 2019": {
-        "text": "3.1% of GDP (2019 est.)"
       }
     },
     "Military and security service personnel strengths": {

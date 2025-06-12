@@ -260,8 +260,13 @@
         "text": "total: 3.3% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "6.9% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "6.9% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "16.1% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "0.73 physicians/1,000 population (2023)"
@@ -334,21 +339,23 @@
         "text": "1.5% (2018)"
       }
     },
-    "Education expenditures": {
-      "text": "7.6% of GDP (2020 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "4.3% of GDP (2023 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "13.4% national budget (2024 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
-        "text": "90.8%"
+        "text": "87% (2015 est.)"
       },
       "male": {
-        "text": "94.2%"
+        "text": "92% (2015 est.)"
       },
       "female": {
-        "text": "87.4% (2021)"
+        "text": "82% (2015 est.)"
       }
     },
     "School life expectancy (primary to tertiary education)": {
@@ -475,12 +482,6 @@
     "Administrative divisions": {
       "text": "22 municipalities (concelhos, singular - concelho); Boa Vista, Brava, Maio, Mosteiros, Paul, Porto Novo, Praia, Ribeira Brava, Ribeira Grande, Ribeira Grande de Santiago, Sal, Santa Catarina, Santa Catarina do Fogo, Santa Cruz, S&atilde;o Domingos, S&atilde;o Filipe, S&atilde;o Lourenco dos Orgaos, S&atilde;o Miguel, S&atilde;o Salvador do Mundo, S&atilde;o Vicente, Tarrafal, Tarrafal de S&atilde;o Nicolau"
     },
-    "Independence": {
-      "text": "5 July 1975 (from Portugal)"
-    },
-    "National holiday": {
-      "text": "Independence Day, 5 July (1975)"
-    },
     "Legal system": {
       "text": "civil law system of Portugal"
     },
@@ -575,9 +576,6 @@
     "Political parties": {
       "text": "African Party for Independence of Cabo Verde or PAICV <br>Democratic and Independent Cabo Verdean Union or UCID <br>Democratic Christian Party or PDC <br>Democratic Renewal Party or PRD <br>Movement for Democracy or MPD <br>Party for Democratic Convergence or PCD <br>Party of Work and Solidarity or PTS <br>Social Democratic Party or PSD "
     },
-    "International organization participation": {
-      "text": "ACP, AfDB, AOSIS, AU, CD, CPLP, ECOWAS, FAO, G-77, IAEA, IBRD, ICAO, ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Jose Luis do Livramento MONTEIRO ALVES DE BRITO (since 23 December 2020)"
@@ -618,11 +616,23 @@
         "text": "<br>PraiaConsular@state.gov<br><br>https://cv.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ACP, AfDB, AOSIS, AU, CD, CPLP, ECOWAS, FAO, G-77, IAEA, IBRD, ICAO, ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "5 July 1975 (from Portugal)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 5 July (1975)"
+    },
     "Flag description": {
       "text": "five unequal horizontal bands; the top-most band of blue -- equal to half the width of the flag -- is followed by three narrow bands of white, red, and white, and a bottom&nbsp; stripe of blue; a circle of 10 yellow five-pointed stars is centered on the red stripe and sits toward the left side of the flag; blue stands for the sea and sky; the stripes symbolize the country's formation through peace (white) and effort (red); the circle of stars represents the 10 major islands"
     },
     "National symbol(s)": {
-      "text": "ten five-pointed yellow stars; national colors: blue, white, red, yellow"
+      "text": "ten five-pointed yellow stars"
+    },
+    "National colors": {
+      "text": "blue, white, red, yellow"
     },
     "National anthem": {
       "name": {

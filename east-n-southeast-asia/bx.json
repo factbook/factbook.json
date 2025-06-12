@@ -268,8 +268,13 @@
         "text": "total: 0.1% of population (2020)"
       }
     },
-    "Current health expenditure": {
-      "text": "2.2% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "2.2% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "6.4% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "1.89 physicians/1,000 population (2021)"
@@ -331,13 +336,15 @@
     "Currently married women (ages 15-49)": {
       "text": "54.3% (2023 est.)"
     },
-    "Education expenditures": {
-      "text": "4.4% of GDP (2016 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "4.4% of GDP (2016 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "11.4% national budget (2016 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
         "text": "97.6%"
       },
@@ -469,12 +476,6 @@
     "Administrative divisions": {
       "text": "4 districts (daerah-daerah, singular - daerah); Belait, Brunei dan Muara, Temburong, Tutong"
     },
-    "Independence": {
-      "text": "1 January 1984 (from the UK)"
-    },
-    "National holiday": {
-      "text": "National Day, 23 February (1984); note - 1 January 1984 was the date of independence from the UK, 23 February 1984 was the date of independence from British protection; the Sultan's birthday, 15 June"
-    },
     "Legal system": {
       "text": "mixed legal system based on English common law and Islamic law",
       "note": "<strong>note:</strong> in 2019, sharia penal codes came into force and apply to Muslims and partly to non-Muslims in parallel with common law codes"
@@ -568,9 +569,6 @@
       "text": "National Development Party or NDP",
       "note": "<strong>note:</strong> the NDP is Brunei’s only registered party, but does not have representation in the Legislative Council, which is appointed"
     },
-    "International organization participation": {
-      "text": "ADB, APEC, ARF, ASEAN, C, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, ISO (correspondent), ITSO, ITU, NAM, OIC, OPCW, UN, UNCTAD, UNESCO, UNIFIL, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Dato Paduka Haji SERBINI bin Haji Ali (since 28 January 2016)"
@@ -611,11 +609,23 @@
         "text": "<br>ConsularBrunei@state.gov<br><br>https://bn.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ADB, APEC, ARF, ASEAN, C, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, ISO (correspondent), ITSO, ITU, NAM, OIC, OPCW, UN, UNCTAD, UNESCO, UNIFIL, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "1 January 1984 (from the UK)"
+    },
+    "National holiday": {
+      "text": "National Day, 23 February (1984); note - 1 January 1984 was the date of independence from the UK, 23 February 1984 was the date of independence from British protection; the Sultan's birthday, 15 June"
+    },
     "Flag description": {
       "text": "yellow with two diagonal bands of white and black starting from the upper hoist side; the national emblem in red is at the center; yellow symbolizes the sultanate, and the white and black bands stand for the chief ministers; the emblem includes a swallow-tailed flag, a royal umbrella representing the monarchy, two wings with four feathers (justice, tranquility, prosperity, and peace), two upraised hands signifying the government's pledge to preserve and promote the welfare of the people, and the&nbsp; crescent moon of Islam (the state religion); the state motto \"Always render service with God's guidance\" appears in yellow Arabic script on the crescent; a ribbon below the crescent reads \"Brunei, the Abode of Peace\""
     },
     "National symbol(s)": {
-      "text": "royal parasol; national colors: yellow, white, black"
+      "text": "royal parasol"
+    },
+    "National colors": {
+      "text": "yellow, white, black"
     },
     "National anthem": {
       "name": {

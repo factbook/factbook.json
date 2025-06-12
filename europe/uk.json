@@ -272,8 +272,13 @@
         "text": "total: 0% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "11.3% of GDP (2022)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "11.3% of GDP (2022)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "20.7% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "3.3 physicians/1,000 population (2023)"
@@ -340,8 +345,13 @@
         "text": "0% (2021)"
       }
     },
-    "Education expenditures": {
-      "text": "5.5% of GDP (2020 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "4.9% of GDP (2022 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "10.6% national budget (2022 est.)"
+      }
     },
     "Literacy": {
       "total population": {
@@ -498,12 +508,6 @@
     "Dependent areas": {
       "text": "Anguilla; Bermuda; British Indian Ocean Territory; British Virgin Islands; Cayman Islands; Falkland Islands; Gibraltar; Montserrat; Pitcairn Islands; Saint Helena, Ascension, and Tristan da Cunha; South Georgia and the South Sandwich Islands; Turks and Caicos Islands (12)"
     },
-    "Independence": {
-      "text": "no official date of independence: 927 (minor English kingdoms unite); 3 March 1284 (enactment of the Statute of Rhuddlan uniting England and Wales); 1536 (Act of Union formally incorporates England and Wales); 1 May 1707 (Acts of Union formally unite England, Scotland, and Wales as Great Britain); 1 January 1801 (Acts of Union formally unite Great Britain and Ireland as the United Kingdom of Great Britain and Ireland); 6 December 1921 (Anglo-Irish Treaty formalizes partition of Ireland; six counties remain part of the United Kingdom and Northern Ireland); 12 April 1927 (Royal and Parliamentary Titles Act establishes current name of the United Kingdom of Great Britain and Northern Ireland)"
-    },
-    "National holiday": {
-      "text": "the UK does not celebrate one particular national holiday"
-    },
     "Legal system": {
       "text": "common law system; has nonbinding judicial review of Acts of Parliament under the Human Rights Act of 1998"
     },
@@ -613,9 +617,6 @@
     "Political parties": {
       "text": "Alliance Party or APNI (Northern Ireland) <br>Conservative and Unionist Party <br>Democratic Unionist Party or DUP (Northern Ireland) <br>Green Party of England and Wales or Greens <br>Labor (Labour) Party <br>Liberal Democrats (Lib Dems)<br>Party of Wales (Plaid Cymru) <br>Reform UK <br>Scottish National Party or SNP <br>Sinn Fein (Northern Ireland) <br>Social Democratic and Labor Party or SDLP (Northern Ireland) <br>Traditional Unionist Voice or TUV <br>UK Independence Party or UKIP <br>Ulster Unionist Party or UUP (Northern Ireland) <br>Workers Party of Great Britian"
     },
-    "International organization participation": {
-      "text": "ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, C, CBSS (observer), CD, CDB, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), ESA, EU, FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNMISS, UNOOSA, UNRWA, UN Security Council (permanent), UNSOM, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Peter MANDELSON (since 25 February 2025)"
@@ -659,11 +660,23 @@
         "text": "Belfast, Edinburgh"
       }
     },
+    "International organization participation": {
+      "text": "ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, C, CBSS (observer), CD, CDB, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), ESA, EU, FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNMISS, UNOOSA, UNRWA, UN Security Council (permanent), UNSOM, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Independence": {
+      "text": "no official date of independence: 927 (minor English kingdoms unite); 3 March 1284 (enactment of the Statute of Rhuddlan uniting England and Wales); 1536 (Act of Union incorporates England and Wales); 1 May 1707 (Acts of Union unite England, Scotland, and Wales as Great Britain); 1 January 1801 (Acts of Union unite Great Britain and Ireland as the United Kingdom of Great Britain and Ireland); 6 December 1921 (Anglo-Irish Treaty formalizes partition of Ireland; six counties become Northern Ireland and remain part of the UK); 12 April 1927 (Royal and Parliamentary Titles Act establishes current name of the United Kingdom of Great Britain and Northern Ireland)"
+    },
+    "National holiday": {
+      "text": "the UK does not celebrate one particular national holiday"
+    },
     "Flag description": {
       "text": "blue field with the red cross of Saint George (patron saint of England) edged in white on top of the diagonal red cross of Saint Patrick (patron saint of Ireland), which is on top of the diagonal white cross of Saint Andrew (patron saint of Scotland); the official name is the Union Flag, but commonly called the Union Jack; the design and colors have been the basis for a number of other flags"
     },
     "National symbol(s)": {
-      "text": "lion (Britain in general); lion, Tudor rose, oak (England); lion, unicorn, thistle (Scotland); dragon, daffodil, leek (Wales); shamrock, flax (Northern Ireland); national colors: red, white, blue (Britain in general); red, white (England); blue, white (Scotland); red, white, green (Wales)"
+      "text": "lion (all of Britain); lion, Tudor rose, oak (England); lion, unicorn, thistle (Scotland); dragon, daffodil, leek (Wales); shamrock, flax (Northern Ireland)"
+    },
+    "National colors": {
+      "text": "red, white, blue (all of Britain); red, white (England); blue, white (Scotland); red, white, green (Wales)"
     },
     "National anthem": {
       "name": {

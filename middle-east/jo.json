@@ -280,8 +280,13 @@
         "text": "total: 0.9% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "7.3% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "7.3% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "7.6% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "2.85 physicians/1,000 population (2022)"
@@ -357,21 +362,23 @@
         "text": "0.1% (2018)"
       }
     },
-    "Education expenditures": {
-      "text": "3.2% of GDP (2021 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "3.2% of GDP (2022 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "9.7% national budget (2022 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
-        "text": "98.4%"
+        "text": "95% (2023 est.)"
       },
       "male": {
-        "text": "98.7%"
+        "text": "97% (2023 est.)"
       },
       "female": {
-        "text": "98.4% (2021)"
+        "text": "92% (2023 est.)"
       }
     },
     "School life expectancy (primary to tertiary education)": {
@@ -518,12 +525,6 @@
     "Administrative divisions": {
       "text": "12 governorates (muhafazat, singular - muhafazah); 'Ajlun, Al 'Aqabah, Al Balqa', Al Karak, Al Mafraq, Al ‘Asimah (Amman), At Tafilah, Az Zarqa', Irbid, Jarash, Ma'an, Madaba"
     },
-    "Independence": {
-      "text": "25 May 1946 (from League of Nations mandate under British administration)"
-    },
-    "National holiday": {
-      "text": "Independence Day, 25 May (1946)"
-    },
     "Legal system": {
       "text": "mixed system developed from Ottoman Empire codes (based on French law), British common law, and Islamic law"
     },
@@ -641,9 +642,6 @@
     "Political parties": {
       "text": "'Azem<br>Blessed Land Party<br>Building and Labor Coalition<br>Eradah Party <br>Growth Party<br>Islamic Action Front or IAF<br>Jordanian al-Ansar Party<br>Jordanian al-Ghad Party<br>Jordanian Arab Socialist Ba'ath Party or JASBP <br>Jordanian Civil Democratic Party<br>Jordanian Communist Party or JCP<br>Jordanian Equality Party<br>Jordanian Democratic People's Party or HASD<br>Jordanian Democratic Popular Unity Party or JDPUP/Wihda<br>Jordanian Democratic Unionist Party<br>Jordanian Flame Party<br>Jordanian Future and Life Party<br>Jordanian Model Party<br>Jordanian National Integration Party<br>Jordanian National Loyalty Party<br>Jordanian Reform and Renewal Party or Hassad<br>Jordanian Shura Party <br>Jordanian Social Democratic Party or JSDP<br>Justice and Reform Party or JRP <br>Labor Party<br>National Charter Party<br>National Coalition Party <br>National Constitutional Party<br>National Current Party or NCP<br>National Islamic Party<br>National Union<br>Nationalist Movement Party or Hsq<br>New Path Party <br>Progress Party<br><br><br><br>"
     },
-    "International organization participation": {
-      "text": "ABEDA, AFESD, AMF, CAEU, CD, CICA, EBRD, FAO, G-11, G-77, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MINUSTAH, MONUSCO, NAM, NATO (partner), OIC, OPCW, OSCE (partner), PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Dina Khalil Tawfiq KAWAR (since 27 June 2016)"
@@ -681,11 +679,23 @@
         "text": "<br>Amman-ACS@state.gov<br><br>https://jo.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ABEDA, AFESD, AMF, CAEU, CD, CICA, EBRD, FAO, G-11, G-77, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MINUSTAH, MONUSCO, NAM, NATO (partner), OIC, OPCW, OSCE (partner), PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "25 May 1946 (from League of Nations mandate under British administration)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 25 May (1946)"
+    },
     "Flag description": {
       "text": "three equal horizontal bands, with black (top) representing the Abbassid Caliphate, white representing the Ummayyad Caliphate, and green representing the Fatimid Caliphate; a red isosceles triangle on the hoist side stands for the Great Arab Revolt of 1916 and has a small white seven-pointed star symbolizing the seven verses of the opening Sura (Al-Fatiha) of the Koran; the points on the star represent faith in One God, humanity, national spirit, humility, social justice, virtue, and aspirations; the design is based on the Arab Revolt flag of World War I"
     },
     "National symbol(s)": {
-      "text": "eagle; national colors: black, white, green, red"
+      "text": "eagle"
+    },
+    "National colors": {
+      "text": "black, white, green, red"
     },
     "National anthem": {
       "name": {

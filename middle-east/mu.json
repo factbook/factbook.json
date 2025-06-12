@@ -274,8 +274,13 @@
         "text": "total: 0.3% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "4.4% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "4.4% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "8.3% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "1.99 physicians/1,000 population (2022)"
@@ -340,21 +345,23 @@
     "Currently married women (ages 15-49)": {
       "text": "56.4% (2023 est.)"
     },
-    "Education expenditures": {
-      "text": "5.4% of GDP (2019 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "4.2% of GDP (2022 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "14.2% national budget (2022 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
-        "text": "95.7%"
+        "text": "97% (2022 est.)"
       },
       "male": {
-        "text": "97%"
+        "text": "99% (2022 est.)"
       },
       "female": {
-        "text": "92.7% (2018)"
+        "text": "95% (2022 est.)"
       }
     },
     "School life expectancy (primary to tertiary education)": {
@@ -487,12 +494,6 @@
     "Administrative divisions": {
       "text": "11 governorates (muhafazat, singular - muhafaza); Ad Dakhiliyah, Al Buraymi, Al Wusta, Az Zahirah, Janub al Batinah (Al Batinah South), Janub ash Sharqiyah (Ash Sharqiyah South), Masqat (Muscat), Musandam, Shamal al Batinah (Al Batinah North), Shamal ash Sharqiyah (Ash Sharqiyah North), Zufar (Dhofar)"
     },
-    "Independence": {
-      "text": "1650 (expulsion of the Portuguese)"
-    },
-    "National holiday": {
-      "text": "National Day, 18 November; note - celebrates Oman's independence from Portugal in 1650 and the birthday of Sultan QABOOS bin Said al Said, who reigned from 1970 to 2020"
-    },
     "Legal system": {
       "text": "mixed system of Anglo-Saxon law and Islamic law"
     },
@@ -607,9 +608,6 @@
     "Political parties": {
       "text": "none; note - organized political parties are legally banned in Oman, and loyalties tend to form around tribal affiliations"
     },
-    "International organization participation": {
-      "text": "ABEDA, AFESD, AMF, CAEU, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (NGOs), IDA, IDB, IFAD, IFC, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OIC, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador-designate Talal bin Sulaiman bin Habib AL RAHBI (since 17 March 2025)"
@@ -647,11 +645,23 @@
         "text": "<br>ConsularMuscat@state.gov<br><br>https://om.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ABEDA, AFESD, AMF, CAEU, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (NGOs), IDA, IDB, IFAD, IFC, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OIC, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "1650 (expulsion of the Portuguese)"
+    },
+    "National holiday": {
+      "text": "National Day, 18 November; note - celebrates Oman's independence from Portugal in 1650 and the birthday of Sultan QABOOS bin Said al Said, who reigned from 1970 to 2020"
+    },
     "Flag description": {
       "text": "three equal horizontal bands of white (top), red, and green, with a vertical red band on the hoist side; the national emblem (a <em>khanjar</em> dagger in its sheath on top of crossed swords in scabbards) in white is centered near the top of the vertical band; white stands for peace and prosperity, red for battles against foreign invaders, and green for the Jebel al Akhdar (Green Mountains) and fertility"
     },
     "National symbol(s)": {
-      "text": "khanjar dagger superimposed on two crossed swords; national colors: red, white, green"
+      "text": "khanjar dagger on top of two crossed swords"
+    },
+    "National colors": {
+      "text": "red, white, green"
     },
     "National anthem": {
       "name": {

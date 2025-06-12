@@ -286,8 +286,13 @@
         "text": "total: 40.6% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "3.8% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "3.8% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "4% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "0.21 physicians/1,000 population (2022)"
@@ -360,21 +365,23 @@
         "text": "5.6% (2018)"
       }
     },
-    "Education expenditures": {
-      "text": "2.7% of GDP (2021 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "2.8% of GDP (2022 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "18.4% national budget (2022 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write French, Lingala, Kingwana, or Tshiluba"
-      },
       "total population": {
-        "text": "80%"
+        "text": "73.6% (2018 est.)"
       },
       "male": {
-        "text": "89.5%"
+        "text": "87.5% (2018 est.)"
       },
       "female": {
-        "text": "70.8% (2021)"
+        "text": "61.6% (2018 est.)"
       }
     },
     "School life expectancy (primary to tertiary education)": {
@@ -430,11 +437,6 @@
       },
       "rate of urbanization": {
         "text": "4.33% annual rate of change (2020-25 est.)"
-      }
-    },
-    "Food insecurity": {
-      "widespread lack of access": {
-        "text": "<em>due to internal conflict in eastern regions and high food prices - </em>according to an October 2022 analysis, 24.5 million people were projected to experience acute food insecurity between January and June 2023; this is due to the intensification of the conflict in the northeastern provinces, which, among other factors, has prevented completion of the harvests and likely will reduce food availability in the months to come (2023)"
       }
     },
     "Air pollutants": {
@@ -534,12 +536,6 @@
     },
     "Administrative divisions": {
       "text": "26 provinces (provinces, singular - province); Bas-Uele (Lower Uele), Equateur, Haut-Katanga (Upper Katanga), Haut-Lomami (Upper Lomami), Haut-Uele (Upper Uele), Ituri, Kasai, Kasai-Central, Kasai-Oriental (East Kasai), Kinshasa, Kongo Central, Kwango, Kwilu, Lomami, Lualaba, Mai-Ndombe, Maniema, Mongala, Nord-Kivu (North Kivu), Nord-Ubangi (North Ubangi), Sankuru, Sud-Kivu (South Kivu), Sud-Ubangi (South Ubangi), Tanganyika, Tshopo, Tshuapa"
-    },
-    "Independence": {
-      "text": "30 June 1960 (from Belgium)"
-    },
-    "National holiday": {
-      "text": "Independence Day, 30 June (1960)"
     },
     "Legal system": {
       "text": "civil law system primarily based on Belgian law, but also customary and tribal law"
@@ -663,9 +659,6 @@
     "Political parties": {
       "text": "Christian Democrat Party or PDC <br>Congolese Rally for Democracy or RCD <br>Convention of Christian Democrats or CDC <br>Engagement for Citizenship and Development or ECIDE <br>Forces of Renewal or FR <br>Movement for the Liberation of the Congo or MLC <br>Nouvel Elan <br>Our Congo or CNB (\"Congo Na Biso\") <br>People's Party for Reconstruction and Democracy or PPRD <br>Social Movement for Renewal or MSR <br>Together for Change (\"Ensemble\") <br>Unified Lumumbist Party or PALU<br>Union for the Congolese Nation or UNC <br>Union for Democracy and Social Progress or UDPS"
     },
-    "International organization participation": {
-      "text": "ACP, AfDB, AU, CEMAC, CEPGL, COMESA, EAC, EITI (compliant country), FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LCBC (observer), MIGA, NAM, OIF, OPCW, PCA, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador (vacant); Charg&eacute; d'Affaires Michael SHAKU YUMI (since 1 August 2024)"
@@ -706,11 +699,23 @@
         "text": "<br>ACSKinshasa@state.gov<br><br>https://cd.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, CEMAC, CEPGL, COMESA, EAC, EITI (compliant country), FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LCBC (observer), MIGA, NAM, OIF, OPCW, PCA, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "30 June 1960 (from Belgium)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 30 June (1960)"
+    },
     "Flag description": {
       "text": "sky-blue field divided diagonally from the lower hoist corner to upper fly corner by a red stripe bordered by two narrow yellow stripes; a yellow five-pointed star appears in the upper hoist corner; blue stands for peace and hope, red for the blood of the country's martyrs, and yellow for the country's wealth and prosperity; the star symbolizes unity and the brilliant future for the country"
     },
     "National symbol(s)": {
-      "text": "leopard; national colors: sky blue, red, yellow"
+      "text": "leopard"
+    },
+    "National colors": {
+      "text": "sky blue, red, yellow"
     },
     "National anthem": {
       "name": {

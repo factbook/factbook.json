@@ -281,8 +281,13 @@
         "text": "total: 6.7% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "3.7% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "3.7% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "8% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "0.52 physicians/1,000 population (2023)"
@@ -355,21 +360,23 @@
         "text": "16.3% (2017)"
       }
     },
-    "Education expenditures": {
-      "text": "3.5% of GDP (2020 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "1.3% of GDP (2023 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "13.9% national budget (2022 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
-        "text": "96%"
+        "text": "96% (2020 est.)"
       },
       "male": {
-        "text": "97.4%"
+        "text": "97% (2020 est.)"
       },
       "female": {
-        "text": "94.6% (2020)"
+        "text": "95% (2020 est.)"
       }
     },
     "School life expectancy (primary to tertiary education)": {
@@ -529,12 +536,6 @@
       "text": "35 provinces (provinsi-provinsi, singular - provinsi), 1 autonomous province*, 1 special region** (daerah istimewa), and 1 national capital district*** (daerah khusus ibukota); Aceh*, Bali, Banten, Bengkulu, Gorontalo, Jakarta***, Jambi, Jawa Barat (West Java), Jawa Tengah (Central Java), Jawa Timur (East Java), Kalimantan Barat (West Kalimantan), Kalimantan Selatan (South Kalimantan), Kalimantan Tengah (Central Kalimantan), Kalimantan Timur (East Kalimantan), Kalimantan Utara (North Kalimantan), Kepulauan Bangka Belitung (Bangka Belitung Islands), Kepulauan Riau (Riau Islands), Lampung, Maluku, Maluku Utara (North Maluku), Nusa Tenggara Barat (West Nusa Tenggara), Nusa Tenggara Timur (East Nusa Tenggara), Papua, Papua Barat (West Papua), Papua Barat Daya (Southwest Papua), Papua Pegunungan (Papua Highlands), Papua Selatan (South Papua), Papua Tengah (Central Papua), Riau, Sulawesi Barat (West Sulawesi), Sulawesi Selatan (South Sulawesi), Sulawesi Tengah (Central Sulawesi), Sulawesi Tenggara (Southeast Sulawesi), Sulawesi Utara (North Sulawesi), Sumatera Barat (West Sumatra), Sumatera Selatan (South Sumatra), Sumatera Utara (North Sumatra), Yogyakarta**",
       "note": "<strong>note:</strong> following the implementation of decentralization beginning on 1 January 2001, regencies and municipalities have become the key administrative units responsible for providing most government services"
     },
-    "Independence": {
-      "text": "17 August 1945 (declared independence from the Netherlands)"
-    },
-    "National holiday": {
-      "text": "Independence Day, 17 August (1945)"
-    },
     "Legal system": {
       "text": "civil law system based on the Roman-Dutch model and influenced by customary law"
     },
@@ -630,9 +631,6 @@
     "Political parties": {
       "text": "Democrat Party or PD <br>Functional Groups Party or GOLKAR <br>Great Indonesia Movement Party or GERINDRA <br>Indonesia Democratic Party-Struggle or PDI-P <br>National Awakening Party or PKB <br>National Democratic Party or NasDem <br>National Mandate Party or PAN <br>Prosperous Justice Party or PKS "
     },
-    "International organization participation": {
-      "text": "ADB, APEC, ARF, ASEAN, BIS, CD, CICA (observer), CP, D-8, EAS, EITI (compliant country), FAO, G-11, G-15, G-20, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IORA, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSTAH, MONUSCO, MSG (associate member), NAM, OECD (enhanced engagement), OIC, OPCW, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNHRC, UNIDO, UNIFIL, UNISFA, UNMIL, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador (vacant); Charg&eacute; d'Affaires Ida Bagus Made BIMANTARA (since 30 November 2023)"
@@ -679,12 +677,24 @@
         "text": "Medan"
       }
     },
+    "International organization participation": {
+      "text": "ADB, APEC, ARF, ASEAN, BIS, CD, CICA (observer), CP, D-8, EAS, EITI (compliant country), FAO, G-11, G-15, G-20, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IORA, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSTAH, MONUSCO, MSG (associate member), NAM, OECD (enhanced engagement), OIC, OPCW, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNHRC, UNIDO, UNIFIL, UNISFA, UNMIL, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "17 August 1945 (declared independence from the Netherlands)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 17 August (1945)"
+    },
     "Flag description": {
       "text": "two equal horizontal bands of red (top) and white; the colors derive from the banner of the Majapahit Empire of the 13th-15th centuries; red symbolizes courage, and white represents purity",
       "note": "<strong>note:</strong> similar to the flags of Monaco, which is shorter, and Poland, which is white (top) and red"
     },
     "National symbol(s)": {
-      "text": "garuda (mythical bird); national colors: red, white"
+      "text": "garuda (mythical bird)"
+    },
+    "National colors": {
+      "text": "red, white"
     },
     "National anthem": {
       "name": {

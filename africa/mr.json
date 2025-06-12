@@ -287,8 +287,13 @@
         "text": "total: 14.8% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "4.1% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "4.1% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "6.3% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "0.26 physicians/1,000 population (2022)"
@@ -361,21 +366,23 @@
         "text": "1.2% (2021)"
       }
     },
-    "Education expenditures": {
-      "text": "1.9% of GDP (2020 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "4.8% of GDP (2023 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "10.2% national budget (2024 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
-        "text": "67%"
+        "text": "59.5% (2020 est.)"
       },
       "male": {
-        "text": "71.8%"
+        "text": "70.1% (2020 est.)"
       },
       "female": {
-        "text": "62.2% (2021)"
+        "text": "51.8% (2020 est.)"
       }
     },
     "School life expectancy (primary to tertiary education)": {
@@ -431,11 +438,6 @@
       },
       "rate of urbanization": {
         "text": "3.84% annual rate of change (2020-25 est.)"
-      }
-    },
-    "Food insecurity": {
-      "widespread lack of access": {
-        "text": "<em>due to high food prices - </em>according to the latest analysis, over 472,000 people are projected to be in need of humanitarian assistance during the June to August 2023 lean season; this would be an improvement compared to the previous year, mostly due to a substantial increase in cereal production in 2022; high food prices, in particular of imported wheat, continue to worsen acute food security (2023)"
       }
     },
     "Air pollutants": {
@@ -521,12 +523,6 @@
     },
     "Administrative divisions": {
       "text": "15 regions (wilayas, singular - wilaya); Adrar, Assaba, Brakna, Dakhlet Nouadhibou, Gorgol, Guidimaka, Hodh ech Chargui, Hodh El Gharbi, Inchiri, Nouakchott Nord, Nouakchott Ouest, Nouakchott Sud, Tagant, Tiris Zemmour, Trarza"
-    },
-    "Independence": {
-      "text": "28 November 1960 (from France)"
-    },
-    "National holiday": {
-      "text": "Independence Day, 28 November (1960)"
     },
     "Legal system": {
       "text": "mixed system of Islamic and French civil law"
@@ -623,9 +619,6 @@
     "Political parties": {
       "text": "Alliance for Justice and Democracy/Movement for Renewal or AJD/MR<br>El Insaf or Equity Party<br>El Islah or Reform Party<br>El Karama or Dignity Party<br>El Vadila or Virtue Party<br>Mauritanian Party of Union and Change or HATEM<br>National Democratic Alliance or AND<br>National Rally for Reform and Development or RNRD or TAWASSOUL<br>Nida El-Watan<br>Party for Conciliation and Prosperity or HIWAR<br>Party of the Mauritanian Masses or Hakam<br>Republican Front for Unity and Democracy or FRUD<br>Sawab Party<br>Union for Democracy and Progress or UDP<br>Union of Planning and Construction or UPC"
     },
-    "International organization participation": {
-      "text": "ABEDA, ACP, AfDB, AFESD, AIIB, AMF, AMU, AU, CAEU, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Ciss&eacute; Mint Cheikh Ould BOIDE (since 15 September 2021)"
@@ -663,11 +656,23 @@
         "text": "<br>consularnkc@state.gov<br><br>https://mr.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ABEDA, ACP, AfDB, AFESD, AIIB, AMF, AMU, AU, CAEU, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "28 November 1960 (from France)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 28 November (1960)"
+    },
     "Flag description": {
       "text": "green with a five-pointed yellow star between the ends of a yellow, upward-pointing crescent moon and red stripes along the top and bottom edges; the crescent, star, and color green are traditional symbols of Islam; green also represents hope for a bright future; the yellow color stands for the sands of the Sahara, and red for blood shed in the fight for independence"
     },
     "National symbol(s)": {
-      "text": "five-pointed star between the horns of a horizontal crescent moon; national colors: green, yellow"
+      "text": "five-pointed star between the horns of a horizontal crescent moon"
+    },
+    "National colors": {
+      "text": "green, yellow"
     },
     "National anthem": {
       "name": {

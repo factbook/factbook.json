@@ -253,8 +253,13 @@
         "text": "total: 0% of population (2020)"
       }
     },
-    "Current health expenditure": {
-      "text": "8% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "8% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "29.5% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "4.63 physicians/1,000 population (2023)"
@@ -282,18 +287,23 @@
     "Currently married women (ages 15-49)": {
       "text": "47.7% (2023 est.)"
     },
-    "Education expenditures": {
-      "text": "3.4% of GDP (2020 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "3.4% of GDP (2022 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "7.5% national budget (2022 est.)"
+      }
     },
     "Literacy": {
       "total population": {
-        "text": "99.9%"
+        "text": "100% (2022 est.)"
       },
       "male": {
-        "text": "99.9%"
+        "text": "100% (2022 est.)"
       },
       "female": {
-        "text": "99.9% (2018)"
+        "text": "100% (2022 est.)"
       }
     },
     "School life expectancy (primary to tertiary education)": {
@@ -412,18 +422,12 @@
     "Administrative divisions": {
       "text": "9 municipalities (castelli, singular - castello); Acquaviva, Borgo Maggiore, Chiesanuova, Domagnano, Faetano, Fiorentino, Montegiardino, San Marino Citta, Serravalle"
     },
-    "Independence": {
-      "text": "3 September 301 (traditional founding date)"
-    },
-    "National holiday": {
-      "text": "Founding of the Republic (or Feast of Saint Marinus), 3 September (A.D. 301)"
-    },
     "Legal system": {
       "text": "civil law system with Italian civil law influences"
     },
     "Constitution": {
       "history": {
-        "text": "San Marino&rsquo;s principal legislative instruments consist of old customs (antiche consuetudini), the Statutory Laws of San Marino (Leges Statutae Sancti Marini), old statutes (antichi statute) from the1600s, Brief Notes on the Constitutional Order and Institutional Organs of the Republic of San Marino (Brevi Cenni sull&rsquo;Ordinamento Costituzionale e gli Organi Istituzionali della Repubblica di San Marino) and successive legislation, chief among them is the Declaration of the Rights of Citizens and Fundamental Principles of the San Marino Legal Order (Dichiarazione dei Diritti dei Cittadini e dei Principi Fondamentali dell&rsquo;Ordinamento Sammarinese), approved 8 July 1974"
+        "text": "San Marino’s principal legislative instruments consist of old customs (<em>antiche consuetudini</em>), the Statutory Laws of San Marino (Leges Statutae Sancti Marini), old statutes (<em>antichi statute</em>) from the1600s, Brief Notes on the Constitutional Order and Institutional Organs of the Republic of San Marino (Brevi Cenni sull’Ordinamento Costituzionale e gli Organi Istituzionali della Repubblica di San Marino) and successive legislation, chief among them is the Declaration of the Rights of Citizens and Fundamental Principles of the San Marino Legal Order (Dichiarazione dei Diritti dei Cittadini e dei Principi Fondamentali dell’Ordinamento Sammarinese), approved 8 July 1974"
       },
       "amendment process": {
         "text": "proposed by the Great and General Council; passage requires two-thirds majority Council vote; Council passage by absolute majority vote also requires passage in a referendum"
@@ -514,9 +518,6 @@
     "Political parties": {
       "text": "Domani - Modus Liberi or DML <br>Free San Marino (Libera San Marino) or Libera <br>Future Republic or RF <br>Party of Socialists and Democrats or PSD <br>Reformist Alliance or AR <br>RETE Movement <br>Sammarinese Christian Democratic Party or PDCS <br>Socialist Party or PS <br>Tomorrow in Movement coalition (includes RETE Movement, DML)"
     },
-    "International organization participation": {
-      "text": "CE, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM (observer), IPU, ITU, ITUC (NGOs), LAIA (observer), OPCW, OSCE, Schengen Convention (de facto member), UN, UNCTAD, UNESCO, Union Latina, UNWTO, UPU, WHO, WIPO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Damiano BELEFFI (since 21 July 2017); note - also Permanent Representative to the UN"
@@ -539,11 +540,23 @@
         "text": "the United States does not have an Embassy in San Marino; the US Ambassador to Italy is accredited to San Marino, and the US Consulate General in Florence maintains day-to-day ties"
       }
     },
+    "International organization participation": {
+      "text": "CE, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM (observer), IPU, ITU, ITUC (NGOs), LAIA (observer), OPCW, OSCE, Schengen Convention (de facto member), UN, UNCTAD, UNESCO, Union Latina, UNWTO, UPU, WHO, WIPO"
+    },
+    "Independence": {
+      "text": "3 September 301 (traditional founding date)"
+    },
+    "National holiday": {
+      "text": "Founding of the Republic (or Feast of Saint Marinus), 3 September (A.D. 301)"
+    },
     "Flag description": {
       "text": "two equal horizontal bands of white (top) and light blue, with the national coat of arms in the center; the main colors come from the shield on the coat of arms, which features three white towers on mountain peaks on a blue field; the towers represent the Guaita, Cesta, and Montale castles on Mount Titano; a wreath and a crown are around the shield, above a scroll with the word LIBERTAS (Liberty); the white and blue colors are said to stand for peace and liberty"
     },
     "National symbol(s)": {
-      "text": "three peaks each displaying a tower; national colors: white, blue"
+      "text": "three peaks, each displaying a tower"
+    },
+    "National colors": {
+      "text": "white, blue"
     },
     "National anthem": {
       "name": {

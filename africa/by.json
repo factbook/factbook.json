@@ -275,8 +275,13 @@
         "text": "total: 18.4% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "9.1% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "9.1% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "4.7% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "0.08 physicians/1,000 population (2022)"
@@ -349,21 +354,23 @@
         "text": "1.4% (2017)"
       }
     },
-    "Education expenditures": {
-      "text": "5% of GDP (2020 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "4.4% of GDP (2022 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "20.6% national budget (2022 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
-        "text": "74.7%"
+        "text": "68% (2017 est.)"
       },
       "male": {
-        "text": "81.3%"
+        "text": "76% (2017 est.)"
       },
       "female": {
-        "text": "68.4% (2021)"
+        "text": "61% (2017 est.)"
       }
     },
     "School life expectancy (primary to tertiary education)": {
@@ -419,11 +426,6 @@
       },
       "rate of urbanization": {
         "text": "5.43% annual rate of change (2020-25 est.)"
-      }
-    },
-    "Food insecurity": {
-      "widespread lack of access": {
-        "text": "<em>due to the effects of weather - </em>according to the latest estimates, about 1.2 million people are estimated to be facing Crisis levels of acute food insecurity between June and September 2023, unchanged year on year; the main drivers are the lingering impact of floods in northern areas in late 2022 and high food prices due, in part, to the depreciation of the local currency (2023)"
       }
     },
     "Air pollutants": {
@@ -506,12 +508,6 @@
     },
     "Administrative divisions": {
       "text": "18 provinces; Bubanza, Bujumbura Mairie, Bujumbura Rural, Bururi, Cankuzo, Cibitoke, Gitega, Karuzi, Kayanza, Kirundo, Makamba, Muramvya, Muyinga, Mwaro, Ngozi, Rumonge, Rutana, Ruyigi; note- a law was passed in March 2023 reducing the number of provinces to five: Buhumuza, Bujumbura, Burunga, Butanyerera, Gitega, with full implementation by 2025."
-    },
-    "Independence": {
-      "text": "1 July 1962 (from UN trusteeship under Belgian administration)"
-    },
-    "National holiday": {
-      "text": "Independence Day, 1 July (1962)"
     },
     "Legal system": {
       "text": "mixed legal system of Belgian civil law and customary law"
@@ -640,9 +636,6 @@
     "Political parties": {
       "text": "Council for Democracy and the Sustainable Development of Burundi or CODEBU <br>Front for Democracy in Burundi-Sahwanya or FRODEBU-Sahwanya <br>National Council for the Defense of Democracy - Front for the Defense of Democracy or CNDD-FDD <br>National Congress for Liberty or CNL <br>National Liberation Forces or FNL <br>Union for National Progress (Union pour le Progress Nationale) or UPRONA "
     },
-    "International organization participation": {
-      "text": "ACP, AfDB, ATMIS, AU, CEMAC, CEPGL, CICA, COMESA, EAC, FAO, G-77, IBRD, ICAO, ICGLR, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNISFA, UNMISS, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Jean Bosco BAREGE (since 27 February 2024)"
@@ -680,11 +673,23 @@
         "text": "<br>BujumburaC@state.gov<br><br>https://bi.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ACP, AfDB, ATMIS, AU, CEMAC, CEPGL, CICA, COMESA, EAC, FAO, G-77, IBRD, ICAO, ICGLR, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNISFA, UNMISS, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "1 July 1962 (from UN trusteeship under Belgian administration)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 1 July (1962)"
+    },
     "Flag description": {
       "text": "divided by a white diagonal cross into red panels (top and bottom) and green panels (hoist side and fly side) with a white disk at the center bearing three red six-pointed stars outlined in green and arranged in a triangular design; green stands for hope and optimism, white for purity and peace, and red for the blood shed in the struggle for independence; the three stars in the disk represent the major ethnic groups (Hutu, Twa, Tutsi), as well as unity, work, and progress"
     },
     "National symbol(s)": {
-      "text": "lion; national colors: red, white, green"
+      "text": "lion"
+    },
+    "National colors": {
+      "text": "red, white, green"
     },
     "National anthem": {
       "name": {

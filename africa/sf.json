@@ -286,8 +286,13 @@
         "text": "total: 3.3% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "8.3% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "8.3% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "16.9% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "0.79 physicians/1,000 population (2022)"
@@ -360,21 +365,23 @@
         "text": "0.6% (2016)"
       }
     },
-    "Education expenditures": {
-      "text": "6.6% of GDP (2021 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "6.7% of GDP (2024 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "18.6% national budget (2022 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
-        "text": "95%"
+        "text": "90% (2021 est.)"
       },
       "male": {
-        "text": "95.5%"
+        "text": "91% (2021 est.)"
       },
       "female": {
-        "text": "94.5% (2019)"
+        "text": "89% (2021 est.)"
       }
     },
     "School life expectancy (primary to tertiary education)": {
@@ -516,12 +523,6 @@
     "Administrative divisions": {
       "text": "9 provinces; Eastern Cape, Free State, Gauteng, KwaZulu-Natal, Limpopo, Mpumalanga, Northern Cape, North West, Western Cape"
     },
-    "Independence": {
-      "text": "31 May 1910 (Union of South Africa formed from four British colonies: Cape Colony, Natal, Transvaal, and Orange Free State); 22 August 1934 (Status of the Union Act); 31 May 1961 (republic declared); 27 April 1994 (majority rule)"
-    },
-    "National holiday": {
-      "text": "Freedom Day, 27 April (1994)"
-    },
     "Legal system": {
       "text": "mixed system of Roman-Dutch civil law, English common law, and customary law"
     },
@@ -643,9 +644,6 @@
     "Political parties": {
       "text": "African Christian Democratic Party or ACDP <br>African Independent Congress or AIC <br>African National Congress or ANC <br>African People's Convention or APC <br>Agang SA <br>Congress of the People or COPE <br>Democratic Alliance or DA <br>Economic Freedom Fighters or EFF <br>Freedom Front Plus or FF+ <br>GOOD <br>Inkatha Freedom Party or IFP <br>National Freedom Party or NFP <br>Pan-Africanist Congress of Azania or PAC <br>United Christian Democratic Party or UCDP <br>United Democratic Movement or UDM "
     },
-    "International organization participation": {
-      "text": "ACP, AfDB, AIIB, AU, BIS, BRICS, C, CD, FAO, FATF, G-20, G-24, G-5, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, NSG, OECD (enhanced engagement), OPCW, Paris Club (associate), PCA, SACU, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNITAR, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Ismail ESAU (since 18 March 2025)"
@@ -689,12 +687,24 @@
         "text": "Cape Town, Durban, Johannesburg"
       }
     },
+    "International organization participation": {
+      "text": "ACP, AfDB, AIIB, AU, BIS, BRICS, C, CD, FAO, FATF, G-20, G-24, G-5, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, NSG, OECD (enhanced engagement), OPCW, Paris Club (associate), PCA, SACU, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNITAR, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Independence": {
+      "text": "31 May 1910 (Union of South Africa formed from four British colonies: Cape Colony, Natal, Transvaal, and Orange Free State); 22 August 1934 (Status of the Union Act); 31 May 1961 (republic declared); 27 April 1994 (majority rule)"
+    },
+    "National holiday": {
+      "text": "Freedom Day, 27 April (1994)"
+    },
     "Flag description": {
       "text": "two equal-width horizontal bands of red (top) and blue separated by a central green band that splits into a horizontal Y; a black isosceles triangle is in the Y, with narrow yellow bands around it; the red and blue bands are bordered by narrow white stripes; the colors have no official meaning, but the Y stands for \"the convergence of diverse elements within South African society, taking the road ahead in unity\"",
       "note": "<strong>note:</strong> South Africa has one of two national flags that display six colors as part of the primary design -- the other is South Sudan's"
     },
     "National symbol(s)": {
-      "text": "springbok (antelope), king protea flower; national colors: red, green, blue, yellow, black, white"
+      "text": "springbok (antelope), king protea flower"
+    },
+    "National colors": {
+      "text": "red, green, blue, yellow, black, white"
     },
     "National anthem": {
       "name": {
@@ -1217,6 +1227,9 @@
       "text": "South African National Defense Force (SANDF): South African Army (includes Reserve Force), South African Navy (SAN), South African Air Force (SAAF), South African Military Health Services<br><br>Ministry of Police: South African Police Service (2025)"
     },
     "Military expenditures": {
+      "Military Expenditures 2024": {
+        "text": "0.7% of GDP (2024 est.)"
+      },
       "Military Expenditures 2023": {
         "text": "0.7% of GDP (2023 est.)"
       },
@@ -1228,9 +1241,6 @@
       },
       "Military Expenditures 2020": {
         "text": "1.1% of GDP (2020 est.)"
-      },
-      "Military Expenditures 2019": {
-        "text": "1% of GDP (2019 est.)"
       }
     },
     "Military and security service personnel strengths": {

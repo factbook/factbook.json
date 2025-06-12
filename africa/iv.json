@@ -283,8 +283,13 @@
         "text": "total: 20.2% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "3.1% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "3.1% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "6.2% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "0.17 physicians/1,000 population (2023)"
@@ -357,21 +362,23 @@
         "text": "1.9% (2021)"
       }
     },
-    "Education expenditures": {
-      "text": "3.4% of GDP (2020 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "3.4% of GDP (2023 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "15.9% national budget (2023 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
-        "text": "89.9%"
+        "text": "50% (2021 est.)"
       },
       "male": {
-        "text": "93.1%"
+        "text": "60.2% (2021 est.)"
       },
       "female": {
-        "text": "86.7% (2019)"
+        "text": "40.3% (2021 est.)"
       }
     },
     "School life expectancy (primary to tertiary education)": {
@@ -516,12 +523,6 @@
     "Administrative divisions": {
       "text": "12 districts and 2 autonomous districts*; Abidjan*, Bas-Sassandra, Comoe, Denguele, Goh-Djiboua, Lacs, Lagunes, Montagnes, Sassandra-Marahoue, Savanes, Vallee du Bandama, Woroba, Yamoussoukro*, Zanzan"
     },
-    "Independence": {
-      "text": "7 August 1960 (from France)"
-    },
-    "National holiday": {
-      "text": "Independence Day, 7 August (1960)"
-    },
     "Legal system": {
       "text": "civil law system based on the French civil code; Constitutional Chamber of the Supreme Court reviews legislation"
     },
@@ -646,9 +647,6 @@
     "Political parties": {
       "text": "African Peoples' Party-Cote d'Ivoire or PPA-CI <br>Democratic Party of Cote d'Ivoire or PDCI <br>Ivorian Popular Front or FPI <br>Liberty and Democracy for the Republic or LIDER <br>Movement of the Future Forces or MFA <br>Pan-African Congress for People's Justice and Equality or COJEP <br>Rally of Houphouetists for Democracy and Peace or RHDP <br>Rally of the Republicans or RDR<br>Together for Democracy and Sovereignty or EDS <br>Together to Build (UDPCI, FPI,and allies) <br>Union for Cote d'Ivoire or UPCI <br>Union for Democracy and Peace in Cote d'Ivoire or UDPCI"
     },
-    "International organization participation": {
-      "text": "ACP, AfDB, AU, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-24, G-77, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSCA, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNMISS, Union Latina, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Ibrahima TOURE (since 13 January 2022)"
@@ -686,12 +684,24 @@
         "text": "<br>AbjAmCit@state.gov<br><br>https://ci.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-24, G-77, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSCA, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNMISS, Union Latina, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "7 August 1960 (from France)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 7 August (1960)"
+    },
     "Flag description": {
       "text": "three equal vertical bands of orange (hoist side), white, and green; orange stands for the savannah and fertility, white for peace and unity, green for the forests of the south and the hope for a bright future; design based on France's flag",
       "note": "<strong>note:</strong> similar to the flag of Ireland, which is longer and has the colors reversed -- green (hoist side), white, and orange; also similar to the flag of Italy, which is green (hoist side), white, and red"
     },
     "National symbol(s)": {
-      "text": "elephant; national colors: orange, white, green"
+      "text": "elephant"
+    },
+    "National colors": {
+      "text": "orange, white, green"
     },
     "National anthem": {
       "name": {

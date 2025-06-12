@@ -260,8 +260,13 @@
         "text": "total: 1.6% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "6.8% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "6.8% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "15.2% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "0.56 physicians/1,000 population (2021)"
@@ -334,21 +339,23 @@
         "text": "2% (2020)"
       }
     },
-    "Education expenditures": {
-      "text": "4.8% of GDP (2020 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "5.5% of GDP (2024 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "12.9% national budget (2024 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
-        "text": "99.1%"
+        "text": "98% (2019 est.)"
       },
       "male": {
-        "text": "99%"
+        "text": "98.3% (2019 est.)"
       },
       "female": {
-        "text": "99.3% (2021)"
+        "text": "97.7% (2019 est.)"
       }
     }
   },
@@ -459,12 +466,6 @@
     "Administrative divisions": {
       "text": "11 districts; A'ana, Aiga-i-le-Tai, Atua, Fa'asaleleaga, Gaga'emauga, Gagaifomauga, Palauli, Satupa'itea, Tuamasaga, Va'a-o-Fonoti, Vaisigano"
     },
-    "Independence": {
-      "text": "1 January 1962 (from New Zealand-administered UN trusteeship)"
-    },
-    "National holiday": {
-      "text": "Independence Day Celebration, 1 June (1962); note - 1 January 1962 is the date of independence from the New Zealand-administered UN trusteeship, but it is observed in June"
-    },
     "Legal system": {
       "text": "mixed system of English common law and customary law; judicial review of legislative acts involving fundamental citizen rights"
     },
@@ -473,7 +474,7 @@
         "text": "several previous (pre-independence); latest 1 January 1962"
       },
       "amendment process": {
-        "text": "proposed as an act by the Legislative Assembly; passage requires at least two-thirds majority vote by the Assembly membership in the third reading - provided at least 90 days have elapsed since the second reading, and assent of the chief of state; passage of amendments affecting constitutional articles on customary land or constitutional amendment procedures also requires at least two-thirds majority approval in a referendum"
+        "text": "proposed as an act by the Legislative Assembly; passage requires at least two-thirds majority vote by the Assembly membership in the third reading, provided at least 90 days have elapsed since the second reading, and assent of the chief of state; passage of amendments affecting constitutional articles on customary land or constitutional amendment procedures also requires at least two-thirds majority approval in a referendum"
       }
     },
     "International law organization participation": {
@@ -559,9 +560,6 @@
     "Political parties": {
       "text": "Fa'atuatua i le Atua Samoa ua Tasi or FAST <br>Human Rights Protection Party or HRPP <br>Tautua Samoa Party or TSP "
     },
-    "International organization participation": {
-      "text": "ACP, ADB, AOSIS, C, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IPU, ITU, ITUC (NGOs), MIGA, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Pa’olelei LUTERU (since 7 July 2021); note - also Permanent Representative to the UN"
@@ -602,12 +600,24 @@
         "text": "<br>ApiaConsular@state.gov<br><br>https://ws.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ACP, ADB, AOSIS, C, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IPU, ITU, ITUC (NGOs), MIGA, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "1 January 1962 (from New Zealand-administered UN trusteeship)"
+    },
+    "National holiday": {
+      "text": "Independence Day Celebration, 1 June (1962); note - 1 January 1962 is the date of independence from the New Zealand-administered UN trusteeship, but it is observed in June"
+    },
     "Flag description": {
       "text": "red with a blue rectangle in the upper hoist-side quadrant bearing five white, five-pointed stars that represent the Southern Cross constellation; red stands for courage, blue for freedom, and white for purity",
       "note": "<strong>note:</strong> similar to the flag of Taiwan"
     },
     "National symbol(s)": {
-      "text": "Southern Cross constellation (five, five-pointed stars); national colors: red, white, blue"
+      "text": "Southern Cross constellation (five five-pointed stars)"
+    },
+    "National colors": {
+      "text": "red, white, blue"
     },
     "National anthem": {
       "name": {

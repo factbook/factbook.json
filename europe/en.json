@@ -271,8 +271,13 @@
         "text": "total: 0.4% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "6.9% of GDP (2022)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "6.9% of GDP (2022)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "13.2% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "3.47 physicians/1,000 population (2022)"
@@ -334,13 +339,15 @@
     "Currently married women (ages 15-49)": {
       "text": "52.3% (2023 est.)"
     },
-    "Education expenditures": {
-      "text": "6.6% of GDP (2020 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "5.7% of GDP (2022 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "14.6% national budget (2022 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
         "text": "99.9%"
       },
@@ -492,12 +499,6 @@
     "Administrative divisions": {
       "text": "15 urban municipalities (linnad, singular - linn), 64 rural municipalities (vallad, singular vald)<br><br> <strong>urban municipalities:</strong> Haapsalu, Keila, Kohtla-Jarve, Loksa, Maardu, Narva, Narva-Joesuu, Paide, Parnu, Rakvere, Sillamae, Tallinn, Tartu, Viljandi, Voru<br><br><strong>rural municipalities:</strong> Alutaguse, Anija, Antsla, Elva, Haademeeste, Haljala, Harku, Hiiumaa, Jarva, Joelahtme, Jogeva, Johvi, Kadrina, Kambja, Kanepi, Kastre, Kehtna, Kihnu, Kiili, Kohila, Kose, Kuusalu, Laane-Harju, Laane-Nigula, Laaneranna, Luganuse, Luunja, Marjamaa, Muhu, Mulgi, Mustvee, Noo, Otepaa, Peipsiaare, Pohja-Parnumaa, Pohja-Sakala, Poltsamaa, Polva, Raasiku, Rae, Rakvere, Räpina, Rapla, Rouge, Ruhnu, Saarde, Saaremaa, Saku, Saue, Setomaa, Tapa, Tartu, Toila, Tori, Torva, Turi, Vaike-Maarja, Valga, Viimsi, Viljandi, Vinni, Viru-Nigula, Vormsi, Voru"
     },
-    "Independence": {
-      "text": "24 February 1918 (from Soviet Russia); 20 August 1991 (declared from the Soviet Union); 6 September 1991 (recognized by the Soviet Union)"
-    },
-    "National holiday": {
-      "text": "Independence Day, 24 February (1918); note - 24 February 1918 was the date Estonia declared its independence from Soviet Russia and established its statehood; 20 August 1991 was the date it declared its independence from the Soviet Union restoring its statehood"
-    },
     "Legal system": {
       "text": "civil law system"
     },
@@ -592,9 +593,6 @@
     "Political parties": {
       "text": "Conservative People's Party (Konservatiivne Rahvaerakond) or EKRE<br>Estonia 200 or E200<br>Estonia Centre Party of (Keskerakond) or KE<br>Estonian Free Party or VAP<br>Estonian Greens or EER<br>Estonian Nationalists and Conservatives or ERK <br>Estonian Reform Party (Reformierakond) or RE<br>Estonian United Left Party or EÜVP<br>Fatherland or I<br>Pro Patria (Isamaa)<br>The Right or PP<br>Social Democratic Party or SDE"
     },
-    "International organization participation": {
-      "text": "Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating state), EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NIB, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Kristjan PRIKK (since 7 July 2021)"
@@ -635,11 +633,23 @@
         "text": "<br>acstallinn@state.gov<br><br>https://ee.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating state), EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NIB, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "24 February 1918 (from Soviet Russia); 20 August 1991 (declared from the Soviet Union); 6 September 1991 (recognized by the Soviet Union)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 24 February (1918); note - 24 February 1918 was the date Estonia declared its independence from Soviet Russia and established its statehood; 20 August 1991 was the date it declared its independence from the Soviet Union restoring its statehood"
+    },
     "Flag description": {
       "text": "three equal horizontal bands of blue (top), black, and white; blue represents faith, loyalty, and devotion, and also the sky, sea, and lakes; black stands for the soil of the country, as well as the Estonian people's past suffering; white stands for striving towards enlightenment and virtue and also for birch bark, snow, and summer nights illuminated by the midnight sun"
     },
     "National symbol(s)": {
-      "text": "barn swallow, cornflower; national colors: blue, black, white"
+      "text": "barn swallow, cornflower"
+    },
+    "National colors": {
+      "text": "blue, black, white"
     },
     "National anthem": {
       "name": {

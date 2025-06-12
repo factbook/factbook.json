@@ -267,8 +267,13 @@
         "text": "total: 0.4% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "10% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "10% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "18.2% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "2.24 physicians/1,000 population (2019)"
@@ -344,21 +349,23 @@
         "text": "2.2% (2017)"
       }
     },
-    "Education expenditures": {
-      "text": "5.8% of GDP (2020 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "5.2% of GDP (2023 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "10.7% national budget (2024 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
-        "text": "97.9%"
+        "text": "98.2% (2019 est.)"
       },
       "male": {
-        "text": "97.6%"
+        "text": "98.2% (2019 est.)"
       },
       "female": {
-        "text": "98.4% (2021)"
+        "text": "98.3% (2019 est.)"
       }
     },
     "School life expectancy (primary to tertiary education)": {
@@ -485,12 +492,6 @@
     "Administrative divisions": {
       "text": "21 administrative atolls (atholhuthah, singular - atholhu); Addu (Addu City), Ariatholhu Dhekunuburi (South Ari Atoll), Ariatholhu Uthuruburi (North Ari Atoll), Faadhippolhu, Felidhuatholhu (Felidhu Atoll), Fuvammulah, Hahdhunmathi, Huvadhuatholhu Dhekunuburi (South Huvadhu Atoll), Huvadhuatholhu Uthuruburi (North Huvadhu Atoll), Kolhumadulu, Maale (Male), Maaleatholhu (Male Atoll), Maalhosmadulu Dhekunuburi (South Maalhosmadulu), Maalhosmadulu Uthuruburi (North Maalhosmadulu), Miladhunmadulu Dhekunuburi (South Miladhunmadulu), Miladhunmadulu Uthuruburi (North Miladhunmadulu), Mulakatholhu (Mulaku Atoll), Nilandheatholhu Dhekunuburi (South Nilandhe Atoll), Nilandheatholhu Uthuruburi (North Nilandhe Atoll), Thiladhunmathee Dhekunuburi (South Thiladhunmathi), Thiladhunmathee Uthuruburi (North Thiladhunmathi)"
     },
-    "Independence": {
-      "text": "26 July 1965 (from the UK)"
-    },
-    "National holiday": {
-      "text": "Independence Day, 26 July (1965)"
-    },
     "Legal system": {
       "text": "Islamic (sharia) legal system with English common law influences, primarily in commercial matters"
     },
@@ -585,9 +586,6 @@
     "Political parties": {
       "text": "<p>Adhaalath (Justice) Party or AP<br>Dhivehi Rayyithunge Party or DRP<br>Maldives Development Alliance or MDA<br>Maldivian Democratic Party or MDP<br>Maldives Third Way Democrats or MTD<br>People's National Congress or PNC<br>People's National Front<br>Republican (Jumhooree) Party or JP</p>"
     },
-    "International organization participation": {
-      "text": "ADB, AOSIS, C, CP, FAO, G-77, IBRD, ICAO, ICC (NGOs), ICCt, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, MIGA, NAM, OIC, OPCW, SAARC, SACEP, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Abdul GHAFOOR Mohamed (since 15 June 2023)"
@@ -619,11 +617,23 @@
         "text": "<br>Homepage - U.S. Embassy in Maldives"
       }
     },
+    "International organization participation": {
+      "text": "ADB, AOSIS, C, CP, FAO, G-77, IBRD, ICAO, ICC (NGOs), ICCt, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, MIGA, NAM, OIC, OPCW, SAARC, SACEP, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "26 July 1965 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 26 July (1965)"
+    },
     "Flag description": {
       "text": "red with a large green rectangle in the center and a vertical white crescent moon; red stand for those who have sacrificed their lives to defend the country, the green represents peace and prosperity, and the white crescent is a symbol of Islam"
     },
     "National symbol(s)": {
-      "text": "coconut palm, yellowfin tuna; national colors: red, green, white"
+      "text": "coconut palm, yellowfin tuna"
+    },
+    "National colors": {
+      "text": "red, green, white"
     },
     "National anthem": {
       "name": {

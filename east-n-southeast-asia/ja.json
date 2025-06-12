@@ -280,8 +280,13 @@
         "text": "total: 0.1% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "10.8% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "10.8% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "23.4% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "2.65 physicians/1,000 population (2022)"
@@ -343,8 +348,13 @@
     "Currently married women (ages 15-49)": {
       "text": "46.8% (2023 est.)"
     },
-    "Education expenditures": {
-      "text": "3.4% of GDP (2020 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "3.2% of GDP (2022 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "7.5% national budget (2022 est.)"
+      }
     },
     "Literacy": {
       "total population": {
@@ -500,12 +510,6 @@
     "Administrative divisions": {
       "text": "47 prefectures; Aichi, Akita, Aomori, Chiba, Ehime, Fukui, Fukuoka, Fukushima, Gifu, Gunma, Hiroshima, Hokkaido, Hyogo, Ibaraki, Ishikawa, Iwate, Kagawa, Kagoshima, Kanagawa, Kochi, Kumamoto, Kyoto, Mie, Miyagi, Miyazaki, Nagano, Nagasaki, Nara, Niigata, Oita, Okayama, Okinawa, Osaka, Saga, Saitama, Shiga, Shimane, Shizuoka, Tochigi, Tokushima, Tokyo, Tottori, Toyama, Wakayama, Yamagata, Yamaguchi, Yamanashi"
     },
-    "Independence": {
-      "text": "3 May 1947 (current constitution adopted as amendment to Meiji Constitution); notable earlier dates: 11 February 660 B.C. (mythological date of the founding of the nation by Emperor JIMMU); 29 November 1890 (Meiji Constitution provides for constitutional monarchy)"
-    },
-    "National holiday": {
-      "text": "Birthday of Emperor NARUHITO, 23 February (1960); note - celebrates the birthday of the current emperor"
-    },
     "Legal system": {
       "text": "civil law system based on German model; also reflects Anglo-American influence and Japanese traditions; Supreme Court reviews legislative acts"
     },
@@ -636,9 +640,6 @@
     "Political parties": {
       "text": "Conservative Party of Japan or CPJ<br>Constitutional Democratic Party of Japan or CDP <br>Democratic Party for the People or DPFP or DPP <br>Japan Communist Party or JCP <br>Japan Innovation Party or Nippon Ishin no kai or Ishin <br>Komeito or Komei<br>Liberal Democratic Party or LDP <br>Okinawa Social Mass Party or Okinawa Whirlwind or OW<br>Party to Protect the People from NHK or NHK<br>Reiwa Shinsengumi <br>Sanseito Party<br>Social Democratic Party or SDP"
     },
-    "International organization participation": {
-      "text": "ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dialogue partner), Australia Group, BIS, CD, CE (observer), CERN (observer), CICA (observer), CP, CPLP (associate), EAS, EBRD, EITI (implementing country), FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, NEA, NSG, OAS (observer), OECD, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Quad, SAARC (observer), SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNMISS, UNOOSA, UNRWA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador YAMADA Shigeo (since 27 February 2024)"
@@ -688,14 +689,26 @@
         "text": "Fukuoka, Nagoya"
       }
     },
+    "International organization participation": {
+      "text": "ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dialogue partner), Australia Group, BIS, CD, CE (observer), CERN (observer), CICA (observer), CP, CPLP (associate), EAS, EBRD, EITI (implementing country), FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, NEA, NSG, OAS (observer), OECD, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Quad, SAARC (observer), SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNMISS, UNOOSA, UNRWA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Independence": {
+      "text": "3 May 1947 (current constitution adopted as amendment to Meiji Constitution); notable earlier dates: 11 February 660 B.C. (mythological date of Emperor JIMMU founding the nation); 29 November 1890 (Meiji Constitution provides for constitutional monarchy)"
+    },
+    "National holiday": {
+      "text": "Birthday of Emperor NARUHITO, 23 February (1960); note - celebrates the birthday of the current emperor"
+    },
     "Flag description": {
       "text": "white with a large red disk, representing the sun without rays, in the center"
     },
     "National symbol(s)": {
-      "text": "red sun disc, chrysanthemum; national colors: red, white"
+      "text": "red sun disc, chrysanthemum"
+    },
+    "National colors": {
+      "text": "red, white"
     },
     "National coat of arms": {
-      "text": "The Kikumon is the Japanese emperor's family coat of arms and dates from 1183. The Imperial chrysanthemum emblem (菊の御紋, <em>kikunogomon</em>) is a yellow or orange chrysanthemum with black or red outlines and background. A central disc is surrounded by a front set of 16 petals. A rear set of 16 petals are half-staggered in relation to the front set and are visible at the edges of the flower."
+      "text": "the Kikumon is the Japanese emperor's family coat of arms and dates from 1183; the Imperial chrysanthemum emblem (菊の御紋, <em>kikunogomon</em>) is a yellow or orange chrysanthemum with black or red outlines and background; a central disc is surrounded by a front set of 16 petals; a rear set of 16 petals are half-staggered in relation to the front set and are visible at the edges of the flower"
     },
     "National anthem": {
       "name": {

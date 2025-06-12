@@ -281,8 +281,13 @@
         "text": "total: 3.1% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "4.6% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "4.6% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "10.7% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "1.11 physicians/1,000 population (2021)"
@@ -358,21 +363,23 @@
         "text": "1.9% (2021)"
       }
     },
-    "Education expenditures": {
-      "text": "4.1% of GDP (2020 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "2.9% of GDP (2022 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "15.4% national budget (2022 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
-        "text": "95.8%"
+        "text": "96% (2022 est.)"
       },
       "male": {
-        "text": "97%"
+        "text": "97% (2022 est.)"
       },
       "female": {
-        "text": "94.6% (2019)"
+        "text": "95% (2022 est.)"
       }
     }
   },
@@ -514,12 +521,6 @@
     "Administrative divisions": {
       "text": "<p>58 provinces (tinh, singular and plural) and 5 municipalities (thanh pho, singular and plural)</p> <p><strong>provinces:</strong> An Giang, Bac Giang, Bac Kan, Bac Lieu, Bac Ninh, Ba Ria-Vung Tau, Ben Tre, Binh Dinh, Binh Duong, Binh Phuoc, Binh Thuan, Ca Mau, Cao Bang, Dak Lak, Dak Nong, Dien Bien, Dong Nai, Dong Thap, Gia Lai, Ha Giang, Ha Nam, Ha Tinh, Hai Duong, Hau Giang, Hoa Binh, Hung Yen, Khanh Hoa, Kien Giang, Kon Tum, Lai Chau, Lam Dong, Lang Son, Lao Cai, Long An, Nam Dinh, Nghe An, Ninh Binh, Ninh Thuan, Phu Tho, Phu Yen, Quang Binh, Quang Nam, Quang Ngai, Quang Ninh, Quang Tri, Soc Trang, Son La, Tay Ninh, Thai Binh, Thai Nguyen, Thanh Hoa, Thua Thien-Hue, Tien Giang, Tra Vinh, Tuyen Quang, Vinh Long, Vinh Phuc, Yen Bai</p> <p><strong>municipalities:</strong> Can Tho, Da Nang, Ha Noi (Hanoi), Hai Phong, Ho Chi Minh City (Saigon)</p>"
     },
-    "Independence": {
-      "text": "2 September 1945 (from France)"
-    },
-    "National holiday": {
-      "text": "Independence Day (National Day), 2 September (1945)"
-    },
     "Legal system": {
       "text": "civil law system with European influences"
     },
@@ -614,9 +615,6 @@
       "text": "Communist Party of Vietnam or CPV",
       "note": "<strong>note:</strong>  other parties proscribed"
     },
-    "International organization participation": {
-      "text": "ADB, APEC, ARF, ASEAN, CICA, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, NAM, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (2024)"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Nguyen Quoc DZUNG (since 19 April 2022)"
@@ -663,11 +661,23 @@
         "text": "Ho Chi Minh City"
       }
     },
+    "International organization participation": {
+      "text": "ADB, APEC, ARF, ASEAN, CICA, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, NAM, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (2024)"
+    },
+    "Independence": {
+      "text": "2 September 1945 (from France)"
+    },
+    "National holiday": {
+      "text": "Independence Day (National Day), 2 September (1945)"
+    },
     "Flag description": {
       "text": "red field with a five-pointed yellow star in the center; red stands for revolution and blood, and the five-pointed star for the five elements of the populace -- peasants, workers, intellectuals, traders, and soldiers -- that unite to build socialism"
     },
     "National symbol(s)": {
-      "text": "yellow, five-pointed star on red field; lotus blossom; national colors: red, yellow"
+      "text": "five-pointed yellow star on a red field, lotus blossom"
+    },
+    "National colors": {
+      "text": "red, yellow"
     },
     "National anthem": {
       "name": {

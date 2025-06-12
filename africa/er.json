@@ -264,8 +264,13 @@
         "text": "total: 42.2% of population (2015 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "4.2% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "4.2% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "2.4% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "0.09 physicians/1,000 population (2022)"
@@ -327,13 +332,7 @@
     "Currently married women (ages 15-49)": {
       "text": "52.3% (2023 est.)"
     },
-    "Education expenditures": {
-      "text": "NA"
-    },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
         "text": "76.6%"
       },
@@ -471,12 +470,6 @@
     "Administrative divisions": {
       "text": "6 regions (zobatat, singular - zoba); 'Anseba, Debub (South), Debubawi K'eyyih Bahri (Southern Red Sea), Gash-Barka, Ma'ikel (Central), Semienawi K'eyyih Bahri (Northern Red Sea)"
     },
-    "Independence": {
-      "text": "24 May 1993 (from Ethiopia)"
-    },
-    "National holiday": {
-      "text": "Independence Day, 24 May (1991)"
-    },
     "Legal system": {
       "text": "mixed system of civil, customary, and Islamic religious law"
     },
@@ -561,9 +554,6 @@
     "Political parties": {
       "text": "People's Front for Democracy and Justice or PFDJ (the only party recognized by the government)"
     },
-    "International organization participation": {
-      "text": "ACP, AfDB, AU, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), IDA, IFAD, IFC, IFRCS (observer), IGAD, ILO, IMF, IMO, Interpol, IOC, ISO (correspondent), ITU, ITUC (NGOs), LAS (observer), MIGA, NAM, OPCW, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador (vacant); Charg&eacute; d'Affaires Berhane Gebrehiwet SOLOMON (since 15 March 2011)"
@@ -601,12 +591,24 @@
         "text": "<br>consularasmara@state.gov<br><br>https://er.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), IDA, IFAD, IFC, IFRCS (observer), IGAD, ILO, IMF, IMO, Interpol, IOC, ISO (correspondent), ITU, ITUC (NGOs), LAS (observer), MIGA, NAM, OPCW, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO"
+    },
+    "Independence": {
+      "text": "24 May 1993 (from Ethiopia)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 24 May (1991)"
+    },
     "Flag description": {
       "text": "a red isosceles triangle (based on the hoist side) divides the flag into two right triangles; the upper triangle is green, the lower is blue; a gold wreath encircling a gold olive branch is centered on the hoist side of the red triangle; green stands for the country's agriculture economy, red for the blood shed in the fight for freedom, and blue for the sea's bounty; the shape of the red triangle mimics the shape of the country",
       "note": "<strong>note:</strong> one of four national flags that reflect the shape of the country in the flag design; the others are Bosnia and Herzegovina, Brazil, and Vanuatu"
     },
     "National symbol(s)": {
-      "text": "camel; national colors: green, red, blue"
+      "text": "camel"
+    },
+    "National colors": {
+      "text": "green, red, blue"
     },
     "National anthem": {
       "name": {

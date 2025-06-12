@@ -252,8 +252,13 @@
         "text": "total: 3.2% of population (2017 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "5.9% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "5.9% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "14% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "2.92 physicians/1,000 population (2017)"
@@ -292,13 +297,15 @@
     "Currently married women (ages 15-49)": {
       "text": "31.5% (2023 est.)"
     },
-    "Education expenditures": {
-      "text": "3.8% of GDP (2021 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "3.1% of GDP (2023 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "11% national budget (2024 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over has completed five or more years of schooling"
-      },
       "total population": {
         "text": "99%"
       },
@@ -306,7 +313,7 @@
         "text": "98.4%"
       },
       "female": {
-        "text": "99.4% (2015)"
+        "text": "99.4% (2015 est.)"
       }
     },
     "School life expectancy (primary to tertiary education)": {
@@ -427,12 +434,6 @@
     "Administrative divisions": {
       "text": "6 parishes and 2 dependencies*; Barbuda*, Redonda*, Saint George, Saint John, Saint Mary, Saint Paul, Saint Peter, Saint Philip"
     },
-    "Independence": {
-      "text": "1 November 1981 (from the UK)"
-    },
-    "National holiday": {
-      "text": "Independence Day, 1 November (1981)"
-    },
     "Legal system": {
       "text": "common law based on the English model"
     },
@@ -552,9 +553,6 @@
     "Political parties": {
       "text": "Antigua Labor Party or ABLP<br>Barbuda People's Movement or BPM<br>Democratic National Alliance or DNA<br>Go Green for Life or GGL<br>United Progressive Party or UPP"
     },
-    "International organization participation": {
-      "text": "ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO (subscriber), ITU, ITUC (NGOs), MIGA, NAM (observer), OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UPU, WFTU (NGOs), WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Sir Ronald SANDERS (since 17 September 2015)"
@@ -580,11 +578,23 @@
         "text": "the US does not have an embassy in Antigua and Barbuda; the US Ambassador to Barbados is accredited to Antigua and Barbuda"
       }
     },
+    "International organization participation": {
+      "text": "ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO (subscriber), ITU, ITUC (NGOs), MIGA, NAM (observer), OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UPU, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "1 November 1981 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 1 November (1981)"
+    },
     "Flag description": {
       "text": "red, with an inverted isosceles triangle on the top edge of the flag; the triangle contains three horizontal bands of black (top), light blue, and white, with a yellow rising sun in the black band; the sun symbolizes the dawn of a new era, black represents the African heritage of most of the population, blue is for hope, and red is for the dynamism of the people; the \"V\" stands for victory; the successive yellow, blue, and white coloring is also meant to evoke the country's tourist attractions of sun, sea, and sand"
     },
     "National symbol(s)": {
-      "text": "fallow deer; national colors: red, white, blue, black, yellow"
+      "text": "fallow deer"
+    },
+    "National colors": {
+      "text": "red, white, blue, black, yellow"
     },
     "National anthem": {
       "name": {

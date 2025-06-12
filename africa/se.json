@@ -262,8 +262,13 @@
         "text": "total: 3.8% of population (2017 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "5.3% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "5.3% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "10.2% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "2.25 physicians/1,000 population (2019)"
@@ -325,13 +330,15 @@
     "Currently married women (ages 15-49)": {
       "text": "45% (2023 est.)"
     },
-    "Education expenditures": {
-      "text": "5.2% of GDP (2020 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "4.5% of GDP (2023 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "13.1% national budget (2024 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
         "text": "95.9%"
       },
@@ -466,12 +473,6 @@
     "Administrative divisions": {
       "text": "27 administrative districts; Anse aux Pins, Anse Boileau, Anse Etoile, Anse Royale, Au Cap, Baie Lazare, Baie Sainte Anne, Beau Vallon, Bel Air, Bel Ombre, Cascade, Glacis, Grand Anse Mahe, Grand Anse Praslin, Ile Pers&eacute;v&eacute;rance I, Ile Pers&eacute;v&eacute;rance II, La Digue, La Rivi&egrave;re Anglaise, Les Mamelles, Mont Buxton, Mont Fleuri, Plaisance, Pointe Larue, Port Glaud, Roche Caiman, Saint Louis, Takamaka"
     },
-    "Independence": {
-      "text": "29 June 1976 (from the UK)"
-    },
-    "National holiday": {
-      "text": "Constitution Day, 18 June (1993); Independence Day (National Day), 29 June (1976)"
-    },
     "Legal system": {
       "text": "mixed system of English common law, French civil law, and customary law"
     },
@@ -567,9 +568,6 @@
     "Political parties": {
       "text": "Seychelles Party for Social Justice and Democracy or SPSJD<br>Seychellois Democratic Alliance or LDS (Linyon Demokratik Seselwa/Union Démocratique Seychelloise)<br>Seychelles National Party or SNP<br>United Seychelles or US"
     },
-    "International organization participation": {
-      "text": "ACP, AfDB, AOSIS, AU, C, CD, COMESA, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, InOC, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MIGA, NAM, OIF, OPCW, SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Ian Dereck Joseph MADELEINE (since 1 December 2021); note - also Permanent Representative to the UN"
@@ -598,11 +596,23 @@
         "text": "[248] 422 5256"
       }
     },
+    "International organization participation": {
+      "text": "ACP, AfDB, AOSIS, AU, C, CD, COMESA, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, InOC, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MIGA, NAM, OIF, OPCW, SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "29 June 1976 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Constitution Day, 18 June (1993); Independence Day (National Day), 29 June (1976)"
+    },
     "Flag description": {
       "text": "five oblique bands of blue (hoist side), yellow, red, white, and green (bottom), radiating from the bottom of the hoist side; the bands symbolize a dynamic new country moving into the future; blue stands for the sky and sea, yellow for the sun giving light and life, red for the people's determination to work for the future in unity and love, white for social justice and harmony, and green for the land and natural environment"
     },
     "National symbol(s)": {
-      "text": "coco de mer (sea coconut); national colors: blue, yellow, red, white, green"
+      "text": "coco de mer (sea coconut)"
+    },
+    "National colors": {
+      "text": "blue, yellow, red, white, green"
     },
     "National anthem": {
       "name": {
@@ -1025,6 +1035,9 @@
       "note": "<br>  "
     },
     "Military expenditures": {
+      "Military Expenditures 2024": {
+        "text": "1.5% of GDP (2024 est.)"
+      },
       "Military Expenditures 2023": {
         "text": "1.6% of GDP (2023 est.)"
       },
@@ -1036,9 +1049,6 @@
       },
       "Military Expenditures 2020": {
         "text": "1.6% of GDP (2020 est.)"
-      },
-      "Military Expenditures 2019": {
-        "text": "1.3% of GDP (2019 est.)"
       }
     },
     "Military and security service personnel strengths": {

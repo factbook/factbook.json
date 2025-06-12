@@ -285,8 +285,13 @@
         "text": "total: 0% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "6.5% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "6.5% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "11.2% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "3.63 physicians/1,000 population (2022)"
@@ -356,21 +361,23 @@
         "text": "6.9% (2021)"
       }
     },
-    "Education expenditures": {
-      "text": "3.7% of GDP (2020 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "3.3% of GDP (2021 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "8.1% national budget (2021 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
-        "text": "98.9%"
+        "text": "99% (2021 est.)"
       },
       "male": {
-        "text": "99.1%"
+        "text": "99% (2021 est.)"
       },
       "female": {
-        "text": "98.7% (2021)"
+        "text": "99% (2021 est.)"
       }
     },
     "School life expectancy (primary to tertiary education)": {
@@ -523,12 +530,6 @@
     "Administrative divisions": {
       "text": "41 counties (judete, singular - judet) and 1 municipality* (municipiu); Alba, Arad, Arges, Bacau, Bihor, Bistrita-Nasaud, Botosani, Braila, Brasov, Bucuresti (Bucharest)*, Buzau, Calarasi, Caras-Severin, Cluj, Constanta, Covasna, Dambovita, Dolj, Galati, Gorj, Giurgiu, Harghita, Hunedoara, Ialomita, Iasi, Ilfov, Maramures, Mehedinti, Mures, Neamt, Olt, Prahova, Salaj, Satu Mare, Sibiu, Suceava, Teleorman, Timis, Tulcea, Vaslui, Valcea, Vrancea"
     },
-    "Independence": {
-      "text": "9 May 1877 (independence proclaimed from the Ottoman Empire; 13 July 1878 (independence recognized by the Treaty of Berlin); 26 March 1881 (kingdom proclaimed); 30 December 1947 (republic proclaimed)"
-    },
-    "National holiday": {
-      "text": "Unification Day (unification of Romania and Transylvania), 1 December (1918)"
-    },
     "Legal system": {
       "text": "civil law system"
     },
@@ -657,9 +658,6 @@
     "Political parties": {
       "text": "Alliance for the Fatherland or APP <br>Alliance for the Unity of Romanians or AUR<br>Christian-Democratic National Peasants' Party or PNT-CD <br>Civic Hungarian Party<br>Democratic Union of Hungarians in Romania or UDMR <br>Ecologist Party of Romania or PER <br>Force of the Right or FD <br>Greater Romania Party or PRM <br>Green Party<br>National Liberal Party or PNL<br>Popular Movement Party or PMP <br>PRO Romania or PRO<br>Romanian Nationhood Party or PNR <br>Save Romania Union Party or USR <br>Social Democratic Party or PSD <br>Social Liberal Humanist Party or PUSL (formerly Humanist Power Party (Social-Liberal) or PPU-SL)<br>S.O.S. Romania <br>The Right Alternative or AD <br>United Romania Party or PRU <br>We are Renewing the European Project in Romania or REPER "
     },
-    "International organization participation": {
-      "text": "Australia Group, BIS, BSEC, CBSS (observer), CD, CE, CEI, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, G-9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MONUSCO, NATO, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNMIL, UNMISS, UNOCI, UNOOSA,UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Dan-Andrei MURARU (since 15 September 2021)"
@@ -700,12 +698,24 @@
         "text": "<br>ACSBucharest@state.gov<br><br>https://ro.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "Australia Group, BIS, BSEC, CBSS (observer), CD, CE, CEI, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, G-9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MONUSCO, NATO, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNMIL, UNMISS, UNOCI, UNOOSA,UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Independence": {
+      "text": "9 May 1877 (independence proclaimed from the Ottoman Empire; 13 July 1878 (independence recognized by the Treaty of Berlin); 26 March 1881 (kingdom proclaimed); 30 December 1947 (republic proclaimed)"
+    },
+    "National holiday": {
+      "text": "Unification Day (unification of Romania and Transylvania), 1 December (1918)"
+    },
     "Flag description": {
-      "text": "three equal vertical bands of blue (hoist side), yellow, and red; modeled after the flag of France, the colors are those of the principalities of Walachia (red and yellow) and Moldavia (red and blue), which united in 1862 to form Romania; the national coat of arms that used to be centered in the yellow band has been removed",
-      "note": "<strong>note:</strong> now similar to the flag of Chad, whose blue band is darker; also resembles the flags of Andorra and Moldova"
+      "text": "three equal vertical bands of blue (hoist side), yellow, and red; modeled after the flag of France; the colors come from the principalities of Walachia (red and yellow) and Moldavia (red and blue), which united in 1862 to form Romania; the national coat of arms that used to be centered in the yellow band has been removed",
+      "note": "<strong>note:</strong> similar to the flag of Chad, which has a darker blue band; also resembles the flags of Andorra and Moldova"
     },
     "National symbol(s)": {
-      "text": "golden eagle; national colors: blue, yellow, red"
+      "text": "golden eagle"
+    },
+    "National colors": {
+      "text": "blue, yellow, red"
     },
     "National anthem": {
       "name": {
@@ -727,7 +737,7 @@
   },
   "Economy": {
     "Economic overview": {
-      "text": "high-income EU member economy; joined Schengen area as of March 2024; euro membership delayed over convergence criteria; persistent inflation but recovery driven by consumption and EU-funded investments; skilled labor shortage; regional economic disparities; fiscal reforms to address rising deficits"
+      "text": "<p>high-income, EU-member economy; euro membership delayed over macroeconomic indicators; persistent inflation, but consumption and EU-funded investments driving recovery; skilled labor shortage; high public debt and budget deficit; challenges include fiscal sustainability and political instability</p>"
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2023": {

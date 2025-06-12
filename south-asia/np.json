@@ -274,8 +274,13 @@
         "text": "total: 5.9% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "5.4% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "5.4% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "8% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "1.01 physicians/1,000 population (2023)"
@@ -351,21 +356,23 @@
         "text": "7% (2022)"
       }
     },
-    "Education expenditures": {
-      "text": "4.2% of GDP (2020 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "4% of GDP (2023 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "12.8% national budget (2021 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
-        "text": "71.2%"
+        "text": "68.7% (2019 est.)"
       },
       "male": {
-        "text": "81%"
+        "text": "79.7% (2019 est.)"
       },
       "female": {
-        "text": "63.3% (2021)"
+        "text": "59.4% (2019 est.)"
       }
     },
     "School life expectancy (primary to tertiary education)": {
@@ -498,12 +505,6 @@
     "Administrative divisions": {
       "text": "7 provinces (pradesh, singular - pradesh); Bagmati, Gandaki, Karnali, Koshi, Lumbini, Madhesh, Sudurpashchim"
     },
-    "Independence": {
-      "text": "1768 (unified by Prithvi Narayan SHAH)"
-    },
-    "National holiday": {
-      "text": "Constitution Day, 20 September (2015); note - marks the promulgation of Nepal’s constitution in 2015 and replaces the previous 28 May Republic Day as the official national day in Nepal; the Gregorian day fluctuates based on Nepal’s Hindu calendar"
-    },
     "Legal system": {
       "text": "English common law and Hindu legal concepts"
     },
@@ -626,9 +627,6 @@
     "Political parties": {
       "text": "<p>Communist Party of Nepal (Maoist Centre) or CPN-MC<br>Communist Party of Nepal (Unified Marxist-Leninist) or CPN-UML<br>Communist Party of Nepal (Unified Socialist) or CPN-US<br>Janamat Party<br>Janata Samajbaadi Party or JSP<br>Loktantrik Samajwadi Party or LSP<br>Naya Shakti Party, Nepal<br>Nepali Congress or NC<br>Nepal Mazdoor Kisan Party (Nepal Workers' and Peasants' Party) or NWPP<br>Rastriya Janamorcha (National People's Front)<br>Rastriya Prajatantra Party (National Democratic Party) or RPP<br>Rastriya Swatantra Party or RSP</p>"
     },
-    "International organization participation": {
-      "text": "ADB, BIMSTEC, CD, CP, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSTAH, MONUSCO, NAM, OPCW, SAARC, SACEP, UN, UNAMID, UNCTAD, UNDOF, UNESCO, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNOCI, UNSOM, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador (vacant); Charg&eacute; d'Affaires Sharad Raj ARAN (since 13 November 2024)"
@@ -669,12 +667,24 @@
         "text": "<br>usembktm@state.gov<br><br>https://np.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ADB, BIMSTEC, CD, CP, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSTAH, MONUSCO, NAM, OPCW, SAARC, SACEP, UN, UNAMID, UNCTAD, UNDOF, UNESCO, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNOCI, UNSOM, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "1768 (unified by Prithvi Narayan SHAH)"
+    },
+    "National holiday": {
+      "text": "Constitution Day, 20 September (2015); note - marks the promulgation of Nepal’s constitution in 2015 and replaces the previous 28 May Republic Day as the official national day in Nepal; the Gregorian day fluctuates based on Nepal’s Hindu calendar"
+    },
     "Flag description": {
       "text": "crimson red with a blue border around the unique shape of two overlapping right triangles; the smaller upper triangle has a white stylized moon, and the larger, lower triangle displays a white 12-pointed sun; the color red represents the rhododendron (the national flower) and victory and bravery, and the blue border signifies peace and harmony; the two triangles are a combination of two pennants that originally symbolized the Himalaya Mountains, but today they refer to Hinduism and Buddhism, the country's two main religions; the moon stands for the serenity of the people and the Himalayan shade and cool weather, and the sun for the heat and higher temperatures of the rest of the country",
       "note": "<strong>note:</strong> Nepal is the only country in the world with a flag that is not rectangular or square"
     },
     "National symbol(s)": {
-      "text": "rhododendron blossom; national color: red"
+      "text": "rhododendron blossom"
+    },
+    "National colors": {
+      "text": "red"
     },
     "National anthem": {
       "name": {
@@ -1101,6 +1111,9 @@
       "note": "<strong>note: </strong>the Nepal Police are responsible for enforcing law and order across the country; the Armed Police Force is responsible for combating terrorism, providing security during riots and public disturbances, assisting in natural disasters, and protecting vital infrastructure, public officials, and the borders; it also conducts counterinsurgency and counterterrorism operations and would assist the Army in the event of an external invasion"
     },
     "Military expenditures": {
+      "Military Expenditures 2024": {
+        "text": "1% of GDP (2024 est.)"
+      },
       "Military Expenditures 2023": {
         "text": "1% of GDP (2023 est.)"
       },
@@ -1112,9 +1125,6 @@
       },
       "Military Expenditures 2020": {
         "text": "1.3% of GDP (2020 est.)"
-      },
-      "Military Expenditures 2019": {
-        "text": "1.6% of GDP (2019 est.)"
       }
     },
     "Military and security service personnel strengths": {

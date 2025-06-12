@@ -267,8 +267,13 @@
         "text": "total: 0% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "5.6% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "5.6% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "18.1% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "2.83 physicians/1,000 population (2022)"
@@ -338,21 +343,23 @@
         "text": "0.1% (2023)"
       }
     },
-    "Education expenditures": {
-      "text": "2.8% of GDP (2021 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "2.2% of GDP (2024 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "10.8% national budget (2023 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
-        "text": "97.5%"
+        "text": "98% (2021 est.)"
       },
       "male": {
-        "text": "98.9%"
+        "text": "99% (2021 est.)"
       },
       "female": {
-        "text": "96.1% (2019)"
+        "text": "96% (2021 est.)"
       }
     },
     "School life expectancy (primary to tertiary education)": {
@@ -485,12 +492,6 @@
     "Administrative divisions": {
       "text": "no first order administrative divisions; there are five community development councils: Central Singapore Development Council, North East Development Council, North West Development Council, South East Development Council, South West Development Council (2019)"
     },
-    "Independence": {
-      "text": "9 August 1965 (from Malaysian Federation)"
-    },
-    "National holiday": {
-      "text": "National Day, 9 August (1965)"
-    },
     "Legal system": {
       "text": "English common law"
     },
@@ -583,9 +584,6 @@
       "text": "People's Action Party or PAP <br>Progress Singapore Party or PSP <br>Workers' Party or WP ",
       "note": "<strong>note: </strong>the PAP has won every general election since the end of the British colonial era in 1959"
     },
-    "International organization participation": {
-      "text": "ADB, AOSIS, APEC, Arctic Council (observer), ARF, ASEAN, BIS, C, CP, EAS, FAO, FATF, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, Pacific Alliance (observer), PCA, UN, UNCTAD, UNESCO, UNHCR, UNOOSA, UPU, WCO, WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador LUI Tuck Yew (since 30 June 2023)"
@@ -629,11 +627,23 @@
         "text": "<br>singaporeusembassy@state.gov<br><br>https://sg.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ADB, AOSIS, APEC, Arctic Council (observer), ARF, ASEAN, BIS, C, CP, EAS, FAO, FATF, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, Pacific Alliance (observer), PCA, UN, UNCTAD, UNESCO, UNHCR, UNOOSA, UPU, WCO, WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "9 August 1965 (from Malaysian Federation)"
+    },
+    "National holiday": {
+      "text": "National Day, 9 August (1965)"
+    },
     "Flag description": {
       "text": "two equal horizontal bands of red (top) and white; near the hoist side of the red band is a vertical white crescent partially enclosing a circle of five white five-pointed stars; red stands for brotherhood and equality, and white for purity and virtue; the waxing crescent moon symbolizes a young nation on the ascendancy; the stars represent the national ideals of democracy, peace, progress, justice, and equality"
     },
     "National symbol(s)": {
-      "text": "lion, merlion (mythical half lion-half fish creature), orchid; national colors: red, white"
+      "text": "lion, merlion (mythical half-lion, half-fish creature), orchid"
+    },
+    "National colors": {
+      "text": "red, white"
     },
     "National anthem": {
       "name": {

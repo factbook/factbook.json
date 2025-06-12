@@ -279,8 +279,13 @@
         "text": "total: 33.5% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "3% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "3% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "6.7% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "0.24 physicians/1,000 population (2022)"
@@ -345,21 +350,23 @@
         "text": "6% (2016)"
       }
     },
-    "Education expenditures": {
-      "text": "2.4% of GDP (2020 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "2.5% of GDP (2023 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "6.5% national budget (2025 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
-        "text": "71.1%"
+        "text": "66.2% (2015 est.)"
       },
       "male": {
-        "text": "82.6%"
+        "text": "83.8% (2015 est.)"
       },
       "female": {
-        "text": "62.4% (2015)"
+        "text": "51.9% (2015 est.)"
       }
     }
   },
@@ -490,12 +497,6 @@
     "Administrative divisions": {
       "text": "18 provinces (provincias, singular - provincia); Bengo, Benguela, Bie, Cabinda, Cuando Cubango, Cuanza-Norte, Cuanza-Sul, Cunene, Huambo, Huila, Luanda, Lunda-Norte, Lunda-Sul, Malanje, Moxico, Namibe, Uige, Zaire"
     },
-    "Independence": {
-      "text": "11 November 1975 (from Portugal)"
-    },
-    "National holiday": {
-      "text": "Independence Day, 11 November (1975)"
-    },
     "Legal system": {
       "text": "civil legal system based on Portuguese civil law; no judicial review of legislation"
     },
@@ -590,9 +591,6 @@
     "Political parties": {
       "text": "Broad Convergence for the Salvation of Angola Electoral Coalition or CASA-CE <br>Humanist Party of Angola or PHI <br>National Front for the Liberation of Angola or FNLA; note - party has two factions<br>National Union for the Total Independence of Angola or UNITA (largest opposition party)<br>Popular Movement for the Liberation of Angola or MPLA; note- ruling party in power since 1975<br>Social Renewal Party or PRS "
     },
-    "International organization participation": {
-      "text": "ACP, AfDB, AU, CEMAC, CPLP, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Agostinho de Carvalho dos Santos VAN-D&Uacute;NEM (since 30 June 2023)"
@@ -633,11 +631,23 @@
         "text": "<br>Consularluanda@state.gov<br><br>https://ao.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, CEMAC, CPLP, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "11 November 1975 (from Portugal)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 11 November (1975)"
+    },
     "Flag description": {
       "text": "two equal horizontal bands of red (top) and black with a centered yellow emblem consisting of a five-pointed star within half a cogwheel crossed by a machete (in the style of a hammer and sickle); red represents liberty and black the African continent; the symbols characterize workers and peasants"
     },
     "National symbol(s)": {
-      "text": "Palanca Negra Gigante (giant black sable antelope); national colors: red, black, yellow"
+      "text": "giant black sable antelope (<em>Palanca negra gigante</em>)"
+    },
+    "National colors": {
+      "text": "red, black, yellow"
     },
     "National anthem": {
       "name": {

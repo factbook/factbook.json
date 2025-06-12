@@ -279,8 +279,13 @@
         "text": "total: 10.4% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "4.3% of GDP (2015)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "4.3% of GDP (2015)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "2.5% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "0.1 physicians/1,000 population (2023)"
@@ -348,9 +353,6 @@
       }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
         "text": "70.1%"
       },
@@ -358,7 +360,7 @@
         "text": "85.1%"
       },
       "female": {
-        "text": "55% (2015)"
+        "text": "54.1% (2023 est.)"
       }
     }
   },
@@ -403,11 +405,6 @@
       },
       "rate of urbanization": {
         "text": "3.71% annual rate of change (2015-20 est.)"
-      }
-    },
-    "Food insecurity": {
-      "widespread lack of access": {
-        "text": "<em>due to conflict, poverty, floods, high food and fuel prices -</em> in 2023, a partial analysis in government‑controlled areas, where approximately 25 percent of the population in acute food insecurity resides, shows that the situation remains dire; despite some improvements in security, the economic crisis and localized conflicts continue, fueled by persistent political instability, while insufficient external revenues and elevated global commodity prices on imported food limits food security (2023)"
       }
     },
     "Air pollutants": {
@@ -487,12 +484,6 @@
     },
     "Administrative divisions": {
       "text": "22 governorates (muhafazat, singular - muhafazah); Abyan, 'Adan (Aden), Ad Dali', Al Bayda', Al Hudaydah, Al Jawf, Al Mahrah, Al Mahwit, Amanat al 'Asimah (Sanaa City), 'Amran, Arkhabil Suqutra (Socotra Archipelago), Dhamar, Hadramawt, Hajjah, Ibb, Lahij, Ma'rib, Raymah, Sa'dah, San'a' (Sanaa), Shabwah, Ta'izz"
-    },
-    "Independence": {
-      "text": "22 May 1990 (Republic of Yemen was established with the merger of the Yemen Arab Republic [Yemen (Sanaa) or North Yemen] and the Marxist-dominated People's Democratic Republic of Yemen [Yemen (Aden) or South Yemen]); notable earlier dates: North Yemen became independent on 1 November 1918 (from the Ottoman Empire) and became a republic with the overthrow of the theocratic Imamate on 27 September 1962; South Yemen became independent on 30 November 1967 (from the UK)"
-    },
-    "National holiday": {
-      "text": "Unification Day, 22 May (1990)"
     },
     "Legal system": {
       "text": "mixed system of Islamic (sharia) law, Napoleonic law, English common law, and customary law"
@@ -607,9 +598,6 @@
     "Political parties": {
       "text": "General People’s Congress or GPC (3 factions: pro-Hadi, pro-Houthi, pro-Salih)<br>Nasserist Unionist People's Organization<br>National Arab Socialist Ba'ath Party<br>Southern Transitional Council or STC<br>Yemeni Reform Grouping or Islah<br>Yemeni Socialist Party or YSP"
     },
-    "International organization participation": {
-      "text": "AFESD, AMF, CAEU, CD, EITI (temporarily suspended), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MINURSO, MINUSMA, MONUSCO, NAM, OAS (observer), OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMHA, UNMIL, UNMIS, UNOCI, UNVIM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador-designate Abdulwahab Abdullah Ahmed al-HAJRI (since 10 April 2025)"
@@ -647,12 +635,24 @@
         "text": "<br>YemenEmergencyUSC@state.gov<br><br>https://ye.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "AFESD, AMF, CAEU, CD, EITI (temporarily suspended), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MINURSO, MINUSMA, MONUSCO, NAM, OAS (observer), OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMHA, UNMIL, UNMIS, UNOCI, UNVIM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "22 May 1990 (Republic of Yemen established with the merger of the Yemen Arab Republic [Yemen (Sanaa) or North Yemen] and the People's Democratic Republic of Yemen [Yemen (Aden) or South Yemen]); notable earlier dates: 1 November 1918 (North Yemen independent from the Ottoman Empire), 27 September 1962 (North Yemen becomes republic), 30 November 1967 (South Yemen independent from the UK)"
+    },
+    "National holiday": {
+      "text": "Unification Day, 22 May (1990)"
+    },
     "Flag description": {
       "text": "three equal horizontal bands of red (top), white, and black; the band colors come from the Arab Liberation flag and represent oppression (black) overcome through bloody struggle (red), to be replaced by a bright future (white)",
       "note": "<strong>note:</strong> similar to the flags of Iraq (Arabic inscription centered in the white band) and Egypt (heraldic eagle centered in the white band)"
     },
     "National symbol(s)": {
-      "text": "golden eagle; national colors: red, white, black"
+      "text": "golden eagle"
+    },
+    "National colors": {
+      "text": "red, white, black"
     },
     "National anthem": {
       "name": {

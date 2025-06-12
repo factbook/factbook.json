@@ -275,8 +275,13 @@
         "text": "total: 0.1% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "9% of GDP (2022)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "9% of GDP (2022)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "11.8% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "4.19 physicians/1,000 population (2022)"
@@ -338,21 +343,23 @@
     "Currently married women (ages 15-49)": {
       "text": "52.5% (2023 est.)"
     },
-    "Education expenditures": {
-      "text": "4.3% of GDP (2020 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "4% of GDP (2022 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "7.2% national budget (2022 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
-        "text": "99.2%"
+        "text": "99% (2019 est.)"
       },
       "male": {
-        "text": "99.4%"
+        "text": "99% (2019 est.)"
       },
       "female": {
-        "text": "99% (2018)"
+        "text": "99% (2019 est.)"
       }
     },
     "School life expectancy (primary to tertiary education)": {
@@ -499,12 +506,6 @@
     "Administrative divisions": {
       "text": "<p>15 regions (regioni, singular - regione) and 5 autonomous regions (regioni autonome, singular - regione autonoma)</p> <p><strong>regions:</strong> Abruzzo, Basilicata, Calabria, Campania, Emilia-Romagna, Lazio (Latium), Liguria, Lombardia, Marche, Molise, Piemonte (Piedmont), Puglia (Apulia), Toscana (Tuscany), Umbria, Veneto</p> <p><strong>autonomous regions:</strong> Friuli Venezia Giulia, Sardegna (Sardinia), Sicilia (Sicily), Trentino-Alto Adige (Trentino-South Tyrol) or Trentino-Suedtirol (German), Valle d'Aosta (Aosta Valley) or Vallee d'Aoste (French)</p>"
     },
-    "Independence": {
-      "text": "17 March 1861 (Kingdom of Italy proclaimed; Italy was not finally unified until 1871)"
-    },
-    "National holiday": {
-      "text": "Republic Day, 2 June (1946)"
-    },
     "Legal system": {
       "text": "civil law system; Constitutional Court reviews legislation under certain conditions"
     },
@@ -633,9 +634,6 @@
     "Political parties": {
       "text": "<p>Action-Italia Viva <br>Associative Movement of Italians Abroad or MAIE <br>Brothers of Italy or FdI <br>Democratic Party or PD <br>Five Star Movement or M5S <br>Forza Italia or FI <br>Free and Equal (Liberi e Uguali) or LeU <br>Greens and Left Alliance or AVS <br>Italexit <br>League or Lega <br>More Europe or +EU <br>Popular Union or PU <br>South calls North or ScN <br>South Tyrolean Peoples Party or SVP <br>other minor parties</p>"
     },
-    "International organization participation": {
-      "text": "ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS (observer), CD, CDB, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINURSO, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Schengen Convention, SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, Union Latina, UNMOGIP, UNOOSA, UNRWA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Mariangela ZAPPIA (since 15 September 2021)"
@@ -682,12 +680,25 @@
         "text": "Florence, Milan, Naples"
       }
     },
+    "International organization participation": {
+      "text": "ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS (observer), CD, CDB, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINURSO, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Schengen Convention, SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, Union Latina, UNMOGIP, UNOOSA, UNRWA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Independence": {
+      "text": "17 March 1861 ",
+      "note": "<strong>note:</strong> the Kingdom of Italy proclaimed on 17 March 1861, but Italy was not fully unified until 1871"
+    },
+    "National holiday": {
+      "text": "Republic Day, 2 June (1946)"
+    },
     "Flag description": {
       "text": "three equal vertical bands of green (hoist side), white, and red; design inspired by the French flag that Napoleon brought to Italy in 1797; colors are those of Milan (red and white) combined with the green uniform color of the Milanese civic guard",
       "note": "<strong>note:</strong> similar to the flags of Mexico (longer, darker shades of green and red, and has its coat of arms centered on the white band), Ireland (longer and with orange instead of red), and Cote d'Ivoire (colors reversed)"
     },
     "National symbol(s)": {
-      "text": "white, five-pointed star (Stella d'Italia); national colors: red, white, green"
+      "text": "five-pointed white star (Stella d'Italia)"
+    },
+    "National colors": {
+      "text": "red, white, green"
     },
     "National anthem": {
       "name": {

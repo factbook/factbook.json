@@ -293,8 +293,13 @@
         "text": "total: 0.8% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "11.2% of GDP (2022)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "11.2% of GDP (2022)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "19.5% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "2.82 physicians/1,000 population (2023)"
@@ -356,8 +361,13 @@
     "Currently married women (ages 15-49)": {
       "text": "52.2% (2023 est.)"
     },
-    "Education expenditures": {
-      "text": "5.2% of GDP (2020 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "4.5% of GDP (2023 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "11.2% national budget (2023 est.)"
+      }
     },
     "Literacy": {
       "total population": {
@@ -522,12 +532,6 @@
     "Administrative divisions": {
       "text": "10 provinces and 3 territories*; Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Northwest Territories*, Nova Scotia, Nunavut*, Ontario, Prince Edward Island, Qu&eacute;bec, Saskatchewan, Yukon*"
     },
-    "Independence": {
-      "text": "1 July 1867 (union of British North American colonies); 11 December 1931 (recognized by UK per Statute of Westminster)"
-    },
-    "National holiday": {
-      "text": "Canada Day, 1 July (1867)"
-    },
     "Legal system": {
       "text": "common law system except in Quebec, where civil law based on the French civil code prevails"
     },
@@ -637,9 +641,6 @@
     "Political parties": {
       "text": "Bloc Quebecois<br>Conservative Party of Canada or CPC<br>Green Party<br>Liberal Party<br>New Democratic Party or NDP<br>People's Party of Canada"
     },
-    "International organization participation": {
-      "text": "ADB (nonregional member), AfDB (nonregional member), APEC, Arctic Council, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CDB, CE (observer), EAPC, EBRD, EITI (implementing country), FAO, FATF, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSTAH, MONUSCO, NAFTA, NATO, NEA, NSG, OAS, OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNMISS, UNOOSA, UNRWA, UNTSO, UPU, USMCA, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Kirsten HILLMAN (since 17 July 2020)"
@@ -689,11 +690,23 @@
         "text": "Winnipeg"
       }
     },
+    "International organization participation": {
+      "text": "ADB (nonregional member), AfDB (nonregional member), APEC, Arctic Council, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CDB, CE (observer), EAPC, EBRD, EITI (implementing country), FAO, FATF, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSTAH, MONUSCO, NAFTA, NATO, NEA, NSG, OAS, OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNMISS, UNOOSA, UNRWA, UNTSO, UPU, USMCA, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Independence": {
+      "text": "1 July 1867 (union of British North American colonies); 11 December 1931 (recognized by UK per Statute of Westminster)"
+    },
+    "National holiday": {
+      "text": "Canada Day, 1 July (1867)"
+    },
     "Flag description": {
       "text": "two vertical bands of red (hoist and fly side, half-width) with white square between them; an 11-pointed red maple leaf, a national symbol, is centered in the white square"
     },
     "National symbol(s)": {
-      "text": "maple leaf, beaver; national colors: red, white"
+      "text": "maple leaf, beaver"
+    },
+    "National colors": {
+      "text": "red, white"
     },
     "National anthem": {
       "name": {

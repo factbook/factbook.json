@@ -278,8 +278,13 @@
         "text": "total: 23.5% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "3.5% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "3.5% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "4.1% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "0.29 physicians/1,000 population (2022)"
@@ -355,21 +360,23 @@
         "text": "1.6% (2017)"
       }
     },
-    "Education expenditures": {
-      "text": "1.4% of GDP (2020 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "1.1% of GDP (2023 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "13.2% national budget (2025 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
-        "text": "61.7%"
+        "text": "68% (2017 est.)"
       },
       "male": {
-        "text": "65.3%"
+        "text": "72.9% (2017 est.)"
       },
       "female": {
-        "text": "58.3% (2016)"
+        "text": "63.9% (2017 est.)"
       }
     }
   },
@@ -414,11 +421,6 @@
       },
       "rate of urbanization": {
         "text": "2.47% annual rate of change (2020-25 est.)"
-      }
-    },
-    "Food insecurity": {
-      "severe localized food insecurity": {
-        "text": "<em>due to high food prices, natural disasters, and worsening civil insecurity - </em>about 4.9 million people are estimated to face severe acute food insecurity and were in need of urgent food assistance between March and June 2023; the high levels of food insecurity are the result of sustained economic downturn, reducing domestic food production, elevated food prices, fuel shortage and frequent natural disasters; the situation is exacerbated by worsening insecurity, which has limited access to essential services, including markets, caused population displacements and hampered delivery of humanitarian assistance (2023)"
       }
     },
     "Air pollutants": {
@@ -492,12 +494,6 @@
     },
     "Administrative divisions": {
       "text": "10 departments (d&eacute;partements, singular - d&eacute;partement); Artibonite, Centre, Grand'Anse, Nippes, Nord, Nord-Est, Nord-Ouest, Ouest, Sud, Sud-Est"
-    },
-    "Independence": {
-      "text": "1 January 1804 (from France)"
-    },
-    "National holiday": {
-      "text": "Independence Day, 1 January (1804)"
     },
     "Legal system": {
       "text": "civil law system strongly influenced by Napoleonic Code"
@@ -631,9 +627,6 @@
     "Political parties": {
       "text": "Alternative League for Haitian Progress and Emancipation (Ligue Alternative pour le Progres et l’Emancipation Haitienne) or LAPEH<br>Christian Movement for a New Haiti or MCNH or Mochrenha<br>Christian National Movement for the Reconstruction of Haiti or UNCRH<br>Combat of Peasant Workers to Liberate Haiti (Konbit Travaye Peyizan Pou Libere Ayiti) or Kontra Pep La <br>Convention for Democratic Unity or KID<br>Cooperative Action to Rebuild Haiti or KONBA<br>December 16 Platform or Platfom 16 Desanm<br>Democratic Alliance Party or ALYANS (coalition includes KID and PPRH)<br>Democratic Centers' National Council or CONACED<br>Democratic and Popular Sector (Secteur Democratique et Populaire) or SDP<br>Democratic Unity Convention (Konvansyon Inite Demokratik) or KID<br>Dessalinian Patriotic and Popular Movement or MOPOD<br>Effort and Solidarity to Create an Alternative for the People or ESKAMP<br>Fanmi Lavalas or FL<br>Forward (En Avant)<br>Fusion of Haitian Social Democrats (Fusion Des Sociaux-Démocrates Haïtiens) or FHSD<br>G18 Policy Platform (Plateforme Politique G18)<br>Haiti in Action (Ayiti An Aksyon Haiti's Action) or AAA<br>Haitian Tet Kale Party (Parti Haitien Tet Kale) or PHTK<br>Independent Movement for National Reconciliation or MIRN<br>Lavni Organization or LAVNI<br>Lod Demokratik<br>Love Haiti (Renmen Ayiti) or RA<br>MTV Ayiti<br>National Consortium of Haitian Political Parties (Consortium National des Partis Politiques Haitiens) or CNPPH <br>National Shield Network (Reseau Bouclier National)<br>Organization of the People's Struggle (Oganizasyon Pep Kap Lite) or OPL<br>Patriotic Unity (Inite Patriyotik) or Inite<br>Platform Pitit Desalin (Politik Pitit Dessalines) or PPD<br>Political Party for Us All or Bridge (Pont) or Pou Nou Tout<br>Popular Patriotic Dessalinien Movement (Mouvement Patriotique Populaire Dessalinien) or MOPOD<br>Rally of Progressive National Democrats (Rassemblement des Democrates Nationaux Progressistes) or RDNP<br>Respe (Respect)<br>Women and Families Political Parties (Defile Pati Politik Fanm Ak Fanmi)"
     },
-    "International organization participation": {
-      "text": "ACP, ACS, AOSIS, Caricom, CD, CDB, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), LAES, MIGA, NAM, OAS, OIF, OPANAL, OPCW, PCA, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador (vacant); Charg&eacute; d'Affaires Louis Harold JOSEPH (since 15 May 2023)"
@@ -674,11 +667,23 @@
         "text": "<br>acspap@state.gov<br><br>https://ht.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ACP, ACS, AOSIS, Caricom, CD, CDB, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), LAES, MIGA, NAM, OAS, OIF, OPANAL, OPCW, PCA, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "1 January 1804 (from France)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 1 January (1804)"
+    },
     "Flag description": {
       "text": "two equal horizontal bands of blue (top) and red with a centered white rectangle bearing the coat of arms, which has a palm tree flanked by flags and two cannons above a scroll with the motto L'UNION FAIT LA FORCE (Union Makes Strength); the colors are taken from the French flag and represent the union of ethnic groups"
     },
     "National symbol(s)": {
-      "text": "Hispaniolan trogon (bird), hibiscus flower; national colors: blue, red"
+      "text": "Hispaniolan trogon (bird), hibiscus flower"
+    },
+    "National colors": {
+      "text": "blue, red"
     },
     "National anthem": {
       "name": {

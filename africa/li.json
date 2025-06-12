@@ -272,8 +272,13 @@
         "text": "total: 16% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "16.6% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "16.6% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "4.8% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "0.18 physicians/1,000 population (2022)"
@@ -349,13 +354,15 @@
         "text": "8.4% (2020)"
       }
     },
-    "Education expenditures": {
-      "text": "2.7% of GDP (2021 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "2.3% of GDP (2023 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "7.4% national budget (2021 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
         "text": "48.3%"
       },
@@ -408,11 +415,6 @@
       },
       "rate of urbanization": {
         "text": "3.41% annual rate of change (2015-20 est.)"
-      }
-    },
-    "Food insecurity": {
-      "severe localized food insecurity": {
-        "text": "<em><em>due to </em></em><em>high food prices and macroeconomic challenges </em><em>- </em>levels of acute food insecurity are expected to increase in 2023 associated with high food prices due to high international commodity prices and elevated transportation costs, exacerbated by the unfolding effects of the war in Ukraine on international trade and commodity prices; food availability and access are likely to remain limited by high food prices and below‑average imports; an expected further slowdown in economic domestic growth in 2023 is likely to compound food insecurity conditions for the most vulnerable households; in the June to August 2023 lean season period, over 531,000 people are projected to face acute food insecurity (2023)"
       }
     },
     "Air pollutants": {
@@ -477,12 +479,6 @@
     },
     "Administrative divisions": {
       "text": "15 counties; Bomi, Bong, Gbarpolu, Grand Bassa, Grand Cape Mount, Grand Gedeh, Grand Kru, Lofa, Margibi, Maryland, Montserrado, Nimba, River Cess, River Gee, Sinoe"
-    },
-    "Independence": {
-      "text": "26 July 1847"
-    },
-    "National holiday": {
-      "text": "Independence Day, 26 July (1847)"
     },
     "Legal system": {
       "text": "mixed system of common law, based on Anglo-American law and customary law"
@@ -614,9 +610,6 @@
     "Political parties": {
       "text": "All Liberian Party or ALP <br>Alliance for Peace and Democracy or APD <br>Alternative National Congress or ANC <br>Coalition for Democratic Change (includes CDC, NPP, and LPDP)<br>Collaborating Political Parties or CPP (coalition includes ANC, LP; CPP dissolved in April 2024)<br>Congress for Democratic Change or CDC <br>Liberia Destiny Party or LDP <br>Liberia National Union or LINU <br>Liberia Transformation Party or LTP <br>Liberian People Democratic Party or LPDP <br>Liberian People's Party or LPP <br>Liberian Restoration Party or LRP <br>Liberty Party or LP <br>Movement for Democracy and Reconstruction or MDR <br>Movement for Economic Empowerment <br>Movement for Progressive Change or MPC <br>National Democratic Coalition or NDC <br>National Democratic Party of Liberia or NDPL <br>National Patriotic Party or NPP <br>National Reformist Party or NRP <br>National Union for Democratic Progress or NUDP <br>People's Unification Party or PUP <br>Unity Party or UP <br>United People's Party <br>Victory for Change Party or VCP "
     },
-    "International organization participation": {
-      "text": "ACP, AfDB, AU, ECOWAS, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador (vacant); Charg&eacute; d'Affaires&nbsp;Isaac Chennoweth YEAH, Sr. (since 15 January 2025)"
@@ -657,11 +650,23 @@
         "text": "<br>ACSMonrovia@state.gov<br><br>https://lr.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, ECOWAS, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "26 July 1847"
+    },
+    "National holiday": {
+      "text": "Independence Day, 26 July (1847)"
+    },
     "Flag description": {
       "text": "11 equal horizontal stripes of red (top and bottom) alternating with white; a five-pointed white star sits on a blue square in the upper hoist-side corner; the stripes symbolize the signatories of the Liberian Declaration of Independence, the blue square represents the African mainland, and the star represents the freedom granted to the ex-slaves; the blue stands for liberty, justice, and fidelity, the white for purity, cleanliness, and guilelessness, and the red for steadfastness, valor, and fervor; the design is based on the US flag"
     },
     "National symbol(s)": {
-      "text": "white star; national colors: red, white, blue"
+      "text": "white star"
+    },
+    "National colors": {
+      "text": "red, white, blue"
     },
     "National anthem": {
       "name": {

@@ -283,8 +283,13 @@
         "text": "total: 0% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "10.2% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "10.2% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "14.8% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "3.61 physicians/1,000 population (2021)"
@@ -351,8 +356,13 @@
         "text": "0.1% (2017)"
       }
     },
-    "Education expenditures": {
-      "text": "5.9% of GDP (2020 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "6.5% of GDP (2021 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "10.2% national budget (2021 est.)"
+      }
     },
     "Literacy": {
       "total population": {
@@ -511,12 +521,6 @@
     "Administrative divisions": {
       "text": "19 regions (maakunnat, singular - maakunta (Finnish); landskapen, singular - landskapet (Swedish)); Aland (Swedish), Ahvenanmaa (Finnish); Etela-Karjala (Finnish), Sodra Karelen (Swedish) [South Karelia]; Etela-Pohjanmaa (Finnish), Sodra Osterbotten (Swedish) [South Ostrobothnia]; Etela-Savo (Finnish), Sodra Savolax (Swedish) [South Savo]; Kanta-Hame (Finnish), Egentliga Tavastland (Swedish); Kainuu (Finnish), Kajanaland (Swedish); Keski-Pohjanmaa (Finnish), Mellersta Osterbotten (Swedish) [Central Ostrobothnia]; Keski-Suomi (Finnish), Mellersta Finland (Swedish) [Central Finland]; Kymenlaakso (Finnish), Kymmenedalen (Swedish); Lappi (Finnish), Lappland (Swedish); Paijat-Hame (Finnish), Paijanne-Tavastland (Swedish); Pirkanmaa (Finnish), Birkaland (Swedish) [Tampere]; Pohjanmaa (Finnish), Osterbotten (Swedish) [Ostrobothnia]; Pohjois-Karjala (Finnish), Norra Karelen (Swedish) [North Karelia]; Pohjois-Pohjanmaa (Finnish), Norra Osterbotten (Swedish) [North Ostrobothnia]; Pohjois-Savo (Finnish), Norra Savolax (Swedish) [North Savo]; Satakunta (Finnish and Swedish); Uusimaa (Finnish), Nyland (Swedish) [Newland]; Varsinais-Suomi (Finnish), Egentliga Finland (Swedish) [Southwest Finland]"
     },
-    "Independence": {
-      "text": "6 December 1917 (from Russia)"
-    },
-    "National holiday": {
-      "text": "Independence Day, 6 December (1917)"
-    },
     "Legal system": {
       "text": "civil law system based on the Swedish model"
     },
@@ -612,9 +616,6 @@
     "Political parties": {
       "text": "Aland Coalition (a coalition of several political parties on the Aland Islands)<br>Center Party or Kesk <br>Christian Democrats or KD <br>Finns Party or PS <br>Green League or Vihr <br>Left Alliance or Vas <br>Movement Now or Liike Nyt <br>National Coalition Party or Kok <br>Social Democratic Party or SDP <br>Swedish People's Party or RKP or SFP "
     },
-    "International organization participation": {
-      "text": "ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, UNMIL, UNMOGIP, UNOOSA, UNRWA, UNSOM, UNTSO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Leena-Kaisa MIKKOLA (since 18 September 2024)"
@@ -655,11 +656,23 @@
         "text": "<br>HelsinkiACS@state.gov<br><br>https://fi.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, UNMIL, UNMOGIP, UNOOSA, UNRWA, UNSOM, UNTSO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Independence": {
+      "text": "6 December 1917 (from Russia)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 6 December (1917)"
+    },
     "Flag description": {
       "text": "white with a blue cross extending to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the blue stands for the country's thousands of lakes, and the white for snow"
     },
     "National symbol(s)": {
-      "text": "lion; national colors: blue, white"
+      "text": "lion"
+    },
+    "National colors": {
+      "text": "blue, white"
     },
     "National anthem": {
       "name": {

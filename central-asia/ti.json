@@ -272,8 +272,13 @@
         "text": "total: 15.6% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "8% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "8% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "6.4% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "1.87 physicians/1,000 population (2023)"
@@ -335,13 +340,15 @@
         "text": "8.7% (2017)"
       }
     },
-    "Education expenditures": {
-      "text": "5.9% of GDP (2020 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "5.4% of GDP (2023 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "19.7% national budget (2023 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
         "text": "99.8%"
       },
@@ -349,7 +356,7 @@
         "text": "99.8%"
       },
       "female": {
-        "text": "99.7% (2015)"
+        "text": "94.6% (2017 est.)"
       }
     },
     "School life expectancy (primary to tertiary education)": {
@@ -486,12 +493,6 @@
       "text": "2 provinces (viloyatho, singular - viloyat), 1 autonomous province* (viloyati mukhtor), 1 capital region** (viloyati poytakht), and 1 area referred to as Districts Under Republic Administration***; Dushanbe**, Khatlon (Bokhtar), Kuhistoni Badakhshon [Gorno-Badakhshan]* (Khorugh), Nohiyahoi Tobei Jumhuri***, Sughd (Khujand)",
       "note": "<strong>note:</strong> the administrative center name follows in parentheses"
     },
-    "Independence": {
-      "text": "9 September 1991 (from the Soviet Union)"
-    },
-    "National holiday": {
-      "text": "Independence Day (or National Day), 9 September (1991)"
-    },
     "Legal system": {
       "text": "civil law system"
     },
@@ -614,9 +615,6 @@
     "Political parties": {
       "text": "Agrarian Party of Tajikistan or APT<br>Communist Party of Tajikistan or CPT<br>Democratic Party of Tajikistan or DPT<br>Party of Economic Reform of Tajikistan or PERT<br>People's Democratic Party of Tajikistan or PDPT<br>Social Democratic Party of Tajikistan or SDPT<br>Socialist Party of Tajikistan or SPT"
     },
-    "International organization participation": {
-      "text": "ADB, CICA, CIS, CSTO, EAEC, EAPC, EBRD, ECO, EITI (candidate country), FAO, G-77, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM (observer), OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Farrukh HAMRALIZODA (since 17 February 2021)"
@@ -654,11 +652,23 @@
         "text": "<br>DushanbeConsular@state.gov<br><br>https://tj.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ADB, CICA, CIS, CSTO, EAEC, EAPC, EBRD, ECO, EITI (candidate country), FAO, G-77, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM (observer), OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "9 September 1991 (from the Soviet Union)"
+    },
+    "National holiday": {
+      "text": "Independence Day (or National Day), 9 September (1991)"
+    },
     "Flag description": {
       "text": "three horizontal stripes of red (top), a wider stripe of white, and green; a gold crown under seven gold five-pointed stars is in the center of the white stripe; red stands for the sun, victory, and the unity of the nation, white for purity, cotton, and mountain snows, and green for Islam and nature's bounty; the crown symbolizes the Tajik people; the stars represent the number seven, which is considered a symbol of perfection and the embodiment of happiness"
     },
     "National symbol(s)": {
-      "text": "crown surmounted by an arc of seven, five-pointed stars; Marco Polo sheep; national colors: red, white, green"
+      "text": "arc of seven five-pointed stars over a crown, Marco Polo sheep"
+    },
+    "National colors": {
+      "text": "red, white, green"
     },
     "National anthem": {
       "name": {

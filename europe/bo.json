@@ -271,8 +271,13 @@
         "text": "total: 0.1% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "6.6% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "6.6% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "12.3% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "4.72 physicians/1,000 population (2023)"
@@ -345,21 +350,23 @@
         "text": "1.6% (2019)"
       }
     },
-    "Education expenditures": {
-      "text": "4.7% of GDP (2021 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "5% of GDP (2023 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "12.8% national budget (2023 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
-        "text": "99.9%"
+        "text": "100% (2019 est.)"
       },
       "male": {
-        "text": "99.9%"
+        "text": "100% (2019 est.)"
       },
       "female": {
-        "text": "99.9% (2019)"
+        "text": "100% (2019 est.)"
       }
     },
     "School life expectancy (primary to tertiary education)": {
@@ -502,12 +509,6 @@
       "text": "6 regions (voblastsi, singular - voblasts') and 1 municipality* (horad); Brest, Homyel' (Gomel'), Horad Minsk* (Minsk City), Hrodna (Grodno), Mahilyow (Mogilev), Minsk, Vitsyebsk (Vitebsk)",
       "note": "<strong>note:</strong> administrative divisions have the same names as their administrative centers; Russian spelling provided for reference when different from Belarusian"
     },
-    "Independence": {
-      "text": "25 August 1991 (from the Soviet Union)"
-    },
-    "National holiday": {
-      "text": "Independence Day, 3 July (1944); note - 3 July 1944 was the date Minsk was liberated from German troops, 25 August 1991 was the date of independence from the Soviet Union"
-    },
     "Legal system": {
       "text": "civil law system",
       "note": "<strong>note:</strong> nearly all major codes (civil, civil procedure, criminal, criminal procedure, family, and labor) were revised and came into force in 1999 and 2000"
@@ -632,9 +633,6 @@
     "Political parties": {
       "text": "Belaya Rus or BR<br>Republican Party of Labour and Justice or RPTS<br>Communist Party of Belarus or CBP<br>Liberal Democratic Party of Belarus or LDPB"
     },
-    "International organization participation": {
-      "text": "BSEC (observer), CBSS (observer), CEI, CIS, CSTO, EAEC, EAEU, EAPC, EBRD, FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFC, IFRCS, ILO, IMF, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NAM, NSG, OPCW, OSCE, PCA, PFP, SCO (dialogue member), UN, UNCTAD, UNESCO, UNIDO, UNIFIL, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer), ZC"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador (vacant; recalled by Belarus in 2008); Charg&eacute; d'Affaires Pavel SHIDLOWSKI (since 9 August 2022)"
@@ -672,11 +670,23 @@
         "text": "<br>ConsularMinsk@state.gov<br><br>https://by.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "BSEC (observer), CBSS (observer), CEI, CIS, CSTO, EAEC, EAEU, EAPC, EBRD, FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFC, IFRCS, ILO, IMF, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NAM, NSG, OPCW, OSCE, PCA, PFP, SCO (dialogue member), UN, UNCTAD, UNESCO, UNIDO, UNIFIL, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer), ZC"
+    },
+    "Independence": {
+      "text": "25 August 1991 (from the Soviet Union)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 3 July (1944); note - 3 July 1944 was the date Minsk was liberated from German troops, 25 August 1991 was the date of independence from the Soviet Union"
+    },
     "Flag description": {
       "text": "red horizontal band (top) and green horizontal band one-half the width of the red band; a white vertical stripe on the hoist side bears Belarusian national ornamentation in red; the red stands for past struggles from oppression, and the green represents hope and the many forests of the country"
     },
     "National symbol(s)": {
-      "text": "no clearly defined current national symbol, the mounted knight known as Pahonia (the Chaser) is the traditional Belarusian symbol; national colors: green, red, white"
+      "text": "no official symbol; the mounted knight known as Pahonia (the Chaser) is the traditional symbol"
+    },
+    "National colors": {
+      "text": "green, red, white"
     },
     "National anthem": {
       "name": {

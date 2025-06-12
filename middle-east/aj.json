@@ -275,8 +275,13 @@
         "text": "total: 2.9% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "4.7% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "4.7% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "4.6% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "3.19 physicians/1,000 population (2022)"
@@ -338,21 +343,23 @@
     "Currently married women (ages 15-49)": {
       "text": "62.9% (2023 est.)"
     },
-    "Education expenditures": {
-      "text": "4.3% of GDP (2020 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "3.6% of GDP (2023 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "10.4% national budget (2022 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
-        "text": "99.8%"
+        "text": "100% (2023 est.)"
       },
       "male": {
-        "text": "99.9%"
+        "text": "100% (2023 est.)"
       },
       "female": {
-        "text": "99.7% (2019)"
+        "text": "100% (2023 est.)"
       }
     },
     "School life expectancy (primary to tertiary education)": {
@@ -492,12 +499,6 @@
     "Administrative divisions": {
       "text": "<p>66 districts (rayonlar; rayon - singular), 11 cities (saharlar; sahar - singular);</p> <p><strong>rayons:</strong> Abseron, Agcabadi, Agdam, Agdas, Agstafa, Agsu, Astara, Babak, Balakan, Barda, Beylaqan, Bilasuvar, Cabrayil, Calilabad, Culfa, Daskasan, Fuzuli, Gadabay, Goranboy, Goycay, Goygol, Haciqabul, Imisli, Ismayilli, Kalbacar, Kangarli, Kurdamir, Lacin, Lankaran, Lerik, Masalli, Neftcala, Oguz, Ordubad, Qabala, Qax, Qazax, Qobustan, Quba, Qubadli, Qusar, Saatli, Sabirabad, Sabran, Sadarak, Sahbuz, Saki, Salyan, Samaxi, Samkir, Samux, Sarur, Siyazan, Susa, Tartar, Tovuz, Ucar, Xacmaz, Xizi, Xocali, Xocavand, Yardimli, Yevlax, Zangilan, Zaqatala, Zardab</p> <p><strong>cities:</strong> Baku, Ganca, Lankaran, Mingacevir, Naftalan, Naxcivan (Nakhichevan), Saki, Sirvan, Sumqayit, Xankandi, Yevlax</p>"
     },
-    "Independence": {
-      "text": "30 August 1991 (declared from the Soviet Union); 18 October 1991 (adopted by the Supreme Council of Azerbaijan)"
-    },
-    "National holiday": {
-      "text": "Republic Day (founding of the Democratic Republic of Azerbaijan), 28 May (1918)"
-    },
     "Legal system": {
       "text": "civil law system"
     },
@@ -592,9 +593,6 @@
     "Political parties": {
       "text": "Civic Solidarity Party or VHP<br>Democratic Reforms Party DiP<br>Great Order Party or BQP<br>Motherland Party or AVP<br>Party for Democratic Reforms or DIP<br>Republican Alternative Party or REAL<br>Unity Party or VƏHDƏT<br>Whole Azerbaijan Popular Front Party or BAXCP<br>New Azerbaijan Party (Yeni Azərbaycan Partiyasi) or YAP"
     },
-    "International organization participation": {
-      "text": "ADB, BSEC, CD, CE, CICA, CIS, EAPC, EBRD, ECO, FAO, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIC, OPCW, OSCE, PFP, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Khazar IBRAHIM (since 15 September 2021)"
@@ -635,11 +633,23 @@
         "text": "<br>BakuACS@state.gov<br><br>https://az.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ADB, BSEC, CD, CE, CICA, CIS, EAPC, EBRD, ECO, FAO, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIC, OPCW, OSCE, PFP, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)"
+    },
+    "Independence": {
+      "text": "30 August 1991 (declared from the Soviet Union); 18 October 1991 (adopted by the Supreme Council of Azerbaijan)"
+    },
+    "National holiday": {
+      "text": "Republic Day (founding of the Democratic Republic of Azerbaijan), 28 May (1918)"
+    },
     "Flag description": {
       "text": "three equal horizontal bands of sky blue (top), red, and green; a vertical crescent moon and an eight-pointed star in white are centered in the red band; the blue band stands for Azerbaijan's Turkic heritage, red for modernization and progress, and green for Islam; the crescent moon and star are a Turkic insignia; the eight star points represent the eight Turkic peoples of the world"
     },
     "National symbol(s)": {
-      "text": "flames of fire; national colors: blue, red, green"
+      "text": "flames of fire"
+    },
+    "National colors": {
+      "text": "blue, red, green"
     },
     "National anthem": {
       "name": {

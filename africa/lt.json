@@ -267,8 +267,13 @@
         "text": "total: 17.4% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "10.2% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "10.2% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "13.1% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "0.24 physicians/1,000 population (2022)"
@@ -341,21 +346,23 @@
         "text": "1.9% (2018)"
       }
     },
-    "Education expenditures": {
-      "text": "8.7% of GDP (2021 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "6.6% of GDP (2024 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "10.4% national budget (2024 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
-        "text": "81%"
+        "text": "86.2% (2018 est.)"
       },
       "male": {
-        "text": "72.9%"
+        "text": "80.2% (2018 est.)"
       },
       "female": {
-        "text": "88.8% (2021)"
+        "text": "91.8% (2018 est.)"
       }
     },
     "School life expectancy (primary to tertiary education)": {
@@ -411,11 +418,6 @@
       },
       "rate of urbanization": {
         "text": "2.77% annual rate of change (2020-25 est.)"
-      }
-    },
-    "Food insecurity": {
-      "severe localized food insecurity": {
-        "text": "<em><em>due to h</em>igh food prices and economic downturn - </em>food insecurity conditions are primarily underpinned by the high food prices and a slow economic recovery that is impinging on households’ economic capacity to access food; Lesotho  is a net importer of key staple food commodities and energy, domestic prices have been largely influenced by the high level of international prices (2023)"
       }
     },
     "Air pollutants": {
@@ -495,12 +497,6 @@
     },
     "Administrative divisions": {
       "text": "10 districts; Berea, Butha-Buthe, Leribe, Mafeteng, Maseru, Mohale's Hoek, Mokhotlong, Qacha's Nek, Quthing, Thaba-Tseka"
-    },
-    "Independence": {
-      "text": "4 October 1966 (from the UK)"
-    },
-    "National holiday": {
-      "text": "Independence Day, 4 October (1966)"
     },
     "Legal system": {
       "text": "mixed system of English common law and Roman-Dutch law; High Court and Court of Appeal review legislative acts"
@@ -623,9 +619,6 @@
     "Political parties": {
       "text": "All Basotho Convention or ABC <br>Alliance of Democrats or AD <br>Basotho Action Party or BAP <br>Basotho National Party or BNP <br>Democratic Congress or DC <br>Democratic Party of Lesotho or DPL <br>Lesotho People's Congress or LPC <br>Movement of Economic Change or MEC <br>National Independent Party or NIP <br>Popular Front for Democracy of PFD<br>Reformed Congress of Lesotho or RCL "
     },
-    "International organization participation": {
-      "text": "ACP, AfDB, AU, C, CD, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MIGA, NAM, OPCW, SACU, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Tumisang MOSOTHO (since 16 September 2022)"
@@ -663,11 +656,23 @@
         "text": "<br>USConsularMaseru@state.gov<br><br>https://ls.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, C, CD, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MIGA, NAM, OPCW, SACU, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "4 October 1966 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 4 October (1966)"
+    },
     "Flag description": {
       "text": "three horizontal stripes of blue (top), white, and green, representing respectively rain, peace, and prosperity; centered in the white stripe is a black <em>mokorotlo</em>, a traditional Basotho straw hat and national symbol; the redesigned flag was introduced in 2006 to celebrate 40 years of independence"
     },
     "National symbol(s)": {
-      "text": "mokorotio (Basotho hat); national colors: blue, white, green, black"
+      "text": "mokorotio (Basotho hat)"
+    },
+    "National colors": {
+      "text": "blue, white, green, black"
     },
     "National anthem": {
       "name": {

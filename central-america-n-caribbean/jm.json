@@ -270,8 +270,13 @@
         "text": "total: 3.6% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "7.2% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "7.2% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "19% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "0.46 physicians/1,000 population (2023)"
@@ -336,13 +341,15 @@
     "Currently married women (ages 15-49)": {
       "text": "32.7% (2023 est.)"
     },
-    "Education expenditures": {
-      "text": "6% of GDP (2021 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "5.7% of GDP (2023 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "14.5% national budget (2023 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over has ever attended school"
-      },
       "total population": {
         "text": "88.7%"
       },
@@ -350,7 +357,7 @@
         "text": "84%"
       },
       "female": {
-        "text": "93.1% (2015)"
+        "text": "90.8% (2022 est.)"
       }
     },
     "School life expectancy (primary to tertiary education)": {
@@ -472,12 +479,6 @@
       "text": "14 parishes; Clarendon, Hanover, Kingston, Manchester, Portland, Saint Andrew, Saint Ann, Saint Catherine, Saint Elizabeth, Saint James, Saint Mary, Saint Thomas, Trelawny, Westmoreland",
       "note": "<strong>note:</strong> for local government purposes, Kingston and Saint Andrew were amalgamated in 1923 into the present single corporate body known as the Kingston and Saint Andrew Corporation"
     },
-    "Independence": {
-      "text": "6 August 1962 (from the UK)"
-    },
-    "National holiday": {
-      "text": "Independence Day, 6 August (1962)"
-    },
     "Legal system": {
       "text": "common law system based on the English model"
     },
@@ -598,9 +599,6 @@
     "Political parties": {
       "text": "<p>Jamaica Labor Party or JLP<br>Jamaica Progressive Party or JPP<br>People's National Party or PNP<br>United Independents' Congress or UIC</p>"
     },
-    "International organization participation": {
-      "text": "ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, FAO, G-15, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, ISO, ITSO, ITU, LAES, MIGA, NAM, OAS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UNITAR, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Audrey Patrice MARKS (since 18 January 2017)"
@@ -641,11 +639,23 @@
         "text": "<br>KingstonACS@state.gov<br><br>https://jm.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, FAO, G-15, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, ISO, ITSO, ITU, LAES, MIGA, NAM, OAS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UNITAR, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "6 August 1962 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 6 August (1962)"
+    },
     "Flag description": {
       "text": "diagonal yellow cross divides the flag into four triangles, two green (top and bottom) and two black (hoist side and fly side); green stands for hope, vegetation, and agriculture, black for hardships overcome and to be faced, and yellow for sunshine and natural resources"
     },
     "National symbol(s)": {
-      "text": "green-and-black streamertail (bird), Guiacum officinale (Lignum Vitae); national colors: green, yellow, black"
+      "text": "green-and-black streamertail (bird), guaiacwood (<em>Guiacum officinale</em>)"
+    },
+    "National colors": {
+      "text": "green, yellow, black"
     },
     "National anthem": {
       "name": {

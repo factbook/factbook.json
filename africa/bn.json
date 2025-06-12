@@ -272,8 +272,13 @@
         "text": "total: 25.3% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "2.6% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "2.6% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "2.6% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "0.22 physicians/1,000 population (2023)"
@@ -349,21 +354,23 @@
         "text": "4.6% (2022)"
       }
     },
-    "Education expenditures": {
-      "text": "3% of GDP (2020 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "3.7% of GDP (2023 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "18% national budget (2025 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
-        "text": "45.8%"
+        "text": "51.4% (2022 est.)"
       },
       "male": {
-        "text": "56.9%"
+        "text": "62.6% (2022 est.)"
       },
       "female": {
-        "text": "35% (2021)"
+        "text": "41.5% (2022 est.)"
       }
     },
     "School life expectancy (primary to tertiary education)": {
@@ -502,12 +509,6 @@
     "Administrative divisions": {
       "text": "12 departments; Alibori, Atacora, Atlantique, Borgou, Collines, Couffo, Donga, Littoral, Mono, Oueme, Plateau, Zou"
     },
-    "Independence": {
-      "text": "1 August 1960 (from France)"
-    },
-    "National holiday": {
-      "text": "Independence Day, 1 August (1960)"
-    },
     "Legal system": {
       "text": "civil law system modeled largely on the French system and some customary law"
     },
@@ -606,9 +607,6 @@
       "text": "African Movement for Development and Progress or MADEP <br>Benin Renaissance or RB <br>Cowrie Force for an Emerging Benin or FCBE <br>Democratic Renewal Party or PRD <br>Progressive Union for Renewal <br>Republican Bloc <br>Sun Alliance or AS <br>The Democrats <br>Union Makes the Nation or UN (includes PRD, MADEP)",
       "note": "<strong>note:</strong> approximately 20 additional minor parties"
     },
-    "International organization participation": {
-      "text": "ACP, AfDB, AU, CD, ECOWAS, Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MNJTF, MONUSCO, NAM, OAS (observer), OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Jean-Claude Felix DO REGO (since 17 July 2020)"
@@ -646,12 +644,24 @@
         "text": "<br>ACSCotonou@state.gov<br><br>https://bj.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, CD, ECOWAS, Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MNJTF, MONUSCO, NAM, OAS (observer), OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "1 August 1960 (from France)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 1 August (1960)"
+    },
     "Flag description": {
       "text": "two equal horizontal bands of yellow (top) and red (bottom) with a vertical green band on the hoist side; green stands for hope and revival, yellow for wealth, and red for courage",
       "note": "<strong>note:</strong> uses the popular pan-African colors of Ethiopia"
     },
     "National symbol(s)": {
-      "text": "leopard; national colors: green, yellow, red"
+      "text": "leopard"
+    },
+    "National colors": {
+      "text": "green, yellow, red"
     },
     "National anthem": {
       "name": {

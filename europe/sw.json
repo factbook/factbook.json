@@ -282,8 +282,13 @@
         "text": "total: 0.2% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "10.7% of GDP (2022)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "10.7% of GDP (2022)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "19% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "4.41 physicians/1,000 population (2021)"
@@ -345,8 +350,13 @@
     "Currently married women (ages 15-49)": {
       "text": "53.4% (2023 est.)"
     },
-    "Education expenditures": {
-      "text": "7.2% of GDP (2020 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "7.1% of GDP (2022 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "14.6% national budget (2022 est.)"
+      }
     },
     "Literacy": {
       "total population": {
@@ -505,12 +515,6 @@
     "Administrative divisions": {
       "text": "21 counties (lan, singular and plural); Blekinge, Dalarna, Gavleborg, Gotland, Halland, Jamtland, Jonkoping, Kalmar, Kronoberg, Norrbotten, Orebro, Ostergotland, Skane, Sodermanland, Stockholm, Uppsala, Varmland, Vasterbotten, Vasternorrland, Vastmanland, Vastra Gotaland"
     },
-    "Independence": {
-      "text": "6 June 1523 (Gustav VASA elected king of Sweden, marking the abolishment of the Kalmar Union between Denmark, Norway, and Sweden)"
-    },
-    "National holiday": {
-      "text": "National Day, 6 June (1983); note - from 1916 to 1982 this date was celebrated as Swedish Flag Day"
-    },
     "Legal system": {
       "text": "civil law system influenced by Roman-Germanic law and customary law"
     },
@@ -602,9 +606,6 @@
     "Political parties": {
       "text": "Center Party (Centerpartiet) or C <br>Christian Democrats (Kristdemokraterna) or KD <br>Green Party (Miljopartiet de Grona) or MP <br>Left Party (Vansterpartiet) or V <br>Moderate Party (Moderaterna) or M <br>Sweden Democrats (Sverigedemokraterna) or SD <br>Swedish Social Democratic Party (Socialdemokraterna) or S/SAP <br>The Liberals (Liberalerna) or L "
     },
-    "International organization participation": {
-      "text": "ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNMOGIP, UNOOSA, UNRWA, UN Security Council (temporary), UNSOM, UNTSO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Urban AHLIN (since 15 September 2023)"
@@ -645,11 +646,23 @@
         "text": "<br>STKACSinfo@state.gov<br><br>https://se.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNMOGIP, UNOOSA, UNRWA, UN Security Council (temporary), UNSOM, UNTSO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Independence": {
+      "text": "6 June 1523 (Gustav VASA elected king of Sweden, marking the abolishment of the Kalmar Union of Denmark, Norway, and Sweden)"
+    },
+    "National holiday": {
+      "text": "National Day, 6 June (1983); note - from 1916 to 1982 this date was celebrated as Swedish Flag Day"
+    },
     "Flag description": {
       "text": "blue with a golden yellow cross extending to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the colors come from the Swedish coat of arms"
     },
     "National symbol(s)": {
-      "text": "three crowns, lion; national colors: blue, yellow"
+      "text": "three crowns, lion"
+    },
+    "National colors": {
+      "text": "blue, yellow"
     },
     "National anthem": {
       "name": {
@@ -671,7 +684,7 @@
   },
   "Economy": {
     "Economic overview": {
-      "text": "high-income, largest Nordic economy; EU member but non-euro user; export-oriented led by automotive, electronics, machinery and pharmaceuticals; highly ranked for competitiveness, R&amp;D investments and governance; slowdown triggered by high inflation, weak consumption and financial tightening"
+      "text": "<p>high-income, largest Nordic economy; EU member but does not use the euro; export-oriented, led by automotive, electronics, machinery, and pharmaceuticals; highly ranked for competitiveness, R&amp;D investments and governance; recovery, with falling inflation and real wage growth balanced by risks from trade uncertainty</p>"
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2023": {

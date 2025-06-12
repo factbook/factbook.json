@@ -270,8 +270,13 @@
         "text": "total: 43.9% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "3.5% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "3.5% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "5.7% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "0.17 physicians/1,000 population (2022)"
@@ -344,21 +349,23 @@
         "text": "11.2% (2021)"
       }
     },
-    "Education expenditures": {
-      "text": "3.1% of GDP (2020 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "3% of GDP (2023 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "18% national budget (2019 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
-        "text": "77.3%"
+        "text": "74.7% (2021 est.)"
       },
       "male": {
-        "text": "78.8%"
+        "text": "77.9% (2021 est.)"
       },
       "female": {
-        "text": "75.8% (2021)"
+        "text": "71.8% (2021 est.)"
       }
     },
     "School life expectancy (primary to tertiary education)": {
@@ -414,11 +421,6 @@
       },
       "rate of urbanization": {
         "text": "4.26% annual rate of change (2020-25 est.)"
-      }
-    },
-    "Food insecurity": {
-      "severe localized food insecurity": {
-        "text": "<em>due to the effects of extreme weather events and slow economic recovery - </em>in 2023, an estimated 2.2 million people are projected to face crisis levels of acute food insecurity in southern and southeastern areas, due to successive years of droughts; cyclone Freddy in February 2023 caused disruptions to livelihoods and resulted in crop damage, which further aggravated food insecurity (2023)"
       }
     },
     "Air pollutants": {
@@ -492,12 +494,6 @@
     },
     "Administrative divisions": {
       "text": "6 provinces (faritany); Antananarivo, Antsiranana, Fianarantsoa, Mahajanga, Toamasina, Toliara"
-    },
-    "Independence": {
-      "text": "26 June 1960 (from France)"
-    },
-    "National holiday": {
-      "text": "Independence Day, 26 June (1960)"
     },
     "Legal system": {
       "text": "civil law system based on the old French civil code and customary law in matters of marriage, family, and obligation"
@@ -618,9 +614,6 @@
     "Political parties": {
       "text": "<p>Group of Young Malagasy Patriots (Groupe des Jeunes Malgaches Patriotes) or GJMP<br>I Love Madagascar (Tiako I Madagasikara) or TIM<br>Isika Rehetra Miaraka amin'i Andry Rajoelina coalition or IRD<br>Malagasy Aware (Malagasy Tonga Saina) or MTS<br>Malagasy Tia Tanindrazana or MATITA or ANGADY<br>Movement for Democracy in Madagascar (Mouvement pour la Démocratie à Madagascar) or MDM<br>Rally for Democratic Socialism (Rassemblement pour Socialisme Démocratique - Nouveau) or RPSD Vaovao<br>Young Malagasies Determined (Tanora Malagasy Vonona) or TGV</p>"
     },
-    "International organization participation": {
-      "text": "ACP, AfDB, AU, CD, COMESA, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, InOC, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, PCA, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Lantosoa RAKOTOMALALA (since 13 January 2025)"
@@ -658,11 +651,23 @@
         "text": "<br>antanACS@state.gov<br><br>https://mg.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, CD, COMESA, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, InOC, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, PCA, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "26 June 1960 (from France)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 26 June (1960)"
+    },
     "Flag description": {
       "text": "two equal horizontal bands of red (top) and green, with a vertical white band of the same width on hoist side; red stands for sovereignty, green for hope, and white for purity"
     },
     "National symbol(s)": {
-      "text": "traveller's palm (ravenala), zebu; national colors: red, green, white"
+      "text": "traveller's palm (ravenala), zebu"
+    },
+    "National colors": {
+      "text": "red, green, white"
     },
     "National anthem": {
       "name": {

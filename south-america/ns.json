@@ -270,8 +270,13 @@
         "text": "total: 0.9% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "5.7% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "5.7% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "13.1% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "1.36 physicians/1,000 population (2023)"
@@ -336,13 +341,15 @@
         "text": "19.6% (2018)"
       }
     },
-    "Education expenditures": {
-      "text": "5% of GDP (2020 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "2.9% of GDP (2023 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "8.6% national budget (2024 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
         "text": "95%"
       },
@@ -472,12 +479,6 @@
     "Administrative divisions": {
       "text": "10 districts (distrikten, singular - distrikt); Brokopondo, Commewijne, Coronie, Marowijne, Nickerie, Para, Paramaribo, Saramacca, Sipaliwini, Wanica"
     },
-    "Independence": {
-      "text": "25 November 1975 (from the Netherlands)"
-    },
-    "National holiday": {
-      "text": "Independence Day, 25 November (1975)"
-    },
     "Legal system": {
       "text": "civil law system influenced by Dutch civil law"
     },
@@ -571,9 +572,6 @@
     "Political parties": {
       "text": "Brotherhood and Unity in Politics or BEP<br>Democratic Alternative '91 or DA91<br>General Liberation and Development Party or ABOP<br>National Democratic Party or NDP<br>National Party of Suriname or NPS<br>Party for Democracy and Development in Unity or DOE<br>Party for National Unity and Solidarity or KTPI<br>People's Alliance (Pertjajah Luhur) or PL<br>Progressive Workers' and Farmers' Union or PALU<br>Progressive Reform Party or VHP<br>Reform and Renewal Movement or HVB<br>Surinamese Labor Party or SPA"
     },
-    "International organization participation": {
-      "text": "ACP, ACS, AOSIS, Caricom, CD, CDB, CELAC, FAO, G-77, IADB, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), LAES, MIGA, NAM, OAS, OIC, OPANAL, OPCW, PCA, Petrocaribe, UN, UNASUR, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Jan Marten Willem SCHALKWIJK (since 19 April 2022)"
@@ -614,11 +612,23 @@
         "text": "<br>caparamar@state.gov<br><br>https://sr.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ACP, ACS, AOSIS, Caricom, CD, CDB, CELAC, FAO, G-77, IADB, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), LAES, MIGA, NAM, OAS, OIC, OPANAL, OPCW, PCA, Petrocaribe, UN, UNASUR, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "25 November 1975 (from the Netherlands)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 25 November (1975)"
+    },
     "Flag description": {
       "text": "five horizontal bands of green (top, double-width), white, red (quadruple-width), white, and green (double-width); a five-pointed yellow star is centered in the red band; red stands for progress and love, green for hope and fertility, and white for peace, justice, and freedom; the star represents the unity of ethnic groups"
     },
     "National symbol(s)": {
-      "text": "royal palm, faya lobi (flower); national colors: green, white, red, yellow"
+      "text": "royal palm, faya lobi (flower)"
+    },
+    "National colors": {
+      "text": "green, white, red, yellow"
     },
     "National anthem": {
       "name": {

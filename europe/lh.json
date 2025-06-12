@@ -272,8 +272,13 @@
         "text": "total: 2% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "7.5% of GDP (2022)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "7.5% of GDP (2022)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "13% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "6.1 physicians/1,000 population (2023)"
@@ -346,13 +351,15 @@
         "text": "0.2% (2022)"
       }
     },
-    "Education expenditures": {
-      "text": "4% of GDP (2019 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "4.3% of GDP (2021 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "12.7% national budget (2021 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
         "text": "99.8%"
       },
@@ -504,12 +511,6 @@
     "Administrative divisions": {
       "text": "60 municipalities (savivaldybe, singular - savivaldybe); Akmene, Alytaus Miestas, Alytus, Anksciai, Birstonas, Birzai, Druskininkai, Elektrenai, Ignalina, Jonava, Joniskis, Jurbarkas, Kaisiadorys, Kalvarija, Kauno Miestas, Kaunas, Kazlu Rudos, Kedainiai, Kelme, Klaipedos Miestas, Klaipeda, Kretinga, Kupiskis, Lazdijai, Marijampole, Mazeikiai, Moletai, Neringa, Pagegiai, Pakruojis, Palangos Miestas, Panevezio Miestas, Panevezys, Pasvalys, Plunge, Prienai, Radviliskis, Raseiniai, Rietavas, Rokiskis, Sakiai, Salcininkai, Siauliu Miestas, Siauliai, Silale, Silute, Sirvintos, Skuodas, Svencionys, Taurage, Telsiai, Trakai, Ukmerge, Utena, Varena, Vilkaviskis, Vilniaus Miestas, Vilnius, Visaginas, Zarasai"
     },
-    "Independence": {
-      "text": "16 February 1918 (from Soviet Russia and Germany); 11 March 1990 (declared from the Soviet Union); 6 September 1991 (recognized by the Soviet Union); notable earlier dates: 6 July 1253 (coronation of MINDAUGAS, traditional founding date); 1 July 1569 (Polish-Lithuanian Commonwealth created)"
-    },
-    "National holiday": {
-      "text": "Independence Day (or National Day), 16 February (1918); note - 16 February 1918 was the date Lithuania established its statehood and its concomitant independence from Soviet Russia and Germany; 11 March 1990 was the date it declared the restoration of Lithuanian statehood and its concomitant independence from the Soviet Union"
-    },
     "Legal system": {
       "text": "civil law system; legislative acts can be appealed to the Constitutional Court"
     },
@@ -604,9 +605,6 @@
     "Political parties": {
       "text": "Dawn of Nemunas or NA<br>Electoral Action of Poles in Lithuania or LLRA–KŠS<br>Freedom and Justice Party or LT (formerly Lithuanian Freedom Union (Liberals))<br>Freedom Party or LP<br>Homeland Union-Lithuanian Christian Democrats or TS-LKD<br>Labour Party or DP<br>Lithuanian Center Party or LCP<br>Lithuanian Christian Democracy Party or LKDP<br>Lithuanian Farmers and Greens Union or LVZS<br>Lithuanian Green Party or LZP<br>Liberals' Movement or LRLS<br>Lithuanian List or LL<br>Lithuanian Regions Party or LRP<br>Social Democratic Party of Lithuania or LSDP<br>Union of Democrats for Lithuania or DSVL"
     },
-    "International organization participation": {
-      "text": "Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NIB, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Audra PLEPYTĖ (since 7 July 2021)"
@@ -647,11 +645,23 @@
         "text": "<br>consec@state.gov<br><br>https://lt.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NIB, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "16 February 1918 (from Soviet Russia and Germany); 11 March 1990 (declared from the Soviet Union); 6 September 1991 (recognized by the Soviet Union); notable earlier dates: 6 July 1253 (coronation of MINDAUGAS, traditional founding date); 1 July 1569 (Polish-Lithuanian Commonwealth created)"
+    },
+    "National holiday": {
+      "text": "Independence Day (or National Day), 16 February (1918); note - 16 February 1918 was the date Lithuania established its statehood and its concomitant independence from Soviet Russia and Germany; 11 March 1990 was the date it declared the restoration of Lithuanian statehood and its concomitant independence from the Soviet Union"
+    },
     "Flag description": {
       "text": "three equal horizontal bands of yellow (top), green, and red; yellow stands for golden fields, the sun, light, and goodness; green represents the forests, nature, freedom, and hope; red stands for courage and the blood spilled in defense of the homeland"
     },
     "National symbol(s)": {
-      "text": "mounted knight known as Vytis (the Chaser), white stork; national colors: yellow, green, red"
+      "text": "mounted knight known as Vytis (the Chaser), white stork"
+    },
+    "National colors": {
+      "text": "yellow, green, red"
     },
     "National anthem": {
       "name": {

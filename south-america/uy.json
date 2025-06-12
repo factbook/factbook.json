@@ -286,8 +286,13 @@
         "text": "total: 0% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "9.4% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "9.4% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "20.9% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "4.67 physicians/1,000 population (2022)"
@@ -352,21 +357,23 @@
     "Currently married women (ages 15-49)": {
       "text": "55.4% (2023 est.)"
     },
-    "Education expenditures": {
-      "text": "4.6% of GDP (2020 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "3.6% of GDP (2023 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "15.4% national budget (2023 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
-        "text": "98.8%"
+        "text": "99% (2022 est.)"
       },
       "male": {
-        "text": "98.5%"
+        "text": "99% (2022 est.)"
       },
       "female": {
-        "text": "99% (2019)"
+        "text": "99% (2022 est.)"
       }
     },
     "School life expectancy (primary to tertiary education)": {
@@ -521,12 +528,6 @@
     "Administrative divisions": {
       "text": "19 departments (departamentos, singular - departamento); Artigas, Canelones, Cerro Largo, Colonia, Durazno, Flores, Florida, Lavalleja, Maldonado, Montevideo, Paysand&uacute;, Rio Negro, Rivera, Rocha, Salto, San Jos&eacute;, Soriano, Tacuaremb&oacute;, Treinta y Tres"
     },
-    "Independence": {
-      "text": "25 August 1825 (from Brazil)"
-    },
-    "National holiday": {
-      "text": "Independence Day, 25 August (1825)"
-    },
     "Legal system": {
       "text": "civil law system based on the Spanish civil code"
     },
@@ -656,9 +657,6 @@
     "Political parties": {
       "text": "Broad Front or FA (Frente Amplio) - (a broad governing coalition that comprises 34 factions including Popular Participation Movement or MPP, Uruguay Assembly, Progressive Alliance, Broad Social Democratic Space, Socialist Party, Vertiente Artiguista, Christian Democratic Party, Big House, Communist Party, The Federal League, Fuerza Renovadora)<br>Colorado Party or PC (including Batllistas and Ciudadanos)<br>Intransigent Radical Ecologist Party (Partido Ecologista Radical Intransigente) or PERI<br>Independent Party<br>National Party or PN (including Todos (Everyone) and National Alliance)<br>Open Cabildo<br>Popular Unity"
     },
-    "International organization participation": {
-      "text": "CAN (associate), CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, LAES, LAIA, Mercosur, MIGA, MINUSTAH, MONUSCO, NAM (observer), OAS, OIF (observer), OPANAL, OPCW, Pacific Alliance (observer), PCA, SICA (observer), UN, UNASUR, UNCTAD, UNESCO, UNIDO, Union Latina, UNISFA, UNMOGIP, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Andr&eacute;s Augusto DUR&Aacute;N Hareau (since 23 December 2020)"
@@ -699,12 +697,24 @@
         "text": "<br>MontevideoACS@state.gov<br><br>https://uy.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "CAN (associate), CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, LAES, LAIA, Mercosur, MIGA, MINUSTAH, MONUSCO, NAM (observer), OAS, OIF (observer), OPANAL, OPCW, Pacific Alliance (observer), PCA, SICA (observer), UN, UNASUR, UNCTAD, UNESCO, UNIDO, Union Latina, UNISFA, UNMOGIP, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "25 August 1825 (from Brazil)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 25 August (1825)"
+    },
     "Flag description": {
       "text": "nine equal horizontal stripes of white (top and bottom) alternating with blue; a white square in the upper hoist-side corner has a yellow sun with a human face (outlined in black) known as the Sun of May, with 16 rays that alternate between triangular and wavy; the stripes represent the country's nine original departments; the sun refers to the legend of the sun breaking through the clouds on 25 May 1810 as independence was declared from Spain (Uruguay subsequently won its independence from Brazil); the sun is said to be Inti, the Inca god of the sun",
       "note": "<strong>note:</strong> the banner was inspired by the national colors of Argentina and the design of the US flag"
     },
     "National symbol(s)": {
-      "text": "Sun of May (a sun-with-face symbol); national colors: blue, white, yellow"
+      "text": "Sun of May (a sun-with-face symbol)"
+    },
+    "National colors": {
+      "text": "blue, white, yellow"
     },
     "National anthem": {
       "name": {

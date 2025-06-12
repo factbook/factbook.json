@@ -280,8 +280,13 @@
         "text": "total: 5% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "6.9% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "6.9% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "16.9% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "1.28 physicians/1,000 population (2020)"
@@ -357,21 +362,23 @@
         "text": "9.6% (2015)"
       }
     },
-    "Education expenditures": {
-      "text": "3.1% of GDP (2021 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "3.2% of GDP (2023 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "18.9% national budget (2022 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
-        "text": "83.3%"
+        "text": "83% (2022 est.)"
       },
       "male": {
-        "text": "87.7%"
+        "text": "88.4% (2022 est.)"
       },
       "female": {
-        "text": "79.3% (2021)"
+        "text": "78.6% (2022 est.)"
       }
     },
     "School life expectancy (primary to tertiary education)": {
@@ -503,12 +510,6 @@
     "Administrative divisions": {
       "text": "22 departments (departamentos, singular - departamento); Alta Verapaz, Baja Verapaz, Chimaltenango, Chiquimula, El Progreso, Escuintla, Guatemala, Huehuetenango, Izabal, Jalapa, Jutiapa, Peten, Quetzaltenango, Quiche, Retalhuleu, Sacatepequez, San Marcos, Santa Rosa, Solola, Suchitepequez, Totonicapan, Zacapa"
     },
-    "Independence": {
-      "text": "15 September 1821 (from Spain)"
-    },
-    "National holiday": {
-      "text": "Independence Day, 15 September (1821)"
-    },
     "Legal system": {
       "text": "civil law system; judicial review of legislative acts"
     },
@@ -605,9 +606,6 @@
     "Political parties": {
       "text": "Bienestar Nacional or BIEN<br>Blue Party (Partido Azul) or Blue<br>CABAL<br>Cambio<br>Citizen Prosperity or PC<br>Commitment, Renewal, and Order or CREO<br>Elephant Community (Comunidad Elefante) or Elephant<br>Everyone Together for Guatemala or TODOS<br>Guatemalan National Revolutionary Unity or URNG-MAIZ or URNG<br>Humanist Party of Guatemala or PHG<br>Movement for the Liberation of Peoples or MLP<br>Movimiento Semilla or SEMILLA<br>National Advancement Party or PAN<br>National Convergence Front or FCN-NACION<br>National Unity for Hope or UNE<br>Nationalist Change Union or UCN (dissolved 16 December 2021)<br>Nosotros or PPN<br>PODEMOS<br>Political Movement Winaq or Winaq<br>TODOS<br>Value or VALOR<br>Vamos por una Guatemala Diferente or VAMOS<br>Victory or VICTORIA<br>Vision with Values or VIVA<br>Will, Opportunity and Solidarity (Voluntad, Oportunidad y Solidaridad) or VOS"
     },
-    "International organization participation": {
-      "text": "ACS, BCIE, CACM, CD, CELAC, EITI (compliant country), FAO, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, MINUSTAH, MONUSCO, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, Union Latina, UNISFA, UNITAR, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Hugo Eduardo&nbsp;BETETA (since 17 June 2024)"
@@ -651,12 +649,24 @@
         "text": "<br>AmCitsGuatemala@state.gov<br><br>https://gt.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ACS, BCIE, CACM, CD, CELAC, EITI (compliant country), FAO, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, MINUSTAH, MONUSCO, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, Union Latina, UNISFA, UNITAR, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "15 September 1821 (from Spain)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 15 September (1821)"
+    },
     "Flag description": {
       "text": "three equal vertical bands of light blue (hoist side), white, and light blue, with the coat of arms centered in the white band; the coat of arms includes a green-and-red quetzal (the national bird) and a scroll with the inscription LIBERTAD 15 DE SEPTIEMBRE DE 1821 (the original date of independence from Spain); a pair of crossed rifles on the coat of arms signify Guatemala's willingness to defend itself and a pair of crossed swords represent honor; framed by a laurel wreath symbolizing victory; the blue bands stand for the Pacific Ocean and Caribbean Sea, and the white for peace and purity",
       "note": "<strong>note:</strong> one of two national flags featuring a firearm; the other is Mozambique"
     },
     "National symbol(s)": {
-      "text": "quetzal (bird); national colors: blue, white"
+      "text": "quetzal (bird)"
+    },
+    "National colors": {
+      "text": "blue, white"
     },
     "National anthem": {
       "name": {

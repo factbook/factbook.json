@@ -269,8 +269,13 @@
         "text": "total: 0.1% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "9.6% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "9.6% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "14.8% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "2.58 physicians/1,000 population (2019)"
@@ -332,13 +337,15 @@
     "Currently married women (ages 15-49)": {
       "text": "63.8% (2023 est.)"
     },
-    "Education expenditures": {
-      "text": "NA"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "3% of GDP (2022 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "10.4% national budget (2021 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
         "text": "98.1%"
       },
@@ -488,23 +495,17 @@
     "Administrative divisions": {
       "text": "3 first-order administrative divisions - Brcko District (Brcko Distrikt) (ethnically mixed), Federation of Bosnia and Herzegovina (Federacija Bosne i Hercegovine) (predominantly Bosniak-Croat), Republika Srpska (predominantly Serb)"
     },
-    "Independence": {
-      "text": "1 March 1992 (from Yugoslavia); note - referendum for independence completed on 1 March 1992; independence declared on 3 March 1992"
-    },
-    "National holiday": {
-      "text": "Independence Day, 1 March (1992) and Statehood Day, 25 November (1943) - both observed in the Federation of Bosnia and Herzegovina entity; Victory Day, 9 May (1945) and Dayton Agreement Day, 21 November (1995) - both observed in the Republika Srpska entity",
-      "note": "<strong>note:</strong> there is no national-level holiday"
-    },
     "Legal system": {
       "text": "civil law system; Constitutional Court review of legislative acts"
     },
     "Constitution": {
       "history": {
-        "text": "14 December 1995 (constitution included as part of the Dayton Peace Accords); note - each of the political entities has its own constitution"
+        "text": "14 December 1995 (constitution included as part of the Dayton Peace Accords)"
       },
       "amendment process": {
         "text": "decided by the Parliamentary Assembly, including a two-thirds majority vote of members present in the House of Representatives; the constitutional article on human rights and fundamental freedoms cannot be amended"
-      }
+      },
+      "note": "<strong>note:</strong> each of the political entities has its own constitution"
     },
     "International law organization participation": {
       "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
@@ -618,10 +619,6 @@
     "Political parties": {
       "text": "Alliance of Independent Social Democrats or SNSD <br>Bosnian-Herzegovinian Initiative or BHI KF <br>Civic Alliance or GS <br>Croatian Democratic Union of Bosnia and Herzegovina or HDZ-BiH <br>Democratic Front or DF <br>Democratic Union or DEMOS<br>For Justice and Order<br>Our Party or NS/HC <br>Party for Democratic Action or SDA <br>Party of Democratic Progress or PDP <br>People and Justice Party or NiP <br>People's European Union of Bosnia and Herzegovina or NES <br>Serb Democratic Party or SDS <br>Social Democratic Party or SDP<br>United Srpska or US"
     },
-    "International organization participation": {
-      "text": "BIS, CD, CE, CEI, EAPC, EBRD, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM (observer), OAS (observer), OIC (observer), OIF (observer), OPCW, OSCE, PFP, SELEC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)",
-      "note": "<strong>note</strong>: Bosnia-Herzegovina is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Sven ALKALAJ (since 30 June 2023)"
@@ -665,12 +662,27 @@
         "text": "Banja Luka, Mostar"
       }
     },
+    "International organization participation": {
+      "text": "BIS, CD, CE, CEI, EAPC, EBRD, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM (observer), OAS (observer), OIC (observer), OIF (observer), OPCW, OSCE, PFP, SELEC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)",
+      "note": "<strong>note</strong>: Bosnia-Herzegovina is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership"
+    },
+    "Independence": {
+      "text": "1 March 1992 (from Yugoslavia)",
+      "note": "<strong>note:</strong> referendum for independence completed on 1 March 1992; independence declared on 3 March 1992"
+    },
+    "National holiday": {
+      "text": "Independence Day, 1 March (1992) and Statehood Day, 25 November (1943) - both observed in the Federation of Bosnia and Herzegovina entity; Victory Day, 9 May (1945) and Dayton Agreement Day, 21 November (1995) - both observed in the Republika Srpska entity",
+      "note": "<strong>note:</strong> there is no national-level holiday"
+    },
     "Flag description": {
       "text": "a wide blue vertical band on the fly side, with a yellow isosceles triangle; the rest of the flag is blue with seven five-pointed white stars and two half-stars along the hypotenuse of the triangle; the triangle approximates the shape of the country, and its three points stand for the Bosniaks, Croats, and Serbs; the stars represent Europe; the colors (white, blue, and yellow) are traditional to Bosnia and are also associated with neutrality and peace",
       "note": "<strong>note:</strong> one of four national flags that reflect the shape of the country in the flag design; the others are Brazil, Eritrea, and Vanuatu"
     },
     "National symbol(s)": {
-      "text": "golden lily; national colors: blue, yellow, white"
+      "text": "golden lily"
+    },
+    "National colors": {
+      "text": "blue, yellow, white"
     },
     "National anthem": {
       "name": {

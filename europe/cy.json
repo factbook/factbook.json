@@ -278,8 +278,13 @@
         "text": "total: 0.2% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "9.4% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "9.4% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "18.3% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "3.56 physicians/1,000 population (2022)"
@@ -341,13 +346,15 @@
     "Currently married women (ages 15-49)": {
       "text": "54.5% (2023 est.)"
     },
-    "Education expenditures": {
-      "text": "6.1% of GDP (2020 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "5.1% of GDP (2022 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "13.2% national budget (2022 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
         "text": "99.4%"
       },
@@ -504,12 +511,6 @@
     "Administrative divisions": {
       "text": "6 districts; Ammochostos (Famagusta; all but a small part located in the Turkish Cypriot community), Keryneia (Kyrenia; the only district located entirely in the Turkish Cypriot community), Larnaka (Larnaca; with a small part located in the Turkish Cypriot community), Lefkosia (Nicosia; a small part administered by Turkish Cypriots), Lemesos (Limassol), Pafos (Paphos); note - the 5 \"districts\" of the \"Turkish Republic of Northern Cyprus\" are Gazimagusa (Famagusta), Girne (Kyrenia), Guzelyurt (Morphou), Iskele (Trikomo), Lefkosa (Nicosia)"
     },
-    "Independence": {
-      "text": "16 August 1960 (from the UK); note - Turkish Cypriots proclaimed self-rule on 13 February 1975 and independence in 1983, but these proclamations are recognized only by Turkey"
-    },
-    "National holiday": {
-      "text": "Independence Day, 1 October (1960); note - Turkish Cypriots celebrate 15 November (1983) as \"Republic Day\""
-    },
     "Legal system": {
       "text": "mixed system of English common law and civil law, with European law supremacy"
     },
@@ -608,9 +609,6 @@
     "Political parties": {
       "text": "<strong>area under government control:</strong> <br>Democratic Front or DIPA <br>Democratic Party or DIKO<br>Democratic Rally or DISY <br>Movement of Ecologists - Citizens' Alliance <br>Movement of Social Democrats EDEK<br>National Popular Front or ELAM <br>Progressive Party of the Working People or AKEL (Communist Party) <br>Solidarity Movement<br><br><strong>area administered by Turkish Cypriots:</strong> <br>Communal Democracy Party or TDP<br>Communal Liberation Party - New Forces or TKP-YG<br>Cyprus Socialist Party or KSP<br>Democratic Party or DP<br>National Democratic Party or NDP<br>National Unity Party or UBP <br>New Cyprus Party or YKP<br>People's Party or HP <br>Rebirth Party or YDP<br>Republican Turkish Party or CTP<br>United Cyprus Party or BKP"
     },
-    "International organization participation": {
-      "text": "Australia Group, C, CD, CE, EBRD, ECB, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Evangelos SAVVA (since 15 September 2023)"
@@ -654,12 +652,25 @@
         "text": "<br>ACSNicosia@state.gov<br><br>https://cy.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "Australia Group, C, CD, CE, EBRD, ECB, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "16 August 1960 (from the UK)",
+      "note": "<strong>note:</strong> Turkish Cypriots proclaimed self-rule on 13 February 1975 and independence in 1983, but only Turkey recognizes these proclamations"
+    },
+    "National holiday": {
+      "text": "Independence Day, 1 October (1960); note - Turkish Cypriots celebrate 15 November (1983) as \"Republic Day\""
+    },
     "Flag description": {
       "text": "a copper-colored silhouette of the island is centered on a white field above two crossed green olive branches, which symbolize the hope for peace and reconciliation between the Greek and Turkish communities",
       "note": "<strong>note:</strong> one of only two national flags that uses a map as a design element; the flag of Kosovo is the other <br><br><strong>note:</strong> the \"Turkish Republic of Northern Cyprus\" flag retains the white field of the Cyprus national flag but displays narrow horizontal red stripes positioned a small distance from the top and bottom edges, with a red crescent and a red five-pointed star between them; the banner is modeled after the Turkish national flag, but with the colors reversed"
     },
     "National symbol(s)": {
-      "text": "Cypriot mouflon (wild sheep), white dove; national colors: blue, white"
+      "text": "Cypriot mouflon (wild sheep), white dove"
+    },
+    "National colors": {
+      "text": "blue, white"
     },
     "National anthem": {
       "name": {

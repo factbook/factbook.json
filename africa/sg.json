@@ -281,8 +281,13 @@
         "text": "total: 12.7% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "4.4% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "4.4% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "3.4% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "0.11 physicians/1,000 population (2023)"
@@ -358,21 +363,23 @@
         "text": "0.7% (2019)"
       }
     },
-    "Education expenditures": {
-      "text": "5.5% of GDP (2020 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "6.2% of GDP (2023 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "20.9% national budget (2025 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
-        "text": "56.3%"
+        "text": "50.4% (2023 est.)"
       },
       "male": {
-        "text": "68.4%"
+        "text": "61.5% (2023 est.)"
       },
       "female": {
-        "text": "45.4% (2021)"
+        "text": "41.5% (2023 est.)"
       }
     },
     "School life expectancy (primary to tertiary education)": {
@@ -428,11 +435,6 @@
       },
       "rate of urbanization": {
         "text": "3.59% annual rate of change (2020-25 est.)"
-      }
-    },
-    "Food insecurity": {
-      "severe localized food insecurity": {
-        "text": "<em>due to localized shortfalls in cereal production and reduced incomes - </em>the latest analysis indicates that about 1.26 million people are projected to be acutely food insecure during the June to August 2023 lean season; this would be a significant deterioration compared to the previous year; the main drivers of acute food insecurity are macroeconomic challenges and high prices of basic food items (2023)"
       }
     },
     "Air pollutants": {
@@ -515,12 +517,6 @@
     },
     "Administrative divisions": {
       "text": "14 regions (r&eacute;gions, singular - r&eacute;gion); Dakar, Diourbel, Fatick, Kaffrine, Kaolack, K&eacute;edougou, Kolda, Louga, Matam, Saint-Louis, Sedhiou, Tambacounda, Thies, Ziguinchor"
-    },
-    "Independence": {
-      "text": "4 April 1960 (from France); note - complete independence achieved upon dissolution of federation with Mali on 20 August 1960"
-    },
-    "National holiday": {
-      "text": "Independence Day, 4 April (1960)"
     },
     "Legal system": {
       "text": "civil law system based on French law; Constitutional Council reviews legislative acts"
@@ -616,9 +612,6 @@
     "Political parties": {
       "text": "Alliance for Citizenship and Work or ACT <br>Alliance for the Republic-Yakaar or APR <br>Alliance of Forces of Progress or AFP <br>AND (National Alliance for Democracy) <br>And-Jef/African Party for Democracy and Socialism or AJ/PADS <br>ARC (Alternative for the next generation of citizens) <br>Awalé <br>Benno Bokk Yakaar or BBY (United in Hope); coalition includes AFP, APR, BGC, LD-MPT, PIT, PS, and UNP<br>Bokk Gis Gis coalition <br>Citizen Movement for National Reform or MCRN-Bes Du Nakk <br>Coalition Mimi 2024 <br>Dare the Future movement <br>Democratic League-Labor Party Movement or LD-MPT <br>Democratic Renaissance Congress <br>Front for Socialism and Democracy/Benno Jubel or FSD/BJ <br>Gainde Centrist Bloc or BCG <br>General Alliance for the Interests of the Republic or AGIR <br>Grand Party or GP <br>Gueum sa Bopp (Believe in yourself) <br>Independence and Labor Party or PIT <br>Jotna Coalition <br>Liberate the People (Yewwi Askan Wi) or YAW <br>Madicke 2019 coalition <br>National Union for the People or UNP <br>Only Senegal Movement <br>Party for Truth and Development or PVD <br>Party of Unity and Rally or PUR <br>Patriotic Convergence Kaddu Askan Wi or CP-Kaddu Askan Wi <br>PRP (Republican party for Progress) <br>Rewmi Party <br>Save Senegal (Wallu Senegal Grand Coalition) or WS; coalition includes PDS, Jotna Coalition, Democratic Renaissance Congress<br>Senegalese Democratic Party or PDS <br>Socialist Party or PS <br>Tekki Movement <br>Réewum Ngor (Republic of Values) <br>Servants (Les Serviteurs)"
     },
-    "International organization participation": {
-      "text": "ACP, AfDB, AU, CD, CPLP (associate), ECOWAS, EITI (candidate country), FAO, FZ, G-15, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador (vacant); Charg&eacute; d'Affaires Isidor Marcel SENE (since 31 August 2024)"
@@ -656,12 +649,24 @@
         "text": "<br>DakarACS@state.gov<br><br>https://sn.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, CD, CPLP (associate), ECOWAS, EITI (candidate country), FAO, FZ, G-15, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "4 April 1960 (from France); 20 August 1960 (full independence after federation with Mali is dissolved)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 4 April (1960)"
+    },
     "Flag description": {
       "text": "three equal vertical bands of green (hoist side), yellow, and red, with a small green five-pointed star centered in the yellow band; green stands for Islam, progress, and hope, yellow for natural wealth and progress, and red for sacrifice and determination; the star represents unity and hope",
       "note": "<strong>note:</strong> uses the popular pan-African colors of Ethiopia; the colors from left to right are the same as Mali's flag and the reverse of Guinea's flag"
     },
     "National symbol(s)": {
-      "text": "lion; national colors: green, yellow, red"
+      "text": "lion"
+    },
+    "National colors": {
+      "text": "green, yellow, red"
     },
     "National anthem": {
       "name": {
@@ -1130,6 +1135,9 @@
       "note": "<strong>note:</strong> the National Police operates in major cities, while the Gendarmerie under the FAS primarily operates outside urban areas; both services have specialized anti-terrorism units, and the Gendarmerie has both Territorial and Mobile components"
     },
     "Military expenditures": {
+      "Military Expenditures 2024": {
+        "text": "1.6% of GDP (2024 est.)"
+      },
       "Military Expenditures 2023": {
         "text": "1.5% of GDP (2023 est.)"
       },
@@ -1141,9 +1149,6 @@
       },
       "Military Expenditures 2020": {
         "text": "1.5% of GDP (2020 est.)"
-      },
-      "Military Expenditures 2019": {
-        "text": "1.5% of GDP (2019 est.)"
       }
     },
     "Military and security service personnel strengths": {

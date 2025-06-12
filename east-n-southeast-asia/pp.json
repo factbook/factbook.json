@@ -275,8 +275,13 @@
         "text": "total: 52.5% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "2.3% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "2.3% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "7% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "0.06 physicians/1,000 population (2023)"
@@ -349,21 +354,23 @@
         "text": "3.7% (2018)"
       }
     },
-    "Education expenditures": {
-      "text": "1.4% of GDP (2020 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "1.4% of GDP (2021 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "3.9% national budget (2021 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
-        "text": "64.2%"
+        "text": "70.1% (2017 est.)"
       },
       "male": {
-        "text": "65.6%"
+        "text": "78.4% (2017 est.)"
       },
       "female": {
-        "text": "62.8% (2015)"
+        "text": "61.6% (2017 est.)"
       }
     },
     "People - note": {
@@ -497,12 +504,6 @@
     "Administrative divisions": {
       "text": "20 provinces, 1 autonomous region*, and 1 district**; Bougainville*, Central, Chimbu, Eastern Highlands, East New Britain, East Sepik, Enga, Gulf, Hela, Jiwaka, Madang, Manus, Milne Bay, Morobe, National Capital**, New Ireland, Northern, Southern Highlands, Western, Western Highlands, West New Britain, West Sepik"
     },
-    "Independence": {
-      "text": "16 September 1975 (from the Australia-administered UN trusteeship)"
-    },
-    "National holiday": {
-      "text": "Independence Day, 16 September (1975)"
-    },
     "Legal system": {
       "text": "mixed system of English common law and customary law"
     },
@@ -597,9 +598,6 @@
     "Political parties": {
       "text": "Destiny Party <br>Liberal Party <br>Melanesian Alliance Party or MAP <br>Melanesian Liberal Party or MLP <br>National Alliance Party or NAP <br>Our Development Party or ODP <br>Papua and Niugini Union Party or PANGU PATI <br>Papua New Guinea Greens Party <br>Papua New Guinea National Party <br>Papua New Guinea Party or PNGP <br>People's First Party or PFP <br>People's Movement for Change or PMC <br>People's National Congress Party or PNC <br>People’s National Party <br>People's Party or PP <br>People's Progress Party or PPP <br>People's Reform Party or PRP <br>PNG Party <br>Social Democratic Party or SDP <br>Triumph Heritage Empowerment Party or THE <br>United Labor Party or ULP <br>United Resources Party or URP "
     },
-    "International organization participation": {
-      "text": "ACP, ADB, AOSIS, APEC, ARF, ASEAN (observer), C, CD, CP, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Cephas KAYO (since 31 January 2018)"
@@ -634,11 +632,23 @@
         "text": "<br>ConsularPortMoresby@state.gov<br><br>https://pg.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ACP, ADB, AOSIS, APEC, ARF, ASEAN (observer), C, CD, CP, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "16 September 1975 (from the Australia-administered UN trusteeship)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 16 September (1975)"
+    },
     "Flag description": {
       "text": "divided diagonally from upper hoist-side corner; the upper triangle is red with a soaring yellow bird of paradise centered; the lower triangle is black with five white five-pointed stars of the Southern Cross constellation centered; red, black, and yellow are the country's traditional colors; the bird of paradise is an emblem of regional tribal culture and represents the emergence of Papua New Guinea as a nation; the Southern Cross symbolizes the country's connection with Australia and several other countries in the South Pacific"
     },
     "National symbol(s)": {
-      "text": "bird of paradise; national colors: red, black"
+      "text": "bird of paradise"
+    },
+    "National colors": {
+      "text": "red, black"
     },
     "National anthem": {
       "name": {
@@ -1090,6 +1100,9 @@
       "text": "Papua New Guinea Defense Force (PNGDF): land, maritime, and air elements<br><br>Ministry of Internal Security: Royal Papua New Guinea Constabulary (RPNGC) (2025)"
     },
     "Military expenditures": {
+      "Military Expenditures 2024": {
+        "text": "0.3% of GDP (2024 est.)"
+      },
       "Military Expenditures 2023": {
         "text": "0.3% of GDP (2023 est.)"
       },
@@ -1101,9 +1114,6 @@
       },
       "Military Expenditures 2020": {
         "text": "0.4% of GDP (2020 est.)"
-      },
-      "Military Expenditures 2019": {
-        "text": "0.3% of GDP (2019 est.)"
       }
     },
     "Military and security service personnel strengths": {

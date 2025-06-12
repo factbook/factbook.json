@@ -267,8 +267,13 @@
         "text": "total: 37.1% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "9.1% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "9.1% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "9% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "0.07 physicians/1,000 population (2023)"
@@ -330,21 +335,23 @@
         "text": "17.1% (2019)"
       }
     },
-    "Education expenditures": {
-      "text": "2.2% of GDP (2020 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "1.8% of GDP (2023 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "10% national budget (2023 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
-        "text": "37.5%"
+        "text": "42.4% (2019 est.)"
       },
       "male": {
-        "text": "49.2%"
+        "text": "59.8% (2019 est.)"
       },
       "female": {
-        "text": "26.2% (2020)"
+        "text": "27.1% (2019 est.)"
       }
     },
     "School life expectancy (primary to tertiary education)": {
@@ -400,11 +407,6 @@
       },
       "rate of urbanization": {
         "text": "3.32% annual rate of change (2020-25 est.)"
-      }
-    },
-    "Food insecurity": {
-      "exceptional shortfall in aggregate food production/supplies": {
-        "text": "<em>due to internal conflict and high food prices -</em> according to the latest analysis, issued in July 2023, the number of people in Crisis and above is projected to reach 2.4 million between April and August 2023; this reflects the impact of the ongoing conflict and civil insecurity, as well as the effects of flooding and drought conditions that curbed crop yields and agricultural production (2023)"
       }
     },
     "Air pollutants": {
@@ -490,12 +492,6 @@
     },
     "Administrative divisions": {
       "text": "14 prefectures (pr&eacute;fectures, singular - pr&eacute;fecture), 2 economic pr&eacute;fectures* (pr&eacute;fectures &eacute;conomiques, singular - pr&eacute;fecture &eacute;conomique), and 1 commune**; Bamingui-Bangoran, Bangui**, Basse-Kotto, Haute-Kotto, Haut-Mbomou, Kemo, Lobaye, Mambere-Kadei, Mbomou, Nana-Grebizi*, Nana-Mambere, Ombella-Mpoko, Ouaka, Ouham, Ouham-Pende, Sangha-Mbaere*, Vakaga"
-    },
-    "Independence": {
-      "text": "13 August 1960 (from France)"
-    },
-    "National holiday": {
-      "text": "Republic Day, 1 December (1958)"
     },
     "Legal system": {
       "text": "civil law system based on the French model"
@@ -592,9 +588,6 @@
     "Political parties": {
       "text": "Action Party for Development or PAD<br>African Party for Radical Transformation and Integration of States or PATRIE<br>Alliance for Democracy and Progress or ADP<br>Be Africa ti e Kwe (also known as Central Africa for Us All or BTK)<br>Central African Democratic Rally or RDC<br>Central African Party for Integrated Development or PCDI<br>Democratic Movement for the Renewal and Evolution of Central Africa or MDREC<br>Kodro Ti Mo Kozo Si Movement or MKMKS<br>Movement for Democracy and Development or MDD<br>Movement for the Liberation of the Central African People or MLPC<br>National Convergence (also known as Kwa Na Kwa or KNK)<br>National Movement of Independents or MOUNI<br>National Union for Democracy and Progress or UNDP<br>National Union of Republican Democrats or UNADER<br>New Impetus for Central Africa or CANE<br>Party for Democracy and Solidarity - Kélémba or KPDS<br>Party for Democratic Governance or PGD<br>Path of Hope or CDE<br>Renaissance for Sustainable Development or RDD<br>Socialist Party or PS<br>Transformation Through Action Initiative or ITA<br>Union for Central African Renewal or URCA<br>Union for Renaissance and Development or URD<br>United Hearts Movement or MCU<strong><br></strong>"
     },
-    "International organization participation": {
-      "text": "ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country) (suspended), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, NAM, OIC (observer), OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Martial NDOUBOU (since 17 September 2018)"
@@ -632,11 +625,23 @@
         "text": "<br>https://cf.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country) (suspended), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, NAM, OIC (observer), OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "13 August 1960 (from France)"
+    },
+    "National holiday": {
+      "text": "Republic Day, 1 December (1958)"
+    },
     "Flag description": {
       "text": "four equal horizontal bands of blue (top), white, green, and yellow with a vertical red band in the center; a yellow five-pointed star to the hoist side of the blue band; banner combines the pan-African and French flag colors; red stands for the blood spilled in the struggle for independence, blue for the sky and freedom, white for peace and dignity, green for hope and faith, and yellow for tolerance; the star represents aspiration towards a vibrant future"
     },
     "National symbol(s)": {
-      "text": "elephant; national colors: blue, white, green, yellow, red"
+      "text": "elephant"
+    },
+    "National colors": {
+      "text": "blue, white, green, yellow, red"
     },
     "National anthem": {
       "name": {

@@ -288,8 +288,13 @@
         "text": "total: 6% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "6.2% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "6.2% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "16.7% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "1.69 physicians/1,000 population (2023)"
@@ -362,21 +367,23 @@
         "text": "14.1% (2020)"
       }
     },
-    "Education expenditures": {
-      "text": "4% of GDP (2021 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "4.2% of GDP (2023 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "19.2% national budget (2025 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
-        "text": "94.5%"
+        "text": "94% (2020 est.)"
       },
       "male": {
-        "text": "97%"
+        "text": "97% (2020 est.)"
       },
       "female": {
-        "text": "92% (2020)"
+        "text": "92% (2020 est.)"
       }
     },
     "School life expectancy (primary to tertiary education)": {
@@ -531,12 +538,6 @@
     "Administrative divisions": {
       "text": "24 departments (departamentos, singular - departamento), 1 province* (provincia), and 1 constitutional province** (provincia constitucional); Amazonas, Ancash, Apurimac, Arequipa, Ayacucho, Cajamarca, Callao**, Cusco, Huancavelica, Huánuco, Ica, Junín, La Libertad, Lambayeque, Lima, Lima*, Loreto, Madre de Dios, Moquegua, Pasco, Piura, Puno, San Martin, Tacna, Tumbes, Ucayali"
     },
-    "Independence": {
-      "text": "28 July 1821 (from Spain)"
-    },
-    "National holiday": {
-      "text": "Independence Day, 28-29 July (1821)"
-    },
     "Legal system": {
       "text": "civil law system"
     },
@@ -632,9 +633,6 @@
     "Political parties": {
       "text": "<p>Advance the Nation (Avanza País) or AvP<br>Alliance for Progress (Alianza para el Progreso) or APP<br>Broad Front (Frente Amplio) or FA<br>Free Peru (Perú Libre) or PL<br>Front for Hope (Frente Esperanza)<br>Magisterial Block of National Concentration (Bloque Magisterial de Concertación Nacional) or BMCN<br>National Victory (Victoria Nacional) or VN<br>Peru Bicentennial (Perú Bicentenario) or PB<br>Popular Action (Acción Popular) or AP<br>Popular Force (Fuerza Popular) or FP<br>Popular Renewal (Renovación Popular) or RP<br>Purple Party (Partido Morado)<br>Social Integration Party (Avanza País - Partido de Integración Social)<br>Together For Perú (Juntos por el Peru) or JP<br>We Are Peru (Somos Perú) of SP<br>We Can Peru (Podemos Perú) or PP</p>"
     },
-    "International organization participation": {
-      "text": "AIIB, APEC, BIS, CAN, CD, CELAC, EITI (compliant country), FAO, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, MONUSCO, NAM, OAS, OPANAL, OPCW, Pacific Alliance, PCA, PROSUR, SICA (observer), UN, UNAMID, UNASUR, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNISFA, UNMISS, UNOCI, UNOOSA, UN Security Council (temporary), UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Alfredo Santiago Carlos FERRERO DIEZ CANSECO (since 27 February 2024)"
@@ -675,11 +673,23 @@
         "text": "<br>lima_webmaster@state.gov<br><br>https://pe.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "AIIB, APEC, BIS, CAN, CD, CELAC, EITI (compliant country), FAO, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, MONUSCO, NAM, OAS, OPANAL, OPCW, Pacific Alliance, PCA, PROSUR, SICA (observer), UN, UNAMID, UNASUR, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNISFA, UNMISS, UNOCI, UNOOSA, UN Security Council (temporary), UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "28 July 1821 (from Spain)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 28-29 July (1821)"
+    },
     "Flag description": {
       "text": "three equal vertical bands of red (hoist side), white, and red, with the coat of arms centered in the white band; the coat of arms has a shield with a vicuna (symbolizing fauna), a cinchona tree (the source of quinine, symbolizing flora), and a yellow cornucopia spilling out coins (symbolizing mineral wealth); red stands for blood shed for independence, and white for peace"
     },
     "National symbol(s)": {
-      "text": "vicuna (a camelid related to the llama); national colors: red, white"
+      "text": "vicuna (a camelid related to the llama)"
+    },
+    "National colors": {
+      "text": "red, white"
     },
     "National anthem": {
       "name": {

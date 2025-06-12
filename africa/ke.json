@@ -288,8 +288,13 @@
         "text": "total: 28.8% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "4.5% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "4.5% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "8.7% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "0.29 physicians/1,000 population (2023)"
@@ -365,13 +370,15 @@
         "text": "1.8% (2022)"
       }
     },
-    "Education expenditures": {
-      "text": "4.8% of GDP (2021 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "4% of GDP (2024 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "18.4% national budget (2023 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
         "text": "82.6%"
       },
@@ -424,11 +431,6 @@
       },
       "rate of urbanization": {
         "text": "4.09% annual rate of change (2020-25 est.)"
-      }
-    },
-    "Food insecurity": {
-      "exceptional shortfall in aggregate food production/supplies": {
-        "text": "<em>due to weather extremes - </em>according to the latest estimates, about 5.4 million people were acutely food insecure between March and June 2023, reflecting the lingering impact of a prolonged and severe drought between late 2020 and early 2023 that affected crop and livestock production, mainly in northern and eastern pastoral and marginal agricultural areas (2023)"
       }
     },
     "Air pollutants": {
@@ -522,12 +524,6 @@
     },
     "Administrative divisions": {
       "text": "47 counties; Baringo, Bomet, Bungoma, Busia, Elgeyo/Marakwet, Embu, Garissa, Homa Bay, Isiolo, Kajiado, Kakamega, Kericho, Kiambu, Kilifi, Kirinyaga, Kisii, Kisumu, Kitui, Kwale, Laikipia, Lamu, Machakos, Makueni, Mandera, Marsabit, Meru, Migori, Mombasa, Murang'a, Nairobi City, Nakuru, Nandi, Narok, Nyamira, Nyandarua, Nyeri, Samburu, Siaya, Taita/Taveta, Tana River, Tharaka-Nithi, Trans Nzoia, Turkana, Uasin Gishu, Vihiga, Wajir, West Pokot"
-    },
-    "Independence": {
-      "text": "12 December 1963 (from the UK)"
-    },
-    "National holiday": {
-      "text": "Jamhuri Day (Independence Day), 12 December (1963); note - Madaraka Day, 1 June (1963) marks the day Kenya attained internal self-rule"
     },
     "Legal system": {
       "text": "mixed system of English common law, Islamic law, and customary law; Supreme Court reviews laws"
@@ -658,9 +654,6 @@
     "Political parties": {
       "text": "<p>Azimio La Umoja–One Kenya Coalition Party<br>Amani National Congress or ANC<br>Chama Cha Kazi or CCK<br>Democratic Action Party or DAP-K<br>Democratic Party or DP<br>Forum for the Restoration of Democracy–Kenya or FORD-Kenya<br>Grand Dream Development Party or GDDP         <br>Jubilee Party or JP<br>Kenya African National Union or KANU<br>Kenya Kwanza coalition<br>Kenya Union Party or KUP<br>Maendeleo Chap Chap Party or MCC<br>Movement for Democracy and Growth or MDG<br>National Agenda Party or NAP-K                       <br>National Ordinary People Empowerment Union or NOPEU<br>Orange Democratic Movement or ODM<br>Pamoja African Alliance or PAA]<br>The Service Party or TSP<br>United Democratic Alliance or UDA<br>United Democratic Movement or UDM<br>United Democratic Party or UDP<br>United Party of Independent Alliance or UPIA                                      <br>United Progressive Alliance or UPA                                        <br>Wiper Democratic Movement-Kenya or WDM-K</p>"
     },
-    "International organization participation": {
-      "text": "ACP, AfDB, ATMIS, AU, C, CD, COMESA, EAC, EADB, FAO, G-15, G-77, IAEA, IBRD, ICAO, ICCT, ICRM, IDA, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNOOSA, UNSOM, UNWTO, UPU, WCO, WHO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador David Kipkorir Kiplagat KERICH (since 18 September 2024)"
@@ -701,11 +694,23 @@
         "text": "<br>kenya_acs@state.gov<br><br>https://ke.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ACP, AfDB, ATMIS, AU, C, CD, COMESA, EAC, EADB, FAO, G-15, G-77, IAEA, IBRD, ICAO, ICCT, ICRM, IDA, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNOOSA, UNSOM, UNWTO, UPU, WCO, WHO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "12 December 1963 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Jamhuri Day (Independence Day), 12 December (1963); note - Madaraka Day, 1 June (1963) marks the day Kenya attained internal self-rule"
+    },
     "Flag description": {
       "text": "three equal horizontal bands of black (top), red, and green; the red band is edged in white; a large Maasai warrior's shield covering crossed spears is at the center; black stands for the majority population, red for the blood shed in the struggle for freedom, green for natural wealth, and white for peace; the shield and crossed spears symbolize the defense of freedom"
     },
     "National symbol(s)": {
-      "text": "lion; national colors: black, red, green, white"
+      "text": "lion"
+    },
+    "National colors": {
+      "text": "black, red, green, white"
     },
     "National anthem": {
       "name": {

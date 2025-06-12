@@ -276,8 +276,13 @@
         "text": "total: 0% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "5.6% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "5.6% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "8.5% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "1.93 physicians/1,000 population (2023)"
@@ -350,13 +355,15 @@
         "text": "6.1% (2019)"
       }
     },
-    "Education expenditures": {
-      "text": "3.1% of GDP (2019 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "2.7% of GDP (2023 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "20.5% national budget (2024 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
         "text": "99.7%"
       },
@@ -364,7 +371,7 @@
         "text": "99.8%"
       },
       "female": {
-        "text": "99.6% (2015)"
+        "text": "99.6% (2019 est.)"
       }
     },
     "School life expectancy (primary to tertiary education)": {
@@ -506,12 +513,6 @@
       "text": "5 provinces (velayatlar, singular - velayat) and 1 independent city*: Ahal Velayat (Arkadag), Ashgabat*, Balkan Velayat (Balkanabat), Dashoguz Velayat, Lebap Velayat (Turkmenabat), Mary Velayat",
       "note": "<strong>note:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses)"
     },
-    "Independence": {
-      "text": "27 October 1991 (from the Soviet Union)"
-    },
-    "National holiday": {
-      "text": "Independence Day, 27 October (1991)"
-    },
     "Legal system": {
       "text": "civil law system with Islamic (sharia) law influences"
     },
@@ -608,9 +609,6 @@
       "text": "Agrarian Party of Turkmenistan or APT<br>Democratic Party of Turkmenistan or DPT<br>Party of Industrialists and Entrepreneurs or PIE",
       "note": "<strong>note:</strong> all of these parties support President BERDIMUHAMEDOV; a law authorizing the registration of political parties went into effect in January 2012; unofficial, small opposition movements exist abroad"
     },
-    "International organization participation": {
-      "text": "ADB, CIS (associate member, has not ratified the 1993 CIS charter although it participates in meetings and held the chairmanship of the CIS in 2012), EAPC, EBRD, ECO, FAO, G-77, IBRD, ICAO, ICRM, IDA, IDB, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM (observer), ISO (correspondent), ITU, MIGA, NAM, OIC, OPCW, OSCE, PFP, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Meret ORAZOV (since 14 February 2001)"
@@ -648,11 +646,23 @@
         "text": "<br>ConsularAshgab@state.gov<br><br>https://tm.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ADB, CIS (associate member, has not ratified the 1993 CIS charter although it participates in meetings and held the chairmanship of the CIS in 2012), EAPC, EBRD, ECO, FAO, G-77, IBRD, ICAO, ICRM, IDA, IDB, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM (observer), ISO (correspondent), ITU, MIGA, NAM, OIC, OPCW, OSCE, PFP, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO"
+    },
+    "Independence": {
+      "text": "27 October 1991 (from the Soviet Union)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 27 October (1991)"
+    },
     "Flag description": {
       "text": "green field with a vertical red stripe near the hoist side, containing five tribal <em>guls </em>(designs used in producing carpets) stacked above two crossed olive branches; five white five-pointed stars and a white crescent moon appear in the upper corner of the field; the green color and crescent moon stand for Islam, the five stars for the country's regions, and the guls for national identity"
     },
     "National symbol(s)": {
-      "text": "Akhal-Teke horse; national colors: green, white"
+      "text": "Akhal-Teke horse"
+    },
+    "National colors": {
+      "text": "green, white"
     },
     "National anthem": {
       "name": {

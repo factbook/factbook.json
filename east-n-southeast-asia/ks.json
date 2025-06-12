@@ -278,8 +278,13 @@
         "text": "total: 0.1% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "9.7% of GDP (2022)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "9.7% of GDP (2022)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "14.1% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "2.61 physicians/1,000 population (2022)"
@@ -344,8 +349,8 @@
     "Currently married women (ages 15-49)": {
       "text": "52.9% (2023 est.)"
     },
-    "Education expenditures": {
-      "text": "4.7% of GDP (2019 est.)"
+    "Education expenditure": {
+      "text": "4.9% of GDP (2021 est.)"
     },
     "Literacy": {
       "total population": {
@@ -500,12 +505,6 @@
     "Administrative divisions": {
       "text": "<p>9 provinces (do, singular and plural), 6 metropolitan cities (gwangyeoksi, singular and plural), 1 special city (teugbyeolsi), and 1 special self-governing city (teukbyeoljachisi)</p> <p><strong>provinces:</strong> Chungcheongbuk-do (North Chungcheong), Chungcheongnam-do (South Chungcheong), Gangwon-do, Gyeongsangbuk-do (North Gyeongsang), Gyeonggi-do, Gyeongsangnam-do (South Gyeongsang), Jeju-do (Jeju), Jeollabuk-do (North Jeolla), Jeollanam-do (South Jeolla)</p> <p><strong>metropolitan cities:</strong> Busan (Pusan), Daegu (Taegu), Daejeon (Taejon), Gwangju (Kwangju), Incheon (Inch'on), Ulsan</p> <p><strong>special city:</strong> Seoul</p> <p><strong>special self-governing city:</strong> Sejong</p>"
     },
-    "Independence": {
-      "text": "15 August 1945 (from Japan)"
-    },
-    "National holiday": {
-      "text": "Liberation Day, 15 August (1945)"
-    },
     "Legal system": {
       "text": "mixed system combining European civil law, Anglo-American law, and Chinese classical thought"
     },
@@ -601,9 +600,6 @@
     "Political parties": {
       "text": "Basic Income Party <br>Democratic Party of Korea or DPK <br>New Future Party<br>New Reform Party <br>Open Democratic Party or ODP <br>People Power Party or PPP <br>Progressive Party or Jinbo Party <br>Rebuilding Korea Party <br>Social Democratic Party <br><br><strong>note:</strong>  the Democratic Alliance coalition consists of the DPK and the smaller Basic Income, Jinbo, Open Democratic, and Social Democratic parties, as well as two independents; for the 2024 election, the Basic Income Party, the ODP, and the Social Democratic Party formed the New Progressive Alliance"
     },
-    "International organization participation": {
-      "text": "ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dialogue partner), Australia Group, BIS, CABEI, CD, CICA, CP, EAS, EBRD, FAO, FATF, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINURSO, MINUSTAH, NEA, NSG, OAS (observer), OECD, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club (associate), PCA, PIF (partner), SAARC (observer), SICA (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNMOGIP, UNOCI, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador CHO Hyundong (since 19 April 2023)"
@@ -647,11 +643,23 @@
         "text": "Busan"
       }
     },
+    "International organization participation": {
+      "text": "ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dialogue partner), Australia Group, BIS, CABEI, CD, CICA, CP, EAS, EBRD, FAO, FATF, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINURSO, MINUSTAH, NEA, NSG, OAS (observer), OECD, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club (associate), PCA, PIF (partner), SAARC (observer), SICA (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNMOGIP, UNOCI, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Independence": {
+      "text": "15 August 1945 (from Japan)"
+    },
+    "National holiday": {
+      "text": "Liberation Day, 15 August (1945)"
+    },
     "Flag description": {
       "text": "white with a red-and-blue yin-yang symbol in the center;a black trigram (<em>kwae</em>) from the ancient I Ching (Book of Changes) is in each corner of the white field; the flag is called Taegukki; white is a traditional Korean color and represents peace and purity; the blue represents the negative cosmic forces of the yin, and the red symbolizes the opposite positive forces of the yang; each trigram stands for one of the universal elements, which together express the principle of movement and harmony"
     },
     "National symbol(s)": {
-      "text": "taegeuk (yin yang symbol), Hibiscus syriacus (Rose of Sharon), Siberian tiger; national colors: red, white, blue, black"
+      "text": "taegeuk (yin-yang symbol), Rose of Sharon (<em>Hibiscus syriacus</em>), Siberian tiger"
+    },
+    "National colors": {
+      "text": "red, white, blue, black"
     },
     "National anthem": {
       "name": {
@@ -673,7 +681,7 @@
   },
   "Economy": {
     "Economic overview": {
-      "text": "strong export- and technology-oriented East Asian economy; manufacturing led by semiconductor and automotive industries; aging workforce; increased restraint in fiscal policy while maintaining industry support initiatives"
+      "text": "<p>high-income, export- and technology-oriented East Asian economy; manufacturing led by semiconductor and automotive industries; slow growth amid declining construction investment, export risks, and recent political instability; aging workforce; increased restraint in fiscal policy while maintaining industry support initiatives</p>"
     },
     "Real GDP (purchasing power parity)": {
       "Real GDP (purchasing power parity) 2023": {

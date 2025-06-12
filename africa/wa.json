@@ -280,8 +280,13 @@
         "text": "total: 8.6% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "9.4% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "9.4% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "11.7% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "0.55 physicians/1,000 population (2022)"
@@ -340,13 +345,15 @@
     "Currently married women (ages 15-49)": {
       "text": "33.3% (2023 est.)"
     },
-    "Education expenditures": {
-      "text": "9.6% of GDP (2021 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "9.4% of GDP (2022 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "24.7% national budget (2022 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
         "text": "92.3%"
       },
@@ -399,11 +406,6 @@
       },
       "rate of urbanization": {
         "text": "3.64% annual rate of change (2020-25 est.)"
-      }
-    },
-    "Food insecurity": {
-      "severe localized food insecurity": {
-        "text": "<em><em>due to localized shortfalls in cereal production and </em></em><em>rising food prices </em><em>- </em>an estimated 390,000 people faced acute food insecurity in the January to March 2023 period, lower than the figure in the corresponding period of 2022; high food prices and localized weather induced shortfalls in cereal production in 2022 were the key drivers (2023)"
       }
     },
     "Air pollutants": {
@@ -492,12 +494,6 @@
     },
     "Administrative divisions": {
       "text": "14 regions; Erongo, Hardap, //Karas, Kavango East, Kavango West, Khomas, Kunene, Ohangwena, Omaheke, Omusati, Oshana, Oshikoto, Otjozondjupa, Zambezi; note - the Karas Region was renamed //Karas in September 2013 to include the alveolar lateral click of the Khoekhoegowab language"
-    },
-    "Independence": {
-      "text": "21 March 1990 (from South African mandate)"
-    },
-    "National holiday": {
-      "text": "Independence Day, 21 March (1990)"
     },
     "Legal system": {
       "text": "mixed system of uncodified civil law based on Roman-Dutch law and customary law"
@@ -623,9 +619,6 @@
     "Political parties": {
       "text": "All People's Party or APP <br>Christian Democratic Voice or CDV <br>Landless People's Movement or LPM <br>National Unity Democratic Organization or NUDO <br>Namibian Economic Freedom Fighters or NEFF <br>Popular Democratic Movement or PDM (formerly Democratic Turnhalle Alliance or DTA) <br>Rally for Democracy and Progress or RDP <br>Republican Party or RP<br>South West Africa National Union or SWANU <br>South West Africa People's Organization or SWAPO <br>United Democratic Front or UDF <br>United People's Movement or UPM"
     },
-    "International organization participation": {
-      "text": "ACP, AfDB, AU, C, CD, CPLP (associate observer), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, SACU, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Margareth Natalie MENSAH-WILLIAMS (since 18 January 2021)"
@@ -663,11 +656,23 @@
         "text": "<br>ConsularWindhoek@state.gov<br><br>https://na.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, C, CD, CPLP (associate observer), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, SACU, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "21 March 1990 (from South African mandate)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 21 March (1990)"
+    },
     "Flag description": {
       "text": "a wide red stripe edged with narrow white stripes divides the flag diagonally from lower hoist corner to upper fly corner; the upper triangle is blue and has a golden-yellow, 12-rayed sunburst, and the lower triangle is green; red stands for the heroism of the people and their determination to build a future of equal opportunity; white stands for peace, unity, tranquility, and harmony; blue stands for the sky and the Atlantic Ocean, the sun for power and existence, and green for vegetation and agricultural resources"
     },
     "National symbol(s)": {
-      "text": "oryx (antelope); national colors: blue, red, green, white, yellow"
+      "text": "oryx (antelope)"
+    },
+    "National colors": {
+      "text": "blue, red, green, white, yellow"
     },
     "National anthem": {
       "name": {
@@ -1136,6 +1141,9 @@
       "note": "<strong>note:</strong> the Namibian Police Force is under the Ministry of Home Affairs, Immigration, Safety, and Security; it has a paramilitary Special Field Force responsible for protecting borders and government installations"
     },
     "Military expenditures": {
+      "Military Expenditures 2024": {
+        "text": "2.8% of GDP (2024 est.)"
+      },
       "Military Expenditures 2023": {
         "text": "2.8% of GDP (2023 est.)"
       },
@@ -1147,9 +1155,6 @@
       },
       "Military Expenditures 2020": {
         "text": "3.4% of GDP (2020 est.)"
-      },
-      "Military Expenditures 2019": {
-        "text": "3.3% of GDP (2019 est.)"
       }
     },
     "Military and security service personnel strengths": {

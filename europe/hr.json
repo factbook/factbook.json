@@ -277,8 +277,13 @@
         "text": "total: 0% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "8.1% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "8.1% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "13.7% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "3.91 physicians/1,000 population (2022)"
@@ -340,13 +345,15 @@
     "Currently married women (ages 15-49)": {
       "text": "50.8% (2023 est.)"
     },
-    "Education expenditures": {
-      "text": "5.5% of GDP (2020 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "4.8% of GDP (2022 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "10.7% national budget (2022 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
         "text": "99.4%"
       },
@@ -507,12 +514,6 @@
     "Administrative divisions": {
       "text": "20 counties (zupanije, zupanija - singular) and 1 city* (grad - singular) with special county status; Bjelovarsko-Bilogorska (Bjelovar-Bilogora), Brodsko-Posavska (Brod-Posavina), Dubrovacko-Neretvanska (Dubrovnik-Neretva), Istarska (Istria), Karlovacka (Karlovac), Koprivnicko-Krizevacka (Koprivnica-Krizevci), Krapinsko-Zagorska (Krapina-Zagorje), Licko-Senjska (Lika-Senj), Medimurska (Medimurje), Osjecko-Baranjska (Osijek-Baranja), Pozesko-Slavonska (Pozega-Slavonia), Primorsko-Goranska (Primorje-Gorski Kotar), Sibensko-Kninska (Sibenik-Knin), Sisacko-Moslavacka (Sisak-Moslavina), Splitsko-Dalmatinska (Split-Dalmatia), Varazdinska (Varazdin), Viroviticko-Podravska (Virovitica-Podravina), Vukovarsko-Srijemska (Vukovar-Syrmia), Zadarska (Zadar), Zagreb*, Zagrebacka (Zagreb county)"
     },
-    "Independence": {
-      "text": "25 June 1991 (from Yugoslavia); note - 25 June 1991 was the day the Croatian parliament voted for independence; following a three-month moratorium to allow the European Community to solve the Yugoslav crisis peacefully, parliament adopted a decision on 8 October 1991 to sever constitutional relations with Yugoslavia; notable earlier dates: ca. 925 (Kingdom of Croatia established); 1 December 1918 (Kingdom of Serbs, Croats, and Slovenes (Yugoslavia) established)"
-    },
-    "National holiday": {
-      "text": "Statehood Day (National Day), 30 May (1990); note - marks the day in 1990 that the first modern multi-party Croatian parliament convened"
-    },
     "Legal system": {
       "text": "civil law system influenced by legal heritage of Austria-Hungary"
     },
@@ -609,9 +610,6 @@
     "Political parties": {
       "text": "Bosniaks Together<br>The Bridge or MOST (formerly the Bridge of Independent Lists)<br>Croatia Romani Union Kali Sara (SRRH)<br>Croatian Democratic Union or HDZ<br>Democratic Union of Hungarians in Croatia (DZMH)<br>Focus or Fokus<br>Homeland Movement or DP (also known as Miroslav Škoro Homeland Movement or DPMS)<br>Independent Democratic Serb Party or SDSS <br>Independent Platform of the North (NPS)<br>Istrian Democratic Assembly or IDS<br>Social Democratic Party of Croatia or SDP<br>We Can! or Mozemo! "
     },
-    "International organization participation": {
-      "text": "AIIB, Australia Group, BIS, BSEC (observer), CD, CE, CEI, EAPC, EBRD, ECB, EMU, EU, FAO, G-11, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NAM (observer), NATO, NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNMIL, UNMOGIP, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Pjer &Scaron;IMUNOVIĆ (since 8 September 2017)"
@@ -655,12 +653,25 @@
         "text": "<br>ZagrebACS@state.gov<br><br>https://hr.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "AIIB, Australia Group, BIS, BSEC (observer), CD, CE, CEI, EAPC, EBRD, ECB, EMU, EU, FAO, G-11, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NAM (observer), NATO, NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNMIL, UNMOGIP, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Independence": {
+      "text": "25 June 1991 (from Yugoslavia); notable earlier dates: ca. 925 (Kingdom of Croatia established), 1 December 1918 (Kingdom of Serbs, Croats, and Slovenes established, later became Yugoslavia)",
+      "note": "<strong>note:</strong> 25 June 1991 was the day the Croatian parliament voted for independence; the legislature adopted a decision on 8 October 1991 to sever constitutional relations with Yugoslavia"
+    },
+    "National holiday": {
+      "text": "Statehood Day (National Day), 30 May (1990); note - marks the day in 1990 that the first modern multi-party Croatian parliament convened"
+    },
     "Flag description": {
       "text": "three equal horizontal bands of red (top), white, and blue -- the pan-Slav colors -- with the Croatian coat of arms in the center; the coat of arms consists of a main shield (a checkerboard of 13 red and 12 silver fields) with five smaller shields that form a crown over the main shield; the small shields represent the five historic regions (from left to right): Croatia, Dubrovnik, Dalmatia, Istria, and Slavonia",
       "note": "<strong>note:</strong> Russia's 19th-century flag inspired the pan-Slav colors"
     },
     "National symbol(s)": {
-      "text": "red-white checkerboard; national colors: red, white, blue"
+      "text": "red-and-white checkerboard"
+    },
+    "National colors": {
+      "text": "red, white, blue"
     },
     "National anthem": {
       "name": {

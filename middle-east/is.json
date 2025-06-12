@@ -276,8 +276,13 @@
         "text": "total: 0% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "7.9% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "7.9% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "13% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "3.8 physicians/1,000 population (2023)"
@@ -339,13 +344,15 @@
     "Currently married women (ages 15-49)": {
       "text": "51.7% (2023 est.)"
     },
-    "Education expenditures": {
-      "text": "7.1% of GDP (2020 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "6.5% of GDP (2022 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "17.5% national budget (2022 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
         "text": "97.8%"
       },
@@ -498,12 +505,6 @@
     "Administrative divisions": {
       "text": "6 districts (mehozot, singular - mehoz); Central, Haifa, Jerusalem, Northern, Southern, Tel Aviv"
     },
-    "Independence": {
-      "text": "14 May 1948 (following League of Nations mandate under British administration)"
-    },
-    "National holiday": {
-      "text": "Independence Day, 14 May (1948); note - Israel declared independence on 14 May 1948, but the Jewish calendar is lunar and the holiday may occur in April or May"
-    },
     "Legal system": {
       "text": "mixed system of English common law, British Mandate regulations, and Jewish, Christian, and Muslim religious laws"
     },
@@ -600,9 +601,6 @@
     "Political parties": {
       "text": "Balad<br>Blue and White<br>Hadash<br>Jewish Power (Otzma Yehudit)<br>Labor Party or HaAvoda<br>Likud<br>Meretz<br>National Unity (alliance includes Blue and White and New Hope)<br>New Hope<br>Noam<br>Religious Zionism (election alliance of Religious Zionist Party, Jewish Power (Otzma Yehudit), and Noam)<br>Religious Zionist Party<br>Shas<br>Ta'al<br>United Arab List<br>United Torah Judaism or UTJ (alliance includes Agudat Israel and Degel HaTorah)<br>Yesh Atid<br>Yisrael Beiteinu"
     },
-    "International organization participation": {
-      "text": "BIS, BSEC (observer), CE (observer), CERN, CICA, EBRD, FAO, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, OAS (observer), OECD, OPCW (signatory), OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Yechiel (Michael) LEITER (since 4 February 2025)"
@@ -647,12 +645,24 @@
       },
       "note": "<strong>note:</strong> on 14 May 2018, the US Embassy relocated to Jerusalem from Tel Aviv; on 4 March 2019, Consulate General Jerusalem merged into US Embassy Jerusalem to form a single diplomatic mission"
     },
+    "International organization participation": {
+      "text": "BIS, BSEC (observer), CE (observer), CERN, CICA, EBRD, FAO, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, OAS (observer), OECD, OPCW (signatory), OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "14 May 1948 (following League of Nations mandate under British administration)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 14 May (1948); note - Israel declared independence on 14 May 1948, but the Jewish calendar is lunar and the holiday may occur in April or May"
+    },
     "Flag description": {
       "text": "white with a blue hexagram (six-pointed linear star) known as the Magen David (Star of David or Shield of David) centered between two equal horizontal blue bands near the top and bottom edges of the flag; the design resembles a traditional Jewish prayer shawl (<em>tallit</em>), which is white with blue stripes; the hexagram as a Jewish symbol dates back to medieval times",
       "note": "<strong>note:</strong> the Israeli flag proclamation states that the flag colors are sky blue and white, but the exact shade of blue has never been set and can vary"
     },
     "National symbol(s)": {
-      "text": "Star of David (Magen David), menorah (seven-branched lampstand); national colors: blue, white"
+      "text": "Star of David (Magen David), menorah (seven-branched lampstand)"
+    },
+    "National colors": {
+      "text": "blue, white"
     },
     "National anthem": {
       "name": {

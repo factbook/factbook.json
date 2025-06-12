@@ -275,8 +275,13 @@
         "text": "total: 27.2% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "8.6% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "8.6% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "5.2% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "0.13 physicians/1,000 population (2022)"
@@ -349,21 +354,23 @@
         "text": "4.1% (2019)"
       }
     },
-    "Education expenditures": {
-      "text": "9.1% of GDP (2021 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "8.5% of GDP (2022 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "29.4% national budget (2022 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write English, Mende, Temne, or Arabic"
-      },
       "total population": {
-        "text": "48.6%"
+        "text": "43.6% (2019 est.)"
       },
       "male": {
-        "text": "56.3%"
+        "text": "54.6% (2019 est.)"
       },
       "female": {
-        "text": "41.3% (2022)"
+        "text": "33.9% (2019 est.)"
       }
     }
   },
@@ -408,11 +415,6 @@
       },
       "rate of urbanization": {
         "text": "3.02% annual rate of change (2020-25 est.)"
-      }
-    },
-    "Food insecurity": {
-      "severe localized food insecurity": {
-        "text": "<em>due to high food prices and reduced incomes - </em>according to the latest analysis, about 1.18 million people are projected to be in need of humanitarian assistance between the June to August 2023 lean season; acute food insecurity is underpinned by elevated food prices, in part driven by a weak currency, and low purchasing power of vulnerable households (2023)"
       }
     },
     "Air pollutants": {
@@ -486,12 +488,6 @@
     },
     "Administrative divisions": {
       "text": "4 provinces and 1 area*; Eastern, Northern, North Western, Southern, Western*"
-    },
-    "Independence": {
-      "text": "27 April 1961 (from the UK)"
-    },
-    "National holiday": {
-      "text": "Independence Day, 27 April (1961)"
     },
     "Legal system": {
       "text": "mixed system of English common law and customary law"
@@ -589,9 +585,6 @@
     "Political parties": {
       "text": "All People's Congress or APC <br>Sierra Leone People's Party or SLPP"
     },
-    "International organization participation": {
-      "text": "ACP, AfDB, ATMIS, AU, C, ECOWAS, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNOOSA, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador (vacant); Charg&eacute; d'Affaires Sheku MESALI (since 14 January 2025)"
@@ -626,11 +619,23 @@
         "text": "<br>consularfreetown@state.gov<br><br>https://sl.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ACP, AfDB, ATMIS, AU, C, ECOWAS, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNOOSA, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "27 April 1961 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 27 April (1961)"
+    },
     "Flag description": {
       "text": "three equal horizontal bands of light green (top), white, and light blue; green stands for agriculture, mountains, and natural resources, white for unity and justice, and blue for the sea and the natural harbor in Freetown"
     },
     "National symbol(s)": {
-      "text": "lion; national colors: green, white, blue"
+      "text": "lion"
+    },
+    "National colors": {
+      "text": "green, white, blue"
     },
     "National anthem": {
       "name": {
@@ -1048,6 +1053,9 @@
       "text": "Republic of Sierra Leone Armed Forces (RSLAF): organized as a Joint Force Command with land, air, and maritime components<br><br>Ministry of Internal Affairs: Sierra Leone Police (2025)"
     },
     "Military expenditures": {
+      "Military Expenditures 2024": {
+        "text": "0.5% of GDP (2024 est.)"
+      },
       "Military Expenditures 2023": {
         "text": "0.6% of GDP (2023 est.)"
       },
@@ -1059,9 +1067,6 @@
       },
       "Military Expenditures 2020": {
         "text": "0.3% of GDP (2020 est.)"
-      },
-      "Military Expenditures 2019": {
-        "text": "0.3% of GDP (2019 est.)"
       }
     },
     "Military and security service personnel strengths": {

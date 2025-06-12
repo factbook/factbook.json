@@ -270,6 +270,9 @@
         "text": "total: 15.8% of population (2020 est.)"
       }
     },
+    "Health expenditure": {
+      "text": "2.5% of national budget (2022 est.)"
+    },
     "Physician density": {
       "text": "0.05 physicians/1,000 population (2014)"
     },
@@ -319,18 +322,23 @@
     "Currently married women (ages 15-49)": {
       "text": "62.9% (2023 est.)"
     },
-    "Education expenditures": {
-      "text": "0.3% of GDP (2019)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "0.3% of GDP (2019 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "4.2% national budget (2019 est.)"
+      }
     },
     "Literacy": {
       "total population": {
-        "text": "NA"
+        "text": "54% (2022 est.) NA"
       },
       "male": {
-        "text": "NA"
+        "text": "65% (2022 est.) NA"
       },
       "female": {
-        "text": "NA"
+        "text": "44% (2022 est.) NA"
       }
     }
   },
@@ -375,11 +383,6 @@
       },
       "rate of urbanization": {
         "text": "4.2% annual rate of change (2020-25 est.)"
-      }
-    },
-    "Food insecurity": {
-      "exceptional shortfall in aggregate food production/supplies": {
-        "text": "<em>due to drought conditions and internal conflict - </em>the food security situation remains dire and, at national level, about 6.5 million people (almost 40 percent of the total population) are projected to have faced severe acute food insecurity between April and June 2023; the high prevalence and severity of food insecurity are due to prolonged drought, which began in late 2020 and caused severe crop and livestock losses; the impact of the drought on households’ food security has been compounded by prolonged conflicts and hikes in international prices of wheat and fuel caused by the war in Ukraine (2023)"
       }
     },
     "Air pollutants": {
@@ -456,12 +459,6 @@
     },
     "Administrative divisions": {
       "text": "18 regions (plural - gobollo, singular - gobol); Awdal, Bakool, Banaadir, Bari, Bay, Galguduud, Gedo, Hiiraan, Jubbada Dhexe (Middle Jubba), Jubbada Hoose (Lower Jubba), Mudug, Nugaal, Sanaag, Shabeellaha Dhexe (Middle Shabeelle), Shabeellaha Hoose (Lower Shabeelle), Sool, Togdheer, Woqooyi Galbeed"
-    },
-    "Independence": {
-      "text": "1 July 1960 (from a merger of British Somaliland, which became independent from the UK on 26 June 1960, and Italian Somaliland, which became independent from the Italian-administered UN trusteeship on 1 July 1960 to form the Somali Republic)"
-    },
-    "National holiday": {
-      "text": "Foundation of the Somali Republic, 1 July (1960); note - 26 June (1960) in Somaliland"
     },
     "Legal system": {
       "text": "mixed system of civil law, Islamic (sharia) law, and customary law (referred to as Xeer)"
@@ -582,9 +579,6 @@
       "text": "<p>Cosmopolitan Democratic Party<br>Green Party<br>Himilo Qaran Party<br>Ilays Party<br>Justice and Reconciliation Party<br>National Progressive Party<br>Peace and Unity Party<br>Qaransoor Party<br>Qiimo Qaran Party<br>Security and Justice Party<br>Social Justice Party<br>Somali Labour Party<br>Somali Republic Party<br>Somali Social Unity Party or SSUP<br>Union for Peace and Development Party or PDP<br>Wadajir Party</p>",
       "note": "<strong>note:</strong> in 2017 an independent electoral commission (the NIEC) was inaugurated with a mandate to oversee the process of registration of political parties in the country; as of 2021, the NIEC had registered a total of 110 parties"
     },
-    "International organization participation": {
-      "text": "ACP, AfDB, AFESD, AMF, AU, CAEU (candidate), EAC, FAO, G-77, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITSO, ITU, LAS, NAM, OIC, OPCW, OPCW (signatory), UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UPU, WFTU (NGOs), WHO, WIPO, WMO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador DAHIR Hassan Abdi (since 18 September 2024)"
@@ -616,11 +610,23 @@
         "text": "<br>SomaliaPublicAffairs@state.gov<br><br>https://so.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ACP, AfDB, AFESD, AMF, AU, CAEU (candidate), EAC, FAO, G-77, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITSO, ITU, LAS, NAM, OIC, OPCW, OPCW (signatory), UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UPU, WFTU (NGOs), WHO, WIPO, WMO"
+    },
+    "Independence": {
+      "text": "1 July 1960 (from a merger of British Somaliland, which became independent from the UK on 26 June 1960, and Italian Somaliland, which became independent from the Italian-administered UN trusteeship on 1 July 1960 to form the Somali Republic)"
+    },
+    "National holiday": {
+      "text": "Foundation of the Somali Republic, 1 July (1960); note - 26 June (1960) in Somaliland"
+    },
     "Flag description": {
       "text": "light blue with a large white five-pointed star in the center; the blue field was originally influenced by the UN flag but today is said to represent the sky and the Indian Ocean; the five points of the star represent the regions in the horn of Africa where Somali people live: the former British Somaliland and Italian Somaliland (which together make up Somalia), Djibouti, Ogaden (Ethiopia), and the Northeast Province (Kenya)"
     },
     "National symbol(s)": {
-      "text": "leopard; national colors: blue, white"
+      "text": "leopard"
+    },
+    "National colors": {
+      "text": "blue, white"
     },
     "National anthem": {
       "name": {
@@ -1026,7 +1032,7 @@
       "note": "<strong>note: </strong>tens of thousands of militia forces are also active in Somalia"
     },
     "Military equipment inventories and acquisitions": {
-      "text": "the SNA's inventory includes a variety of mostly older, secondhand equipment largely from Italy, Russia, South Africa, and the UK; in recent years, it has received limited quantities of more modern equipment as aid/donations from a variety of countries, including the US (2024)"
+      "text": "the SNA's inventory is a mix of older, secondhand, and donated equipment from a variety of suppliers, including Italy, Russia, South Africa, Turkey, the UK, and the US (2024)"
     },
     "Military service age and obligation": {
       "text": "18 is the legal minimum age for voluntary military service for men and women; conscription of men aged 18-40 and women aged 18-30 is authorized, but not currently utilized (2023)"

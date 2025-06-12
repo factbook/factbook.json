@@ -267,8 +267,13 @@
         "text": "total: 0% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "4.3% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "4.3% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "8.6% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "0.74 physicians/1,000 population (2020)"
@@ -330,21 +335,23 @@
     "Currently married women (ages 15-49)": {
       "text": "43.8% (2023 est.)"
     },
-    "Education expenditures": {
-      "text": "2.2% of GDP (2020 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "2% of GDP (2022 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "7.7% national budget (2022 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
-        "text": "97.5%"
+        "text": "98% (2023 est.)"
       },
       "male": {
-        "text": "99.9%"
+        "text": "99% (2023 est.)"
       },
       "female": {
-        "text": "94.9% (2018)"
+        "text": "96% (2023 est.)"
       }
     },
     "School life expectancy (primary to tertiary education)": {
@@ -484,12 +491,6 @@
       "text": "4 governorates (muhafazat, singular - muhafazah); Asimah (Capital), Janubiyah (Southern), Muharraq, Shamaliyah (Northern)",
       "note": "<strong>note:</strong> each governorate administered by an appointed governor"
     },
-    "Independence": {
-      "text": "15 August 1971 (from the UK)"
-    },
-    "National holiday": {
-      "text": "National Day, 16 December (1971); note - 15 August 1971 was the date of independence from the UK, 16 December 1971 was the date of independence from British protection"
-    },
     "Legal system": {
       "text": "mixed legal system of Islamic (sharia) law, English common law, Egyptian civil, criminal, and commercial codes; customary law"
     },
@@ -607,9 +608,6 @@
     "Political parties": {
       "text": "<p><strong>note:</strong>  political parties are prohibited, but political societies were legalized under a July 2005 law</p>"
     },
-    "International organization participation": {
-      "text": "ABEDA, AFESD, AMF, CAEU, CICA, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OAPEC, OIC, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Abdulla bin Rashed AL KHALIFA (since 21 July 2017)"
@@ -650,12 +648,24 @@
         "text": "<br>ManamaConsular@state.gov<br><br>https://bh.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ABEDA, AFESD, AMF, CAEU, CICA, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OAPEC, OIC, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "15 August 1971 (from the UK)"
+    },
+    "National holiday": {
+      "text": "National Day, 16 December (1971); note - 15 August 1971 was the date of independence from the UK, 16 December 1971 was the date of independence from British protection"
+    },
     "Flag description": {
       "text": "red, the traditional color for flags of Persian Gulf states, with a white serrated band of five white points on the hoist side; the five points represent the five pillars of Islam",
       "note": "<strong>note:</strong> until 2002, the flag had eight white points, but this was reduced to five to avoid confusion with the Qatari flag"
     },
     "National symbol(s)": {
-      "text": "a red field surmounted by a white serrated band with five white points; national colors: red, white"
+      "text": "a white serrated band with five white points on top of a red field"
+    },
+    "National colors": {
+      "text": "red, white"
     },
     "National anthem": {
       "name": {

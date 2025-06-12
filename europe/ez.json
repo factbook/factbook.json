@@ -273,8 +273,13 @@
         "text": "total: 0.1% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "9.5% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "9.5% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "16.7% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "4.35 physicians/1,000 population (2022)"
@@ -336,13 +341,15 @@
     "Currently married women (ages 15-49)": {
       "text": "48.4% (2023 est.)"
     },
-    "Education expenditures": {
-      "text": "5.1% of GDP (2020 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "4.7% of GDP (2022 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "11.1% national budget (2022 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "NA"
-      },
       "total population": {
         "text": "99%"
       },
@@ -500,12 +507,6 @@
     "Administrative divisions": {
       "text": "13 regions (kraje, singular - kraj) and 1 capital city* (hlavni mesto); Jihocesky (South Bohemia), Jihomoravsky (South Moravia), Karlovarsky (Karlovy Vary), Kralovehradecky (Hradec Kralove), Liberecky (Liberec), Moravskoslezsky (Moravia-Silesia), Olomoucky (Olomouc), Pardubicky (Pardubice), Plzensky (Pilsen), Praha (Prague)*, Stredocesky (Central Bohemia), Ustecky (Usti), Vysocina (Highlands), Zlinsky (Zlin)"
     },
-    "Independence": {
-      "text": "1 January 1993 (Czechoslovakia split into the Czech Republic and Slovakia); note - although 1 January is the day the Czech Republic came into being, the Czechs commemorate 28 October 1918, the day the former Czechoslovakia declared its independence from the Austro-Hungarian Empire, as their independence day"
-    },
-    "National holiday": {
-      "text": "Czechoslovak Founding Day, 28 October (1918)"
-    },
     "Legal system": {
       "text": "new civil code enacted in 2014, replacing civil code of 1964 based on former Austro-Hungarian civil codes and socialist theory&nbsp;"
     },
@@ -634,9 +635,6 @@
     "Political parties": {
       "text": "Action of Dissatisfied Citizens or ANO (<em lang=\"cs\">Akce nespokojených občanů)<br></em>Christian and Democratic Union - Czechoslovak People's Party or<em lang=\"cs\"> KDU-ČSL</em><br>Civic Democratic Party or ODS<br>Communist Party of Bohemia and Moravia or KSČM<br>Czech Pirate Party or Piráti<br>ForMOST or ProMOST<br>Freedom and Direct Democracy or SPD<br>Independents or NEZ<br>Mayors and Independents or STAN<br>Mayors for the Liberec Region or SLK<br>Ostravak<br>Přísaha<br>Senator 21 or SEN 21<br>Social Democracy SOCDEM<br>Svobodni<br>Tradition Responsibility Prosperity 09 or TOP 09<br>Tábor 2020 or T2020<br>United Democrats - Association of Independents or SD-SN"
     },
-    "International organization participation": {
-      "text": "Australia Group, BIS, BSEC (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Miloslav STA&Scaron;EK (since 16 September 2022)"
@@ -677,12 +675,25 @@
         "text": "<br>ACSPrg@state.gov<br><br>https://cz.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "Australia Group, BIS, BSEC (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Independence": {
+      "text": "1 January 1993 (Czechoslovakia split into the Czech Republic and Slovakia)",
+      "note": "<strong>note:</strong> although 1 January is the day the Czech Republic came into being, the Czechs commemorate 28 October 1918, the day the former Czechoslovakia declared its independence from the Austro-Hungarian Empire, as their independence day"
+    },
+    "National holiday": {
+      "text": "Czechoslovak Founding Day, 28 October (1918)"
+    },
     "Flag description": {
       "text": "two equal horizontal bands of white (top) and red with a blue isosceles triangle based on the hoist side",
       "note": "<strong>note:</strong> combines the white and red colors of Bohemia with blue from the arms of Moravia; identical to the flag of the former Czechoslovakia"
     },
     "National symbol(s)": {
-      "text": "silver (or white), double-tailed, rampant lion; national colors: white, red, blue"
+      "text": "silver (or white) double-tailed rampant lion"
+    },
+    "National colors": {
+      "text": "white, red, blue"
     },
     "National anthem": {
       "name": {

@@ -277,8 +277,13 @@
         "text": "total: 26.7% of population (2020 est.)"
       }
     },
-    "Current health expenditure": {
-      "text": "9.1% of GDP (2021)"
+    "Health expenditure": {
+      "Health expenditure (as % of GDP)": {
+        "text": "9.1% of GDP (2021)"
+      },
+      "Health expenditure (as % of national budget)": {
+        "text": "8% of national budget (2022 est.)"
+      }
     },
     "Physician density": {
       "text": "0.18 physicians/1,000 population (2022)"
@@ -354,21 +359,23 @@
         "text": "9.7% (2015)"
       }
     },
-    "Education expenditures": {
-      "text": "6.3% of GDP (2020 est.)"
+    "Education expenditure": {
+      "Education expenditure (% GDP)": {
+        "text": "6% of GDP (2022 est.)"
+      },
+      "Education expenditure (% national budget)": {
+        "text": "18.8% national budget (2021 est.)"
+      }
     },
     "Literacy": {
-      "definition": {
-        "text": "age 15 and over can read and write"
-      },
       "total population": {
-        "text": "63.4%"
+        "text": "60% (2020 est.)"
       },
       "male": {
-        "text": "74.1%"
+        "text": "72% (2020 est.)"
       },
       "female": {
-        "text": "53.8% (2021)"
+        "text": "49% (2020 est.)"
       }
     },
     "School life expectancy (primary to tertiary education)": {
@@ -424,11 +431,6 @@
       },
       "rate of urbanization": {
         "text": "4.24% annual rate of change (2020-25 est.)"
-      }
-    },
-    "Food insecurity": {
-      "severe localized food insecurity": {
-        "text": "<p><em>due to shortfall in insecurity in northern areas and extreme weather events - </em>food insecurity estimates for 2023 are not yet available, but the landing of cyclone Freddy in February 2023 is expected to have caused disruptions to livelihoods and resulted in crop damage, aggravating food insecurity of the affected population</p> (2023)"
       }
     },
     "Air pollutants": {
@@ -519,12 +521,6 @@
     },
     "Administrative divisions": {
       "text": "10 provinces (provincias, singular - provincia), 1 city (cidade)*; Cabo Delgado, Gaza, Inhambane, Manica, Maputo, Cidade de Maputo*, Nampula, Niassa, Sofala, Tete, Zambezia"
-    },
-    "Independence": {
-      "text": "25 June 1975 (from Portugal)"
-    },
-    "National holiday": {
-      "text": "Independence Day, 25 June (1975)"
     },
     "Legal system": {
       "text": "mixed system of Portuguese civil law and customary law"
@@ -620,9 +616,6 @@
     "Political parties": {
       "text": "Democratic Movement of Mozambique (Movimento Democratico de Mocambique) or MDM<br>Liberation Front of Mozambique (Frente de Liberatacao de Mocambique) or FRELIMO<br>Mozambican National Resistance (Resistencia Nacional Mocambicana) or RENAMO"
     },
-    "International organization participation": {
-      "text": "ACP, AfDB, AU, C, CD, CPLP, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OIF (observer), OPCW, SADC, UN, UNCTAD, UNDP, UNEP,&nbsp; UNESCO, UNHCR, UNIDO, UNWTO, Union Latina, UPU, WCO, WFP, WFTU (NGOs), WHO, WIPO, WMO, WTO"
-    },
     "Diplomatic representation in the US": {
       "chief of mission": {
         "text": "Ambassador Alfredo Fabi&atilde;o NUVUNGA (since 19 April 2023)"
@@ -657,12 +650,24 @@
         "text": "<br>MaputaConsular@state.gov<br><br>https://mz.usembassy.gov/"
       }
     },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, C, CD, CPLP, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OIF (observer), OPCW, SADC, UN, UNCTAD, UNDP, UNEP,&nbsp; UNESCO, UNHCR, UNIDO, UNWTO, Union Latina, UPU, WCO, WFP, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Independence": {
+      "text": "25 June 1975 (from Portugal)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 25 June (1975)"
+    },
     "Flag description": {
       "text": "three equal horizontal bands of green (top), black, and yellow, with a red isosceles triangle based on the hoist side; the black band is edged in white; centered in the triangle is a yellow five-pointed star with a crossed rifle and hoe in black superimposed on an open white book; green stands for the riches of the land, white for peace, black for the African continent, yellow for the country's minerals, and red for the fight for independence; the rifle symbolizes defense and vigilance, the hoe refers to the country's agriculture, the open book stresses the importance of education, and the star represents Marxism and internationalism",
       "note": "<strong>note:</strong> one of two national flags featuring a firearm; the other is Guatemala"
     },
     "National symbol(s)": {
-      "text": "national symbols: rifle, hoe, and book; national colors: green, black, yellow, white, red"
+      "text": "rifle, hoe, and book"
+    },
+    "National colors": {
+      "text": "green, black, yellow, white, red"
     },
     "National anthem": {
       "name": {
@@ -1152,6 +1157,9 @@
       "note": "<strong>note 1: </strong>the FADM and other security forces are referred to collectively as the Mozambican Defense and Security Forces (FDS)<br><strong><br>note 2:</strong> the PRM, SERNIC, and the UIR are responsible for law enforcement and internal security; the Border Security Force is responsible for protecting the country’s international borders and for carrying out police duties within 24 miles of borders<br><br><strong>note 3:</strong> in 2023, the Mozambique Government legalized local militias that have been assisting security forces operating in Cabo Delgado against Islamic militants since 2020; this Local Force is comprised of ex-combatants and other civilians and receives training, uniforms, weapons, and logistical support from the FADM"
     },
     "Military expenditures": {
+      "Military Expenditures 2024": {
+        "text": "2% of GDP (2024 est.)"
+      },
       "Military Expenditures 2023": {
         "text": "1.5% of GDP (2023 est.)"
       },
@@ -1163,9 +1171,6 @@
       },
       "Military Expenditures 2020": {
         "text": "1.1% of GDP (2020 est.)"
-      },
-      "Military Expenditures 2019": {
-        "text": "1.2% of GDP (2019 est.)"
       }
     },
     "Military and security service personnel strengths": {
