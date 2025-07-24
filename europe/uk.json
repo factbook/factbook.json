@@ -353,17 +353,6 @@
         "text": "10.6% national budget (2022 est.)"
       }
     },
-    "Literacy": {
-      "total population": {
-        "text": "NA"
-      },
-      "male": {
-        "text": "NA"
-      },
-      "female": {
-        "text": "NA"
-      }
-    },
     "School life expectancy (primary to tertiary education)": {
       "total": {
         "text": "17 years"
@@ -377,10 +366,10 @@
     }
   },
   "Environment": {
-    "Environment - current issues": {
+    "Environmental issues": {
       "text": "air pollution in the London region; soil pollution from pesticides and heavy metals; decline in marine and coastal habitats from housing, tourism, and industry"
     },
-    "Environment - international agreements": {
+    "International environmental agreements": {
       "party to": {
         "text": "Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling"
       },
@@ -682,13 +671,16 @@
       "text": "red, white, blue (all of Britain); red, white (England); blue, white (Scotland); red, white, green (Wales)"
     },
     "National anthem": {
-      "name": {
+      "title": {
         "text": "\"God Save the King\""
       },
       "lyrics/music": {
         "text": "unknown"
       },
-      "note": "<strong>note:</strong> in use since 1745; by tradition, the song serves as both the national and royal anthem of the UK; it is known as either \"God Save the Queen\" or \"God Save the King,\" depending on the gender of the reigning monarch; it also serves as the royal anthem of many Commonwealth nations"
+      "history": {
+        "text": "in use since 1745; by tradition, the song serves as both the national and royal anthem; it is known as either \"God Save the Queen\" or \"God Save the King,\" depending on the gender of the reigning monarch; it also serves as the royal anthem for many Commonwealth nations"
+      },
+      "note": "<strong>note:</strong> in use since 1745; by tradition, the song serves as both the national and royal anthem; it is known as either \"God Save the Queen\" or \"God Save the King,\" depending on the gender of the reigning monarch; it also serves as the royal anthem for many Commonwealth nations"
     },
     "National heritage": {
       "total World Heritage Sites": {
@@ -1259,7 +1251,9 @@
       }
     },
     "Illicit drugs": {
-      "text": "<p>a major consumer and transshipment point, though not a source, for illicit drugs; among the highest consumer of heroin and cocaine in Europe; one of the largest markets for cannabis; a major source of precursor or essential chemicals used in the production of illicit narcotics</p>"
+      "USG identification": {
+        "text": "<br>major precursor-chemical producer (2025)"
+      }
     }
   }
 }

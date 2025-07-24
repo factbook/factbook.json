@@ -361,13 +361,13 @@
     },
     "Literacy": {
       "total population": {
-        "text": "90.9% (2015 est.) NA"
+        "text": "90.9% (2015 est.)"
       },
       "male": {
-        "text": "90.2% (2015 est.) NA"
+        "text": "90.2% (2015 est.)"
       },
       "female": {
-        "text": "91.6% (2015 est.) NA"
+        "text": "91.6% (2015 est.)"
       }
     },
     "School life expectancy (primary to tertiary education)": {
@@ -383,10 +383,10 @@
     }
   },
   "Environment": {
-    "Environment - current issues": {
+    "Environmental issues": {
       "text": "deforestation; water pollution from sewage, industrial effluents, agricultural runoff; inability to properly dispose of solid waste"
     },
-    "Environment - international agreements": {
+    "International environmental agreements": {
       "party to": {
         "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
       },
@@ -671,13 +671,16 @@
       "text": "red, blue"
     },
     "National anthem": {
-      "name": {
-        "text": "Land of the Free"
+      "title": {
+        "text": "\"God Save the King\""
       },
       "lyrics/music": {
-        "text": "Samuel Alfred HAYNES/Selwyn Walford YOUNG"
+        "text": "unknown"
       },
-      "note": "<strong>note:</strong> adopted 1981; as a Commonwealth country, in addition to the national anthem, \"God Save the King\" serves as the royal anthem (see United Kingdom)"
+      "history": {
+        "text": "royal anthem, as a Commonwealth country"
+      },
+      "note": "<strong>note:</strong> adopted 1981; in addition to the national anthem, \"God Save the King\" serves as the royal anthem for the Commonwealth country (see United Kingdom)"
     },
     "National heritage": {
       "total World Heritage Sites": {
@@ -1130,7 +1133,9 @@
   },
   "Transnational Issues": {
     "Illicit drugs": {
-      "text": "<p>a significant drug trafficking and transit point between countries in South America and the United States; primary domestic use of narcotics is marijuana and some crack cocaine; a major source of precursor or essential chemicals used in the production of illicit narcotics</p>"
+      "USG identification": {
+        "text": "<br>major illicit drug-producing and/or drug-transit country (2025)"
+      }
     }
   }
 }

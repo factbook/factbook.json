@@ -354,13 +354,13 @@
     },
     "Literacy": {
       "total population": {
-        "text": "98.8% NA"
+        "text": "NA"
       },
       "male": {
-        "text": "99.2% NA"
+        "text": "NA"
       },
       "female": {
-        "text": "98.4% NA"
+        "text": "NA"
       }
     },
     "School life expectancy (primary to tertiary education)": {
@@ -376,10 +376,10 @@
     }
   },
   "Environment": {
-    "Environment - current issues": {
+    "Environmental issues": {
       "text": "air pollution in large cities; acid rain; water pollution from sewage and industrial effluents; drift-net fishing; solid waste disposal; transboundary air pollution from China"
     },
-    "Environment - international agreements": {
+    "International environmental agreements": {
       "party to": {
         "text": "Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling"
       },
@@ -668,13 +668,16 @@
       "text": "red, white, blue, black"
     },
     "National anthem": {
-      "name": {
+      "title": {
         "text": "\"Aegukga\" (Patriotic Song)"
       },
       "lyrics/music": {
         "text": "YUN Ch'i-Ho or AN Ch'ang-Ho/AHN Eaktay"
       },
-      "note": "<strong>note:</strong> adopted 1948, well-known by 1910; both North Korea's and South Korea's anthems share the same name and have a vaguely similar melody but have different lyrics"
+      "history": {
+        "text": "adopted 1948, well-known by 1910; North Korea's and South Korea's anthems have the same name and a similar melody, but different lyrics"
+      },
+      "note": "<strong>note:</strong> adopted 1948, well-known by 1910; North Korea's and South Korea's anthems have the same name and a similar melody, but different lyrics"
     },
     "National heritage": {
       "total World Heritage Sites": {
@@ -1219,7 +1222,9 @@
       }
     },
     "Illicit drugs": {
-      "text": "<p>precursor chemicals used for illicit drugs, such as acetic anhydride, pseudoephedrine, and ephedrine, imported from the United States, Japan, India, and China and then either resold within South Korea or smuggled into other countries</p> <p> </p>"
+      "USG identification": {
+        "text": "<br>major precursor-chemical producer (2025)"
+      }
     }
   }
 }

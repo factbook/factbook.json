@@ -384,10 +384,10 @@
     }
   },
   "Environment": {
-    "Environment - current issues": {
+    "Environmental issues": {
       "text": "deforestation from agricultural clearing and international demand for timber; soil erosion from overgrazing and poor cultivation methods (including slash-and-burn agriculture); desertification; loss of biodiversity; industrial pollution of water supplies used for drinking and irrigation"
     },
-    "Environment - international agreements": {
+    "International environmental agreements": {
       "party to": {
         "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands,"
       },
@@ -702,11 +702,14 @@
       "text": "red, yellow, green"
     },
     "National anthem": {
-      "name": {
+      "title": {
         "text": "\"Cancion Patriotica\" (Patriotic Song)"
       },
       "lyrics/music": {
         "text": "Jose Ignacio de SANJINES/Leopoldo Benedetto VINCENTI"
+      },
+      "history": {
+        "text": "adopted 1852"
       },
       "note": "<strong>note:</strong> adopted 1852"
     },
@@ -1206,7 +1209,9 @@
       }
     },
     "Illicit drugs": {
-      "text": "<p>the third-largest source country of cocaine and a major transit country for Peruvian cocaine; coca cultivation in 2021 totaled 39,700 hectares (ha); most  cocaine is exported to other Latin American countries, especially Brazil, Paraguay, and Argentina, for domestic consumption, or for onward transit from those countries to West Africa and Europe, not the United States.</p> <p> </p>"
+      "USG identification": {
+        "text": "<br>major illicit drug-producing and/or drug-transit country<br><br>major precursor-chemical producer (2025)"
+      }
     }
   }
 }

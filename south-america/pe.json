@@ -399,10 +399,10 @@
     }
   },
   "Environment": {
-    "Environment - current issues": {
+    "Environmental issues": {
       "text": "deforestation (some the result of illegal logging); overgrazing leading to soil erosion; desertification; air pollution in Lima; pollution of rivers and coastal waters from municipal and mining wastes; overfishing"
     },
-    "Environment - international agreements": {
+    "International environmental agreements": {
       "party to": {
         "text": "Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling"
       },
@@ -684,11 +684,14 @@
       "text": "red, white"
     },
     "National anthem": {
-      "name": {
+      "title": {
         "text": "\"Himno Nacional del Peru\" (National Anthem of Peru)"
       },
       "lyrics/music": {
         "text": "Jose DE LA TORRE Ugarte/Jose Bernardo ALZEDO"
+      },
+      "history": {
+        "text": "adopted 1822; the song won a national anthem contest"
       },
       "note": "<strong>note:</strong> adopted 1822; the song won a national anthem contest"
     },
@@ -1239,7 +1242,9 @@
       }
     },
     "Illicit drugs": {
-      "text": "<p>world’s second-largest producer of cocaine and coca (after Colombia), with approximately 84,400 hectares (ha) under cultivation in 2021;  Peruvian cocaine is trafficked throughout South America for shipment to Europe, East Asia, Mexico, and the United States;  major importer of precursor chemicals for cocaine production; growing domestic drug consumption problem; a major source of precursor or essential chemicals used in the production of illicit narcotics</p>"
+      "USG identification": {
+        "text": "<br>major illicit drug-producing and/or drug-transit country<br><br>major precursor-chemical producer (2025)"
+      }
     }
   }
 }

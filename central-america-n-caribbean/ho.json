@@ -396,10 +396,10 @@
     }
   },
   "Environment": {
-    "Environment - current issues": {
+    "Environmental issues": {
       "text": "deforestation from logging and agricultural clearing; land degradation and soil erosion from overdevelopment and improper land use practices; mining activities polluting Lago de Yojoa (the country's largest source of fresh water) and other rivers and streams"
     },
-    "Environment - international agreements": {
+    "International environmental agreements": {
       "party to": {
         "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands"
       },
@@ -670,11 +670,14 @@
       "text": "blue, white"
     },
     "National anthem": {
-      "name": {
+      "title": {
         "text": "\"Himno Nacional de Honduras\" (National Anthem of Honduras)"
       },
       "lyrics/music": {
         "text": "Augusto Constancio COELLO/Carlos HARTLING"
+      },
+      "history": {
+        "text": "adopted 1915; the anthem's seven verses chronicle Honduran history; on official occasions, only the chorus and last verse are sung"
       },
       "note": "<strong>note:</strong> adopted 1915; the anthem's seven verses chronicle Honduran history; on official occasions, only the chorus and last verse are sung"
     },
@@ -1176,7 +1179,9 @@
       }
     },
     "Illicit drugs": {
-      "text": "<br><br> <p>transshipment point for cocaine destined for the United States and precursor chemicals used to produce illicit drugs; some small-scale coca cultivation</p> <p> </p>"
+      "USG identification": {
+        "text": "<br>major illicit drug-producing and/or drug-transit country<br><br>major precursor-chemical producer (2025)"
+      }
     }
   }
 }

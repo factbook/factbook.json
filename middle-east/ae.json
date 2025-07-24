@@ -222,7 +222,7 @@
       }
     },
     "Maternal mortality ratio": {
-      "text": "9 deaths/100,000 live births (2020 est.)"
+      "text": "3 deaths/100,000 live births (2023 est.)"
     },
     "Infant mortality rate": {
       "total": {
@@ -372,10 +372,10 @@
     }
   },
   "Environment": {
-    "Environment - current issues": {
+    "Environmental issues": {
       "text": "air pollution; water scarcity; lack of natural freshwater resources; land degradation and desertification; waste generation, beach pollution from oil spills"
     },
-    "Environment - international agreements": {
+    "International environmental agreements": {
       "party to": {
         "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Marine Dumping-London Convention, Ozone Layer Protection, Ship Pollution, Wetlands"
       },
@@ -656,13 +656,16 @@
       "text": "green, white, black, red"
     },
     "National anthem": {
-      "name": {
+      "title": {
         "text": "\"Nashid al-watani al-imarati\" (National Anthem of the UAE)"
       },
       "lyrics/music": {
         "text": "AREF Al Sheikh Abdullah Al Hassan/Mohamad Abdel WAHAB"
       },
-      "note": "<strong>note:</strong> music adopted 1971, lyrics adopted 1996; Mohamad Abdel WAHAB also composed the music for the anthem of Tunisia"
+      "history": {
+        "text": "music adopted 1971, lyrics adopted 1996; Mohamad Abdel WAHAB also composed the music for Tunisia's anthem"
+      },
+      "note": "<strong>note:</strong> music adopted 1971, lyrics adopted 1996; Mohamad Abdel WAHAB also composed the music for Tunisia's anthem"
     },
     "National heritage": {
       "total World Heritage Sites": {
@@ -1163,7 +1166,9 @@
       }
     },
     "Illicit drugs": {
-      "text": "major source of precursor chemicals used in the production of illicit narcotics"
+      "USG identification": {
+        "text": "<br>major precursor-chemical producer (2025)"
+      }
     }
   }
 }

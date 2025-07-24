@@ -344,24 +344,13 @@
       "Education expenditure (% national budget)": {
         "text": "17.7% national budget (2023 est.)"
       }
-    },
-    "Literacy": {
-      "total population": {
-        "text": "82.6%"
-      },
-      "male": {
-        "text": "82.4%"
-      },
-      "female": {
-        "text": "82.8% (2015)"
-      }
     }
   },
   "Environment": {
-    "Environment - current issues": {
+    "Environmental issues": {
       "text": "deforestation; soil erosion; water pollution; drought"
     },
-    "Environment - international agreements": {
+    "International environmental agreements": {
       "party to": {
         "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
       },
@@ -638,13 +627,16 @@
       "text": "blue, white"
     },
     "National anthem": {
-      "name": {
+      "title": {
         "text": "\"Salve a ti, Nicaragua\" (Hail to Thee, Nicaragua)"
       },
       "lyrics/music": {
         "text": "Salomon Ibarra MAYORGA/traditional, arranged by Luis Abraham DELGADILLO"
       },
-      "note": "<strong>note:</strong> although only officially adopted in 1971, the music was approved in 1918 and the lyrics in 1939; the tune, originally from Spain, was used as an anthem for Nicaragua from the 1830s until 1876"
+      "history": {
+        "text": "adopted in 1971, but the music was approved in 1918 and the lyrics in 1939; the tune was originally from Spain and was used as an anthem without lyrics from the 1830s until 1876"
+      },
+      "note": "<strong>note:</strong> adopted in 1971, but the music was approved in 1918 and the lyrics in 1939; the tune was originally from Spain and was used as an anthem without lyrics from the 1830s until 1876"
     },
     "National heritage": {
       "total World Heritage Sites": {
@@ -1078,7 +1070,7 @@
   },
   "Military and Security": {
     "Military and security forces": {
-      "text": "Armed Forces of Nicaragua (formal name is Army of Nicaragua or Ejercito de Nicaragua, EN): Land Force (Fuerza Terrestre); Naval Force (Fuerza Naval); Air Force (Fuerza Aérea) (2025)",
+      "text": "Armed Forces of Nicaragua (formal name is Army of Nicaragua or Ejercito de Nicaragua, EN): Land Force; Naval Force; Air Force (2025)",
       "note": "<strong>note:</strong> both the military and the Nicaraguan National Police (Policía Nacional de Nicaragua or PNN) report directly to the president; Parapolice, which are non-uniformed, armed, and masked units with marginal tactical training and loose hierarchical organization, act in coordination with government security forces and report to the National Police; they have been used to suppress anti-government protesters"
     },
     "Military expenditures": {
@@ -1109,7 +1101,7 @@
       "text": "18-30 years of age for voluntary military service; no conscription; tour of duty 18-36 months (2024)"
     },
     "Military - note": {
-      "text": "the military is responsible for defending Nicaragua’s independence, sovereignty, and territory, but also has some domestic security responsibilities; key tasks include border security, assisting the police, protecting natural resources, and providing disaster relief and humanitarian assistance; it has ties with the militaries of Cuba, Venezuela, and Russia; Russia has provided training support and equipment <br><br>the modern Army of Nicaragua was created in 1979 as the Sandinista Popular Army (1979-1984); prior to 1979, the military was known as the National Guard, which was organized and trained by the US in the 1920s and 1930s; the first commander of the National Guard, Anastasio SOMOZA GARCIA, seized power in 1937 and ran the country as a military dictator until his assassination in 1956; his sons ran the country either directly or through figureheads until the Sandinistas came to power in 1979; the defeated National Guard was disbanded by the Sandinistas (2024)"
+      "text": "the military is responsible for defending Nicaragua’s independence, sovereignty, and territory; it also has some domestic security responsibilities, including border security, assisting the police, protecting natural resources, and providing disaster relief and humanitarian assistance; Nicaragua has defense ties with Cuba, Venezuela, and Russia; Russia has provided training support and equipment; in 2025, Nicaragua signed an agreement of “mutual protection” with Russia<br><br>the modern Army of Nicaragua was created in 1979 as the Sandinista Popular Army (1979-1984); prior to 1979, the military was known as the National Guard, which was organized and trained by the US in the 1920s and 1930s; the first commander of the National Guard, Anastasio SOMOZA GARCIA, seized power in 1937 and ran the country as a military dictator until his assassination in 1956; his sons ran the country either directly or through figureheads until the Sandinistas came to power in 1979; the defeated National Guard was disbanded by the Sandinistas (2025)"
     }
   },
   "Space": {
@@ -1128,7 +1120,9 @@
       }
     },
     "Illicit drugs": {
-      "text": "<br> <p>transit route for illicit drugs originating from South America destined for the United States</p> <p> </p>"
+      "USG identification": {
+        "text": "<br>major illicit drug-producing and/or drug-transit country (2025)"
+      }
     }
   }
 }

@@ -394,10 +394,10 @@
     }
   },
   "Environment": {
-    "Environment - current issues": {
+    "Environmental issues": {
       "text": "deforestation in Amazon Basin; illegal wildlife trade; illegal poaching; air and water pollution in Rio de Janeiro, Sao Paulo, and other large cities; land degradation and water pollution from mining; wetland degradation; oil spills"
     },
-    "Environment - international agreements": {
+    "International environmental agreements": {
       "party to": {
         "text": "Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling"
       },
@@ -724,13 +724,16 @@
       "text": "green, yellow, blue"
     },
     "National anthem": {
-      "name": {
+      "title": {
         "text": "\"Hino Nacional Brasileiro\" (Brazilian National Anthem)"
       },
       "lyrics/music": {
         "text": "Joaquim Osorio Duque ESTRADA/Francisco Manoel DA SILVA"
       },
-      "note": "<strong>note:</strong> music adopted 1890, lyrics adopted 1922; the anthem's music, composed in 1822, was used unofficially for many years before it was adopted"
+      "history": {
+        "text": "music adopted 1890, lyrics adopted 1922; the anthem's music, composed in 1822, was used unofficially for many years"
+      },
+      "note": "<strong>note:</strong> music adopted 1890, lyrics adopted 1922; the anthem's music, composed in 1822, was used unofficially for many years "
     },
     "National heritage": {
       "total World Heritage Sites": {
@@ -1309,7 +1312,9 @@
       }
     },
     "Illicit drugs": {
-      "text": "<p>a significant drug transit and destination country for cocaine bound for Europe and other destinations including the United States; domestic drug use and addiction is a significant problem and it is second only to the United States in cocaine consumption; a major source of precursor or essential chemicals used in the production of illicit narcotics</p>"
+      "USG identification": {
+        "text": "<br>major precursor-chemical producer (2025)"
+      }
     }
   }
 }

@@ -395,10 +395,10 @@
     }
   },
   "Environment": {
-    "Environment - current issues": {
+    "Environmental issues": {
       "text": "soil eroding into the sea damages coral reefs; deforestation"
     },
-    "Environment - international agreements": {
+    "International environmental agreements": {
       "party to": {
         "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
       },
@@ -706,13 +706,16 @@
       "text": "red, white, blue"
     },
     "National anthem": {
-      "name": {
+      "title": {
         "text": "\"Himno Nacional\" (National Anthem)"
       },
       "lyrics/music": {
         "text": "Emilio PRUD'HOMME/Jose REYES"
       },
-      "note": "<strong>note:</strong> adopted 1934; also known as \"Quisqueyanos valientes\" (Valient Sons of Quisqueye); the anthem never refers to the people as Dominican but rather calls them \"Quisqueyanos,\" a reference to the indigenous name of the island"
+      "history": {
+        "text": "adopted 1934; also known as \"Quisqueyanos valientes\" (Valiant Sons of Quisqueye); the anthem refers to the Dominican people as \"Quisqueyanos,\" which comes from the ethnic name for the island"
+      },
+      "note": "<strong>note:</strong> adopted 1934; also known as \"Quisqueyanos valientes\" (Valiant Sons of Quisqueye); the anthem refers to the Dominican people as \"Quisqueyanos,\" which comes from the ethnic name for the island"
     },
     "National heritage": {
       "total World Heritage Sites": {
@@ -1227,7 +1230,9 @@
       }
     },
     "Illicit drugs": {
-      "text": "<p>major transshipment point for cocaine shipments to the United States and Europe in the Caribbean; some drugs are consumed locally.</p> <p> </p> <p> </p>"
+      "USG identification": {
+        "text": "<br>major illicit drug-producing and/or drug-transit country (2025)"
+      }
     }
   }
 }

@@ -225,7 +225,7 @@
       "note": "<strong>note:</strong> data represents median age at first birth among women 25-49"
     },
     "Maternal mortality ratio": {
-      "text": "350 deaths/100,000 live births (2020 est.)"
+      "text": "328 deaths/100,000 live births (2023 est.)"
     },
     "Infant mortality rate": {
       "total": {
@@ -381,10 +381,10 @@
     }
   },
   "Environment": {
-    "Environment - current issues": {
+    "Environmental issues": {
       "text": "deforestation (trees cleared for agriculture and used as fuel); soil erosion; inadequate potable water and lack of sanitation; natural disasters"
     },
-    "Environment - international agreements": {
+    "International environmental agreements": {
       "party to": {
         "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Life Conservation, Ozone Layer Protection"
       },
@@ -689,13 +689,16 @@
       "text": "blue, red"
     },
     "National anthem": {
-      "name": {
+      "title": {
         "text": "\"La Dessalinienne\" (The Dessalines Song)"
       },
       "lyrics/music": {
         "text": "Justin LHERISSON/Nicolas GEFFRARD"
       },
-      "note": "<strong>note:</strong> adopted 1904; named for Jean-Jacques DESSALINES, a leader in the Haitian Revolution and first ruler of an independent Haiti"
+      "history": {
+        "text": "adopted 1904; named for Jean-Jacques DESSALINES, a leader in the Haitian Revolution and first ruler of independent Haiti"
+      },
+      "note": "<strong>note:</strong> adopted 1904; named for Jean-Jacques DESSALINES, a leader in the Haitian Revolution and first ruler of independent Haiti"
     },
     "National heritage": {
       "total World Heritage Sites": {
@@ -1134,7 +1137,9 @@
       }
     },
     "Illicit drugs": {
-      "text": "<p>a transit point for cocaine from South America and marijuana from Jamaica en route to the United States; not a producer or large consumer of illicit drugs; some cultivation of cannabis for local consumption</p>"
+      "USG identification": {
+        "text": "<br>major illicit drug-producing and/or drug-transit country (2025)"
+      }
     }
   }
 }

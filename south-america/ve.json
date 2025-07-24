@@ -362,10 +362,10 @@
     }
   },
   "Environment": {
-    "Environment - current issues": {
+    "Environmental issues": {
       "text": "sewage pollution of Lago de Valencia; oil and urban pollution of Lago de Maracaibo; deforestation; soil degradation; urban and industrial pollution, especially along the Caribbean coast; threat to the rainforest ecosystem from mining operations"
     },
-    "Environment - international agreements": {
+    "International environmental agreements": {
       "party to": {
         "text": "Antarctic-Environmental Protection, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands"
       },
@@ -615,13 +615,16 @@
       "text": "yellow, blue, red"
     },
     "National anthem": {
-      "name": {
+      "title": {
         "text": "\"Gloria al bravo pueblo\" (Glory to the Brave People)"
       },
       "lyrics/music": {
         "text": "Vicente SALIAS/Juan Jose LANDAETA"
       },
-      "note": "<strong>note:</strong> adopted 1881; lyrics written in 1810, the music some years later; both SALIAS and LANDAETA were executed in 1814 during Venezuela's struggle for independence"
+      "history": {
+        "text": "adopted 1881; lyrics were written in 1810; both SALIAS and LANDAETA were executed in 1814 during Venezuela's fight for independence"
+      },
+      "note": "<strong>note:</strong> adopted 1881; lyrics were written in 1810; both SALIAS and LANDAETA were executed in 1814 during Venezuela's fight for independence"
     },
     "National heritage": {
       "total World Heritage Sites": {
@@ -1106,7 +1109,9 @@
       }
     },
     "Illicit drugs": {
-      "text": "<p>a major drug-transit country and trafficking route in the Western Hemisphere for illegal drugs mainly cocaine;  government depends on rents from narco-trafficking, along with other illicit activities, to maintain power;  evidence of coca cultivation and cocaine production in domestic drug laboratories suggests the country is now also an illicit drug-producing country;  a major source of precursor or essential chemicals used in the production of illicit narcotics</p> <p> </p>"
+      "USG identification": {
+        "text": "<br>major illicit drug-producing and/or drug-transit country<br><br>major precursor-chemical producer (2025)"
+      }
     }
   }
 }

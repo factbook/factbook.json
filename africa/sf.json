@@ -397,10 +397,10 @@
     }
   },
   "Environment": {
-    "Environment - current issues": {
+    "Environmental issues": {
       "text": "limited freshwater resources due to lack of major rivers or lakes; pollution of rivers from agricultural runoff and urban waste; air pollution resulting in acid rain; deforestation; soil erosion; land degradation; desertification; solid waste pollution; significant floral extinctions"
     },
-    "Environment - international agreements": {
+    "International environmental agreements": {
       "party to": {
         "text": "Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
       },
@@ -704,13 +704,16 @@
       "text": "red, green, blue, yellow, black, white"
     },
     "National anthem": {
-      "name": {
+      "title": {
         "text": "\"National Anthem of South Africa\""
       },
       "lyrics/music": {
         "text": "Enoch SONTONGA and Cornelius Jacob LANGENHOVEN/Enoch SONTONGA and Marthinus LOURENS de Villiers"
       },
-      "note": "<strong>note:</strong> adopted 1994; a combination of \"N'kosi Sikelel' iAfrica\" (God Bless Africa) and \"Die Stem van Suid Afrika\" (The Call of South Africa), which were respectively the anthems of the non-white and white communities under apartheid; official lyrics contain a mixture of Xhosa, Zulu, Sesotho, Afrikaans, and English (i.e., the five most widely spoken of South Africa's 11 official languages); music incorporates the melody used in the Tanzanian and Zambian anthems"
+      "history": {
+        "text": "adopted 1994; a combination of \"N'kosi Sikelel' iAfrica\" (God Bless Africa) and \"Die Stem van Suid Afrika\" (The Call of South Africa), which were respectively the anthems of the non-white and white communities under apartheid; official lyrics contain a mixture of Xhosa, Zulu, Sesotho, Afrikaans, and English (the five most widely spoken of South Africa's 11 official languages); music incorporates the melody used in the Tanzanian and Zambian anthems"
+      },
+      "note": "<strong>note:</strong> adopted 1994; a combination of \"N'kosi Sikelel' iAfrica\" (God Bless Africa) and \"Die Stem van Suid Afrika\" (The Call of South Africa), which were respectively the anthems of the non-white and white communities under apartheid; official lyrics contain a mixture of Xhosa, Zulu, Sesotho, Afrikaans, and English (the five most widely spoken of South Africa's 11 official languages); music incorporates the melody used in the Tanzanian and Zambian anthems"
     },
     "National heritage": {
       "total World Heritage Sites": {
@@ -1273,7 +1276,9 @@
       }
     },
     "Illicit drugs": {
-      "text": "<p>leading regional importer of chemicals used in the production of illicit drugs especially synthetic drugs;</p>"
+      "USG identification": {
+        "text": "<br>major precursor-chemical producer (2025)"
+      }
     }
   }
 }

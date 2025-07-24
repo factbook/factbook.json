@@ -394,10 +394,10 @@
     }
   },
   "Environment": {
-    "Environment - current issues": {
+    "Environmental issues": {
       "text": "deforestation in the Peten rainforest; soil erosion; water pollution"
     },
-    "Environment - international agreements": {
+    "International environmental agreements": {
       "party to": {
         "text": "Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands"
       },
@@ -670,11 +670,14 @@
       "text": "blue, white"
     },
     "National anthem": {
-      "name": {
+      "title": {
         "text": "\"Himno Nacional de Guatemala\" (National Anthem of Guatemala)"
       },
       "lyrics/music": {
         "text": "Jose Joaquin PALMA/Rafael Alvarez OVALLE"
+      },
+      "history": {
+        "text": "adopted 1897, modified lyrics adopted 1934; Cuban poet Jose Joaquin PALMA anonymously submitted lyrics to a public contest calling for a national anthem; his authorship was not discovered until 1911"
       },
       "note": "<strong>note:</strong> adopted 1897, modified lyrics adopted 1934; Cuban poet Jose Joaquin PALMA anonymously submitted lyrics to a public contest calling for a national anthem; his authorship was not discovered until 1911"
     },
@@ -1196,7 +1199,9 @@
       }
     },
     "Illicit drugs": {
-      "text": "<p>a major transit country for illegal drugs; illicit cultivation of opium poppies, marijuana, and coca plants in rural areas; a major source of precursor or essential chemicals used in the production of illicit narcotics</p> <p> </p>"
+      "USG identification": {
+        "text": "<br>major illicit drug-producing and/or drug-transit country<br><br>major precursor-chemical producer (2025)"
+      }
     }
   }
 }

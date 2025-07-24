@@ -383,10 +383,10 @@
     }
   },
   "Environment": {
-    "Environment - current issues": {
+    "Environmental issues": {
       "text": "unexploded ordnance; deforestation; soil erosion; loss of biodiversity; water pollution; limited access to potable water"
     },
-    "Environment - international agreements": {
+    "International environmental agreements": {
       "party to": {
         "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Wetlands, Whaling"
       },
@@ -660,13 +660,16 @@
       "text": "red, white, blue"
     },
     "National anthem": {
-      "name": {
+      "title": {
         "text": "\"Pheng Xat Lao\" (Hymn of the Lao People)"
       },
       "lyrics/music": {
         "text": "SISANA Sisane/THONGDY Sounthonevichit"
       },
-      "note": "<strong>note:</strong> music adopted 1945, lyrics adopted 1975; the anthem's lyrics were changed following the 1975 Communist revolution that overthrew the monarchy"
+      "history": {
+        "text": "music adopted 1945, lyrics adopted 1975; the anthem's lyrics were changed after the communist revolution that overthrew the monarchy in 1975&nbsp;"
+      },
+      "note": "<strong>note:</strong> music adopted 1945, lyrics adopted 1975; the anthem's lyrics were changed after the communist revolution that overthrew the monarchy in 1975 "
     },
     "National heritage": {
       "total World Heritage Sites": {
@@ -1132,7 +1135,9 @@
       }
     },
     "Illicit drugs": {
-      "text": "<p>Laos remains a key transit route for drug trafficking and the movement of precursor chemicals; opium produced is typically smuggled out of the country and refined elsewhere and not trafficked in significant quantities to the United States</p>"
+      "USG identification": {
+        "text": "<br>major illicit drug-producing and/or drug-transit country (2025)"
+      }
     }
   }
 }

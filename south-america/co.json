@@ -393,10 +393,10 @@
     }
   },
   "Environment": {
-    "Environment - current issues": {
+    "Environmental issues": {
       "text": "deforestation from timber exploitation in the Amazon and the Choc&oacute; region; soil erosion; soil and water pollution from overuse of pesticides; air pollution, especially in Bogota, from vehicle emissions"
     },
-    "Environment - international agreements": {
+    "International environmental agreements": {
       "party to": {
         "text": "Antarctic-Environmental Protection, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling"
       },
@@ -706,13 +706,16 @@
       "text": "yellow, blue, red"
     },
     "National anthem": {
-      "name": {
+      "title": {
         "text": "\"Himno Nacional de la Republica de Colombia\" (National Anthem of the Republic of Colombia)"
       },
       "lyrics/music": {
         "text": "Rafael NUNEZ/Oreste SINDICI"
       },
-      "note": "<strong>note:</strong> adopted 1920; the anthem was created from an inspirational poem written by President Rafael NUNEZ"
+      "history": {
+        "text": "adopted 1920; the anthem comes from an inspirational poem written by President Rafael NUNEZ"
+      },
+      "note": "<strong>note:</strong> adopted 1920; the anthem comes from an inspirational poem written by President Rafael NUNEZ"
     },
     "National heritage": {
       "total World Heritage Sites": {
@@ -1262,7 +1265,9 @@
       }
     },
     "Illicit drugs": {
-      "text": "<p>Colombia is the world’s top cocaine producer and exporter; is a source of heroin and marijuana; coca cultivation estimated at 234,000 hectares (ha) in 2021; pure cocaine production decreased to 972 metric tons in 2021; a major source of precursor or essential chemicals used in the production of illicit narcotics</p> <p> </p>"
+      "USG identification": {
+        "text": "<br>major illicit drug-producing and/or drug-transit country<br><br>major precursor-chemical producer (2025)"
+      }
     }
   }
 }

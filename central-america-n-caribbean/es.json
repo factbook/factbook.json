@@ -221,7 +221,7 @@
       "note": "<strong>note:</strong> data represents median age at first birth among women 25-29"
     },
     "Maternal mortality ratio": {
-      "text": "43 deaths/100,000 live births (2020 est.)"
+      "text": "39 deaths/100,000 live births (2023 est.)"
     },
     "Infant mortality rate": {
       "total": {
@@ -382,10 +382,10 @@
     }
   },
   "Environment": {
-    "Environment - current issues": {
+    "Environmental issues": {
       "text": "deforestation; soil erosion; water pollution; contamination of soils from disposal of toxic wastes"
     },
-    "Environment - international agreements": {
+    "International environmental agreements": {
       "party to": {
         "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands"
       },
@@ -654,13 +654,16 @@
       "text": "blue, white"
     },
     "National anthem": {
-      "name": {
+      "title": {
         "text": "\"Himno Nacional de El Salvador\" (National Anthem of El Salvador)"
       },
       "lyrics/music": {
         "text": "Juan Jose CANAS/Juan ABERLE"
       },
-      "note": "<strong>note:</strong> officially adopted 1953, in use since 1879; at 4:20 minutes, the anthem of El Salvador is one of the world's longest"
+      "history": {
+        "text": "officially adopted 1953, in use since 1879; at four minutes and 20 seconds, the anthem is one of the world's longest"
+      },
+      "note": "<strong>note:</strong> officially adopted 1953, in use since 1879; at four minutes and 20 seconds, the anthem is one of the world's longest"
     },
     "National heritage": {
       "total World Heritage Sites": {
@@ -1144,7 +1147,9 @@
       }
     },
     "Illicit drugs": {
-      "text": "<p>a transit country for illicit drugs destined for the United States;  a major source of precursor or essential chemicals used in the production of illicit narcotics</p> <p> </p>"
+      "USG identification": {
+        "text": "<br>major illicit drug-producing and/or drug-transit country<br><br>major precursor-chemical producer (2025)"
+      }
     }
   }
 }

@@ -389,10 +389,10 @@
     }
   },
   "Environment": {
-    "Environment - current issues": {
+    "Environmental issues": {
       "text": "deforestation; soil erosion; desertification; water pollution; pollution from oil production wastes in areas of the Amazon Basin and Galapagos Islands"
     },
-    "Environment - international agreements": {
+    "International environmental agreements": {
       "party to": {
         "text": "Antarctic-Environmental Protection, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling"
       },
@@ -682,13 +682,16 @@
       "text": "yellow, blue, red"
     },
     "National anthem": {
-      "name": {
+      "title": {
         "text": "\"Salve, Oh Patria!\" (We Salute You, Our Homeland)"
       },
       "lyrics/music": {
         "text": "Juan Leon MERA/Antonio NEUMANE"
       },
-      "note": "<strong>note:</strong> adopted 1948; Juan Leon MERA wrote the lyrics in 1865; only the chorus and second verse are sung"
+      "history": {
+        "text": "adopted 1948; MERA wrote the lyrics in 1865; only the chorus and second verse are sung"
+      },
+      "note": "<strong>note:</strong> adopted 1948; MERA wrote the lyrics in 1865; only the chorus and second verse are sung"
     },
     "National heritage": {
       "total World Heritage Sites": {
@@ -1195,7 +1198,9 @@
       }
     },
     "Illicit drugs": {
-      "text": "<p>Ecuador is a major transit country for cocaine destined for the United States and other international destinations; criminal groups traffic cocaine precursor chemicals for drug gangs; not a major drug producing country; a major source of precursor or essential chemicals used in the production of illicit narcotics</p>"
+      "USG identification": {
+        "text": "<br>major illicit drug-producing and/or drug-transit country<br><br>major precursor-chemical producer (2025)"
+      }
     }
   }
 }

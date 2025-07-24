@@ -287,21 +287,10 @@
     },
     "Currently married women (ages 15-49)": {
       "text": "51% (2023 est.)"
-    },
-    "Literacy": {
-      "total population": {
-        "text": "98.5%"
-      },
-      "male": {
-        "text": "99.7%"
-      },
-      "female": {
-        "text": "97.3% (2014)"
-      }
     }
   },
   "Environment": {
-    "Environment - current issues": {
+    "Environmental issues": {
       "text": "air pollution; water pollution from industrial emissions, raw sewage; contamination of drinking water supplies; trade in endangered species; low-level radioactive waste disposal"
     },
     "Climate": {
@@ -537,13 +526,16 @@
       "text": "blue, white, red"
     },
     "National anthem": {
-      "name": {
+      "title": {
         "text": "\"Zhonghua Minguo guoge\" (National Anthem of the Republic of China)"
       },
       "lyrics/music": {
         "text": "HU Han-min, TAI Chi-t'ao, and LIAO Chung-k'ai/CHENG Mao-yun"
       },
-      "note": "<strong>note:</strong> adopted 1930; also the song of the Kuomintang Party; it is informally known as \"San Min Chu I\" or \"San Min Zhu Yi\" (Three Principles of the People); because of political pressure from China, \"Guo Qi Ge\" (National Banner Song) is used at international events rather than the official anthem of Taiwan; the \"National Banner Song\" has gained popularity in Taiwan and is commonly used during flag raisings"
+      "history": {
+        "text": "adopted 1930; also the song of the Kuomintang Party; informally known as \"San Min Chu I\" or \"San Min Zhu Yi\" (Three Principles of the People); because of political pressure from China, \"Guo Qi Ge\" (National Banner Song) is used at international events rather than the official anthem of Taiwan"
+      },
+      "note": "<strong>note:</strong> adopted 1930; also the song of the Kuomintang Party; informally known as \"San Min Chu I\" or \"San Min Zhu Yi\" (Three Principles of the People); because of political pressure from China, \"Guo Qi Ge\" (National Banner Song) is used at international events rather than the official anthem of Taiwan"
     }
   },
   "Economy": {
@@ -1018,7 +1010,9 @@
   },
   "Transnational Issues": {
     "Illicit drugs": {
-      "text": "<p>major source of precursor chemicals used in the production of illicit narcotics</p>"
+      "USG identification": {
+        "text": "<br>major precursor-chemical producer (2025)"
+      }
     }
   }
 }
