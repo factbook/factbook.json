@@ -89,7 +89,12 @@
       "text": "Oubangui (Ubangi) river [s] (shared with Democratic Republic of Congo and Republic of Congo [m]) - 2,270 km <br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth"
     },
     "Major watersheds (area sq km)": {
-      "text": "Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)"
+      "Atlantic Ocean drainage": {
+        "text": "Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)"
+      },
+      "Internal (endorheic basin) drainage": {
+        "text": "Lake Chad (2,497,738 sq km)"
+      }
     },
     "Major aquifers": {
       "text": "Congo Basin, Lake Chad Basin"
@@ -665,43 +670,43 @@
       "text": "enormous natural resources; extreme poverty; weak public institutions and infrastructure; political and gender-based violence have led to displacement of roughly 25% of population; Bangui-Douala corridor blockade reduced activity and tax collection; strong agricultural performance offset COVID-19 downturn"
     },
     "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2024": {
+        "text": "$5.926 billion (2024 est.)"
+      },
       "Real GDP (purchasing power parity) 2023": {
-        "text": "$5.849 billion (2023 est.)"
+        "text": "$5.836 billion (2023 est.)"
       },
       "Real GDP (purchasing power parity) 2022": {
-        "text": "$5.798 billion (2022 est.)"
-      },
-      "Real GDP (purchasing power parity) 2021": {
-        "text": "$5.769 billion (2021 est.)"
+        "text": "$5.795 billion (2022 est.)"
       },
       "note": "<b>note:</b> data in 2021 dollars"
     },
     "Real GDP growth rate": {
+      "Real GDP growth rate 2024": {
+        "text": "1.5% (2024 est.)"
+      },
       "Real GDP growth rate 2023": {
-        "text": "0.87% (2023 est.)"
+        "text": "0.7% (2023 est.)"
       },
       "Real GDP growth rate 2022": {
         "text": "0.5% (2022 est.)"
       },
-      "Real GDP growth rate 2021": {
-        "text": "0.98% (2021 est.)"
-      },
       "note": "<b>note:</b> annual GDP % growth based on constant local currency"
     },
     "Real GDP per capita": {
+      "Real GDP per capita 2024": {
+        "text": "$1,100 (2024 est.)"
+      },
       "Real GDP per capita 2023": {
         "text": "$1,100 (2023 est.)"
       },
       "Real GDP per capita 2022": {
         "text": "$1,100 (2022 est.)"
       },
-      "Real GDP per capita 2021": {
-        "text": "$1,100 (2021 est.)"
-      },
       "note": "<b>note:</b> data in 2021 dollars"
     },
     "GDP (official exchange rate)": {
-      "text": "$2.555 billion (2023 est.)",
+      "text": "$2.752 billion (2024 est.)",
       "note": "<b>note:</b> data in current dollars at official exchange rate"
     },
     "Inflation rate (consumer prices)": {
@@ -718,34 +723,34 @@
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "28.6% (2023 est.)"
+        "text": "32.5% (2024 est.)"
       },
       "industry": {
-        "text": "20.7% (2023 est.)"
+        "text": "17.8% (2024 est.)"
       },
       "services": {
-        "text": "40.5% (2023 est.)"
+        "text": "40.5% (2024 est.)"
       },
       "note": "<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "97.4% (2023 est.)"
+        "text": "94.7% (2024 est.)"
       },
       "government consumption": {
-        "text": "8.3% (2023 est.)"
+        "text": "9.7% (2024 est.)"
       },
       "investment in fixed capital": {
-        "text": "14.6% (2023 est.)"
+        "text": "15.4% (2024 est.)"
       },
       "investment in inventories": {
-        "text": "9.2% (2023 est.)"
+        "text": "0% (2024 est.)"
       },
       "exports of goods and services": {
-        "text": "14.4% (2023 est.)"
+        "text": "15.5% (2024 est.)"
       },
       "imports of goods and services": {
-        "text": "-29% (2023 est.)"
+        "text": "-32.4% (2024 est.)"
       },
       "note": "<b>note:</b> figures may not total 100% due to rounding or gaps in data collection"
     },
@@ -757,7 +762,7 @@
       "text": "gold and diamond mining, logging, brewing, sugar refining"
     },
     "Industrial production growth rate": {
-      "text": "-10.28% (2023 est.)",
+      "text": "9.7% (2024 est.)",
       "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
@@ -816,7 +821,8 @@
       },
       "Remittances 2021": {
         "text": "0% of GDP (2021 est.)"
-      }
+      },
+      "note": "<strong>note:</strong> personal transfers and compensation between resident and non-resident individuals/households/entities"
     },
     "Budget": {
       "revenues": {
@@ -827,32 +833,19 @@
       },
       "note": "<b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated"
     },
-    "Public debt": {
-      "Public debt 2017": {
-        "text": "52.9% of GDP (2017 est.)"
-      }
-    },
     "Taxes and other revenues": {
       "text": "8.2% (of GDP) (2021 est.)",
       "note": "<b>note:</b> central government tax revenue as a % of GDP"
     },
-    "Current account balance": {
-      "Current account balance 2017": {
-        "text": "-$163 million (2017 est.)"
-      },
-      "Current account balance 2016": {
-        "text": "-$97 million (2016 est.)"
-      }
-    },
     "Exports": {
+      "Exports 2024": {
+        "text": "$425.306 million (2024 est.)"
+      },
       "Exports 2023": {
         "text": "$369.034 million (2023 est.)"
       },
       "Exports 2022": {
         "text": "$293.074 million (2022 est.)"
-      },
-      "Exports 2021": {
-        "text": "$332.869 million (2021 est.)"
       },
       "note": "<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars"
     },
@@ -865,14 +858,14 @@
       "note": "<b>note:</b> top five export commodities based on value in dollars"
     },
     "Imports": {
+      "Imports 2024": {
+        "text": "$890.572 million (2024 est.)"
+      },
       "Imports 2023": {
         "text": "$742.108 million (2023 est.)"
       },
       "Imports 2022": {
         "text": "$784.669 million (2022 est.)"
-      },
-      "Imports 2021": {
-        "text": "$778.395 million (2021 est.)"
       },
       "note": "<strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars"
     },

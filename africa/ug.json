@@ -91,7 +91,9 @@
       "text": "<p>Nile (shared with Rwanda [s], Tanzania, South Sudan, Sudan, and Egypt [m]) - 6,650 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth</p>"
     },
     "Major watersheds (area sq km)": {
-      "text": "Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)"
+      "Atlantic Ocean drainage": {
+        "text": "Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)"
+      }
     },
     "Population distribution": {
       "text": "population density is relatively high in comparison to other African nations; most of the population is concentrated in the central and southern parts of the country, particularly along the shores of Lake Victoria and Lake Albert; the northeast is least populated, as shown in this population distribution map"
@@ -660,43 +662,43 @@
       "text": "low-income, primarily agrarian East African economy; COVID-19 hurt economic growth and poverty reduction; lower oil prices threaten prior sector investments; endemic corruption; natural resource rich; high female labor force participation but undervalued"
     },
     "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2024": {
+        "text": "$144.137 billion (2024 est.)"
+      },
       "Real GDP (purchasing power parity) 2023": {
         "text": "$135.803 billion (2023 est.)"
       },
       "Real GDP (purchasing power parity) 2022": {
         "text": "$128.923 billion (2022 est.)"
       },
-      "Real GDP (purchasing power parity) 2021": {
-        "text": "$123.267 billion (2021 est.)"
-      },
       "note": "<b>note:</b> data in 2021 dollars"
     },
     "Real GDP growth rate": {
+      "Real GDP growth rate 2024": {
+        "text": "6.1% (2024 est.)"
+      },
       "Real GDP growth rate 2023": {
-        "text": "5.34% (2023 est.)"
+        "text": "5.3% (2023 est.)"
       },
       "Real GDP growth rate 2022": {
-        "text": "4.59% (2022 est.)"
-      },
-      "Real GDP growth rate 2021": {
-        "text": "3.54% (2021 est.)"
+        "text": "4.6% (2022 est.)"
       },
       "note": "<b>note:</b> annual GDP % growth based on constant local currency"
     },
     "Real GDP per capita": {
+      "Real GDP per capita 2024": {
+        "text": "$2,900 (2024 est.)"
+      },
       "Real GDP per capita 2023": {
         "text": "$2,800 (2023 est.)"
       },
       "Real GDP per capita 2022": {
         "text": "$2,700 (2022 est.)"
       },
-      "Real GDP per capita 2021": {
-        "text": "$2,700 (2021 est.)"
-      },
       "note": "<b>note:</b> data in 2021 dollars"
     },
     "GDP (official exchange rate)": {
-      "text": "$48.769 billion (2023 est.)",
+      "text": "$53.652 billion (2024 est.)",
       "note": "<b>note:</b> data in current dollars at official exchange rate"
     },
     "Inflation rate (consumer prices)": {
@@ -713,34 +715,34 @@
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "24.1% (2023 est.)"
+        "text": "24.7% (2024 est.)"
       },
       "industry": {
-        "text": "25.8% (2023 est.)"
+        "text": "24.9% (2024 est.)"
       },
       "services": {
-        "text": "42.5% (2023 est.)"
+        "text": "43.1% (2024 est.)"
       },
       "note": "<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "71.6% (2023 est.)"
+        "text": "66.3% (2024 est.)"
       },
       "government consumption": {
-        "text": "9.6% (2023 est.)"
+        "text": "10% (2024 est.)"
       },
       "investment in fixed capital": {
-        "text": "22.1% (2023 est.)"
+        "text": "21.5% (2024 est.)"
       },
       "investment in inventories": {
-        "text": "0.7% (2023 est.)"
+        "text": "0.8% (2024 est.)"
       },
       "exports of goods and services": {
-        "text": "11.6% (2023 est.)"
+        "text": "16.9% (2024 est.)"
       },
       "imports of goods and services": {
-        "text": "-21.7% (2023 est.)"
+        "text": "-24.6% (2024 est.)"
       },
       "note": "<b>note:</b> figures may not total 100% due to rounding or gaps in data collection"
     },
@@ -752,7 +754,7 @@
       "text": "sugar processing, brewing, tobacco, cotton textiles; cement, steel production"
     },
     "Industrial production growth rate": {
-      "text": "4.03% (2023 est.)",
+      "text": "4.9% (2024 est.)",
       "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
@@ -761,7 +763,7 @@
     },
     "Unemployment rate": {
       "Unemployment rate 2024": {
-        "text": "2.9% (2024 est.)"
+        "text": "3% (2024 est.)"
       },
       "Unemployment rate 2023": {
         "text": "2.8% (2023 est.)"
@@ -812,13 +814,13 @@
     },
     "Remittances": {
       "Remittances 2023": {
-        "text": "2.93% of GDP (2023 est.)"
+        "text": "2.9% of GDP (2023 est.)"
       },
       "Remittances 2022": {
-        "text": "2.74% of GDP (2022 est.)"
+        "text": "2.7% of GDP (2022 est.)"
       },
       "Remittances 2021": {
-        "text": "2.85% of GDP (2021 est.)"
+        "text": "2.9% of GDP (2021 est.)"
       },
       "note": "<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities"
     },
@@ -916,13 +918,13 @@
         "text": "Ugandan shillings (UGX) per US dollar -"
       },
       "Exchange rates 2024": {
-        "text": "3,757.262 (2024 est.)"
+        "text": "3,757.263 (2024 est.)"
       },
       "Exchange rates 2023": {
-        "text": "3,726.142 (2023 est.)"
+        "text": "3,726.14 (2023 est.)"
       },
       "Exchange rates 2022": {
-        "text": "3,689.818 (2022 est.)"
+        "text": "3,689.817 (2022 est.)"
       },
       "Exchange rates 2021": {
         "text": "3,587.052 (2021 est.)"

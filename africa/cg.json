@@ -100,7 +100,12 @@
       "text": "<p>Zaïre (Congo) river mouth (shared with Zambia [s], Angola, and Republic of Congo) - 2,920 km; Ubangi river mouth (shared with Central African Republic [s] and Republic of Congo) - 2,270 km</p> <strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth"
     },
     "Major watersheds (area sq km)": {
-      "text": "Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)"
+      "Atlantic Ocean drainage": {
+        "text": "Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)"
+      },
+      "Indian Ocean drainage": {
+        "text": "Zambezi (1,332,412 sq km)"
+      }
     },
     "Major aquifers": {
       "text": "Congo Basin"
@@ -608,7 +613,7 @@
         "text": "Union for Democracy and Social Progress/TSHISEKEDI (UDPS/TSHISEKEDI) (69); Action of Allies and Union for the Congolese Nation (A/A-UNC) (35); Alliance of Democratic Forces of Congo and Allies (AFDC-A) (35); Act and Build (AB) (26); Other (312)"
       },
       "percentage of women in chamber": {
-        "text": "13%"
+        "text": "12.8%"
       },
       "expected date of next election": {
         "text": "December 2028"
@@ -734,43 +739,43 @@
       "text": "very poor, large, natural resource-rich sub-Saharan country; possesses the world&rsquo;s second largest rainforest; increasing Chinese extractive sector trade; massive decrease in government investments; increasing current account deficit and public debts"
     },
     "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2024": {
+        "text": "$164.367 billion (2024 est.)"
+      },
       "Real GDP (purchasing power parity) 2023": {
-        "text": "$154.012 billion (2023 est.)"
+        "text": "$154.081 billion (2023 est.)"
       },
       "Real GDP (purchasing power parity) 2022": {
         "text": "$141.867 billion (2022 est.)"
       },
-      "Real GDP (purchasing power parity) 2021": {
-        "text": "$130.244 billion (2021 est.)"
-      },
       "note": "<b>note:</b> data in 2021 dollars"
     },
     "Real GDP growth rate": {
+      "Real GDP growth rate 2024": {
+        "text": "6.7% (2024 est.)"
+      },
       "Real GDP growth rate 2023": {
-        "text": "8.56% (2023 est.)"
+        "text": "8.6% (2023 est.)"
       },
       "Real GDP growth rate 2022": {
-        "text": "8.92% (2022 est.)"
-      },
-      "Real GDP growth rate 2021": {
-        "text": "6.2% (2021 est.)"
+        "text": "8.9% (2022 est.)"
       },
       "note": "<b>note:</b> annual GDP % growth based on constant local currency"
     },
     "Real GDP per capita": {
+      "Real GDP per capita 2024": {
+        "text": "$1,500 (2024 est.)"
+      },
       "Real GDP per capita 2023": {
         "text": "$1,500 (2023 est.)"
       },
       "Real GDP per capita 2022": {
         "text": "$1,400 (2022 est.)"
       },
-      "Real GDP per capita 2021": {
-        "text": "$1,300 (2021 est.)"
-      },
       "note": "<b>note:</b> data in 2021 dollars"
     },
     "GDP (official exchange rate)": {
-      "text": "$66.383 billion (2023 est.)",
+      "text": "$70.749 billion (2024 est.)",
       "note": "<b>note:</b> data in current dollars at official exchange rate"
     },
     "Inflation rate (consumer prices)": {
@@ -787,34 +792,34 @@
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "17.4% (2023 est.)"
+        "text": "17.1% (2024 est.)"
       },
       "industry": {
-        "text": "46.5% (2023 est.)"
+        "text": "46.6% (2024 est.)"
       },
       "services": {
-        "text": "33.5% (2023 est.)"
+        "text": "33% (2024 est.)"
       },
       "note": "<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "62.7% (2023 est.)"
+        "text": "62.7% (2024 est.)"
       },
       "government consumption": {
-        "text": "7.9% (2023 est.)"
+        "text": "8.1% (2024 est.)"
       },
       "investment in fixed capital": {
-        "text": "31.7% (2023 est.)"
+        "text": "32.9% (2024 est.)"
       },
       "investment in inventories": {
-        "text": "0.4% (2023 est.)"
+        "text": "0.5% (2024 est.)"
       },
       "exports of goods and services": {
-        "text": "44.2% (2023 est.)"
+        "text": "46.6% (2024 est.)"
       },
       "imports of goods and services": {
-        "text": "-47% (2023 est.)"
+        "text": "-50.9% (2024 est.)"
       },
       "note": "<b>note:</b> figures may not total 100% due to rounding or gaps in data collection"
     },
@@ -826,7 +831,7 @@
       "text": "mining (copper, cobalt, gold, diamonds, coltan, zinc, tin, tungsten), mineral processing, consumer products (textiles, plastics, footwear, cigarettes), metal products, processed foods and beverages, timber, cement, commercial ship repair"
     },
     "Industrial production growth rate": {
-      "text": "14.56% (2023 est.)",
+      "text": "10.1% (2024 est.)",
       "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
@@ -841,7 +846,7 @@
         "text": "4.5% (2023 est.)"
       },
       "Unemployment rate 2022": {
-        "text": "4.5% (2022 est.)"
+        "text": "4.6% (2022 est.)"
       },
       "note": "<b>note:</b> % of labor force seeking employment"
     },
@@ -858,12 +863,14 @@
       "note": "<b>note:</b> % of labor force ages 15-24 seeking employment"
     },
     "Population below poverty line": {
-      "text": "63% (2014 est.)"
+      "text": "56.2% (2020 est.)",
+      "note": "<strong>note:</strong> % of population with income below national poverty line"
     },
     "Gini Index coefficient - distribution of family income": {
       "Gini Index coefficient - distribution of family income 2020": {
         "text": "44.7 (2020 est.)"
-      }
+      },
+      "note": "<strong>note:</strong> index (0-100) of income distribution; higher values represent greater inequality"
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
@@ -871,17 +878,18 @@
       },
       "highest 10%": {
         "text": "35.7% (2020 est.)"
-      }
+      },
+      "note": "% share of income accruing to lowest and highest 10% of population"
     },
     "Remittances": {
       "Remittances 2023": {
-        "text": "4.97% of GDP (2023 est.)"
+        "text": "4.9% of GDP (2023 est.)"
       },
       "Remittances 2022": {
-        "text": "4.96% of GDP (2022 est.)"
+        "text": "5% of GDP (2022 est.)"
       },
       "Remittances 2021": {
-        "text": "2.44% of GDP (2021 est.)"
+        "text": "2.4% of GDP (2021 est.)"
       },
       "note": "<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities"
     },
@@ -897,7 +905,8 @@
     "Public debt": {
       "Public debt 2022": {
         "text": "16% of GDP (2022 est.)"
-      }
+      },
+      "note": "<strong data-olk-copy-source=\"MessageBody\">note:</strong> central government debt as a % of GDP"
     },
     "Taxes and other revenues": {
       "text": "11.4% (of GDP) (2022 est.)",

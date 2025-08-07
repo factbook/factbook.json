@@ -41,11 +41,12 @@
     },
     "Maritime claims": {
       "territorial sea": {
-        "text": "30 nm; note: the US does not recognize this claim"
+        "text": "30 nm"
       },
       "exclusive economic zone": {
         "text": "200 nm"
-      }
+      },
+      "note": "<strong>note:</strong> the US does not recognize the territorial sea claim"
     },
     "Climate": {
       "text": "tropical; hot, humid in south; semiarid in north"
@@ -91,7 +92,9 @@
       "text": "70 sq km (2012)"
     },
     "Major watersheds (area sq km)": {
-      "text": "Atlantic Ocean drainage: Volta (410,991 sq km)"
+      "Atlantic Ocean drainage": {
+        "text": "Volta (410,991 sq km)"
+      }
     },
     "Population distribution": {
       "text": "one of the more densely populated African nations, with most of the population residing in rural communities; density is highest in the south on or near the Atlantic coast, as shown in this population distribution map"
@@ -712,87 +715,87 @@
       "text": "low-income West African economy; primarily agrarian economy; has a deep-water port; growing international shipping locale; improving privatization and public budgeting transparency; key phosphate mining industry; extremely high rural poverty"
     },
     "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2024": {
+        "text": "$27.115 billion (2024 est.)"
+      },
       "Real GDP (purchasing power parity) 2023": {
         "text": "$25.75 billion (2023 est.)"
       },
       "Real GDP (purchasing power parity) 2022": {
         "text": "$24.199 billion (2022 est.)"
       },
-      "Real GDP (purchasing power parity) 2021": {
-        "text": "$22.881 billion (2021 est.)"
-      },
       "note": "<b>note:</b> data in 2021 dollars"
     },
     "Real GDP growth rate": {
+      "Real GDP growth rate 2024": {
+        "text": "5.3% (2024 est.)"
+      },
       "Real GDP growth rate 2023": {
-        "text": "6.41% (2023 est.)"
+        "text": "6.4% (2023 est.)"
       },
       "Real GDP growth rate 2022": {
-        "text": "5.76% (2022 est.)"
-      },
-      "Real GDP growth rate 2021": {
-        "text": "5.99% (2021 est.)"
+        "text": "5.8% (2022 est.)"
       },
       "note": "<b>note:</b> annual GDP % growth based on constant local currency"
     },
     "Real GDP per capita": {
+      "Real GDP per capita 2024": {
+        "text": "$2,800 (2024 est.)"
+      },
       "Real GDP per capita 2023": {
         "text": "$2,800 (2023 est.)"
       },
       "Real GDP per capita 2022": {
         "text": "$2,700 (2022 est.)"
       },
-      "Real GDP per capita 2021": {
-        "text": "$2,600 (2021 est.)"
-      },
       "note": "<b>note:</b> data in 2021 dollars"
     },
     "GDP (official exchange rate)": {
-      "text": "$9.171 billion (2023 est.)",
+      "text": "$9.926 billion (2024 est.)",
       "note": "<b>note:</b> data in current dollars at official exchange rate"
     },
     "Inflation rate (consumer prices)": {
+      "Inflation rate (consumer prices) 2024": {
+        "text": "2.9% (2024 est.)"
+      },
       "Inflation rate (consumer prices) 2023": {
-        "text": "5.5% (2023 est.)"
+        "text": "5.3% (2023 est.)"
       },
       "Inflation rate (consumer prices) 2022": {
-        "text": "8% (2022 est.)"
-      },
-      "Inflation rate (consumer prices) 2021": {
-        "text": "4.2% (2021 est.)"
+        "text": "7.6% (2022 est.)"
       },
       "note": "<b>note:</b> annual % change based on consumer prices"
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "18.1% (2023 est.)"
+        "text": "18% (2024 est.)"
       },
       "industry": {
-        "text": "20.2% (2023 est.)"
+        "text": "20% (2024 est.)"
       },
       "services": {
-        "text": "51.7% (2023 est.)"
+        "text": "52% (2024 est.)"
       },
       "note": "<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "78.1% (2023 est.)"
+        "text": "78.3% (2024 est.)"
       },
       "government consumption": {
-        "text": "12.6% (2023 est.)"
+        "text": "13.1% (2024 est.)"
       },
       "investment in fixed capital": {
-        "text": "23% (2023 est.)"
+        "text": "22.3% (2024 est.)"
       },
       "investment in inventories": {
-        "text": "0% (2023 est.)"
+        "text": "0% (2024 est.)"
       },
       "exports of goods and services": {
-        "text": "23.9% (2023 est.)"
+        "text": "24.4% (2024 est.)"
       },
       "imports of goods and services": {
-        "text": "-37.5% (2023 est.)"
+        "text": "-38.1% (2024 est.)"
       },
       "note": "<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection"
     },
@@ -804,7 +807,7 @@
       "text": "phosphate mining, agricultural processing, cement, handicrafts, textiles, beverages"
     },
     "Industrial production growth rate": {
-      "text": "6.74% (2023 est.)",
+      "text": "4.2% (2024 est.)",
       "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
@@ -813,10 +816,10 @@
     },
     "Unemployment rate": {
       "Unemployment rate 2024": {
-        "text": "1.9% (2024 est.)"
+        "text": "2% (2024 est.)"
       },
       "Unemployment rate 2023": {
-        "text": "1.9% (2023 est.)"
+        "text": "2% (2023 est.)"
       },
       "Unemployment rate 2022": {
         "text": "2% (2022 est.)"
@@ -856,10 +859,10 @@
     },
     "Remittances": {
       "Remittances 2023": {
-        "text": "7.09% of GDP (2023 est.)"
+        "text": "7.1% of GDP (2023 est.)"
       },
       "Remittances 2022": {
-        "text": "7.96% of GDP (2022 est.)"
+        "text": "8% of GDP (2022 est.)"
       },
       "Remittances 2021": {
         "text": "7.8% of GDP (2021 est.)"
@@ -874,11 +877,6 @@
         "text": "$1.32 billion (2022 est.)"
       },
       "note": "<b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated"
-    },
-    "Public debt": {
-      "Public debt 2017": {
-        "text": "75.7% of GDP (2017 est.)"
-      }
     },
     "Taxes and other revenues": {
       "text": "14.8% (of GDP) (2023 est.)",
@@ -935,14 +933,6 @@
     "Imports - commodities": {
       "text": "refined petroleum, garments, rice, palm oil, motorcycles and cycles (2023)",
       "note": "<b>note:</b> top five import commodities based on value in dollars"
-    },
-    "Reserves of foreign exchange and gold": {
-      "Reserves of foreign exchange and gold 2017": {
-        "text": "$77.8 million (2017 est.)"
-      },
-      "Reserves of foreign exchange and gold 2016": {
-        "text": "$42.6 million (2016 est.)"
-      }
     },
     "Debt - external": {
       "Debt - external 2023": {
@@ -1162,7 +1152,7 @@
       }
     },
     "Military and security service personnel strengths": {
-      "text": "estimated 15-20,000 active Armed Forces, including Gendarmerie (2025)"
+      "text": "estimated 20,000 active Armed Forces, including Gendarmerie (2025)"
     },
     "Military equipment inventories and acquisitions": {
       "text": "the FAT has a small inventory of mostly older equipment originating from a variety of countries, including Brazil, Russia/former Soviet Union, Turkey, the US, and some European nations, particularly France (2024)"
@@ -1172,7 +1162,7 @@
       "note": "<strong>note:</strong> as of 2022, about 7% of the military's personnel were women"
     },
     "Military - note": {
-      "text": "since its creation in 1963, the Togolese military has had a history of involvement in the country’s politics with assassinations, coups, influence, and a crackdown in 2005 that killed hundreds of civilians; over the past decade, however, it has made some efforts to reform and professionalize, including increasing its role in UN peacekeeping activities, participating in multinational exercises, and receiving training from foreign partners, including France and the US; in addition, Togo has established a regional peacekeeping training center for military and police in Lome<br><br>the FAT’s primary concerns are terrorism and maritime security; in recent years, it has increased operations in the northern border region of the country to boost border security and prevent terrorist infiltrations from Jama'at Nasr al-Islam wal Muslimin (JNIM), a coalition of al-Qa'ida-affiliated militant groups based in Mali that also operates in neighboring Burkina Faso; in 2022, the Togolese Government declared a state of emergency in the north due to the threat from JNIM following an attack on a Togolese military post that killed several soldiers; northern Togo has also had problems with banditry, as well as arms, drugs, fuel, and gold smuggling, which has aggravated local disputes and provided terrorist groups with financial resources; the Navy and Air Force have increased focus on combating piracy and smuggling in the Gulf of Guinea (2024)"
+      "text": "the responsibilities of the Togolese Armed Forces (FAT) included both external defense and internal security; the FAT’s primary concerns are border security, terrorism, and maritime security; in recent years, it has boosted operations in the northern border region of the country to secure the frontier and prevent banditry, illicit smuggling, and infiltrations from Jama'at Nasr al-Islam wal Muslimin (JNIM), a coalition of al-Qa'ida-affiliated militant groups based in Mali that also operates in neighboring Burkina Faso; in 2022, the Togolese Government declared a state of emergency in the north following an attack by JNIM fighters on a Togolese military post that killed several soldiers; the Navy and Air Force have increased focus on combating piracy and smuggling in the Gulf of Guinea<br><br>since its creation in 1963, the Togolese military has had a history of involvement in the country’s politics, including assassinations, coups, and a crackdown in 2005 that killed hundreds of civilians; over the past decade, it has made some efforts to reform and professionalize, which have included increasing its role in UN peacekeeping activities, participating in multinational exercises, and receiving training from foreign partners, particularly France and the US; in addition, Togo has established a regional peacekeeping training center for military and police in Lome (2025)"
     }
   },
   "Terrorism": {

@@ -62,11 +62,10 @@
       }
     },
     "Climate": {
-      "text": "<p><strong>metropolitan France:</strong> generally cool winters and mild summers, but mild winters and hot summers along the Mediterranean; occasional strong, cold, dry, north-to-northwesterly wind known as the mistral</p>",
-      "note": "<strong>French Guiana:</strong> tropical; hot, humid; little seasonal temperature variation <br><br><strong>Guadeloupe and Martinique:</strong> subtropical tempered by trade winds; moderately high humidity; rainy season (June to October); vulnerable to devastating cyclones (hurricanes) every eight years on average <br><br><strong>Mayotte:</strong> tropical; marine; hot, humid, rainy season during northeastern monsoon (November to May); dry season is cooler (May to November) <br><br><strong>Reunion:</strong> tropical, but temperature moderates with elevation; cool and dry (May to November), hot and rainy (November to April)"
+      "text": "<strong>metropolitan France:</strong> generally cool winters and mild summers, but mild winters and hot summers along the Mediterranean; occasional strong, cold, dry, north-to-northwesterly wind known as the mistral<br><br><strong>French Guiana:</strong> tropical; hot, humid; little seasonal temperature variation <br><br><strong>Guadeloupe and Martinique:</strong> subtropical tempered by trade winds; moderately high humidity; rainy season (June to October); vulnerable to devastating cyclones (hurricanes) every eight years on average <br><br><strong>Mayotte:</strong> tropical; marine; hot, humid, rainy season during northeastern monsoon (November to May); dry season is cooler (May to November) <br><br><strong>Reunion:</strong> tropical, but temperature moderates with elevation; cool and dry (May to November), hot and rainy (November to April)"
     },
     "Terrain": {
-      "text": "<p><strong>metropolitan France:</strong> mostly flat plains or gently rolling hills in north and west; remainder is mountainous, especially Pyrenees in south, Alps in east; </p><p><strong>French Guiana:</strong> low-lying coastal plains rising to hills and small mountains; </p><p><strong>Guadeloupe:</strong> Basse-Terre is volcanic in origin with interior mountains; Grande-Terre is low limestone formation; most of the seven other islands are volcanic in origin; </p><p><strong>Martinique:</strong> mountainous with indented coastline; dormant volcano; </p><p><strong>Mayotte:</strong> generally undulating, with deep ravines and ancient volcanic peaks; </p><p><strong>Reunion:</strong> mostly rugged and mountainous; fertile lowlands along coast</p>"
+      "text": "<strong>metropolitan France:</strong> mostly flat plains or gently rolling hills in north and west; remainder is mountainous, especially Pyrenees in south, Alps in east<br><br><strong>French Guiana:</strong> low-lying coastal plains rising to hills and small mountains<br><br><strong>Guadeloupe:</strong> Basse-Terre is volcanic in origin with interior mountains; Grande-Terre is low limestone formation; most of the seven other islands are volcanic in origin<br><br><strong>Martinique:</strong> mountainous with indented coastline; dormant volcano<br><br><strong>Mayotte:</strong> generally undulating, with deep ravines and ancient volcanic peaks<br><br><strong>Reunion:</strong> mostly rugged and mountainous; fertile lowlands along coast"
     },
     "Elevation": {
       "highest point": {
@@ -115,7 +114,9 @@
       "text": "Rhin (Rhine) (shared with Switzerland [s], Germany, and Netherlands [m]) - 1,233 km; Loire - 1,012 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth"
     },
     "Major watersheds (area sq km)": {
-      "text": "Atlantic Ocean drainage: Loire (115,282 sq km), Seine (78,919 sq km), Rhine-Maas (198,735 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)"
+      "Atlantic Ocean drainage": {
+        "text": "Loire (115,282 sq km), Seine (78,919 sq km), Rhine-Maas (198,735 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)"
+      }
     },
     "Major aquifers": {
       "text": "Paris Basin"
@@ -404,8 +405,7 @@
       }
     },
     "Climate": {
-      "text": "<p><strong>metropolitan France:</strong> generally cool winters and mild summers, but mild winters and hot summers along the Mediterranean; occasional strong, cold, dry, north-to-northwesterly wind known as the mistral</p>",
-      "note": "<strong>French Guiana:</strong> tropical; hot, humid; little seasonal temperature variation <br><br><strong>Guadeloupe and Martinique:</strong> subtropical tempered by trade winds; moderately high humidity; rainy season (June to October); vulnerable to devastating cyclones (hurricanes) every eight years on average <br><br><strong>Mayotte:</strong> tropical; marine; hot, humid, rainy season during northeastern monsoon (November to May); dry season is cooler (May to November) <br><br><strong>Reunion:</strong> tropical, but temperature moderates with elevation; cool and dry (May to November), hot and rainy (November to April)"
+      "text": "<strong>metropolitan France:</strong> generally cool winters and mild summers, but mild winters and hot summers along the Mediterranean; occasional strong, cold, dry, north-to-northwesterly wind known as the mistral<br><br><strong>French Guiana:</strong> tropical; hot, humid; little seasonal temperature variation <br><br><strong>Guadeloupe and Martinique:</strong> subtropical tempered by trade winds; moderately high humidity; rainy season (June to October); vulnerable to devastating cyclones (hurricanes) every eight years on average <br><br><strong>Mayotte:</strong> tropical; marine; hot, humid, rainy season during northeastern monsoon (November to May); dry season is cooler (May to November) <br><br><strong>Reunion:</strong> tropical, but temperature moderates with elevation; cool and dry (May to November), hot and rainy (November to April)"
     },
     "Land use": {
       "agricultural land": {
@@ -746,43 +746,43 @@
       "text": "<p>high-income, advanced EU economy and eurozone member; strong tourism, aircraft manufacturing, pharmaceuticals, and industrial sectors; high public debt; ongoing pension reform efforts; transitioning to a green economy via \"France 2030\" strategy</p>"
     },
     "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2024": {
+        "text": "$3.732 trillion (2024 est.)"
+      },
       "Real GDP (purchasing power parity) 2023": {
-        "text": "$3.786 trillion (2023 est.)"
+        "text": "$3.689 trillion (2023 est.)"
       },
       "Real GDP (purchasing power parity) 2022": {
-        "text": "$3.751 trillion (2022 est.)"
-      },
-      "Real GDP (purchasing power parity) 2021": {
-        "text": "$3.657 trillion (2021 est.)"
+        "text": "$3.655 trillion (2022 est.)"
       },
       "note": "<b>note:</b> data in 2021 dollars"
     },
     "Real GDP growth rate": {
+      "Real GDP growth rate 2024": {
+        "text": "1.2% (2024 est.)"
+      },
       "Real GDP growth rate 2023": {
-        "text": "0.94% (2023 est.)"
+        "text": "0.9% (2023 est.)"
       },
       "Real GDP growth rate 2022": {
-        "text": "2.57% (2022 est.)"
-      },
-      "Real GDP growth rate 2021": {
-        "text": "6.44% (2021 est.)"
+        "text": "2.6% (2022 est.)"
       },
       "note": "<b>note:</b> annual GDP % growth based on constant local currency"
     },
     "Real GDP per capita": {
+      "Real GDP per capita 2024": {
+        "text": "$54,500 (2024 est.)"
+      },
       "Real GDP per capita 2023": {
-        "text": "$55,400 (2023 est.)"
+        "text": "$54,000 (2023 est.)"
       },
       "Real GDP per capita 2022": {
-        "text": "$55,100 (2022 est.)"
-      },
-      "Real GDP per capita 2021": {
-        "text": "$53,900 (2021 est.)"
+        "text": "$53,700 (2022 est.)"
       },
       "note": "<strong>note:</strong> data in 2021 dollars"
     },
     "GDP (official exchange rate)": {
-      "text": "$3.052 trillion (2023 est.)",
+      "text": "$3.162 trillion (2024 est.)",
       "note": "<b>note:</b> data in current dollars at official exchange rate"
     },
     "Inflation rate (consumer prices)": {
@@ -799,13 +799,13 @@
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "1.7% (2023 est.)"
+        "text": "1.4% (2024 est.)"
       },
       "industry": {
-        "text": "18.5% (2023 est.)"
+        "text": "17.5% (2024 est.)"
       },
       "services": {
-        "text": "69.7% (2023 est.)"
+        "text": "70.4% (2024 est.)"
       },
       "note": "<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data"
     },
@@ -838,11 +838,11 @@
       "text": "machinery, chemicals, automobiles, metallurgy, aircraft, electronics, textiles, food processing, tourism"
     },
     "Industrial production growth rate": {
-      "text": "4.46% (2023 est.)",
+      "text": "0.7% (2024 est.)",
       "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
-      "text": "31.665 million (2024 est.)",
+      "text": "31.725 million (2024 est.)",
       "note": "<b>note:</b> number of people ages 15 or older who are employed or seeking work"
     },
     "Unemployment rate": {
@@ -850,10 +850,10 @@
         "text": "7.4% (2024 est.)"
       },
       "Unemployment rate 2023": {
-        "text": "7.3% (2023 est.)"
+        "text": "7.4% (2023 est.)"
       },
       "Unemployment rate 2022": {
-        "text": "7.3% (2022 est.)"
+        "text": "7.4% (2022 est.)"
       },
       "note": "<b>note:</b> % of labor force seeking employment"
     },
@@ -874,8 +874,8 @@
       "note": "<b>note:</b> % of population with income below national poverty line"
     },
     "Gini Index coefficient - distribution of family income": {
-      "Gini Index coefficient - distribution of family income 2021": {
-        "text": "31.5 (2021 est.)"
+      "Gini Index coefficient - distribution of family income 2022": {
+        "text": "31.2 (2022 est.)"
       },
       "note": "<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality"
     },
@@ -889,22 +889,22 @@
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
-        "text": "2.9% (2021 est.)"
+        "text": "3% (2022 est.)"
       },
       "highest 10%": {
-        "text": "24.9% (2021 est.)"
+        "text": "24.6% (2022 est.)"
       },
       "note": "<b>note:</b> % share of income accruing to lowest and highest 10% of population"
     },
     "Remittances": {
+      "Remittances 2024": {
+        "text": "1.2% of GDP (2024 est.)"
+      },
       "Remittances 2023": {
-        "text": "1.21% of GDP (2023 est.)"
+        "text": "1.2% of GDP (2023 est.)"
       },
       "Remittances 2022": {
-        "text": "1.19% of GDP (2022 est.)"
-      },
-      "Remittances 2021": {
-        "text": "1.1% of GDP (2021 est.)"
+        "text": "1.2% of GDP (2022 est.)"
       },
       "note": "<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities"
     },
@@ -928,26 +928,26 @@
       "note": "<b>note:</b> central government tax revenue as a % of GDP"
     },
     "Current account balance": {
+      "Current account balance 2024": {
+        "text": "$12.382 billion (2024 est.)"
+      },
       "Current account balance 2023": {
         "text": "-$30.334 billion (2023 est.)"
       },
       "Current account balance 2022": {
         "text": "-$33.069 billion (2022 est.)"
       },
-      "Current account balance 2021": {
-        "text": "$7.245 billion (2021 est.)"
-      },
       "note": "<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars"
     },
     "Exports": {
+      "Exports 2024": {
+        "text": "$1.071 trillion (2024 est.)"
+      },
       "Exports 2023": {
         "text": "$1.05 trillion (2023 est.)"
       },
       "Exports 2022": {
         "text": "$1.021 trillion (2022 est.)"
-      },
-      "Exports 2021": {
-        "text": "$926.762 billion (2021 est.)"
       },
       "note": "<b>note:</b> balance of payments - exports of goods and services in current dollars"
     },
@@ -960,14 +960,14 @@
       "note": "<b>note:</b> top five export commodities based on value in dollars"
     },
     "Imports": {
+      "Imports 2024": {
+        "text": "$1.074 trillion (2024 est.)"
+      },
       "Imports 2023": {
         "text": "$1.094 trillion (2023 est.)"
       },
       "Imports 2022": {
         "text": "$1.092 trillion (2022 est.)"
-      },
-      "Imports 2021": {
-        "text": "$957.017 billion (2021 est.)"
       },
       "note": "<b>note:</b> balance of payments - imports of goods and services in current dollars"
     },
@@ -981,7 +981,7 @@
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 2024": {
-        "text": "$78.429 billion (2024 est.)"
+        "text": "$282.857 billion (2024 est.)"
       },
       "Reserves of foreign exchange and gold 2023": {
         "text": "$240.792 billion (2023 est.)"

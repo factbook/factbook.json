@@ -37,7 +37,8 @@
       }
     },
     "Coastline": {
-      "text": "0 km (landlocked); note - Kazakhstan borders the Aral Sea, now split into two bodies of water (1,070 km), and the Caspian Sea (1,894 km)"
+      "text": "0 km (landlocked)",
+      "note": "<strong>note:</strong> Kazakhstan borders the Aral Sea, now split into two bodies of water (1,070 km), and the Caspian Sea (1,894 km)"
     },
     "Maritime claims": {
       "text": "none (landlocked)"
@@ -97,7 +98,9 @@
       "text": "Syr Darya river mouth (shared with Kyrgyzstan [s], Uzbekistan, and Tajikistan) - 3,078 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth"
     },
     "Major watersheds (area sq km)": {
-      "text": "Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), Amu Darya (534,739 sq km), Syr Darya (782,617 sq km), Lake Balkash (510,015 sq km)"
+      "Internal (endorheic basin) drainage": {
+        "text": "Tarim Basin (1,152,448 sq km), Amu Darya (534,739 sq km), Syr Darya (782,617 sq km), Lake Balkash (510,015 sq km)"
+      }
     },
     "Population distribution": {
       "text": "most of the country displays a low population density, particularly the interior; population clusters appear in urban agglomerations in the far northern and southern portions of the country"
@@ -720,48 +723,48 @@
       "text": "oil and gas giant, with growing international investment; domestic economy hit hard by COVID-19 disruptions; reforming civil society and improving business confidence; legacy state controls and Russian influence inhibit growth and autonomy"
     },
     "Real GDP (purchasing power parity)": {
+      "Real GDP (purchasing power parity) 2024": {
+        "text": "$739.385 billion (2024 est.)"
+      },
       "Real GDP (purchasing power parity) 2023": {
         "text": "$705.52 billion (2023 est.)"
       },
       "Real GDP (purchasing power parity) 2022": {
         "text": "$671.285 billion (2022 est.)"
       },
-      "Real GDP (purchasing power parity) 2021": {
-        "text": "$650.47 billion (2021 est.)"
-      },
       "note": "<b>note:</b> data in 2021 dollars"
     },
     "Real GDP growth rate": {
+      "Real GDP growth rate 2024": {
+        "text": "4.8% (2024 est.)"
+      },
       "Real GDP growth rate 2023": {
         "text": "5.1% (2023 est.)"
       },
       "Real GDP growth rate 2022": {
         "text": "3.2% (2022 est.)"
       },
-      "Real GDP growth rate 2021": {
-        "text": "4.3% (2021 est.)"
-      },
       "note": "<b>note:</b> annual GDP % growth based on constant local currency"
     },
     "Real GDP per capita": {
+      "Real GDP per capita 2024": {
+        "text": "$35,900 (2024 est.)"
+      },
       "Real GDP per capita 2023": {
         "text": "$34,700 (2023 est.)"
       },
       "Real GDP per capita 2022": {
         "text": "$33,500 (2022 est.)"
       },
-      "Real GDP per capita 2021": {
-        "text": "$32,900 (2021 est.)"
-      },
       "note": "<b>note:</b> data in 2021 dollars"
     },
     "GDP (official exchange rate)": {
-      "text": "$262.642 billion (2023 est.)",
+      "text": "$288.406 billion (2024 est.)",
       "note": "<b>note:</b> data in current dollars at official exchange rate"
     },
     "Inflation rate (consumer prices)": {
       "Inflation rate (consumer prices) 2024": {
-        "text": "4.9% (2024 est.)"
+        "text": "8.8% (2024 est.)"
       },
       "Inflation rate (consumer prices) 2023": {
         "text": "14.7% (2023 est.)"
@@ -773,34 +776,34 @@
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "3.9% (2023 est.)"
+        "text": "3.9% (2024 est.)"
       },
       "industry": {
-        "text": "32.3% (2023 est.)"
+        "text": "31.4% (2024 est.)"
       },
       "services": {
-        "text": "56.3% (2023 est.)"
+        "text": "58.2% (2024 est.)"
       },
       "note": "<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "51.3% (2023 est.)"
+        "text": "51.4% (2023 est.)"
       },
       "government consumption": {
         "text": "11.1% (2023 est.)"
       },
       "investment in fixed capital": {
-        "text": "26.4% (2023 est.)"
+        "text": "26.5% (2023 est.)"
       },
       "investment in inventories": {
         "text": "3.3% (2023 est.)"
       },
       "exports of goods and services": {
-        "text": "34.4% (2023 est.)"
+        "text": "34.5% (2023 est.)"
       },
       "imports of goods and services": {
-        "text": "-27.4% (2023 est.)"
+        "text": "-27.5% (2023 est.)"
       },
       "note": "<b>note:</b> figures may not total 100% due to rounding or gaps in data collection"
     },
@@ -812,7 +815,7 @@
       "text": "oil, coal, iron ore, manganese, chromite, lead, zinc, copper, titanium, bauxite, gold, silver, phosphates, sulfur, uranium, iron and steel; tractors and other agricultural machinery, electric motors, construction materials"
     },
     "Industrial production growth rate": {
-      "text": "8.11% (2023 est.)",
+      "text": "6.6% (2024 est.)",
       "note": "<b>note:</b> annual % change in industrial value added based on constant local currency"
     },
     "Labor force": {
@@ -824,7 +827,7 @@
         "text": "4.8% (2024 est.)"
       },
       "Unemployment rate 2023": {
-        "text": "4.8% (2023 est.)"
+        "text": "4.9% (2023 est.)"
       },
       "Unemployment rate 2022": {
         "text": "4.9% (2022 est.)"
@@ -844,7 +847,7 @@
       "note": "<b>note:</b> % of labor force ages 15-24 seeking employment"
     },
     "Population below poverty line": {
-      "text": "5.2% (2022 est.)",
+      "text": "5.2% (2023 est.)",
       "note": "<b>note:</b> % of population with income below national poverty line"
     },
     "Gini Index coefficient - distribution of family income": {
@@ -871,14 +874,14 @@
       "note": "<b>note:</b> % share of income accruing to lowest and highest 10% of population"
     },
     "Remittances": {
+      "Remittances 2024": {
+        "text": "0.1% of GDP (2024 est.)"
+      },
       "Remittances 2023": {
-        "text": "0.12% of GDP (2023 est.)"
+        "text": "0.1% of GDP (2023 est.)"
       },
       "Remittances 2022": {
-        "text": "0.21% of GDP (2022 est.)"
-      },
-      "Remittances 2021": {
-        "text": "0.16% of GDP (2021 est.)"
+        "text": "0.2% of GDP (2022 est.)"
       },
       "note": "<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities"
     },
@@ -893,7 +896,7 @@
     },
     "Public debt": {
       "Public debt 2023": {
-        "text": "20.8% of GDP (2023 est.)"
+        "text": "20.9% of GDP (2023 est.)"
       },
       "note": "<b>note:</b> central government debt as a % of GDP"
     },
@@ -902,26 +905,26 @@
       "note": "<b>note:</b> central government tax revenue as a % of GDP"
     },
     "Current account balance": {
+      "Current account balance 2024": {
+        "text": "-$3.702 billion (2024 est.)"
+      },
       "Current account balance 2023": {
-        "text": "-$8.981 billion (2023 est.)"
+        "text": "-$9.448 billion (2023 est.)"
       },
       "Current account balance 2022": {
-        "text": "$6.435 billion (2022 est.)"
-      },
-      "Current account balance 2021": {
-        "text": "-$2.679 billion (2021 est.)"
+        "text": "$6.436 billion (2022 est.)"
       },
       "note": "<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars"
     },
     "Exports": {
+      "Exports 2024": {
+        "text": "$91.908 billion (2024 est.)"
+      },
       "Exports 2023": {
-        "text": "$90.915 billion (2023 est.)"
+        "text": "$90.926 billion (2023 est.)"
       },
       "Exports 2022": {
         "text": "$93.822 billion (2022 est.)"
-      },
-      "Exports 2021": {
-        "text": "$71.726 billion (2021 est.)"
       },
       "note": "<b>note:</b> balance of payments - exports of goods and services in current dollars"
     },
@@ -934,14 +937,14 @@
       "note": "<b>note:</b> top five export commodities based on value in dollars"
     },
     "Imports": {
+      "Imports 2024": {
+        "text": "$74.246 billion (2024 est.)"
+      },
       "Imports 2023": {
-        "text": "$72.993 billion (2023 est.)"
+        "text": "$72.723 billion (2023 est.)"
       },
       "Imports 2022": {
-        "text": "$60.816 billion (2022 est.)"
-      },
-      "Imports 2021": {
-        "text": "$49.597 billion (2021 est.)"
+        "text": "$60.439 billion (2022 est.)"
       },
       "note": "<b>note:</b> balance of payments - imports of goods and services in current dollars"
     },
@@ -955,7 +958,7 @@
     },
     "Reserves of foreign exchange and gold": {
       "Reserves of foreign exchange and gold 2024": {
-        "text": "$21.98 billion (2024 est.)"
+        "text": "$45.808 billion (2024 est.)"
       },
       "Reserves of foreign exchange and gold 2023": {
         "text": "$35.965 billion (2023 est.)"
