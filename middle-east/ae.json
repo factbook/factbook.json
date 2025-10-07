@@ -254,22 +254,22 @@
     },
     "Drinking water source": {
       "improved: urban": {
-        "text": "urban: NA"
+        "text": "urban: 100% of population (2022 est.)"
       },
       "improved: rural": {
-        "text": "rural: NA"
+        "text": "rural: 100% of population (2022 est.)"
       },
       "improved: total": {
-        "text": "total: 100% of population"
+        "text": "total: 100% of population (2022 est.)"
       },
       "unimproved: urban": {
-        "text": "urban: NA"
+        "text": "urban: 0% of population (2022 est.)"
       },
       "unimproved: rural": {
-        "text": "rural: NA"
+        "text": "rural: 0% of population (2022 est.)"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2020 est.)"
+        "text": "total: 0% of population (2022 est.)"
       }
     },
     "Health expenditure": {
@@ -288,22 +288,22 @@
     },
     "Sanitation facility access": {
       "improved: urban": {
-        "text": "urban: NA"
+        "text": "urban: 99.8% of population (2022 est.)"
       },
       "improved: rural": {
-        "text": "rural: NA"
+        "text": "rural: 99.9% of population (2022 est.)"
       },
       "improved: total": {
-        "text": "total: 100% of population"
+        "text": "total: 99.8% of population (2022 est.)"
       },
       "unimproved: urban": {
-        "text": "urban: NA"
+        "text": "urban: 0.2% of population (2022 est.)"
       },
       "unimproved: rural": {
-        "text": "rural: NA"
+        "text": "rural: 0.1% of population (2022 est.)"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2020 est.)"
+        "text": "total: 0.2% of population (2022 est.)"
       }
     },
     "Obesity - adult prevalence rate": {
@@ -414,41 +414,58 @@
         "text": "1.5% annual rate of change (2020-25 est.)"
       }
     },
-    "Air pollutants": {
-      "particulate matter emissions": {
-        "text": "41.75 micrograms per cubic meter (2019 est.)"
+    "Carbon dioxide emissions": {
+      "total emissions": {
+        "text": "271.703 million metric tonnes of CO2 (2023 est.)"
       },
-      "carbon dioxide emissions": {
-        "text": "206.32 megatons (2016 est.)"
+      "from coal and metallurgical coke": {
+        "text": "12.788 million metric tonnes of CO2 (2023 est.)"
       },
-      "methane emissions": {
-        "text": "56.55 megatons (2020 est.)"
+      "from petroleum and other liquids": {
+        "text": "126.038 million metric tonnes of CO2 (2023 est.)"
+      },
+      "from consumed natural gas": {
+        "text": "132.876 million metric tonnes of CO2 (2023 est.)"
+      }
+    },
+    "Particulate matter emissions": {
+      "text": "38.9 micrograms per cubic meter (2019 est.)"
+    },
+    "Methane emissions": {
+      "energy": {
+        "text": "1,573.7 kt (2022-2024 est.)"
+      },
+      "agriculture": {
+        "text": "47.4 kt (2019-2021 est.)"
+      },
+      "waste": {
+        "text": "448.4 kt (2019-2021 est.)"
+      },
+      "other": {
+        "text": "2.5 kt (2019-2021 est.)"
       }
     },
     "Waste and recycling": {
       "municipal solid waste generated annually": {
-        "text": "5,413,453 tons (2015 est.)"
-      },
-      "municipal solid waste recycled annually": {
-        "text": "1,082,691 tons (2015 est.)"
+        "text": "5.618 million tons (2024 est.)"
       },
       "percent of municipal solid waste recycled": {
-        "text": "20% (2015 est.)"
+        "text": "24.5% (2022 est.)"
       }
     },
     "Total water withdrawal": {
       "municipal": {
-        "text": "2.63 billion cubic meters (2020 est.)"
+        "text": "2.297 billion cubic meters (2022)"
       },
       "industrial": {
-        "text": "69 million cubic meters (2020 est.)"
+        "text": "55 million cubic meters (2022)"
       },
       "agricultural": {
-        "text": "2.32 billion cubic meters (2020 est.)"
+        "text": "2.466 billion cubic meters (2022)"
       }
     },
     "Total renewable water resources": {
-      "text": "150 million cubic meters (2020 est.)"
+      "text": "150 million cubic meters (2022 est.)"
     }
   },
   "Government": {
@@ -617,7 +634,7 @@
     },
     "Diplomatic representation from the US": {
       "chief of mission": {
-        "text": "Ambassador Martina A. STRONG (since 4 October 2023)"
+        "text": "Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Eric GAUDIOSI (since August 2025)"
       },
       "embassy": {
         "text": "Embassies District, Plot 38, Sector W59-02, Street No. 4,&nbsp;Abu Dhabi"
@@ -647,8 +664,8 @@
     "National holiday": {
       "text": "Independence Day (National Day), 2 December (1971)"
     },
-    "Flag description": {
-      "text": "three equal horizontal bands of green (top), white, and black, with a wider vertical red band on the hoist side; the flag incorporates all four pan-Arab colors, which in this case represent fertility (green), neutrality (white), oil (black), and unity (red); red is a traditional color that was part of all the emirates' flags before their unification"
+    "Flag": {
+      "text": "<strong>description:</strong> three equal horizontal bands of green (top), white, and black, with a wider vertical red band on the left side<br><br><strong>meaning:</strong> the flag incorporates all four pan-Arab colors, which in this case represent fertility (green), neutrality (white), oil (black), and unity (red); red is a traditional color that was part of all the emirates' flags before their unification"
     },
     "National symbol(s)": {
       "text": "golden falcon"
@@ -664,7 +681,7 @@
         "text": "AREF Al Sheikh Abdullah Al Hassan/Mohamad Abdel WAHAB"
       },
       "history": {
-        "text": "music adopted 1971, lyrics adopted 1996; Mohamad Abdel WAHAB also composed the music for Tunisia's anthem"
+        "text": "music adopted 1971, lyrics adopted 1986; Mohamad Abdel WAHAB also composed the music for Tunisia's and Libya's anthem"
       }
     },
     "National heritage": {
@@ -829,12 +846,12 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$20.165 billion (2022 est.)"
+        "text": "$23.248 billion (2023 est.)"
       },
       "expenditures": {
-        "text": "$19.483 billion (2022 est.)"
+        "text": "$19.349 billion (2023 est.)"
       },
-      "note": "<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated"
+      "note": "<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated"
     },
     "Public debt": {
       "Public debt 2017": {
@@ -1003,20 +1020,6 @@
         "text": "6.091 trillion cubic meters (2021 est.)"
       }
     },
-    "Carbon dioxide emissions": {
-      "total emissions": {
-        "text": "271.703 million metric tonnes of CO2 (2023 est.)"
-      },
-      "from coal and metallurgical coke": {
-        "text": "12.788 million metric tonnes of CO2 (2023 est.)"
-      },
-      "from petroleum and other liquids": {
-        "text": "126.038 million metric tonnes of CO2 (2023 est.)"
-      },
-      "from consumed natural gas": {
-        "text": "132.876 million metric tonnes of CO2 (2023 est.)"
-      }
-    },
     "Energy consumption per capita": {
       "Total energy consumption per capita 2023": {
         "text": "450.432 million Btu/person (2023 est.)"
@@ -1143,17 +1146,17 @@
   },
   "Space": {
     "Space agency/agencies": {
-      "text": "UAE Space Agency (created in 2014); Mohammed bin Rashid Space Centre (MBRSC; established 2006); in 2015, MBRSC combined with the Emirates Institution for Advanced Science and Technology (EIAST; established 2006) (2024)"
+      "text": "UAE Space Agency (created in 2014); Mohammed bin Rashid Space Centre (MBRSC; established 2006) (2025)"
     },
     "Space program overview": {
-      "text": "has an ambitious and growing space program and is recognized as one of the leading programs in the region; focused on satellite development, including communications, remote sensing, and navigational; also placing emphasis on building expertise, infrastructure, ground stations, technology, and research and development capabilities to support its space program domestically; rather than building its own launch capabilities, has elected to utilize foreign partners to launch payloads from spaceports abroad; has looked to invest heavily in foreign commercial space companies and  encourage global partnerships; has a foreign-assisted astronaut training program; seeking to establish UAE as an international hub for space education; has signed more than 25 cooperation agreements or memorandums of understanding with major global and regional players in the space sector, including the Arab Space Cooperation Group, China, the European Space Agency (ESA), France, Germany, India, Japan, Russia, South Korea, the UK, and the US; sees the development of its commercial space industry as a key pillar for diversifying and developing the country’s non-oil economy; dozens of space companies and entities operate in the UAE, including international and start-ups, plus several space science research centers (2024)",
+      "text": "has an ambitious and growing national space program; focused on satellite development, including communications, remote sensing, and navigational, as well as capabilities (such as probes) for deep space exploration; also placing emphasis on building expertise, infrastructure, ground stations, technology, and research and development capabilities to support its space program domestically; rather than building its own launch capabilities, has elected to utilize foreign partners to launch payloads from spaceports abroad; has looked to invest in foreign commercial space companies and encourage global partnerships; has a foreign-assisted astronaut training program; seeking to establish UAE as an international hub for space education; founding member of the Arab Space Cooperation Group; has signed more than 25 cooperation agreements or memorandums of understanding with major global and regional players in the space sector, including China, Egypt, the European Space Agency, France, Germany, India, Japan, Russia, South Korea, Turkey, the UK, and the US; sees the development of its commercial space industry as a key pillar for diversifying and developing the country’s non-oil economy; in 2022, pledged to spend more than $800 million in the private space sector to grow the country’s capabilities in space over the following 10 years; dozens of space companies and entities operate in the UAE, including international and start-ups, plus several space science research centers (2025)",
       "note": "<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide"
     }
   },
   "Transnational Issues": {
     "Refugees and internally displaced persons": {
-      "stateless persons": {
-        "text": "5 (mid-year 2021)"
+      "refugees": {
+        "text": "7,634 (2024 est.)"
       }
     },
     "Illicit drugs": {

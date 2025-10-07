@@ -124,7 +124,7 @@
       "text": "English"
     },
     "Religions": {
-      "text": "Protestant 69.4% (includes Anglican 63.2%, Baptist 2.3%, Salvation Army 2%, Seventh Day Adventist 1.9%), Jehovah's Witness 3.8%, Roman Catholic 2.2%, New Apostolic 1.6%, other Christian 1.4%, other 1.1%, none 9%, unspecified 11.4% (2021 est.)",
+      "text": "Anglican 63.2%, unspecified 11.4%, no religion 9%, Jehovah's Witness 3.8%, Baptist 2.3%, Salvation Army 2%, Roman Catholic 2.2%, Seventh Day Adventist 1.9%, New Apostolic 1.6%, other Christian 1.4%, other 1.1%  (2021 est.)",
       "note": "<strong>note:</strong> data represent Saint Helena only"
     },
     "Age structure": {
@@ -140,16 +140,16 @@
     },
     "Dependency ratios": {
       "total dependency ratio": {
-        "text": "50.4 (2024 est.) NA"
+        "text": "50.4 (2024 est.)"
       },
       "youth dependency ratio": {
-        "text": "21.5 (2024 est.) NA"
+        "text": "21.5 (2024 est.)"
       },
       "elderly dependency ratio": {
-        "text": "28.9 (2024 est.) NA"
+        "text": "28.9 (2024 est.)"
       },
       "potential support ratio": {
-        "text": "3.5 (2024 est.) NA"
+        "text": "3.5 (2024 est.)"
       }
     },
     "Median age": {
@@ -234,47 +234,20 @@
     "Gross reproduction rate": {
       "text": "0.78 (2024 est.)"
     },
-    "Contraceptive prevalence rate": {
-      "text": "NA"
-    },
     "Drinking water source": {
-      "improved: urban": {
-        "text": "urban: NA"
-      },
-      "improved: rural": {
-        "text": "rural: NA"
-      },
       "improved: total": {
-        "text": "total: 99.1% of population"
-      },
-      "unimproved: urban": {
-        "text": "urban: NA"
-      },
-      "unimproved: rural": {
-        "text": "rural: NA"
+        "text": "total: 99.1% of population (2022 est.)"
       },
       "unimproved: total": {
-        "text": "total: 0.9% of population (2020)"
+        "text": "total: 0.9% of population (2022 est.)"
       }
     },
     "Sanitation facility access": {
-      "improved: urban": {
-        "text": "urban: NA"
-      },
-      "improved: rural": {
-        "text": "rural: NA"
-      },
       "improved: total": {
-        "text": "total: 100% of population"
-      },
-      "unimproved: urban": {
-        "text": "urban: NA"
-      },
-      "unimproved: rural": {
-        "text": "rural: NA"
+        "text": "total: 100% of population (2022 est.)"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2020)"
+        "text": "total: 0% of population (2022 est.)"
       }
     }
   },
@@ -311,6 +284,14 @@
       },
       "rate of urbanization": {
         "text": "0.98% annual rate of change (2020-25 est.)"
+      }
+    },
+    "Carbon dioxide emissions": {
+      "total emissions": {
+        "text": "12,000 metric tonnes of CO2 (2023 est.)"
+      },
+      "from petroleum and other liquids": {
+        "text": "12,000 metric tonnes of CO2 (2023 est.)"
       }
     }
   },
@@ -411,10 +392,11 @@
       "text": "none (overseas territory of the UK)"
     },
     "National holiday": {
-      "text": "Official birthday of King Charles III, April or June as designated by the governor"
+      "text": "Official birthday of King Charles III, celebrated in April or June as designated by the governor (1948)"
     },
-    "Flag description": {
-      "text": "blue with the UK flag in the upper hoist-side quadrant and the Saint Helenian shield centered on the outer half of the flag; the upper third of the shield depicts a white plover on a yellow field; the rest of the shield depicts a rocky coastline and a three-masted sailing ship with sails furled and flying an English flag"
+    "Flag": {
+      "text": "<strong>description:</strong> blue with the UK flag in the upper-left quadrant and the Saint Helenian shield centered on the right half of the flag; the upper third of the shield depicts a white plover on a yellow field; under the bird is a rocky coastline and a three-masted sailing ship with sails furled and flying an English flag<br><br><strong>history:</strong> the flag has been in use since 1984, when it was commissioned to mark the 150th anniversary of Saint Helena becoming a Crown Colony",
+      "note": "<strong>note: </strong>the French flag flies at Longwood House (Napoleon's former residence) and Napoleon's (now-empty) tomb on the island, because the French Government has owned the properties since 1858"
     },
     "National symbol(s)": {
       "text": "Saint Helena plover (wire bird)"
@@ -512,14 +494,6 @@
       "refined petroleum consumption": {
         "text": "85 bbl/day (2023 est.)"
       }
-    },
-    "Carbon dioxide emissions": {
-      "total emissions": {
-        "text": "12,000 metric tonnes of CO2 (2023 est.)"
-      },
-      "from petroleum and other liquids": {
-        "text": "12,000 metric tonnes of CO2 (2023 est.)"
-      }
     }
   },
   "Communications": {
@@ -543,7 +517,8 @@
       "text": "<em>Saint Helena</em>: no local TV station; 2 local radio stations, one of which is relayed to Ascension Island; satellite TV stations rebroadcast terrestrially<br><br><em>Ascension Island</em>: no local TV station; 1 local radio station and receives relays of broadcasts from radio station on Saint Helena; broadcasts from the British Forces Broadcasting Service (BFBS) available, as well as US military TV <br><br><em>Tristan da Cunha</em>: 1 local radio station and receives BFBS TV and radio broadcasts"
     },
     "Internet country code": {
-      "text": ".sh; note - Ascension Island assigned .ac"
+      "text": ".sh",
+      "note": "<strong>note:</strong> Ascension Island assigned .ac"
     },
     "Internet users": {
       "percent of population": {

@@ -269,15 +269,12 @@
     "Gross reproduction rate": {
       "text": "1.04 (2024 est.)"
     },
-    "Contraceptive prevalence rate": {
-      "text": "70.1% (2019/20)"
-    },
     "Drinking water source": {
       "improved: urban": {
-        "text": "urban: 99.8% of population"
+        "text": "urban: 99.8% of population (2022 est.)"
       },
       "unimproved: urban": {
-        "text": "urban: 0.2% of population"
+        "text": "urban: 0.2% of population (2022 est.)"
       },
       "unimproved: total": {
         "text": "total: (2020 est.) NA"
@@ -299,19 +296,10 @@
     },
     "Sanitation facility access": {
       "improved: urban": {
-        "text": "urban: 100% of population"
+        "text": "urban: 100% of population (2022 est.)"
       },
-      "improved: rural": {
-        "text": "rural: NA"
-      },
-      "improved: total": {
-        "text": "total: NA"
-      },
-      "unimproved: rural": {
-        "text": "rural: NA"
-      },
-      "unimproved: total": {
-        "text": "total: (2020 est.) NA"
+      "unimproved: urban": {
+        "text": "urban: 0% of population (2022 est.)"
       }
     },
     "Obesity - adult prevalence rate": {
@@ -422,41 +410,58 @@
         "text": "0.97% annual rate of change (2020-25 est.)"
       }
     },
-    "Air pollutants": {
-      "particulate matter emissions": {
-        "text": "12.04 micrograms per cubic meter (2019 est.)"
+    "Carbon dioxide emissions": {
+      "total emissions": {
+        "text": "198.141 million metric tonnes of CO2 (2023 est.)"
       },
-      "carbon dioxide emissions": {
-        "text": "201.35 megatons (2016 est.)"
+      "from coal and metallurgical coke": {
+        "text": "5.022 million metric tonnes of CO2 (2023 est.)"
       },
-      "methane emissions": {
-        "text": "120.66 megatons (2020 est.)"
+      "from petroleum and other liquids": {
+        "text": "102.998 million metric tonnes of CO2 (2023 est.)"
+      },
+      "from consumed natural gas": {
+        "text": "90.122 million metric tonnes of CO2 (2023 est.)"
+      }
+    },
+    "Particulate matter emissions": {
+      "text": "12 micrograms per cubic meter (2019 est.)"
+    },
+    "Methane emissions": {
+      "energy": {
+        "text": "1,553.3 kt (2022-2024 est.)"
+      },
+      "agriculture": {
+        "text": "3,035.5 kt (2019-2021 est.)"
+      },
+      "waste": {
+        "text": "631 kt (2019-2021 est.)"
+      },
+      "other": {
+        "text": "89.9 kt (2019-2021 est.)"
       }
     },
     "Waste and recycling": {
       "municipal solid waste generated annually": {
-        "text": "17,910,550 tons (2014 est.)"
-      },
-      "municipal solid waste recycled annually": {
-        "text": "1,074,633 tons (2010 est.)"
+        "text": "17.911 million tons (2024 est.)"
       },
       "percent of municipal solid waste recycled": {
-        "text": "6% (2010 est.)"
+        "text": "9.6% (2022 est.)"
       }
     },
     "Total water withdrawal": {
       "municipal": {
-        "text": "5.85 billion cubic meters (2020 est.)"
+        "text": "5.85 billion cubic meters (2022 est.)"
       },
       "industrial": {
-        "text": "4 billion cubic meters (2020 est.)"
+        "text": "4 billion cubic meters (2022 est.)"
       },
       "agricultural": {
-        "text": "27.93 billion cubic meters (2020 est.)"
+        "text": "27.93 billion cubic meters (2022 est.)"
       }
     },
     "Total renewable water resources": {
-      "text": "876.24 billion cubic meters (2020 est.)"
+      "text": "876.24 billion cubic meters (2022 est.)"
     }
   },
   "Government": {
@@ -655,7 +660,7 @@
     },
     "Diplomatic representation from the US": {
       "chief of mission": {
-        "text": "Ambassador (vacant); Charg&eacute; d'Affaires Abigail L. DRESSEL (since 17 January 2025)"
+        "text": "Ambassador (vacant); Charg&eacute; d'Affaires Heidi G&oacute;mez R&Aacute;PALO (since 11 July 2025)"
       },
       "embassy": {
         "text": "<br>Avenida Colombia 4300, (C1425GMN) Buenos Aires"
@@ -682,8 +687,8 @@
     "National holiday": {
       "text": "Revolution Day (May Revolution Day), 25 May (1810)"
     },
-    "Flag description": {
-      "text": "three equal horizontal bands of sky blue (top), white, and sky blue; centered in the white band is a radiant yellow sun with a human face that is known as the Sun of May; the colors represent the clear skies and snow of the Andes; the sun symbol commemorates the appearance of the sun through cloudy skies on 25 May 1810 during the first mass demonstration in favor of independence; the sun features are those of Inti, the Inca god of the sun"
+    "Flag": {
+      "text": "<strong>description:</strong> three equal horizontal bands of sky blue (top), white, and sky blue; centered in the white band is a radiant yellow sun with a human face that is known as the Sun of May<br><br><strong>meaning:</strong> the colors represent the clear skies and snow of the Andes Mountains; the sun commemorates the first mass demonstration in favor of independence on 25 May 1810, when the sun broke through the clouds; the sun is designed to look like Inti, the Incan god of the sun"
     },
     "National symbol(s)": {
       "text": "Sun of May (a sun-with-face symbol)"
@@ -699,7 +704,7 @@
         "text": "Vicente LOPEZ y PLANES/Jose Blas PARERA"
       },
       "history": {
-        "text": "adopted 1813; Vicente LOPEZ was inspired to write the anthem after watching a play about the 1810 May Revolution against Spain<br>a 1900 presidential decree declared that the first and last verses of the anthem would be the national anthem rather than the original nine verses"
+        "text": "adopted 1813; Vicente LOPEZ was inspired to write the anthem after watching a play about the 1810 May Revolution against Spain; a 1900 presidential decree declared that only the first and last verses would be considered official, rather than the original nine verses"
       }
     },
     "National heritage": {
@@ -756,13 +761,16 @@
       "note": "<b>note:</b> data in current dollars at official exchange rate"
     },
     "Inflation rate (consumer prices)": {
-      "Inflation rate (consumer prices) 2017": {
-        "text": "25.7% (2017 est.)"
+      "Inflation rate (consumer prices) 2022": {
+        "text": "73.1% (2022 est.)"
       },
-      "Inflation rate (consumer prices) 2016": {
-        "text": "26.5% (2016 est.)"
+      "Inflation rate (consumer prices) 2021": {
+        "text": "47.1% (2021 est.)"
       },
-      "note": "note: data are derived from private estimates"
+      "Inflation rate (consumer prices) 2020": {
+        "text": "40.5% (2020 est.)"
+      },
+      "note": "<strong>note:</strong> annual % change based on consumer prices"
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -877,12 +885,17 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$113.553 billion (2022 est.)"
+        "text": "$115.69 billion (2023 est.)"
       },
       "expenditures": {
-        "text": "$138.622 billion (2022 est.)"
+        "text": "$139.037 billion (2023 est.)"
       },
-      "note": "<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated"
+      "note": "<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated"
+    },
+    "Public debt": {
+      "Public debt 2016": {
+        "text": "55% of GDP (2016 est.)"
+      }
     },
     "Taxes and other revenues": {
       "text": "10% (of GDP) (2023 est.)",
@@ -1081,20 +1094,6 @@
         "text": "396.464 billion cubic meters (2021 est.)"
       }
     },
-    "Carbon dioxide emissions": {
-      "total emissions": {
-        "text": "198.141 million metric tonnes of CO2 (2023 est.)"
-      },
-      "from coal and metallurgical coke": {
-        "text": "5.022 million metric tonnes of CO2 (2023 est.)"
-      },
-      "from petroleum and other liquids": {
-        "text": "102.998 million metric tonnes of CO2 (2023 est.)"
-      },
-      "from consumed natural gas": {
-        "text": "90.122 million metric tonnes of CO2 (2023 est.)"
-      }
-    },
     "Energy consumption per capita": {
       "Total energy consumption per capita 2023": {
         "text": "78.496 million Btu/person (2023 est.)"
@@ -1244,8 +1243,14 @@
   },
   "Transnational Issues": {
     "Refugees and internally displaced persons": {
-      "refugees (country of origin)": {
-        "text": "217,742 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2023)"
+      "refugees": {
+        "text": "9,175 (2024 est.)"
+      },
+      "IDPs": {
+        "text": "74 (2024 est.)"
+      },
+      "stateless persons": {
+        "text": "34 (2024 est.)"
       }
     }
   }

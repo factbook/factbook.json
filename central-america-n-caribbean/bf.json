@@ -237,9 +237,6 @@
     "Drinking water source": {
       "improved: total": {
         "text": "total: 98.9% of population"
-      },
-      "unimproved: total": {
-        "text": "total: 1.1% of population (2017 est.)"
       }
     },
     "Health expenditure": {
@@ -255,14 +252,6 @@
     },
     "Hospital bed density": {
       "text": "2.7 beds/1,000 population (2021 est.)"
-    },
-    "Sanitation facility access": {
-      "improved: total": {
-        "text": "total: 98.2% of population"
-      },
-      "unimproved: total": {
-        "text": "total: 1.8% of population (2017 est.)"
-      }
     },
     "Obesity - adult prevalence rate": {
       "text": "31.6% (2016)"
@@ -350,20 +339,29 @@
         "text": "1.02% annual rate of change (2020-25 est.)"
       }
     },
-    "Air pollutants": {
-      "particulate matter emissions": {
-        "text": "5.2 micrograms per cubic meter (2019 est.)"
+    "Carbon dioxide emissions": {
+      "total emissions": {
+        "text": "2.99 million metric tonnes of CO2 (2023 est.)"
       },
-      "carbon dioxide emissions": {
-        "text": "1.79 megatons (2016 est.)"
+      "from coal and metallurgical coke": {
+        "text": "2,000 metric tonnes of CO2 (2023 est.)"
       },
-      "methane emissions": {
-        "text": "0.23 megatons (2020 est.)"
+      "from petroleum and other liquids": {
+        "text": "2.966 million metric tonnes of CO2 (2023 est.)"
+      },
+      "from consumed natural gas": {
+        "text": "23,000 metric tonnes of CO2 (2023 est.)"
       }
+    },
+    "Particulate matter emissions": {
+      "text": "5.2 micrograms per cubic meter (2019 est.)"
     },
     "Waste and recycling": {
       "municipal solid waste generated annually": {
-        "text": "264,000 tons (2015 est.)"
+        "text": "264,000 tons (2024 est.)"
+      },
+      "percent of municipal solid waste recycled": {
+        "text": "24.9% (2022 est.)"
       }
     },
     "Total water withdrawal": {
@@ -580,8 +578,8 @@
     "National holiday": {
       "text": "Independence Day, 10 July (1973)"
     },
-    "Flag description": {
-      "text": "three equal horizontal bands of aquamarine (top), gold, and aquamarine, with a black equilateral triangle based on the hoist side; the band colors represent the golden beaches of the islands surrounded by the aquamarine sea; black represents the vigor and force of a united people, and the triangle stands for the enterprise and determination of the Bahamian people"
+    "Flag": {
+      "text": "<strong>description:</strong> three equal horizontal bands of aquamarine (top), gold, and aquamarine, with a black equilateral triangle based on the left side<br><br><strong>meaning:</strong> the band colors represent the islands' golden beaches surrounded by the aquamarine sea; black stands for the vigor and force of a united people, and the triangle for the people's enterprise and determination"
     },
     "National symbol(s)": {
       "text": "blue marlin, flamingo, yellow elderflower"
@@ -891,20 +889,6 @@
         "text": "14.13 million cubic meters (2023 est.)"
       }
     },
-    "Carbon dioxide emissions": {
-      "total emissions": {
-        "text": "2.99 million metric tonnes of CO2 (2023 est.)"
-      },
-      "from coal and metallurgical coke": {
-        "text": "2,000 metric tonnes of CO2 (2023 est.)"
-      },
-      "from petroleum and other liquids": {
-        "text": "2.966 million metric tonnes of CO2 (2023 est.)"
-      },
-      "from consumed natural gas": {
-        "text": "23,000 metric tonnes of CO2 (2023 est.)"
-      }
-    },
     "Energy consumption per capita": {
       "Total energy consumption per capita 2023": {
         "text": "104.409 million Btu/person (2023 est.)"
@@ -1026,6 +1010,14 @@
     }
   },
   "Transnational Issues": {
+    "Refugees and internally displaced persons": {
+      "refugees": {
+        "text": "30 (2024 est.)"
+      },
+      "IDPs": {
+        "text": "30 (2024 est.)"
+      }
+    },
     "Illicit drugs": {
       "USG identification": {
         "text": "<br>major illicit drug-producing and/or drug-transit country (2025)"

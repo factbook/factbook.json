@@ -241,50 +241,6 @@
     "Gross reproduction rate": {
       "text": "0.54 (2024 est.)"
     },
-    "Contraceptive prevalence rate": {
-      "text": "75.2% (2016)",
-      "note": "<strong>note:</strong> percent of women aged 20-52"
-    },
-    "Drinking water source": {
-      "improved: urban": {
-        "text": "urban: NA"
-      },
-      "improved: rural": {
-        "text": "rural: NA"
-      },
-      "improved: total": {
-        "text": "total: NA"
-      },
-      "unimproved: urban": {
-        "text": "urban: NA"
-      },
-      "unimproved: rural": {
-        "text": "rural: NA"
-      },
-      "unimproved: total": {
-        "text": "total: NA"
-      }
-    },
-    "Sanitation facility access": {
-      "improved: urban": {
-        "text": "urban: NA"
-      },
-      "improved: rural": {
-        "text": "rural: NA"
-      },
-      "improved: total": {
-        "text": "total: NA"
-      },
-      "unimproved: urban": {
-        "text": "urban: NA"
-      },
-      "unimproved: rural": {
-        "text": "rural: NA"
-      },
-      "unimproved: total": {
-        "text": "total: NA"
-      }
-    },
     "Currently married women (ages 15-49)": {
       "text": "51% (2023 est.)"
     }
@@ -324,9 +280,26 @@
         "text": "0.65% annual rate of change (2020-25 est.)"
       }
     },
+    "Carbon dioxide emissions": {
+      "total emissions": {
+        "text": "289.109 million metric tonnes of CO2 (2023 est.)"
+      },
+      "from coal and metallurgical coke": {
+        "text": "140.734 million metric tonnes of CO2 (2023 est.)"
+      },
+      "from petroleum and other liquids": {
+        "text": "92.014 million metric tonnes of CO2 (2023 est.)"
+      },
+      "from consumed natural gas": {
+        "text": "56.361 million metric tonnes of CO2 (2023 est.)"
+      }
+    },
     "Waste and recycling": {
       "municipal solid waste generated annually": {
         "text": "7.336 million tons (2015 est.)"
+      },
+      "percent of municipal solid waste recycled": {
+        "text": "13.8% (2022 est.)"
       }
     },
     "Total renewable water resources": {
@@ -516,8 +489,8 @@
       "text": "Republic Day (National Day), 10 October (1911)",
       "note": "<strong>note:</strong> celebrates the anniversary of the Chinese Revolution, also known as Double Ten (10-10) Day"
     },
-    "Flag description": {
-      "text": "red field with a dark blue rectangle in the upper hoist-side corner, bearing a white sun with 12 triangular rays; the blue-and-white design of the canton (symbolizing the sun of progress) dates to 1895; blue stands for liberty, justice, and democracy, red for fraternity, sacrifice, and nationalism, and white for equality, frankness, and the people's livelihood; the 12 rays represent the months of the year and the traditional Chinese hours (each ray equals two hours)",
+    "Flag": {
+      "text": "<strong>description:</strong> red field with a dark blue rectangle in the upper-left corner, bearing a white sun with 12 triangular rays<br><br><strong>meaning:</strong> blue stands for liberty, justice, and democracy; red for fraternity, sacrifice, and nationalism; white for equality, frankness, and the people's livelihood; the 12 rays represent the months of the year and the traditional Chinese hours (each ray equals two hours)<br><br><strong>history:</strong> the blue-and-white design of the canton (symbolizing the sun of progress) dates to 1895",
       "note": "<strong>note:</strong> similar to the flag of Samoa"
     },
     "National symbol(s)": {
@@ -534,7 +507,7 @@
         "text": "HU Han-min, TAI Chi-t'ao, and LIAO Chung-k'ai/CHENG Mao-yun"
       },
       "history": {
-        "text": "adopted 1930; also the song of the Kuomintang Party; informally known as \"San Min Chu I\" or \"San Min Zhu Yi\" (Three Principles of the People); because of political pressure from China, \"Guo Qi Ge\" (National Banner Song) is used at international events rather than the official anthem of Taiwan"
+        "text": "adopted 1937; also the song of the Kuomintang Party; informally known as \"San Min Chu I\" or \"San Min Zhu Yi\" (Three Principles of the People); the anthem is banned from performance in mainland China, Hong Kong, and Macau"
       }
     }
   },
@@ -578,7 +551,8 @@
       "note": "<strong>note:</strong> data are in current dollars"
     },
     "GDP (official exchange rate)": {
-      "text": "$611.391 billion (2023 est.)"
+      "text": "$611.391 billion (2023 est.)",
+      "note": "<strong>note:</strong> data in current dollars at official exchange rate"
     },
     "Inflation rate (consumer prices)": {
       "Inflation rate (consumer prices) 2024": {
@@ -588,7 +562,7 @@
         "text": "2.5% (2023 est.)"
       },
       "Inflation rate (consumer prices) 2022": {
-        "text": "3% (2022 est.)"
+        "text": "2.9% (2022 est.)"
       },
       "note": "<strong>note:</strong> annual % change based on consumer prices"
     },
@@ -820,20 +794,6 @@
         "text": "6.23 billion cubic meters (2021 est.)"
       }
     },
-    "Carbon dioxide emissions": {
-      "total emissions": {
-        "text": "289.109 million metric tonnes of CO2 (2023 est.)"
-      },
-      "from coal and metallurgical coke": {
-        "text": "140.734 million metric tonnes of CO2 (2023 est.)"
-      },
-      "from petroleum and other liquids": {
-        "text": "92.014 million metric tonnes of CO2 (2023 est.)"
-      },
-      "from consumed natural gas": {
-        "text": "56.361 million metric tonnes of CO2 (2023 est.)"
-      }
-    },
     "Energy consumption per capita": {
       "Total energy consumption per capita 2023": {
         "text": "206.102 million Btu/person (2023 est.)"
@@ -970,17 +930,22 @@
   },
   "Space": {
     "Space agency/agencies": {
-      "text": "Taiwan Space Agency (TASA; renamed and reorganized in 2023 from the former National Space Program Organization or NSPO, which was established in 1991) (2024)"
+      "text": "Taiwan Space Agency (TASA; renamed and reorganized in 2023 from the former National Space Program Organization or NSPO, which was established in 1991) (2025)"
     },
     "Space launch site(s)": {
-      "text": "sounding rockets launched from Jui Peng Air Base (Pingtung); has announced intentions to build a future rocket launch site (2024)"
+      "text": "sounding rockets launched from Jui Peng Air Base (Pingtung); has announced intentions to build a future national space port on the southeast coast (Pingtung) (2025)"
     },
     "Space program overview": {
-      "text": "space program focused on the acquisition of satellites and the development of independent space capabilities, such as rocket manufacturing and satellite launch services; manufactures and operates remote sensing (RS) and scientific/research satellites; manufactures and tests sounding rockets; researching and developing other space technologies, including communications satellites, small satellites, satellite payloads and ground station components, spacecraft components, optical RS and telecommunications, navigational control, and rocket propulsion systems; has bi-lateral relations with the space programs of India and the US, but is blocked from participating in most international and regional space organizations due to political pressure from China; has a commercial space industry that provides components and expertise for TASA and is independently developing satellites and a small satellite launch vehicle (2024)",
+      "text": "has had a formal national space development program since the early 1990s with a focus on the acquisition of satellites and the development of independent space capabilities, such as rocket manufacturing and satellite launch services; manufactures and operates satellites; manufactures and tests sounding rockets; researching and developing other space technologies, including remote sensing, telecommunications, small satellites, satellite payloads and ground station components, spacecraft components, navigational control, and rocket propulsion systems; has bi-lateral relations with the space programs of France, India, Japan, Paraguay, Poland, the UK, and the US; has a commercial space industry that provides components and expertise for TASA and is independently developing satellites and a small satellite launch vehicle; the government passed a space promotion act in 2021 encouraging private investment in the space industry (2025)",
       "note": "<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide"
     }
   },
   "Transnational Issues": {
+    "Refugees and internally displaced persons": {
+      "IDPs": {
+        "text": "380 (2024 est.)"
+      }
+    },
     "Illicit drugs": {
       "USG identification": {
         "text": "<br>major precursor-chemical producer (2025)"

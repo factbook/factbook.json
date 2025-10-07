@@ -230,17 +230,6 @@
     "Gross reproduction rate": {
       "text": "0.91 (2024 est.)"
     },
-    "Contraceptive prevalence rate": {
-      "text": "NA"
-    },
-    "Drinking water source": {
-      "improved: total": {
-        "text": "total: 96.8% of population"
-      },
-      "unimproved: total": {
-        "text": "total: 3.2% of population (2017 est.)"
-      }
-    },
     "Health expenditure": {
       "Health expenditure (as % of GDP)": {
         "text": "5.7% of GDP (2021)"
@@ -254,26 +243,6 @@
     },
     "Hospital bed density": {
       "text": "3.2 beds/1,000 population (2018 est.)"
-    },
-    "Sanitation facility access": {
-      "improved: urban": {
-        "text": "urban: NA"
-      },
-      "improved: rural": {
-        "text": "rural: NA"
-      },
-      "improved: total": {
-        "text": "total: 93.7% of population"
-      },
-      "unimproved: urban": {
-        "text": "urban: NA"
-      },
-      "unimproved: rural": {
-        "text": "rural: NA"
-      },
-      "unimproved: total": {
-        "text": "total: 6.3% of population (2020 est.)"
-      }
     },
     "Obesity - adult prevalence rate": {
       "text": "21.3% (2016)"
@@ -361,20 +330,23 @@
         "text": "0.86% annual rate of change (2020-25 est.)"
       }
     },
-    "Air pollutants": {
-      "particulate matter emissions": {
-        "text": "10.08 micrograms per cubic meter (2019 est.)"
+    "Carbon dioxide emissions": {
+      "total emissions": {
+        "text": "348,000 metric tonnes of CO2 (2023 est.)"
       },
-      "carbon dioxide emissions": {
-        "text": "0.27 megatons (2016 est.)"
-      },
-      "methane emissions": {
-        "text": "2.04 megatons (2020 est.)"
+      "from petroleum and other liquids": {
+        "text": "348,000 metric tonnes of CO2 (2023 est.)"
       }
+    },
+    "Particulate matter emissions": {
+      "text": "10.2 micrograms per cubic meter (2019 est.)"
     },
     "Waste and recycling": {
       "municipal solid waste generated annually": {
-        "text": "29,536 tons (2012 est.)"
+        "text": "29,500 tons (2024 est.)"
+      },
+      "percent of municipal solid waste recycled": {
+        "text": "15.1% (2022 est.)"
       }
     },
     "Total water withdrawal": {
@@ -593,8 +565,8 @@
     "National holiday": {
       "text": "Independence Day, 7 February (1974)"
     },
-    "Flag description": {
-      "text": "a rectangle divided diagonally into yellow triangles (top and bottom) and green triangles (hoist side and outer side), with a red border around the flag; three yellow five-pointed stars are centered on the top red border, three on the bottom red border, and one on a red disk at the center of the flag; a nutmeg pod is on the hoist-side triangle; the seven stars stand for the administrative divisions, with the central star denoting the capital, St. George's; yellow stands for the sun and the warmth of the people, green for vegetation and agriculture, and red for harmony, unity, and courage"
+    "Flag": {
+      "text": "<strong>description:</strong> a rectangle divided diagonally into yellow triangles (top and bottom) and green triangles (left and right), with a wide red border around the flag; three five-pointed yellow stars are centered on the top and bottom of the red border, with one larger yellow star on a red disk at the center of the flag; a small yellow-and-red nutmeg pod is on the left triangle<br><br><strong>meaning:</strong> the seven stars stand for the country's administrative divisions, with the central star symbolizing the capital, St. George's; yellow stands for the sun and the warmth of the people, green for vegetation and agriculture, and red for harmony, unity, and courage"
     },
     "National symbol(s)": {
       "text": "Grenada dove, bougainvillea flower"
@@ -713,7 +685,7 @@
       "highest 10%": {
         "text": "33.7% (2018 est.)"
       },
-      "note": "% share of income accruing to lowest and highest 10% of population"
+      "note": "<strong>note:</strong> % share of income accruing to lowest and highest 10% of population"
     },
     "Remittances": {
       "Remittances 2024": {
@@ -735,6 +707,11 @@
         "text": "$222.475 million (2017 est.)"
       },
       "note": "<b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated"
+    },
+    "Public debt": {
+      "Public debt 2016": {
+        "text": "82% of GDP (2016 est.)"
+      }
     },
     "Current account balance": {
       "Current account balance 2024": {
@@ -865,14 +842,6 @@
         "text": "2,000 bbl/day (2023 est.)"
       }
     },
-    "Carbon dioxide emissions": {
-      "total emissions": {
-        "text": "348,000 metric tonnes of CO2 (2023 est.)"
-      },
-      "from petroleum and other liquids": {
-        "text": "348,000 metric tonnes of CO2 (2023 est.)"
-      }
-    },
     "Energy consumption per capita": {
       "Total energy consumption per capita 2023": {
         "text": "41.703 million Btu/person (2023 est.)"
@@ -964,5 +933,10 @@
     }
   },
   "Transnational Issues": {
+    "Refugees and internally displaced persons": {
+      "IDPs": {
+        "text": "383 (2024 est.)"
+      }
+    }
   }
 }

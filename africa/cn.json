@@ -238,9 +238,6 @@
     "Gross reproduction rate": {
       "text": "1.28 (2024 est.)"
     },
-    "Contraceptive prevalence rate": {
-      "text": "19.4% (2012)"
-    },
     "Drinking water source": {
       "improved: urban": {
         "text": "urban: 97.4% of population"
@@ -271,26 +268,6 @@
     },
     "Physician density": {
       "text": "0.42 physicians/1,000 population (2022)"
-    },
-    "Sanitation facility access": {
-      "improved: urban": {
-        "text": "urban: 62.4% of population"
-      },
-      "improved: rural": {
-        "text": "rural: 43.6% of population"
-      },
-      "improved: total": {
-        "text": "total: 49% of population"
-      },
-      "unimproved: urban": {
-        "text": "urban: 37.6% of population"
-      },
-      "unimproved: rural": {
-        "text": "rural: 56.4% of population"
-      },
-      "unimproved: total": {
-        "text": "total: 51% of population (2017 est.)"
-      }
     },
     "Obesity - adult prevalence rate": {
       "text": "7.8% (2016)"
@@ -389,35 +366,38 @@
         "text": "2.97% annual rate of change (2020-25 est.)"
       }
     },
-    "Air pollutants": {
-      "particulate matter emissions": {
-        "text": "14.37 micrograms per cubic meter (2019 est.)"
+    "Carbon dioxide emissions": {
+      "total emissions": {
+        "text": "436,000 metric tonnes of CO2 (2023 est.)"
       },
-      "carbon dioxide emissions": {
-        "text": "0.2 megatons (2016 est.)"
-      },
-      "methane emissions": {
-        "text": "0.19 megatons (2020 est.)"
+      "from petroleum and other liquids": {
+        "text": "436,000 metric tonnes of CO2 (2023 est.)"
       }
+    },
+    "Particulate matter emissions": {
+      "text": "14.5 micrograms per cubic meter (2019 est.)"
     },
     "Waste and recycling": {
       "municipal solid waste generated annually": {
-        "text": "91,013 tons (2015 est.)"
+        "text": "91,000 tons (2024 est.)"
+      },
+      "percent of municipal solid waste recycled": {
+        "text": "10.1% (2022 est.)"
       }
     },
     "Total water withdrawal": {
       "municipal": {
-        "text": "4.8 million cubic meters (2017 est.)"
+        "text": "4.8 million cubic meters (2022 est.)"
       },
       "industrial": {
-        "text": "500,000 cubic meters (2017 est.)"
+        "text": "500,000 cubic meters (2022 est.)"
       },
       "agricultural": {
-        "text": "4.7 million cubic meters (2017 est.)"
+        "text": "4.7 million cubic meters (2022 est.)"
       }
     },
     "Total renewable water resources": {
-      "text": "1.2 billion cubic meters (2020 est.)"
+      "text": "1.2 billion cubic meters (2022 est.)"
     }
   },
   "Government": {
@@ -594,8 +574,8 @@
     "National holiday": {
       "text": "Independence Day, 6 July (1975)"
     },
-    "Flag description": {
-      "text": "four equal horizontal bands of yellow (top), white, red, and blue, with a green isosceles triangle based on the hoist; a vertical white crescent moon is centered in the triangle, with the convex side facing the hoist and four white five-pointed stars placed vertically in a line between the points of the crescent; the horizontal bands and the four stars represent the four main islands of the archipelago -- Mwali, N'gazidja, Ndzuwani, and Mahore (Mayotte is a department of France, but claimed by Comoros)",
+    "Flag": {
+      "text": "<strong>description:</strong> four equal horizontal bands of yellow (top), white, red, and blue, with a green isosceles triangle based on the left; a vertical white crescent moon is centered in the triangle, with four five-pointed white stars placed vertically in a line between the points of the crescent<br><br><strong>meaning:</strong> the horizontal bands and the stars represent the four main islands of the archipelago -- Mwali, N'gazidja, Ndzuwani, and Mahore (Mayotte is a department of France, but claimed by Comoros)",
       "note": "<strong>note:</strong> the crescent, stars, and color green are traditional symbols of Islam"
     },
     "National symbol(s)": {
@@ -762,10 +742,16 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$223 million (2018 est.)"
+        "text": "$212.551 million (2023 est.)"
       },
       "expenditures": {
-        "text": "$228 million (2018 est.)"
+        "text": "$230.338 million (2023 est.)"
+      },
+      "note": "<b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated"
+    },
+    "Public debt": {
+      "Public debt 2016": {
+        "text": "27.7% of GDP (2016 est.)"
       }
     },
     "Current account balance": {
@@ -897,14 +883,6 @@
         "text": "3,000 bbl/day (2023 est.)"
       }
     },
-    "Carbon dioxide emissions": {
-      "total emissions": {
-        "text": "436,000 metric tonnes of CO2 (2023 est.)"
-      },
-      "from petroleum and other liquids": {
-        "text": "436,000 metric tonnes of CO2 (2023 est.)"
-      }
-    },
     "Energy consumption per capita": {
       "Total energy consumption per capita 2023": {
         "text": "7.139 million Btu/person (2023 est.)"
@@ -1006,5 +984,13 @@
     }
   },
   "Transnational Issues": {
+    "Refugees and internally displaced persons": {
+      "refugees": {
+        "text": "18 (2024 est.)"
+      },
+      "IDPs": {
+        "text": "38 (2024 est.)"
+      }
+    }
   }
 }

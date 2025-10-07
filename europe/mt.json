@@ -245,22 +245,22 @@
     },
     "Drinking water source": {
       "improved: urban": {
-        "text": "urban: 100% of population"
+        "text": "urban: 100% of population (2022 est.)"
       },
       "improved: rural": {
-        "text": "rural: 100% of population"
+        "text": "rural: 100% of population (2022 est.)"
       },
       "improved: total": {
-        "text": "total: 100% of population"
+        "text": "total: 100% of population (2022 est.)"
       },
       "unimproved: urban": {
-        "text": "urban: 0% of population"
+        "text": "urban: 0% of population (2022 est.)"
       },
       "unimproved: rural": {
-        "text": "rural: 0% of population"
+        "text": "rural: 0% of population (2022 est.)"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2020 est.)"
+        "text": "total: 0% of population (2022 est.)"
       }
     },
     "Health expenditure": {
@@ -279,22 +279,22 @@
     },
     "Sanitation facility access": {
       "improved: urban": {
-        "text": "urban: 100% of population"
+        "text": "urban: 100% of population (2022 est.)"
       },
       "improved: rural": {
-        "text": "rural: 100% of population"
+        "text": "rural: 100% of population (2022 est.)"
       },
       "improved: total": {
-        "text": "total: 100% of population"
+        "text": "total: 100% of population (2022 est.)"
       },
       "unimproved: urban": {
-        "text": "urban: 0% of population"
+        "text": "urban: 0% of population (2022 est.)"
       },
       "unimproved: rural": {
-        "text": "rural: 0% of population"
+        "text": "rural: 0% of population (2022 est.)"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2020 est.)"
+        "text": "total: 0% of population (2022 est.)"
       }
     },
     "Obesity - adult prevalence rate": {
@@ -394,41 +394,41 @@
         "text": "0.28% annual rate of change (2020-25 est.)"
       }
     },
-    "Air pollutants": {
-      "particulate matter emissions": {
-        "text": "12.93 micrograms per cubic meter (2019 est.)"
+    "Carbon dioxide emissions": {
+      "total emissions": {
+        "text": "8.965 million metric tonnes of CO2 (2023 est.)"
       },
-      "carbon dioxide emissions": {
-        "text": "1.34 megatons (2016 est.)"
+      "from petroleum and other liquids": {
+        "text": "8.113 million metric tonnes of CO2 (2023 est.)"
       },
-      "methane emissions": {
-        "text": "0.2 megatons (2020 est.)"
+      "from consumed natural gas": {
+        "text": "852,000 metric tonnes of CO2 (2023 est.)"
       }
+    },
+    "Particulate matter emissions": {
+      "text": "13.1 micrograms per cubic meter (2019 est.)"
     },
     "Waste and recycling": {
       "municipal solid waste generated annually": {
-        "text": "269,000 tons (2015 est.)"
-      },
-      "municipal solid waste recycled annually": {
-        "text": "17,996 tons (2015 est.)"
+        "text": "348,800 tons (2024 est.)"
       },
       "percent of municipal solid waste recycled": {
-        "text": "6.7% (2015 est.)"
+        "text": "10.5% (2022 est.)"
       }
     },
     "Total water withdrawal": {
       "municipal": {
-        "text": "40 million cubic meters (2020 est.)"
+        "text": "39.497 million cubic meters (2022)"
       },
       "industrial": {
-        "text": "1 million cubic meters (2020 est.)"
+        "text": "1 million cubic meters (2022)"
       },
       "agricultural": {
-        "text": "20 million cubic meters (2020 est.)"
+        "text": "21.358 million cubic meters (2022)"
       }
     },
     "Total renewable water resources": {
-      "text": "50 million cubic meters (2020 est.)"
+      "text": "50.5 million cubic meters (2022 est.)"
     }
   },
   "Government": {
@@ -615,8 +615,8 @@
     "National holiday": {
       "text": "Independence Day, 21 September (1964); Republic Day, 13 December (1974)"
     },
-    "Flag description": {
-      "text": "two equal vertical bands of white (hoist side) and red; in the upper hoist-side corner is the George Cross, edged in red; according to legend, the colors come from the red-and-white checkered banner of Count Roger of Sicily, who removed a bi-colored corner and granted it to Malta in 1091, but the colors more likely come from the Knights of Saint John, who ruled Malta from 1530 to 1798; in 1942, Britain's King George VI awarded the George Cross to the islanders for their exceptional bravery and gallantry in World War II; since independence in 1964, the George Cross bordered in red has appeared on the white field"
+    "Flag": {
+      "text": "<strong>description:</strong> two equal vertical bands of white (left side) and red; in the upper-left corner is the George Cross, edged in red<br><br><strong>history:</strong> according to legend, the colors come from the red-and-white checkered banner of Count Roger of Sicily, who removed a bicolored corner and granted it to Malta in 1091, but the colors more likely come from the Knights of Saint John, who ruled Malta from 1530 to 1798; in 1942, Britain's King George VI awarded the George Cross to the islanders for their exceptional bravery and gallantry in World War II, and the George Cross bordered in red was added to the flag after independence in 1964 "
     },
     "National symbol(s)": {
       "text": "Maltese eight-pointed cross"
@@ -626,13 +626,13 @@
     },
     "National anthem(s)": {
       "title": {
-        "text": "\"L-Innu Malti\" (The Maltese Anthem)"
+        "text": "\"L-Innu Malti\" (The Hymn of Malta)"
       },
       "lyrics/music": {
         "text": "Dun Karm PSAILA/Robert SAMMUT"
       },
       "history": {
-        "text": "adopted 1945; written in the form of a prayer"
+        "text": "adopted 1945; written in the form of a prayer to bind together the political parties and the country&nbsp;"
       }
     },
     "National heritage": {
@@ -805,12 +805,12 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$6.106 billion (2022 est.)"
+        "text": "$6.95 billion (2023 est.)"
       },
       "expenditures": {
-        "text": "$6.922 billion (2022 est.)"
+        "text": "$7.966 billion (2023 est.)"
       },
-      "note": "<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated"
+      "note": "<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated"
     },
     "Public debt": {
       "Public debt 2017": {
@@ -962,17 +962,6 @@
         "text": "444.715 million cubic meters (2023 est.)"
       }
     },
-    "Carbon dioxide emissions": {
-      "total emissions": {
-        "text": "8.965 million metric tonnes of CO2 (2023 est.)"
-      },
-      "from petroleum and other liquids": {
-        "text": "8.113 million metric tonnes of CO2 (2023 est.)"
-      },
-      "from consumed natural gas": {
-        "text": "852,000 metric tonnes of CO2 (2023 est.)"
-      }
-    },
     "Energy consumption per capita": {
       "Total energy consumption per capita 2023": {
         "text": "234.698 million Btu/person (2023 est.)"
@@ -1095,14 +1084,11 @@
   },
   "Transnational Issues": {
     "Refugees and internally displaced persons": {
-      "stateless persons": {
-        "text": "11 (2022)"
+      "refugees": {
+        "text": "9,284 (2024 est.)"
       },
-      "note": "<strong>note:</strong> 8,556 estimated refugee and migrant arrivals by sea (January 2015-November 2022)"
-    },
-    "Trafficking in persons": {
-      "tier rating": {
-        "text": "Tier 2 Watch list — Malta did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period and was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/malta/"
+      "stateless persons": {
+        "text": "171 (2024 est.)"
       }
     }
   }

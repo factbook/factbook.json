@@ -254,27 +254,24 @@
     "Gross reproduction rate": {
       "text": "1.78 (2024 est.)"
     },
-    "Contraceptive prevalence rate": {
-      "text": "21.2% (2019)"
-    },
     "Drinking water source": {
       "improved: urban": {
-        "text": "urban: 92.5% of population"
+        "text": "urban: 79.8% of population (2022 est.)"
       },
       "improved: rural": {
-        "text": "rural: 58% of population"
+        "text": "rural: 54.1% of population (2022 est.)"
       },
       "improved: total": {
-        "text": "total: 72.8% of population"
+        "text": "total: 65.3% of population (2022 est.)"
       },
       "unimproved: urban": {
-        "text": "urban: 7.5% of population"
+        "text": "urban: 20.2% of population (2022 est.)"
       },
       "unimproved: rural": {
-        "text": "rural: 42% of population"
+        "text": "rural: 45.9% of population (2022 est.)"
       },
       "unimproved: total": {
-        "text": "total: 27.2% of population (2020 est.)"
+        "text": "total: 34.7% of population (2022 est.)"
       }
     },
     "Health expenditure": {
@@ -290,22 +287,22 @@
     },
     "Sanitation facility access": {
       "improved: urban": {
-        "text": "urban: 79.5% of population"
+        "text": "urban: 81.9% of population (2022 est.)"
       },
       "improved: rural": {
-        "text": "rural: 35.5% of population"
+        "text": "rural: 37.9% of population (2022 est.)"
       },
       "improved: total": {
-        "text": "total: 54.4% of population"
+        "text": "total: 57.2% of population (2022 est.)"
       },
       "unimproved: urban": {
-        "text": "urban: 20.5% of population"
+        "text": "urban: 18.1% of population (2022 est.)"
       },
       "unimproved: rural": {
-        "text": "rural: 64.5% of population"
+        "text": "rural: 62.1% of population (2022 est.)"
       },
       "unimproved: total": {
-        "text": "total: 45.6% of population (2020 est.)"
+        "text": "total: 42.8% of population (2022 est.)"
       }
     },
     "Obesity - adult prevalence rate": {
@@ -419,35 +416,38 @@
         "text": "3.02% annual rate of change (2020-25 est.)"
       }
     },
-    "Air pollutants": {
-      "particulate matter emissions": {
-        "text": "39.42 micrograms per cubic meter (2019 est.)"
+    "Carbon dioxide emissions": {
+      "total emissions": {
+        "text": "1.342 million metric tonnes of CO2 (2023 est.)"
       },
-      "carbon dioxide emissions": {
-        "text": "1.09 megatons (2016 est.)"
-      },
-      "methane emissions": {
-        "text": "3.16 megatons (2020 est.)"
+      "from petroleum and other liquids": {
+        "text": "1.342 million metric tonnes of CO2 (2023 est.)"
       }
+    },
+    "Particulate matter emissions": {
+      "text": "45.4 micrograms per cubic meter (2019 est.)"
     },
     "Waste and recycling": {
       "municipal solid waste generated annually": {
-        "text": "610,222 tons (2004 est.)"
+        "text": "610,200 tons (2024 est.)"
+      },
+      "percent of municipal solid waste recycled": {
+        "text": "9.7% (2022 est.)"
       }
     },
     "Total water withdrawal": {
       "municipal": {
-        "text": "110 million cubic meters (2020 est.)"
+        "text": "111 million cubic meters (2022 est.)"
       },
       "industrial": {
-        "text": "60 million cubic meters (2020 est.)"
+        "text": "55.5 million cubic meters (2022 est.)"
       },
       "agricultural": {
-        "text": "50 million cubic meters (2020 est.)"
+        "text": "45.7 million cubic meters (2022 est.)"
       }
     },
     "Total renewable water resources": {
-      "text": "160 billion cubic meters (2020 est.)"
+      "text": "160 billion cubic meters (2022 est.)"
     }
   },
   "Government": {
@@ -633,8 +633,8 @@
     "National holiday": {
       "text": "Independence Day, 27 April (1961)"
     },
-    "Flag description": {
-      "text": "three equal horizontal bands of light green (top), white, and light blue; green stands for agriculture, mountains, and natural resources, white for unity and justice, and blue for the sea and the natural harbor in Freetown"
+    "Flag": {
+      "text": "<strong>description: </strong>three equal horizontal bands of light green (top), white, and light blue<br><br><strong>meaning:</strong> green stands for agriculture, mountains, and natural resources; white for unity and justice; and blue for the sea and the natural harbor in Freetown"
     },
     "National symbol(s)": {
       "text": "lion"
@@ -821,6 +821,11 @@
         "text": "$867 million (2019 est.)"
       }
     },
+    "Public debt": {
+      "Public debt 2016": {
+        "text": "54.9% of GDP (2016 est.)"
+      }
+    },
     "Current account balance": {
       "Current account balance 2023": {
         "text": "-$606.358 million (2023 est.)"
@@ -954,14 +959,6 @@
         "text": "9,000 bbl/day (2023 est.)"
       }
     },
-    "Carbon dioxide emissions": {
-      "total emissions": {
-        "text": "1.342 million metric tonnes of CO2 (2023 est.)"
-      },
-      "from petroleum and other liquids": {
-        "text": "1.342 million metric tonnes of CO2 (2023 est.)"
-      }
-    },
     "Energy consumption per capita": {
       "Total energy consumption per capita 2023": {
         "text": "2.301 million Btu/person (2023 est.)"
@@ -1082,10 +1079,5 @@
     }
   },
   "Transnational Issues": {
-    "Refugees and internally displaced persons": {
-      "IDPs": {
-        "text": "IDPs: 3000 currently displaced due to post-electoral violence in 2018 and clashes in the Pujehun region in 2019); 900 internal displacements due to flood in 2022 (2022)<br><br>5,500 (displacement caused by post-electoral violence in 2018 and clashes in the Pujehun region in 2019) (2021)"
-      }
-    }
   }
 }

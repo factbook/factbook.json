@@ -106,7 +106,7 @@
       "text": "earthquakes are common, though usually not severe; volcanic activity <br><br><strong>volcanism:</strong> significant volcanism on North Island; Ruapehu (2,797 m) has a history of large eruptions in the past century; Taranaki has the potential to produce dangerous avalanches and lahars; other historically active volcanoes include Okataina, Raoul Island, Tongariro, and White Island; see note 2 under \"Geography - note\""
     },
     "Geography - note": {
-      "text": "<p><strong>note 1:</strong> consists of two main islands and a number of smaller islands; South Island, the larger main island, is the 12th largest island in the world and is divided along its length by the Southern Alps; North Island is the 14th largest island in the world and is not as mountainous, but it is marked by volcanism</p> <p><strong>note 2:</strong> New Zealand lies along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p> <p><strong>note 3:</strong> almost 90% of the population lives in cities and over three-quarters on North Island; Wellington is the southernmost national capital in the world</p>"
+      "text": "<strong>note 1:</strong> consists of two main islands and a number of smaller islands; South Island, the larger main island, is the 12th-largest island in the world and is divided along its length by the Southern Alps; North Island is the 14th-largest island in the world and is not as mountainous, but it is marked by volcanism <br><br><strong>note 2:</strong> New Zealand lies along the Ring of Fire, which is a belt bordering the Pacific Ocean that contains about 75% of the world's volcanoes and up to 90% of the world's earthquakes<br><br><strong>note 3:</strong> almost 90% of the population lives in cities and over three-quarters on North Island; Wellington is the southernmost national capital in the world"
     }
   },
   "People and Society": {
@@ -254,28 +254,24 @@
     "Gross reproduction rate": {
       "text": "0.9 (2024 est.)"
     },
-    "Contraceptive prevalence rate": {
-      "text": "79.9% (2014/15)",
-      "note": "<strong>note:</strong> percent of women aged 16-49"
-    },
     "Drinking water source": {
       "improved: urban": {
-        "text": "urban: 100% of population"
+        "text": "urban: 100% of population (2022 est.)"
       },
       "improved: rural": {
-        "text": "rural: 100% of population"
+        "text": "rural: 100% of population (2022 est.)"
       },
       "improved: total": {
-        "text": "total: 100% of population"
+        "text": "total: 100% of population (2022 est.)"
       },
       "unimproved: urban": {
-        "text": "urban: 0% of population"
+        "text": "urban: 0% of population (2022 est.)"
       },
       "unimproved: rural": {
-        "text": "rural: 0% of population"
+        "text": "rural: 0% of population (2022 est.)"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2020 est.)"
+        "text": "total: 0% of population (2022 est.)"
       }
     },
     "Health expenditure": {
@@ -294,22 +290,22 @@
     },
     "Sanitation facility access": {
       "improved: urban": {
-        "text": "urban: 100% of population"
+        "text": "urban: 100% of population (2022 est.)"
       },
       "improved: rural": {
-        "text": "rural: 100% of population"
+        "text": "rural: 100% of population (2022 est.)"
       },
       "improved: total": {
-        "text": "total: 100% of population"
+        "text": "total: 100% of population (2022 est.)"
       },
       "unimproved: urban": {
-        "text": "urban: 0% of population"
+        "text": "urban: 0% of population (2022 est.)"
       },
       "unimproved: rural": {
-        "text": "rural: 0% of population"
+        "text": "rural: 0% of population (2022 est.)"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2020)"
+        "text": "total: 0% of population (2022 est.)"
       }
     },
     "Obesity - adult prevalence rate": {
@@ -409,35 +405,58 @@
         "text": "0.92% annual rate of change (2020-25 est.)"
       }
     },
-    "Air pollutants": {
-      "particulate matter emissions": {
-        "text": "8.61 micrograms per cubic meter (2019 est.)"
+    "Carbon dioxide emissions": {
+      "total emissions": {
+        "text": "33.506 million metric tonnes of CO2 (2023 est.)"
       },
-      "carbon dioxide emissions": {
-        "text": "34.38 megatons (2016 est.)"
+      "from coal and metallurgical coke": {
+        "text": "4.24 million metric tonnes of CO2 (2023 est.)"
       },
-      "methane emissions": {
-        "text": "34.3 megatons (2020 est.)"
+      "from petroleum and other liquids": {
+        "text": "21.836 million metric tonnes of CO2 (2023 est.)"
+      },
+      "from consumed natural gas": {
+        "text": "7.43 million metric tonnes of CO2 (2023 est.)"
+      }
+    },
+    "Particulate matter emissions": {
+      "text": "8.7 micrograms per cubic meter (2019 est.)"
+    },
+    "Methane emissions": {
+      "energy": {
+        "text": "95.4 kt (2022-2024 est.)"
+      },
+      "agriculture": {
+        "text": "1,105.6 kt (2019-2021 est.)"
+      },
+      "waste": {
+        "text": "158.8 kt (2019-2021 est.)"
+      },
+      "other": {
+        "text": "6.2 kt (2019-2021 est.)"
       }
     },
     "Waste and recycling": {
       "municipal solid waste generated annually": {
-        "text": "3.405 million tons (2016 est.)"
+        "text": "3.405 million tons (2024 est.)"
+      },
+      "percent of municipal solid waste recycled": {
+        "text": "22% (2022 est.)"
       }
     },
     "Total water withdrawal": {
       "municipal": {
-        "text": "500 million cubic meters (2020 est.)"
+        "text": "547 million cubic meters (2022)"
       },
       "industrial": {
-        "text": "1.18 billion cubic meters (2020 est.)"
+        "text": "1.184 billion cubic meters (2022 est.)"
       },
       "agricultural": {
-        "text": "3.2 billion cubic meters (2020 est.)"
+        "text": "3.207 billion cubic meters (2022 est.)"
       }
     },
     "Total renewable water resources": {
-      "text": "327 billion cubic meters (2020 est.)"
+      "text": "327 billion cubic meters (2022)"
     }
   },
   "Government": {
@@ -558,7 +577,7 @@
         "text": "National Party (49); Labour Party (34); Green Party (15); ACT New Zealand (11); New Zealand First (8); Other (6)"
       },
       "percentage of women in chamber": {
-        "text": "46.3%"
+        "text": "45.1%"
       },
       "expected date of next election": {
         "text": "September 2026"
@@ -631,8 +650,8 @@
       "text": "Waitangi Day, 6 February (1840); Anzac Day, 25 April (1915)",
       "note": "<strong>note:</strong> the Treaty of Waitangi established British sovereignty over New Zealand, and the second holiday commemorates the landing of the Australian and New Zealand Army Corps in Gallipoli, Turkey, during World War I"
     },
-    "Flag description": {
-      "text": "blue with the UK flag in the upper hoist-side quadrant, with four red five-pointed stars edged in white centered in the outer half of the flag; the stars represent the Southern Cross constellation"
+    "Flag": {
+      "text": "<strong>description:</strong> blue with the UK flag in the upper-left quadrant, with four five-pointed red stars edged in white centered in the right half of the flag<br><br><strong>meaning:</strong> the stars represent the Southern Cross constellation"
     },
     "National symbol(s)": {
       "text": "Southern Cross constellation (four five-pointed stars), kiwi (bird), silver fern"
@@ -651,7 +670,7 @@
         "text": "unknown"
       },
       "history": {
-        "text": "royal anthem and one of two official national anthems; usually played only when a member of the royal family or the governor-general is present"
+        "text": "royal anthem and one of two official national anthems; usually played only when a member of the royal family or a representative is present or when allegiance to the crown is demonstrated"
       },
       "note": "<strong>note:</strong> New Zealand is one of only two countries that has two national anthems of equal status (Denmark is the other)"
     },
@@ -814,12 +833,12 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$83.157 billion (2022 est.)"
+        "text": "$83.167 billion (2022 est.)"
       },
       "expenditures": {
-        "text": "$88.64 billion (2022 est.)"
+        "text": "$91.782 billion (2022 est.)"
       },
-      "note": "<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated"
+      "note": "<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated"
     },
     "Public debt": {
       "Public debt 2022": {
@@ -992,20 +1011,6 @@
         "text": "31.149 billion cubic meters (2021 est.)"
       }
     },
-    "Carbon dioxide emissions": {
-      "total emissions": {
-        "text": "33.506 million metric tonnes of CO2 (2023 est.)"
-      },
-      "from coal and metallurgical coke": {
-        "text": "4.24 million metric tonnes of CO2 (2023 est.)"
-      },
-      "from petroleum and other liquids": {
-        "text": "21.836 million metric tonnes of CO2 (2023 est.)"
-      },
-      "from consumed natural gas": {
-        "text": "7.43 million metric tonnes of CO2 (2023 est.)"
-      }
-    },
     "Energy consumption per capita": {
       "Total energy consumption per capita 2023": {
         "text": "121.647 million Btu/person (2023 est.)"
@@ -1102,7 +1107,7 @@
   "Military and Security": {
     "Military and security forces": {
       "text": "New Zealand Defense Force (NZDF): New Zealand Army, Royal New Zealand Navy, Royal New Zealand Air Force (2025)",
-      "note": "<strong>note: </strong>the New Zealand Police, under the Minister of Police, are responsible for internal security"
+      "note": "<strong>note: </strong>the New Zealand Police, under the Minister of Police, is the primary law enforcement body agency of New Zealand and responsible for internal security<strong><br></strong>"
     },
     "Military expenditures": {
       "Military Expenditures 2024": {
@@ -1141,13 +1146,13 @@
   },
   "Space": {
     "Space agency/agencies": {
-      "text": "New Zealand Space Agency (NZSA; established 2016 under the Ministry of Business, Innovation, and Employment); Center for Space Science and Technology (CSST; established 2017) (2024)"
+      "text": "New Zealand Space Agency (NZSA; established 2016 under the Ministry of Business, Innovation, and Employment) (2025)"
     },
     "Space launch site(s)": {
-      "text": "Mahia Peninsula Launch Complex (Hawke's Bay) (2024)"
+      "text": "Mahia Peninsula Launch Complex (Hawke's Bay) (2025)"
     },
     "Space program overview": {
-      "text": "the New Zealand space sector model is mostly based on commercial space; NZSA and CSST primarily focus on developing space policy and strategy, bringing commercial space talent to New Zealand, and encouraging the commercial development of space technologies, particularly satellites and satellite/space launch vehicles (SLV); manufactures and launches satellites; builds and launches commercial SLVs; researches and develops a range of other space-related technologies, including propulsion systems; has a national space strategy; participates in international space programs and partners with a range of foreign space agencies and industries, including those of Australia, Canada, the EU and its member states, the European Space Agency (ESA) and its member states, South Africa, and the US; has a small, but growing commercial space sector (2024)",
+      "text": "national space program focused largely on the development of a commercial space sector, particularly in the field of satellites and satellite/space launch vehicles (SLV); manufactures and launches commercial satellites and SLVs; researches and develops a range of other space-related technologies, including propulsion systems; participates in international space programs and partners with a range of foreign space agencies and industries, including those of Australia, Canada, the EU and its member states, the European Space Agency (ESA) and its member states, South Africa, and the US; has a growing commercial space sector (2025)",
       "note": "<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide"
     }
   },
@@ -1159,8 +1164,14 @@
   },
   "Transnational Issues": {
     "Refugees and internally displaced persons": {
+      "refugees": {
+        "text": "5,622 (2024 est.)"
+      },
+      "IDPs": {
+        "text": "26 (2024 est.)"
+      },
       "stateless persons": {
-        "text": "5 (2022)"
+        "text": "29 (2024 est.)"
       }
     }
   }

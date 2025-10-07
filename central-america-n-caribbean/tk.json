@@ -230,35 +230,44 @@
     "Gross reproduction rate": {
       "text": "0.83 (2024 est.)"
     },
-    "Contraceptive prevalence rate": {
-      "text": "34.4% (2019/20)"
-    },
     "Drinking water source": {
+      "improved: urban": {
+        "text": "urban: 99.2% of population (2022 est.)"
+      },
+      "improved: rural": {
+        "text": "rural: 91.8% of population (2022 est.)"
+      },
       "improved: total": {
-        "text": "total: 94.3% of population"
+        "text": "total: 98.8% of population (2022 est.)"
+      },
+      "unimproved: urban": {
+        "text": "urban: 0.8% of population (2022 est.)"
+      },
+      "unimproved: rural": {
+        "text": "rural: 8.2% of population (2022 est.)"
       },
       "unimproved: total": {
-        "text": "total: 5.7% of population (2017)"
+        "text": "total: 1.2% of population (2022 est.)"
       }
     },
     "Sanitation facility access": {
       "improved: urban": {
-        "text": "urban: NA"
+        "text": "urban: 98.8% of population (2022 est.)"
       },
       "improved: rural": {
-        "text": "rural: NA"
+        "text": "rural: 97.7% of population (2022 est.)"
       },
       "improved: total": {
-        "text": "total: 88% of population"
+        "text": "total: 98.7% of population (2022 est.)"
       },
       "unimproved: urban": {
-        "text": "urban: NA"
+        "text": "urban: 1.2% of population (2022 est.)"
       },
       "unimproved: rural": {
-        "text": "rural: NA"
+        "text": "rural: 2.3% of population (2022 est.)"
       },
       "unimproved: total": {
-        "text": "total: 12% of population (2017)"
+        "text": "total: 1.3% of population (2022 est.)"
       }
     },
     "Children under the age of 5 years underweight": {
@@ -336,9 +345,12 @@
         "text": "1.46% annual rate of change (2020-25 est.)"
       }
     },
-    "Air pollutants": {
-      "carbon dioxide emissions": {
-        "text": "0.22 megatons (2016 est.)"
+    "Carbon dioxide emissions": {
+      "total emissions": {
+        "text": "447,000 metric tonnes of CO2 (2023 est.)"
+      },
+      "from petroleum and other liquids": {
+        "text": "447,000 metric tonnes of CO2 (2023 est.)"
       }
     }
   },
@@ -472,8 +484,8 @@
     "Independence": {
       "text": "none (overseas territory of the UK)"
     },
-    "Flag description": {
-      "text": "blue with the UK flag in the upper hoist-side quadrant and the colonial shield centered on the outer half of the flag; the shield is yellow and displays a conch shell, a spiny lobster, and Turk's cap cactus"
+    "Flag": {
+      "text": "<strong>description:</strong> blue with the UK flag in the upper-left quadrant and the colonial shield centered on the right half of the flag; the shield is yellow and displays a conch shell, a spiny lobster, and Turk's cap cactus"
     },
     "National symbol(s)": {
       "text": "conch shell, Turk's cap cactus"
@@ -533,6 +545,18 @@
     "GDP (official exchange rate)": {
       "text": "$1.745 billion (2024 est.)",
       "note": "<b>note:</b> data in current dollars at official exchange rate"
+    },
+    "Inflation rate (consumer prices)": {
+      "Inflation rate (consumer prices) 2022": {
+        "text": "8.5% (2022 est.)"
+      },
+      "Inflation rate (consumer prices) 2021": {
+        "text": "5% (2021 est.)"
+      },
+      "Inflation rate (consumer prices) 2020": {
+        "text": "2.3% (2020 est.)"
+      },
+      "note": "<strong>note:</strong> annual % change based on consumer prices"
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
@@ -667,14 +691,6 @@
       "refined petroleum consumption": {
         "text": "3,000 bbl/day (2023 est.)"
       }
-    },
-    "Carbon dioxide emissions": {
-      "total emissions": {
-        "text": "447,000 metric tonnes of CO2 (2023 est.)"
-      },
-      "from petroleum and other liquids": {
-        "text": "447,000 metric tonnes of CO2 (2023 est.)"
-      }
     }
   },
   "Communications": {
@@ -754,5 +770,10 @@
     }
   },
   "Transnational Issues": {
+    "Refugees and internally displaced persons": {
+      "refugees": {
+        "text": "8 (2024 est.)"
+      }
+    }
   }
 }

@@ -254,27 +254,24 @@
     "Gross reproduction rate": {
       "text": "0.78 (2024 est.)"
     },
-    "Contraceptive prevalence rate": {
-      "text": "NA"
-    },
     "Drinking water source": {
       "improved: urban": {
-        "text": "urban: 100% of population"
+        "text": "urban: 100% of population (2022 est.)"
       },
       "improved: rural": {
-        "text": "rural: 100% of population"
+        "text": "rural: 100% of population (2022 est.)"
       },
       "improved: total": {
-        "text": "total: 100% of population"
+        "text": "total: 100% of population (2022 est.)"
       },
       "unimproved: urban": {
-        "text": "urban: 0% of population"
+        "text": "urban: 0% of population (2022 est.)"
       },
       "unimproved: rural": {
-        "text": "rural: 0% of population"
+        "text": "rural: 0% of population (2022 est.)"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2020 est.)"
+        "text": "total: 0% of population (2022 est.)"
       }
     },
     "Health expenditure": {
@@ -293,22 +290,22 @@
     },
     "Sanitation facility access": {
       "improved: urban": {
-        "text": "urban: 100% of population"
+        "text": "urban: 100% of population (2022 est.)"
       },
       "improved: rural": {
-        "text": "rural: 100% of population"
+        "text": "rural: 100% of population (2022 est.)"
       },
       "improved: total": {
-        "text": "total: 100% of population"
+        "text": "total: 100% of population (2022 est.)"
       },
       "unimproved: urban": {
-        "text": "urban: 0% of population"
+        "text": "urban: 0% of population (2022 est.)"
       },
       "unimproved: rural": {
-        "text": "rural: 0% of population"
+        "text": "rural: 0% of population (2022 est.)"
       },
       "unimproved: total": {
-        "text": "total: 0% of population (2020 est.)"
+        "text": "total: 0% of population (2022 est.)"
       }
     },
     "Obesity - adult prevalence rate": {
@@ -408,41 +405,44 @@
         "text": "0.05% annual rate of change (2020-25 est.)"
       }
     },
-    "Air pollutants": {
-      "particulate matter emissions": {
-        "text": "14.24 micrograms per cubic meter (2019 est.)"
+    "Carbon dioxide emissions": {
+      "total emissions": {
+        "text": "40.161 million metric tonnes of CO2 (2023 est.)"
       },
-      "carbon dioxide emissions": {
-        "text": "45.54 megatons (2016 est.)"
+      "from coal and metallurgical coke": {
+        "text": "3.373 million metric tonnes of CO2 (2023 est.)"
       },
-      "methane emissions": {
-        "text": "7.25 megatons (2020 est.)"
+      "from petroleum and other liquids": {
+        "text": "20.887 million metric tonnes of CO2 (2023 est.)"
+      },
+      "from consumed natural gas": {
+        "text": "15.901 million metric tonnes of CO2 (2023 est.)"
       }
+    },
+    "Particulate matter emissions": {
+      "text": "14.2 micrograms per cubic meter (2019 est.)"
     },
     "Waste and recycling": {
       "municipal solid waste generated annually": {
-        "text": "3.712 million tons (2015 est.)"
-      },
-      "municipal solid waste recycled annually": {
-        "text": "962,893 tons (2015 est.)"
+        "text": "3.781 million tons (2024 est.)"
       },
       "percent of municipal solid waste recycled": {
-        "text": "25.9% (2015 est.)"
+        "text": "31% (2022 est.)"
       }
     },
     "Total water withdrawal": {
       "municipal": {
-        "text": "660 million cubic meters (2020 est.)"
+        "text": "660 million cubic meters (2022)"
       },
       "industrial": {
-        "text": "3.45 billion cubic meters (2020 est.)"
+        "text": "3.758 billion cubic meters (2022)"
       },
       "agricultural": {
-        "text": "550 million cubic meters (2020 est.)"
+        "text": "548.613 million cubic meters (2022)"
       }
     },
     "Total renewable water resources": {
-      "text": "104 billion cubic meters (2020 est.)"
+      "text": "104 billion cubic meters (2022 est.)"
     },
     "Geoparks": {
       "total global geoparks and regional networks": {
@@ -653,8 +653,8 @@
       "text": "Saint Stephen's Day, 20 August (1083)",
       "note": "<strong>note:</strong> commemorates the saint's canonization and the transfer of his remains to Buda (now Budapest) in 1083"
     },
-    "Flag description": {
-      "text": "three equal horizontal bands of red (top), white, and green; the flag dates to the national movement of the 18th and 19th centuries and fuses the medieval colors of the Hungarian coat of arms with the revolutionary tricolor of the French flag; folklore attributes virtues to the colors: red for strength, white for faithfulness, and green for hope; alternatively, the red can stand for the blood spilled in defense of the land, white for freedom, and green for pasturelands&nbsp;"
+    "Flag": {
+      "text": "<strong>description:</strong> three equal horizontal bands of red (top), white, and green<br><br><strong>meaning:</strong> folklore attributes virtues to the colors: red for strength, white for faithfulness, and green for hope; alternatively, the red can stand for the blood spilled in defense of the land, white for freedom, and green for pasturelands<br><br><strong>history:</strong> the flag dates to the national movement of the 18th and 19th centuries and fuses the medieval colors of the Hungarian coat of arms with the revolutionary tricolor of the French flag "
     },
     "National symbol(s)": {
       "text": "Holy Crown of Hungary (Crown of Saint Stephen)"
@@ -854,9 +854,9 @@
         "text": "$69.793 billion (2022 est.)"
       },
       "expenditures": {
-        "text": "$75.081 billion (2022 est.)"
+        "text": "$80.429 billion (2022 est.)"
       },
-      "note": "<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated"
+      "note": "<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated"
     },
     "Public debt": {
       "Public debt 2022": {
@@ -1049,20 +1049,6 @@
         "text": "3.738 billion cubic meters (2021 est.)"
       }
     },
-    "Carbon dioxide emissions": {
-      "total emissions": {
-        "text": "40.161 million metric tonnes of CO2 (2023 est.)"
-      },
-      "from coal and metallurgical coke": {
-        "text": "3.373 million metric tonnes of CO2 (2023 est.)"
-      },
-      "from petroleum and other liquids": {
-        "text": "20.887 million metric tonnes of CO2 (2023 est.)"
-      },
-      "from consumed natural gas": {
-        "text": "15.901 million metric tonnes of CO2 (2023 est.)"
-      }
-    },
     "Energy consumption per capita": {
       "Total energy consumption per capita 2023": {
         "text": "96.152 million Btu/person (2023 est.)"
@@ -1136,28 +1122,27 @@
       "note": "<strong>note:</strong> the National Police are under the Ministry of Interior and responsible for maintaining order nationwide; the Ministry of Interior also has the Counterterrorism Center, a special police force responsible for protecting the president and the prime minister and for preventing, uncovering, and detecting terrorist acts"
     },
     "Military expenditures": {
+      "Military Expenditures 2025": {
+        "text": "2.1% of GDP (2025 est.)"
+      },
       "Military Expenditures 2024": {
         "text": "2.1% of GDP (2024 est.)"
       },
       "Military Expenditures 2023": {
-        "text": "2.1% of GDP (2023)"
+        "text": "2.1% of GDP (2023 est.)"
       },
       "Military Expenditures 2022": {
-        "text": "1.8% of GDP (2022)"
+        "text": "1.8% of GDP (2022 est.)"
       },
       "Military Expenditures 2021": {
-        "text": "1.7% of GDP (2021)"
-      },
-      "Military Expenditures 2020": {
-        "text": "1.8% of GDP (2020)"
+        "text": "1.7% of GDP (2021 est.)"
       }
     },
     "Military and security service personnel strengths": {
-      "text": "approximately 21,000 active-duty Defense Forces (16,000 Army; 5,000 Air Force) (2024)",
-      "note": "<strong>note:</strong> in 2017, Hungary announced plans to increase the number of active soldiers to around 37,000 but did not give a timeline"
+      "text": "approximately 22,000 active-duty military personnel (2025)"
     },
     "Military equipment inventories and acquisitions": {
-      "text": "the HDF has a mix of Soviet-era and more modern, Western equipment from such countries as Germany, France, Sweden, and the US; in 2017, Budapest launched a modernization program aimed at replacing its Soviet-era weaponry with modern systems; Hungary has also placed emphasis on building up its s defense industrial capacity&nbsp; (2024)"
+      "text": "the HDF has a mix of Soviet-era and more modern, Western equipment from such countries as Germany, France, Sweden, and the US; in 2017, Budapest launched a modernization program aimed at replacing its Soviet-era weaponry with modern systems; Hungary has also placed emphasis on building up its defense industrial capacity (2024)"
     },
     "Military service age and obligation": {
       "text": "18-25 years of age for voluntary military service; no conscription (abolished 2005); 6-month service obligation (2023)",
@@ -1170,15 +1155,6 @@
       "text": "the Hungarian Defense Forces (HDF) are responsible for ensuring the defense of the country’s sovereignty, territorial integrity, and citizens, and fulfilling Hungary’s commitments to the EU and NATO, as well as contributing to other international peacekeeping efforts under the UN; key areas of concern for the HDF the HDF is also responsible for some aspects of domestic security, crisis management, disaster response, and assisting law enforcement forces in border security<br><br>Hungary has been a member of NATO since 1999 and considers the collective defense ensured within the Alliance as a cornerstone of the country’s security; NATO membership is complemented by Hungary’s ties to the EU under its Common Security and Defense Policy; the HDF has participated in multiple NATO-led security missions, including in Afghanistan, Iraq, and Kosovo, as well as EU-led missions in Bosnia and Herzegovina and Mali; it hosts a NATO battlegroup comprised of troops from Croatia, Hungary, Italy, and the US, and NATO’s Multinational Division Center, a headquarters capable of commanding a division-sized force (typically 15-20,000 troops) in a crisis; both organizations were established as a result of Russian aggression against Ukraine; Hungary is a member of the Visegrad Group, a regional platform that brings together Czechia, Hungary, Poland, and Slovakia to discuss cultural, defense, and political cooperation (2025)"
     }
   },
-  "Space": {
-    "Space agency/agencies": {
-      "text": "Hungarian Space Office (HSO; established 1992) (2024)"
-    },
-    "Space program overview": {
-      "text": "has a history of involvement in space activities going back to the Soviet era; growing a modern space program focused on acquiring satellites and contributing to the European Space Agency (ESA); has a national space strategy; builds and operates satellites; researches and develops space technologies, including communications, navigation, and subsystems for satellites; has an astronaut corps; in addition to being an ESA member and cooperating with individual ESA and EU member states, particularly France, has relations with a variety of other foreign space agencies and industries, including those of Brazil, Israel, Russia, Singapore, Turkey, the UAE, and the US; national space strategy included the goals of fostering innovation and increasing Hungary’s competitiveness in the commercial space sector (2024)",
-      "note": "<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide"
-    }
-  },
   "Terrorism": {
     "Terrorist group(s)": {
       "text": "Islamic State of Iraq and ash-Sham (ISIS)",
@@ -1187,11 +1163,11 @@
   },
   "Transnational Issues": {
     "Refugees and internally displaced persons": {
-      "refugees (country of origin)": {
-        "text": "66,135 (Ukraine) (as of 15 April 2024)"
+      "refugees": {
+        "text": "72,359 (2024 est.)"
       },
       "stateless persons": {
-        "text": "130 (2022)"
+        "text": "101 (2024 est.)"
       }
     }
   }

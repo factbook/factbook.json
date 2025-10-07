@@ -241,15 +241,24 @@
     "Gross reproduction rate": {
       "text": "0.94 (2024 est.)"
     },
-    "Contraceptive prevalence rate": {
-      "text": "NA"
-    },
     "Drinking water source": {
+      "improved: urban": {
+        "text": "urban: 98.4% of population (2022 est.)"
+      },
+      "improved: rural": {
+        "text": "rural: 98.3% of population (2022 est.)"
+      },
       "improved: total": {
-        "text": "total: 96.7% of population"
+        "text": "total: 98.4% of population (2022 est.)"
+      },
+      "unimproved: urban": {
+        "text": "urban: 1.6% of population (2022 est.)"
+      },
+      "unimproved: rural": {
+        "text": "rural: 1.7% of population (2022 est.)"
       },
       "unimproved: total": {
-        "text": "total: 3.2% of population (2017 est.)"
+        "text": "total: 1.6% of population (2022 est.)"
       }
     },
     "Health expenditure": {
@@ -267,11 +276,23 @@
       "text": "3.3 beds/1,000 population (2020 est.)"
     },
     "Sanitation facility access": {
+      "improved: urban": {
+        "text": "urban: 95.4% of population (2022 est.)"
+      },
+      "improved: rural": {
+        "text": "rural: 98% of population (2022 est.)"
+      },
       "improved: total": {
-        "text": "total: 91.7% of population"
+        "text": "total: 97.4% of population (2022 est.)"
+      },
+      "unimproved: urban": {
+        "text": "urban: 4.6% of population (2022 est.)"
+      },
+      "unimproved: rural": {
+        "text": "rural: 2% of population (2022 est.)"
       },
       "unimproved: total": {
-        "text": "total: 8.1% of population (2017 est.)"
+        "text": "total: 2.6% of population (2022 est.)"
       }
     },
     "Obesity - adult prevalence rate": {
@@ -349,35 +370,38 @@
         "text": "0.87% annual rate of change (2020-25 est.)"
       }
     },
-    "Air pollutants": {
-      "particulate matter emissions": {
-        "text": "8.3 micrograms per cubic meter (2019 est.)"
+    "Carbon dioxide emissions": {
+      "total emissions": {
+        "text": "725,000 metric tonnes of CO2 (2023 est.)"
       },
-      "carbon dioxide emissions": {
-        "text": "0.56 megatons (2016 est.)"
-      },
-      "methane emissions": {
-        "text": "0.22 megatons (2020 est.)"
+      "from petroleum and other liquids": {
+        "text": "725,000 metric tonnes of CO2 (2023 est.)"
       }
+    },
+    "Particulate matter emissions": {
+      "text": "8.3 micrograms per cubic meter (2019 est.)"
     },
     "Waste and recycling": {
       "municipal solid waste generated annually": {
-        "text": "30,585 tons (2012 est.)"
+        "text": "30,600 tons (2024 est.)"
+      },
+      "percent of municipal solid waste recycled": {
+        "text": "15.3% (2022 est.)"
       }
     },
     "Total water withdrawal": {
       "municipal": {
-        "text": "10 million cubic meters (2020 est.)"
+        "text": "7.2 million cubic meters (2022 est.)"
       },
       "industrial": {
-        "text": "2.5 million cubic meters (2017 est.)"
+        "text": "2.5 million cubic meters (2022 est.)"
       },
       "agricultural": {
-        "text": "1.8 million cubic meters (2017 est.)"
+        "text": "1.8 million cubic meters (2022 est.)"
       }
     },
     "Total renewable water resources": {
-      "text": "50 million cubic meters (2020 est.)"
+      "text": "52 million cubic meters (2022)"
     }
   },
   "Government": {
@@ -389,7 +413,7 @@
         "text": "Antigua and Barbuda"
       },
       "etymology": {
-        "text": "<em>antiguo </em>is Spanish for \"ancient\" or \"old\"; Christopher COLUMBUS named the island in 1493, after the church of Santa Maria la Antigua (Old Saint Mary's) in Seville, Spain; <em>barbuda </em>is Spanish for \"bearded\" and may refer to the island's lichen-covered fig trees"
+        "text": "<em>antiguo </em>is Spanish for \"ancient\" or \"old;\" Christopher COLUMBUS named the island in 1493, after the church of Santa Maria la Antigua (Old Saint Mary's) in Seville, Spain; <em>barbuda </em>is Spanish for \"bearded\" and may refer to the island's lichen-covered fig trees"
       }
     },
     "Government type": {
@@ -565,8 +589,8 @@
     "National holiday": {
       "text": "Independence Day, 1 November (1981)"
     },
-    "Flag description": {
-      "text": "red, with an inverted isosceles triangle on the top edge of the flag; the triangle contains three horizontal bands of black (top), light blue, and white, with a yellow rising sun in the black band; the sun symbolizes the dawn of a new era, black represents the African heritage of most of the population, blue is for hope, and red is for the dynamism of the people; the \"V\" stands for victory; the successive yellow, blue, and white coloring is also meant to evoke the country's tourist attractions of sun, sea, and sand"
+    "Flag": {
+      "text": "<strong>description:</strong> red, with an inverted isosceles triangle in the center that spans the flag from top to bottom; the triangle contains three horizontal bands of black (top), light blue, and white, with a yellow rising sun in the black band<br><br><strong>meaning: </strong>the sun stands for the dawn of a new era, black for the African heritage of most of the population, blue for hope, and red for the dynamism of the people; the \"V\" shape of the triangle stands for victory; the yellow, blue, and white colors are also meant to evoke the country's tourist attractions of sun, sea, and sand"
     },
     "National symbol(s)": {
       "text": "fallow deer"
@@ -694,6 +718,11 @@
       },
       "note": "<b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated"
     },
+    "Public debt": {
+      "Public debt 2016": {
+        "text": "86.2% of GDP (2016 est.)"
+      }
+    },
     "Current account balance": {
       "Current account balance 2024": {
         "text": "-$181.366 million (2024 est.)"
@@ -814,14 +843,6 @@
         "text": "5,000 bbl/day (2023 est.)"
       }
     },
-    "Carbon dioxide emissions": {
-      "total emissions": {
-        "text": "725,000 metric tonnes of CO2 (2023 est.)"
-      },
-      "from petroleum and other liquids": {
-        "text": "725,000 metric tonnes of CO2 (2023 est.)"
-      }
-    },
     "Energy consumption per capita": {
       "Total energy consumption per capita 2023": {
         "text": "110.114 million Btu/person (2023 est.)"
@@ -925,5 +946,10 @@
     }
   },
   "Transnational Issues": {
+    "Refugees and internally displaced persons": {
+      "refugees": {
+        "text": "5 (2024 est.)"
+      }
+    }
   }
 }
