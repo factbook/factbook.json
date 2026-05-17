@@ -49,7 +49,7 @@ For example, to request the country profile (data) for Germany (`gm`) using the 
 ### Q: Why not just use the ISO country codes? Not a bug, a feature request.
 
 A: The factbook has many more entities / countries than ISO and sometimes with a different definition - 
-it's NOT an easy 1:1 mapping, see [Cross-Reference List of Country Data Codes](https://www.cia.gov/the-world-factbook/references/country-data-codes/).
+it's NOT an easy 1:1 mapping, see [Cross-Reference List of Country Data Codes](https://simonw.github.io/cia-world-factbook-2020/appendix/appendix-d.html).
 
 ### Q: I noticed that you've got Zambian data under ZA for the African region... It should be South African data...
 
