@@ -8,6 +8,8 @@ Breaking News
 The End!  Believe it or not - on the order of the new US administration the CIA nuked / wiped out completely the World Factbook in Feb 2026, 
 see the CIA Story ["Spotlighting The World Factbook as We Bid a Fond Farewell"](https://www.cia.gov/stories/story/spotlighting-the-world-factbook-as-we-bid-a-fond-farewell/).  
 
+For an online archive mirror / copy, see [The World Factbook (Anno 2020) »](https://simonw.github.io/cia-world-factbook-2020/). 
+
 ---
 
 
@@ -540,14 +542,11 @@ Q: Anybody using these datasets?  I don't know really. Add your project here - y
 
 
 
-## License
+##  License / Public Domain Dedication
 
-![](https://publicdomainworks.github.io/buttons/zero88x31.png)
-
-The datasets and scripts are dedicated to the public domain. Use it as you please with no restrictions whatsoever.
+The datasets and scripts are dedicated to the public domain. No rights reserved. Use as you please with no restrictions whatsoever.
 
 
 ## Questions? Comments?
 
-Send them along to the [Open World Database (world.db) and Friends Forum/Mailing List](http://groups.google.com/group/openmundi). 
-Thanks!
+Open up an [new issue ticket](https://github.com/factbook/factbook.json/issues). Yes, you can.  Thanks.
