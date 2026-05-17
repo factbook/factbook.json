@@ -546,9 +546,9 @@ Q: Anybody using these datasets?  I don't know really. Add your project here - y
 
 ##  License / Public Domain Dedication
 
-The datasets and scripts are dedicated to the public domain. No rights reserved. Use as you please with no restrictions whatsoever.
+The datasets and scripts are dedicated to the public domain. Use as you please with no restrictions whatsoever.
 
 
 ## Questions? Comments?
 
-Open up an [new issue ticket](https://github.com/factbook/factbook.json/issues). Yes, you can.  Thanks.
+Yes, you can. Open up a [new issue ticket](https://github.com/factbook/factbook.json/issues). Thanks.
