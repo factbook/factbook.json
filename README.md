@@ -505,16 +505,18 @@ United States (~~14~~ 8):
 
 
 
+## History / Changelog / Notes
+
+2025 - World Region Reorg. The CIA moved Armenia (`am`), Azerbaijan (`aj`), and Georgia (`gg`) from `middle-east/` to `central-asia/`.
+
+
+
+
 ## Build Your Own Up-to-Date Country Profiles
 
 See the [`factbook`](https://github.com/factbook/factbook)
 command line tool and scripts for details.
 
-
-
-## History / Changelog / Notes
-
-2025 - World Region Reorg. The CIA moved Armenia (`am`), Azerbaijan (`aj`), and Georgia (`gg`) from `middle-east/` to `central-asia/`.
 
 
 
