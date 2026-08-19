@@ -8,9 +8,13 @@ Breaking News
 The End!  Believe it or not - on the order of the new US administration the CIA nuked / wiped out completely the World Factbook in Feb 2026, 
 see the CIA Story ["Spotlighting The World Factbook as We Bid a Fond Farewell"](https://www.cia.gov/stories/story/spotlighting-the-world-factbook-as-we-bid-a-fond-farewell/).  
 
-<!--
-For an online archive mirror / copy, see [The World Factbook (Anno 2020) »](https://simonw.github.io/cia-world-factbook-2020/). 
--->
+For an online archive mirror / copy, see [The World Factbook (Anno 2020) »](https://simonw.github.io/cia-world-factbook-2020/).
+
+**Where to now?** The Factbook is gone, but a few projects cover similar ground:
+
+- [The World Factbook (Anno 2020) »](https://simonw.github.io/cia-world-factbook-2020/) — an online mirror of the last full edition, frozen in time
+- [Our World in Data »](https://ourworldindata.org) — indicator-level data with sources and charts
+- [DataInt Databook »](https://databook.dataint.net/en/) — country profiles in the Factbook's spirit (geography, people, government, economy, energy, communications) compiled from World Bank / UN / national statistics offices, each figure attributed to its source, in 25 languages
 
 ---
 
